@@ -6,80 +6,77 @@ import { PageHero } from "@/components/ui/page-hero";
 import { siteConfig } from "@/lib/site-content";
 
 export const metadata: Metadata = {
-  title: "Industries",
+  title: "AI Demos",
   description:
-    "Industry examples for clinics, dentists, med spas, salons, consultants, and home service businesses using AI-assisted booking flows.",
+    "Explore AI demos for med spas, dentists, clinics, salons, consultants, and home service businesses.",
 };
 
 export default function IndustriesPage() {
   return (
     <>
       <PageHero
-        description="Northline fits best where inquiries come in regularly, response speed matters, and the business depends on booked appointments."
-        eyebrow="Industries"
+        description="Preview how AI assistants can answer inquiries, capture lead details, and guide booking flows for different appointment-based businesses."
+        eyebrow="AI Demos"
         highlights={[
-          "Relevant wherever faster response improves conversion",
-          "Useful when qualification matters before booking",
-          "Easy to tailor around one niche later",
+          "Booking-focused demos for service businesses",
+          "Built around real inquiry and scheduling situations",
+          "Easy to tailor to one niche or offer later",
         ]}
         primaryAction={{ label: "Book a Demo", href: "/contact" }}
-        secondaryAction={{ label: "Review services", href: "/solutions" }}
-        title="Built for service businesses where faster response wins more bookings"
+        secondaryAction={{ label: "View solutions", href: "/solutions" }}
+        title="AI demos for real booking situations"
       />
 
       <section className="section">
-        <div className="container industry-detail-grid">
-          {siteConfig.industries.map((industry, index) => (
-            <Reveal className="industry-detail-card card" delay={index * 0.05} key={industry.name}>
-              <div className="industry-card-header">
-                <h2>{industry.name}</h2>
-                <span className="industry-outcome">{industry.outcome}</span>
-              </div>
-              <p>{industry.summary}</p>
-              <div className="detail-stack">
-                <div>
-                  <span className="detail-label">Why it fits</span>
-                  <p>{industry.assistantFit}</p>
-                </div>
-                <div>
-                  <span className="detail-label">Typical friction</span>
-                  <p>{industry.painPoint}</p>
-                </div>
-                <div>
-                  <span className="detail-label">Common conversation themes</span>
-                  <div className="mini-pill-row">
-                    {industry.examples.map((example) => (
-                      <span className="mini-pill" key={example}>
-                        {example}
-                      </span>
-                    ))}
+        <div className="container">
+          <div className="demo-grid demo-grid-page">
+            {siteConfig.aiDemos.map((demo, index) => (
+              <Reveal className="demo-card card" delay={index * 0.05} key={demo.title}>
+                <div className="demo-card-top">
+                  <div>
+                    <h2>{demo.title}</h2>
+                    <p className="demo-audience">{demo.audience}</p>
                   </div>
+                  <span className="demo-badge">AI Demo</span>
                 </div>
-              </div>
-            </Reveal>
-          ))}
+                <p>{demo.summary}</p>
+                <div className="demo-chip-list">
+                  {demo.handles.map((item) => (
+                    <span className="mini-pill" key={item}>
+                      {item}
+                    </span>
+                  ))}
+                </div>
+                <strong className="demo-outcome">{demo.outcome}</strong>
+                <Link className="button button-primary demo-card-cta" href="/contact">
+                  Book a Demo
+                </Link>
+              </Reveal>
+            ))}
+          </div>
         </div>
       </section>
 
       <section className="section section-dark">
         <div className="container dual-column">
           <Reveal className="card">
-            <p className="panel-label">Not limited to this list</p>
-            <h2>Any business that depends on timely inquiries can adapt this structure.</h2>
+            <p className="panel-label">How to use this page</p>
+            <h2>Pick the demo closest to your business model.</h2>
             <p>
-              The messaging is centralized, so the site can be tightened around one niche without
-              rebuilding the architecture.
+              Once you know the niche or booking flow you want to lead with, the site and demos can
+              be tightened around that exact audience quickly.
             </p>
           </Reveal>
+
           <Reveal className="card" delay={0.1}>
             <p className="panel-label">Next step</p>
-            <h2>Start broad, then narrow the offer.</h2>
+            <h2>Book a demo and tailor it to your business.</h2>
             <p>
-              Once you decide which industry you want to target first, the message can be tightened
-              around that specific booking problem quickly.
+              We can adapt the messaging, qualifying questions, and booking actions around the way
+              your business actually handles inquiries.
             </p>
             <Link className="button button-secondary inverted" href="/contact">
-              Start tailoring the demo
+              Book a Demo
             </Link>
           </Reveal>
         </div>

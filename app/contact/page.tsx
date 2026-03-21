@@ -15,7 +15,7 @@ export default function ContactPage() {
   return (
     <>
       <PageHero
-        description="Tell us about your current inquiry flow, response speed, and booking process. This local version keeps the form demo-friendly while showing the type of intake experience the business could use."
+        description="Tell us about your inquiry flow, response speed, and booking process. Northline is starting in Greece and focused on appointment-based businesses that want more inquiries turning into appointments."
         eyebrow="Contact"
         highlights={siteConfig.contactExpectations}
         primaryAction={{ label: "Start Your Demo Request", href: "#demo-form" }}

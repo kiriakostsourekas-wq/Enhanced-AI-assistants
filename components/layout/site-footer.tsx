@@ -15,9 +15,9 @@ export function SiteFooter() {
             </span>
           </Link>
           <p className="footer-copy">
-            Northline builds AI assistants, lead capture systems, booking flows, and modern
-            websites for appointment-based businesses that want more inquiries turning into booked
-            appointments.
+            {siteConfig.founder.title} {siteConfig.founder.name}. Starting in Greece with AI
+            assistants, lead capture systems, booking flows, and modern websites for
+            appointment-based businesses.
           </p>
         </div>
 

@@ -12,12 +12,12 @@ export default function HomePage() {
         <div className="container hero-commercial-grid">
           <Reveal className="hero-commercial-copy">
             <span className="hero-kicker">{siteConfig.hero.kicker}</span>
-            <span className="eyebrow">Lead capture + booking systems</span>
+            <span className="eyebrow">AI booking systems for service businesses</span>
             <h1>{siteConfig.hero.headline}</h1>
             <p className="hero-description">{siteConfig.hero.description}</p>
 
             <div className="hero-actions">
-              <Link className="button button-primary" href={siteConfig.primaryCta.href}>
+              <Link className="button button-primary button-strong" href={siteConfig.primaryCta.href}>
                 {siteConfig.primaryCta.label}
               </Link>
               <Link className="button button-secondary" href={siteConfig.secondaryCta.href}>
@@ -25,14 +25,11 @@ export default function HomePage() {
               </Link>
             </div>
 
-            <p className="hero-audience-line">{siteConfig.hero.audienceLine}</p>
-
-            <div className="hero-mini-proof">
-              {siteConfig.services.slice(0, 4).map((service) => (
-                <div className="hero-mini-proof-item" key={service.title}>
-                  <strong>{service.eyebrow}</strong>
-                  <span>{service.title}</span>
-                </div>
+            <div className="hero-scan-points">
+              {siteConfig.hero.scanPoints.map((point) => (
+                <span className="hero-scan-chip" key={point}>
+                  {point}
+                </span>
               ))}
             </div>
           </Reveal>
@@ -48,8 +45,8 @@ export default function HomePage() {
           <Reveal>
             <SectionIntro
               eyebrow="The problem"
-              title="Where appointment-based businesses lose bookings"
-              description="The issue usually is not a lack of inquiries. It is what happens after the inquiry arrives."
+              title="Where your business loses bookings"
+              description="Most lost bookings happen after the inquiry arrives."
             />
           </Reveal>
           <div className="pain-grid">
@@ -61,6 +58,11 @@ export default function HomePage() {
               </Reveal>
             ))}
           </div>
+          <Reveal className="section-actions left-aligned" delay={0.1}>
+            <Link className="button button-primary" href="/contact">
+              Book a Demo
+            </Link>
+          </Reveal>
         </div>
       </section>
 
@@ -69,8 +71,8 @@ export default function HomePage() {
           <Reveal>
             <SectionIntro
               eyebrow="The solution"
-              title="A clearer path from inquiry to appointment"
-              description="Northline helps businesses respond faster, qualify better, and guide more inquiries toward a booked next step."
+              title="A better path from inquiry to appointment"
+              description="Respond faster, qualify better, and guide more leads into the calendar."
             />
           </Reveal>
           <div className="solution-grid">
@@ -82,6 +84,11 @@ export default function HomePage() {
               </Reveal>
             ))}
           </div>
+          <Reveal className="section-actions left-aligned" delay={0.1}>
+            <Link className="button button-primary" href="/contact">
+              Book a Demo
+            </Link>
+          </Reveal>
         </div>
       </section>
 
@@ -91,8 +98,8 @@ export default function HomePage() {
             <SectionIntro
               align="center"
               eyebrow="How it works"
-              title="Simple enough for the client. Useful enough for the business."
-              description="The system is built to move from first response to booking without adding more manual work."
+              title="Fast for the client. Useful for the business."
+              description="The flow is simple: answer, qualify, and move the lead toward booking."
             />
           </Reveal>
           <div className="process-grid process-commercial-grid">
@@ -104,6 +111,11 @@ export default function HomePage() {
               </Reveal>
             ))}
           </div>
+          <Reveal className="section-actions" delay={0.1}>
+            <Link className="button button-primary" href="/contact">
+              Book a Demo
+            </Link>
+          </Reveal>
         </div>
       </section>
 
@@ -111,30 +123,41 @@ export default function HomePage() {
         <div className="container">
           <Reveal>
             <SectionIntro
-              eyebrow="Industries"
-              title="Built for appointment-driven service businesses"
-              description="Northline is especially relevant where fast answers and clear next steps directly affect booked revenue."
+              eyebrow="AI demos"
+              title="See demos for real service businesses"
+              description="Preview how the assistant can handle common booking and lead-capture situations."
             />
           </Reveal>
-          <div className="industry-grid industry-commercial-grid">
-            {siteConfig.industries.map((industry, index) => (
-              <Reveal className="industry-card card" delay={index * 0.05} key={industry.name}>
-                <div className="industry-card-top">
-                  <h3>{industry.name}</h3>
-                  <span className="industry-fit">{industry.assistantFit}</span>
+          <div className="demo-grid">
+            {siteConfig.aiDemos.map((demo, index) => (
+              <Reveal className="demo-card card" delay={index * 0.05} key={demo.title}>
+                <div className="demo-card-top">
+                  <div>
+                    <h3>{demo.title}</h3>
+                    <p className="demo-audience">{demo.audience}</p>
+                  </div>
+                  <span className="demo-badge">AI Demo</span>
                 </div>
-                <p>{industry.summary}</p>
-                <div className="mini-pill-row">
-                  {industry.examples.map((example) => (
-                    <span className="mini-pill" key={example}>
-                      {example}
+                <p>{demo.summary}</p>
+                <div className="demo-chip-list">
+                  {demo.handles.map((item) => (
+                    <span className="mini-pill" key={item}>
+                      {item}
                     </span>
                   ))}
                 </div>
-                <span className="industry-outcome">{industry.outcome}</span>
+                <strong className="demo-outcome">{demo.outcome}</strong>
+                <Link className="button button-secondary demo-card-cta" href="/contact">
+                  Book a Demo
+                </Link>
               </Reveal>
             ))}
           </div>
+          <Reveal className="section-actions left-aligned" delay={0.1}>
+            <Link className="button button-primary" href="/industries">
+              View All AI Demos
+            </Link>
+          </Reveal>
         </div>
       </section>
 
@@ -143,8 +166,8 @@ export default function HomePage() {
           <Reveal>
             <SectionIntro
               eyebrow="Benefits"
-              title="What this should improve"
-              description="The value is practical: quicker response, more appointments, less admin, and a smoother client experience."
+              title="What this improves"
+              description="Less delay. Less admin. More booked appointments."
             />
           </Reveal>
           <div className="benefit-grid">
@@ -155,6 +178,11 @@ export default function HomePage() {
               </Reveal>
             ))}
           </div>
+          <Reveal className="section-actions left-aligned" delay={0.1}>
+            <Link className="button button-primary" href="/contact">
+              Book a Demo
+            </Link>
+          </Reveal>
         </div>
       </section>
 
@@ -163,8 +191,8 @@ export default function HomePage() {
           <Reveal>
             <SectionIntro
               eyebrow="Trust and credibility"
-              title="Commercially grounded. Built to execute."
-              description="Northline is positioned around the operational side of growth: better first response, better lead capture, and a cleaner path into booked appointments."
+              title="Execution-focused and commercially grounded"
+              description="Built to help service businesses respond faster and convert more of the inquiries they already have."
             />
           </Reveal>
 
@@ -189,6 +217,12 @@ export default function HomePage() {
               </Reveal>
             ))}
           </div>
+
+          <Reveal className="section-actions left-aligned" delay={0.1}>
+            <Link className="button button-primary" href="/contact">
+              Book a Demo
+            </Link>
+          </Reveal>
         </div>
       </section>
 
@@ -197,10 +231,10 @@ export default function HomePage() {
           <Reveal className="cta-banner card">
             <div>
               <span className="eyebrow">Ready to improve your booking flow?</span>
-              <h2>Book a demo and see how the system could fit your business.</h2>
+              <h2>Book a demo and see how this could fit your business.</h2>
               <p>
-                We will look at your current inquiry flow, where leads are being lost, and how a
-                better website and booking system could help.
+                We will review where leads are being lost and how a better website and booking
+                system can help.
               </p>
             </div>
             <div className="cta-actions">
