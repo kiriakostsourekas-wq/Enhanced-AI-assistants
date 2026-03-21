@@ -23,6 +23,14 @@ export type Benefit = {
   copy: string;
 };
 
+export type AiDemo = {
+  title: string;
+  audience: string;
+  summary: string;
+  handles: string[];
+  outcome: string;
+};
+
 export type Service = {
   eyebrow: string;
   title: string;
@@ -98,7 +106,7 @@ export const siteConfig = {
     { href: "/", label: "Home" },
     { href: "/solutions", label: "Solutions" },
     { href: "/how-it-works", label: "How It Works" },
-    { href: "/industries", label: "Industries" },
+    { href: "/industries", label: "AI Demos" },
     { href: "/contact", label: "Book Demo" },
   ] satisfies NavItem[],
   trustStrip: [
@@ -191,6 +199,50 @@ export const siteConfig = {
       ],
     },
   ] satisfies Service[],
+  aiDemos: [
+    {
+      title: "Med Spa Demo",
+      audience: "For consultation-driven aesthetic clinics",
+      summary: "Show how the assistant handles treatment questions and moves leads into consult requests.",
+      handles: ["Laser consults", "Injectables questions", "Pricing and downtime"],
+      outcome: "More consultation requests booked with less front-desk follow-up",
+    },
+    {
+      title: "Dental Demo",
+      audience: "For cosmetic and new-patient demand",
+      summary: "Show how inquiries get answered quickly and routed toward booked consultations.",
+      handles: ["Whitening", "Implants", "Emergency requests"],
+      outcome: "Cleaner intake and more booked treatment consultations",
+    },
+    {
+      title: "Clinic Demo",
+      audience: "For appointment-heavy clinics",
+      summary: "Show how patient questions are answered while the lead is guided toward the right next step.",
+      handles: ["Private consults", "Insurance questions", "Availability follow-up"],
+      outcome: "More inquiries converted into scheduled appointments",
+    },
+    {
+      title: "Salon Demo",
+      audience: "For mobile-first beauty businesses",
+      summary: "Show how the website captures service interest and reduces manual booking messages.",
+      handles: ["Color correction", "Bridal trials", "Packages"],
+      outcome: "More appointments booked with less manual messaging",
+    },
+    {
+      title: "Consultant Demo",
+      audience: "For discovery-call businesses",
+      summary: "Show how prospects are pre-qualified before they land on the calendar.",
+      handles: ["Discovery calls", "Budget questions", "Project fit"],
+      outcome: "Better discovery calls and less wasted calendar time",
+    },
+    {
+      title: "Home Services Demo",
+      audience: "For businesses where speed wins the job",
+      summary: "Show how urgent inquiries are captured, qualified, and pushed toward estimates or dispatch.",
+      handles: ["HVAC repair", "Electrical callouts", "Same-day estimates"],
+      outcome: "More estimates booked and fewer urgent leads lost",
+    },
+  ] satisfies AiDemo[],
   processSteps: [
     {
       number: "01",
