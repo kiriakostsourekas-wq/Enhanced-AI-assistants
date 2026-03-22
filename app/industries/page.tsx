@@ -22,7 +22,7 @@ export default function IndustriesPage() {
           "Built around real inquiry and scheduling situations",
           "Easy to tailor to one niche or offer later",
         ]}
-        primaryAction={{ label: "Book a Demo", href: "/contact" }}
+        primaryAction={{ label: siteConfig.primaryCta.label, href: siteConfig.primaryCta.href }}
         secondaryAction={{ label: "View solutions", href: "/solutions" }}
         title="AI demos for real booking situations"
       />
@@ -48,7 +48,7 @@ export default function IndustriesPage() {
                   ))}
                 </div>
                 <strong className="demo-outcome">{demo.outcome}</strong>
-                <Link className="button button-primary demo-card-cta" href="/contact">
+                <Link className="button button-primary demo-card-cta" href={siteConfig.primaryCta.href}>
                   Book a Demo
                 </Link>
               </Reveal>
@@ -58,24 +58,24 @@ export default function IndustriesPage() {
       </section>
 
       <section className="section section-dark">
-        <div className="container dual-column">
-          <Reveal className="card">
+        <div className="container ai-demos-bottom-grid">
+          <Reveal className="card ai-demos-note-card">
             <p className="panel-label">How to use this page</p>
-            <h2>Pick the demo closest to your business model.</h2>
+            <h2>Choose the demo that matches how your business books.</h2>
             <p>
-              Once you know the niche or booking flow you want to lead with, the site and demos can
-              be tightened around that exact audience quickly.
+              Start with the niche that is closest to your inquiries, then tighten the messaging,
+              qualification questions, and booking flow around that exact audience.
             </p>
           </Reveal>
 
-          <Reveal className="card" delay={0.1}>
+          <Reveal className="card ai-demos-cta-card" delay={0.1}>
             <p className="panel-label">Next step</p>
-            <h2>Book a demo and tailor it to your business.</h2>
+            <h2>Book a demo built around your business.</h2>
             <p>
-              We can adapt the messaging, qualifying questions, and booking actions around the way
-              your business actually handles inquiries.
+              We tailor the assistant around your offer, your lead flow, and the way your team
+              actually handles appointments.
             </p>
-            <Link className="button button-secondary inverted" href="/contact">
+            <Link className="button button-primary" href={siteConfig.primaryCta.href}>
               Book a Demo
             </Link>
           </Reveal>

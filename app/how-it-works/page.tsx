@@ -36,7 +36,7 @@ export default function HowItWorksPage() {
         description="Northline is designed to help businesses respond faster, capture better information, and guide more inquiries toward booked appointments."
         eyebrow="Workflow"
         highlights={siteConfig.processSteps.map((step) => step.title)}
-        primaryAction={{ label: "Book a Demo", href: "/contact" }}
+        primaryAction={{ label: siteConfig.primaryCta.label, href: siteConfig.primaryCta.href }}
         secondaryAction={{ label: "View solutions", href: "/solutions" }}
         title="A simple process from inquiry to booking"
       />
@@ -89,7 +89,7 @@ export default function HowItWorksPage() {
               <span className="eyebrow">Short version</span>
               <h2>More inquiries answered. More leads qualified. More appointments booked.</h2>
             </div>
-            <Link className="button button-primary" href="/contact">
+            <Link className="button button-primary" href={siteConfig.primaryCta.href}>
               Book a demo
             </Link>
           </Reveal>

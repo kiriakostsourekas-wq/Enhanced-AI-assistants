@@ -15,11 +15,11 @@ export default function ContactPage() {
   return (
     <>
       <PageHero
-        description="Tell us about your inquiry flow, response speed, and booking process. Northline is starting in Greece and focused on appointment-based businesses that want more inquiries turning into appointments."
+        description="Book directly on the calendar or send a short inquiry through the form below. Northline is starting in Greece and focused on appointment-based businesses that want more inquiries turning into appointments."
         eyebrow="Contact"
         highlights={siteConfig.contactExpectations}
-        primaryAction={{ label: "Start Your Demo Request", href: "#demo-form" }}
-        secondaryAction={{ label: "Back to homepage", href: "/" }}
+        primaryAction={{ label: "Book Instantly on Calendly", href: siteConfig.primaryCta.href }}
+        secondaryAction={{ label: "Use inquiry form", href: "#demo-form" }}
         title="Book a demo and review where more appointments could be won"
       />
 

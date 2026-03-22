@@ -69,6 +69,19 @@ export type FaqItem = {
   answer: string;
 };
 
+const DEFAULT_DEMO_PATH = "/contact";
+const PLACEHOLDER_DEMO_URL = "[YOUR DEMO PAGE OR CALENDAR LINK]";
+
+function getPublicDemoUrl() {
+  const trimmed = process.env.NEXT_PUBLIC_DEMO_URL?.trim();
+
+  if (!trimmed || trimmed === PLACEHOLDER_DEMO_URL) {
+    return DEFAULT_DEMO_PATH;
+  }
+
+  return trimmed;
+}
+
 export const siteConfig = {
   brandName: "Northline AI",
   shortName: "Northline",
@@ -82,7 +95,7 @@ export const siteConfig = {
   } satisfies Founder,
   primaryCta: {
     label: "Book a Demo",
-    href: "/contact",
+    href: getPublicDemoUrl(),
   },
   secondaryCta: {
     label: "See How It Works",

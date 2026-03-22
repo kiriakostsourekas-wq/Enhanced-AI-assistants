@@ -108,8 +108,8 @@ export default function SolutionsPage() {
             ))}
           </div>
           <Reveal className="section-actions" delay={0.1}>
-            <Link className="button button-primary" href="/contact">
-              Start with a demo request
+            <Link className="button button-primary" href={siteConfig.primaryCta.href}>
+              Book a Demo
             </Link>
           </Reveal>
         </div>

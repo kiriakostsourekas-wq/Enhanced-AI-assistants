@@ -59,7 +59,7 @@ export default function HomePage() {
             ))}
           </div>
           <Reveal className="section-actions left-aligned" delay={0.1}>
-            <Link className="button button-primary" href="/contact">
+            <Link className="button button-primary" href={siteConfig.primaryCta.href}>
               Book a Demo
             </Link>
           </Reveal>
@@ -85,7 +85,7 @@ export default function HomePage() {
             ))}
           </div>
           <Reveal className="section-actions left-aligned" delay={0.1}>
-            <Link className="button button-primary" href="/contact">
+            <Link className="button button-primary" href={siteConfig.primaryCta.href}>
               Book a Demo
             </Link>
           </Reveal>
@@ -112,7 +112,7 @@ export default function HomePage() {
             ))}
           </div>
           <Reveal className="section-actions" delay={0.1}>
-            <Link className="button button-primary" href="/contact">
+            <Link className="button button-primary" href={siteConfig.primaryCta.href}>
               Book a Demo
             </Link>
           </Reveal>
@@ -147,7 +147,7 @@ export default function HomePage() {
                   ))}
                 </div>
                 <strong className="demo-outcome">{demo.outcome}</strong>
-                <Link className="button button-secondary demo-card-cta" href="/contact">
+                <Link className="button button-primary demo-card-cta" href={siteConfig.primaryCta.href}>
                   Book a Demo
                 </Link>
               </Reveal>
@@ -179,7 +179,7 @@ export default function HomePage() {
             ))}
           </div>
           <Reveal className="section-actions left-aligned" delay={0.1}>
-            <Link className="button button-primary" href="/contact">
+            <Link className="button button-primary" href={siteConfig.primaryCta.href}>
               Book a Demo
             </Link>
           </Reveal>
@@ -219,7 +219,7 @@ export default function HomePage() {
           </div>
 
           <Reveal className="section-actions left-aligned" delay={0.1}>
-            <Link className="button button-primary" href="/contact">
+            <Link className="button button-primary" href={siteConfig.primaryCta.href}>
               Book a Demo
             </Link>
           </Reveal>
@@ -238,7 +238,7 @@ export default function HomePage() {
               </p>
             </div>
             <div className="cta-actions">
-              <Link className="button button-primary" href="/contact">
+              <Link className="button button-primary" href={siteConfig.primaryCta.href}>
                 Book a Demo
               </Link>
               <Link className="button button-secondary inverted" href="/solutions">

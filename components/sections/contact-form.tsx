@@ -2,6 +2,8 @@
 
 import { FormEvent, useEffect, useState } from "react";
 
+import { siteConfig } from "@/lib/site-content";
+
 type DemoSubmission = {
   id: number;
   name: string;
@@ -194,17 +196,33 @@ export function ContactForm() {
         </div>
 
         <div className="form-actions">
-          <button className="button button-primary" disabled={isSubmitting} type="submit">
+          <a className="button button-primary" href={siteConfig.primaryCta.href}>
+            Book Instantly on Calendly
+          </a>
+          <button className="button button-secondary" disabled={isSubmitting} type="submit">
             {isSubmitting ? "Saving demo request..." : "Submit Demo Request"}
           </button>
           <p className="form-note">
-            For this local build, submissions are stored in your browser so the form works without a
-            backend.
+            The calendar button opens live booking. The form below is a separate local inquiry flow
+            stored in your browser for demo purposes.
           </p>
         </div>
       </form>
 
       <div className="contact-sidebar">
+        <div className="card submission-card">
+          <p className="panel-label">Instant booking</p>
+          <h3>Prefer to schedule right away?</h3>
+          <p>Use the live calendar to choose a time immediately.</p>
+          <div className="submission-meta">
+            <span>30-minute call</span>
+            <span>Calendly</span>
+          </div>
+          <a className="button button-primary" href={siteConfig.primaryCta.href}>
+            Open Calendar
+          </a>
+        </div>
+
         <div className="card submission-card">
           <p className="panel-label">Latest saved request</p>
           {latestSubmission ? (
