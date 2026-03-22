@@ -98,8 +98,8 @@ export const siteConfig = {
     href: getPublicDemoUrl(),
   },
   secondaryCta: {
-    label: "See How It Works",
-    href: "/how-it-works",
+    label: "View Demos",
+    href: "/industries",
   },
   hero: {
     kicker: "Faster replies. More bookings.",
@@ -107,8 +107,48 @@ export const siteConfig = {
     description:
       "AI assistants, lead capture, booking flows, and modern websites for appointment-based businesses that want faster response and more booked appointments.",
     audienceLine:
-      "Starting in Greece for med spas, dentists, clinics, salons, consultants, and home service businesses.",
+      "Built for med spas, dentists, clinics, salons, consultants, and home service businesses.",
     scanPoints: ["Faster response", "Less follow-up", "More booked appointments"],
+  },
+  homepage: {
+    problem: {
+      eyebrow: "Where bookings are lost",
+      title: "Most missed bookings happen after the inquiry.",
+      description:
+        "The issue is usually not demand. It is delay, back-and-forth, and no clear next step once someone reaches out.",
+    },
+    solution: {
+      eyebrow: "How Northline helps",
+      title: "One system for response, qualification, and booking.",
+      description:
+        "Northline combines AI assistance, lead capture, and booking flow design so visitors get answers quickly and your team gets cleaner handoffs.",
+    },
+    demos: {
+      eyebrow: "Demo examples",
+      title: "See how it works in real service-business scenarios.",
+      description:
+        "Different industries ask different questions, but the goal is the same: move the right inquiry to the right next step faster.",
+      featuredTitles: ["Med Spa Demo", "Dental Demo", "Home Services Demo"],
+    },
+    proof: {
+      eyebrow: "Why Northline",
+      title: "Designed to improve the booking journey, not just add another tool.",
+      description:
+        "The site, assistant, and booking flow are designed together so the experience feels more useful to the visitor and more workable for the business.",
+      resultsTitle: "What improves",
+      resultsDescription:
+        "More qualified conversations. Less manual follow-up. A clearer path to the calendar.",
+    },
+    finalCta: {
+      eyebrow: "Ready to see the fit?",
+      title: "Book a demo and review your current booking flow.",
+      description:
+        "We will look at where inquiries stall, where bookings are being lost, and what a stronger front-end system could change.",
+    },
+  },
+  footer: {
+    description:
+      "Northline builds AI assistants, lead capture systems, booking flows, and modern websites for appointment-based businesses. Based in Greece.",
   },
   contact: {
     email: "kiriakos.tsourekas@gmail.com",

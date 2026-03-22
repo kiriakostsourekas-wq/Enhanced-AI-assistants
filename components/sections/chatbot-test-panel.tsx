@@ -1,9 +1,9 @@
 "use client";
 
 import type { FormEvent } from "react";
-import { useMemo, useState } from "react";
+import { useMemo } from "react";
 
-import type { ChatApiResponse, ChatMessage } from "@/lib/chatbot/types";
+import { useChatbotSession } from "@/components/chat/use-chatbot-session";
 
 const STARTER_PROMPTS = [
   "What exactly do you help with?",
@@ -12,89 +12,26 @@ const STARTER_PROMPTS = [
   "What happens after I book a demo?",
 ];
 
-const INITIAL_ASSISTANT_MESSAGE: ChatMessage = {
-  role: "assistant",
-  content:
-    "Ask about the offer, who it fits, or how the booking flow works. This panel calls the real local backend route.",
-};
+const INITIAL_ASSISTANT_MESSAGE =
+  "Hi, I'm Lena. I can answer questions about how we help businesses convert more leads into booked appointments.";
 
 export function ChatbotTestPanel() {
-  const [input, setInput] = useState("");
-  const [isSubmitting, setIsSubmitting] = useState(false);
-  const [error, setError] = useState<string | null>(null);
-  const [ctaHref, setCtaHref] = useState("/contact");
-  const [messages, setMessages] = useState<ChatMessage[]>([INITIAL_ASSISTANT_MESSAGE]);
+  const { ctaHref, displayMessages, error, input, isSubmitting, messages, sendMessage, setInput } =
+    useChatbotSession({
+      initialAssistantMessage: INITIAL_ASSISTANT_MESSAGE,
+    });
 
-  const conversationHistory = useMemo(
-    () => messages.filter((item) => item !== INITIAL_ASSISTANT_MESSAGE).slice(-8),
-    [messages],
-  );
-
-  async function submitMessage(nextMessage: string) {
-    const trimmed = nextMessage.trim();
-
-    if (!trimmed || isSubmitting) {
-      return;
-    }
-
-    const userMessage: ChatMessage = {
-      role: "user",
-      content: trimmed,
-    };
-
-    const nextHistory = [...conversationHistory, userMessage];
-
-    setIsSubmitting(true);
-    setError(null);
-    setInput("");
-    setMessages((current) => [...current, userMessage]);
-
-    try {
-      const response = await fetch("/api/chat", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          message: trimmed,
-          history: conversationHistory,
-        }),
-      });
-
-      const payload = (await response.json().catch(() => null)) as ChatApiResponse | null;
-
-      if (!response.ok || !payload || !payload.ok) {
-        throw new Error(payload?.ok === false ? payload.error.message : "Chat request failed.");
-      }
-
-      setCtaHref(payload.cta.href);
-      setMessages([...nextHistory, { role: "assistant", content: payload.reply }]);
-    } catch (submissionError) {
-      setMessages((current) =>
-        current.filter(
-          (item) => !(item.role === userMessage.role && item.content === userMessage.content),
-        ),
-      );
-      setInput(trimmed);
-      setError(
-        submissionError instanceof Error
-          ? submissionError.message
-          : "Something went wrong while contacting the chatbot backend.",
-      );
-    } finally {
-      setIsSubmitting(false);
-    }
-  }
+  const showStarterPrompts = useMemo(() => messages.length === 0, [messages.length]);
 
   function handleSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
-    void submitMessage(input);
+    void sendMessage(input);
   }
 
   return (
     <div className="chatbot-test-panel-inner">
       <div className="chatbot-thread" aria-live="polite">
-        {messages.map((message, index) => (
+        {displayMessages.map((message, index) => (
           <div
             key={`${message.role}-${index}`}
             className={`chatbot-bubble chatbot-bubble-${message.role}`}
@@ -107,18 +44,20 @@ export function ChatbotTestPanel() {
         ))}
       </div>
 
-      <div className="chatbot-quick-prompts">
-        {STARTER_PROMPTS.map((prompt) => (
-          <button
-            key={prompt}
-            className="chatbot-quick-button"
-            type="button"
-            onClick={() => setInput(prompt)}
-          >
-            {prompt}
-          </button>
-        ))}
-      </div>
+      {showStarterPrompts ? (
+        <div className="chatbot-quick-prompts">
+          {STARTER_PROMPTS.map((prompt) => (
+            <button
+              key={prompt}
+              className="chatbot-quick-button"
+              type="button"
+              onClick={() => setInput(prompt)}
+            >
+              {prompt}
+            </button>
+          ))}
+        </div>
+      ) : null}
 
       <form className="chatbot-composer" onSubmit={handleSubmit}>
         <label className="form-field">
@@ -137,7 +76,7 @@ export function ChatbotTestPanel() {
 
         <div className="chatbot-actions">
           <button className="button button-primary" disabled={isSubmitting} type="submit">
-            {isSubmitting ? "Sending..." : "Send message"}
+            {isSubmitting ? "Sending..." : "Send Message"}
           </button>
           <a className="button button-secondary" href={ctaHref}>
             Book a Demo

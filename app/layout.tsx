@@ -3,6 +3,7 @@ import type { ReactNode } from "react";
 
 import { SiteFooter } from "@/components/layout/site-footer";
 import { SiteHeader } from "@/components/layout/site-header";
+import { SiteChatWidget } from "@/components/layout/site-chat-widget";
 import { siteConfig } from "@/lib/site-content";
 
 import "./globals.css";
@@ -31,6 +32,7 @@ export default function RootLayout({
           <SiteHeader />
           <main className="page-shell">{children}</main>
           <SiteFooter />
+          <SiteChatWidget />
         </div>
       </body>
     </html>

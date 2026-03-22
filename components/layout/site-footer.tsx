@@ -14,11 +14,7 @@ export function SiteFooter() {
               <small>{siteConfig.brandStatement}</small>
             </span>
           </Link>
-          <p className="footer-copy">
-            {siteConfig.founder.title} {siteConfig.founder.name}. Starting in Greece with AI
-            assistants, lead capture systems, booking flows, and modern websites for
-            appointment-based businesses.
-          </p>
+          <p className="footer-copy">{siteConfig.footer.description}</p>
         </div>
 
         <div>

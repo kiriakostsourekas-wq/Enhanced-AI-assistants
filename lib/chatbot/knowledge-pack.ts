@@ -1,23 +1,38 @@
 import { readFile } from "node:fs/promises";
-import path from "node:path";
+import { fileURLToPath } from "node:url";
 
-let knowledgePackPromise: Promise<string> | null = null;
+const ROOT_MARKDOWN_PATHS = {
+  "knowledge-pack.md": fileURLToPath(new URL("../../knowledge-pack.md", import.meta.url)),
+  "system_prompt.md": fileURLToPath(new URL("../../system_prompt.md", import.meta.url)),
+} as const;
 
-async function readKnowledgePackFile() {
-  const filePath = path.join(process.cwd(), "knowledge-pack.md");
+type RootMarkdownFileName = keyof typeof ROOT_MARKDOWN_PATHS;
+
+const rootFileCache = new Map<string, Promise<string>>();
+
+async function readRootMarkdownFile(fileName: RootMarkdownFileName) {
+  const filePath = ROOT_MARKDOWN_PATHS[fileName];
   const contents = await readFile(filePath, "utf8");
 
   if (!contents.trim()) {
-    throw new Error("knowledge-pack.md is empty.");
+    throw new Error(`${fileName} is empty.`);
   }
 
   return contents;
 }
 
-export function loadKnowledgePack() {
-  if (!knowledgePackPromise) {
-    knowledgePackPromise = readKnowledgePackFile();
+function loadRootMarkdownFile(fileName: RootMarkdownFileName) {
+  if (!rootFileCache.has(fileName)) {
+    rootFileCache.set(fileName, readRootMarkdownFile(fileName));
   }
 
-  return knowledgePackPromise;
+  return rootFileCache.get(fileName)!;
+}
+
+export function loadKnowledgePack() {
+  return loadRootMarkdownFile("knowledge-pack.md");
+}
+
+export function loadSystemPromptFile() {
+  return loadRootMarkdownFile("system_prompt.md");
 }

@@ -1,5 +1,5 @@
 import { getChatbotConfig } from "@/lib/chatbot/config";
-import { loadKnowledgePack } from "@/lib/chatbot/knowledge-pack";
+import { loadKnowledgePack, loadSystemPromptFile } from "@/lib/chatbot/knowledge-pack";
 import { buildSystemPrompt } from "@/lib/chatbot/prompt";
 import { generateOpenAIReply } from "@/lib/chatbot/providers/openai";
 import type { ChatMessage, DemoCta } from "@/lib/chatbot/types";
@@ -26,8 +26,14 @@ export async function generateWebsiteAssistantReply({
     throw new ChatbotConfigError("OPENAI_API_KEY is not configured.");
   }
 
-  const knowledgePack = await loadKnowledgePack();
+  const [knowledgePack, baseSystemPrompt] = await Promise.all([
+    loadKnowledgePack(),
+    loadSystemPromptFile(),
+  ]);
+
   const systemPrompt = buildSystemPrompt({
+    assistantName: "Lena",
+    baseSystemPrompt,
     brandName: config.brandName,
     demoUrl: config.demoUrl,
     knowledgePack,
