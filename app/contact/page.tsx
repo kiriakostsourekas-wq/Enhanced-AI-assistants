@@ -3,7 +3,8 @@ import type { Metadata } from "next";
 import { ContactForm } from "@/components/sections/contact-form";
 import { Reveal } from "@/components/ui/reveal";
 import { PageHero } from "@/components/ui/page-hero";
-import { siteConfig } from "@/lib/site-content";
+import { getRequestLocale } from "@/lib/i18n-server";
+import { getSiteContent } from "@/lib/site-content";
 
 export const metadata: Metadata = {
   title: "Book Demo",
@@ -11,22 +12,26 @@ export const metadata: Metadata = {
     "Book a demo to review your current inquiry flow, booking friction, and how Northline could help turn more leads into appointments.",
 };
 
-export default function ContactPage() {
+export default async function ContactPage() {
+  const locale = await getRequestLocale();
+  const siteContent = getSiteContent(locale);
+
   return (
     <>
       <PageHero
-        description="Book directly on the calendar or send a short inquiry through the form below. Northline is starting in Greece and focused on appointment-based businesses that want more inquiries turning into appointments."
-        eyebrow="Contact"
-        highlights={siteConfig.contactExpectations}
-        primaryAction={{ label: "Book Instantly on Calendly", href: siteConfig.primaryCta.href }}
-        secondaryAction={{ label: "Use inquiry form", href: "#demo-form" }}
-        title="Book a demo and review where more appointments could be won"
+        description={siteContent.contactPage.hero.description}
+        eyebrow={siteContent.contactPage.hero.eyebrow}
+        highlights={siteContent.contactExpectations}
+        panelLabel={siteContent.common.includedInApproachLabel}
+        primaryAction={{ label: siteContent.contactPage.hero.primaryActionLabel, href: siteContent.primaryCta.href }}
+        secondaryAction={{ label: siteContent.contactPage.hero.secondaryActionLabel, href: "#demo-form" }}
+        title={siteContent.contactPage.hero.title}
       />
 
       <section className="section" id="demo-form">
         <div className="container">
           <Reveal>
-            <ContactForm />
+            <ContactForm content={siteContent.contactForm} locale={locale} primaryCtaHref={siteContent.primaryCta.href} />
           </Reveal>
         </div>
       </section>

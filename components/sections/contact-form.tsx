@@ -2,7 +2,8 @@
 
 import { FormEvent, useEffect, useState } from "react";
 
-import { siteConfig } from "@/lib/site-content";
+import type { Locale } from "@/lib/i18n";
+import type { SiteContent } from "@/lib/site-content";
 
 type DemoSubmission = {
   id: number;
@@ -19,20 +20,37 @@ type DemoSubmission = {
 
 type FormState = Omit<DemoSubmission, "id" | "submittedAt">;
 
-const initialForm: FormState = {
-  name: "",
-  business: "",
-  email: "",
-  phone: "",
-  industry: "Clinic",
-  websiteStatus: "Existing website, needs improvement",
-  monthlyLeads: "10-30 leads",
-  notes: "",
-};
-
 const storageKey = "northline-demo-submissions";
 
-export function ContactForm() {
+type ContactFormProps = {
+  content: SiteContent["contactForm"];
+  locale: Locale;
+  primaryCtaHref: string;
+};
+
+function resolveOptionLabel(options: readonly { label: string; value: string }[], value: string) {
+  return options.find((option) => option.value === value)?.label || value;
+}
+
+function fillTemplate(template: string, values: Record<string, string>) {
+  return Object.entries(values).reduce(
+    (result, [key, value]) => result.replaceAll(`{{${key}}}`, value),
+    template,
+  );
+}
+
+export function ContactForm({ content, locale, primaryCtaHref }: ContactFormProps) {
+  const initialForm: FormState = {
+    name: "",
+    business: "",
+    email: "",
+    phone: "",
+    industry: content.selectOptions.industries[0]?.value || "clinic",
+    websiteStatus: content.selectOptions.websiteStatus[0]?.value || "existing-needs-improvement",
+    monthlyLeads: content.selectOptions.monthlyLeads[1]?.value || "10-30",
+    notes: "",
+  };
+
   const [form, setForm] = useState<FormState>(initialForm);
   const [savedSubmissions, setSavedSubmissions] = useState<DemoSubmission[]>([]);
   const [latestSubmission, setLatestSubmission] = useState<DemoSubmission | null>(null);
@@ -62,7 +80,7 @@ export function ContactForm() {
     const submission: DemoSubmission = {
       id: Date.now(),
       ...form,
-      submittedAt: new Intl.DateTimeFormat("en-US", {
+      submittedAt: new Intl.DateTimeFormat(locale === "gr" ? "el-GR" : "en-US", {
         dateStyle: "medium",
         timeStyle: "short",
       }).format(new Date()),
@@ -86,19 +104,19 @@ export function ContactForm() {
       <form className="contact-form card" onSubmit={handleSubmit}>
         <div className="form-heading">
           <div>
-            <p className="panel-label">Request a tailored walkthrough</p>
-            <h3>Book a demo</h3>
+            <p className="panel-label">{content.panel.label}</p>
+            <h3>{content.panel.title}</h3>
           </div>
-          <span className="form-badge">Demo-ready</span>
+          <span className="form-badge">{content.panel.badge}</span>
         </div>
 
         <div className="form-grid">
           <label className="form-field">
-            <span>Name</span>
+            <span>{content.fields.name}</span>
             <input
               className="form-input"
               onChange={(event) => updateField("name", event.target.value)}
-              placeholder="Jordan Smith"
+              placeholder={content.placeholders.name}
               required
               type="text"
               value={form.name}
@@ -106,11 +124,11 @@ export function ContactForm() {
           </label>
 
           <label className="form-field">
-            <span>Business</span>
+            <span>{content.fields.business}</span>
             <input
               className="form-input"
               onChange={(event) => updateField("business", event.target.value)}
-              placeholder="North Peak Dental"
+              placeholder={content.placeholders.business}
               required
               type="text"
               value={form.business}
@@ -118,11 +136,11 @@ export function ContactForm() {
           </label>
 
           <label className="form-field">
-            <span>Email</span>
+            <span>{content.fields.email}</span>
             <input
               className="form-input"
               onChange={(event) => updateField("email", event.target.value)}
-              placeholder="you@business.com"
+              placeholder={content.placeholders.email}
               required
               type="email"
               value={form.email}
@@ -130,65 +148,67 @@ export function ContactForm() {
           </label>
 
           <label className="form-field">
-            <span>Phone</span>
+            <span>{content.fields.phone}</span>
             <input
               className="form-input"
               onChange={(event) => updateField("phone", event.target.value)}
-              placeholder="+1 (555) 000-0000"
+              placeholder={content.placeholders.phone}
               type="tel"
               value={form.phone}
             />
           </label>
 
           <label className="form-field">
-            <span>Industry</span>
+            <span>{content.fields.industry}</span>
             <select
               className="form-input"
               onChange={(event) => updateField("industry", event.target.value)}
               value={form.industry}
             >
-              <option>Clinic</option>
-              <option>Dentist</option>
-              <option>Med Spa</option>
-              <option>Salon</option>
-              <option>Consulting</option>
-              <option>Home Services</option>
+              {content.selectOptions.industries.map((option) => (
+                <option key={option.value} value={option.value}>
+                  {option.label}
+                </option>
+              ))}
             </select>
           </label>
 
           <label className="form-field">
-            <span>Current website status</span>
+            <span>{content.fields.websiteStatus}</span>
             <select
               className="form-input"
               onChange={(event) => updateField("websiteStatus", event.target.value)}
               value={form.websiteStatus}
             >
-              <option>Existing website, needs improvement</option>
-              <option>No real website yet</option>
-              <option>Website is fine, need better lead capture</option>
+              {content.selectOptions.websiteStatus.map((option) => (
+                <option key={option.value} value={option.value}>
+                  {option.label}
+                </option>
+              ))}
             </select>
           </label>
 
           <label className="form-field">
-            <span>Approximate monthly leads</span>
+            <span>{content.fields.monthlyLeads}</span>
             <select
               className="form-input"
               onChange={(event) => updateField("monthlyLeads", event.target.value)}
               value={form.monthlyLeads}
             >
-              <option>0-10 leads</option>
-              <option>10-30 leads</option>
-              <option>30-75 leads</option>
-              <option>75+ leads</option>
+              {content.selectOptions.monthlyLeads.map((option) => (
+                <option key={option.value} value={option.value}>
+                  {option.label}
+                </option>
+              ))}
             </select>
           </label>
 
           <label className="form-field form-field-wide">
-            <span>What would you want the assistant to handle?</span>
+            <span>{content.fields.notes}</span>
             <textarea
               className="form-input form-textarea"
               onChange={(event) => updateField("notes", event.target.value)}
-              placeholder="Example: answer treatment questions, qualify leads, offer appointment times, and alert our front desk."
+              placeholder={content.placeholders.notes}
               rows={5}
               value={form.notes}
             />
@@ -196,69 +216,74 @@ export function ContactForm() {
         </div>
 
         <div className="form-actions">
-          <a className="button button-primary" href={siteConfig.primaryCta.href}>
-            Book Instantly on Calendly
+          <a className="button button-primary" href={primaryCtaHref}>
+            {content.actions.calendarButtonLabel}
           </a>
           <button className="button button-secondary" disabled={isSubmitting} type="submit">
-            {isSubmitting ? "Saving demo request..." : "Submit Demo Request"}
+            {isSubmitting ? content.actions.savingLabel : content.actions.submitLabel}
           </button>
-          <p className="form-note">
-            The calendar button opens live booking. The form below is a separate local inquiry flow
-            stored in your browser for demo purposes.
-          </p>
+          <p className="form-note">{content.actions.note}</p>
         </div>
       </form>
 
       <div className="contact-sidebar">
         <div className="card submission-card">
-          <p className="panel-label">Instant booking</p>
-          <h3>Prefer to schedule right away?</h3>
-          <p>Use the live calendar to choose a time immediately.</p>
+          <p className="panel-label">{content.quickBooking.label}</p>
+          <h3>{content.quickBooking.title}</h3>
+          <p>{content.quickBooking.description}</p>
           <div className="submission-meta">
-            <span>30-minute call</span>
-            <span>Calendly</span>
+            <span>{content.quickBooking.metaDuration}</span>
+            <span>{content.quickBooking.metaProvider}</span>
           </div>
-          <a className="button button-primary" href={siteConfig.primaryCta.href}>
-            Open Calendar
+          <a className="button button-primary" href={primaryCtaHref}>
+            {content.quickBooking.buttonLabel}
           </a>
         </div>
 
         <div className="card submission-card">
-          <p className="panel-label">Latest saved request</p>
+          <p className="panel-label">{content.latestRequest.panelLabel}</p>
           {latestSubmission ? (
             <>
               <h3>{latestSubmission.business}</h3>
               <p>
-                {latestSubmission.name} requested a demo for a {latestSubmission.industry.toLowerCase()}{" "}
-                business on {latestSubmission.submittedAt}.
+                {fillTemplate(content.latestRequest.summaryTemplate, {
+                  industry: resolveOptionLabel(content.selectOptions.industries, latestSubmission.industry).toLowerCase(),
+                  name: latestSubmission.name,
+                  submittedAt: latestSubmission.submittedAt,
+                })}
               </p>
               <div className="submission-meta">
-                <span>{latestSubmission.websiteStatus}</span>
-                <span>{latestSubmission.monthlyLeads}</span>
+                <span>
+                  {resolveOptionLabel(content.selectOptions.websiteStatus, latestSubmission.websiteStatus)}
+                </span>
+                <span>
+                  {resolveOptionLabel(content.selectOptions.monthlyLeads, latestSubmission.monthlyLeads)}
+                </span>
               </div>
             </>
           ) : (
             <>
-              <h3>No submission yet</h3>
-              <p>Use the form to simulate a real enquiry and review the saved confirmation here.</p>
+              <h3>{content.latestRequest.emptyTitle}</h3>
+              <p>{content.latestRequest.emptyDescription}</p>
             </>
           )}
         </div>
 
         <div className="card submission-card">
-          <p className="panel-label">Recent saved requests</p>
+          <p className="panel-label">{content.recentRequests.panelLabel}</p>
           <div className="submission-list">
             {savedSubmissions.length > 0 ? (
               savedSubmissions.map((submission) => (
                 <div className="submission-list-item" key={submission.id}>
                   <strong>{submission.business}</strong>
                   <span>
-                    {submission.industry} · {submission.monthlyLeads}
+                    {resolveOptionLabel(content.selectOptions.industries, submission.industry)} ·{" "}
+                    {resolveOptionLabel(content.selectOptions.monthlyLeads, submission.monthlyLeads)}
                   </span>
                 </div>
               ))
             ) : (
-              <p>No stored requests yet.</p>
+              <p>{content.recentRequests.emptyLabel}</p>
             )}
           </div>
         </div>

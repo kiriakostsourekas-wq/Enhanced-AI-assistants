@@ -4,21 +4,17 @@ import type { FormEvent } from "react";
 import { useMemo } from "react";
 
 import { useChatbotSession } from "@/components/chat/use-chatbot-session";
+import type { SiteContent } from "@/lib/site-content";
 
-const STARTER_PROMPTS = [
-  "What exactly do you help with?",
-  "Is this a fit for a dental clinic?",
-  "Can you also improve my website?",
-  "What happens after I book a demo?",
-];
+type ChatbotTestPanelProps = {
+  content: SiteContent["chatbotTestPanel"];
+};
 
-const INITIAL_ASSISTANT_MESSAGE =
-  "Hi, I'm Lena. I can answer questions about how we help businesses convert more leads into booked appointments.";
-
-export function ChatbotTestPanel() {
+export function ChatbotTestPanel({ content }: ChatbotTestPanelProps) {
   const { ctaHref, displayMessages, error, input, isSubmitting, messages, sendMessage, setInput } =
     useChatbotSession({
-      initialAssistantMessage: INITIAL_ASSISTANT_MESSAGE,
+      fallbackErrorMessage: content.errorFallback,
+      initialAssistantMessage: content.initialAssistantMessage,
     });
 
   const showStarterPrompts = useMemo(() => messages.length === 0, [messages.length]);
@@ -37,7 +33,7 @@ export function ChatbotTestPanel() {
             className={`chatbot-bubble chatbot-bubble-${message.role}`}
           >
             <span className="chatbot-bubble-label">
-              {message.role === "assistant" ? "Assistant" : "You"}
+              {message.role === "assistant" ? content.roleLabels.assistant : content.roleLabels.user}
             </span>
             <p>{message.content}</p>
           </div>
@@ -46,7 +42,7 @@ export function ChatbotTestPanel() {
 
       {showStarterPrompts ? (
         <div className="chatbot-quick-prompts">
-          {STARTER_PROMPTS.map((prompt) => (
+          {content.quickPrompts.map((prompt) => (
             <button
               key={prompt}
               className="chatbot-quick-button"
@@ -61,11 +57,11 @@ export function ChatbotTestPanel() {
 
       <form className="chatbot-composer" onSubmit={handleSubmit}>
         <label className="form-field">
-          <span>Your message</span>
+          <span>{content.inputLabel}</span>
           <textarea
             className="form-input chatbot-textarea"
             name="chat-message"
-            placeholder="Ask about the service, industries, website support, or next steps."
+            placeholder={content.placeholder}
             rows={4}
             value={input}
             onChange={(event) => setInput(event.target.value)}
@@ -76,10 +72,10 @@ export function ChatbotTestPanel() {
 
         <div className="chatbot-actions">
           <button className="button button-primary" disabled={isSubmitting} type="submit">
-            {isSubmitting ? "Sending..." : "Send Message"}
+            {isSubmitting ? content.sendingLabel : content.sendLabel}
           </button>
           <a className="button button-secondary" href={ctaHref}>
-            Book a Demo
+            {content.ctaLabel}
           </a>
         </div>
       </form>

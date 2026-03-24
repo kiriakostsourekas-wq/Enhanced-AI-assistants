@@ -1,8 +1,12 @@
 import Link from "next/link";
 
-import { siteConfig } from "@/lib/site-content";
+import type { SiteContent } from "@/lib/site-content";
 
-export function SiteFooter() {
+type SiteFooterProps = {
+  siteContent: SiteContent;
+};
+
+export function SiteFooter({ siteContent }: SiteFooterProps) {
   return (
     <footer className="site-footer">
       <div className="container footer-grid">
@@ -10,17 +14,17 @@ export function SiteFooter() {
           <Link className="brand-mark footer-brand" href="/">
             <span className="brand-symbol">N</span>
             <span className="brand-text">
-              <strong>{siteConfig.brandName}</strong>
-              <small>{siteConfig.brandStatement}</small>
+              <strong>{siteContent.brandName}</strong>
+              <small>{siteContent.brandStatement}</small>
             </span>
           </Link>
-          <p className="footer-copy">{siteConfig.footer.description}</p>
+          <p className="footer-copy">{siteContent.footer.description}</p>
         </div>
 
         <div>
-          <p className="footer-heading">Pages</p>
+          <p className="footer-heading">{siteContent.footerLabels.pages}</p>
           <div className="footer-links">
-            {siteConfig.nav.map((item) => (
+            {siteContent.nav.map((item) => (
               <Link key={item.href} href={item.href}>
                 {item.label}
               </Link>
@@ -29,13 +33,13 @@ export function SiteFooter() {
         </div>
 
         <div>
-          <p className="footer-heading">Contact</p>
+          <p className="footer-heading">{siteContent.footerLabels.contact}</p>
           <div className="footer-links">
-            <a href={`mailto:${siteConfig.contact.email}`}>{siteConfig.contact.email}</a>
-            <a href={`tel:${siteConfig.contact.phone.replace(/[^+\d]/g, "")}`}>
-              {siteConfig.contact.phone}
+            <a href={`mailto:${siteContent.contact.email}`}>{siteContent.contact.email}</a>
+            <a href={`tel:${siteContent.contact.phone.replace(/[^+\d]/g, "")}`}>
+              {siteContent.contact.phone}
             </a>
-            <span>{siteConfig.contact.location}</span>
+            <span>{siteContent.contact.location}</span>
           </div>
         </div>
       </div>

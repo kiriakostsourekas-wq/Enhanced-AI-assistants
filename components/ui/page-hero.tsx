@@ -9,6 +9,7 @@ type PageHeroProps = {
   eyebrow: string;
   title: string;
   description: string;
+  panelLabel?: string;
   primaryAction: HeroAction;
   secondaryAction?: HeroAction;
   highlights?: readonly string[];
@@ -18,6 +19,7 @@ export function PageHero({
   eyebrow,
   title,
   description,
+  panelLabel = "Included in the approach",
   primaryAction,
   secondaryAction,
   highlights,
@@ -42,7 +44,7 @@ export function PageHero({
         </div>
         {highlights ? (
           <div className="page-hero-panel card">
-            <p className="panel-label">Included in the approach</p>
+            <p className="panel-label">{panelLabel}</p>
             <ul className="hero-point-list">
               {highlights.map((highlight) => (
                 <li key={highlight}>{highlight}</li>

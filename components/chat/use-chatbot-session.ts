@@ -6,6 +6,7 @@ import { siteConfig } from "@/lib/site-content";
 import type { ChatApiResponse, ChatMessage } from "@/lib/chatbot/types";
 
 type UseChatbotSessionOptions = {
+  fallbackErrorMessage?: string;
   initialAssistantMessage: string;
   persistKey?: string;
 };
@@ -43,6 +44,7 @@ function removeLatestMessage(messages: ChatMessage[], target: ChatMessage) {
 }
 
 export function useChatbotSession({
+  fallbackErrorMessage = "I couldn't answer right now. You can still book a demo.",
   initialAssistantMessage,
   persistKey,
 }: UseChatbotSessionOptions) {
@@ -153,7 +155,7 @@ export function useChatbotSession({
       setError(
         submissionError instanceof Error
           ? submissionError.message
-          : "I couldn't answer right now. You can still book a demo.",
+          : fallbackErrorMessage,
       );
       return false;
     } finally {

@@ -3,7 +3,8 @@ import Link from "next/link";
 
 import { Reveal } from "@/components/ui/reveal";
 import { PageHero } from "@/components/ui/page-hero";
-import { siteConfig } from "@/lib/site-content";
+import { getRequestLocale } from "@/lib/i18n-server";
+import { getSiteContent } from "@/lib/site-content";
 
 export const metadata: Metadata = {
   title: "How It Works",
@@ -11,39 +12,25 @@ export const metadata: Metadata = {
     "See how the Northline AI assistant answers questions, qualifies leads, proposes appointment slots, and notifies the business.",
 };
 
-const viewpoints = [
-  {
-    title: "For the visitor",
-    copy:
-      "A faster response, useful answers, and a clearer path toward the next step.",
-  },
-  {
-    title: "For the business",
-    copy:
-      "A cleaner handoff with the details needed to confirm, follow up, or book.",
-  },
-  {
-    title: "For the workflow",
-    copy:
-      "Less manual back-and-forth and a better chance of converting the inquiries you already have.",
-  },
-];
+export default async function HowItWorksPage() {
+  const locale = await getRequestLocale();
+  const siteContent = getSiteContent(locale);
 
-export default function HowItWorksPage() {
   return (
     <>
       <PageHero
-        description="Northline is designed to help businesses respond faster, capture better information, and guide more inquiries toward booked appointments."
-        eyebrow="Workflow"
-        highlights={siteConfig.processSteps.map((step) => step.title)}
-        primaryAction={{ label: siteConfig.primaryCta.label, href: siteConfig.primaryCta.href }}
-        secondaryAction={{ label: "View solutions", href: "/solutions" }}
-        title="A simple process from inquiry to booking"
+        description={siteContent.howItWorksPage.hero.description}
+        eyebrow={siteContent.howItWorksPage.hero.eyebrow}
+        highlights={siteContent.processSteps.map((step) => step.title)}
+        panelLabel={siteContent.common.includedInApproachLabel}
+        primaryAction={{ label: siteContent.primaryCta.label, href: siteContent.primaryCta.href }}
+        secondaryAction={siteContent.howItWorksPage.hero.secondaryAction}
+        title={siteContent.howItWorksPage.hero.title}
       />
 
       <section className="section">
         <div className="container timeline">
-          {siteConfig.processSteps.map((step, index) => (
+          {siteContent.processSteps.map((step, index) => (
             <Reveal className="timeline-row" delay={index * 0.08} key={step.number}>
               <div className="timeline-index">
                 <span>{step.number}</span>
@@ -59,7 +46,7 @@ export default function HowItWorksPage() {
 
       <section className="section section-muted">
         <div className="container feature-grid">
-          {viewpoints.map((item, index) => (
+          {siteContent.howItWorksPage.viewpoints.map((item, index) => (
             <Reveal className="feature-card card" delay={index * 0.08} key={item.title}>
               <div className="icon-badge">{index + 1}</div>
               <h3>{item.title}</h3>
@@ -72,11 +59,11 @@ export default function HowItWorksPage() {
       <section className="section">
         <div className="container">
           <Reveal>
-            <p className="panel-label">Launch process</p>
-            <h2>Three phases to put the flow in place</h2>
+            <p className="panel-label">{siteContent.howItWorksPage.launchProcessLabel}</p>
+            <h2>{siteContent.howItWorksPage.launchProcessTitle}</h2>
           </Reveal>
           <div className="launch-grid">
-            {siteConfig.launchPhases.map((phase, index) => (
+            {siteContent.launchPhases.map((phase, index) => (
               <Reveal className="launch-card card" delay={index * 0.08} key={phase.title}>
                 <span className="launch-number">0{index + 1}</span>
                 <h3>{phase.title}</h3>
@@ -86,11 +73,11 @@ export default function HowItWorksPage() {
           </div>
           <Reveal className="cta-banner compact card" delay={0.12}>
             <div>
-              <span className="eyebrow">Short version</span>
-              <h2>More inquiries answered. More leads qualified. More appointments booked.</h2>
+              <span className="eyebrow">{siteContent.howItWorksPage.shortVersionLabel}</span>
+              <h2>{siteContent.howItWorksPage.finalCtaTitle}</h2>
             </div>
-            <Link className="button button-primary" href={siteConfig.primaryCta.href}>
-              Book a demo
+            <Link className="button button-primary" href={siteContent.primaryCta.href}>
+              {siteContent.howItWorksPage.finalCtaLabel}
             </Link>
           </Reveal>
         </div>

@@ -3,7 +3,8 @@ import Link from "next/link";
 
 import { Reveal } from "@/components/ui/reveal";
 import { PageHero } from "@/components/ui/page-hero";
-import { siteConfig } from "@/lib/site-content";
+import { getRequestLocale } from "@/lib/i18n-server";
+import { getSiteContent } from "@/lib/site-content";
 
 export const metadata: Metadata = {
   title: "AI Demos",
@@ -11,33 +12,33 @@ export const metadata: Metadata = {
     "Explore AI demos for med spas, dentists, clinics, salons, consultants, and home service businesses.",
 };
 
-export default function IndustriesPage() {
+export default async function IndustriesPage() {
+  const locale = await getRequestLocale();
+  const siteContent = getSiteContent(locale);
+
   return (
     <>
       <PageHero
-        description="Preview how AI assistants can answer inquiries, capture lead details, and guide booking flows for different appointment-based businesses."
-        eyebrow="AI Demos"
-        highlights={[
-          "Booking-focused demos for service businesses",
-          "Built around real inquiry and scheduling situations",
-          "Easy to tailor to one niche or offer later",
-        ]}
-        primaryAction={{ label: siteConfig.primaryCta.label, href: siteConfig.primaryCta.href }}
-        secondaryAction={{ label: "View solutions", href: "/solutions" }}
-        title="AI demos for real booking situations"
+        description={siteContent.industriesPage.hero.description}
+        eyebrow={siteContent.industriesPage.hero.eyebrow}
+        highlights={siteContent.industriesPage.hero.highlights}
+        panelLabel={siteContent.common.includedInApproachLabel}
+        primaryAction={{ label: siteContent.primaryCta.label, href: siteContent.primaryCta.href }}
+        secondaryAction={siteContent.industriesPage.hero.secondaryAction}
+        title={siteContent.industriesPage.hero.title}
       />
 
       <section className="section">
         <div className="container">
           <div className="demo-grid demo-grid-page">
-            {siteConfig.aiDemos.map((demo, index) => (
+            {siteContent.aiDemos.map((demo, index) => (
               <Reveal className="demo-card card" delay={index * 0.05} key={demo.title}>
                 <div className="demo-card-top">
                   <div>
                     <h2>{demo.title}</h2>
                     <p className="demo-audience">{demo.audience}</p>
                   </div>
-                  <span className="demo-badge">AI Demo</span>
+                  <span className="demo-badge">{siteContent.industriesPage.cardBadge}</span>
                 </div>
                 <p>{demo.summary}</p>
                 <div className="demo-chip-list">
@@ -48,8 +49,8 @@ export default function IndustriesPage() {
                   ))}
                 </div>
                 <strong className="demo-outcome">{demo.outcome}</strong>
-                <Link className="button button-primary demo-card-cta" href={siteConfig.primaryCta.href}>
-                  Book a Demo
+                <Link className="button button-primary demo-card-cta" href={siteContent.primaryCta.href}>
+                  {siteContent.industriesPage.cardButtonLabel}
                 </Link>
               </Reveal>
             ))}
@@ -60,23 +61,17 @@ export default function IndustriesPage() {
       <section className="section section-dark">
         <div className="container ai-demos-bottom-grid">
           <Reveal className="card ai-demos-note-card">
-            <p className="panel-label">How to use this page</p>
-            <h2>Choose the demo that matches how your business books.</h2>
-            <p>
-              Start with the niche that is closest to your inquiries, then tighten the messaging,
-              qualification questions, and booking flow around that exact audience.
-            </p>
+            <p className="panel-label">{siteContent.industriesPage.bottomNote.label}</p>
+            <h2>{siteContent.industriesPage.bottomNote.title}</h2>
+            <p>{siteContent.industriesPage.bottomNote.description}</p>
           </Reveal>
 
           <Reveal className="card ai-demos-cta-card" delay={0.1}>
-            <p className="panel-label">Next step</p>
-            <h2>Book a demo built around your business.</h2>
-            <p>
-              We tailor the assistant around your offer, your lead flow, and the way your team
-              actually handles appointments.
-            </p>
-            <Link className="button button-primary" href={siteConfig.primaryCta.href}>
-              Book a Demo
+            <p className="panel-label">{siteContent.industriesPage.bottomCta.label}</p>
+            <h2>{siteContent.industriesPage.bottomCta.title}</h2>
+            <p>{siteContent.industriesPage.bottomCta.description}</p>
+            <Link className="button button-primary" href={siteContent.primaryCta.href}>
+              {siteContent.primaryCta.label}
             </Link>
           </Reveal>
         </div>
