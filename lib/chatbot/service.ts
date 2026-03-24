@@ -16,6 +16,55 @@ type GenerateWebsiteAssistantReplyArgs = {
   history: ChatMessage[];
 };
 
+const NO_AI_TALKING_TO_CUSTOMERS_PATTERN = /\bdon['’]?t want ai talking to customers\b/i;
+
+function escapeRegExp(value: string) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function sanitizeAssistantReply(reply: string, demoUrl: string) {
+  const demoTargets = [
+    demoUrl.trim() ? escapeRegExp(demoUrl.trim()) : null,
+    "https?:\\/\\/(?:www\\.)?calendly\\.com\\/[^)\\s]+",
+  ].filter(Boolean) as string[];
+
+  if (demoTargets.length === 0) {
+    return reply.trim();
+  }
+
+  const markdownDemoLinkPattern = new RegExp(
+    `\\[([^\\]]+)\\]\\((?:${demoTargets.join("|")})\\)`,
+    "gi",
+  );
+  const rawDemoLinkPattern = new RegExp(`(?:${demoTargets.join("|")})`, "gi");
+
+  const sanitized = reply
+    .replace(markdownDemoLinkPattern, "$1")
+    .replace(rawDemoLinkPattern, "")
+    .replace(/\b(?:using|via)\s+(?:this|the)\s+link\b:?\s*/gi, "")
+    .replace(/\bat\s+(?:this|the)\s+link\b:?\s*/gi, "")
+    .replace(/\bat\s+the\s+link\s+below\b:?\s*/gi, "")
+    .replace(/\bhere\b:?\s*(?=$|[.!?])/gi, "")
+    .replace(/[ \t]+\n/g, "\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .replace(/[ \t]{2,}/g, " ")
+    .replace(/\s+([,.;!?])/g, "$1")
+    .trim()
+    .replace(/[:;-]\s*$/, ".");
+
+  return /[A-Za-z0-9]/.test(sanitized)
+    ? sanitized
+    : "Happy to help with fit, setup, or your current booking flow.";
+}
+
+function applyReplyGuardrails(reply: string, message: string) {
+  if (NO_AI_TALKING_TO_CUSTOMERS_PATTERN.test(message)) {
+    return "That's a valid concern. Northline is not positioned as replacing staff; it supports early website enquiries and routine pre-booking questions so human follow-up can happen with better context. Is the bigger concern keeping the first response human, or keeping staff fully in control of the conversation?";
+  }
+
+  return reply;
+}
+
 export async function generateWebsiteAssistantReply({
   message,
   history,
@@ -35,8 +84,9 @@ export async function generateWebsiteAssistantReply({
     assistantName: "Lena",
     baseSystemPrompt,
     brandName: config.brandName,
-    demoUrl: config.demoUrl,
+    history,
     knowledgePack,
+    message,
   });
 
   const response = await generateOpenAIReply({
@@ -55,6 +105,6 @@ export async function generateWebsiteAssistantReply({
     } satisfies DemoCta,
     model: response.model,
     provider: "openai" as const,
-    reply: response.reply,
+    reply: applyReplyGuardrails(sanitizeAssistantReply(response.reply, config.demoUrl), message),
   };
 }

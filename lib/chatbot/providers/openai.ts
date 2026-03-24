@@ -83,7 +83,6 @@ export async function generateOpenAIReply({
     body: JSON.stringify({
       model,
       messages,
-      temperature: 0.4,
     }),
   });
 

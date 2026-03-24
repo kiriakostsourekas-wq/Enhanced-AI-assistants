@@ -18,11 +18,12 @@ export function SiteChatWidget() {
   const [hasLoadedState, setHasLoadedState] = useState(false);
   const threadRef = useRef<HTMLDivElement>(null);
 
-  const { displayMessages, error, input, isSubmitting, sendMessage, setInput } =
+  const { ctaHref, displayMessages, error, input, isSubmitting, messages, sendMessage, setInput } =
     useChatbotSession({
       initialAssistantMessage: INITIAL_ASSISTANT_MESSAGE,
       persistKey: CHAT_SESSION_STORAGE_KEY,
     });
+  const showDemoCta = Boolean(ctaHref) && (messages.length > 1 || Boolean(error));
 
   useEffect(() => {
     try {
@@ -143,7 +144,16 @@ export function SiteChatWidget() {
             </div>
           ) : null}
 
-          <form className="site-chat-composer" onSubmit={handleSubmit}>
+          {showDemoCta ? (
+            <div className="site-chat-cta-row">
+              <span>Prefer to talk it through?</span>
+              <a className="site-chat-cta-link" href={ctaHref}>
+                Book a Demo
+              </a>
+            </div>
+          ) : null}
+
+          <form className={`site-chat-composer${showDemoCta ? " has-cta-row" : ""}`} onSubmit={handleSubmit}>
             <label className="site-chat-input-wrap">
               <span className="sr-only">Message Lena</span>
               <input

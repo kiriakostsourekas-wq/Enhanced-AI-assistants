@@ -5,12 +5,72 @@ import { Reveal } from "@/components/ui/reveal";
 import { SectionIntro } from "@/components/ui/section-intro";
 import { siteConfig } from "@/lib/site-content";
 
+type HomeDemo = (typeof siteConfig.aiDemos)[number];
+
 const featuredDemoTitles = new Set<string>(siteConfig.homepage.demos.featuredTitles);
 
 const featuredDemos = siteConfig.aiDemos.filter((demo) => featuredDemoTitles.has(demo.title));
 const primaryDemo = featuredDemos[0];
 const supportingDemos = featuredDemos.slice(1);
 const testimonial = siteConfig.testimonials[1];
+const primaryCtaHref = siteConfig.primaryCta.href;
+const demoLinkHref = siteConfig.homepage.demos.linkHref;
+
+function HomeDemoCard({
+  demo,
+  badge,
+  delay,
+  featured = false,
+}: {
+  demo: HomeDemo;
+  badge: string;
+  delay: number;
+  featured?: boolean;
+}) {
+  return (
+    <Reveal delay={delay}>
+      <Link
+        aria-label={`${siteConfig.homepage.demos.cardActionLabel}: ${demo.title}`}
+        className={`demo-card card demo-card-link${featured ? " demo-card-featured" : ""}`}
+        href={demoLinkHref}
+      >
+        <div className="demo-card-top">
+          <div>
+            <h3>{demo.title}</h3>
+            <p className="demo-audience">{demo.audience}</p>
+          </div>
+          <span className="demo-badge">{badge}</span>
+        </div>
+
+        <div className="demo-card-body">
+          <div>
+            <span className="demo-card-label">Shows</span>
+            <p>{demo.summary}</p>
+          </div>
+
+          <div>
+            <span className="demo-card-label">Handles</span>
+            <div className="demo-chip-list">
+              {demo.handles.map((item) => (
+                <span className="mini-pill" key={item}>
+                  {item}
+                </span>
+              ))}
+            </div>
+          </div>
+        </div>
+
+        <div className="demo-card-footer">
+          <div>
+            <span className="demo-card-label">Outcome</span>
+            <strong className="demo-outcome">{demo.outcome}</strong>
+          </div>
+          <span className="demo-card-action">{siteConfig.homepage.demos.cardActionLabel}</span>
+        </div>
+      </Link>
+    </Reveal>
+  );
+}
 
 export default function HomePage() {
   return (
@@ -19,20 +79,19 @@ export default function HomePage() {
         <div className="container hero-commercial-grid">
           <Reveal className="hero-commercial-copy">
             <span className="hero-kicker">{siteConfig.hero.kicker}</span>
-            <span className="eyebrow">AI booking systems for service businesses</span>
+            <span className="eyebrow">{siteConfig.hero.eyebrow}</span>
             <h1>{siteConfig.hero.headline}</h1>
             <p className="hero-description">{siteConfig.hero.description}</p>
+            <p className="hero-supporting-line">{siteConfig.hero.audienceLine}</p>
 
             <div className="hero-actions">
-              <Link className="button button-primary button-strong" href={siteConfig.primaryCta.href}>
-                {siteConfig.primaryCta.label}
+              <Link className="button button-primary button-strong" href={primaryCtaHref}>
+                {siteConfig.hero.primaryActionLabel}
               </Link>
-              <Link className="button button-secondary" href={siteConfig.secondaryCta.href}>
-                {siteConfig.secondaryCta.label}
+              <Link className="button button-secondary hero-secondary-link" href={siteConfig.hero.secondaryActionHref}>
+                {siteConfig.hero.secondaryActionLabel}
               </Link>
             </div>
-
-            <p className="hero-supporting-line">{siteConfig.hero.audienceLine}</p>
 
             <div className="hero-scan-points">
               {siteConfig.hero.scanPoints.map((point) => (
@@ -73,7 +132,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="section section-dark home-solution-section">
+      <section className="section section-dark home-solution-section" id="home-process">
         <div className="container home-solution-layout">
           <Reveal className="home-solution-copy">
             <SectionIntro
@@ -92,14 +151,14 @@ export default function HomePage() {
             </div>
 
             <div className="section-actions left-aligned home-mid-cta">
-              <Link className="button button-primary" href={siteConfig.primaryCta.href}>
-                Book a Demo
+              <Link className="button button-primary" href={primaryCtaHref}>
+                {siteConfig.homepage.solution.ctaLabel}
               </Link>
             </div>
           </Reveal>
 
           <Reveal className="flow-panel card" delay={0.08}>
-            <span className="panel-label">How it works</span>
+            <span className="panel-label">Process</span>
             <div className="flow-step-list">
               {siteConfig.processSteps.map((step) => (
                 <div className="flow-step-row" key={step.number}>
@@ -115,7 +174,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="section home-demo-section">
+      <section className="section home-demo-section" id="real-scenarios">
         <div className="container">
           <Reveal>
             <SectionIntro
@@ -126,47 +185,11 @@ export default function HomePage() {
           </Reveal>
 
           <div className="home-demo-stage">
-            {primaryDemo ? (
-              <Reveal className="demo-card card demo-card-featured" delay={0.04}>
-                <div className="demo-card-top">
-                  <div>
-                    <h3>{primaryDemo.title}</h3>
-                    <p className="demo-audience">{primaryDemo.audience}</p>
-                  </div>
-                  <span className="demo-badge">Featured</span>
-                </div>
-                <p>{primaryDemo.summary}</p>
-                <div className="demo-chip-list">
-                  {primaryDemo.handles.map((item) => (
-                    <span className="mini-pill" key={item}>
-                      {item}
-                    </span>
-                  ))}
-                </div>
-                <strong className="demo-outcome">{primaryDemo.outcome}</strong>
-              </Reveal>
-            ) : null}
+            {primaryDemo ? <HomeDemoCard badge="Featured" delay={0.04} demo={primaryDemo} featured /> : null}
 
             <div className="home-demo-stack">
               {supportingDemos.map((demo, index) => (
-                <Reveal className="demo-card card" delay={0.1 + index * 0.05} key={demo.title}>
-                  <div className="demo-card-top">
-                    <div>
-                      <h3>{demo.title}</h3>
-                      <p className="demo-audience">{demo.audience}</p>
-                    </div>
-                    <span className="demo-badge">Use Case</span>
-                  </div>
-                  <p>{demo.summary}</p>
-                  <div className="demo-chip-list">
-                    {demo.handles.map((item) => (
-                      <span className="mini-pill" key={item}>
-                        {item}
-                      </span>
-                    ))}
-                  </div>
-                  <strong className="demo-outcome">{demo.outcome}</strong>
-                </Reveal>
+                <HomeDemoCard badge="Use Case" delay={0.1 + index * 0.05} demo={demo} key={demo.title} />
               ))}
             </div>
           </div>
@@ -212,6 +235,12 @@ export default function HomePage() {
                 <span>{testimonial.role}</span>
               </div>
             </div>
+
+            <div className="section-actions left-aligned home-proof-cta">
+              <Link className="button button-primary" href={primaryCtaHref}>
+                {siteConfig.homepage.proof.ctaLabel}
+              </Link>
+            </div>
           </Reveal>
         </div>
       </section>
@@ -225,8 +254,8 @@ export default function HomePage() {
               <p>{siteConfig.homepage.finalCta.description}</p>
             </div>
             <div className="cta-actions">
-              <Link className="button button-primary" href={siteConfig.primaryCta.href}>
-                Book a Demo
+              <Link className="button button-primary" href={primaryCtaHref}>
+                {siteConfig.homepage.finalCta.buttonLabel}
               </Link>
             </div>
           </Reveal>

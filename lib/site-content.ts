@@ -102,48 +102,57 @@ export const siteConfig = {
     href: "/industries",
   },
   hero: {
-    kicker: "Faster replies. More bookings.",
-    headline: "Turn inquiries into appointments.",
+    eyebrow: "Northline AI",
+    kicker: "Website enquiries, handled properly.",
+    headline: "Turn website enquiries into appointments.",
     description:
-      "AI assistants, lead capture, booking flows, and modern websites for appointment-based businesses that want faster response and more booked appointments.",
+      "Northline combines a website assistant, smarter intake, and clearer next steps so interested visitors do not drift before booking.",
     audienceLine:
-      "Built for med spas, dentists, clinics, salons, consultants, and home service businesses.",
-    scanPoints: ["Faster response", "Less follow-up", "More booked appointments"],
+      "Built for clinics, dentists, med spas, salons, consultants, and service businesses where the website should be doing more of the front-end work.",
+    primaryActionLabel: "See the Booking Flow",
+    secondaryActionLabel: "See a Live Example",
+    secondaryActionHref: "#real-scenarios",
+    scanPoints: ["Handle common questions", "Capture useful context", "Make the next step clear"],
   },
   homepage: {
     problem: {
       eyebrow: "Where bookings are lost",
-      title: "Most missed bookings happen after the inquiry.",
+      title: "Most losses happen between the enquiry and the calendar.",
       description:
-        "The issue is usually not demand. It is delay, back-and-forth, and no clear next step once someone reaches out.",
+        "The issue is usually not demand alone. It is the delay, weak intake, or missing next step after someone reaches out.",
     },
     solution: {
-      eyebrow: "How Northline helps",
-      title: "One system for response, qualification, and booking.",
+      eyebrow: "How it works",
+      title: "Northline shapes the path from first question to next step.",
       description:
-        "Northline combines AI assistance, lead capture, and booking flow design so visitors get answers quickly and your team gets cleaner handoffs.",
+        "Instead of dropping in a generic widget, Northline tightens the first response, intake questions, and routing together so the journey feels deliberate.",
+      ctaLabel: "See the Full Journey",
     },
     demos: {
-      eyebrow: "Demo examples",
-      title: "See how it works in real service-business scenarios.",
+      eyebrow: "Real scenarios",
+      title: "Proof through actual enquiry situations.",
       description:
-        "Different industries ask different questions, but the goal is the same: move the right inquiry to the right next step faster.",
+        "Each example shows who the scenario is for, what the assistant handles, and the operational outcome it is designed to improve.",
+      linkHref: "/industries",
+      cardActionLabel: "Open Demo",
       featuredTitles: ["Med Spa Demo", "Dental Demo", "Home Services Demo"],
     },
     proof: {
       eyebrow: "Why Northline",
-      title: "Designed to improve the booking journey, not just add another tool.",
+      title: "Useful when the issue is not traffic, but what happens after someone reaches out.",
       description:
-        "The site, assistant, and booking flow are designed together so the experience feels more useful to the visitor and more workable for the business.",
-      resultsTitle: "What improves",
+        "The business case is usually hidden in the gaps: slow reply, weak intake, and unclear next steps. Northline is designed to tighten those points.",
+      resultsTitle: "What a review surfaces",
       resultsDescription:
-        "More qualified conversations. Less manual follow-up. A clearer path to the calendar.",
+        "Where enquiries lose momentum, and what to tighten first.",
+      ctaLabel: "Review My Current Setup",
     },
     finalCta: {
-      eyebrow: "Ready to see the fit?",
-      title: "Book a demo and review your current booking flow.",
+      eyebrow: "Next step",
+      title: "Review your current booking flow.",
       description:
-        "We will look at where inquiries stall, where bookings are being lost, and what a stronger front-end system could change.",
+        "We will look at where enquiries stall, where the handoff gets loose, and what would make the path to booking clearer.",
+      buttonLabel: "Review My Flow",
     },
   },
   footer: {
@@ -190,20 +199,20 @@ export const siteConfig = {
   ] satisfies PainPoint[],
   solutionPoints: [
     {
-      title: "Answers instantly",
-      copy: "Give new inquiries a useful response the moment they reach out.",
+      title: "Set the first response",
+      copy: "Give visitors a useful answer while interest is still high.",
     },
     {
-      title: "Qualifies leads",
-      copy: "Capture service type, urgency, timing, and contact details automatically.",
+      title: "Capture the right details",
+      copy: "Collect service type, urgency, timing, or context before the team steps in.",
     },
     {
-      title: "Guides booking",
-      copy: "Move the conversation toward the right appointment or next step.",
+      title: "Route the next step",
+      copy: "Direct the visitor to the booking path, consult request, or handoff that fits.",
     },
     {
-      title: "Supports the business 24/7",
-      copy: "Keep lead capture and booking support working after hours and during busy periods.",
+      title: "Tighten the surrounding page",
+      copy: "Make sure the assistant and the page work together instead of fighting each other.",
     },
   ] satisfies SolutionPoint[],
   services: [
@@ -255,67 +264,73 @@ export const siteConfig = {
   aiDemos: [
     {
       title: "Med Spa Demo",
-      audience: "For consultation-driven aesthetic clinics",
-      summary: "Show how the assistant handles treatment questions and moves leads into consult requests.",
+      audience: "Consultation-driven aesthetic clinics",
+      summary:
+        "Shows how treatment questions, first-visit interest, and consult requests are handled without sending everything to the front desk.",
       handles: ["Laser consults", "Injectables questions", "Pricing and downtime"],
-      outcome: "More consultation requests booked with less front-desk follow-up",
+      outcome: "Fewer consult enquiries left waiting and a cleaner first-visit handoff",
     },
     {
       title: "Dental Demo",
-      audience: "For cosmetic and new-patient demand",
-      summary: "Show how inquiries get answered quickly and routed toward booked consultations.",
+      audience: "Practices handling new-patient and cosmetic demand",
+      summary:
+        "Shows how whitening, implant, and emergency questions are answered before the patient is pushed to the right consult or next step.",
       handles: ["Whitening", "Implants", "Emergency requests"],
-      outcome: "Cleaner intake and more booked treatment consultations",
+      outcome: "Stronger cosmetic intake and fewer warm enquiries lost",
     },
     {
       title: "Clinic Demo",
-      audience: "For appointment-heavy clinics",
-      summary: "Show how patient questions are answered while the lead is guided toward the right next step.",
+      audience: "Appointment-heavy clinics with service and availability questions",
+      summary:
+        "Shows how private consult, insurance, and timing questions are handled while the enquiry moves toward the right booking path.",
       handles: ["Private consults", "Insurance questions", "Availability follow-up"],
-      outcome: "More inquiries converted into scheduled appointments",
+      outcome: "More useful patient enquiries reaching the right next step",
     },
     {
       title: "Salon Demo",
-      audience: "For mobile-first beauty businesses",
-      summary: "Show how the website captures service interest and reduces manual booking messages.",
+      audience: "Mobile-first beauty businesses",
+      summary:
+        "Shows how higher-touch appointment requests are screened before they turn into long DM threads or weak enquiries.",
       handles: ["Color correction", "Bridal trials", "Packages"],
-      outcome: "More appointments booked with less manual messaging",
+      outcome: "Better qualified appointment requests with less manual messaging",
     },
     {
       title: "Consultant Demo",
-      audience: "For discovery-call businesses",
-      summary: "Show how prospects are pre-qualified before they land on the calendar.",
+      audience: "Discovery-call businesses",
+      summary:
+        "Shows how fit, budget, and project-shape questions can be handled before calendar time is spent.",
       handles: ["Discovery calls", "Budget questions", "Project fit"],
-      outcome: "Better discovery calls and less wasted calendar time",
+      outcome: "Fewer low-fit calls and better context before the first conversation",
     },
     {
       title: "Home Services Demo",
-      audience: "For businesses where speed wins the job",
-      summary: "Show how urgent inquiries are captured, qualified, and pushed toward estimates or dispatch.",
+      audience: "Teams where response speed wins the job",
+      summary:
+        "Shows how urgent repair and estimate enquiries are captured quickly and routed with the right context.",
       handles: ["HVAC repair", "Electrical callouts", "Same-day estimates"],
-      outcome: "More estimates booked and fewer urgent leads lost",
+      outcome: "Cleaner estimate requests and faster first follow-up",
     },
   ] satisfies AiDemo[],
   processSteps: [
     {
       number: "01",
-      title: "A new inquiry comes in",
-      description: "The assistant engages the visitor immediately instead of leaving them waiting.",
+      title: "A visitor reaches out",
+      description: "The site meets the enquiry while intent is still fresh, instead of letting it sit.",
     },
     {
       number: "02",
-      title: "Questions get answered",
-      description: "The lead gets useful information while key details are captured in the background.",
+      title: "The right context is gathered",
+      description: "The visitor gets useful answers while the details your team actually needs are collected.",
     },
     {
       number: "03",
-      title: "The lead is guided to book",
-      description: "The conversation moves toward the right appointment or next step.",
+      title: "The next step is made clear",
+      description: "The enquiry is directed toward a consult, booking path, or handoff that makes sense.",
     },
     {
       number: "04",
-      title: "Your team gets a clean handoff",
-      description: "The business receives the context needed to confirm, follow up, or take over fast.",
+      title: "Your team steps in with context",
+      description: "Follow-up starts with better information instead of another round of basic questions.",
     },
   ] satisfies ProcessStep[],
   industries: [
@@ -376,34 +391,34 @@ export const siteConfig = {
   ] satisfies Industry[],
   benefits: [
     {
-      title: "Faster response",
-      copy: "Reply to inquiries instantly instead of hours later.",
+      title: "Reply gaps exposed",
+      copy: "See where enquiries are sitting too long before anyone steps in.",
     },
     {
-      title: "More booked appointments",
-      copy: "Help more visitors move from interest to a scheduled next step.",
+      title: "Intake tightened",
+      copy: "Capture the details staff usually need to chase manually.",
     },
     {
-      title: "Less manual admin",
-      copy: "Reduce repetitive questions, chasing details, and back-and-forth booking work.",
+      title: "Next steps clarified",
+      copy: "Make the visitor path more obvious instead of leaving it loose or passive.",
     },
     {
-      title: "Better customer experience",
-      copy: "Give leads a smoother, more professional first interaction with the business.",
+      title: "Demand used better",
+      copy: "Get more value from the traffic and enquiries you already have.",
     },
   ] satisfies Benefit[],
   credibilityPoints: [
     {
-      title: "Built around real service-business workflows",
-      copy: "The goal is simple: help an inquiry become an appointment with less friction.",
+      title: "Designed around the real booking path",
+      copy: "Northline starts with what happens after someone reaches out, not just what the homepage says.",
     },
     {
-      title: "Execution-focused, not hype-driven",
-      copy: "Northline is positioned around response time, lead quality, and booked outcomes.",
+      title: "Useful without adding noise",
+      copy: "The assistant, pages, and calls to action are shaped to make the next step clearer.",
     },
     {
-      title: "Websites, capture, and booking designed together",
-      copy: "The site, assistant, and next-step flow work as one system instead of separate tools.",
+      title: "Built for actual teams",
+      copy: "The end result should be easier for staff to work with, not just nicer to look at.",
     },
   ] satisfies CredibilityPoint[],
   testimonials: [

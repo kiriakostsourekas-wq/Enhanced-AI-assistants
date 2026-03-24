@@ -1812,6 +1812,10 @@ body {
   color: var(--ink);
 }
 
+.section[id] {
+  scroll-margin-top: 7rem;
+}
+
 .section-contrast {
   background: linear-gradient(180deg, rgba(13, 106, 101, 0.03), rgba(13, 106, 101, 0));
 }
@@ -1888,12 +1892,14 @@ body {
 }
 
 .hero-commercial-grid {
-  gap: 1.35rem;
+  grid-template-columns: minmax(0, 0.98fr) minmax(0, 1.02fr);
+  gap: 1.6rem;
   align-items: center;
 }
 
 .hero-commercial-copy {
-  padding-top: 0.25rem;
+  padding-top: 0.35rem;
+  padding-right: 0.55rem;
 }
 
 .hero-kicker {
@@ -1910,21 +1916,33 @@ body {
 }
 
 .hero-description {
-  max-width: 31rem;
-  margin-top: 0.9rem;
-  font-size: 1.03rem;
-  line-height: 1.6;
+  max-width: 32rem;
+  margin-top: 0.75rem;
+  font-size: 1.05rem;
+  line-height: 1.62;
+}
+
+.hero-supporting-line {
+  max-width: 34rem;
+  margin: 0.9rem 0 0;
+  color: var(--ink-soft);
+  font-size: 0.99rem;
+  line-height: 1.65;
 }
 
 .hero-actions {
-  margin-top: 1.25rem;
+  margin-top: 1.45rem;
+}
+
+.hero-secondary-link {
+  color: var(--brand-strong);
 }
 
 .hero-scan-points {
   display: flex;
   flex-wrap: wrap;
   gap: 0.7rem;
-  margin-top: 1rem;
+  margin-top: 1.15rem;
 }
 
 .hero-scan-chip {
@@ -2002,6 +2020,14 @@ body {
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
 }
 
+.hero-commercial-demo {
+  padding-left: 0.2rem;
+}
+
+.hero-commercial-demo .chat-shell {
+  min-height: 100%;
+}
+
 .pain-card,
 .solution-card,
 .benefit-card,
@@ -2031,6 +2057,27 @@ body {
   min-height: 100%;
 }
 
+.demo-card-link {
+  gap: 1rem;
+  text-decoration: none;
+  transition:
+    transform 180ms ease,
+    box-shadow 180ms ease,
+    border-color 180ms ease,
+    background 180ms ease;
+}
+
+.demo-card-link:hover {
+  transform: translateY(-2px);
+  border-color: rgba(125, 224, 207, 0.2);
+  box-shadow: 0 24px 44px rgba(7, 28, 31, 0.2);
+}
+
+.demo-card-link:focus-visible {
+  outline: 2px solid #9fe2d8;
+  outline-offset: 4px;
+}
+
 .demo-card-top {
   display: flex;
   align-items: flex-start;
@@ -2050,6 +2097,25 @@ body {
   margin-top: 0.4rem;
   font-size: 0.88rem;
   line-height: 1.45;
+}
+
+.demo-card-body {
+  display: grid;
+  gap: 1rem;
+}
+
+.demo-card-label {
+  display: inline-flex;
+  align-items: center;
+  color: #9fe2d8;
+  font-size: 0.71rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.demo-card-body p {
+  margin: 0.42rem 0 0;
 }
 
 .demo-badge {
@@ -2074,11 +2140,45 @@ body {
   margin-top: 1rem;
 }
 
+.demo-card-body .demo-chip-list {
+  margin-top: 0.55rem;
+}
+
 .demo-outcome {
   display: block;
-  margin-top: 1.1rem;
   font-size: 0.96rem;
   line-height: 1.55;
+}
+
+.demo-card-footer {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1rem;
+  align-items: end;
+  margin-top: auto;
+  padding-top: 1.15rem;
+  border-top: 1px solid rgba(125, 224, 207, 0.12);
+}
+
+.demo-card-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  align-self: start;
+  padding: 0.72rem 0.95rem;
+  border-radius: 999px;
+  border: 1px solid rgba(125, 224, 207, 0.16);
+  background: rgba(255, 255, 255, 0.04);
+  color: #eef6f5;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.demo-card-link:hover .demo-card-action,
+.demo-card-link:focus-visible .demo-card-action {
+  background: rgba(125, 224, 207, 0.12);
+  border-color: rgba(125, 224, 207, 0.24);
 }
 
 .demo-card-cta {
@@ -2353,7 +2453,7 @@ body {
   display: grid;
   grid-template-columns: minmax(0, 1.18fr) minmax(0, 0.82fr);
   gap: 1rem;
-  margin-top: 1.4rem;
+  margin-top: 1.55rem;
 }
 
 .home-demo-stack {
@@ -2369,10 +2469,8 @@ body {
   font-size: clamp(1.9rem, 3.4vw, 2.55rem);
 }
 
-.demo-card-featured .demo-outcome {
-  margin-top: auto;
+.demo-card-featured .demo-card-footer {
   padding-top: 1.35rem;
-  border-top: 1px solid rgba(125, 224, 207, 0.12);
 }
 
 .demo-card .mini-pill {
@@ -2429,6 +2527,10 @@ body {
   font-size: clamp(1.8rem, 3vw, 2.4rem);
   line-height: 1.06;
   letter-spacing: -0.04em;
+}
+
+.home-proof-cta {
+  margin-top: 1.35rem;
 }
 
 .trust-benefit-list {
@@ -2912,7 +3014,8 @@ body {
 }
 
 .site-chat-thread {
-  display: grid;
+  display: flex;
+  flex-direction: column;
   flex: 1;
   gap: 1rem;
   min-height: 0;
@@ -3005,6 +3108,52 @@ body {
   line-height: 1.55;
 }
 
+.site-chat-cta-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.78rem 1rem 0.88rem;
+  border-top: 1px solid #e1eae4;
+  background: rgba(255, 255, 255, 0.96);
+}
+
+.site-chat-cta-row span {
+  color: #66766c;
+  font-size: 0.82rem;
+  line-height: 1.4;
+}
+
+.site-chat-cta-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.45rem;
+  padding: 0 0.95rem;
+  border-radius: 999px;
+  border: 1px solid #d5e1d8;
+  background: #edf4ef;
+  color: #184d3b;
+  font-size: 0.84rem;
+  font-weight: 700;
+  white-space: nowrap;
+  transition:
+    background 180ms ease,
+    border-color 180ms ease,
+    color 180ms ease;
+}
+
+.site-chat-cta-link:hover {
+  background: #e3efe6;
+  border-color: #bdd3c4;
+}
+
+.site-chat-cta-link:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 4px rgba(44, 143, 103, 0.12);
+  border-color: #8ac0a3;
+}
+
 .site-chat-composer {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
@@ -3012,6 +3161,10 @@ body {
   padding: 0 1rem 1rem;
   border-top: 1px solid #e1eae4;
   background: #ffffff;
+}
+
+.site-chat-composer.has-cta-row {
+  border-top: 0;
 }
 
 .site-chat-input-wrap {
@@ -3254,6 +3407,10 @@ body {
     max-height: none;
   }
 
+  .site-chat-cta-row {
+    flex-wrap: wrap;
+  }
+
   .site-chat-composer {
     display: grid;
   }
@@ -3264,7 +3421,8 @@ body {
 
   .home-demo-stack,
   .problem-summary-item,
-  .flow-step-row {
+  .flow-step-row,
+  .demo-card-footer {
     grid-template-columns: 1fr;
   }
 

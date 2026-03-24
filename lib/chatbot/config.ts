@@ -1,6 +1,6 @@
 import { siteConfig } from "@/lib/site-content";
 
-const DEFAULT_OPENAI_MODEL = "gpt-4.1-mini";
+const DEFAULT_OPENAI_MODEL = "gpt-5-mini";
 const PLACEHOLDER_DEMO_URL = "[YOUR DEMO PAGE OR CALENDAR LINK]";
 
 function normalizeDemoUrl(value: string | undefined) {
