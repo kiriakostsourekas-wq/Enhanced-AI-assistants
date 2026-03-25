@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
 
+import { Analytics } from "@vercel/analytics/next";
 import { SiteFooter } from "@/components/layout/site-footer";
 import { SiteHeader } from "@/components/layout/site-header";
 import { SiteChatWidget } from "@/components/layout/site-chat-widget";
@@ -40,6 +41,7 @@ export default async function RootLayout({
           <SiteFooter siteContent={siteContent} />
           <SiteChatWidget content={siteContent.widget} locale={locale} />
         </div>
+        <Analytics />
       </body>
     </html>
   );
