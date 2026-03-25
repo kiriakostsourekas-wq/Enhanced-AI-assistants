@@ -92,8 +92,8 @@ export function SiteHeader({ locale, siteContent }: SiteHeaderProps) {
             ))}
           </div>
 
-          <Link className="button button-primary header-cta" href={siteContent.primaryCta.href}>
-            {siteContent.primaryCta.label}
+          <Link className="button button-primary header-cta" href={siteContent.headerCta.href}>
+            {siteContent.headerCta.label}
           </Link>
           <button
             aria-expanded={menuOpen}
@@ -119,8 +119,8 @@ export function SiteHeader({ locale, siteContent }: SiteHeaderProps) {
               {item.label}
             </Link>
           ))}
-          <Link className="button button-primary mobile-cta" href={siteContent.primaryCta.href}>
-            {siteContent.primaryCta.label}
+          <Link className="button button-primary mobile-cta" href={siteContent.headerCta.href}>
+            {siteContent.headerCta.label}
           </Link>
         </nav>
       </div>

@@ -4,29 +4,55 @@ import type { FormEvent } from "react";
 import { useEffect, useRef, useState } from "react";
 
 import { useChatbotSession } from "@/components/chat/use-chatbot-session";
+import type { Locale } from "@/lib/i18n";
 import type { SiteContent } from "@/lib/site-content";
 
 const OPEN_STATE_STORAGE_KEY = "northline-lena-widget-open";
 const CHAT_SESSION_STORAGE_KEY = "northline-lena-widget-session";
+const MAX_WIDGET_USER_MESSAGES = 6;
 
 const AVATAR_SRC = "/lena-avatar.jpg";
 
 type SiteChatWidgetProps = {
   content: SiteContent["widget"];
+  locale: Locale;
 };
 
-export function SiteChatWidget({ content }: SiteChatWidgetProps) {
+export function SiteChatWidget({ content, locale }: SiteChatWidgetProps) {
   const [isOpen, setIsOpen] = useState(false);
   const [hasLoadedState, setHasLoadedState] = useState(false);
   const threadRef = useRef<HTMLDivElement>(null);
 
-  const { ctaHref, displayMessages, error, input, isSubmitting, messages, sendMessage, setInput } =
+  const {
+    ctaHref,
+    displayMessages,
+    error,
+    feedbackChoice,
+    input,
+    isConversationClosed,
+    isFeedbackSubmitted,
+    isSubmitting,
+    messages,
+    sendMessage,
+    setInput,
+    submitFeedback,
+  } =
     useChatbotSession({
       fallbackErrorMessage: content.connectionIssueDescription,
       initialAssistantMessage: content.initialAssistantMessage,
+      limitReachedMessage: content.limitReachedMessage,
+      locale,
+      maxUserMessages: MAX_WIDGET_USER_MESSAGES,
       persistKey: CHAT_SESSION_STORAGE_KEY,
     });
   const showDemoCta = Boolean(ctaHref) && (messages.length > 1 || Boolean(error));
+  const showFeedbackPrompt = isConversationClosed && !isFeedbackSubmitted;
+  const feedbackAcknowledgement =
+    feedbackChoice === "yes"
+      ? content.feedbackAcknowledgementYes
+      : feedbackChoice === "no"
+        ? content.feedbackAcknowledgementNo
+        : null;
 
   useEffect(() => {
     try {
@@ -61,7 +87,7 @@ export function SiteChatWidget({ content }: SiteChatWidgetProps) {
     });
 
     return () => window.cancelAnimationFrame(frame);
-  }, [displayMessages.length, error, isOpen, isSubmitting]);
+  }, [displayMessages.length, error, feedbackChoice, isConversationClosed, isOpen, isSubmitting]);
 
   function handleSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
@@ -138,6 +164,38 @@ export function SiteChatWidget({ content }: SiteChatWidgetProps) {
                 </div>
               </div>
             ) : null}
+
+            {showFeedbackPrompt ? (
+              <div className="site-chat-row site-chat-row-assistant">
+                <span className="site-chat-message-avatar" aria-hidden="true">
+                  <img alt="" src={AVATAR_SRC} />
+                </span>
+
+                <div className="site-chat-feedback-card" role="group" aria-label={content.feedbackQuestion}>
+                  <p>{content.feedbackQuestion}</p>
+                  <div className="site-chat-feedback-actions">
+                    <button className="site-chat-feedback-button" type="button" onClick={() => submitFeedback("yes")}>
+                      {content.feedbackYesLabel}
+                    </button>
+                    <button className="site-chat-feedback-button" type="button" onClick={() => submitFeedback("no")}>
+                      {content.feedbackNoLabel}
+                    </button>
+                  </div>
+                </div>
+              </div>
+            ) : null}
+
+            {isFeedbackSubmitted && feedbackAcknowledgement ? (
+              <div className="site-chat-row site-chat-row-assistant">
+                <span className="site-chat-message-avatar" aria-hidden="true">
+                  <img alt="" src={AVATAR_SRC} />
+                </span>
+
+                <div className="site-chat-feedback-card is-submitted" role="status" aria-live="polite">
+                  <p>{feedbackAcknowledgement}</p>
+                </div>
+              </div>
+            ) : null}
           </div>
 
           {error ? (
@@ -156,22 +214,26 @@ export function SiteChatWidget({ content }: SiteChatWidgetProps) {
             </div>
           ) : null}
 
-          <form className={`site-chat-composer${showDemoCta ? " has-cta-row" : ""}`} onSubmit={handleSubmit}>
+          <form
+            className={`site-chat-composer${showDemoCta ? " has-cta-row" : ""}${isConversationClosed ? " is-closed" : ""}`}
+            onSubmit={handleSubmit}
+          >
             <label className="site-chat-input-wrap">
               <span className="sr-only">{content.inputLabel}</span>
               <input
                 autoComplete="off"
                 className="site-chat-input"
+                disabled={isSubmitting || isConversationClosed}
                 name="lena-chat-message"
-                placeholder={content.inputPlaceholder}
+                placeholder={isConversationClosed ? content.closedInputPlaceholder : content.inputPlaceholder}
                 type="text"
                 value={input}
                 onChange={(event) => setInput(event.target.value)}
               />
             </label>
 
-            <button className="site-chat-send" disabled={isSubmitting} type="submit">
-              {isSubmitting ? "..." : content.sendLabel}
+            <button className="site-chat-send" disabled={isSubmitting || isConversationClosed} type="submit">
+              {isConversationClosed ? content.closedSendLabel : isSubmitting ? "..." : content.sendLabel}
             </button>
           </form>
         </div>

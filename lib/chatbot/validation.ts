@@ -1,3 +1,4 @@
+import { normalizeLocale } from "@/lib/i18n";
 import type { ChatMessage, ChatRequestPayload } from "@/lib/chatbot/types";
 
 const MAX_HISTORY_MESSAGES = 10;
@@ -29,8 +30,9 @@ export function validateChatRequest(payload: unknown) {
     };
   }
 
-  const { history, message } = payload as Partial<ChatRequestPayload>;
+  const { history, locale, message } = payload as Partial<ChatRequestPayload>;
   const normalizedMessage = normalizeContent(message);
+  const normalizedLocale = normalizeLocale(locale);
 
   if (!normalizedMessage) {
     return {
@@ -43,6 +45,7 @@ export function validateChatRequest(payload: unknown) {
     return {
       ok: true as const,
       data: {
+        locale: normalizedLocale,
         message: normalizedMessage,
         history: [],
       },
@@ -89,6 +92,7 @@ export function validateChatRequest(payload: unknown) {
   return {
     ok: true as const,
     data: {
+      locale: normalizedLocale,
       message: normalizedMessage,
       history: normalizedHistory,
     },

@@ -1,3 +1,5 @@
+import type { Locale } from "@/lib/i18n";
+
 export type ChatMessageRole = "user" | "assistant";
 
 export type ChatMessage = {
@@ -6,6 +8,7 @@ export type ChatMessage = {
 };
 
 export type ChatRequestPayload = {
+  locale?: Locale;
   message: string;
   history?: ChatMessage[];
 };

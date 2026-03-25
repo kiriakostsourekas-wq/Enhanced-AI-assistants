@@ -31,7 +31,7 @@ export default async function ChatbotTestPage() {
       <section className="section">
         <div className="container chatbot-test-shell">
           <Reveal className="card chatbot-test-panel-card">
-            <ChatbotTestPanel content={siteContent.chatbotTestPanel} />
+            <ChatbotTestPanel content={siteContent.chatbotTestPanel} locale={locale} />
           </Reveal>
 
           <Reveal className="card chatbot-test-side-card" delay={0.08}>

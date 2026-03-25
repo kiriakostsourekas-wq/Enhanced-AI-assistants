@@ -1,3 +1,4 @@
+import type { Locale } from "@/lib/i18n";
 import type { ChatMessage } from "@/lib/chatbot/types";
 
 type BuildSystemPromptArgs = {
@@ -5,6 +6,7 @@ type BuildSystemPromptArgs = {
   baseSystemPrompt: string;
   brandName: string;
   knowledgePack: string;
+  locale: Locale;
   history: ChatMessage[];
   message: string;
 };
@@ -463,6 +465,7 @@ export function buildSystemPrompt({
   baseSystemPrompt,
   brandName,
   knowledgePack,
+  locale,
   history,
   message,
 }: BuildSystemPromptArgs) {
@@ -479,6 +482,13 @@ ${baseSystemPrompt.trim()}
 - If asked who you are, introduce yourself as ${assistantName}, the website assistant for ${brandName}.
 - The chat UI already includes a clickable "Book a Demo" CTA.
 - If you mention the next step, refer to it as a short demo or quick demo without pasting any raw URL or markdown link.
+
+## Language Guidance
+
+- Current website locale: ${locale === "gr" ? "Greek" : "English"}.
+- Reply in the same language as the user's latest message.
+- If the latest user message is ambiguous or mixed-language, default to the current website locale.
+- Do not switch languages unless the user does.
 
 ## Current Turn Guidance
 

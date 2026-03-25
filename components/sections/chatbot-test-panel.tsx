@@ -4,17 +4,20 @@ import type { FormEvent } from "react";
 import { useMemo } from "react";
 
 import { useChatbotSession } from "@/components/chat/use-chatbot-session";
+import type { Locale } from "@/lib/i18n";
 import type { SiteContent } from "@/lib/site-content";
 
 type ChatbotTestPanelProps = {
   content: SiteContent["chatbotTestPanel"];
+  locale: Locale;
 };
 
-export function ChatbotTestPanel({ content }: ChatbotTestPanelProps) {
+export function ChatbotTestPanel({ content, locale }: ChatbotTestPanelProps) {
   const { ctaHref, displayMessages, error, input, isSubmitting, messages, sendMessage, setInput } =
     useChatbotSession({
       fallbackErrorMessage: content.errorFallback,
       initialAssistantMessage: content.initialAssistantMessage,
+      locale,
     });
 
   const showStarterPrompts = useMemo(() => messages.length === 0, [messages.length]);

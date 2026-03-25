@@ -1,3 +1,4 @@
+import type { Locale } from "@/lib/i18n";
 import { getChatbotConfig } from "@/lib/chatbot/config";
 import { loadKnowledgePack, loadSystemPromptFile } from "@/lib/chatbot/knowledge-pack";
 import { buildSystemPrompt } from "@/lib/chatbot/prompt";
@@ -14,6 +15,7 @@ export class ChatbotConfigError extends Error {
 type GenerateWebsiteAssistantReplyArgs = {
   message: string;
   history: ChatMessage[];
+  locale: Locale;
 };
 
 const NO_AI_TALKING_TO_CUSTOMERS_PATTERN = /\bdon['’]?t want ai talking to customers\b/i;
@@ -22,7 +24,13 @@ function escapeRegExp(value: string) {
   return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
-function sanitizeAssistantReply(reply: string, demoUrl: string) {
+function getReplyFallback(locale: Locale) {
+  return locale === "gr"
+    ? "Μπορώ να βοηθήσω με το αν ταιριάζει, με τον τρόπο υλοποίησης ή με τη ροή κρατήσεων σας."
+    : "Happy to help with fit, setup, or your current booking flow.";
+}
+
+function sanitizeAssistantReply(reply: string, demoUrl: string, locale: Locale) {
   const demoTargets = [
     demoUrl.trim() ? escapeRegExp(demoUrl.trim()) : null,
     "https?:\\/\\/(?:www\\.)?calendly\\.com\\/[^)\\s]+",
@@ -52,9 +60,9 @@ function sanitizeAssistantReply(reply: string, demoUrl: string) {
     .trim()
     .replace(/[:;-]\s*$/, ".");
 
-  return /[A-Za-z0-9]/.test(sanitized)
+  return /[\p{L}\p{N}]/u.test(sanitized)
     ? sanitized
-    : "Happy to help with fit, setup, or your current booking flow.";
+    : getReplyFallback(locale);
 }
 
 function applyReplyGuardrails(reply: string, message: string) {
@@ -68,6 +76,7 @@ function applyReplyGuardrails(reply: string, message: string) {
 export async function generateWebsiteAssistantReply({
   message,
   history,
+  locale,
 }: GenerateWebsiteAssistantReplyArgs) {
   const config = getChatbotConfig();
 
@@ -86,6 +95,7 @@ export async function generateWebsiteAssistantReply({
     brandName: config.brandName,
     history,
     knowledgePack,
+    locale,
     message,
   });
 
@@ -105,6 +115,6 @@ export async function generateWebsiteAssistantReply({
     } satisfies DemoCta,
     model: response.model,
     provider: "openai" as const,
-    reply: applyReplyGuardrails(sanitizeAssistantReply(response.reply, config.demoUrl), message),
+    reply: applyReplyGuardrails(sanitizeAssistantReply(response.reply, config.demoUrl, locale), message),
   };
 }

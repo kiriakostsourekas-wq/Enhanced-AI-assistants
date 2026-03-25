@@ -38,7 +38,7 @@ export default async function RootLayout({
           <SiteHeader locale={locale} siteContent={siteContent} />
           <main className="page-shell">{children}</main>
           <SiteFooter siteContent={siteContent} />
-          <SiteChatWidget content={siteContent.widget} />
+          <SiteChatWidget content={siteContent.widget} locale={locale} />
         </div>
       </body>
     </html>
