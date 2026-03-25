@@ -8,6 +8,7 @@ import { getHtmlLang } from "@/lib/i18n";
 import { getRequestLocale } from "@/lib/i18n-server";
 import { siteConfig } from "@/lib/site-content";
 import { getSiteContent } from "@/lib/site-content";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 import "./globals.css";
 
@@ -40,6 +41,7 @@ export default async function RootLayout({
           <SiteFooter siteContent={siteContent} />
           <SiteChatWidget content={siteContent.widget} locale={locale} />
         </div>
+        <SpeedInsights />
       </body>
     </html>
   );
