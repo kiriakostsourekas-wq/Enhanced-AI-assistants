@@ -7,8 +7,10 @@ import { siteConfig } from "@/lib/site-content";
 import type { ChatApiResponse, ChatMessage } from "@/lib/chatbot/types";
 
 type UseChatbotSessionOptions = {
+  apiEndpoint?: string;
   fallbackErrorMessage?: string;
   initialAssistantMessage: string;
+  initialCtaHref?: string;
   limitReachedMessage?: string;
   locale: Locale;
   maxUserMessages?: number;
@@ -66,8 +68,10 @@ function isConversationClosureMessage(messages: ChatMessage[], finalAssistantMes
 }
 
 export function useChatbotSession({
+  apiEndpoint = "/api/chat",
   fallbackErrorMessage = "I couldn't answer right now. You can still book a demo.",
   initialAssistantMessage,
+  initialCtaHref = siteConfig.primaryCta.href,
   limitReachedMessage,
   locale,
   maxUserMessages,
@@ -79,7 +83,7 @@ export function useChatbotSession({
   const [isConversationClosed, setIsConversationClosed] = useState(false);
   const [feedbackChoice, setFeedbackChoice] = useState<ChatFeedbackChoice | null>(null);
   const [error, setError] = useState<string | null>(null);
-  const [ctaHref, setCtaHref] = useState(siteConfig.primaryCta.href);
+  const [ctaHref, setCtaHref] = useState(initialCtaHref);
   const [hasHydrated, setHasHydrated] = useState(false);
   const isConversationClosedRef = useRef(false);
   const feedbackChoiceRef = useRef<ChatFeedbackChoice | null>(null);
@@ -227,7 +231,7 @@ export function useChatbotSession({
     setMessages((current) => [...current, userMessage]);
 
     try {
-      const response = await fetch("/api/chat", {
+      const response = await fetch(apiEndpoint, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

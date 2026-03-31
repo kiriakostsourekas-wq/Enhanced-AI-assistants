@@ -1,0 +1,49 @@
+{
+  "campaignId": "athens-appointment-smb-daily",
+  "displayName": "Athens Appointment SMB Daily Prospect Run",
+  "vertical": "appointment-based smb",
+  "geography": {
+    "countryCode": "GR",
+    "region": "Attica",
+    "city": "Athens",
+    "radiusKm": 20
+  },
+  "targetLeadCount": 2,
+  "maxDemoCount": 1,
+  "outreachMode": "draft_only",
+  "discovery": {
+    "provider": "static_seed",
+    "seedQueries": [
+      "dental clinic athens"
+    ],
+    "seedProspects": [
+      {
+        "businessName": "Athens Dental Care",
+        "category": "dental clinic",
+        "address": "Marasli, Athina 106 76, Greece",
+        "phone": "+302107293211",
+        "websiteUrl": "https://www.athensdentalcare.gr/",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Athens%20Dental%20Care&query_place_id=ChIJU1tQNkS9oRQREO-6j-Me3Zk"
+      },
+      {
+        "businessName": "Athens Dental Clinic - Love Smile | Athens Dental Specialists",
+        "category": "dental clinic",
+        "address": "Athanasiou Axarlian 3, Athina 105 63, Greece",
+        "phone": "+302103232553",
+        "websiteUrl": "https://www.athensdentalspecialists.gr/",
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Athens%20Dental%20Clinic%20-%20Love%20Smile&query_place_id=ChIJw1DaaPu9oRQRfstzCsQmugo"
+      }
+    ]
+  },
+  "deployment": {
+    "previewRoutePrefix": "/antigravity-previews"
+  },
+  "schedule": {
+    "cron": "0 6 * * *",
+    "timezone": "Europe/Athens"
+  },
+  "metadata": {
+    "owner": "antigravity",
+    "notes": "Example scheduled config for local scaffolding."
+  }
+}

@@ -8,6 +8,7 @@
     "components/**/*.tsx",
     "lib/**/*.ts",
     "lib/**/*.tsx",
+    "scripts/**/*.ts",
     "next.config.ts"
   ],
   "exclude": [

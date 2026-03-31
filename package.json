@@ -6,17 +6,26 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "typecheck": "tsc --noEmit -p tsconfig.typecheck.json"
+    "typecheck": "tsc --noEmit -p tsconfig.typecheck.json",
+    "antigravity:run": "tsx scripts/run-antigravity-campaign.ts",
+    "antigravity:enrich-clinic-sites": "tsx scripts/enrich-clinic-site-snapshots.ts"
   },
   "dependencies": {
+    "@langchain/core": "^1.1.38",
+    "cheerio": "^1.2.0",
+    "langchain": "^1.2.39",
     "next": "^16.2.0",
+    "pg": "^8.20.0",
+    "playwright": "^1.58.2",
     "react": "^19.2.4",
-    "react-dom": "^19.2.4"
+    "react-dom": "^19.2.4",
+    "zod": "^4.3.6"
   },
   "devDependencies": {
     "@types/node": "^25.5.0",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
+    "tsx": "^4.21.0",
     "typescript": "^5.9.3"
   }
 }

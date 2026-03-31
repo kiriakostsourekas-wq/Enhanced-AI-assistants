@@ -1,0 +1,34 @@
+{
+  "campaignId": "athens-clinic-discovery-daily",
+  "displayName": "Athens Clinic Discovery Daily",
+  "vertical": "appointment-based smb",
+  "geography": {
+    "countryCode": "GR",
+    "region": "Attica",
+    "city": "Athens",
+    "radiusKm": 20
+  },
+  "targetLeadCount": 10,
+  "maxDemoCount": 2,
+  "outreachMode": "draft_only",
+  "discovery": {
+    "provider": "appointment_smb_csv",
+    "csvDatasetPath": "clinics/athens_clinics_leads.csv",
+    "minimumOverallScore": 0.55,
+    "excludeDomains": [],
+    "excludeBusinessNames": [],
+    "seedQueries": [],
+    "seedProspects": []
+  },
+  "deployment": {
+    "previewRoutePrefix": "/antigravity-previews"
+  },
+  "schedule": {
+    "cron": "0 6 * * *",
+    "timezone": "Europe/Athens"
+  },
+  "metadata": {
+    "owner": "antigravity",
+    "purpose": "Lead discovery example using the Athens clinic CSV source."
+  }
+}
