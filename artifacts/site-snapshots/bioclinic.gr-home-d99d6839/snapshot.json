@@ -1,0 +1,2541 @@
+{
+  "domain": "bioclinic.gr",
+  "collectedAt": "2026-03-31T13:22:40.769Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/bioclinic.gr-home-d99d6839",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://bioclinic.gr/",
+      "finalUrl": "https://bioclinic.gr/",
+      "fetchedAt": "2026-03-31T13:22:20.625Z",
+      "metadata": {
+        "title": "Βιοκλινική – Ιατρική φροντίδα με ανθρώπινο πρόσωπο",
+        "canonicalUrl": "https://bioclinic.gr/",
+        "language": "en-US",
+        "openGraphTitle": "Home",
+        "openGraphDescription": "Κλινικές Συνεργασίες με Ασφαλιστικές Εταιρείες",
+        "openGraphImage": "https://bioclinic.gr/wp-content/uploads/2020/10/new-logo-bioclinic-2020.jpg"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Κλινικές"
+        },
+        {
+          "level": "h2",
+          "text": "Συνεργασίες με Ασφαλιστικές Εταιρείες"
+        },
+        {
+          "level": "h2",
+          "text": "Οι κλινικές είναι συμβεβλημένες με τον Ε.Ο.Π.Υ.Υ και τα λοιπά εκτός Ε.Ο.Π.Υ.Υ ασφαλιστικά ταμεία για Νοσηλείες και Διαγνωστικές Εξετάσεις καθώς και με όλες τις Ασφαλιστικές Εταιρείες εξυπηρετώντας και τα Επείγοντα Περιστατικά"
+        },
+        {
+          "level": "h2",
+          "text": "Πληροφορίες"
+        },
+        {
+          "level": "h2",
+          "text": "Εισαγωγή στην Κλινική"
+        },
+        {
+          "level": "h2",
+          "text": "Ώρες επισκεπτηρίου"
+        },
+        {
+          "level": "h2",
+          "text": "Εξιτήριο Ασθενούς"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://bioclinic.gr/"
+        },
+        {
+          "href": "https://www.bioclinic.gr/koronoios/"
+        },
+        {
+          "href": "https://www.bioclinic.gr/en/covid-19/"
+        },
+        {
+          "href": "https://bioclinic.gr/omilos/",
+          "label": "ΟΜΙΛΟΣ"
+        },
+        {
+          "href": "https://www.bioclinic.gr/bioclinic-athens/",
+          "label": "ΑΘΗΝΑ"
+        },
+        {
+          "href": "https://www.bioclinic.gr/bioclinic-thessaloniki/",
+          "label": "ΘΕΣΣΑΛΟΝΙΚΗ"
+        },
+        {
+          "href": "https://bioclinic.gr/kardiologiko-tmima-athens/",
+          "label": "Καρδιολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/ogologiko-tmima/",
+          "label": "Ογκολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/pnevmonologiko-tmima/",
+          "label": "Πνευμονολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/nefrologiko/",
+          "label": "Νεφρολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/pathologiko-tmima/",
+          "label": "Παθολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/nevrologiko-tmima/",
+          "label": "Νευρολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/ypertasiologiko-tmima/",
+          "label": "Υπερτασιολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/aggeioxeirourgiko-tmima/",
+          "label": "Αγγειοχειρουργικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/nevroheirourgiko-tmima/",
+          "label": "Νευροχειρουργικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/orthopediko-tmima/",
+          "label": "Ορθοπαιδικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/ourologiko-tmima/",
+          "label": "Ουρολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/tmima-wrl/",
+          "label": "Ω.Ρ.Λ."
+        },
+        {
+          "href": "https://www.bioclinic.gr/thwrakoheirourgiko-tmima/",
+          "label": "Θωρακοχειρουργικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/genini-xeirourgiki/",
+          "label": "Γεν. Χειρουργικής"
+        },
+        {
+          "href": "https://www.bioclinic.gr/gnathoheirourgiko-tmima/",
+          "label": "Γναθοχειρουργικό"
+        },
+        {
+          "href": "https://bioclinic.gr/iatreio-prwktou-athens/",
+          "label": "Ιατρείο Πρωκτού"
+        },
+        {
+          "href": "https://www.bioclinic.gr/plastiki-heirourgiki/",
+          "label": "Πλαστικής Χειρουργικής"
+        },
+        {
+          "href": "https://bioclinic.gr/kentro-mastou-2/",
+          "label": "Κέντρο Μαστού"
+        },
+        {
+          "href": "https://www.bioclinic.gr/maieftiko-tmima/",
+          "label": "Μαιευτικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/neognologiko-tmima/",
+          "label": "Νεογνολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/tmima-endoskopisewn/",
+          "label": "Ενδοσκοπήσεων"
+        },
+        {
+          "href": "https://www.bioclinic.gr/meth/",
+          "label": "Μονάδα Εντατικής Θεραπείας (ΜΕΘ)"
+        },
+        {
+          "href": "https://www.bioclinic.gr/technito-nefro/",
+          "label": "Μονάδα Τεχνητού Νεφρού (ΜΤΝ)"
+        },
+        {
+          "href": "https://www.bioclinic.gr/maf/",
+          "label": "Μονάδα Αυξημένης Φροντίδας (ΜΑΦ)"
+        },
+        {
+          "href": "https://www.bioclinic.gr/therapeia-neognwn/",
+          "label": "Μονάδα Εντατικής Νοσηλείας Νεογνών"
+        },
+        {
+          "href": "https://www.bioclinic.gr/day-clinic/",
+          "label": "One Day Clinic"
+        },
+        {
+          "href": "https://bioclinic.gr/iatreio-endoskopikis/",
+          "label": "ΙΑΤΡΕΙΟ ΕΝΔΟΣΚΟΠΙΚΗΣ & ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΗΣ ΧΕΙΡΟΥΡΓΙΚΗΣ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣ"
+        },
+        {
+          "href": "https://bioclinic.gr/iatreio-klimaktiriou-eminopausis/",
+          "label": "ΙΑΤΡΕΙΟ ΚΛΙΜΑΚΤΗΡΙΟΥ – ΕΜΜΗΝΟΠΑΥΣΗΣ"
+        },
+        {
+          "href": "https://bioclinic.gr/pnevmonologiko-iatreio-long-covid/",
+          "label": "ΠΝΕΥΜΟΝΟΛΟΓΙΚΟ ΙΑΤΡΕΙΟ LONG-COVID"
+        },
+        {
+          "href": "https://bioclinic.gr/tmima-epemvatikis-kardiologias-aimodynamiko-ergastirio/",
+          "label": "Αιμοδυναμικό"
+        },
+        {
+          "href": "https://bioclinic.gr/eidiko-iatreio-sklirynsis-kata-plakas/",
+          "label": "ΕΙΔΙΚΟ ΙΑΤΡΕΙΟ ΣΚΛΗΡΥΝΣΗΣ ΚΑΤΑ ΠΛΑΚΑΣ"
+        },
+        {
+          "href": "https://www.bioclinic.gr/tmima-epeigontwn/",
+          "label": "Τμήμα Επειγόντων Περιστατικών"
+        },
+        {
+          "href": "https://bioclinic.gr/kentro-klinikis-diatrofis/",
+          "label": "Κέντρο κλινικής διατροφής"
+        },
+        {
+          "href": "https://www.bioclinic.gr/diataraxes-ypnou/",
+          "label": "Κέντρο Διαταραχών Υπνου – Επιληψίας"
+        },
+        {
+          "href": "https://www.bioclinic.gr/tmima-arrhythmiwn/",
+          "label": "Τμήμα Αρρυθμιών"
+        },
+        {
+          "href": "https://www.bioclinic.gr/physiki-apokatastasi/",
+          "label": "Φυσικής Αποκατάστασης"
+        },
+        {
+          "href": "https://www.bioclinic.gr/epemvatikis-aktinologias/",
+          "label": "Επεμβατική Ακτινολογία"
+        },
+        {
+          "href": "https://bioclinic.gr/pelmatografia/",
+          "label": "Ειδικό Τμήμα Πελματογραφίας"
+        },
+        {
+          "href": "https://bioclinic.gr/symbouleutiko-grafeio-diatrofis-exwterika-iatreia/",
+          "label": "Διατροφολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/ofthalmologiko-exoteriko-iatreio/",
+          "label": "Οφθαλμολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/aimatologiko-ergastirio/",
+          "label": "Αιματολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/mikroviologiko-ergastirio/",
+          "label": "Μικροβιολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/biohimiko-ergastirio/",
+          "label": "Βιοχημικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/anosologiko-ergastirio/",
+          "label": "Ορμονολογικό"
+        },
+        {
+          "href": "https://bioclinic.gr/tmima-epeigontwn/",
+          "label": "ΕΠΕΙΓΟΝΤΑ"
+        },
+        {
+          "href": "https://bioclinic.gr/vreite-giatro/",
+          "label": "ΒΡΕΙΤΕ ΙΑΤΡΟ"
+        },
+        {
+          "href": "https://bioclinic.gr/plirofories-3/",
+          "label": "ΠΛΗΡΟΦΟΡΙΕΣ"
+        },
+        {
+          "href": "https://bioclinic.gr/anakoinwseis-deltia-typou/",
+          "label": "Aνακοινώσεις / Δελτία Τύπου"
+        },
+        {
+          "href": "https://bioclinic.gr/arthrografia/",
+          "label": "Αρθρογραφία Ιατρών"
+        },
+        {
+          "href": "https://bioclinic.gr/docs/",
+          "label": "Έντυπα"
+        },
+        {
+          "href": "https://bioclinic.gr/magazines-bioiatriki/",
+          "label": "Περιοδικά"
+        },
+        {
+          "href": "https://bioclinic.gr/epikoinwnia/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://bioclinic.gr/author/bioclinic_user/",
+          "label": "bioclinic_user"
+        },
+        {
+          "href": "https://bioclinic.gr/en/"
+        },
+        {
+          "href": "https://bioclinic.gr/bioclinic-athens/"
+        },
+        {
+          "href": "https://bioclinic.gr/bioclinic-thessaloniki/"
+        },
+        {
+          "href": "https://bioclinic.gr/%3Ca",
+          "label": "Χημείο Γιαννουκά"
+        },
+        {
+          "href": "https://bioclinic.gr/plirofories/",
+          "label": "Πληροφορίες"
+        },
+        {
+          "href": "https://www.bioclinic.gr/anakoinwseis-deltia-typou/",
+          "label": "Ανακοινώσεις"
+        },
+        {
+          "href": "https://www.bioclinic.gr/arthrografia/",
+          "label": "Αρθρογραφία"
+        },
+        {
+          "href": "https://bioclinic.gr/prosopika-dedomena/",
+          "label": "Πολιτική Προστασίας Προσωπικών Δεδομένων"
+        },
+        {
+          "href": "https://bioclinic.gr/cookies-bioclinic/",
+          "label": "Πολιτική Cookies"
+        },
+        {
+          "href": "https://bioclinic.gr/oikonomika-stoiheia/",
+          "label": "Οικονομικά Στοιχεία"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "210 6962600",
+          "2310 372600",
+          "2026-01-12",
+          "210 6962447 (24",
+          "000242201000",
+          "057268204000",
+          "2106962600",
+          "2310372600",
+          "+302106962600",
+          "+302310372600"
+        ],
+        "emails": [],
+        "addresses": [
+          "Όμιλος ΒΙΟΙΑΤΡΙΚΗ Βιοκλινική Αθηνών Βιοκλινική Θεσσαλονίκης Kέντρο Διεθνών Ασθενών Χημείο Γιαννουκά Άλφα Εύρεσις Bioiatriki+ Επείγοντα Βρείτε Ιατρό Πληροφορίες Ανακοινώσεις Αρθρογραφία Έντυπα Περιοδικά Πολιτική Προστασίας Προσωπικών Δεδομένων Πολιτική Cookies Οικονομικά Στοιχεία Ευκαιρίες Καριέρας Για ραντεβού καλέστε Αθήνα : 210 6962600 Θεσσαλονίκη : 2310 372600 Ώρες λειτουργίας τηλεφωνικού κέντρου Δευτ. - Σαβ. 7:00 - 22:00 Για έκτακτα περιστατικά 210 6962447 (24ωρο) Δείτε τους χάρτες > FacebookYoutubeLinkedin ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΑΘΗΝΩΝ: 000242201000 ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΘΕΣΣΑΛΟΝΙΚΗΣ: 057268204000"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/bioclinic.gr/",
+            "label": "Facebook"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UCokjZahLtnO_YdOvQKfp2xw",
+            "label": "Youtube"
+          },
+          {
+            "href": "https://gr.linkedin.com/company/bioiatriki-healthcare-group",
+            "label": "Linkedin"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "Όμιλος ΒΙΟΙΑΤΡΙΚΗ Βιοκλινική Αθηνών Βιοκλινική Θεσσαλονίκης Kέντρο Διεθνών Ασθενών Χημείο Γιαννουκά Άλφα Εύρεσις Bioiatriki+ Επείγοντα Βρείτε Ιατρό Πληροφορίες Ανακοινώσεις Αρθρογραφία Έντυπα Περιοδικά Πολιτική Προστασίας Προσωπικών Δεδομένων Πολιτική Cookies Οικονομικά Στοιχεία Ευκαιρίες Καριέρας Για ραντεβού καλέστε Αθήνα : 210 6962600 Θεσσαλονίκη : 2310 372600 Ώρες λειτουργίας τηλεφωνικού κέντρου Δευτ. - Σαβ. 7:00 - 22:00 Για έκτακτα περιστατικά 210 6962447 (24ωρο) Δείτε τους χάρτες > FacebookYoutubeLinkedin ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΑΘΗΝΩΝ: 000242201000 ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΘΕΣΣΑΛΟΝΙΚΗΣ: 057268204000",
+      "textContent": "ΓΙΑ ΡΑΝΤΕΒΟΥ ΚΑΛΕΣΤΕ : ΑΘΗΝΑ 210 6962600, ΘΕΣΣΑΛΟΝΙΚΗ 2310 372600 ΑΜΕΣΗ ΑΝΑΓΚΗ! 14 501 ΑΡΧΙΚΗΟΜΙΛΟΣΑΘΗΝΑΘΕΣΣΑΛΟΝΙΚΗTMHMATAΠαθολογικός ΤομέαςΚαρδιολογικό ΤμήμαΟγκολογικό ΤμήμαΠνευμονολογικό ΤμήμαΝεφρολογικό ΤμήμαΠαθολογικό ΤμήμαΝευρολογικό ΤμήμαΥπερτασιολογικό ΤμήμαΧειρουργικός τομέαςΑγγειοχειρουργικόΝευροχειρουργικόΟρθοπαιδικόΟυρολογικόΩ.Ρ.Λ.ΘωρακοχειρουργικόΓεν. ΧειρουργικήςΓναθοχειρουργικόΙατρείο ΠρωκτούΠλαστικής ΧειρουργικήςΚέντρο ΜαστούΜαιευτικόΝεογνολογικόΕνδοσκοπήσεωνΜονάδεςΜονάδα Εντατικής Θεραπείας (ΜΕΘ)Μονάδα Τεχνητού Νεφρού (ΜΤΝ)Μονάδα Αυξημένης Φροντίδας (ΜΑΦ)Μονάδα Εντατικής Νοσηλείας ΝεογνώνOne Day ClinicΕιδικά ΤμήματαΙΑΤΡΕΙΟ ΕΝΔΟΣΚΟΠΙΚΗΣ & ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΗΣ ΧΕΙΡΟΥΡΓΙΚΗΣ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣΙΑΤΡΕΙΟ ΚΛΙΜΑΚΤΗΡΙΟΥ – ΕΜΜΗΝΟΠΑΥΣΗΣΠΝΕΥΜΟΝΟΛΟΓΙΚΟ ΙΑΤΡΕΙΟ LONG-COVIDΑιμοδυναμικόΕΙΔΙΚΟ ΙΑΤΡΕΙΟ ΣΚΛΗΡΥΝΣΗΣ ΚΑΤΑ ΠΛΑΚΑΣΤμήμα Επειγόντων ΠεριστατικώνΚέντρο κλινικής διατροφήςΚέντρο Διαταραχών Υπνου – ΕπιληψίαςΤμήμα ΑρρυθμιώνΦυσικής ΑποκατάστασηςΕπεμβατική ΑκτινολογίαΕιδικό Τμήμα ΠελματογραφίαςΕξωτερικά ΙατρείαΙατρείο ΠρωκτούΔιατροφολογικόΟφθαλμολογικόΔιαγνωστικά ΕργαστήριαΑιματολογικόΜικροβιολογικόΒιοχημικόΟρμονολογικόΑνοσολογικόΕΠΕΙΓΟΝΤΑΒΡΕΙΤΕ ΙΑΤΡΟΠΛΗΡΟΦΟΡΙΕΣΕΥΚΑΙΡΙΕΣ ΚΑΡΙΕΡΑΣΕΝΗΜΕΡΩΣΗAνακοινώσεις / Δελτία ΤύπουΑρθρογραφία ΙατρώνΈντυπαΠεριοδικάΕΠΙΚΟΙΝΩΝΙΑΑΡΧΙΚΗΟΜΙΛΟΣΑΘΗΝΑΘΕΣΣΑΛΟΝΙΚΗTMHMATAΠαθολογικός ΤομέαςΚαρδιολογικό ΤμήμαΟγκολογικό ΤμήμαΠνευμονολογικό ΤμήμαΝεφρολογικό ΤμήμαΠαθολογικό ΤμήμαΝευρολογικό ΤμήμαΥπερτασιολογικό ΤμήμαΧειρουργικός τομέαςΑγγειοχειρουργικόΝευροχειρουργικόΟρθοπαιδικόΟυρολογικόΩ.Ρ.Λ.ΘωρακοχειρουργικόΓεν. ΧειρουργικήςΓναθοχειρουργικόΙατρείο ΠρωκτούΠλαστικής ΧειρουργικήςΚέντρο ΜαστούΜαιευτικόΝεογνολογικόΕνδοσκοπήσεωνΜονάδεςΜονάδα Εντατικής Θεραπείας (ΜΕΘ)Μονάδα Τεχνητού Νεφρού (ΜΤΝ)Μονάδα Αυξημένης Φροντίδας (ΜΑΦ)Μονάδα Εντατικής Νοσηλείας ΝεογνώνOne Day ClinicΕιδικά ΤμήματαΙΑΤΡΕΙΟ ΕΝΔΟΣΚΟΠΙΚΗΣ & ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΗΣ ΧΕΙΡΟΥΡΓΙΚΗΣ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣΙΑΤΡΕΙΟ ΚΛΙΜΑΚΤΗΡΙΟΥ – ΕΜΜΗΝΟΠΑΥΣΗΣΠΝΕΥΜΟΝΟΛΟΓΙΚΟ ΙΑΤΡΕΙΟ LONG-COVIDΑιμοδυναμικόΕΙΔΙΚΟ ΙΑΤΡΕΙΟ ΣΚΛΗΡΥΝΣΗΣ ΚΑΤΑ ΠΛΑΚΑΣΤμήμα Επειγόντων ΠεριστατικώνΚέντρο κλινικής διατροφήςΚέντρο Διαταραχών Υπνου – ΕπιληψίαςΤμήμα ΑρρυθμιώνΦυσικής ΑποκατάστασηςΕπεμβατική ΑκτινολογίαΕιδικό Τμήμα ΠελματογραφίαςΕξωτερικά ΙατρείαΙατρείο ΠρωκτούΔιατροφολογικόΟφθαλμολογικόΔιαγνωστικά ΕργαστήριαΑιματολογικόΜικροβιολογικόΒιοχημικόΟρμονολογικόΑνοσολογικόΕΠΕΙΓΟΝΤΑΒΡΕΙΤΕ ΙΑΤΡΟΠΛΗΡΟΦΟΡΙΕΣΕΥΚΑΙΡΙΕΣ ΚΑΡΙΕΡΑΣΕΝΗΜΕΡΩΣΗAνακοινώσεις / Δελτία ΤύπουΑρθρογραφία ΙατρώνΈντυπαΠεριοδικάΕΠΙΚΟΙΝΩΝΙΑ #fusion-slider-19 .flex-direction-nav a {width:63px;height:63px;line-height:63px;font-size:25px;} Loading... Home bioclinic_user 2026-01-12T13:13:30+00:00 Κλινικές Συνεργασίες με Ασφαλιστικές Εταιρείες .reading-box-container-1 .element-bottomshadow:before,.reading-box-container-1 .element-bottomshadow:after{opacity:0.7;}Οι κλινικές είναι συμβεβλημένες με τον Ε.Ο.Π.Υ.Υ και τα λοιπά εκτός Ε.Ο.Π.Υ.Υ ασφαλιστικά ταμεία για Νοσηλείες και Διαγνωστικές Εξετάσεις καθώς και με όλες τις Ασφαλιστικές Εταιρείες εξυπηρετώντας και τα Επείγοντα Περιστατικά Διαγνωστικές εξετάσεις Πραγματοποιείται το σύνολο των διαγνωστικών εξετάσεων (μικροβιολογικών και απεικονιστικών) σε τακτική βάση κατόπιν ραντεβού και εκτάκτως μέσω του τμήματος επειγόντων όλο το 24ωρο Εξωτερικά Ιατρεία Λειτουργούν κατόπιν ραντεβού τακτικά εξωτερικά ιατρεία που καλύπτουν το σύνολο των ιατρικών ειδικοτήτων Παροχή ασθενοφόρου Παρέχεται ασθενοφόρο για μεταφορά ασθενών από και προς τις Κλινικές και τα Διαγνωστικά Κέντρα του Ομίλου σε τακτική και επείγουσα βάση κατόπιν συνεννόησης Πληροφορίες .fusion-content-boxes-1 .heading h2{color:ffffff;} .fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading h2, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading .heading-link h2, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading h2, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading .heading-link h2, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::after, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::before, .fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover:after, .fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover:before, .fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::after, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::before, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .icon .circle-no, .fusion-content-boxes-1 .heading .heading-link:hover .content-box-heading { color: #ffffff; } .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .icon .circle-no { color: #ffffff !important; }.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box.link-area-box-hover .fusion-content-box-button {background: #e84c42;color: #ffffff;}.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box.link-area-box-hover .fusion-content-box-button .fusion-button-text {color: #ffffff;} .fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading .icon > span { background-color: #ffffff !important; } .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading .icon > span { border-color: #ffffff !important; }Εισαγωγή στην ΚλινικήΟι ασθενείς με προγραμματισμένες εισαγωγές θα πρέπει σε κάθε περίπτωση να προσκομίζουν στο Γραφείο Κίνησης το βιβλιάριο του ασφαλιστικού τους φορέα την ημέρα εισαγωγής. Για την εισαγωγή απαιτείται: βιβλιάριο ασθενείας, ΑΜΚΑ, Α.Φ.Μ. – Δ.Ο.Υ και αστυνομική ταυτότητα. Για τα εκτός του Ε.Ο.Π.Υ.Υ. ταμεία διαφοροποιείται η διαδικασία. Οι ασφαλισμένοι σε ιδιωτική ασφάλεια θα πρέπει να έχουν μαζί τους τον αριθμό του συμβολαίου ή την κάρτα τους και οι ίδιοι να έχουν ενημερώσει την ασφαλιστική τους εταιρεία για την εισαγωγή τους στην Κλινική.Ώρες επισκεπτηρίουΣε συμμόρφωση με πρόσφατη Υπουργική Απόφαση για λόγους προστασίας της δημόσιας υγείας, σας ενημερώνουμε ότι από 1 έως και 30 Σεπτεμβρίου, αναστέλλεται το επισκεπτήριο σε όλους τους τύπους δωματίων και για όλους τους τύπους των περιστατικών. Ευχαριστούμε για την κατανόηση και την συνεργασία.Εξιτήριο ΑσθενούςΗ ημέρα εξιτηρίου σας δεν χρεώνεται, αρκεί να έχετε ολοκληρώσει τη νοσηλεία σας έως τις 15:00 το μεσημέρι. Οι τρόποι πληρωμής προς την κάθε Κλινική είναι με κατάθεση μετρητών στο Ταμείο, ή με πιστωτική κάρτα ή προσωπική επιταγή του ασθενή. Στο τιμολόγιο της Κλινικής δεν συμπεριλαμβάνεται η αμοιβή του θεράποντα Ιατρού, για την οποία γίνεται απευθείας συνεννόηση μεταξύ ασθενή και ιατρού. .fusion-content-boxes-1 .fusion-content-box-hover .heading-link:hover .icon i.circle-yes, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box:hover .heading-link .icon i.circle-yes, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading .icon i.circle-yes, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading .icon i.circle-yes { background-color: #ffffff !important; border-color: #ffffff !important; }[fusion_content_boxes layout=\"icon-on-top\" columns=\"3\" title_size=\"\" title_color=\"ffffff\" body_color=\"ffffff\" backgroundcolor=\"\" iconcolor=\"#004388\" icon_circle=\"no\" icon_circle_radius=\"\" circlecolor=\"#ffffff\" circlebordersize=\"\" circlebordercolor=\"\" outercirclebordersize=\"\" outercirclebordercolor=\"\" icon_size=\"35\" icon_hover_type=\"\" hover_accent_color=\"#ffffff\" link_type=\"\" link_area=\" Όμιλος ΒΙΟΙΑΤΡΙΚΗ Βιοκλινική Αθηνών Βιοκλινική Θεσσαλονίκης Kέντρο Διεθνών Ασθενών Χημείο Γιαννουκά Άλφα Εύρεσις Bioiatriki+ Επείγοντα Βρείτε Ιατρό Πληροφορίες Ανακοινώσεις Αρθρογραφία Έντυπα Περιοδικά Πολιτική Προστασίας Προσωπικών Δεδομένων Πολιτική Cookies Οικονομικά Στοιχεία Ευκαιρίες Καριέρας Για ραντεβού καλέστε Αθήνα : 210 6962600 Θεσσαλονίκη : 2310 372600 Ώρες λειτουργίας τηλεφωνικού κέντρου Δευτ. - Σαβ. 7:00 - 22:00 Για έκτακτα περιστατικά 210 6962447 (24ωρο) Δείτε τους χάρτες > FacebookYoutubeLinkedin ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΑΘΗΝΩΝ: 000242201000 ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΘΕΣΣΑΛΟΝΙΚΗΣ: 057268204000 Copyright © document.write(new Date().getFullYear());, Bioclinic.gr | All Rights Reserved | Created by Leader Online jQuery( document ).ready( function() { var ajaxurl = 'https://bioclinic.gr/wp-admin/admin-ajax.php'; if ( 0 < jQuery( '.fusion-login-nonce' ).length ) { jQuery.get( ajaxurl, { 'action': 'fusion_login_nonce' }, function( response ) { jQuery( '.fusion-login-nonce' ).html( response ); }); } }); jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({\"closeText\":\"Close\",\"currentText\":\"Today\",\"monthNames\":[\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"monthNamesShort\":[\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\",\"Jul\",\"Aug\",\"Sep\",\"Oct\",\"Nov\",\"Dec\"],\"nextText\":\"Next\",\"prevText\":\"Previous\",\"dayNames\":[\"Sunday\",\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\"],\"dayNamesShort\":[\"Sun\",\"Mon\",\"Tue\",\"Wed\",\"Thu\",\"Fri\",\"Sat\"],\"dayNamesMin\":[\"S\",\"M\",\"T\",\"W\",\"T\",\"F\",\"S\"],\"dateFormat\":\"d MM yy\",\"firstDay\":1,\"isRTL\":false});}); /* <![CDATA[ */ var fusionVideoGeneralVars = {\"status_vimeo\":\"1\",\"status_yt\":\"1\"}; /* ]]> */ /* <![CDATA[ */ var fusionLightboxVideoVars = {\"lightbox_video_width\":\"1280\",\"lightbox_video_height\":\"720\"}; /* ]]> */ /* <![CDATA[ */ var fusionLightboxVars = {\"status_lightbox\":\"1\",\"lightbox_gallery\":\"1\",\"lightbox_skin\":\"metro-white\",\"lightbox_title\":\"1\",\"lightbox_arrows\":\"1\",\"lightbox_slideshow_speed\":\"5000\",\"lightbox_autoplay\":\"\",\"lightbox_opacity\":\"0.8\",\"lightbox_desc\":\"1\",\"lightbox_social\":\"1\",\"lightbox_deeplinking\":\"1\",\"lightbox_path\":\"vertical\",\"lightbox_post_images\":\"1\",\"lightbox_animation_speed\":\"Fast\"}; /* ]]> */ /* <![CDATA[ */ var avadaPortfolioVars = {\"lightbox_behavior\":\"all\",\"infinite_finished_msg\":\"<em>All items displayed.<\\/em>\",\"infinite_blog_text\":\"<em>Loading the next set of posts...<\\/em>\",\"content_break_point\":\"800\"}; /* ]]> */ /* <![CDATA[ */ var fusionAnimationsVars = {\"disable_mobile_animate_css\":\"0\"}; /* ]]> */ /* <![CDATA[ */ var fusionEqualHeightVars = {\"content_break_point\":\"800\"}; /* ]]> */ /* <![CDATA[ */ var fusionVideoBgVars = {\"status_vimeo\":\"1\",\"status_yt\":\"1\"}; /* ]]> */ /* <![CDATA[ */ var fusionContainerVars = {\"content_break_point\":\"800\",\"container_hundred_percent_height_mobile\":\"0\",\"is_sticky_header_transparent\":\"0\"}; /* ]]> */ /* <![CDATA[ */ var fusionBgImageVars = {\"content_break_point\":\"800\"}; /* ]]> */ /* <![CDATA[ */ var fusionMapsVars = {\"admin_ajax\":\"https:\\/\\/bioclinic.gr\\/wp-admin\\/admin-ajax.php\"}; /* ]]> */ /* <![CDATA[ */ var fusionTabVars = {\"content_break_point\":\"800\"}; /* ]]> */ /* <![CDATA[ */ var fusionTestimonialVars = {\"testimonials_speed\":\"4000\"}; /* ]]> */ /* <![CDATA[ */ var fusionCountersBox = {\"counter_box_speed\":\"1000\"}; /* ]]> */ /* <![CDATA[ */ var fusionVideoVars = {\"status_vimeo\":\"1\"}; /* ]]> */ /* <![CDATA[ */ var fusionCarouselVars = {\"related_posts_speed\":\"2500\",\"carousel_speed\":\"2500\"}; /* ]]> */ /* <![CDATA[ */ var fusionFlexSliderVars = {\"status_vimeo\":\"1\",\"page_smoothHeight\":\"false\",\"slideshow_autoplay\":\"1\",\"slideshow_speed\":\"7000\",\"pagination_video_slide\":\"\",\"status_yt\":\"1\",\"flex_smoothHeight\":\"false\"}; /* ]]> */ /* <![CDATA[ */ var fusionBlogVars = {\"infinite_blog_text\":\"<em>Loading the next set of posts...<\\/em>\",\"infinite_finished_msg\":\"<em>All items displayed.<\\/em>\",\"slideshow_autoplay\":\"1\",\"slideshow_speed\":\"7000\",\"pagination_video_slide\":\"\",\"status_yt\":\"1\",\"lightbox_behavior\":\"all\",\"blog_pagination_type\":\"load_more_button\",\"flex_smoothHeight\":\"false\"}; /* ]]> */ /* <![CDATA[ */ var fusionIe1011Vars = {\"form_bg_color\":\"#ffffff\"}; /* ]]> */ /* <![CDATA[ */ var avadaHeaderVars = {\"header_position\":\"top\",\"header_layout\":\"v4\",\"header_sticky\":\"1\",\"header_sticky_type2_layout\":\"menu_only\",\"side_header_break_point\":\"1050\",\"header_sticky_mobile\":\"0\",\"header_sticky_tablet\":\"0\",\"mobile_menu_design\":\"modern\",\"sticky_header_shrinkage\":\"1\",\"nav_height\":\"40\",\"nav_highlight_border\":\"0\",\"logo_margin_top\":\"31px\",\"logo_margin_bottom\":\"0px\",\"layout_mode\":\"wide\",\"header_padding_top\":\"0px\",\"header_padding_bottom\":\"0px\",\"offset_scroll\":\"full\"}; /* ]]> */ /* <![CDATA[ */ var avadaMenuVars = {\"header_position\":\"Top\",\"logo_alignment\":\"Left\",\"header_sticky\":\"1\",\"side_header_break_point\":\"1050\",\"mobile_menu_design\":\"modern\",\"dropdown_goto\":\"Go to...\",\"mobile_nav_cart\":\"Shopping Cart\",\"submenu_slideout\":\"0\"}; /* ]]> */ /* <![CDATA[ */ var fusionScrollToAnchorVars = {\"content_break_point\":\"800\",\"container_hundred_percent_height_mobile\":\"0\"}; /* ]]> */ /* <![CDATA[ */ var fusionTypographyVars = {\"site_width\":\"1170px\",\"typography_responsive\":\"1\",\"typography_sensitivity\":\"0.60\",\"typography_factor\":\"1.50\"}; /* ]]> */ /* <![CDATA[ */ var avadaCommentVars = {\"title_style_type\":\"none\",\"title_margin_top\":\"0px\",\"title_margin_bottom\":\"0px\"}; /* ]]> */ /* <![CDATA[ */ var avadaSidebarsVars = {\"header_position\":\"top\",\"header_layout\":\"v4\",\"header_sticky\":\"1\",\"header_sticky_type2_layout\":\"menu_only\",\"side_header_break_point\":\"1050\",\"header_sticky_tablet\":\"0\",\"sticky_header_shrinkage\":\"1\",\"nav_height\":\"40\",\"content_break_point\":\"800\"}; /* ]]> */ /* <![CDATA[ */ var toTopscreenReaderText = {\"label\":\"Go to Top\"}; /* ]]> */ /* <![CDATA[ */ var avadaToTopVars = {\"status_totop_mobile\":\"1\"}; /* ]]> */ /* <![CDATA[ */ var avadaFusionSliderVars = {\"side_header_break_point\":\"1050\",\"slider_position\":\"below\",\"header_transparency\":\"0\",\"header_position\":\"Top\",\"content_break_point\":\"800\",\"status_vimeo\":\"1\"}; /* ]]> */ (function() { function cleanUrl(url) { if (!url || typeof url !== 'string') return url; return url .replace(/https?:\\/\\/www\\.bioclinic\\.gr/gi, function(match) { return match.replace('www.bioclinic.gr', 'bioclinic.gr'); }) .replace(/\\/\\/www\\.bioclinic\\.gr/gi, '//bioclinic.gr') .replace(/www\\.bioclinic\\.gr/gi, 'bioclinic.gr'); } function fixElementAttributes() { var selectors = document.querySelectorAll('[src],[href],[srcset],[style]'); selectors.forEach(function(el) { if (el.hasAttribute('src')) { el.setAttribute('src', cleanUrl(el.getAttribute('src'))); } if (el.hasAttribute('href')) { el.setAttribute('href', cleanUrl(el.getAttribute('href'))); } if (el.hasAttribute('srcset')) { el.setAttribute('srcset', cleanUrl(el.getAttribute('srcset'))); } if (el.hasAttribute('style')) { el.setAttribute('style', cleanUrl(el.getAttribute('style'))); } }); } if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', fixElementAttributes); } else { fixElementAttributes(); } })();",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/bioclinic.gr-home-d99d6839/homepage--d99d6839.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/bioclinic.gr-home-d99d6839/homepage--d99d6839.txt",
+      "imageReferences": [
+        {
+          "url": "https://bioclinic.gr/wp-content/uploads/2020/10/new-logo-bioclinic-2020.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://bioclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://bioclinic.gr/",
+              "retrievedAt": "2026-03-31T13:22:20.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2021/11/covid-button-gr-3.png",
+          "sourcePageUrl": "https://bioclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/",
+              "retrievedAt": "2026-03-31T13:22:20.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2021/11/covid-button-eng-3.png",
+          "sourcePageUrl": "https://bioclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/",
+              "retrievedAt": "2026-03-31T13:22:20.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2019/04/en-25x25.png",
+          "sourcePageUrl": "https://bioclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/",
+              "retrievedAt": "2026-03-31T13:22:20.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2021/06/bioclinic-diagnostic_1920X620_Slider_2.jpg",
+          "sourcePageUrl": "https://bioclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/",
+              "retrievedAt": "2026-03-31T13:22:20.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2015/02/athens-availability-new.png",
+          "sourcePageUrl": "https://bioclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/",
+              "retrievedAt": "2026-03-31T13:22:20.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2015/02/thessaloniki-availability-new.png",
+          "sourcePageUrl": "https://bioclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/",
+              "retrievedAt": "2026-03-31T13:22:20.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2015/02/alianz.jpg",
+          "sourcePageUrl": "https://bioclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/",
+              "retrievedAt": "2026-03-31T13:22:20.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2015/02/ate.png",
+          "sourcePageUrl": "https://bioclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/",
+              "retrievedAt": "2026-03-31T13:22:20.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2015/02/axa.jpg",
+          "sourcePageUrl": "https://bioclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/",
+              "retrievedAt": "2026-03-31T13:22:20.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2015/02/bupa.png",
+          "sourcePageUrl": "https://bioclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/",
+              "retrievedAt": "2026-03-31T13:22:20.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2015/02/episti.jpg",
+          "sourcePageUrl": "https://bioclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/",
+              "retrievedAt": "2026-03-31T13:22:20.623Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.625Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/bioclinic.gr-home-d99d6839/homepage-page-d99d6839.png"
+    },
+    "about": {
+      "pageType": "about",
+      "requestedUrl": "https://www.bioclinic.gr/day-clinic",
+      "finalUrl": "https://bioclinic.gr/day-clinic",
+      "fetchedAt": "2026-03-31T13:22:22.737Z",
+      "metadata": {
+        "title": "ONE DAY CLINIC – Βιοκλινική",
+        "canonicalUrl": "https://bioclinic.gr/day-clinic/",
+        "language": "en-US",
+        "openGraphTitle": "ONE DAY CLINIC",
+        "openGraphDescription": "Στο Τμήμα Ημερησίας Νοσηλείας ή Τμήμα Βραχείας Νοσηλείας δίνεται η δυνατότητα για πραγματοποίηση ιατρικών πράξεων που απαιτούν ολιγόωρη παραμονή των ασθενών και αφορούν περιστατικά πολλών ειδικοτήτων. Εξυπηρετούνται σε αυτό ογκολογικά ή ρευματολογικά περιστατικά που χρειάζονται ολιγόωρη παραμονή για την χορήγηση θεραπείας, χειρουργικά περιστατικά των οποίων η αντιμετώπιση απαιτεί χορήγηση ελαφράς αναισθησίας (μέθης),",
+        "openGraphImage": "https://bioclinic.gr/wp-content/uploads/2020/10/new-logo-bioclinic-2020.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "ONE DAY CLINIC"
+        },
+        {
+          "level": "h2",
+          "text": "Διαθεσιμότητα"
+        },
+        {
+          "level": "h3",
+          "text": "Τμήμα βραχείας νοσηλείας"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://bioclinic.gr/"
+        },
+        {
+          "href": "https://www.bioclinic.gr/koronoios/"
+        },
+        {
+          "href": "https://www.bioclinic.gr/en/covid-19/"
+        },
+        {
+          "href": "https://bioclinic.gr/omilos/",
+          "label": "ΟΜΙΛΟΣ"
+        },
+        {
+          "href": "https://www.bioclinic.gr/bioclinic-athens/",
+          "label": "ΑΘΗΝΑ"
+        },
+        {
+          "href": "https://www.bioclinic.gr/bioclinic-thessaloniki/",
+          "label": "ΘΕΣΣΑΛΟΝΙΚΗ"
+        },
+        {
+          "href": "https://bioclinic.gr/kardiologiko-tmima-athens/",
+          "label": "Καρδιολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/ogologiko-tmima/",
+          "label": "Ογκολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/pnevmonologiko-tmima/",
+          "label": "Πνευμονολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/nefrologiko/",
+          "label": "Νεφρολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/pathologiko-tmima/",
+          "label": "Παθολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/nevrologiko-tmima/",
+          "label": "Νευρολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/ypertasiologiko-tmima/",
+          "label": "Υπερτασιολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/aggeioxeirourgiko-tmima/",
+          "label": "Αγγειοχειρουργικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/nevroheirourgiko-tmima/",
+          "label": "Νευροχειρουργικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/orthopediko-tmima/",
+          "label": "Ορθοπαιδικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/ourologiko-tmima/",
+          "label": "Ουρολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/tmima-wrl/",
+          "label": "Ω.Ρ.Λ."
+        },
+        {
+          "href": "https://www.bioclinic.gr/thwrakoheirourgiko-tmima/",
+          "label": "Θωρακοχειρουργικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/genini-xeirourgiki/",
+          "label": "Γεν. Χειρουργικής"
+        },
+        {
+          "href": "https://www.bioclinic.gr/gnathoheirourgiko-tmima/",
+          "label": "Γναθοχειρουργικό"
+        },
+        {
+          "href": "https://bioclinic.gr/iatreio-prwktou-athens/",
+          "label": "Ιατρείο Πρωκτού"
+        },
+        {
+          "href": "https://www.bioclinic.gr/plastiki-heirourgiki/",
+          "label": "Πλαστικής Χειρουργικής"
+        },
+        {
+          "href": "https://bioclinic.gr/kentro-mastou-2/",
+          "label": "Κέντρο Μαστού"
+        },
+        {
+          "href": "https://www.bioclinic.gr/maieftiko-tmima/",
+          "label": "Μαιευτικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/neognologiko-tmima/",
+          "label": "Νεογνολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/tmima-endoskopisewn/",
+          "label": "Ενδοσκοπήσεων"
+        },
+        {
+          "href": "https://www.bioclinic.gr/meth/",
+          "label": "Μονάδα Εντατικής Θεραπείας (ΜΕΘ)"
+        },
+        {
+          "href": "https://www.bioclinic.gr/technito-nefro/",
+          "label": "Μονάδα Τεχνητού Νεφρού (ΜΤΝ)"
+        },
+        {
+          "href": "https://www.bioclinic.gr/maf/",
+          "label": "Μονάδα Αυξημένης Φροντίδας (ΜΑΦ)"
+        },
+        {
+          "href": "https://www.bioclinic.gr/therapeia-neognwn/",
+          "label": "Μονάδα Εντατικής Νοσηλείας Νεογνών"
+        },
+        {
+          "href": "https://www.bioclinic.gr/day-clinic/",
+          "label": "One Day Clinic"
+        },
+        {
+          "href": "https://bioclinic.gr/iatreio-endoskopikis/",
+          "label": "ΙΑΤΡΕΙΟ ΕΝΔΟΣΚΟΠΙΚΗΣ & ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΗΣ ΧΕΙΡΟΥΡΓΙΚΗΣ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣ"
+        },
+        {
+          "href": "https://bioclinic.gr/iatreio-klimaktiriou-eminopausis/",
+          "label": "ΙΑΤΡΕΙΟ ΚΛΙΜΑΚΤΗΡΙΟΥ – ΕΜΜΗΝΟΠΑΥΣΗΣ"
+        },
+        {
+          "href": "https://bioclinic.gr/pnevmonologiko-iatreio-long-covid/",
+          "label": "ΠΝΕΥΜΟΝΟΛΟΓΙΚΟ ΙΑΤΡΕΙΟ LONG-COVID"
+        },
+        {
+          "href": "https://bioclinic.gr/tmima-epemvatikis-kardiologias-aimodynamiko-ergastirio/",
+          "label": "Αιμοδυναμικό"
+        },
+        {
+          "href": "https://bioclinic.gr/eidiko-iatreio-sklirynsis-kata-plakas/",
+          "label": "ΕΙΔΙΚΟ ΙΑΤΡΕΙΟ ΣΚΛΗΡΥΝΣΗΣ ΚΑΤΑ ΠΛΑΚΑΣ"
+        },
+        {
+          "href": "https://www.bioclinic.gr/tmima-epeigontwn/",
+          "label": "Τμήμα Επειγόντων Περιστατικών"
+        },
+        {
+          "href": "https://bioclinic.gr/kentro-klinikis-diatrofis/",
+          "label": "Κέντρο κλινικής διατροφής"
+        },
+        {
+          "href": "https://www.bioclinic.gr/diataraxes-ypnou/",
+          "label": "Κέντρο Διαταραχών Υπνου – Επιληψίας"
+        },
+        {
+          "href": "https://www.bioclinic.gr/tmima-arrhythmiwn/",
+          "label": "Τμήμα Αρρυθμιών"
+        },
+        {
+          "href": "https://www.bioclinic.gr/physiki-apokatastasi/",
+          "label": "Φυσικής Αποκατάστασης"
+        },
+        {
+          "href": "https://www.bioclinic.gr/epemvatikis-aktinologias/",
+          "label": "Επεμβατική Ακτινολογία"
+        },
+        {
+          "href": "https://bioclinic.gr/pelmatografia/",
+          "label": "Ειδικό Τμήμα Πελματογραφίας"
+        },
+        {
+          "href": "https://bioclinic.gr/symbouleutiko-grafeio-diatrofis-exwterika-iatreia/",
+          "label": "Διατροφολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/ofthalmologiko-exoteriko-iatreio/",
+          "label": "Οφθαλμολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/aimatologiko-ergastirio/",
+          "label": "Αιματολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/mikroviologiko-ergastirio/",
+          "label": "Μικροβιολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/biohimiko-ergastirio/",
+          "label": "Βιοχημικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/anosologiko-ergastirio/",
+          "label": "Ορμονολογικό"
+        },
+        {
+          "href": "https://bioclinic.gr/tmima-epeigontwn/",
+          "label": "ΕΠΕΙΓΟΝΤΑ"
+        },
+        {
+          "href": "https://bioclinic.gr/vreite-giatro/",
+          "label": "ΒΡΕΙΤΕ ΙΑΤΡΟ"
+        },
+        {
+          "href": "https://bioclinic.gr/plirofories-3/",
+          "label": "ΠΛΗΡΟΦΟΡΙΕΣ"
+        },
+        {
+          "href": "https://bioclinic.gr/anakoinwseis-deltia-typou/",
+          "label": "Aνακοινώσεις / Δελτία Τύπου"
+        },
+        {
+          "href": "https://bioclinic.gr/arthrografia/",
+          "label": "Αρθρογραφία Ιατρών"
+        },
+        {
+          "href": "https://bioclinic.gr/docs/",
+          "label": "Έντυπα"
+        },
+        {
+          "href": "https://bioclinic.gr/magazines-bioiatriki/",
+          "label": "Περιοδικά"
+        },
+        {
+          "href": "https://bioclinic.gr/epikoinwnia/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://bioclinic.gr/author/bioclinic_user/",
+          "label": "bioclinic_user"
+        },
+        {
+          "href": "https://bioclinic.gr/en/day-clinic/"
+        },
+        {
+          "href": "https://bioclinic.gr/day-clinic-athens/"
+        },
+        {
+          "href": "https://bioclinic.gr/bioclinic-athens/",
+          "label": "Βιοκλινική Αθηνών"
+        },
+        {
+          "href": "https://bioclinic.gr/bioclinic-thessaloniki/",
+          "label": "Βιοκλινική Θεσσαλονίκης"
+        },
+        {
+          "href": "https://bioclinic.gr/%3Ca",
+          "label": "Χημείο Γιαννουκά"
+        },
+        {
+          "href": "https://bioclinic.gr/plirofories/",
+          "label": "Πληροφορίες"
+        },
+        {
+          "href": "https://www.bioclinic.gr/anakoinwseis-deltia-typou/",
+          "label": "Ανακοινώσεις"
+        },
+        {
+          "href": "https://www.bioclinic.gr/arthrografia/",
+          "label": "Αρθρογραφία"
+        },
+        {
+          "href": "https://bioclinic.gr/prosopika-dedomena/",
+          "label": "Πολιτική Προστασίας Προσωπικών Δεδομένων"
+        },
+        {
+          "href": "https://bioclinic.gr/cookies-bioclinic/",
+          "label": "Πολιτική Cookies"
+        },
+        {
+          "href": "https://bioclinic.gr/oikonomika-stoiheia/",
+          "label": "Οικονομικά Στοιχεία"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "210 6962600",
+          "2310 372600",
+          "2021-09-10",
+          "210 6962447 (24",
+          "000242201000",
+          "057268204000",
+          "2106962600",
+          "2310372600",
+          "+302106962600",
+          "+302310372600"
+        ],
+        "emails": [],
+        "addresses": [
+          "Όμιλος ΒΙΟΙΑΤΡΙΚΗ Βιοκλινική Αθηνών Βιοκλινική Θεσσαλονίκης Kέντρο Διεθνών Ασθενών Χημείο Γιαννουκά Άλφα Εύρεσις Bioiatriki+ Επείγοντα Βρείτε Ιατρό Πληροφορίες Ανακοινώσεις Αρθρογραφία Έντυπα Περιοδικά Πολιτική Προστασίας Προσωπικών Δεδομένων Πολιτική Cookies Οικονομικά Στοιχεία Ευκαιρίες Καριέρας Για ραντεβού καλέστε Αθήνα : 210 6962600 Θεσσαλονίκη : 2310 372600 Ώρες λειτουργίας τηλεφωνικού κέντρου Δευτ. - Σαβ. 7:00 - 22:00 Για έκτακτα περιστατικά 210 6962447 (24ωρο) Δείτε τους χάρτες > FacebookYoutubeLinkedin ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΑΘΗΝΩΝ: 000242201000 ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΘΕΣΣΑΛΟΝΙΚΗΣ: 057268204000"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/bioclinic.gr/",
+            "label": "Facebook"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UCokjZahLtnO_YdOvQKfp2xw",
+            "label": "Youtube"
+          },
+          {
+            "href": "https://gr.linkedin.com/company/bioiatriki-healthcare-group",
+            "label": "Linkedin"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "Όμιλος ΒΙΟΙΑΤΡΙΚΗ Βιοκλινική Αθηνών Βιοκλινική Θεσσαλονίκης Kέντρο Διεθνών Ασθενών Χημείο Γιαννουκά Άλφα Εύρεσις Bioiatriki+ Επείγοντα Βρείτε Ιατρό Πληροφορίες Ανακοινώσεις Αρθρογραφία Έντυπα Περιοδικά Πολιτική Προστασίας Προσωπικών Δεδομένων Πολιτική Cookies Οικονομικά Στοιχεία Ευκαιρίες Καριέρας Για ραντεβού καλέστε Αθήνα : 210 6962600 Θεσσαλονίκη : 2310 372600 Ώρες λειτουργίας τηλεφωνικού κέντρου Δευτ. - Σαβ. 7:00 - 22:00 Για έκτακτα περιστατικά 210 6962447 (24ωρο) Δείτε τους χάρτες > FacebookYoutubeLinkedin ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΑΘΗΝΩΝ: 000242201000 ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΘΕΣΣΑΛΟΝΙΚΗΣ: 057268204000",
+      "textContent": "ΓΙΑ ΡΑΝΤΕΒΟΥ ΚΑΛΕΣΤΕ : ΑΘΗΝΑ 210 6962600, ΘΕΣΣΑΛΟΝΙΚΗ 2310 372600 ΑΜΕΣΗ ΑΝΑΓΚΗ! 14 501 ΑΡΧΙΚΗΟΜΙΛΟΣΑΘΗΝΑΘΕΣΣΑΛΟΝΙΚΗTMHMATAΠαθολογικός ΤομέαςΚαρδιολογικό ΤμήμαΟγκολογικό ΤμήμαΠνευμονολογικό ΤμήμαΝεφρολογικό ΤμήμαΠαθολογικό ΤμήμαΝευρολογικό ΤμήμαΥπερτασιολογικό ΤμήμαΧειρουργικός τομέαςΑγγειοχειρουργικόΝευροχειρουργικόΟρθοπαιδικόΟυρολογικόΩ.Ρ.Λ.ΘωρακοχειρουργικόΓεν. ΧειρουργικήςΓναθοχειρουργικόΙατρείο ΠρωκτούΠλαστικής ΧειρουργικήςΚέντρο ΜαστούΜαιευτικόΝεογνολογικόΕνδοσκοπήσεωνΜονάδεςΜονάδα Εντατικής Θεραπείας (ΜΕΘ)Μονάδα Τεχνητού Νεφρού (ΜΤΝ)Μονάδα Αυξημένης Φροντίδας (ΜΑΦ)Μονάδα Εντατικής Νοσηλείας ΝεογνώνOne Day ClinicΕιδικά ΤμήματαΙΑΤΡΕΙΟ ΕΝΔΟΣΚΟΠΙΚΗΣ & ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΗΣ ΧΕΙΡΟΥΡΓΙΚΗΣ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣΙΑΤΡΕΙΟ ΚΛΙΜΑΚΤΗΡΙΟΥ – ΕΜΜΗΝΟΠΑΥΣΗΣΠΝΕΥΜΟΝΟΛΟΓΙΚΟ ΙΑΤΡΕΙΟ LONG-COVIDΑιμοδυναμικόΕΙΔΙΚΟ ΙΑΤΡΕΙΟ ΣΚΛΗΡΥΝΣΗΣ ΚΑΤΑ ΠΛΑΚΑΣΤμήμα Επειγόντων ΠεριστατικώνΚέντρο κλινικής διατροφήςΚέντρο Διαταραχών Υπνου – ΕπιληψίαςΤμήμα ΑρρυθμιώνΦυσικής ΑποκατάστασηςΕπεμβατική ΑκτινολογίαΕιδικό Τμήμα ΠελματογραφίαςΕξωτερικά ΙατρείαΙατρείο ΠρωκτούΔιατροφολογικόΟφθαλμολογικόΔιαγνωστικά ΕργαστήριαΑιματολογικόΜικροβιολογικόΒιοχημικόΟρμονολογικόΑνοσολογικόΕΠΕΙΓΟΝΤΑΒΡΕΙΤΕ ΙΑΤΡΟΠΛΗΡΟΦΟΡΙΕΣΕΥΚΑΙΡΙΕΣ ΚΑΡΙΕΡΑΣΕΝΗΜΕΡΩΣΗAνακοινώσεις / Δελτία ΤύπουΑρθρογραφία ΙατρώνΈντυπαΠεριοδικάΕΠΙΚΟΙΝΩΝΙΑΑΡΧΙΚΗΟΜΙΛΟΣΑΘΗΝΑΘΕΣΣΑΛΟΝΙΚΗTMHMATAΠαθολογικός ΤομέαςΚαρδιολογικό ΤμήμαΟγκολογικό ΤμήμαΠνευμονολογικό ΤμήμαΝεφρολογικό ΤμήμαΠαθολογικό ΤμήμαΝευρολογικό ΤμήμαΥπερτασιολογικό ΤμήμαΧειρουργικός τομέαςΑγγειοχειρουργικόΝευροχειρουργικόΟρθοπαιδικόΟυρολογικόΩ.Ρ.Λ.ΘωρακοχειρουργικόΓεν. ΧειρουργικήςΓναθοχειρουργικόΙατρείο ΠρωκτούΠλαστικής ΧειρουργικήςΚέντρο ΜαστούΜαιευτικόΝεογνολογικόΕνδοσκοπήσεωνΜονάδεςΜονάδα Εντατικής Θεραπείας (ΜΕΘ)Μονάδα Τεχνητού Νεφρού (ΜΤΝ)Μονάδα Αυξημένης Φροντίδας (ΜΑΦ)Μονάδα Εντατικής Νοσηλείας ΝεογνώνOne Day ClinicΕιδικά ΤμήματαΙΑΤΡΕΙΟ ΕΝΔΟΣΚΟΠΙΚΗΣ & ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΗΣ ΧΕΙΡΟΥΡΓΙΚΗΣ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣΙΑΤΡΕΙΟ ΚΛΙΜΑΚΤΗΡΙΟΥ – ΕΜΜΗΝΟΠΑΥΣΗΣΠΝΕΥΜΟΝΟΛΟΓΙΚΟ ΙΑΤΡΕΙΟ LONG-COVIDΑιμοδυναμικόΕΙΔΙΚΟ ΙΑΤΡΕΙΟ ΣΚΛΗΡΥΝΣΗΣ ΚΑΤΑ ΠΛΑΚΑΣΤμήμα Επειγόντων ΠεριστατικώνΚέντρο κλινικής διατροφήςΚέντρο Διαταραχών Υπνου – ΕπιληψίαςΤμήμα ΑρρυθμιώνΦυσικής ΑποκατάστασηςΕπεμβατική ΑκτινολογίαΕιδικό Τμήμα ΠελματογραφίαςΕξωτερικά ΙατρείαΙατρείο ΠρωκτούΔιατροφολογικόΟφθαλμολογικόΔιαγνωστικά ΕργαστήριαΑιματολογικόΜικροβιολογικόΒιοχημικόΟρμονολογικόΑνοσολογικόΕΠΕΙΓΟΝΤΑΒΡΕΙΤΕ ΙΑΤΡΟΠΛΗΡΟΦΟΡΙΕΣΕΥΚΑΙΡΙΕΣ ΚΑΡΙΕΡΑΣΕΝΗΜΕΡΩΣΗAνακοινώσεις / Δελτία ΤύπουΑρθρογραφία ΙατρώνΈντυπαΠεριοδικάΕΠΙΚΟΙΝΩΝΙΑ ONE DAY CLINIC Τμήμα βραχείας νοσηλείας ONE DAY CLINIC bioclinic_user 2021-09-10T15:45:46+00:00 .fusion-content-boxes-1 .heading h2{color:#00458e;} .fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading h2, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading .heading-link h2, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading h2, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading .heading-link h2, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::after, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::before, .fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover:after, .fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover:before, .fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::after, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::before, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .icon .circle-no, .fusion-content-boxes-1 .heading .heading-link:hover .content-box-heading { color: #003a6b; } .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .icon .circle-no { color: #003a6b !important; }.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box.link-area-box-hover .fusion-content-box-button {background: #e84c42;color: #ffffff;}.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box.link-area-box-hover .fusion-content-box-button .fusion-button-text {color: #ffffff;} .fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading .icon > span { background-color: transparent !important; } .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading .icon > span { border-color: #003a6b !important; } Στο Τμήμα Ημερησίας Νοσηλείας ή Τμήμα Βραχείας Νοσηλείας δίνεται η δυνατότητα για πραγματοποίηση ιατρικών πράξεων που απαιτούν ολιγόωρη παραμονή των ασθενών και αφορούν περιστατικά πολλών ειδικοτήτων. Εξυπηρετούνται σε αυτό ογκολογικά ή ρευματολογικά περιστατικά που χρειάζονται ολιγόωρη παραμονή για την χορήγηση θεραπείας, χειρουργικά περιστατικά των οποίων η αντιμετώπιση απαιτεί χορήγηση ελαφράς αναισθησίας (μέθης), ασθενείς με οξεία προβλήματα που ανατάσσονται με σύντομη ενδοφλέβια θεραπεία, όπως περιστατικά αφυδάτωσης, εμέτων ή κωλικών και αναπνευστικής δυσχέρειας σε έδαφος γνωστικής πνευμονοπάθειας. Εξυπηρετεί επίσης τις ανάγκες ασθενών που υπόκεινται σε οφθαλμολογικές επεμβάσεις (π.χ. καταρράκτη). .fusion-content-boxes-1 .fusion-content-box-hover .heading-link:hover .icon i.circle-yes, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box:hover .heading-link .icon i.circle-yes, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading .icon i.circle-yes, .fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading .icon i.circle-yes { background-color: transparent !important; border-color: #003a6b !important; } Διαθεσιμότητα Επιλέξτε την κλινική που σας ενδιαφέρει για να μάθετε περισσότερα για την αντίστοιχη one day clinic Όμιλος ΒΙΟΙΑΤΡΙΚΗ Βιοκλινική Αθηνών Βιοκλινική Θεσσαλονίκης Kέντρο Διεθνών Ασθενών Χημείο Γιαννουκά Άλφα Εύρεσις Bioiatriki+ Επείγοντα Βρείτε Ιατρό Πληροφορίες Ανακοινώσεις Αρθρογραφία Έντυπα Περιοδικά Πολιτική Προστασίας Προσωπικών Δεδομένων Πολιτική Cookies Οικονομικά Στοιχεία Ευκαιρίες Καριέρας Για ραντεβού καλέστε Αθήνα : 210 6962600 Θεσσαλονίκη : 2310 372600 Ώρες λειτουργίας τηλεφωνικού κέντρου Δευτ. - Σαβ. 7:00 - 22:00 Για έκτακτα περιστατικά 210 6962447 (24ωρο) Δείτε τους χάρτες > FacebookYoutubeLinkedin ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΑΘΗΝΩΝ: 000242201000 ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΘΕΣΣΑΛΟΝΙΚΗΣ: 057268204000 Copyright © document.write(new Date().getFullYear());, Bioclinic.gr | All Rights Reserved | Created by Leader Online jQuery( document ).ready( function() { var ajaxurl = 'https://bioclinic.gr/wp-admin/admin-ajax.php'; if ( 0 < jQuery( '.fusion-login-nonce' ).length ) { jQuery.get( ajaxurl, { 'action': 'fusion_login_nonce' }, function( response ) { jQuery( '.fusion-login-nonce' ).html( response ); }); } }); jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({\"closeText\":\"Close\",\"currentText\":\"Today\",\"monthNames\":[\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"monthNamesShort\":[\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\",\"Jul\",\"Aug\",\"Sep\",\"Oct\",\"Nov\",\"Dec\"],\"nextText\":\"Next\",\"prevText\":\"Previous\",\"dayNames\":[\"Sunday\",\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\"],\"dayNamesShort\":[\"Sun\",\"Mon\",\"Tue\",\"Wed\",\"Thu\",\"Fri\",\"Sat\"],\"dayNamesMin\":[\"S\",\"M\",\"T\",\"W\",\"T\",\"F\",\"S\"],\"dateFormat\":\"d MM yy\",\"firstDay\":1,\"isRTL\":false});}); /* <![CDATA[ */ var fusionVideoGeneralVars = {\"status_vimeo\":\"1\",\"status_yt\":\"1\"}; /* ]]> */ /* <![CDATA[ */ var fusionLightboxVideoVars = {\"lightbox_video_width\":\"1280\",\"lightbox_video_height\":\"720\"}; /* ]]> */ /* <![CDATA[ */ var fusionLightboxVars = {\"status_lightbox\":\"1\",\"lightbox_gallery\":\"1\",\"lightbox_skin\":\"metro-white\",\"lightbox_title\":\"1\",\"lightbox_arrows\":\"1\",\"lightbox_slideshow_speed\":\"5000\",\"lightbox_autoplay\":\"\",\"lightbox_opacity\":\"0.8\",\"lightbox_desc\":\"1\",\"lightbox_social\":\"1\",\"lightbox_deeplinking\":\"1\",\"lightbox_path\":\"vertical\",\"lightbox_post_images\":\"1\",\"lightbox_animation_speed\":\"Fast\"}; /* ]]> */ /* <![CDATA[ */ var avadaPortfolioVars = {\"lightbox_behavior\":\"all\",\"infinite_finished_msg\":\"<em>All items displayed.<\\/em>\",\"infinite_blog_text\":\"<em>Loading the next set of posts...<\\/em>\",\"content_break_point\":\"800\"}; /* ]]> */ /* <![CDATA[ */ var fusionAnimationsVars = {\"disable_mobile_animate_css\":\"0\"}; /* ]]> */ /* <![CDATA[ */ var fusionEqualHeightVars = {\"content_break_point\":\"800\"}; /* ]]> */ /* <![CDATA[ */ var fusionVideoBgVars = {\"status_vimeo\":\"1\",\"status_yt\":\"1\"}; /* ]]> */ /* <![CDATA[ */ var fusionContainerVars = {\"content_break_point\":\"800\",\"container_hundred_percent_height_mobile\":\"0\",\"is_sticky_header_transparent\":\"0\"}; /* ]]> */ /* <![CDATA[ */ var fusionBgImageVars = {\"content_break_point\":\"800\"}; /* ]]> */ /* <![CDATA[ */ var fusionMapsVars = {\"admin_ajax\":\"https:\\/\\/bioclinic.gr\\/wp-admin\\/admin-ajax.php\"}; /* ]]> */ /* <![CDATA[ */ var fusionTabVars = {\"content_break_point\":\"800\"}; /* ]]> */ /* <![CDATA[ */ var fusionTestimonialVars = {\"testimonials_speed\":\"4000\"}; /* ]]> */ /* <![CDATA[ */ var fusionCountersBox = {\"counter_box_speed\":\"1000\"}; /* ]]> */ /* <![CDATA[ */ var fusionVideoVars = {\"status_vimeo\":\"1\"}; /* ]]> */ /* <![CDATA[ */ var fusionCarouselVars = {\"related_posts_speed\":\"2500\",\"carousel_speed\":\"2500\"}; /* ]]> */ /* <![CDATA[ */ var fusionFlexSliderVars = {\"status_vimeo\":\"1\",\"page_smoothHeight\":\"false\",\"slideshow_autoplay\":\"1\",\"slideshow_speed\":\"7000\",\"pagination_video_slide\":\"\",\"status_yt\":\"1\",\"flex_smoothHeight\":\"false\"}; /* ]]> */ /* <![CDATA[ */ var fusionBlogVars = {\"infinite_blog_text\":\"<em>Loading the next set of posts...<\\/em>\",\"infinite_finished_msg\":\"<em>All items displayed.<\\/em>\",\"slideshow_autoplay\":\"1\",\"slideshow_speed\":\"7000\",\"pagination_video_slide\":\"\",\"status_yt\":\"1\",\"lightbox_behavior\":\"all\",\"blog_pagination_type\":\"load_more_button\",\"flex_smoothHeight\":\"false\"}; /* ]]> */ /* <![CDATA[ */ var fusionIe1011Vars = {\"form_bg_color\":\"#ffffff\"}; /* ]]> */ /* <![CDATA[ */ var avadaHeaderVars = {\"header_position\":\"top\",\"header_layout\":\"v4\",\"header_sticky\":\"1\",\"header_sticky_type2_layout\":\"menu_only\",\"side_header_break_point\":\"1050\",\"header_sticky_mobile\":\"0\",\"header_sticky_tablet\":\"0\",\"mobile_menu_design\":\"modern\",\"sticky_header_shrinkage\":\"1\",\"nav_height\":\"40\",\"nav_highlight_border\":\"0\",\"logo_margin_top\":\"31px\",\"logo_margin_bottom\":\"0px\",\"layout_mode\":\"wide\",\"header_padding_top\":\"0px\",\"header_padding_bottom\":\"0px\",\"offset_scroll\":\"full\"}; /* ]]> */ /* <![CDATA[ */ var avadaMenuVars = {\"header_position\":\"Top\",\"logo_alignment\":\"Left\",\"header_sticky\":\"1\",\"side_header_break_point\":\"1050\",\"mobile_menu_design\":\"modern\",\"dropdown_goto\":\"Go to...\",\"mobile_nav_cart\":\"Shopping Cart\",\"submenu_slideout\":\"0\"}; /* ]]> */ /* <![CDATA[ */ var fusionScrollToAnchorVars = {\"content_break_point\":\"800\",\"container_hundred_percent_height_mobile\":\"0\"}; /* ]]> */ /* <![CDATA[ */ var fusionTypographyVars = {\"site_width\":\"1170px\",\"typography_responsive\":\"1\",\"typography_sensitivity\":\"0.60\",\"typography_factor\":\"1.50\"}; /* ]]> */ /* <![CDATA[ */ var avadaCommentVars = {\"title_style_type\":\"none\",\"title_margin_top\":\"0px\",\"title_margin_bottom\":\"0px\"}; /* ]]> */ /* <![CDATA[ */ var avadaSidebarsVars = {\"header_position\":\"top\",\"header_layout\":\"v4\",\"header_sticky\":\"1\",\"header_sticky_type2_layout\":\"menu_only\",\"side_header_break_point\":\"1050\",\"header_sticky_tablet\":\"0\",\"sticky_header_shrinkage\":\"1\",\"nav_height\":\"40\",\"content_break_point\":\"800\"}; /* ]]> */ /* <![CDATA[ */ var toTopscreenReaderText = {\"label\":\"Go to Top\"}; /* ]]> */ /* <![CDATA[ */ var avadaToTopVars = {\"status_totop_mobile\":\"1\"}; /* ]]> */ /* <![CDATA[ */ var avadaFusionSliderVars = {\"side_header_break_point\":\"1050\",\"slider_position\":\"below\",\"header_transparency\":\"0\",\"header_position\":\"Top\",\"content_break_point\":\"800\",\"status_vimeo\":\"1\"}; /* ]]> */ (function() { function cleanUrl(url) { if (!url || typeof url !== 'string') return url; return url .replace(/https?:\\/\\/www\\.bioclinic\\.gr/gi, function(match) { return match.replace('www.bioclinic.gr', 'bioclinic.gr'); }) .replace(/\\/\\/www\\.bioclinic\\.gr/gi, '//bioclinic.gr') .replace(/www\\.bioclinic\\.gr/gi, 'bioclinic.gr'); } function fixElementAttributes() { var selectors = document.querySelectorAll('[src],[href],[srcset],[style]'); selectors.forEach(function(el) { if (el.hasAttribute('src')) { el.setAttribute('src', cleanUrl(el.getAttribute('src'))); } if (el.hasAttribute('href')) { el.setAttribute('href', cleanUrl(el.getAttribute('href'))); } if (el.hasAttribute('srcset')) { el.setAttribute('srcset', cleanUrl(el.getAttribute('srcset'))); } if (el.hasAttribute('style')) { el.setAttribute('style', cleanUrl(el.getAttribute('style'))); } }); } if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', fixElementAttributes); } else { fixElementAttributes(); } })();",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/bioclinic.gr-home-d99d6839/about-day-clinic-3acc6f7d.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/bioclinic.gr-home-d99d6839/about-day-clinic-3acc6f7d.txt",
+      "imageReferences": [
+        {
+          "url": "https://bioclinic.gr/wp-content/uploads/2020/10/new-logo-bioclinic-2020.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://bioclinic.gr/day-clinic",
+          "pageType": "about",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://bioclinic.gr/day-clinic",
+              "retrievedAt": "2026-03-31T13:22:22.735Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2021/11/covid-button-gr-3.png",
+          "sourcePageUrl": "https://bioclinic.gr/day-clinic",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/day-clinic",
+              "retrievedAt": "2026-03-31T13:22:22.736Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2021/11/covid-button-eng-3.png",
+          "sourcePageUrl": "https://bioclinic.gr/day-clinic",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/day-clinic",
+              "retrievedAt": "2026-03-31T13:22:22.736Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2019/04/en-25x25.png",
+          "sourcePageUrl": "https://bioclinic.gr/day-clinic",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/day-clinic",
+              "retrievedAt": "2026-03-31T13:22:22.736Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2015/02/athens-availability-new.png",
+          "sourcePageUrl": "https://bioclinic.gr/day-clinic",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/day-clinic",
+              "retrievedAt": "2026-03-31T13:22:22.736Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page fetch",
+          "uri": "https://bioclinic.gr/day-clinic",
+          "retrievedAt": "2026-03-31T13:22:22.737Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://bioclinic.gr/epikoinwnia",
+      "finalUrl": "https://bioclinic.gr/epikoinwnia",
+      "fetchedAt": "2026-03-31T13:22:29.691Z",
+      "metadata": {
+        "title": "ΕΠΙΚΟΙΝΩΝΙΑ – Βιοκλινική",
+        "canonicalUrl": "https://bioclinic.gr/epikoinwnia/",
+        "language": "en-US",
+        "openGraphTitle": "ΕΠΙΚΟΙΝΩΝΙΑ",
+        "openGraphDescription": "Μ. Γερουλάνου 15 - Αθήνα, Τηλ.: 210 6962600, Fax: 210 6921408, email: ath.bioclinic@bioclinic.gr Μητροπόλεως 86 - Θεσσαλονίκη, Τηλ.: 2310 372600, Fax: 2310 273703, email: the.bioclinic@bioclinic.gr",
+        "openGraphImage": "https://bioclinic.gr/wp-content/uploads/2020/10/new-logo-bioclinic-2020.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Επικοινωνία"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://bioclinic.gr/"
+        },
+        {
+          "href": "https://www.bioclinic.gr/koronoios/"
+        },
+        {
+          "href": "https://www.bioclinic.gr/en/covid-19/"
+        },
+        {
+          "href": "https://bioclinic.gr/omilos/",
+          "label": "ΟΜΙΛΟΣ"
+        },
+        {
+          "href": "https://www.bioclinic.gr/bioclinic-athens/",
+          "label": "ΑΘΗΝΑ"
+        },
+        {
+          "href": "https://www.bioclinic.gr/bioclinic-thessaloniki/",
+          "label": "ΘΕΣΣΑΛΟΝΙΚΗ"
+        },
+        {
+          "href": "https://bioclinic.gr/kardiologiko-tmima-athens/",
+          "label": "Καρδιολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/ogologiko-tmima/",
+          "label": "Ογκολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/pnevmonologiko-tmima/",
+          "label": "Πνευμονολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/nefrologiko/",
+          "label": "Νεφρολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/pathologiko-tmima/",
+          "label": "Παθολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/nevrologiko-tmima/",
+          "label": "Νευρολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/ypertasiologiko-tmima/",
+          "label": "Υπερτασιολογικό Τμήμα"
+        },
+        {
+          "href": "https://www.bioclinic.gr/aggeioxeirourgiko-tmima/",
+          "label": "Αγγειοχειρουργικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/nevroheirourgiko-tmima/",
+          "label": "Νευροχειρουργικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/orthopediko-tmima/",
+          "label": "Ορθοπαιδικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/ourologiko-tmima/",
+          "label": "Ουρολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/tmima-wrl/",
+          "label": "Ω.Ρ.Λ."
+        },
+        {
+          "href": "https://www.bioclinic.gr/thwrakoheirourgiko-tmima/",
+          "label": "Θωρακοχειρουργικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/genini-xeirourgiki/",
+          "label": "Γεν. Χειρουργικής"
+        },
+        {
+          "href": "https://www.bioclinic.gr/gnathoheirourgiko-tmima/",
+          "label": "Γναθοχειρουργικό"
+        },
+        {
+          "href": "https://bioclinic.gr/iatreio-prwktou-athens/",
+          "label": "Ιατρείο Πρωκτού"
+        },
+        {
+          "href": "https://www.bioclinic.gr/plastiki-heirourgiki/",
+          "label": "Πλαστικής Χειρουργικής"
+        },
+        {
+          "href": "https://bioclinic.gr/kentro-mastou-2/",
+          "label": "Κέντρο Μαστού"
+        },
+        {
+          "href": "https://www.bioclinic.gr/maieftiko-tmima/",
+          "label": "Μαιευτικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/neognologiko-tmima/",
+          "label": "Νεογνολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/tmima-endoskopisewn/",
+          "label": "Ενδοσκοπήσεων"
+        },
+        {
+          "href": "https://www.bioclinic.gr/meth/",
+          "label": "Μονάδα Εντατικής Θεραπείας (ΜΕΘ)"
+        },
+        {
+          "href": "https://www.bioclinic.gr/technito-nefro/",
+          "label": "Μονάδα Τεχνητού Νεφρού (ΜΤΝ)"
+        },
+        {
+          "href": "https://www.bioclinic.gr/maf/",
+          "label": "Μονάδα Αυξημένης Φροντίδας (ΜΑΦ)"
+        },
+        {
+          "href": "https://www.bioclinic.gr/therapeia-neognwn/",
+          "label": "Μονάδα Εντατικής Νοσηλείας Νεογνών"
+        },
+        {
+          "href": "https://www.bioclinic.gr/day-clinic/",
+          "label": "One Day Clinic"
+        },
+        {
+          "href": "https://bioclinic.gr/iatreio-endoskopikis/",
+          "label": "ΙΑΤΡΕΙΟ ΕΝΔΟΣΚΟΠΙΚΗΣ & ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΗΣ ΧΕΙΡΟΥΡΓΙΚΗΣ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣ"
+        },
+        {
+          "href": "https://bioclinic.gr/iatreio-klimaktiriou-eminopausis/",
+          "label": "ΙΑΤΡΕΙΟ ΚΛΙΜΑΚΤΗΡΙΟΥ – ΕΜΜΗΝΟΠΑΥΣΗΣ"
+        },
+        {
+          "href": "https://bioclinic.gr/pnevmonologiko-iatreio-long-covid/",
+          "label": "ΠΝΕΥΜΟΝΟΛΟΓΙΚΟ ΙΑΤΡΕΙΟ LONG-COVID"
+        },
+        {
+          "href": "https://bioclinic.gr/tmima-epemvatikis-kardiologias-aimodynamiko-ergastirio/",
+          "label": "Αιμοδυναμικό"
+        },
+        {
+          "href": "https://bioclinic.gr/eidiko-iatreio-sklirynsis-kata-plakas/",
+          "label": "ΕΙΔΙΚΟ ΙΑΤΡΕΙΟ ΣΚΛΗΡΥΝΣΗΣ ΚΑΤΑ ΠΛΑΚΑΣ"
+        },
+        {
+          "href": "https://www.bioclinic.gr/tmima-epeigontwn/",
+          "label": "Τμήμα Επειγόντων Περιστατικών"
+        },
+        {
+          "href": "https://bioclinic.gr/kentro-klinikis-diatrofis/",
+          "label": "Κέντρο κλινικής διατροφής"
+        },
+        {
+          "href": "https://www.bioclinic.gr/diataraxes-ypnou/",
+          "label": "Κέντρο Διαταραχών Υπνου – Επιληψίας"
+        },
+        {
+          "href": "https://www.bioclinic.gr/tmima-arrhythmiwn/",
+          "label": "Τμήμα Αρρυθμιών"
+        },
+        {
+          "href": "https://www.bioclinic.gr/physiki-apokatastasi/",
+          "label": "Φυσικής Αποκατάστασης"
+        },
+        {
+          "href": "https://www.bioclinic.gr/epemvatikis-aktinologias/",
+          "label": "Επεμβατική Ακτινολογία"
+        },
+        {
+          "href": "https://bioclinic.gr/pelmatografia/",
+          "label": "Ειδικό Τμήμα Πελματογραφίας"
+        },
+        {
+          "href": "https://bioclinic.gr/symbouleutiko-grafeio-diatrofis-exwterika-iatreia/",
+          "label": "Διατροφολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/ofthalmologiko-exoteriko-iatreio/",
+          "label": "Οφθαλμολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/aimatologiko-ergastirio/",
+          "label": "Αιματολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/mikroviologiko-ergastirio/",
+          "label": "Μικροβιολογικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/biohimiko-ergastirio/",
+          "label": "Βιοχημικό"
+        },
+        {
+          "href": "https://www.bioclinic.gr/anosologiko-ergastirio/",
+          "label": "Ορμονολογικό"
+        },
+        {
+          "href": "https://bioclinic.gr/tmima-epeigontwn/",
+          "label": "ΕΠΕΙΓΟΝΤΑ"
+        },
+        {
+          "href": "https://bioclinic.gr/vreite-giatro/",
+          "label": "ΒΡΕΙΤΕ ΙΑΤΡΟ"
+        },
+        {
+          "href": "https://bioclinic.gr/plirofories-3/",
+          "label": "ΠΛΗΡΟΦΟΡΙΕΣ"
+        },
+        {
+          "href": "https://bioclinic.gr/anakoinwseis-deltia-typou/",
+          "label": "Aνακοινώσεις / Δελτία Τύπου"
+        },
+        {
+          "href": "https://bioclinic.gr/arthrografia/",
+          "label": "Αρθρογραφία Ιατρών"
+        },
+        {
+          "href": "https://bioclinic.gr/docs/",
+          "label": "Έντυπα"
+        },
+        {
+          "href": "https://bioclinic.gr/magazines-bioiatriki/",
+          "label": "Περιοδικά"
+        },
+        {
+          "href": "https://bioclinic.gr/epikoinwnia/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://bioclinic.gr/author/bioclinic_user/",
+          "label": "bioclinic_user"
+        },
+        {
+          "href": "https://bioclinic.gr/en/epikoinwnia/"
+        },
+        {
+          "href": "https://bioclinic.gr/bioclinic-athens/",
+          "label": "Βιοκλινική Αθηνών"
+        },
+        {
+          "href": "https://bioclinic.gr/bioclinic-thessaloniki/",
+          "label": "Βιοκλινική Θεσσαλονίκης"
+        },
+        {
+          "href": "https://bioclinic.gr/%3Ca",
+          "label": "Χημείο Γιαννουκά"
+        },
+        {
+          "href": "https://bioclinic.gr/plirofories/",
+          "label": "Πληροφορίες"
+        },
+        {
+          "href": "https://www.bioclinic.gr/anakoinwseis-deltia-typou/",
+          "label": "Ανακοινώσεις"
+        },
+        {
+          "href": "https://www.bioclinic.gr/arthrografia/",
+          "label": "Αρθρογραφία"
+        },
+        {
+          "href": "https://bioclinic.gr/prosopika-dedomena/",
+          "label": "Πολιτική Προστασίας Προσωπικών Δεδομένων"
+        },
+        {
+          "href": "https://bioclinic.gr/cookies-bioclinic/",
+          "label": "Πολιτική Cookies"
+        },
+        {
+          "href": "https://bioclinic.gr/oikonomika-stoiheia/",
+          "label": "Οικονομικά Στοιχεία"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "210 6962600",
+          "2310 372600",
+          "2021-07-26",
+          "210 6921408",
+          "2310 273703",
+          "210 6962447 (24",
+          "000242201000",
+          "057268204000",
+          "2106962600",
+          "2310372600"
+        ],
+        "emails": [
+          "ath.bioclinic@bioclinic.gr",
+          "the.bioclinic@bioclinic.gr"
+        ],
+        "addresses": [
+          "Όμιλος ΒΙΟΙΑΤΡΙΚΗ Βιοκλινική Αθηνών Βιοκλινική Θεσσαλονίκης Kέντρο Διεθνών Ασθενών Χημείο Γιαννουκά Άλφα Εύρεσις Bioiatriki+ Επείγοντα Βρείτε Ιατρό Πληροφορίες Ανακοινώσεις Αρθρογραφία Έντυπα Περιοδικά Πολιτική Προστασίας Προσωπικών Δεδομένων Πολιτική Cookies Οικονομικά Στοιχεία Ευκαιρίες Καριέρας Για ραντεβού καλέστε Αθήνα : 210 6962600 Θεσσαλονίκη : 2310 372600 Ώρες λειτουργίας τηλεφωνικού κέντρου Δευτ. - Σαβ. 7:00 - 22:00 Για έκτακτα περιστατικά 210 6962447 (24ωρο) Δείτε τους χάρτες > FacebookYoutubeLinkedin ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΑΘΗΝΩΝ: 000242201000 ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΘΕΣΣΑΛΟΝΙΚΗΣ: 057268204000"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/bioclinic.gr/",
+            "label": "Facebook"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UCokjZahLtnO_YdOvQKfp2xw",
+            "label": "Youtube"
+          },
+          {
+            "href": "https://gr.linkedin.com/company/bioiatriki-healthcare-group",
+            "label": "Linkedin"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "Όμιλος ΒΙΟΙΑΤΡΙΚΗ Βιοκλινική Αθηνών Βιοκλινική Θεσσαλονίκης Kέντρο Διεθνών Ασθενών Χημείο Γιαννουκά Άλφα Εύρεσις Bioiatriki+ Επείγοντα Βρείτε Ιατρό Πληροφορίες Ανακοινώσεις Αρθρογραφία Έντυπα Περιοδικά Πολιτική Προστασίας Προσωπικών Δεδομένων Πολιτική Cookies Οικονομικά Στοιχεία Ευκαιρίες Καριέρας Για ραντεβού καλέστε Αθήνα : 210 6962600 Θεσσαλονίκη : 2310 372600 Ώρες λειτουργίας τηλεφωνικού κέντρου Δευτ. - Σαβ. 7:00 - 22:00 Για έκτακτα περιστατικά 210 6962447 (24ωρο) Δείτε τους χάρτες > FacebookYoutubeLinkedin ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΑΘΗΝΩΝ: 000242201000 ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΘΕΣΣΑΛΟΝΙΚΗΣ: 057268204000",
+      "textContent": "ΓΙΑ ΡΑΝΤΕΒΟΥ ΚΑΛΕΣΤΕ : ΑΘΗΝΑ 210 6962600, ΘΕΣΣΑΛΟΝΙΚΗ 2310 372600 ΑΜΕΣΗ ΑΝΑΓΚΗ! 14 501 ΑΡΧΙΚΗΟΜΙΛΟΣΑΘΗΝΑΘΕΣΣΑΛΟΝΙΚΗTMHMATAΠαθολογικός ΤομέαςΚαρδιολογικό ΤμήμαΟγκολογικό ΤμήμαΠνευμονολογικό ΤμήμαΝεφρολογικό ΤμήμαΠαθολογικό ΤμήμαΝευρολογικό ΤμήμαΥπερτασιολογικό ΤμήμαΧειρουργικός τομέαςΑγγειοχειρουργικόΝευροχειρουργικόΟρθοπαιδικόΟυρολογικόΩ.Ρ.Λ.ΘωρακοχειρουργικόΓεν. ΧειρουργικήςΓναθοχειρουργικόΙατρείο ΠρωκτούΠλαστικής ΧειρουργικήςΚέντρο ΜαστούΜαιευτικόΝεογνολογικόΕνδοσκοπήσεωνΜονάδεςΜονάδα Εντατικής Θεραπείας (ΜΕΘ)Μονάδα Τεχνητού Νεφρού (ΜΤΝ)Μονάδα Αυξημένης Φροντίδας (ΜΑΦ)Μονάδα Εντατικής Νοσηλείας ΝεογνώνOne Day ClinicΕιδικά ΤμήματαΙΑΤΡΕΙΟ ΕΝΔΟΣΚΟΠΙΚΗΣ & ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΗΣ ΧΕΙΡΟΥΡΓΙΚΗΣ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣΙΑΤΡΕΙΟ ΚΛΙΜΑΚΤΗΡΙΟΥ – ΕΜΜΗΝΟΠΑΥΣΗΣΠΝΕΥΜΟΝΟΛΟΓΙΚΟ ΙΑΤΡΕΙΟ LONG-COVIDΑιμοδυναμικόΕΙΔΙΚΟ ΙΑΤΡΕΙΟ ΣΚΛΗΡΥΝΣΗΣ ΚΑΤΑ ΠΛΑΚΑΣΤμήμα Επειγόντων ΠεριστατικώνΚέντρο κλινικής διατροφήςΚέντρο Διαταραχών Υπνου – ΕπιληψίαςΤμήμα ΑρρυθμιώνΦυσικής ΑποκατάστασηςΕπεμβατική ΑκτινολογίαΕιδικό Τμήμα ΠελματογραφίαςΕξωτερικά ΙατρείαΙατρείο ΠρωκτούΔιατροφολογικόΟφθαλμολογικόΔιαγνωστικά ΕργαστήριαΑιματολογικόΜικροβιολογικόΒιοχημικόΟρμονολογικόΑνοσολογικόΕΠΕΙΓΟΝΤΑΒΡΕΙΤΕ ΙΑΤΡΟΠΛΗΡΟΦΟΡΙΕΣΕΥΚΑΙΡΙΕΣ ΚΑΡΙΕΡΑΣΕΝΗΜΕΡΩΣΗAνακοινώσεις / Δελτία ΤύπουΑρθρογραφία ΙατρώνΈντυπαΠεριοδικάΕΠΙΚΟΙΝΩΝΙΑΑΡΧΙΚΗΟΜΙΛΟΣΑΘΗΝΑΘΕΣΣΑΛΟΝΙΚΗTMHMATAΠαθολογικός ΤομέαςΚαρδιολογικό ΤμήμαΟγκολογικό ΤμήμαΠνευμονολογικό ΤμήμαΝεφρολογικό ΤμήμαΠαθολογικό ΤμήμαΝευρολογικό ΤμήμαΥπερτασιολογικό ΤμήμαΧειρουργικός τομέαςΑγγειοχειρουργικόΝευροχειρουργικόΟρθοπαιδικόΟυρολογικόΩ.Ρ.Λ.ΘωρακοχειρουργικόΓεν. ΧειρουργικήςΓναθοχειρουργικόΙατρείο ΠρωκτούΠλαστικής ΧειρουργικήςΚέντρο ΜαστούΜαιευτικόΝεογνολογικόΕνδοσκοπήσεωνΜονάδεςΜονάδα Εντατικής Θεραπείας (ΜΕΘ)Μονάδα Τεχνητού Νεφρού (ΜΤΝ)Μονάδα Αυξημένης Φροντίδας (ΜΑΦ)Μονάδα Εντατικής Νοσηλείας ΝεογνώνOne Day ClinicΕιδικά ΤμήματαΙΑΤΡΕΙΟ ΕΝΔΟΣΚΟΠΙΚΗΣ & ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΗΣ ΧΕΙΡΟΥΡΓΙΚΗΣ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣΙΑΤΡΕΙΟ ΚΛΙΜΑΚΤΗΡΙΟΥ – ΕΜΜΗΝΟΠΑΥΣΗΣΠΝΕΥΜΟΝΟΛΟΓΙΚΟ ΙΑΤΡΕΙΟ LONG-COVIDΑιμοδυναμικόΕΙΔΙΚΟ ΙΑΤΡΕΙΟ ΣΚΛΗΡΥΝΣΗΣ ΚΑΤΑ ΠΛΑΚΑΣΤμήμα Επειγόντων ΠεριστατικώνΚέντρο κλινικής διατροφήςΚέντρο Διαταραχών Υπνου – ΕπιληψίαςΤμήμα ΑρρυθμιώνΦυσικής ΑποκατάστασηςΕπεμβατική ΑκτινολογίαΕιδικό Τμήμα ΠελματογραφίαςΕξωτερικά ΙατρείαΙατρείο ΠρωκτούΔιατροφολογικόΟφθαλμολογικόΔιαγνωστικά ΕργαστήριαΑιματολογικόΜικροβιολογικόΒιοχημικόΟρμονολογικόΑνοσολογικόΕΠΕΙΓΟΝΤΑΒΡΕΙΤΕ ΙΑΤΡΟΠΛΗΡΟΦΟΡΙΕΣΕΥΚΑΙΡΙΕΣ ΚΑΡΙΕΡΑΣΕΝΗΜΕΡΩΣΗAνακοινώσεις / Δελτία ΤύπουΑρθρογραφία ΙατρώνΈντυπαΠεριοδικάΕΠΙΚΟΙΝΩΝΙΑ Επικοινωνία ΕΠΙΚΟΙΝΩΝΙΑ bioclinic_user 2021-07-26T14:56:05+00:00 Μ. Γερουλάνου 15 – Αθήνα, Τηλ.: 210 6962600, Fax: 210 6921408, email: ath.bioclinic@bioclinic.gr Μητροπόλεως 86 – Θεσσαλονίκη, Τηλ.: 2310 372600, Fax: 2310 273703, email: the.bioclinic@bioclinic.gr Όμιλος ΒΙΟΙΑΤΡΙΚΗ Βιοκλινική Αθηνών Βιοκλινική Θεσσαλονίκης Kέντρο Διεθνών Ασθενών Χημείο Γιαννουκά Άλφα Εύρεσις Bioiatriki+ Επείγοντα Βρείτε Ιατρό Πληροφορίες Ανακοινώσεις Αρθρογραφία Έντυπα Περιοδικά Πολιτική Προστασίας Προσωπικών Δεδομένων Πολιτική Cookies Οικονομικά Στοιχεία Ευκαιρίες Καριέρας Για ραντεβού καλέστε Αθήνα : 210 6962600 Θεσσαλονίκη : 2310 372600 Ώρες λειτουργίας τηλεφωνικού κέντρου Δευτ. - Σαβ. 7:00 - 22:00 Για έκτακτα περιστατικά 210 6962447 (24ωρο) Δείτε τους χάρτες > FacebookYoutubeLinkedin ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΑΘΗΝΩΝ: 000242201000 ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΘΕΣΣΑΛΟΝΙΚΗΣ: 057268204000 Copyright © document.write(new Date().getFullYear());, Bioclinic.gr | All Rights Reserved | Created by Leader Online jQuery( document ).ready( function() { var ajaxurl = 'https://bioclinic.gr/wp-admin/admin-ajax.php'; if ( 0 < jQuery( '.fusion-login-nonce' ).length ) { jQuery.get( ajaxurl, { 'action': 'fusion_login_nonce' }, function( response ) { jQuery( '.fusion-login-nonce' ).html( response ); }); } }); jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({\"closeText\":\"Close\",\"currentText\":\"Today\",\"monthNames\":[\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"monthNamesShort\":[\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\",\"Jul\",\"Aug\",\"Sep\",\"Oct\",\"Nov\",\"Dec\"],\"nextText\":\"Next\",\"prevText\":\"Previous\",\"dayNames\":[\"Sunday\",\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\"],\"dayNamesShort\":[\"Sun\",\"Mon\",\"Tue\",\"Wed\",\"Thu\",\"Fri\",\"Sat\"],\"dayNamesMin\":[\"S\",\"M\",\"T\",\"W\",\"T\",\"F\",\"S\"],\"dateFormat\":\"d MM yy\",\"firstDay\":1,\"isRTL\":false});}); /* <![CDATA[ */ var fusionVideoGeneralVars = {\"status_vimeo\":\"1\",\"status_yt\":\"1\"}; /* ]]> */ /* <![CDATA[ */ var fusionLightboxVideoVars = {\"lightbox_video_width\":\"1280\",\"lightbox_video_height\":\"720\"}; /* ]]> */ /* <![CDATA[ */ var fusionLightboxVars = {\"status_lightbox\":\"1\",\"lightbox_gallery\":\"1\",\"lightbox_skin\":\"metro-white\",\"lightbox_title\":\"1\",\"lightbox_arrows\":\"1\",\"lightbox_slideshow_speed\":\"5000\",\"lightbox_autoplay\":\"\",\"lightbox_opacity\":\"0.8\",\"lightbox_desc\":\"1\",\"lightbox_social\":\"1\",\"lightbox_deeplinking\":\"1\",\"lightbox_path\":\"vertical\",\"lightbox_post_images\":\"1\",\"lightbox_animation_speed\":\"Fast\"}; /* ]]> */ /* <![CDATA[ */ var avadaPortfolioVars = {\"lightbox_behavior\":\"all\",\"infinite_finished_msg\":\"<em>All items displayed.<\\/em>\",\"infinite_blog_text\":\"<em>Loading the next set of posts...<\\/em>\",\"content_break_point\":\"800\"}; /* ]]> */ /* <![CDATA[ */ var fusionAnimationsVars = {\"disable_mobile_animate_css\":\"0\"}; /* ]]> */ /* <![CDATA[ */ var fusionEqualHeightVars = {\"content_break_point\":\"800\"}; /* ]]> */ /* <![CDATA[ */ var fusionVideoBgVars = {\"status_vimeo\":\"1\",\"status_yt\":\"1\"}; /* ]]> */ /* <![CDATA[ */ var fusionContainerVars = {\"content_break_point\":\"800\",\"container_hundred_percent_height_mobile\":\"0\",\"is_sticky_header_transparent\":\"0\"}; /* ]]> */ /* <![CDATA[ */ var fusionBgImageVars = {\"content_break_point\":\"800\"}; /* ]]> */ /* <![CDATA[ */ var fusionMapsVars = {\"admin_ajax\":\"https:\\/\\/bioclinic.gr\\/wp-admin\\/admin-ajax.php\"}; /* ]]> */ /* <![CDATA[ */ var fusionTabVars = {\"content_break_point\":\"800\"}; /* ]]> */ /* <![CDATA[ */ var fusionTestimonialVars = {\"testimonials_speed\":\"4000\"}; /* ]]> */ /* <![CDATA[ */ var fusionCountersBox = {\"counter_box_speed\":\"1000\"}; /* ]]> */ /* <![CDATA[ */ var fusionVideoVars = {\"status_vimeo\":\"1\"}; /* ]]> */ /* <![CDATA[ */ var fusionCarouselVars = {\"related_posts_speed\":\"2500\",\"carousel_speed\":\"2500\"}; /* ]]> */ /* <![CDATA[ */ var fusionFlexSliderVars = {\"status_vimeo\":\"1\",\"page_smoothHeight\":\"false\",\"slideshow_autoplay\":\"1\",\"slideshow_speed\":\"7000\",\"pagination_video_slide\":\"\",\"status_yt\":\"1\",\"flex_smoothHeight\":\"false\"}; /* ]]> */ /* <![CDATA[ */ var fusionBlogVars = {\"infinite_blog_text\":\"<em>Loading the next set of posts...<\\/em>\",\"infinite_finished_msg\":\"<em>All items displayed.<\\/em>\",\"slideshow_autoplay\":\"1\",\"slideshow_speed\":\"7000\",\"pagination_video_slide\":\"\",\"status_yt\":\"1\",\"lightbox_behavior\":\"all\",\"blog_pagination_type\":\"load_more_button\",\"flex_smoothHeight\":\"false\"}; /* ]]> */ /* <![CDATA[ */ var fusionIe1011Vars = {\"form_bg_color\":\"#ffffff\"}; /* ]]> */ /* <![CDATA[ */ var avadaHeaderVars = {\"header_position\":\"top\",\"header_layout\":\"v4\",\"header_sticky\":\"1\",\"header_sticky_type2_layout\":\"menu_only\",\"side_header_break_point\":\"1050\",\"header_sticky_mobile\":\"0\",\"header_sticky_tablet\":\"0\",\"mobile_menu_design\":\"modern\",\"sticky_header_shrinkage\":\"1\",\"nav_height\":\"40\",\"nav_highlight_border\":\"0\",\"logo_margin_top\":\"31px\",\"logo_margin_bottom\":\"0px\",\"layout_mode\":\"wide\",\"header_padding_top\":\"0px\",\"header_padding_bottom\":\"0px\",\"offset_scroll\":\"full\"}; /* ]]> */ /* <![CDATA[ */ var avadaMenuVars = {\"header_position\":\"Top\",\"logo_alignment\":\"Left\",\"header_sticky\":\"1\",\"side_header_break_point\":\"1050\",\"mobile_menu_design\":\"modern\",\"dropdown_goto\":\"Go to...\",\"mobile_nav_cart\":\"Shopping Cart\",\"submenu_slideout\":\"0\"}; /* ]]> */ /* <![CDATA[ */ var fusionScrollToAnchorVars = {\"content_break_point\":\"800\",\"container_hundred_percent_height_mobile\":\"0\"}; /* ]]> */ /* <![CDATA[ */ var fusionTypographyVars = {\"site_width\":\"1170px\",\"typography_responsive\":\"1\",\"typography_sensitivity\":\"0.60\",\"typography_factor\":\"1.50\"}; /* ]]> */ /* <![CDATA[ */ var avadaCommentVars = {\"title_style_type\":\"none\",\"title_margin_top\":\"0px\",\"title_margin_bottom\":\"0px\"}; /* ]]> */ /* <![CDATA[ */ var avadaSidebarsVars = {\"header_position\":\"top\",\"header_layout\":\"v4\",\"header_sticky\":\"1\",\"header_sticky_type2_layout\":\"menu_only\",\"side_header_break_point\":\"1050\",\"header_sticky_tablet\":\"0\",\"sticky_header_shrinkage\":\"1\",\"nav_height\":\"40\",\"content_break_point\":\"800\"}; /* ]]> */ /* <![CDATA[ */ var toTopscreenReaderText = {\"label\":\"Go to Top\"}; /* ]]> */ /* <![CDATA[ */ var avadaToTopVars = {\"status_totop_mobile\":\"1\"}; /* ]]> */ /* <![CDATA[ */ var avadaFusionSliderVars = {\"side_header_break_point\":\"1050\",\"slider_position\":\"below\",\"header_transparency\":\"0\",\"header_position\":\"Top\",\"content_break_point\":\"800\",\"status_vimeo\":\"1\"}; /* ]]> */ (function() { function cleanUrl(url) { if (!url || typeof url !== 'string') return url; return url .replace(/https?:\\/\\/www\\.bioclinic\\.gr/gi, function(match) { return match.replace('www.bioclinic.gr', 'bioclinic.gr'); }) .replace(/\\/\\/www\\.bioclinic\\.gr/gi, '//bioclinic.gr') .replace(/www\\.bioclinic\\.gr/gi, 'bioclinic.gr'); } function fixElementAttributes() { var selectors = document.querySelectorAll('[src],[href],[srcset],[style]'); selectors.forEach(function(el) { if (el.hasAttribute('src')) { el.setAttribute('src', cleanUrl(el.getAttribute('src'))); } if (el.hasAttribute('href')) { el.setAttribute('href', cleanUrl(el.getAttribute('href'))); } if (el.hasAttribute('srcset')) { el.setAttribute('srcset', cleanUrl(el.getAttribute('srcset'))); } if (el.hasAttribute('style')) { el.setAttribute('style', cleanUrl(el.getAttribute('style'))); } }); } if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', fixElementAttributes); } else { fixElementAttributes(); } })();",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/bioclinic.gr-home-d99d6839/contact-epikoinwnia-5fa1fb17.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/bioclinic.gr-home-d99d6839/contact-epikoinwnia-5fa1fb17.txt",
+      "imageReferences": [
+        {
+          "url": "https://bioclinic.gr/wp-content/uploads/2020/10/new-logo-bioclinic-2020.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://bioclinic.gr/epikoinwnia",
+          "pageType": "contact",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://bioclinic.gr/epikoinwnia",
+              "retrievedAt": "2026-03-31T13:22:29.689Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2021/11/covid-button-gr-3.png",
+          "sourcePageUrl": "https://bioclinic.gr/epikoinwnia",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/epikoinwnia",
+              "retrievedAt": "2026-03-31T13:22:29.689Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2021/11/covid-button-eng-3.png",
+          "sourcePageUrl": "https://bioclinic.gr/epikoinwnia",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/epikoinwnia",
+              "retrievedAt": "2026-03-31T13:22:29.689Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.bioclinic.gr/wp-content/uploads/2019/04/en-25x25.png",
+          "sourcePageUrl": "https://bioclinic.gr/epikoinwnia",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/epikoinwnia",
+              "retrievedAt": "2026-03-31T13:22:29.689Z"
+            }
+          ]
+        },
+        {
+          "url": "https://bioclinic.gr/wp-content/uploads/2017/06/bio-athens.jpg",
+          "alt": "Βιοκλινική Αθηνών",
+          "sourcePageUrl": "https://bioclinic.gr/epikoinwnia",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/epikoinwnia",
+              "retrievedAt": "2026-03-31T13:22:29.689Z"
+            }
+          ]
+        },
+        {
+          "url": "https://bioclinic.gr/wp-content/uploads/2017/06/bio-thess.jpg",
+          "alt": "Βιοκλινική Θεσσαλονίκης",
+          "sourcePageUrl": "https://bioclinic.gr/epikoinwnia",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://bioclinic.gr/epikoinwnia",
+              "retrievedAt": "2026-03-31T13:22:29.689Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://bioclinic.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:22:29.691Z"
+        }
+      ],
+      "statusCode": 200
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "210 6962600",
+      "2310 372600",
+      "2026-01-12",
+      "210 6962447 (24",
+      "000242201000",
+      "057268204000",
+      "2106962600",
+      "2310372600",
+      "+302106962600",
+      "+302310372600",
+      "2021-09-10",
+      "2019-04-22",
+      "2021-07-26",
+      "210 6921408",
+      "2310 273703",
+      "2021-12-09",
+      "00 2310 372600",
+      "210 6962600 210 6921408",
+      "2310 372600 2310 273703",
+      "2026-01-22"
+    ],
+    "emails": [
+      "ath.bioclinic@bioclinic.gr",
+      "the.bioclinic@bioclinic.gr"
+    ],
+    "addresses": [
+      "Όμιλος ΒΙΟΙΑΤΡΙΚΗ Βιοκλινική Αθηνών Βιοκλινική Θεσσαλονίκης Kέντρο Διεθνών Ασθενών Χημείο Γιαννουκά Άλφα Εύρεσις Bioiatriki+ Επείγοντα Βρείτε Ιατρό Πληροφορίες Ανακοινώσεις Αρθρογραφία Έντυπα Περιοδικά Πολιτική Προστασίας Προσωπικών Δεδομένων Πολιτική Cookies Οικονομικά Στοιχεία Ευκαιρίες Καριέρας Για ραντεβού καλέστε Αθήνα : 210 6962600 Θεσσαλονίκη : 2310 372600 Ώρες λειτουργίας τηλεφωνικού κέντρου Δευτ. - Σαβ. 7:00 - 22:00 Για έκτακτα περιστατικά 210 6962447 (24ωρο) Δείτε τους χάρτες > FacebookYoutubeLinkedin ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΑΘΗΝΩΝ: 000242201000 ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΘΕΣΣΑΛΟΝΙΚΗΣ: 057268204000"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/bioclinic.gr/",
+        "label": "Facebook"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCokjZahLtnO_YdOvQKfp2xw",
+        "label": "Youtube"
+      },
+      {
+        "href": "https://gr.linkedin.com/company/bioiatriki-healthcare-group",
+        "label": "Linkedin"
+      }
+    ],
+    "forms": []
+  },
+  "metadata": {
+    "title": "Βιοκλινική – Ιατρική φροντίδα με ανθρώπινο πρόσωπο",
+    "canonicalUrl": "https://bioclinic.gr/",
+    "language": "en-US",
+    "openGraphTitle": "Home",
+    "openGraphDescription": "Κλινικές Συνεργασίες με Ασφαλιστικές Εταιρείες",
+    "openGraphImage": "https://bioclinic.gr/wp-content/uploads/2020/10/new-logo-bioclinic-2020.jpg"
+  },
+  "imageReferences": [
+    {
+      "url": "https://bioclinic.gr/wp-content/uploads/2020/10/new-logo-bioclinic-2020.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2021/11/covid-button-gr-3.png",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2021/11/covid-button-eng-3.png",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2019/04/en-25x25.png",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2021/06/bioclinic-diagnostic_1920X620_Slider_2.jpg",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2015/02/athens-availability-new.png",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2015/02/thessaloniki-availability-new.png",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2015/02/alianz.jpg",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2015/02/ate.png",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2015/02/axa.jpg",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2015/02/bupa.png",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2015/02/episti.jpg",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2021/07/bioclinic-athinwn-logo-text.jpg",
+      "sourcePageUrl": "https://bioclinic.gr/day-clinic-athens",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/day-clinic-athens",
+          "retrievedAt": "2026-03-31T13:22:26.507Z"
+        }
+      ]
+    },
+    {
+      "url": "https://bioclinic.gr/wp-content/uploads/2017/06/bio-athens.jpg",
+      "alt": "Βιοκλινική Αθηνών",
+      "sourcePageUrl": "https://bioclinic.gr/epikoinwnia",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:22:29.689Z"
+        }
+      ]
+    },
+    {
+      "url": "https://bioclinic.gr/wp-content/uploads/2017/06/bio-thess.jpg",
+      "alt": "Βιοκλινική Θεσσαλονίκης",
+      "sourcePageUrl": "https://bioclinic.gr/epikoinwnia",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:22:29.689Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2018/11/bio-athens.jpg",
+      "sourcePageUrl": "https://bioclinic.gr/koronoios",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/koronoios",
+          "retrievedAt": "2026-03-31T13:22:35.778Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2021/06/call-covid.png",
+      "sourcePageUrl": "https://bioclinic.gr/koronoios",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/koronoios",
+          "retrievedAt": "2026-03-31T13:22:35.778Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2021/06/clock-covid.png",
+      "sourcePageUrl": "https://bioclinic.gr/koronoios",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/koronoios",
+          "retrievedAt": "2026-03-31T13:22:35.778Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2018/11/bio-thess.jpg",
+      "sourcePageUrl": "https://bioclinic.gr/koronoios",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/koronoios",
+          "retrievedAt": "2026-03-31T13:22:35.778Z"
+        }
+      ]
+    },
+    {
+      "url": "https://bioclinic.gr/wp-content/uploads/2021/07/find-doctor-new.jpg",
+      "sourcePageUrl": "https://bioclinic.gr/koronoios",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/koronoios",
+          "retrievedAt": "2026-03-31T13:22:35.778Z"
+        }
+      ]
+    },
+    {
+      "url": "https://bioclinic.gr/wp-content/uploads/2021/07/mission-new.jpg",
+      "sourcePageUrl": "https://bioclinic.gr/koronoios",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/koronoios",
+          "retrievedAt": "2026-03-31T13:22:35.778Z"
+        }
+      ]
+    },
+    {
+      "url": "https://bioclinic.gr/wp-content/uploads/2021/07/vision-new.jpg",
+      "sourcePageUrl": "https://bioclinic.gr/koronoios",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/koronoios",
+          "retrievedAt": "2026-03-31T13:22:35.778Z"
+        }
+      ]
+    },
+    {
+      "url": "https://bioclinic.gr/wp-content/uploads/2021/07/values-new.jpg",
+      "sourcePageUrl": "https://bioclinic.gr/koronoios",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/koronoios",
+          "retrievedAt": "2026-03-31T13:22:35.778Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2021/06/Bioiatriki-40-xronia-final-transparent-logo.png",
+      "sourcePageUrl": "https://bioclinic.gr/omilos",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/omilos",
+          "retrievedAt": "2026-03-31T13:22:39.326Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2017/04/cross_border.jpg",
+      "sourcePageUrl": "https://bioclinic.gr/omilos",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/omilos",
+          "retrievedAt": "2026-03-31T13:22:39.326Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2017/04/foremed.jpg",
+      "sourcePageUrl": "https://bioclinic.gr/omilos",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/omilos",
+          "retrievedAt": "2026-03-31T13:22:39.326Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2018/09/giannouka2.jpg",
+      "sourcePageUrl": "https://bioclinic.gr/omilos",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/omilos",
+          "retrievedAt": "2026-03-31T13:22:39.326Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bioclinic.gr/wp-content/uploads/2018/09/apha-evresis2.jpg",
+      "sourcePageUrl": "https://bioclinic.gr/omilos",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://bioclinic.gr/omilos",
+          "retrievedAt": "2026-03-31T13:22:39.326Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "210 6962600",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2310 372600",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2026-01-12",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 6962447 (24",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "000242201000",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "057268204000",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2106962600",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2310372600",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+302106962600",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+302310372600",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Όμιλος ΒΙΟΙΑΤΡΙΚΗ Βιοκλινική Αθηνών Βιοκλινική Θεσσαλονίκης Kέντρο Διεθνών Ασθενών Χημείο Γιαννουκά Άλφα Εύρεσις Bioiatriki+ Επείγοντα Βρείτε Ιατρό Πληροφορίες Ανακοινώσεις Αρθρογραφία Έντυπα Περιοδικά Πολιτική Προστασίας Προσωπικών Δεδομένων Πολιτική Cookies Οικονομικά Στοιχεία Ευκαιρίες Καριέρας Για ραντεβού καλέστε Αθήνα : 210 6962600 Θεσσαλονίκη : 2310 372600 Ώρες λειτουργίας τηλεφωνικού κέντρου Δευτ. - Σαβ. 7:00 - 22:00 Για έκτακτα περιστατικά 210 6962447 (24ωρο) Δείτε τους χάρτες > FacebookYoutubeLinkedin ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΑΘΗΝΩΝ: 000242201000 ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΘΕΣΣΑΛΟΝΙΚΗΣ: 057268204000",
+      "sourcePageUrl": "https://bioclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://bioclinic.gr/",
+          "retrievedAt": "2026-03-31T13:22:20.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2021-09-10",
+      "sourcePageUrl": "https://bioclinic.gr/day-clinic",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://bioclinic.gr/day-clinic",
+          "retrievedAt": "2026-03-31T13:22:22.735Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2019-04-22",
+      "sourcePageUrl": "https://bioclinic.gr/day-clinic-athens",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://bioclinic.gr/day-clinic-athens",
+          "retrievedAt": "2026-03-31T13:22:26.507Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2021-07-26",
+      "sourcePageUrl": "https://bioclinic.gr/epikoinwnia",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://bioclinic.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:22:29.689Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 6921408",
+      "sourcePageUrl": "https://bioclinic.gr/epikoinwnia",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://bioclinic.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:22:29.689Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2310 273703",
+      "sourcePageUrl": "https://bioclinic.gr/epikoinwnia",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://bioclinic.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:22:29.689Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "ath.bioclinic@bioclinic.gr",
+      "sourcePageUrl": "https://bioclinic.gr/epikoinwnia",
+      "pageType": "contact",
+      "confidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://bioclinic.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:22:29.689Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "the.bioclinic@bioclinic.gr",
+      "sourcePageUrl": "https://bioclinic.gr/epikoinwnia",
+      "pageType": "contact",
+      "confidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://bioclinic.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:22:29.689Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://bioclinic.gr/epikoinwnia",
+      "sourcePageUrl": "https://bioclinic.gr/epikoinwnia",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://bioclinic.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:22:29.689Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2021-12-09",
+      "sourcePageUrl": "https://bioclinic.gr/koronoios",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://bioclinic.gr/koronoios",
+          "retrievedAt": "2026-03-31T13:22:35.778Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "00 2310 372600",
+      "sourcePageUrl": "https://bioclinic.gr/koronoios",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://bioclinic.gr/koronoios",
+          "retrievedAt": "2026-03-31T13:22:35.778Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 6962600 210 6921408",
+      "sourcePageUrl": "https://bioclinic.gr/koronoios",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://bioclinic.gr/koronoios",
+          "retrievedAt": "2026-03-31T13:22:35.778Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2310 372600 2310 273703",
+      "sourcePageUrl": "https://bioclinic.gr/koronoios",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://bioclinic.gr/koronoios",
+          "retrievedAt": "2026-03-31T13:22:35.778Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2026-01-22",
+      "sourcePageUrl": "https://bioclinic.gr/omilos",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://bioclinic.gr/omilos",
+          "retrievedAt": "2026-03-31T13:22:39.326Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://bioclinic.gr/",
+    "finalOrigin": "https://bioclinic.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://bioclinic.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:22:19.272Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [
+        "/wp-admin/admin-ajax.php"
+      ],
+      "disallowRules": [
+        "/wp-admin/"
+      ],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://bioclinic.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:22:18.110Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 3,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://bioclinic.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.625Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/day-clinic",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://bioclinic.gr/epikoinwnia",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/koronoios",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/en/covid-19",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://bioclinic.gr/omilos",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/bioclinic-athens",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/bioclinic-thessaloniki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://bioclinic.gr/kardiologiko-tmima-athens",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/ogologiko-tmima",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/pnevmonologiko-tmima",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/nefrologiko",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/pathologiko-tmima",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/nevrologiko-tmima",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/ypertasiologiko-tmima",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/aggeioxeirourgiko-tmima",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/nevroheirourgiko-tmima",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/orthopediko-tmima",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/ourologiko-tmima",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:20.626Z"
+      },
+      {
+        "url": "https://bioclinic.gr/day-clinic",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:22.737Z"
+      },
+      {
+        "url": "https://bioclinic.gr/en/day-clinic",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://bioclinic.gr/day-clinic",
+        "timestamp": "2026-03-31T13:22:22.738Z"
+      },
+      {
+        "url": "https://bioclinic.gr/day-clinic-athens",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://bioclinic.gr/day-clinic",
+        "timestamp": "2026-03-31T13:22:22.738Z"
+      },
+      {
+        "url": "https://bioclinic.gr/en/day-clinic",
+        "action": "error",
+        "reason": "HTTP 500",
+        "pageTypeHint": "about",
+        "statusCode": 500,
+        "timestamp": "2026-03-31T13:22:22.871Z"
+      },
+      {
+        "url": "https://bioclinic.gr/day-clinic-athens",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://bioclinic.gr/day-clinic",
+        "timestamp": "2026-03-31T13:22:26.509Z"
+      },
+      {
+        "url": "https://bioclinic.gr/en/day-clinic-athens",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://bioclinic.gr/day-clinic-athens",
+        "timestamp": "2026-03-31T13:22:26.510Z"
+      },
+      {
+        "url": "https://bioclinic.gr/en/day-clinic-athens",
+        "action": "error",
+        "reason": "HTTP 500",
+        "pageTypeHint": "about",
+        "statusCode": 500,
+        "timestamp": "2026-03-31T13:22:26.669Z"
+      },
+      {
+        "url": "https://bioclinic.gr/epikoinwnia",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:29.691Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/tmima-wrl",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/epikoinwnia",
+        "timestamp": "2026-03-31T13:22:29.692Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/thwrakoheirourgiko-tmima",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/epikoinwnia",
+        "timestamp": "2026-03-31T13:22:29.692Z"
+      },
+      {
+        "url": "https://bioclinic.gr/koronoios",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:35.780Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/genini-xeirourgiki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/koronoios",
+        "timestamp": "2026-03-31T13:22:35.780Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/en/covid-19",
+        "action": "error",
+        "reason": "HTTP 500",
+        "pageTypeHint": "generic",
+        "statusCode": 500,
+        "timestamp": "2026-03-31T13:22:35.900Z"
+      },
+      {
+        "url": "https://bioclinic.gr/omilos",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://bioclinic.gr/",
+        "timestamp": "2026-03-31T13:22:39.331Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/gnathoheirourgiko-tmima",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/omilos",
+        "timestamp": "2026-03-31T13:22:39.331Z"
+      },
+      {
+        "url": "https://bioclinic.gr/iatreio-prwktou-athens",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://bioclinic.gr/omilos",
+        "timestamp": "2026-03-31T13:22:39.331Z"
+      },
+      {
+        "url": "https://bioclinic.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:22:40.540Z"
+      },
+      {
+        "url": "https://bioclinic.gr/epikoinwnia",
+        "action": "screenshot_skipped",
+        "reason": "page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://bioclinic.gr/epikoinwnia\nCall log:\n\u001b[2m  - navigating to \"https://bioclinic.gr/epikoinwnia\", waiting until \"domcontentloaded\"\u001b[22m\n",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:22:40.748Z"
+      }
+    ],
+    "skippedUrls": [
+      {
+        "url": "https://bioclinic.gr/en/day-clinic",
+        "action": "error",
+        "reason": "HTTP 500",
+        "pageTypeHint": "about",
+        "statusCode": 500,
+        "timestamp": "2026-03-31T13:22:22.871Z"
+      },
+      {
+        "url": "https://bioclinic.gr/en/day-clinic-athens",
+        "action": "error",
+        "reason": "HTTP 500",
+        "pageTypeHint": "about",
+        "statusCode": 500,
+        "timestamp": "2026-03-31T13:22:26.669Z"
+      },
+      {
+        "url": "https://www.bioclinic.gr/en/covid-19",
+        "action": "error",
+        "reason": "HTTP 500",
+        "pageTypeHint": "generic",
+        "statusCode": 500,
+        "timestamp": "2026-03-31T13:22:35.900Z"
+      }
+    ]
+  }
+}

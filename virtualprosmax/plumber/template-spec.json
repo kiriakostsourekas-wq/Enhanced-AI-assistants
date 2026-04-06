@@ -1,0 +1,244 @@
+{
+  "slug": "plumber",
+  "source_url": "https://plumber.virtualpros.com/",
+  "fetched_at_utc": "2026-04-06T11:43:52.590639+00:00",
+  "title": "",
+  "meta_description": "",
+  "hero": {
+    "heading": "Offers Both Pipe Leak and Full Plumbing Services",
+    "subheading": "The framework of a plumbing system includes pipelines, valves, and fixtures.",
+    "primary_cta": "Contact Us"
+  },
+  "sections": [
+    "24/7 Team Support",
+    "Plumbing Installations",
+    "Quality Materials",
+    "Expert Plumbers",
+    "About PlumbTech",
+    "We\u2019re Globally Trusted Plumbing Solutions",
+    "High-quality Plumbing Services",
+    "Commercial Plumbing"
+  ],
+  "ctas": [
+    "Home",
+    "About Us",
+    "Our Services",
+    "Contact Us",
+    "Get a Quote",
+    "Virtual Pros",
+    "Talk to Our AI Agent+1 (469) 489-3168",
+    "READ MORE",
+    "Get Quote",
+    "Make an Appointment",
+    "Submit"
+  ],
+  "nav_labels": [
+    "Home",
+    "About Us",
+    "Our Services",
+    "Contact Us",
+    "Get a Quote"
+  ],
+  "paragraph_samples": [
+    "Offers Both Pipe Leak and Full Plumbing Services",
+    "The framework of a plumbing system includes pipelines, valves, and fixtures.",
+    "Plumbing work includes installing, renovating, and repairing water systems and drainage.",
+    "We use top-grade materials to ensure long-lasting plumbing performance.",
+    "Our licensed plumbers ensure every repair and installation meets the highest standards.",
+    "Our company slogan, \u201cPlumbing is our craft, Quality is our promise,\u201d reflects our dedication to offering reliable plumbing solutions. From residential homes to commercial spaces, we\u2019ve built a reputation for excellence.",
+    "We offer complete plumbing solutions for businesses, including pipe fitting and drainage.",
+    "We specialize in detecting and fixing leaks in kitchens, bathrooms, and underground lines."
+  ],
+  "fonts": [
+    "Lato",
+    "Open Sans",
+    "Montserrat",
+    "Roboto",
+    "Manrope",
+    "Roboto Serif",
+    "Hanuman",
+    "Nunito Sans"
+  ],
+  "palette": {
+    "css_variables": [
+      {
+        "name": "primary",
+        "value": "#37CA37"
+      },
+      {
+        "name": "secondary",
+        "value": "#188BF6"
+      },
+      {
+        "name": "white",
+        "value": "#FFFFFF"
+      },
+      {
+        "name": "gray",
+        "value": "#CBD5E0"
+      },
+      {
+        "name": "black",
+        "value": "#000000"
+      },
+      {
+        "name": "red",
+        "value": "#E93D3D"
+      },
+      {
+        "name": "orange",
+        "value": "#F6AD55"
+      },
+      {
+        "name": "yellow",
+        "value": "#FAF089"
+      },
+      {
+        "name": "green",
+        "value": "#9AE6B4"
+      },
+      {
+        "name": "teal",
+        "value": "#81E6D9"
+      },
+      {
+        "name": "malibu",
+        "value": "#63B3ED"
+      },
+      {
+        "name": "indigo",
+        "value": "#757BBD"
+      },
+      {
+        "name": "purple",
+        "value": "#D6BCFA"
+      },
+      {
+        "name": "pink",
+        "value": "#FBB6CE"
+      },
+      {
+        "name": "overlay",
+        "value": "rgba(0,0,0,0.5)"
+      },
+      {
+        "name": "color-m2f4iaoo",
+        "value": "#141422"
+      },
+      {
+        "name": "color-m2f5d34k",
+        "value": "#E63A27"
+      },
+      {
+        "name": "color-m2jah4k2",
+        "value": "#F6F5F6"
+      },
+      {
+        "name": "color-m2kqf92x",
+        "value": "#F3F1F2"
+      },
+      {
+        "name": "color-m41sy2up",
+        "value": "#6F6E77"
+      }
+    ],
+    "dominant_colors": [
+      {
+        "value": "#FFFFFF",
+        "count": 43
+      },
+      {
+        "value": "#E4EAFAFF",
+        "count": 30
+      },
+      {
+        "value": "#000000",
+        "count": 29
+      },
+      {
+        "value": "#2E67CDFF",
+        "count": 22
+      },
+      {
+        "value": "#2C3345FF",
+        "count": 21
+      },
+      {
+        "value": "#427CD6FF",
+        "count": 18
+      },
+      {
+        "value": "#ACACACFF",
+        "count": 15
+      },
+      {
+        "value": "#212F6E",
+        "count": 10
+      },
+      {
+        "value": "#6796DEFF",
+        "count": 10
+      },
+      {
+        "value": "rgb(255,255,255)",
+        "count": 8
+      },
+      {
+        "value": "#FAD807",
+        "count": 7
+      },
+      {
+        "value": "#F3F8FB",
+        "count": 7
+      },
+      {
+        "value": "#9AE6B4",
+        "count": 6
+      },
+      {
+        "value": "#188BF6",
+        "count": 5
+      },
+      {
+        "value": "#6F6E77",
+        "count": 5
+      },
+      {
+        "value": "#155EEF",
+        "count": 5
+      }
+    ],
+    "theme": {
+      "primary": "#2E67CDFF",
+      "secondary": "#427CD6FF",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#427CD6FF"
+    }
+  },
+  "assets": {
+    "images": [
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/698ceacd715cdaf84eaabff6.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/6269bb3e-c6cb-4e23-ac1b-6dc50a20fe07.svg+xml",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/9a22a599-a8a5-4ccb-98a6-7a0d08446eb4.svg+xml",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/49eae6b2-2601-4d54-8fb8-dce03774f133.svg+xml",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/052cbdaf-822f-43d1-a62f-d147e2cbc2c4.svg+xml",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/3232df5d-f0e4-44fe-ba37-c40e2d49bb45.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/ec3aa24e-0307-406c-992d-53448b3cf297.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/e02dbbbe-3726-413b-91eb-bff026c363a9.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/577bd329-9553-4330-b094-224e1755d430.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/26851eed-a83f-4992-9254-6e5712fcdc36.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/aa3e407c-7380-4fcf-9fd8-83f3520dfaa7.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/63f5b2c3-a229-40ef-9542-ba81ecc23263.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/f10c1734-7eb5-442c-bd03-f68bc0847337.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/5c202aba-0889-48d4-b19d-bbf0550fca2c.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/2295c841-ffb3-4680-a5fa-3d1c46879f51.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/af0272b9-bb79-4c30-9536-3383353900f2.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/77186f7a-179f-4a09-b7ad-2f0de87aeb57.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/19e23cb1-2fac-4bed-be64-cfa38111f933.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/2243a43c-bfe2-42f0-b81b-75ed7be716f9.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/G0YtCZi6lYW5cv2rnGZX/media/cd64fe31-5e2c-465a-b4fc-a39a839f3f96.jpeg"
+    ]
+  }
+}

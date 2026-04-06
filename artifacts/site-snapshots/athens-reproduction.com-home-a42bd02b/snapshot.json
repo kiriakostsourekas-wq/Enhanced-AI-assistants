@@ -1,0 +1,1681 @@
+{
+  "domain": "athens-reproduction.com",
+  "collectedAt": "2026-03-31T13:13:24.648Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athens-reproduction.com-home-a42bd02b",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://www.athens-reproduction.com/",
+      "finalUrl": "https://www.athens-reproduction.com/",
+      "fetchedAt": "2026-03-31T13:13:13.438Z",
+      "metadata": {
+        "title": "Athens Reproduction - Fertility and Gynecology Services",
+        "metaDescription": "Fertility & Gynecology specialists providing the highest standard of personalized healthcare for women. American Board certified. Located in Athens, Greece.",
+        "canonicalUrl": "https://www.athens-reproduction.com/",
+        "language": "en",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Athens Reproduction - Fertility and Gynecology Services",
+        "openGraphDescription": "Fertility & Gynecology specialists providing the highest standard of personalized healthcare for women. American Board certified. Located in Athens, Greece."
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Hello Beautiful"
+        },
+        {
+          "level": "h1",
+          "text": "Athens Reproduction is a group of American Board certified physicians that, along with the dedicated staff, provide personalized healthcare of the highest standard to women."
+        },
+        {
+          "level": "h1",
+          "text": "What makes Athens Reproduction the right choice?"
+        },
+        {
+          "level": "h1",
+          "text": "Our services"
+        },
+        {
+          "level": "h1",
+          "text": "Our patients understand the importance of trust and high quality health care"
+        },
+        {
+          "level": "h1",
+          "text": "International Patients"
+        },
+        {
+          "level": "h1",
+          "text": "Free initial consultation for all our international patients"
+        },
+        {
+          "level": "h2",
+          "text": "Fertility treatment"
+        },
+        {
+          "level": "h2",
+          "text": "Egg Preservation"
+        },
+        {
+          "level": "h2",
+          "text": "Endometriosis specialists"
+        },
+        {
+          "level": "h2",
+          "text": "Institute of Life"
+        },
+        {
+          "level": "h2",
+          "text": "Our Values"
+        },
+        {
+          "level": "h2",
+          "text": "People"
+        },
+        {
+          "level": "h2",
+          "text": "State of the art IVF unit – Institute of Life (IOL)"
+        },
+        {
+          "level": "h2",
+          "text": "Quality"
+        },
+        {
+          "level": "h2",
+          "text": "Contact us to find out more about how we can help you CONTACT US"
+        },
+        {
+          "level": "h3",
+          "text": "At Athens Reproduction we follow the strict standards for providing for women as set out in the Guidelines of the American College of Obstetrics and Gynecology, and give realistic and scientifically proven solutions to medical challenges. A solid relationship with our patients is key to our success and your wellbeing."
+        },
+        {
+          "level": "h3",
+          "text": "Arranging your initial consultation is easy. Simply contact our international patient assistant via phone +30 210 6777 900 or email and she will direct you as to what you need to have with you at the consultation and arrange the date and time of consultation with one of our doctors. The consultation can take place on site at our offices or via skype if that is not feasible."
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.athens-reproduction.com/"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/reproduction-and-fertility-services/",
+          "label": "Fertility"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/results/",
+          "label": "Our Results"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/fertility-preservation/",
+          "label": "Fertility preservation"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/infertility-evaluation-and-counseling/",
+          "label": "Infertility evaluation and counseling"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/services-fertility-treatments/",
+          "label": "Fertility Treatments"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/services-fertility-reproductive-endocrinology-counseling/",
+          "label": "Reproductive Endocrinology Counseling"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/international-patients/",
+          "label": "International Patients"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/gynecology-services/",
+          "label": "Gynecology"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/services-gynecology-wellbeing/",
+          "label": "Wellbeing"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/services-gynecology-pathology-evaluation/",
+          "label": "Pathology Evaluation"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/services-gynecology-gynecology-treatment/",
+          "label": "Gynecology Treatments"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/pregnancy/",
+          "label": "Pregnancy"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/services-pregnancy-follow-up/",
+          "label": "Pregnancy Follow Up"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/services-pregnancy-child-birth/",
+          "label": "Child Birth"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/services-post-partum-period/",
+          "label": "Post-Partum period"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/our-centre-and-facilities/",
+          "label": "Facilities"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/institute-of-life/",
+          "label": "Institute of Life"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/our-specialist-team/",
+          "label": "People"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/vasilios-g-kontopoulos/",
+          "label": "Dr Vasilios G Kontopoulos"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/george-v-kontopoulos/",
+          "label": "Dr George V. Kontopoulos"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/georgette-young/",
+          "label": "Georgette Young"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/stella-papoutsarova/",
+          "label": "Stella Papoutsarova"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/eumorphia-papakyriakou/",
+          "label": "Eumorphia Papakyriakou"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/sonia-emmanouel/",
+          "label": "Sonia Emmanouel"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/glossary/",
+          "label": "Glossary"
+        },
+        {
+          "href": "https://www.athens-reproduction.com/contact/",
+          "label": "Contact"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/reproduction-and-fertility-services/",
+          "label": "Fertility Services"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/fertility-preservation",
+          "label": "Fertility Preservation"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/gynecology-services/",
+          "label": "Learn More"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/institute-of-life",
+          "label": "Find out more"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/reproduction-and-fertility-services",
+          "label": "Find out more"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/gynecology-services",
+          "label": "Find out More"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/pregnancy",
+          "label": "Find out more"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/international-patients",
+          "label": "Find out More"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/contact",
+          "label": "CONTACT US"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.athens-reproduction.com/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "s",
+              "type": "text",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "+30 210 6777 900",
+          "+30 210 6199 170"
+        ],
+        "emails": [
+          "info@athens_reproduction.com"
+        ],
+        "addresses": [
+          "/* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"https:\\/\\/www.athens-reproduction.com\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/GeorgeVKontopoulos/"
+          },
+          {
+            "href": "https://www.linkedin.com/in/george-kontopoulos-5927142a/"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.athens-reproduction.com/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "s",
+                "type": "text",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "textContent": "Fertility Reproduction and Fertility Our Results Fertility preservation Infertility evaluation and counseling Fertility Treatments Reproductive Endocrinology Counseling International Patients Gynecology Gynecology Wellbeing Pathology Evaluation Gynecology Treatments Pregnancy Pregnancy Pregnancy Follow Up Child Birth Post-Partum period Facilities Our Centre and Facilities Institute of Life People Our Specialist Team Dr Vasilios G Kontopoulos Dr George V. Kontopoulos Georgette Young Stella Papoutsarova Eumorphia Papakyriakou Sonia Emmanouel Glossary Contact No menu assigned! Hello Beautiful Say hello to better womens healthcare Fertility treatmentWe help make families Fertility Services Egg PreservationExtend your fertility for the future Fertility Preservation Endometriosis specialistsFounding members of the Hellenic Endometriosis society Learn More Institute of LifeFounding members of one of the best IVF centres in Europe Find out more Athens Reproduction is a group of American Board certified physicians that, along with the dedicated staff, provide personalized healthcare of the highest standard to women. What makes Athens Reproduction the right choice? Our Values We treat our patients with honesty and respect. Listening to our patients needs, we always give realistic and scientifically proven solutions to their problems. People Our reproductive specialists are trained in the US and Board certified in Ob/Gyn and Reproductive Endocrinology. Our doctors have several academic achievements, are authors in international journals and frequent lecturers. They have been caring for women for over 30 years and together with our dedicated staff will make sure that your care is in good hands. State of the art IVF unit – Institute of Life (IOL) We are proud to be founding members of one the most advanced Assisted Reproduction units that has been created in the premises of IASO hospital, one of the largest maternity hospitals in Europe. At IOL we use innovative treatments and our high operational standards are certified giving the best chance to couples to achieve their dream. Quality Quality of care is our primary goal. We want you to know that everything that could be possibly done was done and that your experience from our center was a pleasant one. Our services Infertility Complete evaluation of infertility and personalized treatments Find out more Gynecology Evaluating women’s wellbeing, providing medical and surgical therapies. Find out More Pregnancy Providing optimal prenatal care and the child birth experience Find out more Our patients understand the importance of trust and high quality health care At Athens Reproduction we follow the strict standards for providing for women as set out in the Guidelines of the American College of Obstetrics and Gynecology, and give realistic and scientifically proven solutions to medical challenges. A solid relationship with our patients is key to our success and your wellbeing. International Patients Our internationally trained and recognised staff use state of art facilities to provide world class assisted fertility treatments to couples from abroad with added benefits of cost savings and combining this with a vacation in Greece. Services we offer our international patients: Fertility Evaluation Fertility Preservation Fertility Treatments Travel Services Find out More Free initial consultation for all our international patients Arranging your initial consultation is easy. Simply contact our international patient assistant via phone +30 210 6777 900 or email and she will direct you as to what you need to have with you at the consultation and arrange the date and time of consultation with one of our doctors. The consultation can take place on site at our offices or via skype if that is not feasible. “ When we went to Greece we were two, now we are four! What more could we ask for? Thank you doctor! Katerina , Manos and the minions, NY, USA “ We received exceptional prenatal care given by the most competent staff in these state of the art facilities. What we valued the most was the close and personal relationship with our doctor, knowledgeable, professional and caring. We always felt that we were in the safest hands. It was a great experience! Johan and Maria, Stockholm/Sweden “ I feel grateful for Dr George Kontopoulos for caring for us through two very difficult pregnancies leading to a natural birth against all odds, for always answering all my questions and dealing with my worries, for inspiring a sense of trust and respect that came out of his medical excellence, which can only be matched by his kindness and support as a person Lia, mother of Kostas (7) and Jenny (5) Contact us to find out more about how we can help you CONTACT US Athens Reproduction We are a group of American Board certified physicians providing personalized healthcare for women of the highest standard. Contact Athens Reproduction Agisilaou 8, Marousi Athens 151 23, Greece Tel: +30 210 6777 900 Fax: +30 210 6199 170 Office opening hours Monday: 16:00-20:00 Wednesday: 15:00-20:00 Thursday: 15:00-20:00 ASSOCIATIONS © 2026 Athens Reproduction. All Rights Reserved, Athens Reproduction. Fertility Reproduction and Fertility Our Results Fertility preservation Infertility evaluation and counseling Fertility Treatments Reproductive Endocrinology Counseling International Patients Gynecology Gynecology Wellbeing Pathology Evaluation Gynecology Treatments Pregnancy Pregnancy Pregnancy Follow Up Child Birth Post-Partum period Facilities Our Centre and Facilities Institute of Life People Our Specialist Team Dr Vasilios G Kontopoulos Dr George V. Kontopoulos Georgette Young Stella Papoutsarova Eumorphia Papakyriakou Sonia Emmanouel Glossary Contact wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); /* <![CDATA[ */ var uiAutocompleteL10n = {\"noResults\":\"No results found.\",\"oneResult\":\"1 result found. Use up and down arrow keys to navigate.\",\"manyResults\":\"%d results found. Use up and down arrow keys to navigate.\",\"itemSelected\":\"Item selected.\"}; /* ]]> */ /* <![CDATA[ */ var MyAcSearch = {\"url\":\"https:\\/\\/www.athens-reproduction.com\\/wp-admin\\/admin-ajax.php\"}; /* ]]> */ /* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"https:\\/\\/www.athens-reproduction.com\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */ /* <![CDATA[ */ var nectarLove = {\"ajaxurl\":\"https:\\/\\/www.athens-reproduction.com\\/wp-admin\\/admin-ajax.php\",\"postID\":\"41\",\"rooturl\":\"https:\\/\\/www.athens-reproduction.com\",\"pluginPages\":[],\"disqusComments\":\"false\",\"loveNonce\":\"87a048b8f9\",\"mapApiKey\":\"AIzaSyD6Zg5w5IejF_SB_I1bw7jYLZQ_3-dmXJ8\"}; /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athens-reproduction.com-home-a42bd02b/homepage--a42bd02b.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athens-reproduction.com-home-a42bd02b/homepage--a42bd02b.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.athens-reproduction.com/wp-content/uploads/2016/08/Athens_Reproduction_RGB_500.png",
+          "alt": "Athens Reproduction",
+          "sourcePageUrl": "https://www.athens-reproduction.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athens-reproduction.com/",
+              "retrievedAt": "2026-03-31T13:13:13.436Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athens-reproduction.com/wp-content/uploads/2016/08/Athens_Reproduction_RGB_1000.png",
+          "alt": "Athens Reproduction",
+          "sourcePageUrl": "https://www.athens-reproduction.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athens-reproduction.com/",
+              "retrievedAt": "2026-03-31T13:13:13.436Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athens-reproduction.com/wp-content/uploads/2016/08/MotherChild.jpg",
+          "sourcePageUrl": "https://www.athens-reproduction.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athens-reproduction.com/",
+              "retrievedAt": "2026-03-31T13:13:13.436Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athens-reproduction.com/wp-content/uploads/2016/08/Woman_Generations.jpg",
+          "sourcePageUrl": "https://www.athens-reproduction.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athens-reproduction.com/",
+              "retrievedAt": "2026-03-31T13:13:13.436Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athens-reproduction.com/wp-content/uploads/2016/08/Pregnant.jpg",
+          "sourcePageUrl": "https://www.athens-reproduction.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athens-reproduction.com/",
+              "retrievedAt": "2026-03-31T13:13:13.436Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athens-reproduction.com/wp-content/uploads/2016/08/Map_AthensReproduction.png",
+          "sourcePageUrl": "https://www.athens-reproduction.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athens-reproduction.com/",
+              "retrievedAt": "2026-03-31T13:13:13.436Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athens-reproduction.com/wp-content/uploads/2017/10/GAMC_White_Footer.-e1508516804965.png",
+          "alt": "Greek American Medical College",
+          "sourcePageUrl": "https://www.athens-reproduction.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athens-reproduction.com/",
+              "retrievedAt": "2026-03-31T13:13:13.436Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athens-reproduction.com/wp-content/uploads/2017/10/ASRM_White_Footer-e1508516795815.png",
+          "alt": "American Society for Reproductive Medicine",
+          "sourcePageUrl": "https://www.athens-reproduction.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athens-reproduction.com/",
+              "retrievedAt": "2026-03-31T13:13:13.436Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athens-reproduction.com/wp-content/uploads/2017/10/ACOG_White_Footer.-e1508518946597.png",
+          "alt": "American Congress of Obstetricians and Gynecologists",
+          "sourcePageUrl": "https://www.athens-reproduction.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athens-reproduction.com/",
+              "retrievedAt": "2026-03-31T13:13:13.436Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://www.athens-reproduction.com/",
+          "retrievedAt": "2026-03-31T13:13:13.438Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athens-reproduction.com-home-a42bd02b/homepage-page-a42bd02b.png"
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "http://www.athens-reproduction.com/services-fertility-treatments",
+      "finalUrl": "http://www.athens-reproduction.com/services-fertility-treatments",
+      "fetchedAt": "2026-03-31T13:13:21.192Z",
+      "metadata": {
+        "title": "Services - Fertility - Treatments - Athens Reproduction",
+        "canonicalUrl": "https://www.athens-reproduction.com/services-fertility-treatments/",
+        "language": "en",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Services - Fertility - Treatments - Athens Reproduction",
+        "openGraphImage": "http://www.athens-reproduction.com/wp-content/uploads/2017/04/Intra_Uterine_Insemination-300x225.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Fertility Treatments"
+        },
+        {
+          "level": "h2",
+          "text": "IUI (Intra Uterine Insemination)"
+        },
+        {
+          "level": "h2",
+          "text": "Ovarian stimulation"
+        },
+        {
+          "level": "h2",
+          "text": "IVF"
+        },
+        {
+          "level": "h2",
+          "text": "ICSI (IntraCytoplasmic Sperm Injection)"
+        },
+        {
+          "level": "h2",
+          "text": "Female fertility preservation"
+        },
+        {
+          "level": "h2",
+          "text": "Male fertility preservation"
+        },
+        {
+          "level": "h2",
+          "text": "PGD/PGS (Pre-implantation Genetic Diagnosis/ Screening)"
+        },
+        {
+          "level": "h2",
+          "text": "Assisted Hatching"
+        },
+        {
+          "level": "h2",
+          "text": "Operative laparoscopy"
+        },
+        {
+          "level": "h2",
+          "text": "Operative Hysteroscopy"
+        },
+        {
+          "level": "h2",
+          "text": "Microsurgery"
+        },
+        {
+          "level": "h2",
+          "text": "Donor Sperm"
+        },
+        {
+          "level": "h2",
+          "text": "Donor oocytes"
+        },
+        {
+          "level": "h2",
+          "text": "Surrogacy"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "http://www.athens-reproduction.com/"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/reproduction-and-fertility-services/",
+          "label": "Fertility"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/results/",
+          "label": "Our Results"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/fertility-preservation/",
+          "label": "Fertility preservation"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/infertility-evaluation-and-counseling/",
+          "label": "Infertility evaluation and counseling"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/services-fertility-treatments/",
+          "label": "Fertility Treatments"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/services-fertility-reproductive-endocrinology-counseling/",
+          "label": "Reproductive Endocrinology Counseling"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/international-patients/",
+          "label": "International Patients"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/gynecology-services/",
+          "label": "Gynecology"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/services-gynecology-wellbeing/",
+          "label": "Wellbeing"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/services-gynecology-pathology-evaluation/",
+          "label": "Pathology Evaluation"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/services-gynecology-gynecology-treatment/",
+          "label": "Gynecology Treatments"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/pregnancy/",
+          "label": "Pregnancy"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/services-pregnancy-follow-up/",
+          "label": "Pregnancy Follow Up"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/services-pregnancy-child-birth/",
+          "label": "Child Birth"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/services-post-partum-period/",
+          "label": "Post-Partum period"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/our-centre-and-facilities/",
+          "label": "Facilities"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/institute-of-life/",
+          "label": "Institute of Life"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/our-specialist-team/",
+          "label": "People"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/vasilios-g-kontopoulos/",
+          "label": "Dr Vasilios G Kontopoulos"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/george-v-kontopoulos/",
+          "label": "Dr George V. Kontopoulos"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/georgette-young/",
+          "label": "Georgette Young"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/stella-papoutsarova/",
+          "label": "Stella Papoutsarova"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/eumorphia-papakyriakou/",
+          "label": "Eumorphia Papakyriakou"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/sonia-emmanouel/",
+          "label": "Sonia Emmanouel"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/glossary/",
+          "label": "Glossary"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/contact/",
+          "label": "Contact"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/wp-content/uploads/2017/04/Intra_Uterine_Insemination.jpg"
+        },
+        {
+          "href": "http://www.athens-reproduction.com/wp-content/uploads/2017/04/Oocyte_retrieval.jpg"
+        }
+      ],
+      "forms": [
+        {
+          "action": "http://www.athens-reproduction.com/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "s",
+              "type": "text",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "+30 210 6777 900",
+          "+30 210 6199 170"
+        ],
+        "emails": [],
+        "addresses": [
+          "/* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"http:\\/\\/www.athens-reproduction.com\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/GeorgeVKontopoulos/"
+          },
+          {
+            "href": "https://www.linkedin.com/in/george-kontopoulos-5927142a/"
+          }
+        ],
+        "forms": [
+          {
+            "action": "http://www.athens-reproduction.com/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "s",
+                "type": "text",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "textContent": "Fertility Reproduction and Fertility Our Results Fertility preservation Infertility evaluation and counseling Fertility Treatments Reproductive Endocrinology Counseling International Patients Gynecology Gynecology Wellbeing Pathology Evaluation Gynecology Treatments Pregnancy Pregnancy Pregnancy Follow Up Child Birth Post-Partum period Facilities Our Centre and Facilities Institute of Life People Our Specialist Team Dr Vasilios G Kontopoulos Dr George V. Kontopoulos Georgette Young Stella Papoutsarova Eumorphia Papakyriakou Sonia Emmanouel Glossary Contact No menu assigned! Reproduction and Fertility Fertility Treatments Infertility evaluation/counseling Fertility treatments IUI ( Intra Uterine Insemination) Ovarian stimulation IVF (In Vitro Fertilization) ICSI ( Intra Cytoplasmic Sperm Injection) Female fertility preservation Male fertility preservation PGD/PGS (Pre-implantation Genetic Diagnosis n Screening) Assisted Hatching Operative Laparoscopy Operative Hysteroscopy Microsurgery Donor sperm Donor oocyte Surrogacy Reproductive Endocrinology counseling IUI (Intra Uterine Insemination) The IUI procedure involves the placement of processed sperm inside the uterus to facilitate fertilization. The goal of IUI is to increase the number of spermatozoa that reach the fallopian tubes and subsequently increase the chance of fertilization of the oocyte. Sometimes mild ovarian stimulation is used that increases the chances by the ovulation of more than one oocytes. During an IUI cycle the follicle or the follicles (if it is a stimulated cycle) are followed with sonograms until the follicles reach a diameter of 17-20mm. Then an injection of HCG (Human Chorionic Gonadotropin) is given in order to mimic the action of the “LH peak” and mature the oocyte. The IUI is then planned 32-36hrs after the injection which is around the time of expected ovulation. On the day of the IUI procedure, the semen of the male partner is processed in order to achieve higher concentration of motile spermatozoa per ml. A soft small diameter catheter is used to pass through the cervical canal and place the sperm in the uterine cavity. The procedure is painless and no sedation or pain killer is needed. It is a simple procedure that gives 10-15% more chances to achieve a pregnancy. The patency of the tubes is a prerequisite before proceeding with intrauterine insemination and usually that is confirmed with a HSG (Hysterosalpingogram). Ovarian stimulation It is the stimulation of the ovaries with medications in order to produce more than the one oocyte that is normally produced in the natural cycle. The medications used can be pills by mouth, like clomiphene citrate or Letrozole that indirectly force the pituitary gland to produce more FSH or injections that contain FSH. The ovarian stimulation with pills is usually milder that the injectable route. Ovarian stimulation is used in order to increase the chances of fertilization of more oocytes thus increasing the chances of achieving a pregnancy. IVF It involves the fertilization of an oocyte by a sperm cell outside the human body, in laboratory conditions. The embryos created by this procedure can then be transferred inside the uterus. Before entering an IVF cycle there is a number mandatory tests that need to be done. It is common practice to have an ultrasound prior to the start of a cycle in order to confirm that there are no findings that could compromise the success of the IVF trial, like an ovarian cyst and endometrial polyp etc. The process of IVF comprises of 4 main phases, the ovulation induction, the oocyte retrieval, the fertilization of the oocyte and the embryo transfer. Ovulation induction: During this period we follow the growth of the follicles and the hormones they produce. If it is a stimulated cycle then a subcutaneous injection of FSH is administered daily for an average of 10-12 days. Depending on the stimulation protocol used, the duration might be longer and there might be an addition of a second injection for a few days. During the stimulation phase, usually 3-4 sonograms are needed to evaluate the size of the follicles and hormonal levels to evaluate what the follicles produce. The dose of the medications used is accordingly adjusted. When most of the follicles reach 17-20mm in diameter, an injection is administered to mature the oocytes and trigger the ovulation. The oocyte retrieval is scheduled 32-36 hrs later. Oocyte retrieval: In stimulated cycles where more than one oocyte needs to be retrieved, sedation is usually administered for approx. 10 min. in order for the procedure to be painless and the patient to be still. The aspiration of the fluid of the follicles is done transvaginally with a hollow needle that is sonographically guided. At the other end of the needle there is a tube that is connected with a suction device that collects the aspirated fluid in specimen bottles. These are handed to the embryologists that identify the oocytes and count them in real time. It is common to have less oocytes than the follicles aspirated because some of the follicles are smaller in size and thus immature. After the procedure the patient is monitored for 1-2 hrs in order to make sure that everything is ok. No pain or mild discomfort in the lower abdomen can be expected that dissipates during the day and needs no pain medication. Fertilization: The fertilization of the mature oocytes is carried out either with classic IVF where a droplet of sperm is placed on each oocyte or ICSI. The following morning the couple will receive a phone call from the embryologist or her doctor that will inform her about the number of oocytes that were fertilized and the suggested day of embryo transfer. At this stage no specific information about the quality of the embryos can be given. Embryo transfer: Embryo transfer is scheduled 2-3 days after fertilization. Sometimes it takes place 5-6 days later at the blastocyst stage. On the day of embryo transfer one of the embryologists, the couple and their doctor will have a meeting where they will get information about the quality grading of the embryos and they will decide how many embryos will be transferred and if there is a surplus of embryos, which of them are going to be cryopreserved. Then the embryo transfer will take place. You will be asked not to void in the hour preceding the transfer and drink a lot of water. This is because the embryo transfer is transabdominally guided with an ultrasound and you have a better picture when the bladder is full. The embryo(s) are withdrawn in a soft specialized catheter and then placed in the endometrial cavity. The procedure is painless and requires no sedation. After the embryo transfer the couple gets informed about the precautions needed and when to measure the β-HCG to hopefully see that they achieved a pregnancy. ICSI (IntraCytoplasmic Sperm Injection) This a fertilization technique that has increased dramatically the success rates in male factor infertility and made it possible for many couples to achieve a pregnancy. When there is not enough spermatozoa to fertilize the oocyte with the classic IVF technique, we usually proceed with the ICSI technique. During the ICSI technique, the mature oocyte is held in place by a pipette and a single spermatozoon is aspirated with a very small and hollow needle. Then the sperm is injected in the cytoplasm of the oocyte. The ICSI technique takes place in a specialized microscope station with micromanipulators. Female fertility preservation Find out more about Female fertility preservation Male fertility preservation The usual method for male fertility preservation is the cryopreservation of a sperm sample in a sperm bank. This method has been used for many years and has excellent results. It is usually offered to men that have cancer and will undergo surgery, or that are going to be exposed to radiation or chemotherapy. Sometimes it is also used in couples that undergo assisted reproduction and need to store samples of sperm for future use. The duration of cryopreservation can be indefinite theoretically, because it is the freezing and thawing procedures that can have an adverse effect on the sperm cells. PGD/PGS (Pre-implantation Genetic Diagnosis/ Screening) The removal of one or more cells (embryo biopsy) from the developing embryo in the laboratory during an IVF cycle in order to do genetic tests. In the case of PGD we test for specific inherited diseases in order to clarify which embryos do not have the disease and only transfer the healthy ones back in the uterus. This is recommended to couples that are known to be carriers of a specific disease In the case of PGS we screen in order to see which embryos have normal karyotype (number and size of chromosomes). These are the embryos that usually will result in a normal pregnancy. This technique is recommended when we have recurrent implantation failures despite a good number of embryos. The embryo biopsy is done at the day 5 or 6 stage (Blastocyst) and a few cells are removed from the trophectoderm part of the blastocyst, which is the part that is going to form the placenta in the future. Biopsy at the D3 stage or polar body biopsy have been abandoned since they are inferior in accuracy and have been shown to have detrimental effects on the embryos. The main disadvantage of the PGS technique is that it is still very expensive and this is why it is reserved for selected cases. Assisted Hatching The technique of artificial breaching of the outer layer (Zona Pellucida) of an embryo by mechanical (e.g. Laser) or chemical means in order for it to expand (“hatch”) and implant in the womb. This technique is usually reserved for embryos that result from the oocytes of older women or in embryos that show slow growth or poor quality. It theoretically increases the chances of implantation but that has not been proved in all the studies. Operative laparoscopy Allows us to access the contents of the abdomen and pelvis without having to do a big incision. Also called minimally invasive surgery or “keyhole” surgery,it is a type of surgery in which small incisions (0.5-1cm) are made in the abdominal wall through which a laparoscope (a camera) and other instruments can be used to visualize the structures within the abdomen and pelvis and if necessary operate. The main advantage of laparoscopy versus open surgery, apart from the aesthetic advantage of smaller incisions, is the decreased amount of pain and quicker recovery. Most patients leave the hospital on the same or the next day after the surgery. Laparoscopy can be used for the diagnosis of the cause of infertility (Diagnostic laparoscopy) in younger patients but the use of diagnostic laparoscopy in older patients has been limited in the recent years because of the increasing success rates of IVF. Couples prefer to go directly to an IVF cycle than to perform a laparoscopy with uncertain benefits. Dr.Kontopoulos has been a pioneer in Laparoscopy and was one of the first to perform laparoscopic surgeries in Greece. Operative laparoscopy can be used in infertility to ameliorate or fix problems such as Endometriosis, adhesions, hydrosalpinges etc. Operative Hysteroscopy A hysteroscopy is an endoscopic procedure used to examine the endometrial cavity inside the uterus and the cervical canal. It’s carried out using a hysteroscope, which is a narrow telescope with a light and camera at the end. There are also two small holes, one for the instillation of water used to expand the cavity of the uterus and one for the insertion of instruments. Hysteroscopy can be Diagnostic or Operative. Diagnostic Hysteroscopy can be performed in our offices with a small flexible hysteroscope without the need of anesthesia. Operative Hysteroscopy needs anesthesia and is performed in the hospital. A polyp, or small fibroids can be removed, adhesions lysed and uterine malformations corrected. Also sampling of the endometrium can be done. Microsurgery Delicate surgery using miniaturized specialized instruments and a microscope. In fertility it is used to correct problems in the salpinges or perform re anastomosis (reconnection) of a tubal ligation. It used to be the only solution in tubal factor infertility but nowadays with the higher success rates of IVF, it is reserved for special cases. Donor Sperm Many kids have been born using this method. It is a solution when there is complete azoospermia or a testicular biopsy yields no motile spermatozoa. Also a solution when there is no male partner or if the father has a genetic disease that should not be inherited. It is important for both partners to feel comfortable with this decision and all questions to be openly discussed. Sometimes psychological counseling is provided to help the couple take the right decision. Donor characteristics like height, color of skin, hair, eyes, race, ethnic background, educational background, career history, and general health. Also all donors are tested for sexually transmitted diseases and other infectious diseases. Couples or individuals decide which sperm bank or which donor to use, and all the necessary paperwork and arrangements are done before the oocyte retrieval takes place. Donor oocytes The procedure during which a fertile woman, usually of younger age, donates her oocytes to another women that has low number or quality of oocytes or no oocytes at all. The donor undergoes controlled ovarian stimulation and oocyte retrieval, then In Vitro Fertilization with the spermatozoa takes place and the resulting embryos are placed in the recipient uterus. Before oocyte donation and IVF, there was no solution for women experiencing premature ovarian failure (POF) or women of older age. Since IVF success is mainly influenced by the oocyte quality, it is not surprising that IVF with donor oocytes has such high success rates, since the donors are of young age (<30) and provide good quality oocytes. Oocyte donation has helped many couples and is increasing in numbers because many women in modern society decide to start a family at an older age. Oocyte donation is also indicated in multiple failed IVF attempts and women with known transmittable genetic diseases. The decision to proceed to oocyte donation is not an easy one for both partners. All the aspects of the procedure must be explained and what are their limitations in the background search of the recipient. After all questions are answered then the couple will usually need some time before reaching a decision and feel comfortable with it. The Greek law allows oocyte donation only from an anonymous donor. All donors need to be screened with a proper medical history and physical exam and tested for infectious diseases. Genetic screening is done with a detailed family history and blood tests determined by their ethnic background (like cystic fibrosis, hemoglobin electrophoresis for thalassemias and Karyotype). A psychological screening can also be done. The recipient can be aware of the phenotypic characteristics of the donor such as height, weight, color of skin, hair, eyes, ethnic background and race. The recipient can be up to age 50 and needs to have in depth evaluation of her uterus and endometrial lining. When a donor that closely matches the characteristics requested is found, then the couple is informed and if it is convenient for both parties we try to synchronize the ovarian stimulation and oocyte retrieval of the donor with the endometrial preparation of the recipient. Sometimes we need to stop the cycle of the recipient in order to achieve the synchronization. The oocytes of the donor are retrieved and fertilized by the sperm sample of the partner. The resulting embryos are cultured and then transferred in the recipient uterus. Only two embryos are allowed for transfer according to the Greek law. This is because the high implantation rate can result in triplets which is not desirable. If the synchronization between recipient and donor is not possible, then the fertilized embryos can be cryopreserved and transferred at a later stage without compromising the success rates. Surrogacy Surrogacy is a method or agreement whereby a woman agrees to carry a pregnancy for another person or persons, who will become the newborn child’s parent(s) after birth. This a solution for women who cannot carry a pregnancy because they do not have a uterus either for congenital reasons (Mayer-Rokitansky-Kuster-Hauser syndrome) or had a hysterectomy (surgical removal of the uterus). There are also cases where it is not recommended for a woman to carry a pregnancy for medical reasons and cases where the uterine enviroment is not receptive. Surrogacy in Greece is legal and is one of the few countries to provide legal protection to the intended parents. The surrogate mother has no rights over the parenthood of the child. The parents must appear before a family law judge and if they have the qualifications required, then their application is almost always granted. SaveSave Athens Reproduction We are a group of American Board certified physicians providing personalized healthcare for women of the highest standard. Contact Athens Reproduction Agisilaou 8, Marousi Athens 151 23, Greece Tel: +30 210 6777 900 Fax: +30 210 6199 170 Office opening hours Monday: 16:00-20:00 Wednesday: 15:00-20:00 Thursday: 15:00-20:00 ASSOCIATIONS © 2026 Athens Reproduction. All Rights Reserved, Athens Reproduction. Fertility Reproduction and Fertility Our Results Fertility preservation Infertility evaluation and counseling Fertility Treatments Reproductive Endocrinology Counseling International Patients Gynecology Gynecology Wellbeing Pathology Evaluation Gynecology Treatments Pregnancy Pregnancy Pregnancy Follow Up Child Birth Post-Partum period Facilities Our Centre and Facilities Institute of Life People Our Specialist Team Dr Vasilios G Kontopoulos Dr George V. Kontopoulos Georgette Young Stella Papoutsarova Eumorphia Papakyriakou Sonia Emmanouel Glossary Contact wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); /* <![CDATA[ */ var uiAutocompleteL10n = {\"noResults\":\"No results found.\",\"oneResult\":\"1 result found. Use up and down arrow keys to navigate.\",\"manyResults\":\"%d results found. Use up and down arrow keys to navigate.\",\"itemSelected\":\"Item selected.\"}; /* ]]> */ /* <![CDATA[ */ var MyAcSearch = {\"url\":\"http:\\/\\/www.athens-reproduction.com\\/wp-admin\\/admin-ajax.php\"}; /* ]]> */ /* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"http:\\/\\/www.athens-reproduction.com\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */ /* <![CDATA[ */ var nectarLove = {\"ajaxurl\":\"http:\\/\\/www.athens-reproduction.com\\/wp-admin\\/admin-ajax.php\",\"postID\":\"949\",\"rooturl\":\"http:\\/\\/www.athens-reproduction.com\",\"pluginPages\":[],\"disqusComments\":\"false\",\"loveNonce\":\"87a048b8f9\",\"mapApiKey\":\"AIzaSyD6Zg5w5IejF_SB_I1bw7jYLZQ_3-dmXJ8\"}; /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athens-reproduction.com-home-a42bd02b/services-services-fertility-treatments-f509d58d.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athens-reproduction.com-home-a42bd02b/services-services-fertility-treatments-f509d58d.txt",
+      "imageReferences": [
+        {
+          "url": "http://www.athens-reproduction.com/wp-content/uploads/2017/04/Intra_Uterine_Insemination-300x225.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "http://www.athens-reproduction.com/services-fertility-treatments",
+          "pageType": "services",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "http://www.athens-reproduction.com/services-fertility-treatments",
+              "retrievedAt": "2026-03-31T13:13:21.190Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.athens-reproduction.com/wp-content/uploads/2016/08/Athens_Reproduction_RGB_500.png",
+          "alt": "Athens Reproduction",
+          "sourcePageUrl": "http://www.athens-reproduction.com/services-fertility-treatments",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.athens-reproduction.com/services-fertility-treatments",
+              "retrievedAt": "2026-03-31T13:13:21.190Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.athens-reproduction.com/wp-content/uploads/2016/08/Athens_Reproduction_RGB_1000.png",
+          "alt": "Athens Reproduction",
+          "sourcePageUrl": "http://www.athens-reproduction.com/services-fertility-treatments",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.athens-reproduction.com/services-fertility-treatments",
+              "retrievedAt": "2026-03-31T13:13:21.190Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.athens-reproduction.com/wp-content/uploads/2017/04/Oocyte_retrieval-300x225.jpg",
+          "sourcePageUrl": "http://www.athens-reproduction.com/services-fertility-treatments",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.athens-reproduction.com/services-fertility-treatments",
+              "retrievedAt": "2026-03-31T13:13:21.190Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.athens-reproduction.com/wp-content/uploads/2017/10/GAMC_White_Footer.-e1508516804965.png",
+          "alt": "Greek American Medical College",
+          "sourcePageUrl": "http://www.athens-reproduction.com/services-fertility-treatments",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.athens-reproduction.com/services-fertility-treatments",
+              "retrievedAt": "2026-03-31T13:13:21.190Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.athens-reproduction.com/wp-content/uploads/2017/10/ASRM_White_Footer-e1508516795815.png",
+          "alt": "American Society for Reproductive Medicine",
+          "sourcePageUrl": "http://www.athens-reproduction.com/services-fertility-treatments",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.athens-reproduction.com/services-fertility-treatments",
+              "retrievedAt": "2026-03-31T13:13:21.190Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.athens-reproduction.com/wp-content/uploads/2017/10/ACOG_White_Footer.-e1508518946597.png",
+          "alt": "American Congress of Obstetricians and Gynecologists",
+          "sourcePageUrl": "http://www.athens-reproduction.com/services-fertility-treatments",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.athens-reproduction.com/services-fertility-treatments",
+              "retrievedAt": "2026-03-31T13:13:21.190Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "http://www.athens-reproduction.com/services-fertility-treatments",
+          "retrievedAt": "2026-03-31T13:13:21.192Z"
+        }
+      ],
+      "statusCode": 200
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "+30 210 6777 900",
+      "+30 210 6199 170"
+    ],
+    "emails": [
+      "info@athens_reproduction.com"
+    ],
+    "addresses": [
+      "/* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"https:\\/\\/www.athens-reproduction.com\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */",
+      "/* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"http:\\/\\/www.athens-reproduction.com\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/GeorgeVKontopoulos/"
+      },
+      {
+        "href": "https://www.linkedin.com/in/george-kontopoulos-5927142a/"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://www.athens-reproduction.com/",
+        "method": "get",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "s"
+        ],
+        "submitLabels": [],
+        "fields": [
+          {
+            "name": "s",
+            "type": "text",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "http://www.athens-reproduction.com/",
+        "method": "get",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "s"
+        ],
+        "submitLabels": [],
+        "fields": [
+          {
+            "name": "s",
+            "type": "text",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Athens Reproduction - Fertility and Gynecology Services",
+    "metaDescription": "Fertility & Gynecology specialists providing the highest standard of personalized healthcare for women. American Board certified. Located in Athens, Greece.",
+    "canonicalUrl": "https://www.athens-reproduction.com/",
+    "language": "en",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "openGraphTitle": "Athens Reproduction - Fertility and Gynecology Services",
+    "openGraphDescription": "Fertility & Gynecology specialists providing the highest standard of personalized healthcare for women. American Board certified. Located in Athens, Greece."
+  },
+  "imageReferences": [
+    {
+      "url": "https://www.athens-reproduction.com/wp-content/uploads/2016/08/Athens_Reproduction_RGB_500.png",
+      "alt": "Athens Reproduction",
+      "sourcePageUrl": "https://www.athens-reproduction.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athens-reproduction.com/",
+          "retrievedAt": "2026-03-31T13:13:13.436Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athens-reproduction.com/wp-content/uploads/2016/08/Athens_Reproduction_RGB_1000.png",
+      "alt": "Athens Reproduction",
+      "sourcePageUrl": "https://www.athens-reproduction.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athens-reproduction.com/",
+          "retrievedAt": "2026-03-31T13:13:13.436Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athens-reproduction.com/wp-content/uploads/2016/08/MotherChild.jpg",
+      "sourcePageUrl": "https://www.athens-reproduction.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athens-reproduction.com/",
+          "retrievedAt": "2026-03-31T13:13:13.436Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athens-reproduction.com/wp-content/uploads/2016/08/Woman_Generations.jpg",
+      "sourcePageUrl": "https://www.athens-reproduction.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athens-reproduction.com/",
+          "retrievedAt": "2026-03-31T13:13:13.436Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athens-reproduction.com/wp-content/uploads/2016/08/Pregnant.jpg",
+      "sourcePageUrl": "https://www.athens-reproduction.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athens-reproduction.com/",
+          "retrievedAt": "2026-03-31T13:13:13.436Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athens-reproduction.com/wp-content/uploads/2016/08/Map_AthensReproduction.png",
+      "sourcePageUrl": "https://www.athens-reproduction.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athens-reproduction.com/",
+          "retrievedAt": "2026-03-31T13:13:13.436Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athens-reproduction.com/wp-content/uploads/2017/10/GAMC_White_Footer.-e1508516804965.png",
+      "alt": "Greek American Medical College",
+      "sourcePageUrl": "https://www.athens-reproduction.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athens-reproduction.com/",
+          "retrievedAt": "2026-03-31T13:13:13.436Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athens-reproduction.com/wp-content/uploads/2017/10/ASRM_White_Footer-e1508516795815.png",
+      "alt": "American Society for Reproductive Medicine",
+      "sourcePageUrl": "https://www.athens-reproduction.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athens-reproduction.com/",
+          "retrievedAt": "2026-03-31T13:13:13.436Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athens-reproduction.com/wp-content/uploads/2017/10/ACOG_White_Footer.-e1508518946597.png",
+      "alt": "American Congress of Obstetricians and Gynecologists",
+      "sourcePageUrl": "https://www.athens-reproduction.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athens-reproduction.com/",
+          "retrievedAt": "2026-03-31T13:13:13.436Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.athens-reproduction.com/wp-content/uploads/2017/04/Intra_Uterine_Insemination-300x225.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.athens-reproduction.com/services-fertility-treatments",
+      "pageType": "services",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.athens-reproduction.com/services-fertility-treatments",
+          "retrievedAt": "2026-03-31T13:13:15.516Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.athens-reproduction.com/wp-content/uploads/2017/04/Oocyte_retrieval-300x225.jpg",
+      "sourcePageUrl": "https://www.athens-reproduction.com/services-fertility-treatments",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athens-reproduction.com/services-fertility-treatments",
+          "retrievedAt": "2026-03-31T13:13:15.516Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athens-reproduction.com/wp-content/uploads/2016/08/Microscope.jpg",
+      "sourcePageUrl": "https://www.athens-reproduction.com/reproduction-and-fertility-services",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athens-reproduction.com/reproduction-and-fertility-services",
+          "retrievedAt": "2026-03-31T13:13:18.392Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athens-reproduction.com/wp-content/uploads/2016/08/IVF.jpg",
+      "sourcePageUrl": "https://www.athens-reproduction.com/reproduction-and-fertility-services",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athens-reproduction.com/reproduction-and-fertility-services",
+          "retrievedAt": "2026-03-31T13:13:18.392Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athens-reproduction.com/wp-content/uploads/2016/08/AthensReproduction36.jpg",
+      "sourcePageUrl": "https://www.athens-reproduction.com/reproduction-and-fertility-services",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athens-reproduction.com/reproduction-and-fertility-services",
+          "retrievedAt": "2026-03-31T13:13:18.392Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athens-reproduction.com/wp-content/uploads/2017/05/AthensReproduction44.jpg",
+      "sourcePageUrl": "https://www.athens-reproduction.com/reproduction-and-fertility-services",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athens-reproduction.com/reproduction-and-fertility-services",
+          "retrievedAt": "2026-03-31T13:13:18.392Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.athens-reproduction.com/wp-content/uploads/2016/08/Athens_Reproduction_RGB_500.png",
+      "alt": "Athens Reproduction",
+      "sourcePageUrl": "http://www.athens-reproduction.com/services-fertility-treatments",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.athens-reproduction.com/services-fertility-treatments",
+          "retrievedAt": "2026-03-31T13:13:21.190Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.athens-reproduction.com/wp-content/uploads/2016/08/Athens_Reproduction_RGB_1000.png",
+      "alt": "Athens Reproduction",
+      "sourcePageUrl": "http://www.athens-reproduction.com/services-fertility-treatments",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.athens-reproduction.com/services-fertility-treatments",
+          "retrievedAt": "2026-03-31T13:13:21.190Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.athens-reproduction.com/wp-content/uploads/2017/10/GAMC_White_Footer.-e1508516804965.png",
+      "alt": "Greek American Medical College",
+      "sourcePageUrl": "http://www.athens-reproduction.com/services-fertility-treatments",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.athens-reproduction.com/services-fertility-treatments",
+          "retrievedAt": "2026-03-31T13:13:21.190Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.athens-reproduction.com/wp-content/uploads/2017/10/ASRM_White_Footer-e1508516795815.png",
+      "alt": "American Society for Reproductive Medicine",
+      "sourcePageUrl": "http://www.athens-reproduction.com/services-fertility-treatments",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.athens-reproduction.com/services-fertility-treatments",
+          "retrievedAt": "2026-03-31T13:13:21.190Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.athens-reproduction.com/wp-content/uploads/2017/10/ACOG_White_Footer.-e1508518946597.png",
+      "alt": "American Congress of Obstetricians and Gynecologists",
+      "sourcePageUrl": "http://www.athens-reproduction.com/services-fertility-treatments",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.athens-reproduction.com/services-fertility-treatments",
+          "retrievedAt": "2026-03-31T13:13:21.190Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "+30 210 6777 900",
+      "sourcePageUrl": "https://www.athens-reproduction.com/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athens-reproduction.com/",
+          "retrievedAt": "2026-03-31T13:13:13.436Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 210 6199 170",
+      "sourcePageUrl": "https://www.athens-reproduction.com/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athens-reproduction.com/",
+          "retrievedAt": "2026-03-31T13:13:13.436Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@athens_reproduction.com",
+      "sourcePageUrl": "https://www.athens-reproduction.com/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athens-reproduction.com/",
+          "retrievedAt": "2026-03-31T13:13:13.436Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "/* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"https:\\/\\/www.athens-reproduction.com\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */",
+      "sourcePageUrl": "https://www.athens-reproduction.com/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athens-reproduction.com/",
+          "retrievedAt": "2026-03-31T13:13:13.436Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.athens-reproduction.com/",
+      "sourcePageUrl": "https://www.athens-reproduction.com/",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athens-reproduction.com/",
+          "retrievedAt": "2026-03-31T13:13:13.436Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.athens-reproduction.com/services-fertility-treatments",
+      "sourcePageUrl": "https://www.athens-reproduction.com/services-fertility-treatments",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.athens-reproduction.com/services-fertility-treatments",
+          "retrievedAt": "2026-03-31T13:13:15.516Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.athens-reproduction.com/services-gynecology-gynecology-treatment",
+      "sourcePageUrl": "https://www.athens-reproduction.com/services-gynecology-gynecology-treatment",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.athens-reproduction.com/services-gynecology-gynecology-treatment",
+          "retrievedAt": "2026-03-31T13:13:16.841Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.athens-reproduction.com/reproduction-and-fertility-services",
+      "sourcePageUrl": "https://www.athens-reproduction.com/reproduction-and-fertility-services",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.athens-reproduction.com/reproduction-and-fertility-services",
+          "retrievedAt": "2026-03-31T13:13:18.392Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "/* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"http:\\/\\/www.athens-reproduction.com\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */",
+      "sourcePageUrl": "http://www.athens-reproduction.com/services-fertility-treatments",
+      "pageType": "services",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "http://www.athens-reproduction.com/services-fertility-treatments",
+          "retrievedAt": "2026-03-31T13:13:21.189Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "http://www.athens-reproduction.com/services-fertility-treatments",
+      "sourcePageUrl": "http://www.athens-reproduction.com/services-fertility-treatments",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "http://www.athens-reproduction.com/services-fertility-treatments",
+          "retrievedAt": "2026-03-31T13:13:21.189Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "http://www.athens-reproduction.com/services-gynecology-gynecology-treatment",
+      "sourcePageUrl": "http://www.athens-reproduction.com/services-gynecology-gynecology-treatment",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "http://www.athens-reproduction.com/services-gynecology-gynecology-treatment",
+          "retrievedAt": "2026-03-31T13:13:21.983Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://www.athens-reproduction.com/",
+    "finalOrigin": "https://www.athens-reproduction.com",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://www.athens-reproduction.com/robots.txt",
+      "fetchedAt": "2026-03-31T13:13:12.961Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [],
+      "disallowRules": [],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://www.athens-reproduction.com/robots.txt",
+          "retrievedAt": "2026-03-31T13:13:12.188Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://www.athens-reproduction.com/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/services-fertility-treatments",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/services-gynecology-gynecology-treatment",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/reproduction-and-fertility-services",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/services-fertility-reproductive-endocrinology-counseling",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/gynecology-services",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/services-gynecology-wellbeing",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/services-gynecology-pathology-evaluation",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/services-pregnancy-follow-up",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/services-pregnancy-child-birth",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/services-post-partum-period",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/reproduction-and-fertility-services",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/gynecology-services",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/our-specialist-team",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/results",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/fertility-preservation",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/infertility-evaluation-and-counseling",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:13.438Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/services-fertility-treatments",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:15.518Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/services-fertility-reproductive-endocrinology-counseling",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.athens-reproduction.com/services-fertility-treatments",
+        "timestamp": "2026-03-31T13:13:15.518Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/international-patients",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athens-reproduction.com/services-fertility-treatments",
+        "timestamp": "2026-03-31T13:13:15.518Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/pregnancy",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athens-reproduction.com/services-fertility-treatments",
+        "timestamp": "2026-03-31T13:13:15.518Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/our-centre-and-facilities",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athens-reproduction.com/services-fertility-treatments",
+        "timestamp": "2026-03-31T13:13:15.518Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/services-gynecology-gynecology-treatment",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:16.845Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/services-gynecology-wellbeing",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.athens-reproduction.com/services-gynecology-gynecology-treatment",
+        "timestamp": "2026-03-31T13:13:16.845Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/services-gynecology-pathology-evaluation",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.athens-reproduction.com/services-gynecology-gynecology-treatment",
+        "timestamp": "2026-03-31T13:13:16.845Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/reproduction-and-fertility-services",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.athens-reproduction.com/",
+        "timestamp": "2026-03-31T13:13:18.394Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/services-fertility-treatments",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.athens-reproduction.com/reproduction-and-fertility-services",
+        "timestamp": "2026-03-31T13:13:18.394Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/fertility-preservation",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.athens-reproduction.com/reproduction-and-fertility-services",
+        "timestamp": "2026-03-31T13:13:18.394Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/services-fertility-treatments",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.athens-reproduction.com/reproduction-and-fertility-services",
+        "timestamp": "2026-03-31T13:13:21.192Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/services-gynecology-gynecology-treatment",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://www.athens-reproduction.com/services-fertility-treatments",
+        "timestamp": "2026-03-31T13:13:21.192Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/services-pregnancy-follow-up",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://www.athens-reproduction.com/services-fertility-treatments",
+        "timestamp": "2026-03-31T13:13:21.192Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/services-pregnancy-child-birth",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://www.athens-reproduction.com/services-fertility-treatments",
+        "timestamp": "2026-03-31T13:13:21.192Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/services-post-partum-period",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://www.athens-reproduction.com/services-fertility-treatments",
+        "timestamp": "2026-03-31T13:13:21.192Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/our-specialist-team",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from http://www.athens-reproduction.com/services-fertility-treatments",
+        "timestamp": "2026-03-31T13:13:21.192Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.athens-reproduction.com/services-fertility-treatments",
+        "timestamp": "2026-03-31T13:13:21.192Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/results",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.athens-reproduction.com/services-fertility-treatments",
+        "timestamp": "2026-03-31T13:13:21.192Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/infertility-evaluation-and-counseling",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.athens-reproduction.com/services-fertility-treatments",
+        "timestamp": "2026-03-31T13:13:21.192Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/international-patients",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.athens-reproduction.com/services-fertility-treatments",
+        "timestamp": "2026-03-31T13:13:21.192Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/pregnancy",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.athens-reproduction.com/services-fertility-treatments",
+        "timestamp": "2026-03-31T13:13:21.192Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/our-centre-and-facilities",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.athens-reproduction.com/services-fertility-treatments",
+        "timestamp": "2026-03-31T13:13:21.192Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/services-gynecology-gynecology-treatment",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from http://www.athens-reproduction.com/services-fertility-treatments",
+        "timestamp": "2026-03-31T13:13:21.985Z"
+      },
+      {
+        "url": "http://www.athens-reproduction.com/institute-of-life",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.athens-reproduction.com/services-gynecology-gynecology-treatment",
+        "timestamp": "2026-03-31T13:13:21.985Z"
+      },
+      {
+        "url": "https://www.athens-reproduction.com/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:13:24.626Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

@@ -1,0 +1,1646 @@
+{
+  "domain": "palios-cardiology.gr",
+  "collectedAt": "2026-03-31T13:08:55.548Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/palios-cardiology.gr-home-f70de618",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://www.palios-cardiology.gr/",
+      "finalUrl": "https://www.palios-cardiology.gr/",
+      "fetchedAt": "2026-03-31T13:08:45.062Z",
+      "metadata": {
+        "title": "Μαγνητική Τομογραφία Καρδιάς - Δρ. Ιωάννης Παληός - Καρδιολόγος | Αρχική",
+        "metaDescription": "Εξειδίκευση στη μαγνητική τομογραφία καρδιάς και σε προχωρημένες απεικονιστικές τεχνικές στην Καρδιολογία, αξονική στεφανιογραφία, ηχωκαρδιογραφία.",
+        "canonicalUrl": "https://palios-cardiology.gr/",
+        "language": "el-gr",
+        "openGraphTitle": "Μαγνητική Τομογραφία Καρδιάς - Δρ. Ιωάννης Παληός - Καρδιολόγος - Αρχική",
+        "openGraphDescription": "Mαγνητική τομογραφία καρδιάς και προχωρημένες απεικονιστικές τεχνικές στην Καρδιολογία, πλήρης καρδιολογικός έλεγχος, τεστ κοπώσεως, triplex καρδιάς, Holter.",
+        "openGraphImage": "https://www.palios-cardiology.gr/images/logo/dr_ioannis_palios_cardiology.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Καρδιολογικός έλεγχος"
+        },
+        {
+          "level": "h1",
+          "text": "Τελευταία Άρθρα"
+        },
+        {
+          "level": "h2",
+          "text": "Ο Δρ. Ιωάννης Παληός είναι Διευθυντής του Τμήματος Μαγνητικής Τομογραφίας Καρδιάς στο Νοσοκομείο Metropolitan και επιστημονικός συνεργάτης στη Β’ Πανεπιστημιακή Καρδιολογική Κλινική στο Νοσοκομείο Αττικόν. Έχει εργασθεί στο παρελθόν στο Emory University Hospital, Atlanta, USΑ."
+        },
+        {
+          "level": "h2",
+          "text": "Ο Δρ. Ιωάννης Παληός είναι Διευθυντής του Τμήματος Μαγνητικής Τομογραφίας Καρδιάς στο Νοσοκομείο Metropolitan και επιστημονικός συνεργάτης στη Β’ Πανεπιστημιακή Καρδιολογική Κλινική στο Νοσοκομείο Αττικόν. Έχει εργασθεί στο παρελθόν στο Emory University Hospital, Atlanta, USΑ. Ο τομέας εξειδίκευσής του αφορά τις προχωρημένες απεικονιστικές τεχνικές στην Καρδιολογία όπως είναι η μαγνητική τομογραφία καρδιάς, η αξονική στεφανιογραφία, η ηχωκαρδιογραφία συμπεριλαμβανομένης της τρισδιάστατης και της διοισοφάγειας ηχωκαρδιογραφίας. Σπούδασε στην Ιατρική Σχολή Αθηνών και ολοκλήρωσε την ειδικότητα της Καρδιολογίας στη Β’ Πανεπιστημιακή Καρδιολογική Κλινική στο Νοσοκομείο Αττικόν. Είναι Διδάκτωρ της Ιατρικής Σχολής του Πανεπιστημίου Αθηνών μετά την ολοκλήρωση με βαθμό άριστα της διδακτορικής διατριβής του σχετικά με την αθηροσκλήρυνση στους ασθενείς με HIV λοίμωξη."
+        },
+        {
+          "level": "h2",
+          "text": "Webinar ΚΑΡΔΙΑΓΓΕΙΑΚΗΣ ΑΠΕΙΚΟΝΙΣΗΣ"
+        },
+        {
+          "level": "h3",
+          "text": "Ηλεκτροκαρδιογράφημα"
+        },
+        {
+          "level": "h3",
+          "text": "Υπερηχογράφημα-Triplex Καρδιάς"
+        },
+        {
+          "level": "h3",
+          "text": "Δοκιμασία Κόπωσης"
+        },
+        {
+          "level": "h3",
+          "text": "Μαγνητική τομογραφία καρδιάς MRI"
+        },
+        {
+          "level": "h3",
+          "text": "Holter Ρυθμού"
+        },
+        {
+          "level": "h3",
+          "text": "Holter Πίεσης"
+        },
+        {
+          "level": "h3",
+          "text": "Ηχοκαρδιογράφημα-Triplex Καρδιάς"
+        },
+        {
+          "level": "h3",
+          "text": "Καρδιολογικός Έλεγχος"
+        },
+        {
+          "level": "h3",
+          "text": "Οξεία μυοκαρδίτιδα από κορωνοϊό (COVID 19)"
+        },
+        {
+          "level": "h3",
+          "text": "Άθληση και καρδιά"
+        },
+        {
+          "level": "h3",
+          "text": "Πώς θα προλάβω τα καρδιολογικά προβλήματα;"
+        },
+        {
+          "level": "h3",
+          "text": "Προσοχή στην καρδιά το Φθινόπωρο"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.palios-cardiology.gr/"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/viografiko",
+          "label": "Βιογραφικό"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/magnitiki-tomografia-kardias",
+          "label": "Μαγνητική Τομογραφία Καρδιάς"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/yperixografima-triplex-kardias",
+          "label": "Υπερηχογράφημα - Triplex Καρδιάς"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/dokimasia-koposis",
+          "label": "Δοκιμασία Κόπωσης"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/holter-rythmoy",
+          "label": "Holter Ρυθμού"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/holter-piesis",
+          "label": "Holter Πίεσης"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/kardiologikos-elegxos",
+          "label": "Καρδιολογικός Έλεγχος"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/enimerosi",
+          "label": "Ενημέρωση"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/omilies",
+          "label": "Ομιλίες"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/symvoules",
+          "label": "Συμβουλές"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/epikoinonia",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/enimerosi/oxeia-myokarditida-apo-koronoio-covid-19"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/enimerosi/athlese-kai-kardia"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/enimerosi/pos-tha-prolabo-ta-kardiologika-problemata"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/enimerosi/prosoche-sten-kardia-to-phthinoporo"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/politiki-aporritou",
+          "label": "Πολιτική Απορρήτου"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/politiki-cookies",
+          "label": "Πολιτική Cookies"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "210 6465 270 6947802002",
+          "00302106465270",
+          "00306947802002"
+        ],
+        "emails": [
+          "info@palios-cardiology.gr"
+        ],
+        "addresses": [
+          "@media (min-width: 640px) and (max-width: 959px){#footer\\#0 .el-item > .uk-grid > div{width: 14vw;}}@media (min-width: 960px) and (max-width: 1599px){#footer\\#0 .el-item > .uk-grid > div{width: 8vw;}} Κλείστε Ραντεβού Διεύθυνση Λεωφόρος Κηφισίας 5 115 23 Αθήνα Προβολή σε Χάρτη Προβολή σε Χάρτη Επικοινωνία 210 6465 270 6947802002 Αυτή η διεύθυνση Email προστατεύεται από τους αυτοματισμούς αποστολέων ανεπιθύμητων μηνυμάτων. Χρειάζεται να ενεργοποιήσετε τη JavaScript για να μπορέσετε να τη δείτε. Ώρες Ιατρείου Δευτέρα 17:00-20:30 Τρίτη 17:00-20:30 Τετάρτη 17:00-20:30 Πέμπτη 17:00-20:30 Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Πληροφορίες Υπηρεσίες Ενημέρωση Συμβουλές Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Ακολουθήστε μας Πολιτική Απορρήτου Πολιτική Cookies © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος. © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος."
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/profile.php?id=100063557201000&fref=ts"
+          },
+          {
+            "href": "https://www.linkedin.com/in/john-palios-60940689/"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "@media (min-width: 640px) and (max-width: 959px){#footer\\#0 .el-item > .uk-grid > div{width: 14vw;}}@media (min-width: 960px) and (max-width: 1599px){#footer\\#0 .el-item > .uk-grid > div{width: 8vw;}} Κλείστε Ραντεβού Διεύθυνση Λεωφόρος Κηφισίας 5 115 23 Αθήνα Προβολή σε Χάρτη Προβολή σε Χάρτη Επικοινωνία 210 6465 270 6947802002 Αυτή η διεύθυνση Email προστατεύεται από τους αυτοματισμούς αποστολέων ανεπιθύμητων μηνυμάτων. Χρειάζεται να ενεργοποιήσετε τη JavaScript για να μπορέσετε να τη δείτε. Ώρες Ιατρείου Δευτέρα 17:00-20:30 Τρίτη 17:00-20:30 Τετάρτη 17:00-20:30 Πέμπτη 17:00-20:30 Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Πληροφορίες Υπηρεσίες Ενημέρωση Συμβουλές Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Ακολουθήστε μας Πολιτική Απορρήτου Πολιτική Cookies © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος. © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος.",
+      "textContent": "Skip to main content Αρχική Βιογραφικό Υπηρεσίες Μαγνητική Τομογραφία Καρδιάς Υπερηχογράφημα - Triplex Καρδιάς Δοκιμασία Κόπωσης Holter Ρυθμού Holter Πίεσης Καρδιολογικός Έλεγχος Ενημέρωση Ομιλίες Συμβουλές Επικοινωνία Αρχική Βιογραφικό Υπηρεσίες Μαγνητική Τομογραφία Καρδιάς Υπερηχογράφημα - Triplex Καρδιάς Δοκιμασία Κόπωσης Holter Ρυθμού Holter Πίεσης Καρδιολογικός Έλεγχος Ενημέρωση Ομιλίες Συμβουλές Επικοινωνία #page\\#0{color:#fff; text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 0px -4px 10px rgba(255,255,255,0.3);}#page\\#1{color:#fff; text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 0px -4px 10px rgba(255,255,255,0.3);}#page\\#2 .el-image{max-width: 7vw;}#page\\#3{right: 10%; transform: translate(0,-60%); width: 120px;}#page\\#3 > *{display: flex !important; align-items: center; justify-content: center; min-height: 120px; border-radius: 500px;}@media (max-width: 959px){#page\\#3 .el-title{font-size: 1rem;}}@media (min-width: 960px){#page\\#3{width: 200px;}#page\\#3 > *{min-height: 200px;}}@media (min-width: 1400px){#page\\#3{width: 250px;}#page\\#3 > *{min-height: 250px;}}#page\\#4{text-transform:none;}#page\\#5{text-transform:none;}@media (min-width: 640px){#page\\#6{padding-bottom: 15vw;}}#page\\#7 .el-image{max-width: 7vw;}#page\\#8 .el-image{max-width: 7vw;}#page\\#9{text-transform:none;} #page\\#10 > *{display: flex !important; align-items: center; justify-content: center; min-height: 120px; border-radius: 500px;}@media (max-width: 959px){#page\\#10 .el-title{font-size: 1rem;}}@media (min-width: 960px){#page\\#10{width: 200px;}#page\\#10 > *{min-height: 200px;}}@media (min-width: 1400px){#page\\#10{width: 250px;}#page\\#10 > *{min-height: 250px;}} Καρδιολογικός έλεγχος Επικοινωνία Ο Δρ. Ιωάννης Παληός είναι Διευθυντής του Τμήματος Μαγνητικής Τομογραφίας Καρδιάς στο Νοσοκομείο Metropolitan και επιστημονικός συνεργάτης στη Β’ Πανεπιστημιακή Καρδιολογική Κλινική στο Νοσοκομείο Αττικόν. Έχει εργασθεί στο παρελθόν στο Emory University Hospital, Atlanta, USΑ. Ο Δρ. Ιωάννης Παληός είναι Διευθυντής του Τμήματος Μαγνητικής Τομογραφίας Καρδιάς στο Νοσοκομείο Metropolitan και επιστημονικός συνεργάτης στη Β’ Πανεπιστημιακή Καρδιολογική Κλινική στο Νοσοκομείο Αττικόν. Έχει εργασθεί στο παρελθόν στο Emory University Hospital, Atlanta, USΑ. Ο τομέας εξειδίκευσής του αφορά τις προχωρημένες απεικονιστικές τεχνικές στην Καρδιολογία όπως είναι η μαγνητική τομογραφία καρδιάς, η αξονική στεφανιογραφία, η ηχωκαρδιογραφία συμπεριλαμβανομένης της τρισδιάστατης και της διοισοφάγειας ηχωκαρδιογραφίας. Σπούδασε στην Ιατρική Σχολή Αθηνών και ολοκλήρωσε την ειδικότητα της Καρδιολογίας στη Β’ Πανεπιστημιακή Καρδιολογική Κλινική στο Νοσοκομείο Αττικόν. Είναι Διδάκτωρ της Ιατρικής Σχολής του Πανεπιστημίου Αθηνών μετά την ολοκλήρωση με βαθμό άριστα της διδακτορικής διατριβής του σχετικά με την αθηροσκλήρυνση στους ασθενείς με HIV λοίμωξη. Περισσότερα Ηλεκτροκαρδιογράφημα Υπερηχογράφημα-Triplex Καρδιάς Δοκιμασία Κόπωσης Μαγνητική τομογραφία καρδιάς MRI Holter Ρυθμού Holter Πίεσης Μαγνητική τομογραφία καρδιάς MRI Ηχοκαρδιογράφημα-Triplex Καρδιάς Δοκιμασία Κόπωσης Holter Ρυθμού Καρδιολογικός Έλεγχος Holter Πίεσης Τελευταία Άρθρα Δείτε όλα τα άρθρα Οξεία μυοκαρδίτιδα από κορωνοϊό (COVID 19) Άθληση και καρδιά Πώς θα προλάβω τα καρδιολογικά προβλήματα; Προσοχή στην καρδιά το Φθινόπωρο Webinar ΚΑΡΔΙΑΓΓΕΙΑΚΗΣ ΑΠΕΙΚΟΝΙΣΗΣ Δείτε όλες τις ομιλίες Δείτε όλες τις ομιλίες @media (min-width: 640px) and (max-width: 959px){#footer\\#0 .el-item > .uk-grid > div{width: 14vw;}}@media (min-width: 960px) and (max-width: 1599px){#footer\\#0 .el-item > .uk-grid > div{width: 8vw;}} Κλείστε Ραντεβού Διεύθυνση Λεωφόρος Κηφισίας 5 115 23 Αθήνα Προβολή σε Χάρτη Προβολή σε Χάρτη Επικοινωνία 210 6465 270 6947802002 Αυτή η διεύθυνση Email προστατεύεται από τους αυτοματισμούς αποστολέων ανεπιθύμητων μηνυμάτων. Χρειάζεται να ενεργοποιήσετε τη JavaScript για να μπορέσετε να τη δείτε. Ώρες Ιατρείου Δευτέρα 17:00-20:30 Τρίτη 17:00-20:30 Τετάρτη 17:00-20:30 Πέμπτη 17:00-20:30 Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Πληροφορίες Υπηρεσίες Ενημέρωση Συμβουλές Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Ακολουθήστε μας Πολιτική Απορρήτου Πολιτική Cookies © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος. © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος. jQuery(function($){ var text = document.getElementById(\"animtext\"); if (typeof(text) != 'undefined' && text != null) { $('body').append('<script src=\\\"templates/yootheme_palios/js/alt_text.js\\\"><\\/script>'); } });",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/palios-cardiology.gr-home-f70de618/homepage--f70de618.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/palios-cardiology.gr-home-f70de618/homepage--f70de618.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.palios-cardiology.gr/images/logo/dr_ioannis_palios_cardiology.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.palios-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.061Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/d1/palios_logo_plain-d131717a.png",
+          "alt": "Ιωάννης Παληός - Καρδιολόγος",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.061Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/2d/palios_logo_plain-2d3f0376.png",
+          "alt": "Ιωάννης Παληός - Καρδιολόγος",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.061Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/images/viografiko.svg",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.061Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/8e/palios_yannis-8ed47741.jpeg",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.061Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/a3/kardiologikos_elegxos2-a3caee7c.png",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.061Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/40/kardiologikos_elegxos-40acabed.png",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.061Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/47/koposi-47f2b0ca.png",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.061Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/53/mri-53f834eb.png",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.061Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/85/holter-85dff8f1.png",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.061Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/images/ipiresies.svg",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.061Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/e4/covid19-e49b6cae.jpeg",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.061Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.062Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/palios-cardiology.gr-home-f70de618/homepage-page-f70de618.png"
+    },
+    "about": {
+      "pageType": "about",
+      "requestedUrl": "https://www.palios-cardiology.gr/viografiko",
+      "finalUrl": "https://www.palios-cardiology.gr/viografiko",
+      "fetchedAt": "2026-03-31T13:08:45.481Z",
+      "metadata": {
+        "title": "Μαγνητική Τομογραφία Καρδιάς - Δρ. Ιωάννης Παληός - Καρδιολόγος | Βιογραφικό",
+        "metaDescription": "Ο τομέας εξειδίκευσής του αφορά τις προχωρημένες απεικονιστικές τεχνικές στην Καρδιολογία όπως είναι η μαγνητική τομογραφία καρδιάς και η αξονική στεφανιογραφία",
+        "canonicalUrl": "https://palios-cardiology.gr/viografiko",
+        "language": "el-gr",
+        "openGraphTitle": "Βιογραφικό | Δρ. Ιωάννης Παληός | Καρδιολόγος",
+        "openGraphDescription": "Ο τομέας εξειδίκευσής του αφορά τις προχωρημένες απεικονιστικές τεχνικές στην Καρδιολογία όπως είναι η μαγνητική τομογραφία καρδιάς και η αξονική στεφανιογραφία.",
+        "openGraphImage": "https://www.palios-cardiology.gr/images/palios_yannis.jpg"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Βιογραφικό"
+        },
+        {
+          "level": "h2",
+          "text": "Προϋπηρεσία"
+        },
+        {
+          "level": "h2",
+          "text": "Εκπαίδευση"
+        },
+        {
+          "level": "h2",
+          "text": "Δημοσιεύσεις σε ξένα περιοδικά(με χρονολογική σειρά)"
+        },
+        {
+          "level": "h2",
+          "text": "Συγγραφή κεφαλαίων σε διεθνή βιβλία"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.palios-cardiology.gr/"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/viografiko",
+          "label": "Βιογραφικό"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/magnitiki-tomografia-kardias",
+          "label": "Μαγνητική Τομογραφία Καρδιάς"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/yperixografima-triplex-kardias",
+          "label": "Υπερηχογράφημα - Triplex Καρδιάς"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/dokimasia-koposis",
+          "label": "Δοκιμασία Κόπωσης"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/holter-rythmoy",
+          "label": "Holter Ρυθμού"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/holter-piesis",
+          "label": "Holter Πίεσης"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/kardiologikos-elegxos",
+          "label": "Καρδιολογικός Έλεγχος"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/enimerosi",
+          "label": "Ενημέρωση"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/omilies",
+          "label": "Ομιλίες"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/symvoules",
+          "label": "Συμβουλές"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/epikoinonia",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/politiki-aporritou",
+          "label": "Πολιτική Απορρήτου"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/politiki-cookies",
+          "label": "Πολιτική Cookies"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "01/03/2014",
+          "01/01/2014",
+          "12/2012- 01/2014",
+          "05/2008-05/2012",
+          "04/2006-01/2008",
+          "12/2005-03/2006",
+          "11/2004-11/2005",
+          "04/2003-07/2004",
+          "2009 22(8",
+          "210 6465 270 6947802002"
+        ],
+        "emails": [
+          "info@palios-cardiology.gr"
+        ],
+        "addresses": [
+          "@media (min-width: 640px) and (max-width: 959px){#footer\\#0 .el-item > .uk-grid > div{width: 14vw;}}@media (min-width: 960px) and (max-width: 1599px){#footer\\#0 .el-item > .uk-grid > div{width: 8vw;}} Κλείστε Ραντεβού Διεύθυνση Λεωφόρος Κηφισίας 5 115 23 Αθήνα Προβολή σε Χάρτη Προβολή σε Χάρτη Επικοινωνία 210 6465 270 6947802002 Αυτή η διεύθυνση Email προστατεύεται από τους αυτοματισμούς αποστολέων ανεπιθύμητων μηνυμάτων. Χρειάζεται να ενεργοποιήσετε τη JavaScript για να μπορέσετε να τη δείτε. Ώρες Ιατρείου Δευτέρα 17:00-20:30 Τρίτη 17:00-20:30 Τετάρτη 17:00-20:30 Πέμπτη 17:00-20:30 Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Πληροφορίες Υπηρεσίες Ενημέρωση Συμβουλές Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Ακολουθήστε μας Πολιτική Απορρήτου Πολιτική Cookies © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος. © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος."
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/profile.php?id=100063557201000&fref=ts"
+          },
+          {
+            "href": "https://www.linkedin.com/in/john-palios-60940689/"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "@media (min-width: 640px) and (max-width: 959px){#footer\\#0 .el-item > .uk-grid > div{width: 14vw;}}@media (min-width: 960px) and (max-width: 1599px){#footer\\#0 .el-item > .uk-grid > div{width: 8vw;}} Κλείστε Ραντεβού Διεύθυνση Λεωφόρος Κηφισίας 5 115 23 Αθήνα Προβολή σε Χάρτη Προβολή σε Χάρτη Επικοινωνία 210 6465 270 6947802002 Αυτή η διεύθυνση Email προστατεύεται από τους αυτοματισμούς αποστολέων ανεπιθύμητων μηνυμάτων. Χρειάζεται να ενεργοποιήσετε τη JavaScript για να μπορέσετε να τη δείτε. Ώρες Ιατρείου Δευτέρα 17:00-20:30 Τρίτη 17:00-20:30 Τετάρτη 17:00-20:30 Πέμπτη 17:00-20:30 Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Πληροφορίες Υπηρεσίες Ενημέρωση Συμβουλές Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Ακολουθήστε μας Πολιτική Απορρήτου Πολιτική Cookies © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος. © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος.",
+      "textContent": "Skip to main content Αρχική Βιογραφικό Υπηρεσίες Μαγνητική Τομογραφία Καρδιάς Υπερηχογράφημα - Triplex Καρδιάς Δοκιμασία Κόπωσης Holter Ρυθμού Holter Πίεσης Καρδιολογικός Έλεγχος Ενημέρωση Ομιλίες Συμβουλές Επικοινωνία Αρχική Βιογραφικό Υπηρεσίες Μαγνητική Τομογραφία Καρδιάς Υπερηχογράφημα - Triplex Καρδιάς Δοκιμασία Κόπωσης Holter Ρυθμού Holter Πίεσης Καρδιολογικός Έλεγχος Ενημέρωση Ομιλίες Συμβουλές Επικοινωνία #page\\#0 .el-image{max-width: 7vw;} Βιογραφικό Ο Δρ. Ιωάννης Παληός είναι Διευθυντής του Τμήματος Μαγνητικής Τομογραφίας Καρδιάς στο Νοσοκομείο Metropolitan και επιστημονικός συνεργάτης στη Β’ Πανεπιστημιακή Καρδιολογική Κλινική στο Νοσοκομείο Αττικόν. Έχει εργασθεί στο παρελθόν στο Emory University Hospital, Atlanta, USΑ. Ο τομέας εξειδίκευσής του αφορά τις προχωρημένες απεικονιστικές τεχνικές στην Καρδιολογία όπως είναι η μαγνητική τομογραφία καρδιάς, η αξονική στεφανιογραφία, η ηχωκαρδιογραφία συμπεριλαμβανομένης της τρισδιάστατης και της διοισοφάγειας ηχωκαρδιογραφίας. Σπούδασε στην Ιατρική Σχολή Αθηνών και ολοκλήρωσε την ειδικότητα της Καρδιολογίας στη Β’ Πανεπιστημιακή Καρδιολογική Κλινική στο Νοσοκομείο Αττικόν. Είναι Διδάκτωρ της Ιατρικής Σχολής του Πανεπιστημίου Αθηνών μετά την ολοκλήρωση με βαθμό άριστα της διδακτορικής διατριβής του σχετικά με την αθηροσκλήρυνση στους ασθενείς με HIV λοίμωξη.. Μετεκπαιδεύτηκε στο Emory University Hospital, USA στην καρδιαγγειακή απεικόνιση και ειδικότερα στη μαγνητική τομογραφία καρδιάς και την ηχωκαρδιογραφία. Έχει δώσει πολλές ομιλίες στα σημαντικότερα διεθνή συνέδρια και έχει δημοσιεύσει πολυάριθμες εργασίες στη διεθνή βιβλιογραφία σχετικά με τη μαγνητική τομογραφία καρδιάς, την ηχωκαρδιογραφία, την καρδιαγγειακή έρευνα και την κλινική καρδιολογία. Είναι μέλος μεταξύ άλλων της Ευρωπαϊκής Καρδιολογικής Εταιρίας, του Ελληνικού Κολλεγίου Καρδιολογίας, της Ελληνικής Καρδιολογικής Εταιρίας, της Διεθνούς Εταιρίας Μαγνητικής Τομογραφίας Καρδιάς, της Ελληνικής Εταιρίας Λιπιδιολογίας και Αθηροσκλήρυνσης, κ.α. Προϋπηρεσία 01/03/2014-σήμερα Διευθυντής τμήματος Μαγνητικής Τομογραφίας Καρδιάς, Θεραπευτήριο ‘Μετροπόλιταν’. 01/01/2014-σήμερα Επιστημονικός συνεργάτης Β’ Πανεπιστημιακής Καρδιολογικής Κλινικής, Εργαστήριο Ηχωκαρδιογραφίας, Πανεπιστημιακό Γενικό Νοσοκομείο ‘Αττικόν’. 12/2012- 01/2014 Fellow in Cardiac Imaging, Cardiology Department, Emory University Hospital, Emory University, School of Medicine, USA. 05/2008-05/2012 Ειδικευόμενος Καρδιολογίας, Β’ Πανεπιστημιακή Καρδιολογική Κλινική, Πανεπιστημιακό Γενικό Νοσοκομείο ‘Αττικόν’. 04/2006-01/2008 Ειδικευόμενος Παθολογίας, Γενικό Νοσοκομείο ‘Πολυκλινική’. 12/2005-03/2006 Ιατρός, Διαγνωστικό και Θεραπευτικό Κέντρο Αθηνών ‘Υγεία’. 11/2004-11/2005 Ιατρός, Έφεδρος Υπαξιωματικός, Ελληνική Πολεμική Αεροπορία. 04/2003-07/2004 Ιατρός Υπηρεσίας Υπαίθρου, Γενικό Νοσοκομείο Χανίων. Εκπαίδευση 12/2012- 01/2014 Cardiac MRI-Echocardiography Research Post-Doctoral Fellow, Cardiology Department, Emory University Hospital, Emory University, School of Medicine, USA. 07/2012 Τίτλος Ειδικότητας Καρδιολογίας, Νομαρχία Αθηνών. 05/2012 Advanced Life Support (ALS) Provider, European Resuscitation Council. 06/2011 Διδάκτωρ Ιατρικής Σχολής, βαθμός: Άριστα, Πανεπιστήμιο Αθηνών. 12/2002 Απόφοιτος Ιατρικής Σχολής, βαθμός: Λίαν Καλώς, Πανεπιστήμιο Αθηνών. Ξένες γλώσσες Αγγλική (Proficiency in English, University of Cambridge), Ιταλική. Μέλος Παγκόσμια Εταιρία Μαγνητικής Τομογραφίας Καρδιάς (SCMR), Ευρωπαϊκή Καρδιολογική Εταιρία (ESC), Ελληνικό Κολλέγιο Καρδιολογίας, , Ελληνική Καρδιολογική Εταιρία, Ελληνική Εταιρία Λιπιδιολογίας και Αθηροσκλήρυνσης, Ιατρικός Σύλλογος Αθηνών. Δημοσιεύσεις σε ξένα περιοδικά(με χρονολογική σειρά) Ikonomidis I, Ntai K, Parissis J, Palios J, Vrettou AR, Paraskevaidis I, Lekakis J. Rapid normalization of vasculitis-induced left ventricular dysfunction related with multiple cardiac thrombi. J Thromb Thrombolysis. 2014 Dec 27. Hartlage GR, Palios J, Barron BJ, Stillman AE, Bossone E, Clements SD, Lerakis S. Multimodality Imaging of Aortitis. JACC Cardiovasc Imaging. 2014 Jun;7(6):605-619. Palios J, Babaliaros V, Lerakis S. Three-dimensional echocardiography for transcatheter mitral valve paravalvular leak closure. Hellenic J Cardiol. 2014 Mar-Apr;55(2):164-6. Palios J, Paraskevaidis I. Thromboembolism Prevention via Transcatheter Left Atrial Appendage Closure with Transeosophageal Echocardiography Guidance. Thrombosis. 2014;2014: 832752. Palios J, Clements S Jr, Lerakis S. Chest pain due to hiatal hernia mimicking as cardiac mass. Acute Card Care. 2014 Jun;16(2):88-9.2. Palios J, Karangelis D, Roubelakis A, Lerakis S. The prominent role of cardiac magnetic resonance imaging in coronary artery disease. Expert Rev Cardiovasc Ther. 2014 Feb;12(2):167-74. Christodoulou C, Douzenis A, Mommersteeg PM, Rallidis L, Poulios A, Efstathiou V, Bouras G, Varounis C, Korkoliakou P, Palios J, Kremastinos DT, Lykouras L. A case-control validation of Type D personality in Greek patients with stable coronary heart disease. Ann Gen Psychiatry. 2013 Nov 27;12(1):38. Palios J, Pernetz MA, Clements S Jr, Lerakis S. Three-Dimensional Echocardiography Images Showing Anomalous Pulmonary Venous Return in an Adult with Scimitar Syndrome. Echocardiography. 2013 Oct 18. Ikonomidis I, Kadoglou N, Tsiotra PC, Kollias A, Palios I, Fountoulaki K, Halvatsiotis I, Maratou E, Dimitriadis G, Kremastinos DT, Lekakis J, Raptis SA. Arterial stiffness is associated with increased monocyte expression of adiponectin receptor mRNA and protein in patients with coronary artery disease. Am J Hypertens. 2012 Jul;25(7):746-55. Paraskevaidis I, Palios J, Parissis J, Filippatos G, Anastasiou-Nana M. Treating depression in coronary artery disease and chronic heart failure: what's new in using selective serotonin re-uptake inhibitors? Cardiovasc Hematol Agents Med Chem. 2012 Jun;10(2):109-15. Palios J, Kadoglou NP, Lampropoulos S. The pathophysiology of HIV-/HAART-related metabolic syndrome leading to cardiovascular disorders: the emerging role of adipokines. Exp Diabetes Res. 2012;2012:103063. Palios J, Ikonomidis I, Lekakis J, Anastasiou-Nana M. Atherosclerotic vascular disorders in HIV infected patients. Artery research 2011 Sep; 5 (3): 81-90. Palios J, Ikonomidis I, Lekakis J, Tsiodras S, Poulakou G, Rallidis L, Panagopoulos P, Papadopoulos A, Giamarellou H, Kremastinos DT, Anastasiou-Nana M. Microcirculatory vascular dysfunction in HIV-1 infected patients receiving highly active antiretroviral therapy. Microcirculation. 2010 May;17 (4):303-10. Lekakis J, Ikonomidis I, Palios J, Tsiodras S, Poulakou G, Rallidis L, Antoniadou A, Panagopoulos P, Papadopoulos A, Giamarellou H, Kremastinos DT. Association of highly active antiretroviral therapy with increased arterial stiffness in patients infected with human immunodeficiency virus. Am J Hypertension 2009 22(8):828-34. Ignatios Ikonomidis; John Lekakis; Loukianos Rallidis; Ioannis Palios; Sotirios Tsiodras; Anastasia Antoniadou; Garyfalia Poulakou; Helen Giamarellou; Periklis Panagopoulos; Dimitrios T Kremastinos. Arterial Wall Properties and Endothelial Function in HIV Infected Patients. Circulation 2006;114: Suppl II, 222. Συγγραφή κεφαλαίων σε διεθνή βιβλία John Palios and Stamatios Lerakis, CMR Applications in Ischemic Heart Disease in Latest Advances in Clinical and Pre-Clinical Cardiovascular Magnetic Resonance Imaging, P. 3-40, Bentham. John Palios, Stamatios Lerakis and Randolph Martin. Pitfalls and Artifacts in Transesophageal Echocardiography in American Society of Echocardiography, Comprehensive Echocardiography Book, Second Edition, P. 59-64, Elsevier. @media (min-width: 640px) and (max-width: 959px){#footer\\#0 .el-item > .uk-grid > div{width: 14vw;}}@media (min-width: 960px) and (max-width: 1599px){#footer\\#0 .el-item > .uk-grid > div{width: 8vw;}} Κλείστε Ραντεβού Διεύθυνση Λεωφόρος Κηφισίας 5 115 23 Αθήνα Προβολή σε Χάρτη Προβολή σε Χάρτη Επικοινωνία 210 6465 270 6947802002 Αυτή η διεύθυνση Email προστατεύεται από τους αυτοματισμούς αποστολέων ανεπιθύμητων μηνυμάτων. Χρειάζεται να ενεργοποιήσετε τη JavaScript για να μπορέσετε να τη δείτε. Ώρες Ιατρείου Δευτέρα 17:00-20:30 Τρίτη 17:00-20:30 Τετάρτη 17:00-20:30 Πέμπτη 17:00-20:30 Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Πληροφορίες Υπηρεσίες Ενημέρωση Συμβουλές Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Ακολουθήστε μας Πολιτική Απορρήτου Πολιτική Cookies © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος. © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος. jQuery(function($){ var text = document.getElementById(\"animtext\"); if (typeof(text) != 'undefined' && text != null) { $('body').append('<script src=\\\"templates/yootheme_palios/js/alt_text.js\\\"><\\/script>'); } });",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/palios-cardiology.gr-home-f70de618/about-viografiko-84709083.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/palios-cardiology.gr-home-f70de618/about-viografiko-84709083.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.palios-cardiology.gr/images/palios_yannis.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/viografiko",
+          "pageType": "about",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.palios-cardiology.gr/viografiko",
+              "retrievedAt": "2026-03-31T13:08:45.479Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/d1/palios_logo_plain-d131717a.png",
+          "alt": "Ιωάννης Παληός - Καρδιολόγος",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/viografiko",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/viografiko",
+              "retrievedAt": "2026-03-31T13:08:45.479Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/2d/palios_logo_plain-2d3f0376.png",
+          "alt": "Ιωάννης Παληός - Καρδιολόγος",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/viografiko",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/viografiko",
+              "retrievedAt": "2026-03-31T13:08:45.479Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/images/viografiko.svg",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/viografiko",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/viografiko",
+              "retrievedAt": "2026-03-31T13:08:45.479Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/8e/palios_yannis-8ed47741.jpeg",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/viografiko",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/viografiko",
+              "retrievedAt": "2026-03-31T13:08:45.479Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/8d/palios_logo_plain-8d7ce9ac.png",
+          "alt": "Union Dental",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/viografiko",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/viografiko",
+              "retrievedAt": "2026-03-31T13:08:45.479Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page fetch",
+          "uri": "https://www.palios-cardiology.gr/viografiko",
+          "retrievedAt": "2026-03-31T13:08:45.481Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://www.palios-cardiology.gr/epikoinonia",
+      "finalUrl": "https://www.palios-cardiology.gr/epikoinonia",
+      "fetchedAt": "2026-03-31T13:08:46.961Z",
+      "metadata": {
+        "title": "Μαγνητική Τομογραφία Καρδιάς - Δρ. Ιωάννης Παληός - Καρδιολόγος | Επικοινωνία",
+        "metaDescription": "Εικοινωνήστε μαζί μας για ραντεβού με τον καρδιολόγο Δρ. Ιωάννη Παληό και ερωτήσεις σχετικά με την καρδιολογία.",
+        "canonicalUrl": "https://palios-cardiology.gr/epikoinonia",
+        "language": "el-gr",
+        "openGraphTitle": "Επικοινωνία με Δρ. Ιωάννη Παληό - Καρδιολόγος",
+        "openGraphDescription": "Εικοινωνήστε μαζί μας για ραντεβού με τον καρδιολόγο Δρ. Ιωάννη Παληό και ερωτήσεις σχετικά με την καρδιολογία.",
+        "openGraphImage": "https://www.palios-cardiology.gr/images/logo/dr_ioannis_palios_cardiology.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Επικοινωνήστε μαζί μας"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.palios-cardiology.gr/"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/viografiko",
+          "label": "Βιογραφικό"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/magnitiki-tomografia-kardias",
+          "label": "Μαγνητική Τομογραφία Καρδιάς"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/yperixografima-triplex-kardias",
+          "label": "Υπερηχογράφημα - Triplex Καρδιάς"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/dokimasia-koposis",
+          "label": "Δοκιμασία Κόπωσης"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/holter-rythmoy",
+          "label": "Holter Ρυθμού"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/holter-piesis",
+          "label": "Holter Πίεσης"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/ypiresies/kardiologikos-elegxos",
+          "label": "Καρδιολογικός Έλεγχος"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/enimerosi",
+          "label": "Ενημέρωση"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/omilies",
+          "label": "Ομιλίες"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/symvoules",
+          "label": "Συμβουλές"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/epikoinonia",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/politiki-aporritou",
+          "label": "Πολιτική Απορρήτου"
+        },
+        {
+          "href": "https://www.palios-cardiology.gr/politiki-cookies",
+          "label": "Πολιτική Cookies"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.palios-cardiology.gr/epikoinonia",
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "form[Name]",
+            "form[Email]",
+            "form[Message]",
+            "g-recaptcha-response",
+            "form[formId]",
+            "64e7d7df2bbeb67b520d33137d4a905b"
+          ],
+          "submitLabels": [
+            "Αποστολή"
+          ],
+          "fields": [
+            {
+              "name": "form[Name]",
+              "type": "text",
+              "label": "Ονοματεπώνυμο(*)",
+              "required": true
+            },
+            {
+              "name": "form[Email]",
+              "type": "text",
+              "label": "Διεύθυνση Email(*)",
+              "required": true
+            },
+            {
+              "name": "form[Message]",
+              "type": "textarea",
+              "label": "Μήνυμα(*)",
+              "required": true
+            },
+            {
+              "name": "g-recaptcha-response",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "form[formId]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "64e7d7df2bbeb67b520d33137d4a905b",
+              "type": "hidden",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "210 6465 270 6947802002",
+          "00302106465270",
+          "00306947802002"
+        ],
+        "emails": [
+          "info@palios-cardiology.gr"
+        ],
+        "addresses": [
+          "@media (min-width: 640px) and (max-width: 959px){#footer\\#0 .el-item > .uk-grid > div{width: 14vw;}}@media (min-width: 960px) and (max-width: 1599px){#footer\\#0 .el-item > .uk-grid > div{width: 8vw;}} Κλείστε Ραντεβού Διεύθυνση Λεωφόρος Κηφισίας 5 115 23 Αθήνα Προβολή σε Χάρτη Προβολή σε Χάρτη Επικοινωνία 210 6465 270 6947802002 Αυτή η διεύθυνση Email προστατεύεται από τους αυτοματισμούς αποστολέων ανεπιθύμητων μηνυμάτων. Χρειάζεται να ενεργοποιήσετε τη JavaScript για να μπορέσετε να τη δείτε. Ώρες Ιατρείου Δευτέρα 17:00-20:30 Τρίτη 17:00-20:30 Τετάρτη 17:00-20:30 Πέμπτη 17:00-20:30 Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Πληροφορίες Υπηρεσίες Ενημέρωση Συμβουλές Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Ακολουθήστε μας Πολιτική Απορρήτου Πολιτική Cookies © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος. © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος."
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/profile.php?id=100063557201000&fref=ts"
+          },
+          {
+            "href": "https://www.linkedin.com/in/john-palios-60940689/"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.palios-cardiology.gr/epikoinonia",
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "form[Name]",
+              "form[Email]",
+              "form[Message]",
+              "g-recaptcha-response",
+              "form[formId]",
+              "64e7d7df2bbeb67b520d33137d4a905b"
+            ],
+            "submitLabels": [
+              "Αποστολή"
+            ],
+            "fields": [
+              {
+                "name": "form[Name]",
+                "type": "text",
+                "label": "Ονοματεπώνυμο(*)",
+                "required": true
+              },
+              {
+                "name": "form[Email]",
+                "type": "text",
+                "label": "Διεύθυνση Email(*)",
+                "required": true
+              },
+              {
+                "name": "form[Message]",
+                "type": "textarea",
+                "label": "Μήνυμα(*)",
+                "required": true
+              },
+              {
+                "name": "g-recaptcha-response",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "form[formId]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "64e7d7df2bbeb67b520d33137d4a905b",
+                "type": "hidden",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "@media (min-width: 640px) and (max-width: 959px){#footer\\#0 .el-item > .uk-grid > div{width: 14vw;}}@media (min-width: 960px) and (max-width: 1599px){#footer\\#0 .el-item > .uk-grid > div{width: 8vw;}} Κλείστε Ραντεβού Διεύθυνση Λεωφόρος Κηφισίας 5 115 23 Αθήνα Προβολή σε Χάρτη Προβολή σε Χάρτη Επικοινωνία 210 6465 270 6947802002 Αυτή η διεύθυνση Email προστατεύεται από τους αυτοματισμούς αποστολέων ανεπιθύμητων μηνυμάτων. Χρειάζεται να ενεργοποιήσετε τη JavaScript για να μπορέσετε να τη δείτε. Ώρες Ιατρείου Δευτέρα 17:00-20:30 Τρίτη 17:00-20:30 Τετάρτη 17:00-20:30 Πέμπτη 17:00-20:30 Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Πληροφορίες Υπηρεσίες Ενημέρωση Συμβουλές Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Ακολουθήστε μας Πολιτική Απορρήτου Πολιτική Cookies © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος. © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος.",
+      "textContent": "Skip to main content Αρχική Βιογραφικό Υπηρεσίες Μαγνητική Τομογραφία Καρδιάς Υπερηχογράφημα - Triplex Καρδιάς Δοκιμασία Κόπωσης Holter Ρυθμού Holter Πίεσης Καρδιολογικός Έλεγχος Ενημέρωση Ομιλίες Συμβουλές Επικοινωνία Αρχική Βιογραφικό Υπηρεσίες Μαγνητική Τομογραφία Καρδιάς Υπερηχογράφημα - Triplex Καρδιάς Δοκιμασία Κόπωσης Holter Ρυθμού Holter Πίεσης Καρδιολογικός Έλεγχος Ενημέρωση Ομιλίες Συμβουλές Επικοινωνία Επικοινωνήστε μαζί μας Για οποιαδήποτε ερώτηση ή για να κλείσετε ραντεβού παρακαύλομε συμπληρώστε την κάτωθι φόρμα επικοινωνίας ή στείλτε μας εμαιλ στο Αυτή η διεύθυνση Email προστατεύεται από τους αυτοματισμούς αποστολέων ανεπιθύμητων μηνυμάτων. Χρειάζεται να ενεργοποιήσετε τη JavaScript για να μπορέσετε να τη δείτε. Ονοματεπώνυμο(*) Παρακαλούμε συμπληρώστε το ονοματεπώνυμο σας. Διεύθυνση Email(*) Παρακαλούμε συμπληρώστε τη διεύθυνση εμαιλ σας. Μήνυμα(*) Παρακαλούμε συμπληρώστε το μηνυμά σας. Αποστολή @media (min-width: 640px) and (max-width: 959px){#footer\\#0 .el-item > .uk-grid > div{width: 14vw;}}@media (min-width: 960px) and (max-width: 1599px){#footer\\#0 .el-item > .uk-grid > div{width: 8vw;}} Κλείστε Ραντεβού Διεύθυνση Λεωφόρος Κηφισίας 5 115 23 Αθήνα Προβολή σε Χάρτη Προβολή σε Χάρτη Επικοινωνία 210 6465 270 6947802002 Αυτή η διεύθυνση Email προστατεύεται από τους αυτοματισμούς αποστολέων ανεπιθύμητων μηνυμάτων. Χρειάζεται να ενεργοποιήσετε τη JavaScript για να μπορέσετε να τη δείτε. Ώρες Ιατρείου Δευτέρα 17:00-20:30 Τρίτη 17:00-20:30 Τετάρτη 17:00-20:30 Πέμπτη 17:00-20:30 Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Πληροφορίες Υπηρεσίες Ενημέρωση Συμβουλές Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Ακολουθήστε μας Πολιτική Απορρήτου Πολιτική Cookies © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος. © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος. jQuery(function($){ var text = document.getElementById(\"animtext\"); if (typeof(text) != 'undefined' && text != null) { $('body').append('<script src=\\\"templates/yootheme_palios/js/alt_text.js\\\"><\\/script>'); } });",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/palios-cardiology.gr-home-f70de618/contact-epikoinonia-dff7e14e.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/palios-cardiology.gr-home-f70de618/contact-epikoinonia-dff7e14e.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.palios-cardiology.gr/images/logo/dr_ioannis_palios_cardiology.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/epikoinonia",
+          "pageType": "contact",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.palios-cardiology.gr/epikoinonia",
+              "retrievedAt": "2026-03-31T13:08:46.959Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/d1/palios_logo_plain-d131717a.png",
+          "alt": "Ιωάννης Παληός - Καρδιολόγος",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/epikoinonia",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/epikoinonia",
+              "retrievedAt": "2026-03-31T13:08:46.959Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/2d/palios_logo_plain-2d3f0376.png",
+          "alt": "Ιωάννης Παληός - Καρδιολόγος",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/epikoinonia",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/epikoinonia",
+              "retrievedAt": "2026-03-31T13:08:46.960Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/8d/palios_logo_plain-8d7ce9ac.png",
+          "alt": "Union Dental",
+          "sourcePageUrl": "https://www.palios-cardiology.gr/epikoinonia",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.palios-cardiology.gr/epikoinonia",
+              "retrievedAt": "2026-03-31T13:08:46.960Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://www.palios-cardiology.gr/epikoinonia",
+          "retrievedAt": "2026-03-31T13:08:46.961Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/palios-cardiology.gr-home-f70de618/contact-epikoinonia-dff7e14e.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "210 6465 270 6947802002",
+      "00302106465270",
+      "00306947802002",
+      "01/03/2014",
+      "01/01/2014",
+      "12/2012- 01/2014",
+      "05/2008-05/2012",
+      "04/2006-01/2008",
+      "12/2005-03/2006",
+      "11/2004-11/2005",
+      "04/2003-07/2004",
+      "2009 22(8"
+    ],
+    "emails": [
+      "info@palios-cardiology.gr"
+    ],
+    "addresses": [
+      "@media (min-width: 640px) and (max-width: 959px){#footer\\#0 .el-item > .uk-grid > div{width: 14vw;}}@media (min-width: 960px) and (max-width: 1599px){#footer\\#0 .el-item > .uk-grid > div{width: 8vw;}} Κλείστε Ραντεβού Διεύθυνση Λεωφόρος Κηφισίας 5 115 23 Αθήνα Προβολή σε Χάρτη Προβολή σε Χάρτη Επικοινωνία 210 6465 270 6947802002 Αυτή η διεύθυνση Email προστατεύεται από τους αυτοματισμούς αποστολέων ανεπιθύμητων μηνυμάτων. Χρειάζεται να ενεργοποιήσετε τη JavaScript για να μπορέσετε να τη δείτε. Ώρες Ιατρείου Δευτέρα 17:00-20:30 Τρίτη 17:00-20:30 Τετάρτη 17:00-20:30 Πέμπτη 17:00-20:30 Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Πληροφορίες Υπηρεσίες Ενημέρωση Συμβουλές Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Ακολουθήστε μας Πολιτική Απορρήτου Πολιτική Cookies © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος. © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος."
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/profile.php?id=100063557201000&fref=ts"
+      },
+      {
+        "href": "https://www.linkedin.com/in/john-palios-60940689/"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://www.palios-cardiology.gr/epikoinonia",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "form[Name]",
+          "form[Email]",
+          "form[Message]",
+          "g-recaptcha-response",
+          "form[formId]",
+          "64e7d7df2bbeb67b520d33137d4a905b"
+        ],
+        "submitLabels": [
+          "Αποστολή"
+        ],
+        "fields": [
+          {
+            "name": "form[Name]",
+            "type": "text",
+            "label": "Ονοματεπώνυμο(*)",
+            "required": true
+          },
+          {
+            "name": "form[Email]",
+            "type": "text",
+            "label": "Διεύθυνση Email(*)",
+            "required": true
+          },
+          {
+            "name": "form[Message]",
+            "type": "textarea",
+            "label": "Μήνυμα(*)",
+            "required": true
+          },
+          {
+            "name": "g-recaptcha-response",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "form[formId]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "64e7d7df2bbeb67b520d33137d4a905b",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Μαγνητική Τομογραφία Καρδιάς - Δρ. Ιωάννης Παληός - Καρδιολόγος | Αρχική",
+    "metaDescription": "Εξειδίκευση στη μαγνητική τομογραφία καρδιάς και σε προχωρημένες απεικονιστικές τεχνικές στην Καρδιολογία, αξονική στεφανιογραφία, ηχωκαρδιογραφία.",
+    "canonicalUrl": "https://palios-cardiology.gr/",
+    "language": "el-gr",
+    "openGraphTitle": "Μαγνητική Τομογραφία Καρδιάς - Δρ. Ιωάννης Παληός - Καρδιολόγος - Αρχική",
+    "openGraphDescription": "Mαγνητική τομογραφία καρδιάς και προχωρημένες απεικονιστικές τεχνικές στην Καρδιολογία, πλήρης καρδιολογικός έλεγχος, τεστ κοπώσεως, triplex καρδιάς, Holter.",
+    "openGraphImage": "https://www.palios-cardiology.gr/images/logo/dr_ioannis_palios_cardiology.jpg"
+  },
+  "imageReferences": [
+    {
+      "url": "https://www.palios-cardiology.gr/images/logo/dr_ioannis_palios_cardiology.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.061Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/d1/palios_logo_plain-d131717a.png",
+      "alt": "Ιωάννης Παληός - Καρδιολόγος",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.061Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/2d/palios_logo_plain-2d3f0376.png",
+      "alt": "Ιωάννης Παληός - Καρδιολόγος",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.061Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.palios-cardiology.gr/images/viografiko.svg",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.061Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/8e/palios_yannis-8ed47741.jpeg",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.061Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/a3/kardiologikos_elegxos2-a3caee7c.png",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.061Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/40/kardiologikos_elegxos-40acabed.png",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.061Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/47/koposi-47f2b0ca.png",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.061Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/53/mri-53f834eb.png",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.061Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/85/holter-85dff8f1.png",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.061Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.palios-cardiology.gr/images/ipiresies.svg",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.061Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/e4/covid19-e49b6cae.jpeg",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.061Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.palios-cardiology.gr/images/palios_yannis.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/viografiko",
+      "pageType": "about",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.palios-cardiology.gr/viografiko",
+          "retrievedAt": "2026-03-31T13:08:45.479Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.palios-cardiology.gr/templates/yootheme/cache/8d/palios_logo_plain-8d7ce9ac.png",
+      "alt": "Union Dental",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/viografiko",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.palios-cardiology.gr/viografiko",
+          "retrievedAt": "2026-03-31T13:08:45.479Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "210 6465 270 6947802002",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.061Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "00302106465270",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.061Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "00306947802002",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.061Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@palios-cardiology.gr",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.061Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "@media (min-width: 640px) and (max-width: 959px){#footer\\#0 .el-item > .uk-grid > div{width: 14vw;}}@media (min-width: 960px) and (max-width: 1599px){#footer\\#0 .el-item > .uk-grid > div{width: 8vw;}} Κλείστε Ραντεβού Διεύθυνση Λεωφόρος Κηφισίας 5 115 23 Αθήνα Προβολή σε Χάρτη Προβολή σε Χάρτη Επικοινωνία 210 6465 270 6947802002 Αυτή η διεύθυνση Email προστατεύεται από τους αυτοματισμούς αποστολέων ανεπιθύμητων μηνυμάτων. Χρειάζεται να ενεργοποιήσετε τη JavaScript για να μπορέσετε να τη δείτε. Ώρες Ιατρείου Δευτέρα 17:00-20:30 Τρίτη 17:00-20:30 Τετάρτη 17:00-20:30 Πέμπτη 17:00-20:30 Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Πληροφορίες Υπηρεσίες Ενημέρωση Συμβουλές Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Ακολουθήστε μας Πολιτική Απορρήτου Πολιτική Cookies © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος. © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος.",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.palios-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.061Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "01/03/2014",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/viografiko",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.palios-cardiology.gr/viografiko",
+          "retrievedAt": "2026-03-31T13:08:45.479Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "01/01/2014",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/viografiko",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.palios-cardiology.gr/viografiko",
+          "retrievedAt": "2026-03-31T13:08:45.479Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "12/2012- 01/2014",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/viografiko",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.palios-cardiology.gr/viografiko",
+          "retrievedAt": "2026-03-31T13:08:45.479Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "05/2008-05/2012",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/viografiko",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.palios-cardiology.gr/viografiko",
+          "retrievedAt": "2026-03-31T13:08:45.479Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "04/2006-01/2008",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/viografiko",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.palios-cardiology.gr/viografiko",
+          "retrievedAt": "2026-03-31T13:08:45.479Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "12/2005-03/2006",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/viografiko",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.palios-cardiology.gr/viografiko",
+          "retrievedAt": "2026-03-31T13:08:45.479Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "11/2004-11/2005",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/viografiko",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.palios-cardiology.gr/viografiko",
+          "retrievedAt": "2026-03-31T13:08:45.479Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "04/2003-07/2004",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/viografiko",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.palios-cardiology.gr/viografiko",
+          "retrievedAt": "2026-03-31T13:08:45.479Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2009 22(8",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/viografiko",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.palios-cardiology.gr/viografiko",
+          "retrievedAt": "2026-03-31T13:08:45.479Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.palios-cardiology.gr/epikoinonia",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/epikoinonia",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.palios-cardiology.gr/epikoinonia",
+          "retrievedAt": "2026-03-31T13:08:46.959Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.palios-cardiology.gr/epikoinonia",
+      "sourcePageUrl": "https://www.palios-cardiology.gr/epikoinonia",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.palios-cardiology.gr/epikoinonia",
+          "retrievedAt": "2026-03-31T13:08:46.959Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://www.palios-cardiology.gr/",
+    "finalOrigin": "https://www.palios-cardiology.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://www.palios-cardiology.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:08:43.662Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [
+        "/*.js*",
+        "/*.css*",
+        "/*.png*",
+        "/*.jpg*",
+        "/*.gif*"
+      ],
+      "disallowRules": [
+        "/administrator/",
+        "/api/",
+        "/bin/",
+        "/cache/",
+        "/cli/",
+        "/includes/",
+        "/installation/",
+        "/language/",
+        "/layouts/",
+        "/libraries/",
+        "/logs/",
+        "/tmp/"
+      ],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://www.palios-cardiology.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:08:43.146Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://www.palios-cardiology.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.062Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/viografiko",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.063Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/epikoinonia",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.063Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/ypiresies/magnitiki-tomografia-kardias",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.063Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/ypiresies/yperixografima-triplex-kardias",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.063Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/ypiresies/dokimasia-koposis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.063Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/ypiresies/holter-rythmoy",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.063Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/ypiresies/holter-piesis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.063Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/ypiresies/kardiologikos-elegxos",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.063Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/enimerosi",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.063Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/omilies",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.063Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/symvoules",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.063Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/enimerosi/oxeia-myokarditida-apo-koronoio-covid-19",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.063Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/enimerosi/athlese-kai-kardia",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.063Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/enimerosi/pos-tha-prolabo-ta-kardiologika-problemata",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.063Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/enimerosi/prosoche-sten-kardia-to-phthinoporo",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.063Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/politiki-aporritou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.063Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/politiki-cookies",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.063Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/viografiko",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:45.481Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/epikoinonia",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:46.961Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/ypiresies/magnitiki-tomografia-kardias",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:48.474Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/ypiresies/yperixografima-triplex-kardias",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:50.150Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/ypiresies/dokimasia-koposis",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.palios-cardiology.gr/",
+        "timestamp": "2026-03-31T13:08:51.512Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:08:53.964Z"
+      },
+      {
+        "url": "https://www.palios-cardiology.gr/epikoinonia",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:08:55.528Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

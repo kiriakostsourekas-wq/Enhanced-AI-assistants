@@ -1,0 +1,1728 @@
+{
+  "domain": "mourikisortho.gr",
+  "collectedAt": "2026-03-31T13:09:47.686Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mourikisortho.gr-home-b8e503e6",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://www.mourikisortho.gr/",
+      "finalUrl": "https://www.mourikisortho.gr/",
+      "fetchedAt": "2026-03-31T13:09:31.191Z",
+      "metadata": {
+        "title": "Ευάγγελος Μουρίκης - Ορθοπαιδικός",
+        "canonicalUrl": "https://www.mourikisortho.gr/",
+        "language": "en-gb",
+        "openGraphTitle": "Ευάγγελος Μουρίκης - Ορθοπεδικός"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "ΜΟΥΡΙΚΗΣ ΕΥΑΓΓΕΛΟΣ ΟΡΘΟΠΑΙΔΙΚΟΣ/ΠΑΙΔΟΟΡΘΟΠΑΙΔΙΚΟΣ ΧΕΙΡΟΥΡΓΟΣ ΤΡΑΥΜΑΤΟΛΟΓΟΣ"
+        },
+        {
+          "level": "h2",
+          "text": "ΥΠΗΡΕΣΙΕΣ"
+        },
+        {
+          "level": "h2",
+          "text": "ΑΡΘΡΑ"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.mourikisortho.gr/"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/bio",
+          "label": "ΒΙΟΓΡΑΦΙΚΟ"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/olistike-prosengise-tou-asthenous",
+          "label": "Ολίστικη προσέγγιση του ασθενούς"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/orthobiologikes-therapeies",
+          "label": "Ορθοβιολογικές θεραπείες"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/syndroma-spondylikes-steles",
+          "label": "Σύνδρομα σπονδυλικής στήλης"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/athletikes-kakoseis-kai-arthroskopese",
+          "label": "Αθλητικές κακώσεις και αρθροσκόπηση"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/arthritides-kai-arthroplastikes",
+          "label": "Αρθρίτιδες και αρθροπλαστικές"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/paidorthopaidike",
+          "label": "Παιδορθοπαιδική"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/mikrocheirourgike-ano-kai-kato-akrou",
+          "label": "Μικροχειρουργική άνω και κάτω άκρου"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/leitourgikos-belonismos",
+          "label": "Λειτουργικός βελονισμός"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/elachista-epembatikes-technikes-aktinoskopika-kai-yperechographika-kathodegoumenes-enchyseis",
+          "label": "Ελάχιστα επεμβατικές τεχνικές - Ακτινοσκοπικά και υπερηχογραφικά καθοδηγούμενες εγχύσεις"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/ybridike-therapeia",
+          "label": "Υβριδική θεραπεία"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/osteoporosis",
+          "label": "Οστεοπόρωση"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/katagmata-kakoseis",
+          "label": "Κατάγματα - Κακώσεις"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/arthra-video",
+          "label": "ΑΡΘΡΑ / VIDEO"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/contact",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://mourikisortho.gr/bio",
+          "label": "Γνωρίστε τον Ιατρό"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/olistike-prosengise-tou-asthenous"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/orthobiologikes-therapeies"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/arthritides-kai-arthroplastikes"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/paidorthopaidike"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/athletikes-kakoseis-kai-arthroskopese"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/syndroma-spondylikes-steles"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/osteoporosis"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/leitourgikos-belonismos"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/katagmata-kakoseis"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/mikrocheirourgike-ano-kai-kato-akrou"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/arthra-video/enallaktikes-therapeies-cheirourgeiou",
+          "label": "26MarΕΝΑΛΛΑΚΤΙΚΕΣ ΘΕΡΑΠΕΙΕΣ ΧΕΙΡΟΥΡΓΕΙΟΥ“Less is more” Ludwig Mies Van Der Rohe..."
+        },
+        {
+          "href": "https://www.mourikisortho.gr/arthra-video/patheseis-kato-akrou",
+          "label": "18MarΠΑΘΗΣΕΙΣ ΚΑΤΩ ΑΚΡΟΥThe human foot is a masterpiece of engineering and a work of art. “ Leonardo Da Vinci ”..."
+        },
+        {
+          "href": "https://www.mourikisortho.gr/arthra-video/syndroma-myoperitoniakou-ponou",
+          "label": "18MarΣΥΝΔΡΟΜΑ ΜΥΟΠΕΡΙΤΟΝΙΑΚΟΥ ΠΟΝΟΥ“Pain begins when muscles react” Mourikis E...."
+        },
+        {
+          "href": "https://www.mourikisortho.gr/arthra-video/patheseis-ano-akrou",
+          "label": "18MarΠΑΘΗΣΕΙΣ ΑΝΩ ΑΚΡΟΥ“The hand expresses what the heart already knows” Samuel Mockbee..."
+        },
+        {
+          "href": "https://www.mourikisortho.gr/arthra-video/videos",
+          "label": "26AugVideosTotal Knee Replacement Surgery | Nucleus Health (youtube.com) Total Hip Replacement (Surgery) 3D..."
+        },
+        {
+          "href": "https://www.mourikisortho.gr/arthra-video/cheirourgike-antimetopise-orthopaidikon-patheseon-enelikon-paidon",
+          "label": "26AugΧΕΙΡΟΥΡΓΙΚΗ ΑΝΤΙΜΕΤΩΠΙΣΗ ΟΡΘΟΠΑΙΔΙΚΩΝ ΠΑΘΗΣΕΩΝ ΕΝΗΛΙΚΩΝ-ΠΑΙΔΩΝΜια ευρεία κατηγοριοποίηση των ορθοπαιδικών παθήσεων είναι η εξής:..."
+        },
+        {
+          "href": "https://www.mourikisortho.gr/arthra-video/synteretike-antimetopise-orthopaidikon-patheseon",
+          "label": "26AugΣΥΝΤΗΡΗΤΙΚΗ ΑΝΤΙΜΕΤΩΠΙΣΗ ΟΡΘΟΠΑΙΔΙΚΩΝ ΠΑΘΗΣΕΩΝΜε τον όρο συντηρητική αντιμετώπιση ορθροπαιδικών παθήσεων εννοούμε στην πράξη οτιδήποτε κάνουμε..."
+        },
+        {
+          "href": "https://www.mourikisortho.gr/arthra-video/ponos",
+          "label": "26AugΠΟΝΟΣ“Passion is the bridge that takes you from pain to change” Frida Kahlo ΛΙΓΑ ΛΟΓΙΑ ΓΙΑ ΤΟΝ ΠΟΝΟ: Ο..."
+        },
+        {
+          "href": "https://www.mourikisortho.gr/arthra-video/orismoi-katanoese-orthopaidikes-orologias",
+          "label": "26AugΟΡΙΣΜΟΙ - ΚΑΤΑΝΟΗΣΗ ΟΡΘΟΠΑΙΔΙΚΗΣ ΟΡΟΛΟΓΙΑΣ“Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things”..."
+        },
+        {
+          "href": "https://mourikisortho.gr/contact",
+          "label": "Επικοινωνήστε σήμερα μαζί μας"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "697 174 9044",
+          "6971749044"
+        ],
+        "emails": [
+          "mourikisortho@gmail.com"
+        ],
+        "addresses": [],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/profile.php?id=61561350891869"
+          },
+          {
+            "href": "https://www.google.gr/url?sa=t&source=web&rct=j&opi=89978449&url=https://gr.linkedin.com/in/evangelos-spyridon-mourikis-006192131&ved=2ahUKEwjx5MXKsL-HAxWq9QIHHfTLBTwQFnoECBkQAQ&usg=AOvVaw2GazsPvQprf1NxgSYbviz9"
+          },
+          {
+            "href": "https://www.instagram.com/mourikisortho/"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "© 2026 mourikisortho.gr. Designed and Developed by webrely.gr",
+      "textContent": "697 174 9044 mourikisortho@gmail.com AΡΧΙΚΗΒΙΟΓΡΑΦΙΚΟΥΠΗΡΕΣΙΕΣΟλίστικη προσέγγιση του ασθενούςΟρθοβιολογικές θεραπείεςΣύνδρομα σπονδυλικής στήληςΑθλητικές κακώσεις και αρθροσκόπησηΑρθρίτιδες και αρθροπλαστικέςΠαιδορθοπαιδικήΜικροχειρουργική άνω και κάτω άκρουΛειτουργικός βελονισμόςΕλάχιστα επεμβατικές τεχνικές - Ακτινοσκοπικά και υπερηχογραφικά καθοδηγούμενες εγχύσειςΥβριδική θεραπείαΟστεοπόρωσηΚατάγματα - ΚακώσειςΑΡΘΡΑ / VIDEOΕΠΙΚΟΙΝΩΝΙΑ ΜΟΥΡΙΚΗΣ ΕΥΑΓΓΕΛΟΣ ΟΡΘΟΠΑΙΔΙΚΟΣ/ΠΑΙΔΟΟΡΘΟΠΑΙΔΙΚΟΣ ΧΕΙΡΟΥΡΓΟΣ ΤΡΑΥΜΑΤΟΛΟΓΟΣ Ο Μουρίκης Ευάγγελος MD είναι Ορθοπαιδικός Χειρουργός/Παιδοορθοπαιδικός: Επιμελητής Ενηλίκων/Παίδων στην Ευρωκλινική- Κλινική Αθλητικών Κακώσεων και Παιδοορθοπαιδικό Τμήμα -Μουρίκης Ευάγγελος | Όμιλος Ευρωκλινικής Ιατρικό του Παλαιού Φαλήρου - Κλινική Μικροχειρουργικής και Άνω άκρου- ΜΟΥΡΙΚΗΣ ΕΥΑΓΓΕΛΟΣ | Ορθοπεδικός, Επιστημονικός Συνεργάτης, Ιατρικό Π. Φαλήρου Therapis General- Χειρουργική Ομάδα ORTHOSYMMETRY με ειδίκευση στο Τραύμα/Κατάγματα και στις Αρθροπλαστικές. Διατηρεί ιδιωτικό ιατρείο στην περιοχή του Γκύζη με έμφαση: Στις βιολογικές θεραπείες(PRP, βλαστοκύτταρα). Στις ελάχιστα επεμβατικές τεχνικές- ενέσιμες θεραπείες(Υαλουρονικό οξύ, Κορτιζόνη και Αναισθητικά μακράς δράσης) υπό ακτινοσκοπικό/υπερηχογραφικό έλεγχο. Στον Ιατρικό Βελονισμό. Στη Χειρουργική αντιμετώπιση Ορθοπαιδικών Παθήσεων. Στη Χειροπρακτική θεραπεία κατά Ackermann όταν ενδείκνυται από τα ευρήματα της κλινικής εξέτασης Αναλαμβάνει Χειρουργικά περιστατικά από όλο το φάσμα της ορθοπαιδικής όπως: Αρθοσκόπηση/Αρθροπλαστική/Κατάγματα/Σύνδρομα παγίδευσης νεύρων. . Είναι πτυχιούχος της Ιατρικής Σχολής του Εθνικού και Καποδιστριακού Πανεπιστημίου Αθηνών καιειδικεύτηκε στην Ορθοπαιδική στο Γενικό Νοσοκομείο Αθηνών \"Ευαγγελισμός\"στο τμήμα Σπονδυλική Στήλης του Γ.Ν.Α ΚΑΤ, και στην Παιδοορθοπαιδική στο Γενικό Νοσοκομείο Παίδων Αθηνών \"Αγία Σοφία\". Έχει ολοκληρώσει πρόγραμμα μετεκπαίδευσης Ιατρικού Βελονισμού από το Εκπαιδευτικό Ινστιτούτο Βορείας Ελλάδας με Διεθνή Αναγνώριση απο ICMART ICMART - Medical Acupuncture, Medizinische Akupunktur, Acupuncture Médicale, Acupuntura Médica, Agopuntura Medica - ICMART Έχει ολοκληρώσει πρόγραμμα ειδίκευσης στο Μυοσκελετικό Υπέρηχο και στις καθοδηγούμενες με υπέρηχο εγχύσεις στην Sonopedics United Kingdom. MSK Ultrasound | Sonopedics Έχει πιστοποιηθεί ώς Χειροπρακτικός με τη μέθοδο Ackermann The Ackermann Institute – Tagline: Ackermann Institutet Πρωταρχικό μέλημα του είναι πάντα η εύρεση της πιο ακριβούς διάγνωσης που θα εξηγεί την συμπτωματολογία του ασθενούς. Εν συνέχεια, προσφέρονται οι χειρουργικές και οι μη χειρουργικές επιλογές προς επίλυση του προβλήματος, και επιλέγεται η καταλληλότερη με βάση της επιθυμίες και τις καθημερινές συνήθειες του ασθενούς. Γνωρίστε τον ΙατρόΥΠΗΡΕΣΙΕΣΟλίστικη προσέγγιση του ασθενούς Ορθοβιολογικές θεραπείεςΑρθρίτιδες και αρθροπλαστικές Παιδορθοπαιδική Αθλητικές κακώσεις και αρθροσκόπηση Σύνδρομα σπονδυλικής στήλης Οστεοπόρωση Λειτουργικός βελονισμόςΚατάγματα - Κακώσεις Μικροχειρουργική άνω και κάτω άκρουΑΡΘΡΑ26MarΕΝΑΛΛΑΚΤΙΚΕΣ ΘΕΡΑΠΕΙΕΣ ΧΕΙΡΟΥΡΓΕΙΟΥ“Less is more” Ludwig Mies Van Der Rohe...18MarΠΑΘΗΣΕΙΣ ΚΑΤΩ ΑΚΡΟΥThe human foot is a masterpiece of engineering and a work of art. “ Leonardo Da Vinci ”...18MarΣΥΝΔΡΟΜΑ ΜΥΟΠΕΡΙΤΟΝΙΑΚΟΥ ΠΟΝΟΥ“Pain begins when muscles react” Mourikis E....18MarΠΑΘΗΣΕΙΣ ΑΝΩ ΑΚΡΟΥ“The hand expresses what the heart already knows” Samuel Mockbee...26AugVideosTotal Knee Replacement Surgery | Nucleus Health (youtube.com) Total Hip Replacement (Surgery) 3D...26AugΧΕΙΡΟΥΡΓΙΚΗ ΑΝΤΙΜΕΤΩΠΙΣΗ ΟΡΘΟΠΑΙΔΙΚΩΝ ΠΑΘΗΣΕΩΝ ΕΝΗΛΙΚΩΝ-ΠΑΙΔΩΝΜια ευρεία κατηγοριοποίηση των ορθοπαιδικών παθήσεων είναι η εξής:...26AugΣΥΝΤΗΡΗΤΙΚΗ ΑΝΤΙΜΕΤΩΠΙΣΗ ΟΡΘΟΠΑΙΔΙΚΩΝ ΠΑΘΗΣΕΩΝΜε τον όρο συντηρητική αντιμετώπιση ορθροπαιδικών παθήσεων εννοούμε στην πράξη οτιδήποτε κάνουμε...26AugΠΟΝΟΣ“Passion is the bridge that takes you from pain to change” Frida Kahlo ΛΙΓΑ ΛΟΓΙΑ ΓΙΑ ΤΟΝ ΠΟΝΟ: Ο...26AugΟΡΙΣΜΟΙ - ΚΑΤΑΝΟΗΣΗ ΟΡΘΟΠΑΙΔΙΚΗΣ ΟΡΟΛΟΓΙΑΣ“Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things”...Επικοινωνήστε σήμερα μαζί μας © 2026 mourikisortho.gr. Designed and Developed by webrely.gr AΡΧΙΚΗΒΙΟΓΡΑΦΙΚΟΥΠΗΡΕΣΙΕΣΟλίστικη προσέγγιση του ασθενούςΟρθοβιολογικές θεραπείεςΣύνδρομα σπονδυλικής στήληςΑθλητικές κακώσεις και αρθροσκόπησηΑρθρίτιδες και αρθροπλαστικέςΠαιδορθοπαιδικήΜικροχειρουργική άνω και κάτω άκρουΛειτουργικός βελονισμόςΕλάχιστα επεμβατικές τεχνικές - Ακτινοσκοπικά και υπερηχογραφικά καθοδηγούμενες εγχύσειςΥβριδική θεραπείαΟστεοπόρωσηΚατάγματα - ΚακώσειςΑΡΘΡΑ / VIDEOΕΠΙΚΟΙΝΩΝΙΑ 697 174 9044 mourikisortho@gmail.com",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mourikisortho.gr-home-b8e503e6/homepage--b8e503e6.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mourikisortho.gr-home-b8e503e6/homepage--b8e503e6.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.mourikisortho.gr/images/mourikis-orthopaedics-3.png",
+          "alt": "Ευάγγελος Μουρίκης - Ορθοπεδικός",
+          "sourcePageUrl": "https://www.mourikisortho.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.mourikisortho.gr/",
+              "retrievedAt": "2026-03-31T13:09:31.189Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.mourikisortho.gr/images/2025/03/18/1.jpg",
+          "sourcePageUrl": "https://www.mourikisortho.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.mourikisortho.gr/",
+              "retrievedAt": "2026-03-31T13:09:31.189Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.mourikisortho.gr/images/2025/02/20/mmp04492.jpg",
+          "sourcePageUrl": "https://www.mourikisortho.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.mourikisortho.gr/",
+              "retrievedAt": "2026-03-31T13:09:31.189Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.mourikisortho.gr/images/2025/03/18/3.jpg",
+          "sourcePageUrl": "https://www.mourikisortho.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.mourikisortho.gr/",
+              "retrievedAt": "2026-03-31T13:09:31.189Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.mourikisortho.gr/images/2025/03/18/4.jpg",
+          "sourcePageUrl": "https://www.mourikisortho.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.mourikisortho.gr/",
+              "retrievedAt": "2026-03-31T13:09:31.189Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.mourikisortho.gr/images/2025/04/02/holistic-health2.png",
+          "alt": "Ολίστικη προσέγγιση του ασθενούς",
+          "sourcePageUrl": "https://www.mourikisortho.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.mourikisortho.gr/",
+              "retrievedAt": "2026-03-31T13:09:31.189Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.mourikisortho.gr/images/2025/04/02/injection2.png",
+          "alt": "Ορθοβιολογικές θεραπείες",
+          "sourcePageUrl": "https://www.mourikisortho.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.mourikisortho.gr/",
+              "retrievedAt": "2026-03-31T13:09:31.189Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.mourikisortho.gr/images/2024/08/26/joint.png",
+          "alt": "Αρθροπάθειες και Ανακατασκευή Αρθρώσεων",
+          "sourcePageUrl": "https://www.mourikisortho.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.mourikisortho.gr/",
+              "retrievedAt": "2026-03-31T13:09:31.189Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.mourikisortho.gr/images/2024/08/26/childhood-diseases.png",
+          "alt": "Image",
+          "sourcePageUrl": "https://www.mourikisortho.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.mourikisortho.gr/",
+              "retrievedAt": "2026-03-31T13:09:31.189Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.mourikisortho.gr/images/2024/08/26/running.png",
+          "alt": "Αθλητικές κακώσεις και αρθροσκόπηση",
+          "sourcePageUrl": "https://www.mourikisortho.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.mourikisortho.gr/",
+              "retrievedAt": "2026-03-31T13:09:31.189Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.mourikisortho.gr/images/2025/04/02/spine3.png",
+          "alt": "Image",
+          "sourcePageUrl": "https://www.mourikisortho.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.mourikisortho.gr/",
+              "retrievedAt": "2026-03-31T13:09:31.189Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.mourikisortho.gr/images/2024/08/26/osteoporosis.png",
+          "alt": "Οστεοπόρωση",
+          "sourcePageUrl": "https://www.mourikisortho.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.mourikisortho.gr/",
+              "retrievedAt": "2026-03-31T13:09:31.189Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://www.mourikisortho.gr/",
+          "retrievedAt": "2026-03-31T13:09:31.191Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mourikisortho.gr-home-b8e503e6/homepage-page-b8e503e6.png"
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "https://www.mourikisortho.gr/services/orthobiologikes-therapeies",
+      "finalUrl": "https://www.mourikisortho.gr/services/orthobiologikes-therapeies",
+      "fetchedAt": "2026-03-31T13:09:36.583Z",
+      "metadata": {
+        "title": "Ορθοβιολογικές θεραπείες - Ευάγγελος Μουρίκης Ορθοπαιδικός",
+        "canonicalUrl": "https://www.mourikisortho.gr/services/orthobiologikes-therapeies",
+        "language": "en-gb"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Ορθοβιολογικές θεραπείες prp, υαλουρονικό οξύ, προλοθεραπεία"
+        },
+        {
+          "level": "h3",
+          "text": "“We are not made of drugs, We are made of cells”"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.mourikisortho.gr/"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/bio",
+          "label": "ΒΙΟΓΡΑΦΙΚΟ"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/olistike-prosengise-tou-asthenous",
+          "label": "Ολίστικη προσέγγιση του ασθενούς"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/orthobiologikes-therapeies",
+          "label": "Ορθοβιολογικές θεραπείες"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/syndroma-spondylikes-steles",
+          "label": "Σύνδρομα σπονδυλικής στήλης"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/athletikes-kakoseis-kai-arthroskopese",
+          "label": "Αθλητικές κακώσεις και αρθροσκόπηση"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/arthritides-kai-arthroplastikes",
+          "label": "Αρθρίτιδες και αρθροπλαστικές"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/paidorthopaidike",
+          "label": "Παιδορθοπαιδική"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/mikrocheirourgike-ano-kai-kato-akrou",
+          "label": "Μικροχειρουργική άνω και κάτω άκρου"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/leitourgikos-belonismos",
+          "label": "Λειτουργικός βελονισμός"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/elachista-epembatikes-technikes-aktinoskopika-kai-yperechographika-kathodegoumenes-enchyseis",
+          "label": "Ελάχιστα επεμβατικές τεχνικές - Ακτινοσκοπικά και υπερηχογραφικά καθοδηγούμενες εγχύσεις"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/ybridike-therapeia",
+          "label": "Υβριδική θεραπεία"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/osteoporosis",
+          "label": "Οστεοπόρωση"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/services/katagmata-kakoseis",
+          "label": "Κατάγματα - Κακώσεις"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/arthra-video",
+          "label": "ΑΡΘΡΑ / VIDEO"
+        },
+        {
+          "href": "https://www.mourikisortho.gr/contact",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "697 174 9044",
+          "6971749044"
+        ],
+        "emails": [
+          "mourikisortho@gmail.com"
+        ],
+        "addresses": [],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/profile.php?id=61561350891869"
+          },
+          {
+            "href": "https://www.google.gr/url?sa=t&source=web&rct=j&opi=89978449&url=https://gr.linkedin.com/in/evangelos-spyridon-mourikis-006192131&ved=2ahUKEwjx5MXKsL-HAxWq9QIHHfTLBTwQFnoECBkQAQ&usg=AOvVaw2GazsPvQprf1NxgSYbviz9"
+          },
+          {
+            "href": "https://www.instagram.com/mourikisortho/"
+          },
+          {
+            "href": "https://www.facebook.com/sharer.php?u=https://www.mourikisortho.gr/services/orthobiologikes-therapeies"
+          },
+          {
+            "href": "https://twitter.com/share?url=https://www.mourikisortho.gr/services/orthobiologikes-therapeies&text=%CE%9F%CF%81%CE%B8%CE%BF%CE%B2%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AD%CF%82%20%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82%20prp,%20%CF%85%CE%B1%CE%BB%CE%BF%CF%85%CF%81%CE%BF%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%BF%CE%BE%CF%8D,%20%CF%80%CF%81%CE%BF%CE%BB%CE%BF%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B1"
+          },
+          {
+            "href": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.mourikisortho.gr/services/orthobiologikes-therapeies"
+          },
+          {
+            "href": "https://www.youtube.com/shorts/fYSM7HFahcQ",
+            "label": "Platelet rich plasma treatment for knee arthritis - YouTube"
+          },
+          {
+            "href": "https://www.youtube.com/shorts/cl_HfuR2L_k",
+            "label": "Visco-gel injections for knee arthritis pain"
+          },
+          {
+            "href": "https://www.youtube.com/shorts/A63zggtqY6Q",
+            "label": "How Stem Cells Can Prevent #Osteoarthritis? #KneeInjury #Healthcare"
+          },
+          {
+            "href": "https://www.youtube.com/shorts/Wc7DP8qlSoY",
+            "label": "Forget your knee pain #kneepainrelief #kneepain #explore #newtherapy #shorts #explore"
+          },
+          {
+            "href": "https://www.youtube.com/shorts/00buZW7XhgM",
+            "label": "Releasing upper trapezius with dry needling to reduce neck stiffness #shorts #dryneedling #physio"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "© 2026 mourikisortho.gr. Designed and Developed by webrely.gr",
+      "textContent": "697 174 9044 mourikisortho@gmail.com AΡΧΙΚΗΒΙΟΓΡΑΦΙΚΟΥΠΗΡΕΣΙΕΣΟλίστικη προσέγγιση του ασθενούςΟρθοβιολογικές θεραπείεςΣύνδρομα σπονδυλικής στήληςΑθλητικές κακώσεις και αρθροσκόπησηΑρθρίτιδες και αρθροπλαστικέςΠαιδορθοπαιδικήΜικροχειρουργική άνω και κάτω άκρουΛειτουργικός βελονισμόςΕλάχιστα επεμβατικές τεχνικές - Ακτινοσκοπικά και υπερηχογραφικά καθοδηγούμενες εγχύσειςΥβριδική θεραπείαΟστεοπόρωσηΚατάγματα - ΚακώσειςΑΡΘΡΑ / VIDEOΕΠΙΚΟΙΝΩΝΙΑ Ορθοβιολογικές θεραπείες prp, υαλουρονικό οξύ, προλοθεραπεία “We are not made of drugs, We are made of cells” Τι είναι η ορθοβιολογική θεραπεία? Ορθοβιολογική θεραπεία χαρακτηρίζεται κάθε θεραπεία που γίνεται : Μέσω ουσιών που λαμβάνονται από τον ίδιο μας τον οργανισμό όπως το PRP(Platelet Rich Plasma) και τα Βλαστοκύτταρα. Μέσω ουσιών που υπάρχουν φυσιολογικά στον οργανισμό μας(Υαλουρονικό Οξύ,Κολλαγόνο). Ή που βασίζονται στην αντίδραση του οργανισμού μας σε μια ερεθιστική φυσική ουσία όπως ο φυσιολογικός ορός και το σακχαρούχο διάλυμα(Προλοθεραπεία) ή σε τοπική αντίδραση σε τραύμα(Υγρός/ξηρός βελονισμός). Πιο αναλυτικά: Η ορθοβιολογική θεραπεία PRP (Platelet RichPlasma – Πλούσιο σε Αιμοπετάλια Πλάσμα) είναι η πιο δημοφιλής και αξιοποιεί τους αυξητικούς παράγοντες των αιμοπεταλίων για να πολλαπλασιάσει τα κύτταρα και να αναγεννήσει τους ιστούς. Γίνεται μέσω μια απλής αιμοληψίας με διαχωρισμό των συστατικών του αίματος και μπορεί να χρησιμοποιηθεί για: Μυικές θλάσεις Τενοντίτιδες Κακώσεις συνδέσμων Αρθρίτιδες Επικουρικά σε Κατάγματα Στην έγχυση βλαστοκυττάρων (STEM CELLS),τα βλαστοκύτταρα που βρίσκονται στο μυελό των οστών και τον λιπώδη ιστό λαμβάνονται με απλό και ασφαλή τρόπο για να χορηγηθούν στον ασθενή και να θεραπεύσουν ή να βελτιώσουν παθήσεις και τραυματισμούς. Τα χρησιμοποιούμε συνήθως ως λύση για τραυματισμούς που το PRP δεν έδωσε τα θεμιτά αποτελέσματα (παράδειγμα ρήξη μηνίσκου). Οι ενέσεις υαλουρονικού οξέοςσυμβάλλουν στην απορρόφηση των κραδασμών και στην καλύτερη κίνηση. Το υαλουρονικό οξύ υπάρχει στον αρθρικό χόνδρο και στο αρθρικό υγρό. Ως κυριότερη και κυρίαρχη ένδειξη για τη χρήση του έχουμε την οστεοαρθρίτιδα εκφυλιστικής αιτιολογίας, πάθηση στην οποία η παραγωγή του είναι αρκετά μειωμένη. Η προλοθεραπείαείναι μία αναγεννητική θεραπεία που επιτυγχάνεται με ενέσεις υπέρτονων/σακχαρούχων διαλυμάτων στα σημεία των συνδέσμων, των τενόντων και των αρθρώσεων που πονούν. Οι ενέσεις προκαλούν ερεθισμό στο σημείο έγχυσης με αποτέλεσμα να αυξάνουν την αιμάτωση και να ξεκινάνε μία νέα επουλωτική διεργασία που επιταχύνει τη θεραπεία. Υγρός και ξηρός λειτουργικός βελονισμός. Η τοποθέτηση βελονών με ή χωρίς φάρμακο σε trigger points(Σημεία αυξημένης ευαισθησίας/άλγους) που ανιχνεύονται καθώς ο ασθενής πραγματοποιεί τις κινήσεις που πυροδοτούν τον πόνο. Κύρια ένδειξη αποτελούν το σύνδρομο ΟΞΕΙΑΣ ΟΣΦΥΑΛΓΙΑΣ ΚΑΙ ΑΥΧΕΝΑΛΓΙΑΣ. ΑΠΟΤΕΛΕΙ ΙΔΑΝΙΚΗ ΘΕΡΑΠΕΙΑ για όσους επιθυμούν να αποφύγουν την παρατεταμένη αγωγή με ενέσιμα και από τους στόματος Αντιφλεγμονώδη φάρμακα. Δρα με τον ίδιο μηχανισμό με την προλοθεραπεία. Video-links: Platelet rich plasma treatment for knee arthritis - YouTube Visco-gel injections for knee arthritis pain How Stem Cells Can Prevent #Osteoarthritis? #KneeInjury #Healthcare Forget your knee pain #kneepainrelief #kneepain #explore #newtherapy #shorts #explore Releasing upper trapezius with dry needling to reduce neck stiffness #shorts #dryneedling #physio © 2026 mourikisortho.gr. Designed and Developed by webrely.gr AΡΧΙΚΗΒΙΟΓΡΑΦΙΚΟΥΠΗΡΕΣΙΕΣΟλίστικη προσέγγιση του ασθενούςΟρθοβιολογικές θεραπείεςΣύνδρομα σπονδυλικής στήληςΑθλητικές κακώσεις και αρθροσκόπησηΑρθρίτιδες και αρθροπλαστικέςΠαιδορθοπαιδικήΜικροχειρουργική άνω και κάτω άκρουΛειτουργικός βελονισμόςΕλάχιστα επεμβατικές τεχνικές - Ακτινοσκοπικά και υπερηχογραφικά καθοδηγούμενες εγχύσειςΥβριδική θεραπείαΟστεοπόρωσηΚατάγματα - ΚακώσειςΑΡΘΡΑ / VIDEOΕΠΙΚΟΙΝΩΝΙΑ 697 174 9044 mourikisortho@gmail.com",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mourikisortho.gr-home-b8e503e6/services-services-orthobiologikes-therapeies-612f2dbd.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mourikisortho.gr-home-b8e503e6/services-services-orthobiologikes-therapeies-612f2dbd.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.mourikisortho.gr/images/mourikis-orthopaedics-3.png",
+          "alt": "Ευάγγελος Μουρίκης - Ορθοπεδικός",
+          "sourcePageUrl": "https://www.mourikisortho.gr/services/orthobiologikes-therapeies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.mourikisortho.gr/services/orthobiologikes-therapeies",
+              "retrievedAt": "2026-03-31T13:09:36.582Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://www.mourikisortho.gr/services/orthobiologikes-therapeies",
+          "retrievedAt": "2026-03-31T13:09:36.583Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://mourikisortho.gr/contact",
+      "finalUrl": "https://mourikisortho.gr/contact",
+      "fetchedAt": "2026-03-31T13:09:33.953Z",
+      "metadata": {
+        "title": "Επικοινωνία - Ευάγγελος Μουρίκης Ορθοπαιδικός",
+        "canonicalUrl": "https://mourikisortho.gr/contact",
+        "language": "en-gb",
+        "openGraphTitle": "Επικοινωνία"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Επικοινωνία"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://mourikisortho.gr/"
+        },
+        {
+          "href": "https://mourikisortho.gr/bio",
+          "label": "ΒΙΟΓΡΑΦΙΚΟ"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/olistike-prosengise-tou-asthenous",
+          "label": "Ολίστικη προσέγγιση του ασθενούς"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/orthobiologikes-therapeies",
+          "label": "Ορθοβιολογικές θεραπείες"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/syndroma-spondylikes-steles",
+          "label": "Σύνδρομα σπονδυλικής στήλης"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/athletikes-kakoseis-kai-arthroskopese",
+          "label": "Αθλητικές κακώσεις και αρθροσκόπηση"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/arthritides-kai-arthroplastikes",
+          "label": "Αρθρίτιδες και αρθροπλαστικές"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/paidorthopaidike",
+          "label": "Παιδορθοπαιδική"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/mikrocheirourgike-ano-kai-kato-akrou",
+          "label": "Μικροχειρουργική άνω και κάτω άκρου"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/leitourgikos-belonismos",
+          "label": "Λειτουργικός βελονισμός"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/elachista-epembatikes-technikes-aktinoskopika-kai-yperechographika-kathodegoumenes-enchyseis",
+          "label": "Ελάχιστα επεμβατικές τεχνικές - Ακτινοσκοπικά και υπερηχογραφικά καθοδηγούμενες εγχύσεις"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/ybridike-therapeia",
+          "label": "Υβριδική θεραπεία"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/osteoporosis",
+          "label": "Οστεοπόρωση"
+        },
+        {
+          "href": "https://mourikisortho.gr/services/katagmata-kakoseis",
+          "label": "Κατάγματα - Κακώσεις"
+        },
+        {
+          "href": "https://mourikisortho.gr/arthra-video",
+          "label": "ΑΡΘΡΑ / VIDEO"
+        },
+        {
+          "href": "https://mourikisortho.gr/contact",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        }
+      ],
+      "forms": [
+        {
+          "purposeHint": "generic",
+          "fieldNames": [
+            "name",
+            "email",
+            "phone",
+            "subject",
+            "captcha_question",
+            "message",
+            "recipient",
+            "from_email",
+            "from_name",
+            "addon_id",
+            "captcha_answer",
+            "captcha_type"
+          ],
+          "submitLabels": [
+            "Αποστολή"
+          ],
+          "fields": [
+            {
+              "name": "name",
+              "type": "text",
+              "label": "Name",
+              "required": true
+            },
+            {
+              "name": "email",
+              "type": "email",
+              "label": "Email",
+              "required": true
+            },
+            {
+              "name": "phone",
+              "type": "text",
+              "label": "Phone",
+              "required": true
+            },
+            {
+              "name": "subject",
+              "type": "text",
+              "label": "Subject",
+              "required": true
+            },
+            {
+              "name": "captcha_question",
+              "type": "text",
+              "label": "3 + 4 = ?",
+              "required": true
+            },
+            {
+              "name": "message",
+              "type": "textarea",
+              "label": "Message",
+              "required": true
+            },
+            {
+              "name": "recipient",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "from_email",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "from_name",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "addon_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "captcha_answer",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "captcha_type",
+              "type": "hidden",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "697 174 9044",
+          "697 17 49 044",
+          "6971749044"
+        ],
+        "emails": [
+          "mourikisortho@gmail.com"
+        ],
+        "addresses": [],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/profile.php?id=61561350891869"
+          },
+          {
+            "href": "https://www.google.gr/url?sa=t&source=web&rct=j&opi=89978449&url=https://gr.linkedin.com/in/evangelos-spyridon-mourikis-006192131&ved=2ahUKEwjx5MXKsL-HAxWq9QIHHfTLBTwQFnoECBkQAQ&usg=AOvVaw2GazsPvQprf1NxgSYbviz9"
+          },
+          {
+            "href": "https://www.instagram.com/mourikisortho/"
+          }
+        ],
+        "forms": [
+          {
+            "purposeHint": "generic",
+            "fieldNames": [
+              "name",
+              "email",
+              "phone",
+              "subject",
+              "captcha_question",
+              "message",
+              "recipient",
+              "from_email",
+              "from_name",
+              "addon_id",
+              "captcha_answer",
+              "captcha_type"
+            ],
+            "submitLabels": [
+              "Αποστολή"
+            ],
+            "fields": [
+              {
+                "name": "name",
+                "type": "text",
+                "label": "Name",
+                "required": true
+              },
+              {
+                "name": "email",
+                "type": "email",
+                "label": "Email",
+                "required": true
+              },
+              {
+                "name": "phone",
+                "type": "text",
+                "label": "Phone",
+                "required": true
+              },
+              {
+                "name": "subject",
+                "type": "text",
+                "label": "Subject",
+                "required": true
+              },
+              {
+                "name": "captcha_question",
+                "type": "text",
+                "label": "3 + 4 = ?",
+                "required": true
+              },
+              {
+                "name": "message",
+                "type": "textarea",
+                "label": "Message",
+                "required": true
+              },
+              {
+                "name": "recipient",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "from_email",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "from_name",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "addon_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "captcha_answer",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "captcha_type",
+                "type": "hidden",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "© 2026 mourikisortho.gr. Designed and Developed by webrely.gr",
+      "textContent": "697 174 9044 mourikisortho@gmail.com AΡΧΙΚΗΒΙΟΓΡΑΦΙΚΟΥΠΗΡΕΣΙΕΣΟλίστικη προσέγγιση του ασθενούςΟρθοβιολογικές θεραπείεςΣύνδρομα σπονδυλικής στήληςΑθλητικές κακώσεις και αρθροσκόπησηΑρθρίτιδες και αρθροπλαστικέςΠαιδορθοπαιδικήΜικροχειρουργική άνω και κάτω άκρουΛειτουργικός βελονισμόςΕλάχιστα επεμβατικές τεχνικές - Ακτινοσκοπικά και υπερηχογραφικά καθοδηγούμενες εγχύσειςΥβριδική θεραπείαΟστεοπόρωσηΚατάγματα - ΚακώσειςΑΡΘΡΑ / VIDEOΕΠΙΚΟΙΝΩΝΙΑ Επικοινωνία697 17 49 044Παράσχου 100 - Λεωφόρος Αλεξάνδρας, 10 λεπτά από Μετρό Αμπελοκήπων με τα πόδιαmourikisortho@gmail.comΑποστολή © 2026 mourikisortho.gr. Designed and Developed by webrely.gr AΡΧΙΚΗΒΙΟΓΡΑΦΙΚΟΥΠΗΡΕΣΙΕΣΟλίστικη προσέγγιση του ασθενούςΟρθοβιολογικές θεραπείεςΣύνδρομα σπονδυλικής στήληςΑθλητικές κακώσεις και αρθροσκόπησηΑρθρίτιδες και αρθροπλαστικέςΠαιδορθοπαιδικήΜικροχειρουργική άνω και κάτω άκρουΛειτουργικός βελονισμόςΕλάχιστα επεμβατικές τεχνικές - Ακτινοσκοπικά και υπερηχογραφικά καθοδηγούμενες εγχύσειςΥβριδική θεραπείαΟστεοπόρωσηΚατάγματα - ΚακώσειςΑΡΘΡΑ / VIDEOΕΠΙΚΟΙΝΩΝΙΑ 697 174 9044 mourikisortho@gmail.com",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mourikisortho.gr-home-b8e503e6/contact-contact-e2849920.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mourikisortho.gr-home-b8e503e6/contact-contact-e2849920.txt",
+      "imageReferences": [
+        {
+          "url": "https://mourikisortho.gr/images/mourikis-orthopaedics-3.png",
+          "alt": "Ευάγγελος Μουρίκης - Ορθοπεδικός",
+          "sourcePageUrl": "https://mourikisortho.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mourikisortho.gr/contact",
+              "retrievedAt": "2026-03-31T13:09:33.952Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://mourikisortho.gr/contact",
+          "retrievedAt": "2026-03-31T13:09:33.953Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mourikisortho.gr-home-b8e503e6/contact-contact-e2849920.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "697 174 9044",
+      "6971749044",
+      "697 17 49 044",
+      "1849-1919"
+    ],
+    "emails": [
+      "mourikisortho@gmail.com"
+    ],
+    "addresses": [],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/profile.php?id=61561350891869"
+      },
+      {
+        "href": "https://www.google.gr/url?sa=t&source=web&rct=j&opi=89978449&url=https://gr.linkedin.com/in/evangelos-spyridon-mourikis-006192131&ved=2ahUKEwjx5MXKsL-HAxWq9QIHHfTLBTwQFnoECBkQAQ&usg=AOvVaw2GazsPvQprf1NxgSYbviz9"
+      },
+      {
+        "href": "https://www.instagram.com/mourikisortho/"
+      },
+      {
+        "href": "https://www.facebook.com/sharer.php?u=https://www.mourikisortho.gr/services/olistike-prosengise-tou-asthenous"
+      },
+      {
+        "href": "https://twitter.com/share?url=https://www.mourikisortho.gr/services/olistike-prosengise-tou-asthenous&text=%CE%9F%CE%BB%CE%AF%CF%83%CF%84%CE%B9%CE%BA%CE%B7%20%CF%80%CF%81%CE%BF%CF%83%CE%AD%CE%B3%CE%B3%CE%B9%CF%83%CE%B7%20%CF%84%CE%BF%CF%85%20%CE%B1%CF%83%CE%B8%CE%B5%CE%BD%CE%BF%CF%8D%CF%82"
+      },
+      {
+        "href": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.mourikisortho.gr/services/olistike-prosengise-tou-asthenous"
+      },
+      {
+        "href": "https://www.facebook.com/sharer.php?u=https://www.mourikisortho.gr/services/orthobiologikes-therapeies"
+      },
+      {
+        "href": "https://twitter.com/share?url=https://www.mourikisortho.gr/services/orthobiologikes-therapeies&text=%CE%9F%CF%81%CE%B8%CE%BF%CE%B2%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AD%CF%82%20%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82%20prp,%20%CF%85%CE%B1%CE%BB%CE%BF%CF%85%CF%81%CE%BF%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%BF%CE%BE%CF%8D,%20%CF%80%CF%81%CE%BF%CE%BB%CE%BF%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B1"
+      },
+      {
+        "href": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.mourikisortho.gr/services/orthobiologikes-therapeies"
+      },
+      {
+        "href": "https://www.youtube.com/shorts/fYSM7HFahcQ",
+        "label": "Platelet rich plasma treatment for knee arthritis - YouTube"
+      },
+      {
+        "href": "https://www.youtube.com/shorts/cl_HfuR2L_k",
+        "label": "Visco-gel injections for knee arthritis pain"
+      },
+      {
+        "href": "https://www.youtube.com/shorts/A63zggtqY6Q",
+        "label": "How Stem Cells Can Prevent #Osteoarthritis? #KneeInjury #Healthcare"
+      },
+      {
+        "href": "https://www.youtube.com/shorts/Wc7DP8qlSoY",
+        "label": "Forget your knee pain #kneepainrelief #kneepain #explore #newtherapy #shorts #explore"
+      },
+      {
+        "href": "https://www.youtube.com/shorts/00buZW7XhgM",
+        "label": "Releasing upper trapezius with dry needling to reduce neck stiffness #shorts #dryneedling #physio"
+      },
+      {
+        "href": "https://www.facebook.com/sharer.php?u=https://www.mourikisortho.gr/services/syndroma-spondylikes-steles"
+      },
+      {
+        "href": "https://twitter.com/share?url=https://www.mourikisortho.gr/services/syndroma-spondylikes-steles&text=%CE%A3%CF%8D%CE%BD%CE%B4%CF%81%CE%BF%CE%BC%CE%B1%20%CF%83%CF%80%CE%BF%CE%BD%CE%B4%CF%85%CE%BB%CE%B9%CE%BA%CE%AE%CF%82%20%CF%83%CF%84%CE%AE%CE%BB%CE%B7%CF%82"
+      },
+      {
+        "href": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.mourikisortho.gr/services/syndroma-spondylikes-steles"
+      }
+    ],
+    "forms": [
+      {
+        "purposeHint": "generic",
+        "fieldNames": [
+          "name",
+          "email",
+          "phone",
+          "subject",
+          "captcha_question",
+          "message",
+          "recipient",
+          "from_email",
+          "from_name",
+          "addon_id",
+          "captcha_answer",
+          "captcha_type"
+        ],
+        "submitLabels": [
+          "Αποστολή"
+        ],
+        "fields": [
+          {
+            "name": "name",
+            "type": "text",
+            "label": "Name",
+            "required": true
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "label": "Email",
+            "required": true
+          },
+          {
+            "name": "phone",
+            "type": "text",
+            "label": "Phone",
+            "required": true
+          },
+          {
+            "name": "subject",
+            "type": "text",
+            "label": "Subject",
+            "required": true
+          },
+          {
+            "name": "captcha_question",
+            "type": "text",
+            "label": "3 + 4 = ?",
+            "required": true
+          },
+          {
+            "name": "message",
+            "type": "textarea",
+            "label": "Message",
+            "required": true
+          },
+          {
+            "name": "recipient",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "from_email",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "from_name",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "addon_id",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "captcha_answer",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "captcha_type",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Ευάγγελος Μουρίκης - Ορθοπαιδικός",
+    "canonicalUrl": "https://www.mourikisortho.gr/",
+    "language": "en-gb",
+    "openGraphTitle": "Ευάγγελος Μουρίκης - Ορθοπεδικός"
+  },
+  "imageReferences": [
+    {
+      "url": "https://www.mourikisortho.gr/images/mourikis-orthopaedics-3.png",
+      "alt": "Ευάγγελος Μουρίκης - Ορθοπεδικός",
+      "sourcePageUrl": "https://www.mourikisortho.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.mourikisortho.gr/",
+          "retrievedAt": "2026-03-31T13:09:31.189Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mourikisortho.gr/images/2025/03/18/1.jpg",
+      "sourcePageUrl": "https://www.mourikisortho.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.mourikisortho.gr/",
+          "retrievedAt": "2026-03-31T13:09:31.189Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mourikisortho.gr/images/2025/02/20/mmp04492.jpg",
+      "sourcePageUrl": "https://www.mourikisortho.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.mourikisortho.gr/",
+          "retrievedAt": "2026-03-31T13:09:31.189Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mourikisortho.gr/images/2025/03/18/3.jpg",
+      "sourcePageUrl": "https://www.mourikisortho.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.mourikisortho.gr/",
+          "retrievedAt": "2026-03-31T13:09:31.189Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mourikisortho.gr/images/2025/03/18/4.jpg",
+      "sourcePageUrl": "https://www.mourikisortho.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.mourikisortho.gr/",
+          "retrievedAt": "2026-03-31T13:09:31.189Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mourikisortho.gr/images/2025/04/02/holistic-health2.png",
+      "alt": "Ολίστικη προσέγγιση του ασθενούς",
+      "sourcePageUrl": "https://www.mourikisortho.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.mourikisortho.gr/",
+          "retrievedAt": "2026-03-31T13:09:31.189Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mourikisortho.gr/images/2025/04/02/injection2.png",
+      "alt": "Ορθοβιολογικές θεραπείες",
+      "sourcePageUrl": "https://www.mourikisortho.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.mourikisortho.gr/",
+          "retrievedAt": "2026-03-31T13:09:31.189Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mourikisortho.gr/images/2024/08/26/joint.png",
+      "alt": "Αρθροπάθειες και Ανακατασκευή Αρθρώσεων",
+      "sourcePageUrl": "https://www.mourikisortho.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.mourikisortho.gr/",
+          "retrievedAt": "2026-03-31T13:09:31.189Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mourikisortho.gr/images/2024/08/26/childhood-diseases.png",
+      "alt": "Image",
+      "sourcePageUrl": "https://www.mourikisortho.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.mourikisortho.gr/",
+          "retrievedAt": "2026-03-31T13:09:31.189Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mourikisortho.gr/images/2024/08/26/running.png",
+      "alt": "Αθλητικές κακώσεις και αρθροσκόπηση",
+      "sourcePageUrl": "https://www.mourikisortho.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.mourikisortho.gr/",
+          "retrievedAt": "2026-03-31T13:09:31.189Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mourikisortho.gr/images/2025/04/02/spine3.png",
+      "alt": "Image",
+      "sourcePageUrl": "https://www.mourikisortho.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.mourikisortho.gr/",
+          "retrievedAt": "2026-03-31T13:09:31.189Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mourikisortho.gr/images/2024/08/26/osteoporosis.png",
+      "alt": "Οστεοπόρωση",
+      "sourcePageUrl": "https://www.mourikisortho.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.mourikisortho.gr/",
+          "retrievedAt": "2026-03-31T13:09:31.189Z"
+        }
+      ]
+    },
+    {
+      "url": "https://mourikisortho.gr/images/mourikis-orthopaedics-3.png",
+      "alt": "Ευάγγελος Μουρίκης - Ορθοπεδικός",
+      "sourcePageUrl": "https://mourikisortho.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://mourikisortho.gr/contact",
+          "retrievedAt": "2026-03-31T13:09:33.952Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mourikisortho.gr/images/121212.png",
+      "alt": "121212",
+      "sourcePageUrl": "https://www.mourikisortho.gr/services/olistike-prosengise-tou-asthenous",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.mourikisortho.gr/services/olistike-prosengise-tou-asthenous",
+          "retrievedAt": "2026-03-31T13:09:35.197Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mourikisortho.gr/images/1313131.png",
+      "alt": "1313131",
+      "sourcePageUrl": "https://www.mourikisortho.gr/services/syndroma-spondylikes-steles",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.mourikisortho.gr/services/syndroma-spondylikes-steles",
+          "retrievedAt": "2026-03-31T13:09:38.197Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "697 174 9044",
+      "sourcePageUrl": "https://www.mourikisortho.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.mourikisortho.gr/",
+          "retrievedAt": "2026-03-31T13:09:31.189Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "6971749044",
+      "sourcePageUrl": "https://www.mourikisortho.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.mourikisortho.gr/",
+          "retrievedAt": "2026-03-31T13:09:31.189Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "mourikisortho@gmail.com",
+      "sourcePageUrl": "https://www.mourikisortho.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.mourikisortho.gr/",
+          "retrievedAt": "2026-03-31T13:09:31.189Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "697 17 49 044",
+      "sourcePageUrl": "https://www.mourikisortho.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.mourikisortho.gr/contact",
+          "retrievedAt": "2026-03-31T13:09:32.138Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.mourikisortho.gr/contact",
+      "sourcePageUrl": "https://www.mourikisortho.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.mourikisortho.gr/contact",
+          "retrievedAt": "2026-03-31T13:09:32.138Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.mourikisortho.gr/contact",
+      "sourcePageUrl": "https://www.mourikisortho.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.mourikisortho.gr/contact",
+          "retrievedAt": "2026-03-31T13:09:32.138Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://mourikisortho.gr/contact",
+      "sourcePageUrl": "https://mourikisortho.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://mourikisortho.gr/contact",
+          "retrievedAt": "2026-03-31T13:09:33.952Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://mourikisortho.gr/contact",
+      "sourcePageUrl": "https://mourikisortho.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://mourikisortho.gr/contact",
+          "retrievedAt": "2026-03-31T13:09:33.952Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1849-1919",
+      "sourcePageUrl": "https://www.mourikisortho.gr/services/olistike-prosengise-tou-asthenous",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.mourikisortho.gr/services/olistike-prosengise-tou-asthenous",
+          "retrievedAt": "2026-03-31T13:09:35.197Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://www.mourikisortho.gr/",
+    "finalOrigin": "https://www.mourikisortho.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://www.mourikisortho.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:09:30.035Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [],
+      "disallowRules": [
+        "/administrator/",
+        "/api/",
+        "/bin/",
+        "/cache/",
+        "/cli/",
+        "/components/",
+        "/includes/",
+        "/installation/",
+        "/language/",
+        "/layouts/",
+        "/libraries/",
+        "/logs/",
+        "/modules/",
+        "/plugins/",
+        "/tmp/"
+      ],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://www.mourikisortho.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:09:29.733Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://www.mourikisortho.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/services/olistike-prosengise-tou-asthenous",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/services/orthobiologikes-therapeies",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/services/syndroma-spondylikes-steles",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/services/athletikes-kakoseis-kai-arthroskopese",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/services/arthritides-kai-arthroplastikes",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/services/paidorthopaidike",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/services/mikrocheirourgike-ano-kai-kato-akrou",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/services/leitourgikos-belonismos",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/services/elachista-epembatikes-technikes-aktinoskopika-kai-yperechographika-kathodegoumenes-enchyseis",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/services/ybridike-therapeia",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/services/osteoporosis",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/services/katagmata-kakoseis",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/services/olistike-prosengise-tou-asthenous",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/services/orthobiologikes-therapeies",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/services/arthritides-kai-arthroplastikes",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/services/paidorthopaidike",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:31.191Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/contact",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:32.139Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/bio",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.mourikisortho.gr/contact",
+        "timestamp": "2026-03-31T13:09:32.139Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/arthra-video",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.mourikisortho.gr/contact",
+        "timestamp": "2026-03-31T13:09:32.139Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/contact",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:33.953Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/services/syndroma-spondylikes-steles",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://mourikisortho.gr/contact",
+        "timestamp": "2026-03-31T13:09:33.953Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/services/athletikes-kakoseis-kai-arthroskopese",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://mourikisortho.gr/contact",
+        "timestamp": "2026-03-31T13:09:33.953Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/services/mikrocheirourgike-ano-kai-kato-akrou",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://mourikisortho.gr/contact",
+        "timestamp": "2026-03-31T13:09:33.953Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/services/leitourgikos-belonismos",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://mourikisortho.gr/contact",
+        "timestamp": "2026-03-31T13:09:33.953Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/services/elachista-epembatikes-technikes-aktinoskopika-kai-yperechographika-kathodegoumenes-enchyseis",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://mourikisortho.gr/contact",
+        "timestamp": "2026-03-31T13:09:33.953Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/services/ybridike-therapeia",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://mourikisortho.gr/contact",
+        "timestamp": "2026-03-31T13:09:33.953Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/services/osteoporosis",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://mourikisortho.gr/contact",
+        "timestamp": "2026-03-31T13:09:33.953Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/services/katagmata-kakoseis",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://mourikisortho.gr/contact",
+        "timestamp": "2026-03-31T13:09:33.953Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/bio",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://mourikisortho.gr/contact",
+        "timestamp": "2026-03-31T13:09:33.953Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mourikisortho.gr/contact",
+        "timestamp": "2026-03-31T13:09:33.953Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/arthra-video",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mourikisortho.gr/contact",
+        "timestamp": "2026-03-31T13:09:33.953Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/services/olistike-prosengise-tou-asthenous",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:35.198Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/services/orthobiologikes-therapeies",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:36.583Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/services/syndroma-spondylikes-steles",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.mourikisortho.gr/",
+        "timestamp": "2026-03-31T13:09:38.199Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:09:42.277Z"
+      },
+      {
+        "url": "https://www.mourikisortho.gr/contact",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:09:43.939Z"
+      },
+      {
+        "url": "https://mourikisortho.gr/contact",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:09:47.657Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

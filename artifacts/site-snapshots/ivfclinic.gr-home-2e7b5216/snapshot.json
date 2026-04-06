@@ -1,0 +1,1354 @@
+{
+  "domain": "ivfclinic.gr",
+  "collectedAt": "2026-03-31T13:08:25.134Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ivfclinic.gr-home-2e7b5216",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://ivfclinic.gr/",
+      "finalUrl": "https://ivfclinic.gr/index.php/en",
+      "fetchedAt": "2026-03-31T13:08:16.408Z",
+      "metadata": {
+        "title": "Home en",
+        "metaDescription": "IVFclinic in Greece -public $MetaDesc =",
+        "language": "en"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Let's make our dream come true."
+        },
+        {
+          "level": "h2",
+          "text": "About IVF Clinic, Institute of Life, in Athens."
+        },
+        {
+          "level": "h2",
+          "text": "We are proud to show you all future ivf treatments."
+        },
+        {
+          "level": "h2",
+          "text": "For more information, just follow us."
+        },
+        {
+          "level": "h2",
+          "text": "Athens - Greece"
+        },
+        {
+          "level": "h3",
+          "text": "01 - Our Treatments"
+        },
+        {
+          "level": "h3",
+          "text": "02 - Our Clinic"
+        },
+        {
+          "level": "h3",
+          "text": "03 - All you need to know / Download pdf"
+        },
+        {
+          "level": "h3",
+          "text": "Egg freezing"
+        },
+        {
+          "level": "h3",
+          "text": "Egg Donation"
+        },
+        {
+          "level": "h3",
+          "text": "In Vitro Fertilization (IVF)"
+        },
+        {
+          "level": "h3",
+          "text": "ESHRE 41st Annual Meeting"
+        },
+        {
+          "level": "h3",
+          "text": "4th Panhellenic Symposium on Assisted Reproduction: \"IVF, 47 Years Later\""
+        },
+        {
+          "level": "h3",
+          "text": "40th Annual Meeting of ESHRE"
+        },
+        {
+          "level": "h3",
+          "text": "ESHRE Campus workshop 2024"
+        },
+        {
+          "level": "h3",
+          "text": "39th Annual Meeting of ESHRE"
+        },
+        {
+          "level": "h3",
+          "text": "Fertility Festival"
+        },
+        {
+          "level": "h3",
+          "text": "4th Congress of the Hellenic Society of IVF Doctors and of the Hellenic Society of Clinical Embryologists"
+        },
+        {
+          "level": "h3",
+          "text": "Open Map"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://ivfclinic.gr/index.php/en/"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/home-en",
+          "label": "Home"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/treatments",
+          "label": "Treatments"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/treatments/egg-donation-treatment-in-greece",
+          "label": "Egg donation treatment in Greece"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/treatments/egg-freezing-in-greece",
+          "label": "Egg freezing in Greece"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/treatments/ivf-in-greece",
+          "label": "IVF in Greece"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/treatments/preimplantation-genetic-diagnosis-pgd-pgs",
+          "label": "Preimplantation Genetic Diagnosis (PGD/PGS)"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/treatments/endometrial-receptivity-map-er-map,-era-test",
+          "label": "Endometrial Receptivity Map (ER Map, ERA test)"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/treatments/intrauterine-insemination-iui",
+          "label": "Intrauterine Insemination (IUI)"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/treatments/duostim-protocol-for-women-over-40",
+          "label": "DUOSTIM Protocol for Women Over 40"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/our-team",
+          "label": "Our Team"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/about-ivf-clinic",
+          "label": "About IVF clinic"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/about-ivf-clinic/our-laboratory",
+          "label": "Our laboratory"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/contact",
+          "label": "Contact"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/el/"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/de/"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/bg/"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/sr/"
+        },
+        {
+          "href": "https://www.ivfclinic.gr/index.php/en/treatments",
+          "label": "More Information"
+        },
+        {
+          "href": "https://ivfclinic.gr/cdn-cgi/l/email-protection#7e171018113e1708181d121710171d50190c",
+          "label": "This email address is being protected from spambots. You need JavaScript enabled to view it."
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "17887980086",
+          "+30) 697-5883030",
+          "12/10/2019",
+          "20-22/02/2020",
+          "+30) 697 5883030",
+          "+306975883030"
+        ],
+        "emails": [],
+        "addresses": [
+          "37-39 Kifisias Avenue,"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/IVF-clinic-in-Greece-101493671260734/?modal=admin_todo_tour"
+          },
+          {
+            "href": "https://www.linkedin.com/in/dr-stelios-papadopoulos-55a7a4ab/"
+          }
+        ],
+        "forms": []
+      },
+      "textContent": "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-17887980086'); Skip to main content Home Treatments Egg donation treatment in Greece Egg freezing in Greece IVF in Greece Preimplantation Genetic Diagnosis (PGD/PGS) Endometrial Receptivity Map (ER Map, ERA test) Intrauterine Insemination (IUI) DUOSTIM Protocol for Women Over 40 Our Team About IVF clinic Our laboratory Contact Home Treatments Egg donation treatment in Greece Egg freezing in Greece IVF in Greece Preimplantation Genetic Diagnosis (PGD/PGS) Endometrial Receptivity Map (ER Map, ERA test) Intrauterine Insemination (IUI) DUOSTIM Protocol for Women Over 40 Our Team About IVF clinic Our laboratory Contact EN GR DE BG SR (+30) 697-5883030 IVFclinic in Greece Our experience allows us to overcome all difficulties successfully! Book an online meeting IVFclinic in Greece Our experience allows us to overcome all difficulties successfully! More Information IVFclinic in Greece Our experience allows us to overcome all difficulties successfully! Book an online meeting Our experience allows us to overcome all difficulties successfully! Our experience allows us to overcome all difficulties successfully! Our experience allows us to overcome all difficulties successfully! IVFclinic in Greece About IVF Clinic, Institute of Life, in Athens. An experienced and qualified team of doctors are waiting for you at the IVFclinic in a state-of-the-art lab, to offer you guidance right from the first appointment. We are standing by you to answer all your questions and help you choose the right treatment together.Technical know-how, experience, speed and, above all, reliability are what make the IVFclinic the most comprehensive unit for infertility issues of both sexes. 01 - Our Treatments 02 - Our Clinic 03 - All you need to know / Download pdf Egg freezing Egg Donation In Vitro Fertilization (IVF) Treatments We are proud to show you all future ivf treatments. IVFclinic in Greece offers top quality medical services with high safety standards. Continuous collaboration with all departments and doctors of various specialties contributes to the treatment of the most difficult medical incidents. Read more Latest News For more information, just follow us. ESHRE 41st Annual Meeting 29 June - 2 July 2025 / Paris 4th Panhellenic Symposium on Assisted Reproduction: \"IVF, 47 Years Later\" 6 - 8 March 2025 / Athens 40th Annual Meeting of ESHRE 7 - 10 July 2024 RAI Conference centre, Amsterdam ESHRE Campus workshop 2024 31 October - 2 November 2024 | Athens, Greece 39th Annual Meeting of ESHRE 25 - 28 June 2023 Copenhagen 39th Annual Meeting of ESHRE 25 - 28 June 2023 Copenhagen Fertility Festival 12/10/2019 Belgrade 4th Congress of the Hellenic Society of IVF Doctors and of the Hellenic Society of Clinical Embryologists 20-22/02/2020 Athens Our IVFclinic in Greece Let's make our dream come true. At IVFclinic in Greece, we have been there to make your dream come true for over 20 years. Our recognized infertility specialists, closely with you, develop a personalized fertility treatment plan. Our city of Athens, in Greece, is a leading destination for tourists around the world and our fertility center offers the chance to be a destination to happiness!!! Open Map Athens - Greece 37-39 Kifisias Avenue, Marousi, AthensLazaraki & Dousmani 16, Glyfada, AthensEleftheriou Venizelou Avenue 5, Melissia, Athens (+30) 697 5883030 This email address is being protected from spambots. You need JavaScript enabled to view it.",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ivfclinic.gr-home-2e7b5216/homepage-index-php-en-09dae6f3.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ivfclinic.gr-home-2e7b5216/homepage-index-php-en-09dae6f3.txt",
+      "imageReferences": [
+        {
+          "url": "https://ivfclinic.gr/templates/yootheme/cache/e9/IVF_CLINIC_INGREECE_2023-e98e2091.png",
+          "alt": "IVF clinic in Greece",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en",
+              "retrievedAt": "2026-03-31T13:08:16.407Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/media/mod_languages/images/el_gr.gif",
+          "alt": "GR",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en",
+              "retrievedAt": "2026-03-31T13:08:16.407Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/media/mod_languages/images/en_gb.gif",
+          "alt": "EN",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en",
+              "retrievedAt": "2026-03-31T13:08:16.407Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/media/mod_languages/images/de_de.gif",
+          "alt": "DE",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en",
+              "retrievedAt": "2026-03-31T13:08:16.407Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/media/mod_languages/images/bg_bg.gif",
+          "alt": "BG",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en",
+              "retrievedAt": "2026-03-31T13:08:16.407Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/media/mod_languages/images/sr_yu.gif",
+          "alt": "SR",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en",
+              "retrievedAt": "2026-03-31T13:08:16.407Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/templates/yootheme/cache/a0/IVF_CLINIC_IN_GREECE_2023-a04770b9.png",
+          "alt": "IVF clinic in Greece",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en",
+              "retrievedAt": "2026-03-31T13:08:16.407Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/images/yootheme/header-receiver.svg",
+          "alt": "header-receiver",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en",
+              "retrievedAt": "2026-03-31T13:08:16.407Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/templates/yootheme/cache/22/iol_fp_6_demo-220f841b.png",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en",
+              "retrievedAt": "2026-03-31T13:08:16.407Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/templates/yootheme/cache/e1/ivf_lab-e1018e54.jpeg",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en",
+              "retrievedAt": "2026-03-31T13:08:16.407Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/templates/yootheme/cache/6b/iol_fp_ivfclinic-6b90dbb3.png",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en",
+              "retrievedAt": "2026-03-31T13:08:16.407Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/templates/yootheme/cache/b9/engineering_ivf-b9a0906e.jpeg",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en",
+              "retrievedAt": "2026-03-31T13:08:16.407Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.408Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ivfclinic.gr-home-2e7b5216/homepage-index-php-en-09dae6f3.png"
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "https://ivfclinic.gr/index.php/en/treatments",
+      "finalUrl": "https://ivfclinic.gr/index.php/en/treatments",
+      "fetchedAt": "2026-03-31T13:08:17.538Z",
+      "metadata": {
+        "title": "Treatments",
+        "metaDescription": "IVFclinic in Greece -public $MetaDesc =",
+        "language": "en"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Fully personalized therapies, performed with complete safety using the most advanced technology."
+        },
+        {
+          "level": "h2",
+          "text": "Egg donation treatment"
+        },
+        {
+          "level": "h2",
+          "text": "In vitro fertilization (IVF) in Greece"
+        },
+        {
+          "level": "h2",
+          "text": "Egg Freezing in Greece"
+        },
+        {
+          "level": "h2",
+          "text": "Dr. Stelios Papadopoulos, MD, DFFP, BSCCP"
+        },
+        {
+          "level": "h3",
+          "text": "Address"
+        },
+        {
+          "level": "h3",
+          "text": "Social"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://ivfclinic.gr/index.php/en/"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/home-en",
+          "label": "Home"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/treatments",
+          "label": "Treatments"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/treatments/egg-donation-treatment-in-greece",
+          "label": "Egg donation treatment in Greece"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/treatments/egg-freezing-in-greece",
+          "label": "Egg freezing in Greece"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/treatments/ivf-in-greece",
+          "label": "IVF in Greece"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/treatments/preimplantation-genetic-diagnosis-pgd-pgs",
+          "label": "Preimplantation Genetic Diagnosis (PGD/PGS)"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/treatments/endometrial-receptivity-map-er-map,-era-test",
+          "label": "Endometrial Receptivity Map (ER Map, ERA test)"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/treatments/intrauterine-insemination-iui",
+          "label": "Intrauterine Insemination (IUI)"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/treatments/duostim-protocol-for-women-over-40",
+          "label": "DUOSTIM Protocol for Women Over 40"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/our-team",
+          "label": "Our Team"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/about-ivf-clinic",
+          "label": "About IVF clinic"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/about-ivf-clinic/our-laboratory",
+          "label": "Our laboratory"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/contact",
+          "label": "Contact"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/el/"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/de/"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/bg/"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/sr/"
+        },
+        {
+          "href": "https://ivfclinic.gr/index.php/en/?Itemid=122"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "17887980086",
+          "+30) 697-5883030",
+          "+30) 697 588 3030",
+          "+306975883030"
+        ],
+        "emails": [],
+        "addresses": [],
+        "socialLinks": [],
+        "forms": []
+      },
+      "textContent": "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-17887980086'); Skip to main content Home Treatments Egg donation treatment in Greece Egg freezing in Greece IVF in Greece Preimplantation Genetic Diagnosis (PGD/PGS) Endometrial Receptivity Map (ER Map, ERA test) Intrauterine Insemination (IUI) DUOSTIM Protocol for Women Over 40 Our Team About IVF clinic Our laboratory Contact Home Treatments Egg donation treatment in Greece Egg freezing in Greece IVF in Greece Preimplantation Genetic Diagnosis (PGD/PGS) Endometrial Receptivity Map (ER Map, ERA test) Intrauterine Insemination (IUI) DUOSTIM Protocol for Women Over 40 Our Team About IVF clinic Our laboratory Contact EN GR DE BG SR (+30) 697-5883030 #page\\#0{min-height: 500px;}#page\\#1{min-height: 500px;}#page\\#2{min-height: 500px;} Treatments IVFclinic in Greece Fully personalized therapies, performed with complete safety using the most advanced technology. Egg donation treatment Egg donation is a fertility treatment consisting in-vitro donation of oocytes (eggs) from an anonymous donor. It is a safe, reliable fertility treatment with high rates of success. Learn More In vitro fertilization (IVF) in Greece One of the best-known fertility treatments is in vitro fertilisation, also known as IVF, a technique whereby an egg is extracted from the uterus and then, fertilised in the laboratory (in vitro) with semen from the partner or donor. Learn More Egg Freezing in Greece Continuous advances in IVF often result in a high number of good quality embryos in each treatment cycle. Of these the embryologist will select the \"best\" to be transferred to the woman's body. Learn More Contact Person Dr. Stelios Papadopoulos, MD, DFFP, BSCCP (+30) 697 588 3030 - This email address is being protected from spambots. You need JavaScript enabled to view it. We help you to form a family! Address 37-39 Kifisias Avenue,Marousi, Athens GREECE Social Facebook",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ivfclinic.gr-home-2e7b5216/services-index-php-en-treatments-e0dc544b.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ivfclinic.gr-home-2e7b5216/services-index-php-en-treatments-e0dc544b.txt",
+      "imageReferences": [
+        {
+          "url": "https://ivfclinic.gr/templates/yootheme/cache/e9/IVF_CLINIC_INGREECE_2023-e98e2091.png",
+          "alt": "IVF clinic in Greece",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en/treatments",
+              "retrievedAt": "2026-03-31T13:08:17.536Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/media/mod_languages/images/el_gr.gif",
+          "alt": "GR",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en/treatments",
+              "retrievedAt": "2026-03-31T13:08:17.536Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/media/mod_languages/images/en_gb.gif",
+          "alt": "EN",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en/treatments",
+              "retrievedAt": "2026-03-31T13:08:17.536Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/media/mod_languages/images/de_de.gif",
+          "alt": "DE",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en/treatments",
+              "retrievedAt": "2026-03-31T13:08:17.536Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/media/mod_languages/images/bg_bg.gif",
+          "alt": "BG",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en/treatments",
+              "retrievedAt": "2026-03-31T13:08:17.536Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/media/mod_languages/images/sr_yu.gif",
+          "alt": "SR",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en/treatments",
+              "retrievedAt": "2026-03-31T13:08:17.536Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/templates/yootheme/cache/a0/IVF_CLINIC_IN_GREECE_2023-a04770b9.png",
+          "alt": "IVF clinic in Greece",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en/treatments",
+              "retrievedAt": "2026-03-31T13:08:17.536Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/images/yootheme/header-receiver.svg",
+          "alt": "header-receiver",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en/treatments",
+              "retrievedAt": "2026-03-31T13:08:17.536Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/templates/yootheme/cache/c3/stelios_papadopoulos-c3341d92.png",
+          "alt": "Dr.Stelios Papadopoulos, MD, DFFP, BSCCP",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en/treatments",
+              "retrievedAt": "2026-03-31T13:08:17.536Z"
+            }
+          ]
+        },
+        {
+          "url": "https://ivfclinic.gr/templates/yootheme/cache/73/LOGO_IVF_GREECE-73c713b6.png",
+          "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://ivfclinic.gr/index.php/en/treatments",
+              "retrievedAt": "2026-03-31T13:08:17.536Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://ivfclinic.gr/index.php/en/treatments",
+          "retrievedAt": "2026-03-31T13:08:17.538Z"
+        }
+      ],
+      "statusCode": 200
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "17887980086",
+      "+30) 697-5883030",
+      "12/10/2019",
+      "20-22/02/2020",
+      "+30) 697 5883030",
+      "+306975883030",
+      "+30) 697 588 3030",
+      "3305/2005"
+    ],
+    "emails": [],
+    "addresses": [
+      "37-39 Kifisias Avenue,"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/IVF-clinic-in-Greece-101493671260734/?modal=admin_todo_tour"
+      },
+      {
+        "href": "https://www.linkedin.com/in/dr-stelios-papadopoulos-55a7a4ab/"
+      }
+    ],
+    "forms": []
+  },
+  "metadata": {
+    "title": "Home en",
+    "metaDescription": "IVFclinic in Greece -public $MetaDesc =",
+    "language": "en"
+  },
+  "imageReferences": [
+    {
+      "url": "https://ivfclinic.gr/templates/yootheme/cache/e9/IVF_CLINIC_INGREECE_2023-e98e2091.png",
+      "alt": "IVF clinic in Greece",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.407Z"
+        }
+      ]
+    },
+    {
+      "url": "https://ivfclinic.gr/media/mod_languages/images/el_gr.gif",
+      "alt": "GR",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.407Z"
+        }
+      ]
+    },
+    {
+      "url": "https://ivfclinic.gr/media/mod_languages/images/en_gb.gif",
+      "alt": "EN",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.407Z"
+        }
+      ]
+    },
+    {
+      "url": "https://ivfclinic.gr/media/mod_languages/images/de_de.gif",
+      "alt": "DE",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.407Z"
+        }
+      ]
+    },
+    {
+      "url": "https://ivfclinic.gr/media/mod_languages/images/bg_bg.gif",
+      "alt": "BG",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.407Z"
+        }
+      ]
+    },
+    {
+      "url": "https://ivfclinic.gr/media/mod_languages/images/sr_yu.gif",
+      "alt": "SR",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.407Z"
+        }
+      ]
+    },
+    {
+      "url": "https://ivfclinic.gr/templates/yootheme/cache/a0/IVF_CLINIC_IN_GREECE_2023-a04770b9.png",
+      "alt": "IVF clinic in Greece",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.407Z"
+        }
+      ]
+    },
+    {
+      "url": "https://ivfclinic.gr/images/yootheme/header-receiver.svg",
+      "alt": "header-receiver",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.407Z"
+        }
+      ]
+    },
+    {
+      "url": "https://ivfclinic.gr/templates/yootheme/cache/22/iol_fp_6_demo-220f841b.png",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.407Z"
+        }
+      ]
+    },
+    {
+      "url": "https://ivfclinic.gr/templates/yootheme/cache/e1/ivf_lab-e1018e54.jpeg",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.407Z"
+        }
+      ]
+    },
+    {
+      "url": "https://ivfclinic.gr/templates/yootheme/cache/6b/iol_fp_ivfclinic-6b90dbb3.png",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.407Z"
+        }
+      ]
+    },
+    {
+      "url": "https://ivfclinic.gr/templates/yootheme/cache/b9/engineering_ivf-b9a0906e.jpeg",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.407Z"
+        }
+      ]
+    },
+    {
+      "url": "https://ivfclinic.gr/templates/yootheme/cache/c3/stelios_papadopoulos-c3341d92.png",
+      "alt": "Dr.Stelios Papadopoulos, MD, DFFP, BSCCP",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en/treatments",
+          "retrievedAt": "2026-03-31T13:08:17.536Z"
+        }
+      ]
+    },
+    {
+      "url": "https://ivfclinic.gr/templates/yootheme/cache/73/LOGO_IVF_GREECE-73c713b6.png",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en/treatments",
+          "retrievedAt": "2026-03-31T13:08:17.536Z"
+        }
+      ]
+    },
+    {
+      "url": "https://ivfclinic.gr/templates/yootheme/cache/59/baby-1851485_1920-59868a57.jpeg",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments/egg-donation-treatment-in-greece",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en/treatments/egg-donation-treatment-in-greece",
+          "retrievedAt": "2026-03-31T13:08:18.886Z"
+        }
+      ]
+    },
+    {
+      "url": "https://ivfclinic.gr/templates/yootheme/cache/f1/freezing_egg_in_Greece-f1d29388.png",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments/egg-freezing-in-greece",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en/treatments/egg-freezing-in-greece",
+          "retrievedAt": "2026-03-31T13:08:20.431Z"
+        }
+      ]
+    },
+    {
+      "url": "https://ivfclinic.gr/templates/yootheme/cache/59/ivf_treatment_in_greece_papadopoulos-599c76e2.png",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments/ivf-in-greece",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en/treatments/ivf-in-greece",
+          "retrievedAt": "2026-03-31T13:08:21.888Z"
+        }
+      ]
+    },
+    {
+      "url": "https://ivfclinic.gr/templates/yootheme/cache/74/124046807_s-74594c9a.jpeg",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments/preimplantation-genetic-diagnosis-pgd-pgs",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://ivfclinic.gr/index.php/en/treatments/preimplantation-genetic-diagnosis-pgd-pgs",
+          "retrievedAt": "2026-03-31T13:08:23.416Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "17887980086",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.406Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30) 697-5883030",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.406Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "12/10/2019",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.406Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "20-22/02/2020",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.406Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30) 697 5883030",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.406Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+306975883030",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.406Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "37-39 Kifisias Avenue,",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://ivfclinic.gr/index.php/en",
+          "retrievedAt": "2026-03-31T13:08:16.406Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30) 697 588 3030",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://ivfclinic.gr/index.php/en/treatments",
+          "retrievedAt": "2026-03-31T13:08:17.536Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "3305/2005",
+      "sourcePageUrl": "https://ivfclinic.gr/index.php/en/treatments/egg-freezing-in-greece",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://ivfclinic.gr/index.php/en/treatments/egg-freezing-in-greece",
+          "retrievedAt": "2026-03-31T13:08:20.431Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://ivfclinic.gr/",
+    "finalOrigin": "https://ivfclinic.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://ivfclinic.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:08:15.665Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [],
+      "disallowRules": [
+        "/administrator/",
+        "/bin/",
+        "/cache/",
+        "/cli/",
+        "/components/",
+        "/includes/",
+        "/installation/",
+        "/language/",
+        "/layouts/",
+        "/libraries/",
+        "/logs/",
+        "/modules/",
+        "/plugins/",
+        "/tmp/"
+      ],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://ivfclinic.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:08:15.202Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://ivfclinic.gr/index.php/en",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://ivfclinic.gr/",
+        "timestamp": "2026-03-31T13:08:16.408Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/treatments",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.408Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/treatments/egg-donation-treatment-in-greece",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.408Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/treatments/egg-freezing-in-greece",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.408Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/treatments/ivf-in-greece",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.408Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/treatments/preimplantation-genetic-diagnosis-pgd-pgs",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.408Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/treatments/endometrial-receptivity-map-er-map,-era-test",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.408Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/treatments/intrauterine-insemination-iui",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.408Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/treatments/duostim-protocol-for-women-over-40",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.408Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/about-ivf-clinic",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.408Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/about-ivf-clinic/our-laboratory",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.408Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.408Z"
+      },
+      {
+        "url": "https://www.ivfclinic.gr/index.php/en/treatments",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.408Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/our-team",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.408Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/cdn-cgi/l/email-protection",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.408Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/home-en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.408Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.408Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.409Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/de",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:16.409Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/treatments",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:17.538Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/bg",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en/treatments",
+        "timestamp": "2026-03-31T13:08:17.538Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/sr",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en/treatments",
+        "timestamp": "2026-03-31T13:08:17.538Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en?Itemid=122",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://ivfclinic.gr/index.php/en/treatments",
+        "timestamp": "2026-03-31T13:08:17.538Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/treatments/egg-donation-treatment-in-greece",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:18.887Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/treatments/egg-freezing-in-greece",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:20.432Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/treatments/ivf-in-greece",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:21.890Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en/treatments/preimplantation-genetic-diagnosis-pgd-pgs",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://ivfclinic.gr/index.php/en",
+        "timestamp": "2026-03-31T13:08:23.418Z"
+      },
+      {
+        "url": "https://ivfclinic.gr/index.php/en",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:08:25.104Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

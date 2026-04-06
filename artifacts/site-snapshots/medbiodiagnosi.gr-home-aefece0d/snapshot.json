@@ -1,0 +1,1833 @@
+{
+  "domain": "medbiodiagnosi.gr",
+  "collectedAt": "2026-03-31T13:21:30.355Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/medbiodiagnosi.gr-home-aefece0d",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://medbiodiagnosi.gr/",
+      "finalUrl": "https://medbiodiagnosi.gr/",
+      "fetchedAt": "2026-03-31T13:21:06.968Z",
+      "metadata": {
+        "title": "MED ΒΙΟΔΙΑΓΝΩΣΗ - ΔΙΑΓΝΩΣΤΙΚΟ ΜΙΚΡΟΒΙΟΛΟΓΙΚΟ ΚΕΝΤΡΟ - MED ΒΙΟΔΙΑΓΝΩΣΗ ΚΥΨΕΛΗ - ΧΙΟΣ - ΔΙΑΓΝΩΣΤΙΚΟ ΜΙΚΡΟΒΙΟΛΟΓΙΚΟ ΚΕΝΤΡΟ",
+        "canonicalUrl": "https://medbiodiagnosi.gr/",
+        "language": "el",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "MED ΒΙΟΔΙΑΓΝΩΣΗ - ΔΙΑΓΝΩΣΤΙΚΟ ΜΙΚΡΟΒΙΟΛΟΓΙΚΟ ΚΕΝΤΡΟ - MED ΒΙΟΔΙΑΓΝΩΣΗ ΚΥΨΕΛΗ - ΧΙΟΣ - ΔΙΑΓΝΩΣΤΙΚΟ ΜΙΚΡΟΒΙΟΛΟΓΙΚΟ ΚΕΝΤΡΟ",
+        "openGraphImage": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/med-biodiagnosi.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "ΔΙΑΓΝΩΣΤΙΚΑ ΚΕΝΤΡΑ ΩΡΑΡΙΟ ΛΕΙΤΟΥΡΓΙΑΣ"
+        },
+        {
+          "level": "h1",
+          "text": "Προτεινόμενα Πακέτα Εξετάσεων"
+        },
+        {
+          "level": "h2",
+          "text": "Καλάθι"
+        },
+        {
+          "level": "h2",
+          "text": "Τμήματα"
+        },
+        {
+          "level": "h2",
+          "text": "Εξετάσεις"
+        },
+        {
+          "level": "h3",
+          "text": "Mοριακό Τεστ"
+        },
+        {
+          "level": "h3",
+          "text": "Rapid Τεστ"
+        },
+        {
+          "level": "h3",
+          "text": "Τεστ Γρίπης"
+        },
+        {
+          "level": "h3",
+          "text": "ΑΠΟΤΕΛΕΣΜΑΤΑ"
+        },
+        {
+          "level": "h3",
+          "text": "Ανέπαφη πληρωμή Online"
+        },
+        {
+          "level": "h3",
+          "text": "ΠΛΗΡΕΣ CHECK UP #1"
+        },
+        {
+          "level": "h3",
+          "text": "ΠΛΗΡΕΣ CHECK UP #2"
+        },
+        {
+          "level": "h3",
+          "text": "ΠΛΗΡΗΣ ΕΛΕΓΧΟΣ ΘΥΡΕΟΕΙΔΗ"
+        },
+        {
+          "level": "h3",
+          "text": "ΠΛΗΡΕΣ CHECK UP #3"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://medbiodiagnosi.gr/",
+          "label": "ΑΡΧΙΚΗ"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/anosologiko/",
+          "label": "Ανοσολογικό"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/ogkologiko/",
+          "label": "Ογκολογικό"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/orologiko/",
+          "label": "Ορολογικό"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/tmima-gonimotitas/",
+          "label": "Τμήμα γονιμότητας"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/tmima-yperichon/",
+          "label": "Τμήμα Υπερήχων"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/ergastiriaki-ypodomi/",
+          "label": "ΕΡΓΑΣΤΗΡΙΑΚΗ ΥΠΟΔΟΜΗ"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/aimatologikes-exetaseis/",
+          "label": "Αιματολογικές εξετάσεις"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/geniki-oyron/",
+          "label": "Γενική ούρων"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/thyreoeidis-exetaseis/",
+          "label": "Θυρεοειδής & Εξετάσεις"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/oi-aparaitites-exetaseis/",
+          "label": "Oι απαραίτητες εξετάσεις"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/oi-aparaitites-exetaseis-gia-ta-paidia/",
+          "label": "Oι απαραίτητες εξετάσεις για τα Παιδιά"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/agora-online/",
+          "label": "ΠΡΟΣΦΟΡΕΣ"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/xrisimes-plirofories/",
+          "label": "ΧΡΗΣΙΜΑ"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/rantevoy-online/",
+          "label": "ΡΑΝΤΕΒΟΥ ONLINE"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/cart/",
+          "label": "0"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/product/plires-check-up-1/",
+          "label": "ΑΓΟΡΑ ONLINE"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/product/moriako-test-pcr-covid-19/",
+          "label": "25,00€ – ΑΓΟΡΑ ONLINE"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/product/rapid-test-anichneysis-antigonoy-ag-covid-19/",
+          "label": "6,00€ – Αντιγόνου Ag"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/product/plires-check-up-2/",
+          "label": "ΑΓΟΡΑ ONLINE"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/product/pliris-elegchos-thyroeidi/",
+          "label": "ΑΓΟΡΑ ONLINE"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/product/plires-check-up-3/",
+          "label": "ΑΓΟΡΑ ONLINE"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://medbiodiagnosi.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "post_type",
+            "dgwt_wcas"
+          ],
+          "submitLabels": [
+            "Αναζήτηση"
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Αναζήτηση πακέτων εξετάσεων...",
+              "required": false
+            },
+            {
+              "name": "post_type",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "dgwt_wcas",
+              "type": "hidden",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "210 867 6090",
+          "210 341 9458",
+          "2271 0 29991",
+          "1699444971431",
+          "1613147801185",
+          "1613147808273",
+          "1613147817905",
+          "1612929987549",
+          "306182 0",
+          "306182 100"
+        ],
+        "emails": [
+          "kipselibiodiagnosi@gmail.com",
+          "petralonabiodiagnosi1@gmail.com",
+          "xiosbiodiagnosi@gmail.com"
+        ],
+        "addresses": [],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/Medbiodiagnosi"
+          },
+          {
+            "href": "https://www.instagram.com/med_biodiagnosi"
+          },
+          {
+            "href": "https://www.facebook.com/profile.php?id=100094716355594"
+          },
+          {
+            "href": "https://instagram.com/med_biodiagnosi"
+          },
+          {
+            "href": "https://www.facebook.com/%CE%92%CE%B9%CE%BF%CE%B4%CE%B9%CE%B1%CE%B3%CE%BD%CF%89%CF%83%CE%B7-%CE%9C%CE%B9%CE%BA%CF%81%CE%BF%CE%B2%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%B1-%CE%95%CF%81%CE%B3%CE%B1%CF%83%CF%84%CE%AE%CF%81%CE%B9%CE%B1-234938136928892/"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://medbiodiagnosi.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "post_type",
+              "dgwt_wcas"
+            ],
+            "submitLabels": [
+              "Αναζήτηση"
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Αναζήτηση πακέτων εξετάσεων...",
+                "required": false
+              },
+              {
+                "name": "post_type",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "dgwt_wcas",
+                "type": "hidden",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "textContent": "ΑΡΧΙΚΗ ΤΜΗΜΑΤΑ Ανοσολογικό Ογκολογικό Ορολογικό Τμήμα γονιμότητας Τμήμα Υπερήχων ΕΡΓΑΣΤΗΡΙΑΚΗ ΥΠΟΔΟΜΗ ΕΞΕΤΑΣΕΙΣ Αιματολογικές εξετάσεις Γενική ούρων Θυρεοειδής & Εξετάσεις Oι απαραίτητες εξετάσεις Oι απαραίτητες εξετάσεις για τα Παιδιά ΠΡΟΣΦΟΡΕΣ ΧΡΗΣΙΜΑ ΡΑΝΤΕΒΟΥ ONLINE 0 Καλάθι ΑΡΧΙΚΗ ΤΜΗΜΑΤΑ Ανοσολογικό Ογκολογικό Ορολογικό Τμήμα γονιμότητας Τμήμα Υπερήχων ΕΡΓΑΣΤΗΡΙΑΚΗ ΥΠΟΔΟΜΗ ΕΞΕΤΑΣΕΙΣ Αιματολογικές εξετάσεις Γενική ούρων Θυρεοειδής & Εξετάσεις Oι απαραίτητες εξετάσεις Oι απαραίτητες εξετάσεις για τα Παιδιά ΠΡΟΣΦΟΡΕΣ ΧΡΗΣΙΜΑ ΡΑΝΤΕΒΟΥ ONLINE Καλώς ήλθατε στη Med ΒΙΟΔΙΑΓΝΩΣΗ Σύγχρονα διαγνωστικά εργαστήρια, άρτια εξοπλισμένα με αναλυτές τελευταίας τεχνολογίας και εξειδικευμένο προσωπικό ΠΛΗΡΕΣ CHECK UP €100,00 €30,00 Σάκχαρο ◆ Χοληστερίνη ◆ Ουρικό ◆ Ουρία ◆ Κρεατινίνη ◆ Καλή Χοληστερίνη ◆ Σίδηρο ◆ SGOt τρανσαμινάση ◆ SGPT τρανσαμινάση ◆ γ- GT ◆ Γενική αίματος ◆ Γενική ούρων ◆ Αλκαλική Φωσφατάση ◆ Ταχύτητα Καθιζήσεως ερθυρών ◆ Ασβέστιο ◆ Κάλιο ◆ Φώσφορο ◆ Μαγνήσιο ◆ Νάτριο ◆ Τριγλυκερίδια ◆ Αλβουμίνη ◆ Ολική Χολεριθρίνη ◆ LDH ◆ CPK ◆ CRP ΑΓΟΡΑ ONLINE ΑΓΟΡΑ ONLINE Μεγάλη γκάμα εργαστηριακών εξετάσεων (αιματολογικές, μικροβιολογικές, βιοχημικές, ανοσολογικές κ.ά.) Πλήρη οργανωμένα διαγνωστικά κέντρα Οι εξετάσεις εκτελούνται και να παραδίδονται στον ασθενή ταχύτατα, διασφαλίζοντας την εγκυρότητα και την ποιότητα των αποτελεσμάτων Νέο Διαγνωστικό κέντρο Κάτω Πετράλωνα Καλώς ήλθατε στη Med ΒΙΟΔΙΑΓΝΩΣΗ Σύγχρονα διαγνωστικά εργαστήρια, άρτια εξοπλισμένα με αναλυτές τελευταίας τεχνολογίας και εξειδικευμένο προσωπικό ΠΛΗΡΕΣ CHECK UP €100,00 €30,00 Σάκχαρο ◆ Χοληστερίνη ◆ Ουρικό ◆ Ουρία ◆ Κρεατινίνη ◆ Καλή Χοληστερίνη ◆ Σίδηρο ◆ SGOt τρανσαμινάση ◆ SGPT τρανσαμινάση ◆ γ- GT ◆ Γενική αίματος ◆ Γενική ούρων ◆ Αλκαλική Φωσφατάση ◆ Ταχύτητα Καθιζήσεως ερθυρών ◆ Ασβέστιο ◆ Κάλιο ◆ Φώσφορο ◆ Μαγνήσιο ◆ Νάτριο ◆ Τριγλυκερίδια ◆ Αλβουμίνη ◆ Ολική Χολεριθρίνη ◆ LDH ◆ CPK ◆ CRP ΑΓΟΡΑ ONLINE ΑΓΟΡΑ ONLINE Μεγάλη γκάμα εργαστηριακών εξετάσεων (αιματολογικές, μικροβιολογικές, βιοχημικές, ανοσολογικές κ.ά.) Πλήρη οργανωμένα διαγνωστικά κέντρα Οι εξετάσεις εκτελούνται και να παραδίδονται στον ασθενή ταχύτατα, διασφαλίζοντας την εγκυρότητα και την ποιότητα των αποτελεσμάτων Νέο Διαγνωστικό κέντρο Κάτω Πετράλωνα ΔΙΑΓΝΩΣΤΙΚΑ ΚΕΝΤΡΑ ΩΡΑΡΙΟ ΛΕΙΤΟΥΡΓΙΑΣ Τηλ. 210 867 6090 Βελβενδού 7-9, Κυψέλη Αθήνα 11364Χάρτης ΚΑΘΗΜΕΡΙΝΑ ΠΡΩΙ: 06:45 – 14:00 ΚΑΘΗΜΕΡΙΝΑ ΑΠΟΓΕΥΜΑ: 18:00 – 20:00 ΣΑΒΒΑΤΟ: 07:45 – 12:00 Τηλ. 210 341 9458 Κειριαδών 29, Πετράλωνα Αθήνα 11854Χάρτης ΚΑΘΗΜΕΡΙΝΑ: 06:45 – 20:00 ΣΑΒΒΑΤΟ: 07:45 – 12:00 Τηλ. 2271 0 29991 Δημοτικό Parking Φαρκαινας, Αεροπόρου Ροδοκανάκη 43, Χίος 82100Χάρτης ΚΑΘΗΜΕΡΙΝΑ: 06:45 – 14:00 ΤΡΙΤΗ – ΠΕΜΠΤΗ: 18:00 – 20:00 ΣΑΒΒΑΤΟ: 08:00 – 12:00 Κλείστε Ραντεβού Online! Συμβεβλημένο με τον ΕΟΠΥΥ ΩΡΑΡΙΟ ΛΕΙΤΟΥΡΓΙΑΣ ΤΜΗΜΑ ΥΠΕΡΗΧΩΝ: Δευτέρα – Τετάρτη (08:45-13:00) • Τρίτη – Πέμπτη (08:30-11:30) • Παρασκευή (08:30-14:00) Η Med ΒΙΟΔΙΑΓΝΩΣΗ διαθέτει σύγχρονα διαγνωστικά εργαστήρια στην Αθήνα (Κυψέλη) και στην Χίο, άρτια εξοπλισμένα με αναλυτές τελευταίας τεχνολογίας και εξειδικευμένο προσωπικό με σκοπό να παρέχει υψηλού επιπέδου ιατρικές υπηρεσίες προσιτές σε όλους. Τα εργαστήρια καλύπτουν μια μεγάλη γκάμα εργαστηριακών εξετάσεων, από απλές εξετάσεις (αιματολογικές, μικροβιολογικές, βιοχημικές, ανοσολογικές κ.ά.) μέχρι και εξατομικευμένα check-up, βασισμένα σε συγκεκριμένα προβλήματα υγείας (θυρεοειδή, σακχαρώδη διαβήτη, αλλεργίες κα), καθώς και προληπτικά check-up. Τα διαγνωστικά εργαστήρια της Med ΒΙΟΔΙΑΓΝΩΣΗ είναι οργανωμένα με τέτοιο τρόπο, έτσι ώστε οι εξετάσεις να εκτελούνται και να παραδίδονται στον ασθενή ταχύτατα, διασφαλίζοντας την εγκυρότητα και την ποιότητα των αποτελεσμάτων. Products search Αναζήτηση Mοριακό ΤεστPCR COVID 19 Δυνατότητα αυθημερόν απαντήσεων Διενέργεια test & κατ΄οίκον 25,00€ – ΑΓΟΡΑ ONLINE Rapid ΤεστCOVID 19 Αποτελέσματα σε 15 λεπτά 6,00€ – Αντιγόνου Ag Τεστ ΓρίπηςΔιαγνωστικός Έλεγχος Η1Ν1 Τμήματα Μικροβιολογικό Ορμονολογικό Βιοχημικό Αιματολογικό Ανοσολογικό Αλλεργιολογικό Νεοπλασματικοί δείκτες Επίπεδα Φαρμάκων Ανίχνευση τοξικών ουσιών Προγεννητικός Έλεγχος Μοριακή Βιολογία (PCR) Τμήμα Υπερήχων ΑΠΟΤΕΛΕΣΜΑΤΑ Μπορούν να αποσταλούν με e-mail σε εσάς και στον ιατρό σας. Εξετάσεις Αιματολογικές Βιοχημικές Πήξης – Αιμόστασης Ορμονολογικές Ανοσολογικές Καλλιέργειες Έλεγχος Θυρεοειδούς Αλλεργιογόνα Check-up Στα διαγνωστικά μας εργαστήρια της Med ΒΙΟΔΙΑΓΝΩΣΗ τελούνται όλες οι αιματολογικές, βιοχημικές, μικροβιολογικές και ανοσολογικές εξετάσεις. Μπορούν να πραγματοποιηθούν εξατομικευμένα check-up βασιζόμενα σε συγκεκριμένα προβλήματα υγείας, όπως παθήσεις θυρεοειδούς, σακχαρώδης διαβήτης, παχυσαρκία, διατροφική δυσανεξία και αλλεργίες, νεοπλασίες, σύνδρομο χρόνιας κόπωσης, έλλειψη βιταμινών κ.α. καθώς και προληπτικά check-up ανάλογα με την ηλικία, το φύλο, το οικογενειακό ιστορικό, τις διατροφικές συνήθειες και τον τρόπο ζωής. Προτεινόμενα Πακέτα Εξετάσεων Ανέπαφη πληρωμή OnlineΠροσαρμόζουμε τις υπηρεσίες μας με σκοπό τη μέγιστη ασφάλεια όλων! 30€ΠΛΗΡΕΣ CHECK UP #1Σάκχαρο ◆ Χοληστερίνη ◆ Ουρικό ◆ Ουρία ◆ Κρεατινίνη ◆ Καλή Χοληστερίνη ◆ Σίδηρο ◆ SGOt τρανσαμινάση ◆ SGPT τρανσαμινάση ◆ γ- GT ◆ Γενική αίματος ◆ Γενική ούρων ◆ Αλκαλική Φωσφατάση ◆ Ταχύτητα Καθιζήσεως ερθυρών ◆ Ασβέστιο ◆ Κάλιο ◆ Φώσφορο ◆ Μαγνήσιο ◆ Νάτριο ◆ Τριγλυκερίδια ◆ Αλβουμίνη ◆ Ολική Χολεριθρίνη ◆ LDH ◆ CPK ◆ CRP ΑΓΟΡΑ ONLINE 50€ΠΛΗΡΕΣ CHECK UP #2Σάκχαρο ◆ Χοληστερίνη ◆ Ουρικό ◆ Ουρία ◆ Κρεατινίνη ◆ Καλή χοληστερίνη ◆ Σίδηρο ◆ SGOt τρανσαμινάση ◆ SGPT τρανσαμινάση ◆ γ – GT ◆ Γενική Αίματος ◆ Γενική Ούρων ◆ Αλκαλική Φωσφατάση ◆ Ταχύτητα Καθιζήσεως ερυθρών ◆ Ασβέστιο ◆ Κάλιο ◆ Φώσφορο ◆ Μαγνήσιο ◆ Νάτριο ◆ Τριγλυκερίδια ◆ Αλβουμίνη ◆ Ολική Χολερυθρίνη ◆ LDH ◆ CPK ◆ CRP ◆ Κακή χοληστερίνη ◆ Υπερηχογράφημα άνω & κάτω κοιλίας ΑΓΟΡΑ ONLINE ΠΛΗΡΗΣ ΕΛΕΓΧΟΣ ΘΥΡΕΟΕΙΔΗΤ3 ◆ Τ4 ◆ TSH ◆ ANTI -TRO ◆ ANTI-TG ◆ ΥΠΕΡΗΧΟΣ ΘΥΡΕΟΕΙΔΗ ◆ 45€ ΑΓΟΡΑ ONLINE 50€ΠΛΗΡΕΣ CHECK UP #3Σάκχαρο ◆ Χοληστερίνη ◆ Ουρικό ◆ Ουρία ◆ Κρεατινίνη ◆ Κακή Χολιστερίνη ◆ Καλή Χοληστερίνη ◆ Σίδηρο ◆ SGOt τρανσαμινάση ◆ SGPT ΤΡΑΝΣΑΜΙΝΆΣΗ ◆ γ-GT ◆ Γενική αίματος ◆ Γενική ούρων ◆ Ταχύτητα Καθιζήσεως ερυθρών ◆ Ασβέστιο ◆ Φώσφορο ◆ Μαγνήσιο ◆ Νάτριο ◆ Κάλιο ◆ Αλκαλική φωσφάταση ◆ Αλβουμίνη ◆ Ολική Χολεριθρίνη ◆ LDH ◆ CPK ◆ CPR ◆ Θυρεοειδούς Αδένα ◆ Τ3 – Τ4 – TSH ΑΓΟΡΑ ONLINE ΔΕΙΤΕ ΟΛΑ ΤΑ ΠΑΚΕΤΑ Τηλ. 210 867 6090 Βελβενδού 7-9, Κυψέλη Αθήνα 11364Χάρτης ΚΑΘΗΜΕΡΙΝΑ ΠΡΩΙ: 06:45 – 14:00 ΚΑΘΗΜΕΡΙΝΑ ΑΠΟΓΕΥΜΑ: 18:00 – 20:00 ΣΑΒΒΑΤΟ: 07:45 – 12:00 kipselibiodiagnosi@gmail.com Τηλ. 210 341 9458 Κειριαδών 29, Πετράλωνα Αθήνα 11854Χάρτης ΚΑΘΗΜΕΡΙΝΑ: 06:45 – 20:00 ΣΑΒΒΑΤΟ: 07:45 – 12:00 petralonabiodiagnosi1@gmail.com Συμβεβλημένο με τον ΕΟΠΥΥ Τηλ. 2271 0 29991 Δημοτικό Parking Φαρκαινας, Αεροπόρου Ροδοκανάκη 43, Χίος 82100Χάρτης ΚΑΘΗΜΕΡΙΝΑ: 06:45 – 14:00 ΤΡΙΤΗ – ΠΕΜΠΤΗ: 18:00 – 20:00 ΣΑΒΒΑΤΟ: 08:00 – 12:00 xiosbiodiagnosi@gmail.com Copyright All Rights Reserved © 2021 Iatros.Website #mk-button-4 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-4 .mk-button { display:inline-block; max-width:100%; } #mk-button-4 .mk-button { background-color:#c32024; } #mk-button-4 .mk-button:hover { color:#ededed !important; background-color:#b51e21; } #mk-button-4 .mk-button:hover .mk-svg-icon { color:#ededed !important; } #mk-button-5 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-5 .mk-button { display:inline-block; max-width:100%; } #mk-button-7 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-7 .mk-button { display:inline-block; max-width:100%; } #mk-button-7 .mk-button { background-color:#c32024; } #mk-button-7 .mk-button:hover { color:#ededed !important; background-color:#b51e21; } #mk-button-7 .mk-button:hover .mk-svg-icon { color:#ededed !important; } #mk-button-8 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-8 .mk-button { display:inline-block; max-width:100%; } #text-block-11 { margin-bottom:0px; text-align:left; } #text-block-14 { margin-bottom:0px; text-align:left; } #text-block-16 { margin-bottom:0px; text-align:left; } #social-networks-17 a{ margin:4px; } #social-networks-17 a svg{ fill:#ccc; } #social-networks-17 a:hover svg{ fill:#eee; } #box-15 .box-holder{ border:1px solid #ffffff; } #box-15 .box-holder{ background-color:; } #box-15{ margin-bottom:30px; } #box-15 .box-holder{ min-height:201px; padding:20px 20px; } #text-block-19 { margin-bottom:0px; text-align:left; } #text-block-21 { margin-bottom:0px; text-align:left; } #social-networks-22 a{ margin:4px; } #social-networks-22 a svg{ fill:#ccc; } #social-networks-22 a:hover svg{ fill:#eee; } #box-20 .box-holder{ border:1px solid #ffffff; } #box-20 .box-holder{ background-color:; } #box-20{ margin-bottom:30px; } #box-20 .box-holder{ min-height:201px; padding:20px 20px; } #text-block-24 { margin-bottom:0px; text-align:left; } #text-block-26 { margin-bottom:0px; text-align:left; } #social-networks-27 a{ margin:4px; } #social-networks-27 a svg{ fill:#ccc; } #social-networks-27 a:hover svg{ fill:#eee; } #box-25 .box-holder{ border:1px solid #ffffff; } #box-25 .box-holder{ background-color:; } #box-25{ margin-bottom:30px; } #box-25 .box-holder{ min-height:px; padding:20px 20px; } .vc_custom_1699444971431 { } #mk-button-30 { margin-bottom:15px; margin-top:0px; margin-right:15px; } #mk-button-30 .mk-button { display:inline-block; max-width:100%; } #mk-button-30 .mk-button { background-color:#c32024; } #mk-button-30 .mk-button:hover { } #mk-button-30 .mk-button:hover .mk-svg-icon { } #text-block-31 { margin-bottom:0px; text-align:left; } #text-block-34 { margin-bottom:0px; text-align:left; } #text-block-36 { margin-bottom:0px; text-align:left; } #text-block-39 { margin-bottom:0px; text-align:center; } .vc_custom_1613147801185 { } .vc_custom_1613147808273 { } .vc_custom_1613147817905 { } #text-block-45 { margin-bottom:0px; text-align:left; } #text-block-49 { margin-bottom:0px; text-align:center; } #box-47 .box-holder{ border:10px solid #f7f7f7; } #box-47 .box-holder{ background-color:; } #box-47{ margin-bottom:10px; } #box-47 .box-holder{ min-height:100px; padding:30px 20px; } #text-block-53 { margin-bottom:0px; text-align:center; } #box-51 .box-holder{ border:10px solid #f7f7f7; } #box-51 .box-holder{ background-color:; } #box-51{ margin-bottom:10px; } #box-51 .box-holder{ min-height:100px; padding:30px 20px; } #text-block-57 { margin-bottom:0px; text-align:center; } #box-55 .box-holder{ border:10px solid #f7f7f7; } #box-55 .box-holder{ background-color:; } #box-55{ margin-bottom:10px; } #box-55 .box-holder{ min-height:100px; padding:30px 20px; } #text-block-61 { margin-bottom:0px; text-align:center; } #box-59 .box-holder{ border:10px solid #f7f7f7; } #box-59 .box-holder{ background-color:; } #box-59{ margin-bottom:10px; } #box-59 .box-holder{ min-height:100px; padding:30px 20px; } #text-block-65 { margin-bottom:0px; text-align:center; } #box-63 .box-holder{ border:10px solid #f7f7f7; } #box-63 .box-holder{ background-color:; } #box-63{ margin-bottom:10px; } #box-63 .box-holder{ min-height:100px; padding:30px 20px; } #text-block-69 { margin-bottom:0px; text-align:center; } #box-67 .box-holder{ border:10px solid #f7f7f7; } #box-67 .box-holder{ background-color:; } #box-67{ margin-bottom:10px; } #box-67 .box-holder{ min-height:100px; padding:30px 20px; } #text-block-73 { margin-bottom:0px; text-align:center; } #box-71 .box-holder{ border:10px solid #f7f7f7; } #box-71 .box-holder{ background-color:; } #box-71{ margin-bottom:10px; } #box-71 .box-holder{ min-height:100px; padding:30px 20px; } #text-block-77 { margin-bottom:0px; text-align:center; } #box-75 .box-holder{ border:10px solid #f7f7f7; } #box-75 .box-holder{ background-color:; } #box-75{ margin-bottom:10px; } #box-75 .box-holder{ min-height:100px; padding:30px 20px; } #text-block-81 { margin-bottom:0px; text-align:center; } #box-79 .box-holder{ border:10px solid #f7f7f7; } #box-79 .box-holder{ background-color:; } #box-79{ margin-bottom:10px; } #box-79 .box-holder{ min-height:100px; padding:30px 20px; } #text-block-85 { margin-bottom:0px; text-align:center; } #box-83 .box-holder{ border:10px solid #f7f7f7; } #box-83 .box-holder{ background-color:; } #box-83{ margin-bottom:10px; } #box-83 .box-holder{ min-height:100px; padding:30px 20px; } #text-block-89 { margin-bottom:0px; text-align:center; } #box-87 .box-holder{ border:10px solid #f7f7f7; } #box-87 .box-holder{ background-color:; } #box-87{ margin-bottom:10px; } #box-87 .box-holder{ min-height:100px; padding:30px 20px; } #text-block-93 { margin-bottom:0px; text-align:center; } #box-91 .box-holder{ border:10px solid #f7f7f7; } #box-91 .box-holder{ background-color:; } #box-91{ margin-bottom:10px; } #box-91 .box-holder{ min-height:100px; padding:30px 20px; } .vc_custom_1612929987549 { } #text-block-98 { margin-bottom:0px; text-align:center; } #text-block-99 { margin-bottom:0px; text-align:center; } #text-block-100 { margin-bottom:0px; text-align:center; } #text-block-101 { margin-bottom:0px; text-align:center; } #text-block-102 { margin-bottom:0px; text-align:center; } #text-block-103 { margin-bottom:0px; text-align:center; } #text-block-104 { margin-bottom:0px; text-align:center; } #text-block-105 { margin-bottom:0px; text-align:center; } #text-block-106 { margin-bottom:0px; text-align:center; } #text-block-107 { margin-bottom:0px; text-align:center; } #text-block-110 { margin-bottom:0px; text-align:left; } #text-block-114 { margin-bottom:0px; text-align:center; } .full-width-112 { min-height:243px; margin-bottom:0px; } .full-width-112 .page-section-content { padding:10px 0 10px; } #background-layer--112 { ; background-position:center center; background-repeat:repeat; ; } #background-layer--112 .mk-color-layer { ; width:100%; height:100%; position:absolute; top:0; left:0; } {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"\\/*\"},{\"not\":{\"href_matches\":[\"\\/wp-*.php\",\"\\/wp-admin\\/*\",\"\\/wp-content\\/uploads\\/*\",\"\\/wp-content\\/*\",\"\\/wp-content\\/plugins\\/*\",\"\\/wp-content\\/themes\\/jupiter\\/*\",\"\\/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} .mpc-typography--mpc_preset_157{font-family:\"Ubuntu\" !important;font-style:normal !important;font-weight:500 !important;}.mpc-typography--mpc_preset_131{font-family:\"Ubuntu\" !important;font-style:normal !important;font-weight:700 !important;}.mpc-circle-icons .mpc-icon-column[data-id=\"mpc_icon_column-1169cbca4273ad9\"] .mpc-icon-column__content-wrap,.mpc-icon-column[data-id=\"mpc_icon_column-1169cbca4273ad9\"] {border-radius:0px;padding:25px;background: #f8f7f5;}.mpc-circle-icons .mpc-icon-column[data-id=\"mpc_icon_column-1169cbca4273ad9\"]:hover .mpc-icon-column__content-wrap,.mpc-icon-column[data-id=\"mpc_icon_column-1169cbca4273ad9\"]:hover {border-radius:0px;}.mpc-icon-column[data-id=\"mpc_icon_column-1169cbca4273ad9\"] .mpc-icon-column__heading {margin-bottom:8px;color:#2b2b2b;font-size:20px;line-height:1.4;text-align:left;text-transform:none;}.mpc-icon-column[data-id=\"mpc_icon_column-1169cbca4273ad9\"] .mpc-icon-column__description {color:#494949;font-size:14px;line-height:1.5;text-align:left;}.mpc-icon[data-id=\"mpc_icon-2869cbca4273c7e\"] {border-width:2px;border-color:#dd4d5c;border-style:solid;border-radius:50px;padding:6px;margin-top:0px;margin-right:-15px;margin-bottom:0px;margin-left:0px;background: #ffffff;}.mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-2869cbca4273c7e\"]:hover,.mpc-parent-hover:hover .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-2869cbca4273c7e\"],.mpc-active .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-2869cbca4273c7e\"] {border-color:#f8f7f5;background: #f8f7f5;}.mpc-circle-icons .mpc-icon-column[data-id=\"mpc_icon_column-4369cbca4273df8\"] .mpc-icon-column__content-wrap,.mpc-icon-column[data-id=\"mpc_icon_column-4369cbca4273df8\"] {border-radius:0px;padding:25px;background: #f8f7f5;}.mpc-circle-icons .mpc-icon-column[data-id=\"mpc_icon_column-4369cbca4273df8\"]:hover .mpc-icon-column__content-wrap,.mpc-icon-column[data-id=\"mpc_icon_column-4369cbca4273df8\"]:hover {border-radius:0px;}.mpc-icon-column[data-id=\"mpc_icon_column-4369cbca4273df8\"] .mpc-icon-column__heading {margin-bottom:8px;color:#2b2b2b;font-size:20px;line-height:1.4;text-align:left;text-transform:none;}.mpc-icon-column[data-id=\"mpc_icon_column-4369cbca4273df8\"] .mpc-icon-column__description {color:#494949;font-size:14px;line-height:1.5;text-align:left;}.mpc-icon[data-id=\"mpc_icon-9469cbca4273f4f\"] {border-width:2px;border-color:#4872ce;border-style:solid;border-radius:4px;padding:6px;margin-top:0px;margin-right:-15px;margin-bottom:0px;margin-left:0px;background: #ffffff;}.mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-9469cbca4273f4f\"]:hover,.mpc-parent-hover:hover .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-9469cbca4273f4f\"],.mpc-active .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-9469cbca4273f4f\"] {border-color:#f8f7f5;background: #f8f7f5;}.mpc-circle-icons .mpc-icon-column[data-id=\"mpc_icon_column-1769cbca42740a3\"] .mpc-icon-column__content-wrap,.mpc-icon-column[data-id=\"mpc_icon_column-1769cbca42740a3\"] {border-radius:0px;padding:25px;background: #f8f7f5;}.mpc-circle-icons .mpc-icon-column[data-id=\"mpc_icon_column-1769cbca42740a3\"]:hover .mpc-icon-column__content-wrap,.mpc-icon-column[data-id=\"mpc_icon_column-1769cbca42740a3\"]:hover {border-radius:0px;}.mpc-icon-column[data-id=\"mpc_icon_column-1769cbca42740a3\"] .mpc-icon-column__heading {margin-bottom:8px;color:#2b2b2b;font-size:20px;line-height:1.4;text-align:left;text-transform:none;}.mpc-icon-column[data-id=\"mpc_icon_column-1769cbca42740a3\"] .mpc-icon-column__description {color:#494949;font-size:14px;line-height:1.5;text-align:left;}.mpc-icon[data-id=\"mpc_icon-9069cbca42741fa\"] {border-width:2px;border-color:#db6262;border-style:solid;border-radius:1px;padding:6px;margin-top:0px;margin-right:-15px;margin-bottom:0px;margin-left:0px;background: #ffffff;}.mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-9069cbca42741fa\"]:hover,.mpc-parent-hover:hover .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-9069cbca42741fa\"],.mpc-active .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-9069cbca42741fa\"] {border-color:#f8f7f5;background: #f8f7f5;}.mpc-alert[data-id=\"mpc_alert-9469cbca4278e99\"] {border-top:0px;border-right:5px;border-bottom:0px;border-left:0px;border-color:#306182;border-style:solid;border-radius:0px;background: #f7f7f7;}.mpc-alert[data-id=\"mpc_alert-9469cbca4278e99\"] .mpc-alert__icon {border-top:0px;border-right:0px;border-bottom:0px;border-left:5px;border-color:#306182;border-style:solid;border-radius:0px;padding-top:25px;padding-right:25px;padding-bottom:25px;padding-left:25px;background: #f3f3f3;color:#306182;font-size:28px;}.mpc-alert[data-id=\"mpc_alert-9469cbca4278e99\"] .mpc-alert__content {border-width:0px;border-radius:0px;padding-top:25px;padding-right:25px;padding-bottom:25px;padding-left:25px;color:#484848;font-size:15px;text-align:left;text-transform:none;}.mpc-alert__dismiss[data-alert=\"mpc_alert-9469cbca4278e99\"] {color:#333333;}.mpc-row[data-row-id=\"mpc_row-369cbca427a324\"] > .mpc-overlay--first {opacity:1;background: rgba(0,0,0,0.63);}.mpc-row[data-row-id=\"mpc_row-369cbca427a324\"] > .mpc-parallax-wrap .mpc-parallax:before {background-image:url(\"https://medbiodiagnosi.gr/wp-content/uploads/2021/02/medbiodiagnosi-08-1.jpg\");background-size:cover;}.mpc-circle-icons .mpc-icon-column[data-id=\"mpc_icon_column-8069cbca427bab8\"] .mpc-icon-column__content-wrap,.mpc-icon-column[data-id=\"mpc_icon_column-8069cbca427bab8\"] {border-radius:0px;padding:25px;background: #f8f8f8;}.mpc-circle-icons .mpc-icon-column[data-id=\"mpc_icon_column-8069cbca427bab8\"]:hover .mpc-icon-column__content-wrap,.mpc-icon-column[data-id=\"mpc_icon_column-8069cbca427bab8\"]:hover {border-radius:0px;}.mpc-icon-column[data-id=\"mpc_icon_column-8069cbca427bab8\"] .mpc-icon-column__heading {margin-bottom:8px;color:#306182;font-size:17px;line-height:1.4;text-align:left;text-transform:uppercase;}.mpc-icon-column[data-id=\"mpc_icon_column-8069cbca427bab8\"] .mpc-icon-column__description {color:#306182;font-size:14px;line-height:1.5;text-align:left;}.mpc-icon[data-id=\"mpc_icon-7669cbca427bad1\"] {border-width:2px;border-color:#c32024;border-style:solid;border-radius:50px;padding:8px;margin-top:0px;margin-right:-15px;margin-bottom:0px;margin-left:0px;background: #ffffff;}.mpc-icon[data-id=\"mpc_icon-7669cbca427bad1\"] i {font-size:40px;color:#c32024;}.mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-7669cbca427bad1\"]:hover,.mpc-parent-hover:hover .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-7669cbca427bad1\"],.mpc-active .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-7669cbca427bad1\"] {border-color:#f8f7f5;background: #f8f7f5;}.mpc-callout[data-id=\"mpc_callout-4969cbca427c11b\"] {border-width:4px;border-color:rgba(223,84,97,0.5);border-style:dashed;border-radius:10px;padding-top:40px;padding-right:30px;padding-bottom:40px;padding-left:30px;}.mpc-callout[data-id=\"mpc_callout-4969cbca427c11b\"] .mpc-callout__heading {width: 100%;margin-top:0px;margin-bottom:0px;color:#383838;font-size:20px;line-height:2;text-align:center;text-transform:uppercase;}.mpc-callout[data-id=\"mpc_callout-4969cbca427c11b\"] .mpc-callout__description {width: 100%;margin-top:0px;color:#383838;font-size:14px;line-height:1.4;text-align:center;}.mpc-callout[data-id=\"mpc_callout-4969cbca427c11b\"] .mpc-callout__icon {color:#df5461;font-size:40px;}.mpc-button[data-id=\"mpc_button-4769cbca427c150\"] {border-width:4px;border-color:#df5461;border-style:solid;border-radius:0px;margin-top:0px;margin-right:0px;margin-bottom:10px;background: #df5461;color:#ffffff;font-size:16px;text-transform:none;}.mpc-button[data-id=\"mpc_button-4769cbca427c150\"] .mpc-button__icon {padding-top:18px;padding-right:48px;padding-bottom:18px;padding-left:48px;color:#333333;}.mpc-button[data-id=\"mpc_button-4769cbca427c150\"] .mpc-button__title {padding-top:18px;padding-right:48px;padding-bottom:18px;padding-left:48px;}.mpc-button[data-id=\"mpc_button-4769cbca427c150\"] .mpc-button__background {background: #ffffff;}.mpc-button[data-id=\"mpc_button-4769cbca427c150\"]:hover,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-4769cbca427c150\"],.mpc-active .mpc-button[data-id=\"mpc_button-4769cbca427c150\"] {border-radius:100px;}.mpc-button[data-id=\"mpc_button-4769cbca427c150\"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-4769cbca427c150\"] .mpc-button__title,.mpc-active .mpc-button[data-id=\"mpc_button-4769cbca427c150\"] .mpc-button__title {color:#df5461;}.mpc-divider-wrap[data-id=\"mpc_divider-4069cbca427c171\"] .mpc-divider {width:10%;}.mpc-divider-wrap[data-id=\"mpc_divider-4069cbca427c171\"] .mpc-divider__line > span {border-top-style:solid;border-top-color:#d8d8d8;border-top-width:2px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-4069cbca427c171\"] .mpc-divider__line.mpc-side--left {width:0%;}.mpc-divider-wrap[data-id=\"mpc_divider-4069cbca427c171\"] .mpc-divider__line.mpc-side--right {width:100%;}.mpc-callout[data-id=\"mpc_callout-2169cbca427c320\"] {border-top:10px;border-right:0px;border-bottom:10px;border-left:0px;border-color:rgba(195,32,36,0.75);border-style:solid;border-radius:0px;padding-top:40px;padding-right:30px;padding-bottom:40px;padding-left:30px;background: #f9f9f9;}.mpc-callout[data-id=\"mpc_callout-2169cbca427c320\"] .mpc-callout__heading {width: 100%;margin-bottom:0px;color:#383838;font-size:20px;line-height:2;text-align:center;text-transform:uppercase;}.mpc-callout[data-id=\"mpc_callout-2169cbca427c320\"] .mpc-callout__description {width: 100%;color:#383838;font-size:14px;line-height:1.4;text-align:center;}.mpc-callout[data-id=\"mpc_callout-2169cbca427c320\"] .mpc-callout__icon {color:#555555;font-size:40px;}.mpc-button[data-id=\"mpc_button-5469cbca427c340\"] {border-width:2px;border-color:#df5461;border-style:dashed;border-radius:10px;margin-top:15px;color:#df5461;font-size:16px;text-transform:uppercase;}.mpc-button[data-id=\"mpc_button-5469cbca427c340\"] .mpc-button__icon {padding-top:18px;padding-right:48px;padding-bottom:18px;padding-left:48px;color:#333333;}.mpc-button[data-id=\"mpc_button-5469cbca427c340\"] .mpc-button__title {padding-top:18px;padding-right:48px;padding-bottom:18px;padding-left:48px;}.mpc-button[data-id=\"mpc_button-5469cbca427c340\"]:hover,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-5469cbca427c340\"],.mpc-active .mpc-button[data-id=\"mpc_button-5469cbca427c340\"] {border-radius:5px;}.mpc-button[data-id=\"mpc_button-5469cbca427c340\"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-5469cbca427c340\"] .mpc-button__title,.mpc-active .mpc-button[data-id=\"mpc_button-5469cbca427c340\"] .mpc-button__title {color:#df5461;}.mpc-callout[data-id=\"mpc_callout-6969cbca427c91e\"] {border-width:7px;border-color:#f3f3f3;border-style:solid;border-radius:0px;padding:30px;}.mpc-callout[data-id=\"mpc_callout-6969cbca427c91e\"] .mpc-callout__heading {width: 100%;color:#383838;font-size:20px;line-height:2;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-6969cbca427c91e\"] .mpc-callout__description {width: 100%;margin-top:10px;color:#383838;font-size:16px;line-height:1.7;text-align:center;}.mpc-callout[data-id=\"mpc_callout-6969cbca427c91e\"] .mpc-callout__description a {color: #383838;}.mpc-callout[data-id=\"mpc_callout-6969cbca427c91e\"] .mpc-callout__description a:hover {color: #000000;}.mpc-callout[data-id=\"mpc_callout-6969cbca427c91e\"] .mpc-callout__icon {border-color:#eaeaea;margin-bottom:20px;}.mpc-button[data-id=\"mpc_button-6869cbca427c941\"] {border-top:0px;border-right:0px;border-bottom:0px;border-left:0px;border-color:rgba(117,205,222,0.84);border-style:solid;border-radius:50px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;background: rgba(117,205,222,0.84);color:#ffffff;font-size:16px;text-transform:none;}.mpc-button[data-id=\"mpc_button-6869cbca427c941\"] .mpc-button__icon {padding-top:14px;padding-right:32px;padding-bottom:14px;padding-left:32px;color:#333333;}.mpc-button[data-id=\"mpc_button-6869cbca427c941\"] .mpc-button__title {padding-top:14px;padding-right:32px;padding-bottom:14px;padding-left:32px;}.mpc-button[data-id=\"mpc_button-6869cbca427c941\"] .mpc-button__background {background: #75cdde;}.mpc-button[data-id=\"mpc_button-6869cbca427c941\"]:hover,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-6869cbca427c941\"],.mpc-active .mpc-button[data-id=\"mpc_button-6869cbca427c941\"] {border-color:#75cdde;border-radius:50px;}.mpc-button[data-id=\"mpc_button-6869cbca427c941\"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-6869cbca427c941\"] .mpc-button__title,.mpc-active .mpc-button[data-id=\"mpc_button-6869cbca427c941\"] .mpc-button__title {color:#ffffff;}.mpc-button[data-id=\"mpc_button-6869cbca427c941\"]:hover .mpc-button__background,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-6869cbca427c941\"] .mpc-button__background,.mpc-active .mpc-button[data-id=\"mpc_button-6869cbca427c941\"] .mpc-button__background {top:-80% !important;bottom:-80% !important;}.mpc-divider-wrap[data-id=\"mpc_divider-6269cbca427c95a\"] {margin-top:-4px;margin-bottom:-5px;}.mpc-divider-wrap[data-id=\"mpc_divider-6269cbca427c95a\"] .mpc-divider {width:50%;}.mpc-divider-wrap[data-id=\"mpc_divider-6269cbca427c95a\"] .mpc-divider__line > span {border-top-style:dashed;border-top-color:#f3f3f3;border-top-width:4px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-6269cbca427c95a\"] .mpc-divider__line.mpc-side--left {width:0%;}.mpc-divider-wrap[data-id=\"mpc_divider-6269cbca427c95a\"] .mpc-divider__line.mpc-side--right {width:100%;}.mpc-callout[data-id=\"mpc_callout-1469cbca427caf7\"] {border-right:8px;border-bottom:8px;border-color:#306182;border-style:solid;border-radius:0px;padding-top:50px;padding-right:25px;padding-bottom:25px;padding-left:50px;background: #ffffff;}.mpc-callout[data-id=\"mpc_callout-1469cbca427caf7\"] .mpc-callout__heading {width: 100%;margin-bottom:10px;color:#383838;font-size:20px;line-height:2;text-align:center;text-transform:uppercase;}.mpc-callout[data-id=\"mpc_callout-1469cbca427caf7\"] .mpc-callout__description {width: 100%;margin-top:0px;color:#383838;font-size:14px;line-height:1.4;text-align:center;}.mpc-callout[data-id=\"mpc_callout-1469cbca427caf7\"] .mpc-callout__icon {border-radius:0px;padding:0px;margin-bottom:0px;margin-left:-15px;color:#383838;font-size:40px;}.mpc-button[data-id=\"mpc_button-6569cbca427cb18\"] {border-color:#c9c9c9;border-style:solid;border-radius:35px;margin-top:15px;background-image: linear-gradient(180deg,#306182 0%,#306182 100%);color:#ffffff;font-size:12px;text-transform:none;}.mpc-button[data-id=\"mpc_button-6569cbca427cb18\"] .mpc-button__icon {padding-top:20px;padding-right:40px;padding-bottom:20px;padding-left:40px;color:#333333;font-size:14px;}.mpc-button[data-id=\"mpc_button-6569cbca427cb18\"] .mpc-button__title {padding-top:20px;padding-right:40px;padding-bottom:20px;padding-left:40px;}.mpc-button[data-id=\"mpc_button-6569cbca427cb18\"] .mpc-button__background {background-image: linear-gradient(192deg,#306182 3%,#306182 82%);}.mpc-button[data-id=\"mpc_button-6569cbca427cb18\"]:hover,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-6569cbca427cb18\"],.mpc-active .mpc-button[data-id=\"mpc_button-6569cbca427cb18\"] {border-color:#306182;border-style:solid;}.mpc-button[data-id=\"mpc_button-6569cbca427cb18\"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-6569cbca427cb18\"] .mpc-button__title,.mpc-active .mpc-button[data-id=\"mpc_button-6569cbca427cb18\"] .mpc-button__title {color:#ffffff;}.mpc-divider-wrap[data-id=\"mpc_divider-7869cbca427cb38\"] {margin-left:-5px;}.mpc-divider-wrap[data-id=\"mpc_divider-7869cbca427cb38\"] .mpc-divider {width:30%;}.mpc-divider-wrap[data-id=\"mpc_divider-7869cbca427cb38\"] .mpc-divider__content {font-size:15px;color:#f3f3f3;}.mpc-divider-wrap[data-id=\"mpc_divider-7869cbca427cb38\"] .mpc-divider__line > span {border-top-style:solid;border-top-color:#f3f3f3;border-top-width:3px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-7869cbca427cb38\"] .mpc-divider__line.mpc-side--left {width:0%;}.mpc-divider-wrap[data-id=\"mpc_divider-7869cbca427cb38\"] .mpc-divider__line.mpc-side--right {width:100%;}.mpc-callout[data-id=\"mpc_callout-8469cbca427cf49\"] {border-width:0px;border-style:dashed;border-radius:10px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.mpc-callout[data-id=\"mpc_callout-8469cbca427cf49\"] .mpc-callout__heading {width: 100%;margin-top:0px;margin-bottom:0px;color:#383838;font-size:20px;line-height:0;text-align:center;text-transform:uppercase;}.mpc-callout[data-id=\"mpc_callout-8469cbca427cf49\"] .mpc-callout__description {width: 100%;margin-top:0px;color:#383838;font-size:14px;line-height:1.4;text-align:center;}.mpc-callout[data-id=\"mpc_callout-8469cbca427cf49\"] .mpc-callout__icon {color:#df5461;font-size:40px;}.mpc-button[data-id=\"mpc_button-1069cbca427cf6b\"] {border-width:4px;border-color:#df5461;border-style:solid;border-radius:0px;margin-top:0px;margin-right:0px;margin-bottom:10px;background: #df5461;color:#ffffff;font-size:16px;text-transform:none;}.mpc-button[data-id=\"mpc_button-1069cbca427cf6b\"] .mpc-button__icon {padding-top:18px;padding-right:48px;padding-bottom:18px;padding-left:48px;color:#333333;}.mpc-button[data-id=\"mpc_button-1069cbca427cf6b\"] .mpc-button__title {padding-top:18px;padding-right:48px;padding-bottom:18px;padding-left:48px;}.mpc-button[data-id=\"mpc_button-1069cbca427cf6b\"] .mpc-button__background {background: #ffffff;}.mpc-button[data-id=\"mpc_button-1069cbca427cf6b\"]:hover,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-1069cbca427cf6b\"],.mpc-active .mpc-button[data-id=\"mpc_button-1069cbca427cf6b\"] {border-radius:100px;}.mpc-button[data-id=\"mpc_button-1069cbca427cf6b\"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-1069cbca427cf6b\"] .mpc-button__title,.mpc-active .mpc-button[data-id=\"mpc_button-1069cbca427cf6b\"] .mpc-button__title {color:#df5461;} php = { hasAdminbar: false, json: (null != null) ? null : \"\", jsPath: 'https://medbiodiagnosi.gr/wp-content/themes/jupiter/assets/js' }; (function () { var c = document.body.className; c = c.replace(/woocommerce-no-js/, 'woocommerce-js'); document.body.className = c; })(); /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); /* ]]> */ /* <![CDATA[ */ ( function( domain, translations ) { var localeData = translations.locale_data[ domain ] || translations.locale_data.messages; localeData[\"\"].domain = domain; wp.i18n.setLocaleData( localeData, domain ); } )( \"contact-form-7\", {\"translation-revision-date\":\"2024-08-02 09:16:28+0000\",\"generator\":\"GlotPress\\/4.0.1\",\"domain\":\"messages\",\"locale_data\":{\"messages\":{\"\":{\"domain\":\"messages\",\"plural-forms\":\"nplurals=2; plural=n != 1;\",\"lang\":\"el_GR\"},\"This contact form is placed in the wrong place.\":[\"\\u0397 \\u03c6\\u03cc\\u03c1\\u03bc\\u03b1 \\u03b5\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03af\\u03b1\\u03c2 \\u03b5\\u03af\\u03bd\\u03b1\\u03b9 \\u03c3\\u03b5 \\u03bb\\u03ac\\u03b8\\u03bf\\u03c2 \\u03b8\\u03ad\\u03c3\\u03b7.\"],\"Error:\":[\"\\u03a3\\u03c6\\u03ac\\u03bb\\u03bc\\u03b1:\"]}},\"comment\":{\"reference\":\"includes\\/js\\/index.js\"}} ); /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/medbiodiagnosi.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; /* ]]> */ /* <![CDATA[ */ var wc_order_attribution = {\"params\":{\"lifetime\":1.0000000000000000818030539140313095458623138256371021270751953125e-5,\"session\":30,\"base64\":false,\"ajaxurl\":\"https:\\/\\/medbiodiagnosi.gr\\/wp-admin\\/admin-ajax.php\",\"prefix\":\"wc_order_attribution_\",\"allowTracking\":true},\"fields\":{\"source_type\":\"current.typ\",\"referrer\":\"current_add.rf\",\"utm_campaign\":\"current.cmp\",\"utm_source\":\"current.src\",\"utm_medium\":\"current.mdm\",\"utm_content\":\"current.cnt\",\"utm_id\":\"current.id\",\"utm_term\":\"current.trm\",\"utm_source_platform\":\"current.plt\",\"utm_creative_format\":\"current.fmt\",\"utm_marketing_tactic\":\"current.tct\",\"session_entry\":\"current_add.ep\",\"session_start_time\":\"current_add.fd\",\"session_pages\":\"session.pgs\",\"session_count\":\"udata.vst\",\"user_agent\":\"udata.uag\"}}; /* ]]> */ /* <![CDATA[ */ var jupiterDonutVars = {\"themeDir\":\"https:\\/\\/medbiodiagnosi.gr\\/wp-content\\/themes\\/jupiter\",\"assetsUrl\":\"https:\\/\\/medbiodiagnosi.gr\\/wp-content\\/plugins\\/jupiter-donut\\/assets\",\"gridWidth\":\"1280\",\"ajaxUrl\":\"https:\\/\\/medbiodiagnosi.gr\\/wp-admin\\/admin-ajax.php\",\"nonce\":\"656a603850\"}; /* ]]> */ /* <![CDATA[ */ var _mpc_ajax = \"https:\\/\\/medbiodiagnosi.gr\\/wp-admin\\/admin-ajax.php\"; var _mpc_animations = \"1\"; var _mpc_parallax = \"1\"; var _mpc_scroll_to_id = \"1\"; /* ]]> */ /* <![CDATA[ */ var wc_cart_fragments_params = {\"ajax_url\":\"\\/wp-admin\\/admin-ajax.php\",\"wc_ajax_url\":\"\\/?wc-ajax=%%endpoint%%\",\"cart_hash_key\":\"wc_cart_hash_dd1939cf5510aa3e75b955a31494b418\",\"fragment_name\":\"wc_fragments_dd1939cf5510aa3e75b955a31494b418\",\"request_timeout\":\"5000\"}; /* ]]> */ /* <![CDATA[ */ var vcData = {\"currentTheme\":{\"slug\":\"jupiter\"}}; /* ]]> */ /* <![CDATA[ */ var dgwt_wcas = {\"labels\":{\"product_plu\":\"\\u03a0\\u03c1\\u03bf\\u03ca\\u03cc\\u03bd\\u03c4\\u03b1\",\"vendor\":\"Vendor\",\"vendor_plu\":\"Vendors\",\"sku_label\":\"\\u039a\\u03c9\\u03b4\\u03b9\\u03ba\\u03cc\\u03c2 \\u03c0\\u03c1\\u03bf\\u03ca\\u03cc\\u03bd\\u03c4\\u03bf\\u03c2:\",\"sale_badge\":\"\\u03a0\\u03c1\\u03bf\\u03c3\\u03c6\\u03bf\\u03c1\\u03ac\",\"vendor_sold_by\":\"Sold by:\",\"featured_badge\":\"\\u03a0\\u03c1\\u03bf\\u03c4\\u03b5\\u03b9\\u03bd\\u03cc\\u03bc\\u03b5\\u03bd\\u03bf\",\"in\":\"in\",\"read_more\":\"continue reading\",\"no_results\":\"\\\"\\\\u039a\\\\u03b1\\\\u03bd\\\\u03ad\\\\u03bd\\\\u03b1 \\\\u03b1\\\\u03c0\\\\u03bf\\\\u03c4\\\\u03ad\\\\u03bb\\\\u03b5\\\\u03c3\\\\u03bc\\\\u03b1\\\"\",\"no_results_default\":\"No results\",\"show_more\":\"\\u0394\\u0395\\u0399\\u03a4\\u0395 \\u039f\\u039b\\u0391 \\u03a4\\u0391 \\u03a0\\u0391\\u039a\\u0395\\u03a4\\u0391...\",\"show_more_details\":\"\\u0394\\u0395\\u0399\\u03a4\\u0395 \\u039f\\u039b\\u0391 \\u03a4\\u0391 \\u03a0\\u0391\\u039a\\u0395\\u03a4\\u0391...\",\"search_placeholder\":\"\\u0391\\u03bd\\u03b1\\u03b6\\u03ae\\u03c4\\u03b7\\u03c3\\u03b7 \\u03c0\\u03b1\\u03ba\\u03ad\\u03c4\\u03c9\\u03bd \\u03b5\\u03be\\u03b5\\u03c4\\u03ac\\u03c3\\u03b5\\u03c9\\u03bd...\",\"submit\":\"\\u0391\\u03bd\\u03b1\\u03b6\\u03ae\\u03c4\\u03b7\\u03c3\\u03b7\",\"search_hist\":\"Your search history\",\"search_hist_clear\":\"Clear\",\"mob_overlay_label\":\"Open search in the mobile overlay\",\"tax_product_cat_plu\":\"\\u039a\\u03b1\\u03c4\\u03b7\\u03b3\\u03bf\\u03c1\\u03af\\u03b5\\u03c2\",\"tax_product_cat\":\"\\u039a\\u03b1\\u03c4\\u03b7\\u03b3\\u03bf\\u03c1\\u03af\\u03b1\",\"tax_product_tag_plu\":\"\\u0395\\u03c4\\u03b9\\u03ba\\u03ad\\u03c4\\u03b5\\u03c2\",\"tax_product_tag\":\"Tag\"},\"ajax_search_endpoint\":\"\\/?wc-ajax=dgwt_wcas_ajax_search\",\"ajax_details_endpoint\":\"\\/?wc-ajax=dgwt_wcas_result_details\",\"ajax_prices_endpoint\":\"\\/?wc-ajax=dgwt_wcas_get_prices\",\"action_search\":\"dgwt_wcas_ajax_search\",\"action_result_details\":\"dgwt_wcas_result_details\",\"action_get_prices\":\"dgwt_wcas_get_prices\",\"min_chars\":\"3\",\"width\":\"auto\",\"show_details_panel\":\"\",\"show_images\":\"1\",\"show_price\":\"1\",\"show_desc\":\"\",\"show_sale_badge\":\"\",\"show_featured_badge\":\"\",\"dynamic_prices\":\"\",\"is_rtl\":\"\",\"show_preloader\":\"1\",\"show_headings\":\"1\",\"preloader_url\":\"\",\"taxonomy_brands\":\"\",\"img_url\":\"https:\\/\\/medbiodiagnosi.gr\\/wp-content\\/plugins\\/ajax-search-for-woocommerce\\/assets\\/img\\/\",\"is_premium\":\"\",\"layout_breakpoint\":\"992\",\"mobile_overlay_breakpoint\":\"992\",\"mobile_overlay_wrapper\":\"body\",\"mobile_overlay_delay\":\"0\",\"debounce_wait_ms\":\"400\",\"send_ga_events\":\"1\",\"enable_ga_site_search_module\":\"\",\"magnifier_icon\":\"\\t\\t\\t\\t<svg\\n\\t\\t\\t\\t\\tclass=\\\"\\\" xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\"\\n\\t\\t\\t\\t\\txmlns:xlink=\\\"http:\\/\\/www.w3.org\\/1999\\/xlink\\\" x=\\\"0px\\\" y=\\\"0px\\\"\\n\\t\\t\\t\\t\\tviewBox=\\\"0 0 51.539 51.361\\\" xml:space=\\\"preserve\\\">\\n\\t\\t\\t\\t\\t<path \\t\\t\\t\\t\\t\\td=\\\"M51.539,49.356L37.247,35.065c3.273-3.74,5.272-8.623,5.272-13.983c0-11.742-9.518-21.26-21.26-21.26 S0,9.339,0,21.082s9.518,21.26,21.26,21.26c5.361,0,10.244-1.999,13.983-5.272l14.292,14.292L51.539,49.356z M2.835,21.082 c0-10.176,8.249-18.425,18.425-18.425s18.425,8.249,18.425,18.425S31.436,39.507,21.26,39.507S2.835,31.258,2.835,21.082z\\\"\\/>\\n\\t\\t\\t\\t<\\/svg>\\n\\t\\t\\t\\t\",\"magnifier_icon_pirx\":\"\\t\\t\\t\\t<svg\\n\\t\\t\\t\\t\\tclass=\\\"\\\" xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\" width=\\\"18\\\" height=\\\"18\\\" viewBox=\\\"0 0 18 18\\\">\\n\\t\\t\\t\\t\\t<path d=\\\" M 16.722523,17.901412 C 16.572585,17.825208 15.36088,16.670476 14.029846,15.33534 L 11.609782,12.907819 11.01926,13.29667 C 8.7613237,14.783493 5.6172703,14.768302 3.332423,13.259528 -0.07366363,11.010358 -1.0146502,6.5989684 1.1898146,3.2148776\\n\\t\\t\\t\\t\\t1.5505179,2.6611594 2.4056498,1.7447266 2.9644271,1.3130497 3.4423015,0.94387379 4.3921825,0.48568469 5.1732652,0.2475835 5.886299,0.03022609 6.1341883,0 7.2037391,0 8.2732897,0 8.521179,0.03022609 9.234213,0.2475835 c 0.781083,0.23810119 1.730962,0.69629029 2.208837,1.0654662\\n\\t\\t\\t\\t\\t0.532501,0.4113763 1.39922,1.3400096 1.760153,1.8858877 1.520655,2.2998531 1.599025,5.3023778 0.199549,7.6451086 -0.208076,0.348322 -0.393306,0.668209 -0.411622,0.710863 -0.01831,0.04265 1.065556,1.18264 2.408603,2.533307 1.343046,1.350666 2.486621,2.574792 2.541278,2.720279 0.282475,0.7519\\n\\t\\t\\t\\t\\t-0.503089,1.456506 -1.218488,1.092917 z M 8.4027892,12.475062 C 9.434946,12.25579 10.131043,11.855461 10.99416,10.984753 11.554519,10.419467 11.842507,10.042366 12.062078,9.5863882 12.794223,8.0659672 12.793657,6.2652398 12.060578,4.756293 11.680383,3.9737304 10.453587,2.7178427\\n\\t\\t\\t\\t\\t9.730569,2.3710306 8.6921295,1.8729196 8.3992147,1.807606 7.2037567,1.807606 6.0082984,1.807606 5.7153841,1.87292 4.6769446,2.3710306 3.9539263,2.7178427 2.7271301,3.9737304 2.3469352,4.756293 1.6138384,6.2652398 1.6132726,8.0659672 2.3454252,9.5863882 c 0.4167354,0.8654208 1.5978784,2.0575608\\n\\t\\t\\t\\t\\t2.4443766,2.4671358 1.0971012,0.530827 2.3890403,0.681561 3.6130134,0.421538 z\\n\\t\\t\\t\\t\\t\\\"\\/>\\n\\t\\t\\t\\t<\\/svg>\\n\\t\\t\\t\\t\",\"history_icon\":\"\\t\\t\\t\\t<svg class=\\\"\\\" xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\" width=\\\"18\\\" height=\\\"16\\\">\\n\\t\\t\\t\\t\\t<g transform=\\\"translate(-17.498822,-36.972165)\\\">\\n\\t\\t\\t\\t\\t\\t<path \\t\\t\\t\\t\\t\\t\\td=\\\"m 26.596964,52.884295 c -0.954693,-0.11124 -2.056421,-0.464654 -2.888623,-0.926617 -0.816472,-0.45323 -1.309173,-0.860824 -1.384955,-1.145723 -0.106631,-0.400877 0.05237,-0.801458 0.401139,-1.010595 0.167198,-0.10026 0.232609,-0.118358 0.427772,-0.118358 0.283376,0 0.386032,0.04186 0.756111,0.308336 1.435559,1.033665 3.156285,1.398904 4.891415,1.038245 2.120335,-0.440728 3.927688,-2.053646 4.610313,-4.114337 0.244166,-0.737081 0.291537,-1.051873 0.293192,-1.948355 0.0013,-0.695797 -0.0093,-0.85228 -0.0806,-1.189552 -0.401426,-1.899416 -1.657702,-3.528366 -3.392535,-4.398932 -2.139097,-1.073431 -4.69701,-0.79194 -6.613131,0.727757 -0.337839,0.267945 -0.920833,0.890857 -1.191956,1.27357 -0.66875,0.944 -1.120577,2.298213 -1.120577,3.35859 v 0.210358 h 0.850434 c 0.82511,0 0.854119,0.0025 0.974178,0.08313 0.163025,0.109516 0.246992,0.333888 0.182877,0.488676 -0.02455,0.05927 -0.62148,0.693577 -1.32651,1.40957 -1.365272,1.3865 -1.427414,1.436994 -1.679504,1.364696 -0.151455,-0.04344 -2.737016,-2.624291 -2.790043,-2.784964 -0.05425,-0.16438 0.02425,-0.373373 0.179483,-0.477834 0.120095,-0.08082 0.148717,-0.08327 0.970779,-0.08327 h 0.847035 l 0.02338,-0.355074 c 0.07924,-1.203664 0.325558,-2.153721 0.819083,-3.159247 1.083047,-2.206642 3.117598,-3.79655 5.501043,-4.298811 0.795412,-0.167616 1.880855,-0.211313 2.672211,-0.107576 3.334659,0.437136 6.147035,3.06081 6.811793,6.354741 0.601713,2.981541 -0.541694,6.025743 -2.967431,7.900475 -1.127277,0.871217 -2.441309,1.407501 -3.893104,1.588856 -0.447309,0.05588 -1.452718,0.06242 -1.883268,0.01225 z m 3.375015,-5.084703 c -0.08608,-0.03206 -2.882291,-1.690237 -3.007703,-1.783586 -0.06187,-0.04605 -0.160194,-0.169835 -0.218507,-0.275078 L 26.639746,45.549577 V 43.70452 41.859464 L 26.749,41.705307 c 0.138408,-0.195294 0.31306,-0.289155 0.538046,-0.289155 0.231638,0 0.438499,0.109551 0.563553,0.298452 l 0.10019,0.151342 0.01053,1.610898 0.01053,1.610898 0.262607,0.154478 c 1.579961,0.929408 2.399444,1.432947 2.462496,1.513106 0.253582,0.322376 0.140877,0.816382 -0.226867,0.994404 -0.148379,0.07183 -0.377546,0.09477 -0.498098,0.04986 z\\\"\\/>\\n\\t\\t\\t\\t\\t<\\/g>\\n\\t\\t\\t\\t<\\/svg>\\n\\t\\t\\t\\t\",\"close_icon\":\"\\t\\t\\t\\t<svg class=\\\"\\\" xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\" height=\\\"24\\\" viewBox=\\\"0 0 24 24\\\" width=\\\"24\\\">\\n\\t\\t\\t\\t\\t<path \\t\\t\\t\\t\\t\\td=\\\"M18.3 5.71c-.39-.39-1.02-.39-1.41 0L12 10.59 7.11 5.7c-.39-.39-1.02-.39-1.41 0-.39.39-.39 1.02 0 1.41L10.59 12 5.7 16.89c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0L12 13.41l4.89 4.89c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L13.41 12l4.89-4.89c.38-.38.38-1.02 0-1.4z\\\"\\/>\\n\\t\\t\\t\\t<\\/svg>\\n\\t\\t\\t\\t\",\"back_icon\":\"\\t\\t\\t\\t<svg class=\\\"\\\" xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\" viewBox=\\\"0 0 16 16\\\">\\n\\t\\t\\t\\t\\t<path \\t\\t\\t\\t\\t\\td=\\\"M14 6.125H3.351l4.891-4.891L7 0 0 7l7 7 1.234-1.234L3.35 7.875H14z\\\" fill-rule=\\\"evenodd\\\"\\/>\\n\\t\\t\\t\\t<\\/svg>\\n\\t\\t\\t\\t\",\"preloader_icon\":\"\\t\\t\\t\\t<svg class=\\\"dgwt-wcas-loader-circular \\\" viewBox=\\\"25 25 50 50\\\">\\n\\t\\t\\t\\t\\t<circle class=\\\"dgwt-wcas-loader-circular-path\\\" cx=\\\"50\\\" cy=\\\"50\\\" r=\\\"20\\\" fill=\\\"none\\\"\\n\\t\\t\\t\\t\\t\\t stroke-miterlimit=\\\"10\\\"\\/>\\n\\t\\t\\t\\t<\\/svg>\\n\\t\\t\\t\\t\",\"voice_search_inactive_icon\":\"\\t\\t\\t\\t<svg class=\\\"dgwt-wcas-voice-search-mic-inactive\\\" xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\" height=\\\"24\\\" width=\\\"24\\\">\\n\\t\\t\\t\\t\\t<path \\t\\t\\t\\t\\t\\td=\\\"M12 13Q11.15 13 10.575 12.425Q10 11.85 10 11V5Q10 4.15 10.575 3.575Q11.15 3 12 3Q12.85 3 13.425 3.575Q14 4.15 14 5V11Q14 11.85 13.425 12.425Q12.85 13 12 13ZM12 8Q12 8 12 8Q12 8 12 8Q12 8 12 8Q12 8 12 8Q12 8 12 8Q12 8 12 8Q12 8 12 8Q12 8 12 8ZM11.5 20.5V16.975Q9.15 16.775 7.575 15.062Q6 13.35 6 11H7Q7 13.075 8.463 14.537Q9.925 16 12 16Q14.075 16 15.538 14.537Q17 13.075 17 11H18Q18 13.35 16.425 15.062Q14.85 16.775 12.5 16.975V20.5ZM12 12Q12.425 12 12.713 11.712Q13 11.425 13 11V5Q13 4.575 12.713 4.287Q12.425 4 12 4Q11.575 4 11.288 4.287Q11 4.575 11 5V11Q11 11.425 11.288 11.712Q11.575 12 12 12Z\\\"\\/>\\n\\t\\t\\t\\t<\\/svg>\\n\\t\\t\\t\\t\",\"voice_search_active_icon\":\"\\t\\t\\t\\t<svg\\n\\t\\t\\t\\t\\tclass=\\\"dgwt-wcas-voice-search-mic-active\\\" xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\" height=\\\"24\\\"\\n\\t\\t\\t\\t\\twidth=\\\"24\\\">\\n\\t\\t\\t\\t\\t<path \\t\\t\\t\\t\\t\\td=\\\"M12 13Q11.15 13 10.575 12.425Q10 11.85 10 11V5Q10 4.15 10.575 3.575Q11.15 3 12 3Q12.85 3 13.425 3.575Q14 4.15 14 5V11Q14 11.85 13.425 12.425Q12.85 13 12 13ZM11.5 20.5V16.975Q9.15 16.775 7.575 15.062Q6 13.35 6 11H7Q7 13.075 8.463 14.537Q9.925 16 12 16Q14.075 16 15.538 14.537Q17 13.075 17 11H18Q18 13.35 16.425 15.062Q14.85 16.775 12.5 16.975V20.5Z\\\"\\/>\\n\\t\\t\\t\\t<\\/svg>\\n\\t\\t\\t\\t\",\"voice_search_disabled_icon\":\"\\t\\t\\t\\t<svg class=\\\"dgwt-wcas-voice-search-mic-disabled\\\" xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\" height=\\\"24\\\" width=\\\"24\\\">\\n\\t\\t\\t\\t\\t<path \\t\\t\\t\\t\\t\\td=\\\"M16.725 13.4 15.975 12.625Q16.1 12.325 16.2 11.9Q16.3 11.475 16.3 11H17.3Q17.3 11.75 17.138 12.337Q16.975 12.925 16.725 13.4ZM13.25 9.9 9.3 5.925V5Q9.3 4.15 9.875 3.575Q10.45 3 11.3 3Q12.125 3 12.713 3.575Q13.3 4.15 13.3 5V9.7Q13.3 9.75 13.275 9.8Q13.25 9.85 13.25 9.9ZM10.8 20.5V17.025Q8.45 16.775 6.875 15.062Q5.3 13.35 5.3 11H6.3Q6.3 13.075 7.763 14.537Q9.225 16 11.3 16Q12.375 16 13.312 15.575Q14.25 15.15 14.925 14.4L15.625 15.125Q14.9 15.9 13.913 16.4Q12.925 16.9 11.8 17.025V20.5ZM19.925 20.825 1.95 2.85 2.675 2.15 20.65 20.125Z\\\"\\/>\\n\\t\\t\\t\\t<\\/svg>\\n\\t\\t\\t\\t\",\"custom_params\":{},\"convert_html\":\"1\",\"suggestions_wrapper\":\"body\",\"show_product_vendor\":\"\",\"disable_hits\":\"\",\"disable_submit\":\"\",\"fixer\":{\"broken_search_ui\":true,\"broken_search_ui_ajax\":true,\"broken_search_ui_hard\":false,\"broken_search_elementor_popups\":true,\"broken_search_jet_mobile_menu\":true,\"broken_search_browsers_back_arrow\":true,\"force_refresh_checkout\":true},\"voice_search_enabled\":\"\",\"voice_search_lang\":\"el-GR\",\"show_recently_searched_products\":\"\",\"show_recently_searched_phrases\":\"\",\"go_to_first_variation_on_submit\":\"\"}; /* ]]> */ /* <![CDATA[ */ window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['11238227'] = {\"default_language\":\"el\",\"languages\":[\"ar\",\"zh-CN\",\"en\",\"fr\",\"de\",\"el\",\"it\",\"ru\",\"es\",\"tr\",\"uk\"],\"url_structure\":\"none\",\"flag_style\":\"2d\",\"flag_size\":24,\"wrapper_selector\":\"#gt-wrapper-11238227\",\"alt_flags\":[],\"horizontal_position\":\"left\",\"vertical_position\":\"bottom\",\"flags_location\":\"\\/wp-content\\/plugins\\/gtranslate\\/flags\\/\"}; /* ]]> */ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-189724865-1', 'auto'); ga('send', 'pageview'); window.get = {}; window.get.captcha = function(enteredCaptcha) { return jQuery.get(ajaxurl, { action : \"mk_validate_captcha_input\", captcha: enteredCaptcha }); };",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/medbiodiagnosi.gr-home-aefece0d/homepage--aefece0d.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/medbiodiagnosi.gr-home-aefece0d/homepage--aefece0d.txt",
+      "imageReferences": [
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/med-biodiagnosi.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/",
+          "pageType": "homepage",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://medbiodiagnosi.gr/",
+              "retrievedAt": "2026-03-31T13:21:06.966Z"
+            }
+          ]
+        },
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/01/medbiodiagnosi.svg",
+          "alt": "Εξετάσεις Αιματολογικές, Βιοχημικές, Πήξης – Αιμόστασης, Ορμονολογικές, Ανοσολογικές, Καλλιέργιες, Έλεγχος θυροειδούς, Αλλεργιογόνα",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://medbiodiagnosi.gr/",
+              "retrievedAt": "2026-03-31T13:21:06.966Z"
+            }
+          ]
+        },
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/eopi_logo.png",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://medbiodiagnosi.gr/",
+              "retrievedAt": "2026-03-31T13:21:06.966Z"
+            }
+          ]
+        },
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/covid-19-60x60.png",
+          "alt": "covid-19",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://medbiodiagnosi.gr/",
+              "retrievedAt": "2026-03-31T13:21:06.966Z"
+            }
+          ]
+        },
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/sars-cov-2_rapid_test-60x60.jpg",
+          "alt": "sars-cov-2_rapid_test",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://medbiodiagnosi.gr/",
+              "retrievedAt": "2026-03-31T13:21:06.966Z"
+            }
+          ]
+        },
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/h1n1-60x60.jpg",
+          "alt": "h1n1",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://medbiodiagnosi.gr/",
+              "retrievedAt": "2026-03-31T13:21:06.966Z"
+            }
+          ]
+        },
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/bfi_thumb/microbiology-p2e05b5xv2ygo23aco42hfkw1wif0zkelkl90l1888.jpg",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://medbiodiagnosi.gr/",
+              "retrievedAt": "2026-03-31T13:21:06.966Z"
+            }
+          ]
+        },
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/bfi_thumb/liothyronine-p2e13rwwge4ydc113kflwqhc6imx9ge3c5q6htxk2w.jpg",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://medbiodiagnosi.gr/",
+              "retrievedAt": "2026-03-31T13:21:06.966Z"
+            }
+          ]
+        },
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/bfi_thumb/biochemical-p2e1c00297e9yi2y2mf385rjaw3jm41jgv84nzqjmw.jpg",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://medbiodiagnosi.gr/",
+              "retrievedAt": "2026-03-31T13:21:06.966Z"
+            }
+          ]
+        },
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/bfi_thumb/hemotological-p2e1gvrvr82w9kzmk8ebofeqdy16lifch17xeqhxbc.png",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://medbiodiagnosi.gr/",
+              "retrievedAt": "2026-03-31T13:21:06.966Z"
+            }
+          ]
+        },
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/bfi_thumb/t-cell-p2e1p11izj8cvx5mzr5xadejq5vpb2rllcrf52f3e0.jpg",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://medbiodiagnosi.gr/",
+              "retrievedAt": "2026-03-31T13:21:06.966Z"
+            }
+          ]
+        },
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/bfi_thumb/allergy-icon-p2e1twtchjwz702bhd55qn1qt7tcah5elir7vt6h2g.png",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://medbiodiagnosi.gr/",
+              "retrievedAt": "2026-03-31T13:21:06.966Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.968Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/medbiodiagnosi.gr-home-aefece0d/homepage-page-aefece0d.png"
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://medbiodiagnosi.gr/orologiko",
+      "finalUrl": "https://medbiodiagnosi.gr/orologiko",
+      "fetchedAt": "2026-03-31T13:21:12.782Z",
+      "metadata": {
+        "title": "Ορολογικό - MED ΒΙΟΔΙΑΓΝΩΣΗ ΚΥΨΕΛΗ - ΧΙΟΣ - ΔΙΑΓΝΩΣΤΙΚΟ ΜΙΚΡΟΒΙΟΛΟΓΙΚΟ ΚΕΝΤΡΟ",
+        "canonicalUrl": "https://medbiodiagnosi.gr/orologiko/",
+        "language": "el",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Ορολογικό - MED ΒΙΟΔΙΑΓΝΩΣΗ ΚΥΨΕΛΗ - ΧΙΟΣ - ΔΙΑΓΝΩΣΤΙΚΟ ΜΙΚΡΟΒΙΟΛΟΓΙΚΟ ΚΕΝΤΡΟ",
+        "openGraphImage": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/sepsis-bacteria.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Ορολογικό"
+        },
+        {
+          "level": "h2",
+          "text": "Καλάθι"
+        },
+        {
+          "level": "h2",
+          "text": "Κυριότερες εξετάσεις"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://medbiodiagnosi.gr/",
+          "label": "ΑΡΧΙΚΗ"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/anosologiko/",
+          "label": "Ανοσολογικό"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/ogkologiko/",
+          "label": "Ογκολογικό"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/orologiko/",
+          "label": "Ορολογικό"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/tmima-gonimotitas/",
+          "label": "Τμήμα γονιμότητας"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/tmima-yperichon/",
+          "label": "Τμήμα Υπερήχων"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/ergastiriaki-ypodomi/",
+          "label": "ΕΡΓΑΣΤΗΡΙΑΚΗ ΥΠΟΔΟΜΗ"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/aimatologikes-exetaseis/",
+          "label": "Αιματολογικές εξετάσεις"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/geniki-oyron/",
+          "label": "Γενική ούρων"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/thyreoeidis-exetaseis/",
+          "label": "Θυρεοειδής & Εξετάσεις"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/oi-aparaitites-exetaseis/",
+          "label": "Oι απαραίτητες εξετάσεις"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/oi-aparaitites-exetaseis-gia-ta-paidia/",
+          "label": "Oι απαραίτητες εξετάσεις για τα Παιδιά"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/agora-online/",
+          "label": "ΠΡΟΣΦΟΡΕΣ"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/xrisimes-plirofories/",
+          "label": "ΧΡΗΣΙΜΑ"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/rantevoy-online/",
+          "label": "ΡΑΝΤΕΒΟΥ ONLINE"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/cart/",
+          "label": "0"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "210 867 6090",
+          "210 341 9458",
+          "2271 0 29991",
+          "2024-08-02 09",
+          "1.0000000000000000818030539140313095458623138256371021270751953125",
+          "33225005",
+          "189724865-1"
+        ],
+        "emails": [
+          "kipselibiodiagnosi@gmail.com",
+          "petralonabiodiagnosi1@gmail.com",
+          "xiosbiodiagnosi@gmail.com"
+        ],
+        "addresses": [],
+        "socialLinks": [],
+        "forms": []
+      },
+      "textContent": "ΑΡΧΙΚΗ ΤΜΗΜΑΤΑ Ανοσολογικό Ογκολογικό Ορολογικό Τμήμα γονιμότητας Τμήμα Υπερήχων ΕΡΓΑΣΤΗΡΙΑΚΗ ΥΠΟΔΟΜΗ ΕΞΕΤΑΣΕΙΣ Αιματολογικές εξετάσεις Γενική ούρων Θυρεοειδής & Εξετάσεις Oι απαραίτητες εξετάσεις Oι απαραίτητες εξετάσεις για τα Παιδιά ΠΡΟΣΦΟΡΕΣ ΧΡΗΣΙΜΑ ΡΑΝΤΕΒΟΥ ONLINE 0 Καλάθι ΑΡΧΙΚΗ ΤΜΗΜΑΤΑ Ανοσολογικό Ογκολογικό Ορολογικό Τμήμα γονιμότητας Τμήμα Υπερήχων ΕΡΓΑΣΤΗΡΙΑΚΗ ΥΠΟΔΟΜΗ ΕΞΕΤΑΣΕΙΣ Αιματολογικές εξετάσεις Γενική ούρων Θυρεοειδής & Εξετάσεις Oι απαραίτητες εξετάσεις Oι απαραίτητες εξετάσεις για τα Παιδιά ΠΡΟΣΦΟΡΕΣ ΧΡΗΣΙΜΑ ΡΑΝΤΕΒΟΥ ONLINE Ορολογικό Στο τμήμα αυτό γίνονται όλες οι εξετάσεις που αφορούν την ανάλυση του ορού του αίματος. Στο εργαστήριο, ο οροδιαγνωστικός έλεγχος επικεντρώνεται στην ανίχνευση αντισωμάτων στον ορό. Τα αντισώματα αυτά παράγονται κυρίως προς απάντηση μιας μικροβιακής ή βακτηριακής λοίμωξης (π.χ. ASTO), κατά άλλων “ξένων” προς τον οργανισμό πρωτεϊνών (π.χ. στις μεταγγίσεις), ή κατά πρωτεϊνών του ίδιου του οργανισμού (π.χ. αυτοάνοσα νοσήματα). Κυριότερες εξετάσεις CRP ποιοτική RA-Test VIDAL WRIGHT VDRL Mono-Test LE Test RPR STREP-A-test Τηλ. 210 867 6090 Βελβενδού 7-9, Κυψέλη Αθήνα 11364Χάρτης ΚΑΘΗΜΕΡΙΝΑ ΠΡΩΙ: 06:45 – 14:00 ΚΑΘΗΜΕΡΙΝΑ ΑΠΟΓΕΥΜΑ: 18:00 – 20:00 ΣΑΒΒΑΤΟ: 07:45 – 12:00 kipselibiodiagnosi@gmail.com Τηλ. 210 341 9458 Κειριαδών 29, Πετράλωνα Αθήνα 11854Χάρτης ΚΑΘΗΜΕΡΙΝΑ: 06:45 – 20:00 ΣΑΒΒΑΤΟ: 07:45 – 12:00 petralonabiodiagnosi1@gmail.com Συμβεβλημένο με τον ΕΟΠΥΥ Τηλ. 2271 0 29991 Δημοτικό Parking Φαρκαινας, Αεροπόρου Ροδοκανάκη 43, Χίος 82100Χάρτης ΚΑΘΗΜΕΡΙΝΑ: 06:45 – 14:00 ΤΡΙΤΗ – ΠΕΜΠΤΗ: 18:00 – 20:00 ΣΑΒΒΑΤΟ: 08:00 – 12:00 xiosbiodiagnosi@gmail.com Copyright All Rights Reserved © 2021 Iatros.Website #text-block-4 { margin-bottom:0px; text-align:center; } .full-width-2 { min-height:100px; margin-bottom:0px; } .full-width-2 .page-section-content { padding:10px 0 10px; } #background-layer--2 { ; background-position:left top; background-repeat:repeat; ; } #background-layer--2 .mk-color-layer { ; width:100%; height:100%; position:absolute; top:0; left:0; } #text-block-6 { margin-bottom:0px; text-align:left; } #list-8 {margin-bottom:30px} #list-8 ul li .mk-svg-icon { fill:#c32024 } #list-10 {margin-bottom:30px} #list-10 ul li .mk-svg-icon { fill:#c32024 } #list-12 {margin-bottom:30px} #list-12 ul li .mk-svg-icon { fill:#c32024 } {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"\\/*\"},{\"not\":{\"href_matches\":[\"\\/wp-*.php\",\"\\/wp-admin\\/*\",\"\\/wp-content\\/uploads\\/*\",\"\\/wp-content\\/*\",\"\\/wp-content\\/plugins\\/*\",\"\\/wp-content\\/themes\\/jupiter\\/*\",\"\\/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} php = { hasAdminbar: false, json: (null != null) ? null : \"\", jsPath: 'https://medbiodiagnosi.gr/wp-content/themes/jupiter/assets/js' }; (function () { var c = document.body.className; c = c.replace(/woocommerce-no-js/, 'woocommerce-js'); document.body.className = c; })(); /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); /* ]]> */ /* <![CDATA[ */ ( function( domain, translations ) { var localeData = translations.locale_data[ domain ] || translations.locale_data.messages; localeData[\"\"].domain = domain; wp.i18n.setLocaleData( localeData, domain ); } )( \"contact-form-7\", {\"translation-revision-date\":\"2024-08-02 09:16:28+0000\",\"generator\":\"GlotPress\\/4.0.1\",\"domain\":\"messages\",\"locale_data\":{\"messages\":{\"\":{\"domain\":\"messages\",\"plural-forms\":\"nplurals=2; plural=n != 1;\",\"lang\":\"el_GR\"},\"This contact form is placed in the wrong place.\":[\"\\u0397 \\u03c6\\u03cc\\u03c1\\u03bc\\u03b1 \\u03b5\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03af\\u03b1\\u03c2 \\u03b5\\u03af\\u03bd\\u03b1\\u03b9 \\u03c3\\u03b5 \\u03bb\\u03ac\\u03b8\\u03bf\\u03c2 \\u03b8\\u03ad\\u03c3\\u03b7.\"],\"Error:\":[\"\\u03a3\\u03c6\\u03ac\\u03bb\\u03bc\\u03b1:\"]}},\"comment\":{\"reference\":\"includes\\/js\\/index.js\"}} ); /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/medbiodiagnosi.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; /* ]]> */ /* <![CDATA[ */ var wc_order_attribution = {\"params\":{\"lifetime\":1.0000000000000000818030539140313095458623138256371021270751953125e-5,\"session\":30,\"base64\":false,\"ajaxurl\":\"https:\\/\\/medbiodiagnosi.gr\\/wp-admin\\/admin-ajax.php\",\"prefix\":\"wc_order_attribution_\",\"allowTracking\":true},\"fields\":{\"source_type\":\"current.typ\",\"referrer\":\"current_add.rf\",\"utm_campaign\":\"current.cmp\",\"utm_source\":\"current.src\",\"utm_medium\":\"current.mdm\",\"utm_content\":\"current.cnt\",\"utm_id\":\"current.id\",\"utm_term\":\"current.trm\",\"utm_source_platform\":\"current.plt\",\"utm_creative_format\":\"current.fmt\",\"utm_marketing_tactic\":\"current.tct\",\"session_entry\":\"current_add.ep\",\"session_start_time\":\"current_add.fd\",\"session_pages\":\"session.pgs\",\"session_count\":\"udata.vst\",\"user_agent\":\"udata.uag\"}}; /* ]]> */ /* <![CDATA[ */ var jupiterDonutVars = {\"themeDir\":\"https:\\/\\/medbiodiagnosi.gr\\/wp-content\\/themes\\/jupiter\",\"assetsUrl\":\"https:\\/\\/medbiodiagnosi.gr\\/wp-content\\/plugins\\/jupiter-donut\\/assets\",\"gridWidth\":\"1280\",\"ajaxUrl\":\"https:\\/\\/medbiodiagnosi.gr\\/wp-admin\\/admin-ajax.php\",\"nonce\":\"656a603850\"}; /* ]]> */ /* <![CDATA[ */ var _mpc_ajax = \"https:\\/\\/medbiodiagnosi.gr\\/wp-admin\\/admin-ajax.php\"; var _mpc_animations = \"1\"; var _mpc_parallax = \"1\"; var _mpc_scroll_to_id = \"1\"; /* ]]> */ /* <![CDATA[ */ var wc_cart_fragments_params = {\"ajax_url\":\"\\/wp-admin\\/admin-ajax.php\",\"wc_ajax_url\":\"\\/?wc-ajax=%%endpoint%%\",\"cart_hash_key\":\"wc_cart_hash_dd1939cf5510aa3e75b955a31494b418\",\"fragment_name\":\"wc_fragments_dd1939cf5510aa3e75b955a31494b418\",\"request_timeout\":\"5000\"}; /* ]]> */ /* <![CDATA[ */ var vcData = {\"currentTheme\":{\"slug\":\"jupiter\"}}; /* ]]> */ /* <![CDATA[ */ window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['33225005'] = {\"default_language\":\"el\",\"languages\":[\"ar\",\"zh-CN\",\"en\",\"fr\",\"de\",\"el\",\"it\",\"ru\",\"es\",\"tr\",\"uk\"],\"url_structure\":\"none\",\"flag_style\":\"2d\",\"flag_size\":24,\"wrapper_selector\":\"#gt-wrapper-33225005\",\"alt_flags\":[],\"horizontal_position\":\"left\",\"vertical_position\":\"bottom\",\"flags_location\":\"\\/wp-content\\/plugins\\/gtranslate\\/flags\\/\"}; /* ]]> */ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-189724865-1', 'auto'); ga('send', 'pageview'); window.get = {}; window.get.captcha = function(enteredCaptcha) { return jQuery.get(ajaxurl, { action : \"mk_validate_captcha_input\", captcha: enteredCaptcha }); };",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/medbiodiagnosi.gr-home-aefece0d/contact-orologiko-ab2f511f.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/medbiodiagnosi.gr-home-aefece0d/contact-orologiko-ab2f511f.txt",
+      "imageReferences": [
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/sepsis-bacteria.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/orologiko",
+          "pageType": "contact",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://medbiodiagnosi.gr/orologiko",
+              "retrievedAt": "2026-03-31T13:21:12.781Z"
+            }
+          ]
+        },
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/01/medbiodiagnosi.svg",
+          "alt": "Εξετάσεις Αιματολογικές, Βιοχημικές, Πήξης – Αιμόστασης, Ορμονολογικές, Ανοσολογικές, Καλλιέργιες, Έλεγχος θυροειδούς, Αλλεργιογόνα",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/orologiko",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://medbiodiagnosi.gr/orologiko",
+              "retrievedAt": "2026-03-31T13:21:12.781Z"
+            }
+          ]
+        },
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/eopi_logo.png",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/orologiko",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://medbiodiagnosi.gr/orologiko",
+              "retrievedAt": "2026-03-31T13:21:12.781Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.55,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://medbiodiagnosi.gr/orologiko",
+          "retrievedAt": "2026-03-31T13:21:12.782Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/medbiodiagnosi.gr-home-aefece0d/contact-orologiko-ab2f511f.png"
+    },
+    "booking": {
+      "pageType": "booking",
+      "requestedUrl": "https://medbiodiagnosi.gr/rantevoy-online",
+      "finalUrl": "https://medbiodiagnosi.gr/rantevoy-online",
+      "fetchedAt": "2026-03-31T13:21:08.354Z",
+      "metadata": {
+        "title": "ΡΑΝΤΕΒΟΥ ONLINE - MED ΒΙΟΔΙΑΓΝΩΣΗ ΚΥΨΕΛΗ - ΧΙΟΣ - ΔΙΑΓΝΩΣΤΙΚΟ ΜΙΚΡΟΒΙΟΛΟΓΙΚΟ ΚΕΝΤΡΟ",
+        "canonicalUrl": "https://medbiodiagnosi.gr/rantevoy-online/",
+        "language": "el",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "ΡΑΝΤΕΒΟΥ ONLINE - MED ΒΙΟΔΙΑΓΝΩΣΗ ΚΥΨΕΛΗ - ΧΙΟΣ - ΔΙΑΓΝΩΣΤΙΚΟ ΜΙΚΡΟΒΙΟΛΟΓΙΚΟ ΚΕΝΤΡΟ",
+        "openGraphImage": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/medbiodiagnosi-randevou-online.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "level": "h2",
+          "text": "Καλάθι"
+        },
+        {
+          "level": "h2",
+          "text": "Κλείστε το Ραντεβού σας Online!"
+        },
+        {
+          "level": "h2",
+          "text": "Αθήνα"
+        },
+        {
+          "level": "h2",
+          "text": "Χίος"
+        },
+        {
+          "level": "h2",
+          "text": "ΚΥΨΕΛΗ ΑΘΗΝΑ"
+        },
+        {
+          "level": "h2",
+          "text": "ΧΙΟΣ"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://medbiodiagnosi.gr/",
+          "label": "ΑΡΧΙΚΗ"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/anosologiko/",
+          "label": "Ανοσολογικό"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/ogkologiko/",
+          "label": "Ογκολογικό"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/orologiko/",
+          "label": "Ορολογικό"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/tmima-gonimotitas/",
+          "label": "Τμήμα γονιμότητας"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/tmima-yperichon/",
+          "label": "Τμήμα Υπερήχων"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/ergastiriaki-ypodomi/",
+          "label": "ΕΡΓΑΣΤΗΡΙΑΚΗ ΥΠΟΔΟΜΗ"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/aimatologikes-exetaseis/",
+          "label": "Αιματολογικές εξετάσεις"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/geniki-oyron/",
+          "label": "Γενική ούρων"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/thyreoeidis-exetaseis/",
+          "label": "Θυρεοειδής & Εξετάσεις"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/oi-aparaitites-exetaseis/",
+          "label": "Oι απαραίτητες εξετάσεις"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/oi-aparaitites-exetaseis-gia-ta-paidia/",
+          "label": "Oι απαραίτητες εξετάσεις για τα Παιδιά"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/agora-online/",
+          "label": "ΠΡΟΣΦΟΡΕΣ"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/xrisimes-plirofories/",
+          "label": "ΧΡΗΣΙΜΑ"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/rantevoy-online/",
+          "label": "ΡΑΝΤΕΒΟΥ ONLINE"
+        },
+        {
+          "href": "https://medbiodiagnosi.gr/cart/",
+          "label": "0"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "2026-03-31",
+          "210 867 6090",
+          "210 341 9458",
+          "2271 0 29991",
+          "2024-08-02 09",
+          "1.0000000000000000818030539140313095458623138256371021270751953125",
+          "25346969",
+          "189724865-1"
+        ],
+        "emails": [
+          "kipselibiodiagnosi@gmail.com",
+          "petralonabiodiagnosi1@gmail.com",
+          "xiosbiodiagnosi@gmail.com"
+        ],
+        "addresses": [],
+        "socialLinks": [],
+        "forms": []
+      },
+      "textContent": "ΑΡΧΙΚΗ ΤΜΗΜΑΤΑ Ανοσολογικό Ογκολογικό Ορολογικό Τμήμα γονιμότητας Τμήμα Υπερήχων ΕΡΓΑΣΤΗΡΙΑΚΗ ΥΠΟΔΟΜΗ ΕΞΕΤΑΣΕΙΣ Αιματολογικές εξετάσεις Γενική ούρων Θυρεοειδής & Εξετάσεις Oι απαραίτητες εξετάσεις Oι απαραίτητες εξετάσεις για τα Παιδιά ΠΡΟΣΦΟΡΕΣ ΧΡΗΣΙΜΑ ΡΑΝΤΕΒΟΥ ONLINE 0 Καλάθι ΑΡΧΙΚΗ ΤΜΗΜΑΤΑ Ανοσολογικό Ογκολογικό Ορολογικό Τμήμα γονιμότητας Τμήμα Υπερήχων ΕΡΓΑΣΤΗΡΙΑΚΗ ΥΠΟΔΟΜΗ ΕΞΕΤΑΣΕΙΣ Αιματολογικές εξετάσεις Γενική ούρων Θυρεοειδής & Εξετάσεις Oι απαραίτητες εξετάσεις Oι απαραίτητες εξετάσεις για τα Παιδιά ΠΡΟΣΦΟΡΕΣ ΧΡΗΣΙΜΑ ΡΑΝΤΕΒΟΥ ONLINE ΕΠΙΚΟΙΝΩΝΙΑ Κλείστε το Ραντεβού σας Online! Αθήνα Χίος var ea_settings = {\"trans.service\":\"\\u03a5\\u03c0\\u03b7\\u03c1\\u03b5\\u03c3\\u03af\\u03b1\",\"trans.location\":\"\\u03a4\\u03bf\\u03c0\\u03bf\\u03b8\\u03b5\\u03c3\\u03af\\u03b1\",\"trans.worker\":\"\\u0394\\u03b9\\u03b1\\u03b3\\u03bd\\u03c9\\u03c3\\u03c4\\u03b9\\u03ba\\u03cc \\u039a\\u03ad\\u03bd\\u03c4\\u03c1\\u03bf\",\"trans.service_option\":\"Select Service\",\"trans.location_option\":\"Select Location\",\"trans.worker_option\":\"Select Worker\",\"trans.customer_search_label\":\"Search Customer\",\"trans.done_message\":\"\\u03a4\\u03bf \\u03c1\\u03b1\\u03bd\\u03c4\\u03b5\\u03b2\\u03bf\\u03cd \\u03c3\\u03b1\\u03c2 \\u03ad\\u03c7\\u03b5\\u03b9 \\u03ba\\u03b1\\u03c4\\u03b1\\u03c7\\u03c9\\u03c1\\u03b7\\u03b8\\u03b5\\u03af. \\u0398\\u03b1 \\u03b5\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03ae\\u03c3\\u03bf\\u03c5\\u03bc\\u03b5 \\u03bc\\u03b1\\u03b6\\u03af \\u03c3\\u03b1\\u03c2 \\u03c4\\u03bf \\u03c3\\u03c5\\u03bd\\u03c4\\u03bf\\u03bc\\u03cc\\u03c4\\u03b5\\u03c1\\u03bf \\u03b4\\u03c5\\u03bd\\u03b1\\u03c4\\u03cc \\u03b3\\u03b9\\u03b1 \\u03c4\\u03b7\\u03bd \\u03b5\\u03c0\\u03b9\\u03b2\\u03b5\\u03b2\\u03b1\\u03af\\u03c9\\u03c3\\u03b7 \\u03c4\\u03bf\\u03c5.\",\"trans.submit_button_text\":\"Submit\",\"time_format\":\"h:mm A\",\"trans.currency\":\"$\",\"price.hide\":\"1\",\"price.hide.service\":\"1\",\"hide.decimal_in_price\":\"0\",\"datepicker\":\"el\",\"form.label.above\":\"0\",\"show.iagree\":\"0\",\"show.display_thankyou_note\":\"0\",\"show.customer_search_front\":\"0\",\"customer_search_password_only\":\"0\",\"delete_data_on_uninstall\":\"0\",\"customer_search_roles\":\"[]\",\"cancel.scroll\":\"calendar\",\"compatibility.mode\":\"0\",\"css.off\":\"0\",\"submit.redirect\":\"\",\"advance.redirect\":\"[]\",\"advance_cancel.redirect\":\"[]\",\"block.time\":\"0\",\"cancel_time\":\"0\",\"max.appointments\":\"5\",\"pre.reservation\":\"0\",\"currency.before\":\"0\",\"gdpr.on\":\"0\",\"gdpr.label\":\"By using this form you agree with the storage and handling of your data by this website.\",\"gdpr.link\":\"\",\"gdpr.message\":\"You need to accept the privacy checkbox\",\"sort.workers-by\":null,\"sort.services-by\":null,\"sort.locations-by\":null,\"order.workers-by\":null,\"order.services-by\":null,\"order.locations-by\":null,\"captcha.site-key\":\"6LetVlQaAAAAAO-ml6WkW4FVL9rX_EmhMrES9JM6\",\"captcha3.site-key\":\"\",\"label.from_to\":\"0\",\"is_multiple_booking_allowed\":\"0\",\"pending_message\":\"Your appointment has been submitted and is currently pending approval. You will be notified once it is confirmed.\",\"confirmed_message\":\"Your appointment has been confirmed. Thank you!\",\"reservation_message\":\"Your appointment has been reserved. You will be notified once it is confirmed.\",\"trans.confirmation-title\":\"Thank You for Booking!\",\"check\":\"a8f3472e58\",\"width\":\"100%\",\"scroll_off\":\"true\",\"layout_cols\":\"2\",\"start_of_week\":\"1\",\"rtl\":\"0\",\"default_date\":\"2026-03-31\",\"min_date\":null,\"max_date\":null,\"show_remaining_slots\":\"0\",\"show_week\":\"0\",\"save_form_content\":true,\"cal_auto_select\":\"1\",\"auto_select_slot\":\"0\",\"auto_select_option\":\"0\",\"block_days\":null,\"block_days_tooltip\":\"\",\"trans.please-select-new-date\":\"\\u03a0\\u03b1\\u03c1\\u03b1\\u03ba\\u03b1\\u03bb\\u03ce \\u03b5\\u03c0\\u03b9\\u03bb\\u03ad\\u03be\\u03c4\\u03b5 \\u03ac\\u03bb\\u03bb\\u03b7 \\u03b7\\u03bc\\u03ad\\u03c1\\u03b1\",\"trans.personal-informations\":\"\\u03a0\\u03c1\\u03bf\\u03c3\\u03c9\\u03c0\\u03b9\\u03ba\\u03ad\\u03c2 \\u03c0\\u03bb\\u03b7\\u03c1\\u03bf\\u03c6\\u03bf\\u03c1\\u03af\\u03b5\\u03c2\",\"trans.field-required\":\"\\u0391\\u03c5\\u03c4\\u03cc \\u03c4\\u03bf \\u03c0\\u03b5\\u03b4\\u03af\\u03bf \\u03b1\\u03c0\\u03b1\\u03b9\\u03c4\\u03b5\\u03af\\u03c4\\u03b1\\u03b9.\",\"trans.error-email\":\"\\u03a0\\u03b1\\u03c1\\u03b1\\u03ba\\u03b1\\u03bb\\u03bf\\u03cd\\u03bc\\u03b5 \\u03b5\\u03b9\\u03c3\\u03ac\\u03b3\\u03b5\\u03c4\\u03b5 \\u03bc\\u03b9\\u03b1 \\u03ad\\u03b3\\u03ba\\u03c5\\u03c1\\u03b7 \\u03b4\\u03b9\\u03b5\\u03cd\\u03b8\\u03c5\\u03bd\\u03c3\\u03b7 email\",\"trans.error-name\":\"\\u0395\\u03b9\\u03c3\\u03ac\\u03b3\\u03b5\\u03c4\\u03b5 \\u03c4\\u03bf\\u03c5\\u03bb\\u03ac\\u03c7\\u03b9\\u03c3\\u03c4\\u03bf\\u03bd 3 \\u03c7\\u03b1\\u03c1\\u03b1\\u03ba\\u03c4\\u03ae\\u03c1\\u03b5\\u03c2.\",\"trans.error-phone\":\"\\u0395\\u03b9\\u03c3\\u03ac\\u03b3\\u03b5\\u03c4\\u03b5 \\u03c4\\u03bf\\u03c5\\u03bb\\u03ac\\u03c7\\u03b9\\u03c3\\u03c4\\u03bf\\u03bd 3 \\u03c8\\u03b7\\u03c6\\u03af\\u03b1.\",\"trans.fields\":\"\\u03a4\\u03b1 \\u03c0\\u03b5\\u03b4\\u03af\\u03b1 \\u03bc\\u03b5 * \\u03b5\\u03af\\u03bd\\u03b1\\u03b9 \\u03c5\\u03c0\\u03bf\\u03c7\\u03c1\\u03b5\\u03c9\\u03c4\\u03b9\\u03ba\\u03ac\",\"trans.email\":\"Email\",\"trans.name\":\"\\u038c\\u03bd\\u03bf\\u03bc\\u03b1\",\"trans.phone\":\"\\u03a4\\u03b7\\u03bb\\u03ad\\u03c6\\u03c9\\u03bd\\u03bf\",\"trans.comment\":\"\\u03a3\\u03c7\\u03cc\\u03bb\\u03b9\\u03bf\",\"trans.overview-message\":\"\\u0395\\u03bb\\u03ad\\u03b3\\u03be\\u03c4\\u03b5 \\u03c4\\u03b9\\u03c2 \\u03bb\\u03b5\\u03c0\\u03c4\\u03bf\\u03bc\\u03ad\\u03c1\\u03b5\\u03b9\\u03b5\\u03c2 \\u03c4\\u03bf\\u03c5 \\u03c1\\u03b1\\u03bd\\u03c4\\u03b5\\u03b2\\u03bf\\u03cd \\u03c3\\u03b1\\u03c2 \\u03ba\\u03b1\\u03b9 \\u03b5\\u03c0\\u03b9\\u03b2\\u03b5\\u03b2\\u03b1\\u03b9\\u03ce\\u03c3\\u03c4\\u03b5:\",\"trans.booking-overview\":\"\\u03a0\\u03b5\\u03c1\\u03af\\u03bb\\u03b7\\u03c8\\u03b7 \\u03ba\\u03c1\\u03ac\\u03c4\\u03b7\\u03c3\\u03b7\\u03c2\",\"trans.date-time\":\"\\u0397\\u03bc\\u03b5\\u03c1\\u03bf\\u03bc\\u03b7\\u03bd\\u03af\\u03b1 & \\u038f\\u03c1\\u03b1\",\"trans.submit\":\"\\u03a5\\u03c0\\u03bf\\u03b2\\u03bf\\u03bb\\u03ae\",\"trans.cancel\":\"\\u0386\\u03ba\\u03c5\\u03c1\\u03bf\",\"trans.price\":\"\\u03a4\\u03b9\\u03bc\\u03ae\",\"trans.iagree\":\"\\u03a3\\u03c5\\u03bc\\u03c6\\u03c9\\u03bd\\u03ce \\u03bc\\u03b5 \\u03c4\\u03bf\\u03c5\\u03c2 \\u03cc\\u03c1\\u03bf\\u03c5\\u03c2 \\u03ba\\u03b1\\u03b9 \\u03c4\\u03b9\\u03c2 \\u03c0\\u03c1\\u03bf\\u03cb\\u03c0\\u03bf\\u03b8\\u03ad\\u03c3\\u03b5\\u03b9\\u03c2\",\"trans.field-iagree\":\"\\u03a0\\u03b1\\u03c1\\u03b1\\u03ba\\u03b1\\u03bb\\u03ce, \\u03b1\\u03c0\\u03bf\\u03b4\\u03b5\\u03c7\\u03c4\\u03b5\\u03af\\u03c4\\u03b5 \\u03c4\\u03bf\\u03c5\\u03c2 \\u03cc\\u03c1\\u03bf\\u03c5\\u03c2 \\u03ba\\u03b1\\u03b9 \\u03c4\\u03b9\\u03c2 \\u03c0\\u03c1\\u03bf\\u03cb\\u03c0\\u03bf\\u03b8\\u03ad\\u03c3\\u03b5\\u03b9\\u03c2.\",\"trans.slot-not-selectable\":\"\\u0394\\u03b5\\u03bd \\u03bc\\u03c0\\u03bf\\u03c1\\u03b5\\u03af\\u03c4\\u03b5 \\u03bd\\u03b1 \\u03b5\\u03c0\\u03b9\\u03bb\\u03ad\\u03be\\u03b5\\u03c4\\u03b5 \\u03b1\\u03c5\\u03c4\\u03cc \\u03c4\\u03bf \\u03c7\\u03c1\\u03bf\\u03bd\\u03b9\\u03ba\\u03cc \\u03c0\\u03b5\\u03c1\\u03b9\\u03b8\\u03ce\\u03c1\\u03b9\\u03bf!\",\"trans.nonce-expired\":\"\\u039f \\u03ba\\u03c9\\u03b4\\u03b9\\u03ba\\u03cc\\u03c2 \\u03b5\\u03c0\\u03b9\\u03ba\\u03cd\\u03c1\\u03c9\\u03c3\\u03b7\\u03c2 \\u03c4\\u03b7\\u03c2 \\u03c6\\u03cc\\u03c1\\u03bc\\u03b1\\u03c2 \\u03ad\\u03bb\\u03b7\\u03be\\u03b5. \\u03a0\\u03b1\\u03c1\\u03b1\\u03ba\\u03b1\\u03bb\\u03ce \\u03b1\\u03bd\\u03b1\\u03bd\\u03b5\\u03ce\\u03c3\\u03c4\\u03b5 \\u03c4\\u03b7\\u03bd \\u03c3\\u03b5\\u03bb\\u03af\\u03b4\\u03b1 \\u03b3\\u03b9\\u03b1 \\u03bd\\u03b1 \\u03c3\\u03c5\\u03bd\\u03b5\\u03c7\\u03af\\u03c3\\u03b5\\u03c4\\u03b5.\",\"trans.internal-error\":\"\\u03a3\\u03c6\\u03ac\\u03bb\\u03bc\\u03b1. \\u03a0\\u03b1\\u03c1\\u03b1\\u03ba\\u03b1\\u03bb\\u03ce \\u03c0\\u03c1\\u03bf\\u03c3\\u03c0\\u03b1\\u03b8\\u03ae\\u03c3\\u03c4\\u03b5 \\u03be\\u03b1\\u03bd\\u03ac.\",\"trans.ajax-call-not-available\":\"\\u0391\\u03b4\\u03c5\\u03bd\\u03b1\\u03bc\\u03af\\u03b1 \\u03c5\\u03bb\\u03bf\\u03c0\\u03bf\\u03af\\u03b7\\u03c3\\u03b7\\u03c2 \\u03b1\\u03b9\\u03c4\\u03ae\\u03bc\\u03b1\\u03c4\\u03bf\\u03c2 ajax. \\u03a0\\u03b1\\u03c1\\u03b1\\u03ba\\u03b1\\u03bb\\u03ce \\u03b4\\u03bf\\u03ba\\u03b9\\u03bc\\u03ac\\u03c3\\u03c4\\u03b5 \\u03b1\\u03c1\\u03b3\\u03cc\\u03c4\\u03b5\\u03c1\\u03b1.\",\"date_format\":\"DD-MM-YYYY\",\"default_datetime_format\":\"YYYY-MM-DD HH:mm\",\"MetaFields\":[{\"id\":\"1\",\"type\":\"EMAIL\",\"slug\":\"email\",\"label\":\"Email\",\"mixed\":\"\",\"default_value\":\"\",\"visible\":\"1\",\"required\":\"1\",\"validation\":\"email\",\"position\":\"1\"},{\"id\":\"2\",\"type\":\"INPUT\",\"slug\":\"onoma\",\"label\":\"\\u039f\\u03bd\\u03bf\\u03bc\\u03b1\",\"mixed\":\"\",\"default_value\":\"\",\"visible\":\"1\",\"required\":\"1\",\"validation\":\"minlength-3\",\"position\":\"2\"},{\"id\":\"3\",\"type\":\"INPUT\",\"slug\":\"tilefono\",\"label\":\"\\u03a4\\u03b7\\u03bb\\u03ad\\u03c6\\u03c9\\u03bd\\u03bf\",\"mixed\":\"\",\"default_value\":\"\",\"visible\":\"1\",\"required\":\"1\",\"validation\":\"minlength-3\",\"position\":\"3\"},{\"id\":\"5\",\"type\":\"TEXTAREA\",\"slug\":\"skopos-rantevoy\",\"label\":\"\\u03a3\\u03ba\\u03bf\\u03c0\\u03cc\\u03c2 \\u03a1\\u03b1\\u03bd\\u03c4\\u03b5\\u03b2\\u03bf\\u03cd\",\"mixed\":\"\",\"default_value\":\"\",\"visible\":\"1\",\"required\":\"0\",\"validation\":\"\",\"position\":\"4\"}],\"default.status\":\"confirmed\",\"default_status_message\":\"Your appointment has been confirmed. Thank you!\",\"is_user_logged_in\":0,\"allow_customer_search\":0};var ea_vacations = [];var ea_service_start_data = []; var ea_ajaxurl = 'https://medbiodiagnosi.gr/wp-admin/admin-ajax.php'; <div class=\"ea-bootstrap <%- settings.form_class %>\" translate=\"no\" style=\"max-width: <%- settings.width %>;\"> <form class=\"form-horizontal\"> <% if (settings.layout_cols === '2') { %> <div class=\"col-md-6\" style=\"padding-top: 25px;\"> <% } %> <!-- LOCATION --> <div class=\"step form-group\"> <div class=\"block\"></div> <label class=\"ea-label col-sm-4 control-label\"> Τοποθεσία </label> <div class=\"col-sm-8\"> <select name=\"location\" data-c=\"location\" class=\"filter form-control\"> <option value=\"\" selected=\"selected\">Select Location</option><option value=\"2\">Αθήνα, Κυψέλη</option><option value=\"1\">Χίος</option> </select> </div> </div> <!-- WORKER --> <div class=\"step form-group\"> <div class=\"block\"></div> <label class=\"ea-label col-sm-4 control-label\"> Υπηρεσία </label> <div class=\"col-sm-8\"> <select name=\"service\" data-c=\"service\" class=\"filter form-control\" data-currency=\"$\"> <option value=\"\" selected=\"selected\">Select Service</option><option value=\"2\" data-duration=\"15\" data-slot_step=\"15\">ΤΜΗΜΑ ΥΠΕΡΗΧΩΝ</option><option value=\"1\" data-duration=\"15\" data-slot_step=\"15\">Ραντεβού</option> </select> </div> </div> <!-- SERVICE --> <div class=\"step form-group\"> <div class=\"block\"></div> <label class=\"ea-label col-sm-4 control-label\"> Διαγνωστικό Κέντρο </label> <div class=\"col-sm-8\"> <select name=\"worker\" data-c=\"worker\" class=\"filter form-control\"> <option value=\"\" selected=\"selected\">Select Worker</option><option value=\"2\">Med Βiodiagnosi , Χίος</option><option value=\"1\">Med Βiodiagnosi , Κυψέλη</option> </select> </div> </div> <div class=\"step calendar\" class=\"filter\"> <div class=\"block\"></div> <div class=\"date\"></div> </div> <div class=\"step\" class=\"filter\"> <div class=\"block\"></div> <div class=\"time\"></div> </div> <% if (settings.layout_cols === '2') { %> </div> <div class=\"step final col-md-6\"> <% } else { %> <div class=\"step final\"> <% } %> <div class=\"ea_hide_show\"> <div class=\"block\"></div> <h3><%- settings['trans.personal-informations'] %></h3> <small><%- settings['trans.fields'] %></small> <% if (settings['allow_customer_search'] == 1) { %> <div class=\"form-group\"> <label class=\"col-sm-4 control-label\">Search Customer</label> <div class=\"col-sm-8\"> <input id=\"ea_customer_search\" class=\"form-control\" type=\"text\" placeholder=\"Search Customer\" /> </div> </div> <% } %> <% _.each(settings.MetaFields, function(item,key,list) { %> <% if (item.visible == \"0\") { return; } %> <% if (item.visible == \"2\") { %> <input id=\"<%- item.slug %>\" name=\"<%- item.slug %>\" type=\"hidden\" value=\"<%- item.default_value %>\" class=\"custom-field\" /> <% return; } %> <div class=\"form-group\"> <label class=\"col-sm-4 control-label\"><%- item.label %> <% if (item.required == \"1\") { %>*<% } %></label> <div class=\"col-sm-8\"> <!-- INPUT TYPE --> <% if(item.type === 'INPUT') { %> <input id=\"<%- item.slug %>\" class=\"form-control custom-field\" maxlength=\"499\" type=\"text\" name=\"<%- item.slug %>\" placeholder=\"<%- item.mixed %>\" value=\"<%- item.default_value %>\" <% if (item.required == \"1\") { %>data-rule-required=\"true\" data-msg-required=\"<%- settings['trans.field-required'] %>\"<% } %> <% if (item.validation == \"email\") { %>data-rule-email=\"true\" data-msg-email=\"<%- settings['trans.error-email'] %>\"<% } %>> <!-- INPUT MASKED --> <% } else if(item.type === 'MASKED') { %> <input id=\"<%- item.slug %>\" class=\"form-control custom-field masked-field\" <% if (item.required == \"1\") { %>data-rule-required=\"true\" data-msg-required=\"<%- settings['trans.field-required'] %>\"<% } %> type=\"text\" name=\"<%- item.slug %>\" placeholder=\"<%- item.mixed %>\" data-inputmask=\"'mask':'<%- item.default_value %>'\" /> <!-- PHONE TYPE --> <% } else if(item.type === 'PHONE') { %> <div class=\"ea-phone-field-group\"> <select name=\"ea-phone-country-code-part\" data-default=\"<%- item.default_value %>\" class=\"ea-phone-country-code-part custom-field dummy form-control\" <% if (item.required == \"1\") { %>data-rule-required=\"true\" data-msg-required=\"<%- settings['trans.field-required'] %>\"<% } %>> <option value=\"\">-</option> <option data-countryCode=\"DZ\" value=\"213\">Algeria (+213)</option> <option data-countryCode=\"AD\" value=\"376\">Andorra (+376)</option> <option data-countryCode=\"AO\" value=\"244\">Angola (+244)</option> <option data-countryCode=\"AI\" value=\"1264\">Anguilla (+1264)</option> <option data-countryCode=\"AG\" value=\"1268\">Antigua &amp; Barbuda (+1268)</option> <option data-countryCode=\"AR\" value=\"54\">Argentina (+54)</option> <option data-countryCode=\"AM\" value=\"374\">Armenia (+374)</option> <option data-countryCode=\"AW\" value=\"297\">Aruba (+297)</option> <option data-countryCode=\"AU\" value=\"61\">Australia (+61)</option> <option data-countryCode=\"AT\" value=\"43\">Austria (+43)</option> <option data-countryCode=\"AZ\" value=\"994\">Azerbaijan (+994)</option> <option data-countryCode=\"BS\" value=\"1242\">Bahamas (+1242)</option> <option data-countryCode=\"BH\" value=\"973\">Bahrain (+973)</option> <option data-countryCode=\"BD\" value=\"880\">Bangladesh (+880)</option> <option data-countryCode=\"BB\" value=\"1246\">Barbados (+1246)</option> <option data-countryCode=\"BY\" value=\"375\">Belarus (+375)</option> <option data-countryCode=\"BE\" value=\"32\">Belgium (+32)</option> <option data-countryCode=\"BZ\" value=\"501\">Belize (+501)</option> <option data-countryCode=\"BJ\" value=\"229\">Benin (+229)</option> <option data-countryCode=\"BM\" value=\"1441\">Bermuda (+1441)</option> <option data-countryCode=\"BT\" value=\"975\">Bhutan (+975)</option> <option data-countryCode=\"BO\" value=\"591\">Bolivia (+591)</option> <option data-countryCode=\"BA\" value=\"387\">Bosnia Herzegovina (+387)</option> <option data-countryCode=\"BW\" value=\"267\">Botswana (+267)</option> <option data-countryCode=\"BR\" value=\"55\">Brazil (+55)</option> <option data-countryCode=\"BN\" value=\"673\">Brunei (+673)</option> <option data-countryCode=\"BG\" value=\"359\">Bulgaria (+359)</option> <option data-countryCode=\"BF\" value=\"226\">Burkina Faso (+226)</option> <option data-countryCode=\"BI\" value=\"257\">Burundi (+257)</option> <option data-countryCode=\"KH\" value=\"855\">Cambodia (+855)</option> <option data-countryCode=\"CM\" value=\"237\">Cameroon (+237)</option> <option data-countryCode=\"CA\" value=\"1\">Canada (+1)</option> <option data-countryCode=\"CV\" value=\"238\">Cape Verde Islands (+238)</option> <option data-countryCode=\"KY\" value=\"1345\">Cayman Islands (+1345)</option> <option data-countryCode=\"CF\" value=\"236\">Central African Republic (+236)</option> <option data-countryCode=\"CL\" value=\"56\">Chile (+56)</option> <option data-countryCode=\"CN\" value=\"86\">China (+86)</option> <option data-countryCode=\"CO\" value=\"57\">Colombia (+57)</option> <option data-countryCode=\"KM\" value=\"269\">Comoros (+269)</option> <option data-countryCode=\"CG\" value=\"242\">Congo (+242)</option> <option data-countryCode=\"CK\" value=\"682\">Cook Islands (+682)</option> <option data-countryCode=\"CR\" value=\"506\">Costa Rica (+506)</option> <option data-countryCode=\"HR\" value=\"385\">Croatia (+385)</option> <option data-countryCode=\"CU\" value=\"53\">Cuba (+53)</option> <option data-countryCode=\"CY\" value=\"90392\">Cyprus North (+90392)</option> <option data-countryCode=\"CY\" value=\"357\">Cyprus South (+357)</option> <option data-countryCode=\"CZ\" value=\"42\">Czech Republic (+42)</option> <option data-countryCode=\"DK\" value=\"45\">Denmark (+45)</option> <option data-countryCode=\"DJ\" value=\"253\">Djibouti (+253)</option> <option data-countryCode=\"DM\" value=\"1809\">Dominica (+1809)</option> <option data-countryCode=\"DO\" value=\"1809\">Dominican Republic (+1809)</option> <option data-countryCode=\"EC\" value=\"593\">Ecuador (+593)</option> <option data-countryCode=\"EG\" value=\"20\">Egypt (+20)</option> <option data-countryCode=\"SV\" value=\"503\">El Salvador (+503)</option> <option data-countryCode=\"GQ\" value=\"240\">Equatorial Guinea (+240)</option> <option data-countryCode=\"ER\" value=\"291\">Eritrea (+291)</option> <option data-countryCode=\"EE\" value=\"372\">Estonia (+372)</option> <option data-countryCode=\"ET\" value=\"251\">Ethiopia (+251)</option> <option data-countryCode=\"FK\" value=\"500\">Falkland Islands (+500)</option> <option data-countryCode=\"FO\" value=\"298\">Faroe Islands (+298)</option> <option data-countryCode=\"FJ\" value=\"679\">Fiji (+679)</option> <option data-countryCode=\"FI\" value=\"358\">Finland (+358)</option> <option data-countryCode=\"FR\" value=\"33\">France (+33)</option> <option data-countryCode=\"GF\" value=\"594\">French Guiana (+594)</option> <option data-countryCode=\"PF\" value=\"689\">French Polynesia (+689)</option> <option data-countryCode=\"GA\" value=\"241\">Gabon (+241)</option> <option data-countryCode=\"GM\" value=\"220\">Gambia (+220)</option> <option data-countryCode=\"GE\" value=\"7880\">Georgia (+7880)</option> <option data-countryCode=\"DE\" value=\"49\">Germany (+49)</option> <option data-countryCode=\"GH\" value=\"233\">Ghana (+233)</option> <option data-countryCode=\"GI\" value=\"350\">Gibraltar (+350)</option> <option data-countryCode=\"GR\" value=\"30\">Greece (+30)</option> <option data-countryCode=\"GL\" value=\"299\">Greenland (+299)</option> <option data-countryCode=\"GD\" value=\"1473\">Grenada (+1473)</option> <option data-countryCode=\"GP\" value=\"590\">Guadeloupe (+590)</option> <option data-countryCode=\"GU\" value=\"671\">Guam (+671)</option> <option data-countryCode=\"GT\" value=\"502\">Guatemala (+502)</option> <option data-countryCode=\"GN\" value=\"224\">Guinea (+224)</option> <option data-countryCode=\"GW\" value=\"245\">Guinea - Bissau (+245)</option> <option data-countryCode=\"GY\" value=\"592\">Guyana (+592)</option> <option data-countryCode=\"HT\" value=\"509\">Haiti (+509)</option> <option data-countryCode=\"HN\" value=\"504\">Honduras (+504)</option> <option data-countryCode=\"HK\" value=\"852\">Hong Kong (+852)</option> <option data-countryCode=\"HU\" value=\"36\">Hungary (+36)</option> <option data-countryCode=\"IS\" value=\"354\">Iceland (+354)</option> <option data-countryCode=\"IN\" value=\"91\">India (+91)</option> <option data-countryCode=\"ID\" value=\"62\">Indonesia (+62)</option> <option data-countryCode=\"IR\" value=\"98\">Iran (+98)</option> <option data-countryCode=\"IQ\" value=\"964\">Iraq (+964)</option> <option data-countryCode=\"IE\" value=\"353\">Ireland (+353)</option> <option data-countryCode=\"IL\" value=\"972\">Israel (+972)</option> <option data-countryCode=\"IT\" value=\"39\">Italy (+39)</option> <option data-countryCode=\"JM\" value=\"1876\">Jamaica (+1876)</option> <option data-countryCode=\"JP\" value=\"81\">Japan (+81)</option> <option data-countryCode=\"JO\" value=\"962\">Jordan (+962)</option> <option data-countryCode=\"KZ\" value=\"7\">Kazakhstan (+7)</option> <option data-countryCode=\"KE\" value=\"254\">Kenya (+254)</option> <option data-countryCode=\"KI\" value=\"686\">Kiribati (+686)</option> <option data-countryCode=\"KP\" value=\"850\">Korea North (+850)</option> <option data-countryCode=\"KR\" value=\"82\">Korea South (+82)</option> <option data-countryCode=\"KW\" value=\"965\">Kuwait (+965)</option> <option data-countryCode=\"KG\" value=\"996\">Kyrgyzstan (+996)</option> <option data-countryCode=\"LA\" value=\"856\">Laos (+856)</option> <option data-countryCode=\"LV\" value=\"371\">Latvia (+371)</option> <option data-countryCode=\"LB\" value=\"961\">Lebanon (+961)</option> <option data-countryCode=\"LS\" value=\"266\">Lesotho (+266)</option> <option data-countryCode=\"LR\" value=\"231\">Liberia (+231)</option> <option data-countryCode=\"LY\" value=\"218\">Libya (+218)</option> <option data-countryCode=\"LI\" value=\"417\">Liechtenstein (+417)</option> <option data-countryCode=\"LT\" value=\"370\">Lithuania (+370)</option> <option data-countryCode=\"LU\" value=\"352\">Luxembourg (+352)</option> <option data-countryCode=\"MO\" value=\"853\">Macao (+853)</option> <option data-countryCode=\"MK\" value=\"389\">Macedonia (+389)</option> <option data-countryCode=\"MG\" value=\"261\">Madagascar (+261)</option> <option data-countryCode=\"MW\" value=\"265\">Malawi (+265)</option> <option data-countryCode=\"MY\" value=\"60\">Malaysia (+60)</option> <option data-countryCode=\"MV\" value=\"960\">Maldives (+960)</option> <option data-countryCode=\"ML\" value=\"223\">Mali (+223)</option> <option data-countryCode=\"MT\" value=\"356\">Malta (+356)</option> <option data-countryCode=\"MH\" value=\"692\">Marshall Islands (+692)</option> <option data-countryCode=\"MQ\" value=\"596\">Martinique (+596)</option> <option data-countryCode=\"MR\" value=\"222\">Mauritania (+222)</option> <option data-countryCode=\"YT\" value=\"269\">Mayotte (+269)</option> <option data-countryCode=\"MX\" value=\"52\">Mexico (+52)</option> <option data-countryCode=\"FM\" value=\"691\">Micronesia (+691)</option> <option data-countryCode=\"MD\" value=\"373\">Moldova (+373)</option> <option data-countryCode=\"MC\" value=\"377\">Monaco (+377)</option> <option data-countryCode=\"MN\" value=\"976\">Mongolia (+976)</option> <option data-countryCode=\"MS\" value=\"1664\">Montserrat (+1664)</option> <option data-countryCode=\"MA\" value=\"212\">Morocco (+212)</option> <option data-countryCode=\"MZ\" value=\"258\">Mozambique (+258)</option> <option data-countryCode=\"MN\" value=\"95\">Myanmar (+95)</option> <option data-countryCode=\"NA\" value=\"264\">Namibia (+264)</option> <option data-countryCode=\"NR\" value=\"674\">Nauru (+674)</option> <option data-countryCode=\"NP\" value=\"977\">Nepal (+977)</option> <option data-countryCode=\"NL\" value=\"31\">Netherlands (+31)</option> <option data-countryCode=\"NC\" value=\"687\">New Caledonia (+687)</option> <option data-countryCode=\"NZ\" value=\"64\">New Zealand (+64)</option> <option data-countryCode=\"NI\" value=\"505\">Nicaragua (+505)</option> <option data-countryCode=\"NE\" value=\"227\">Niger (+227)</option> <option data-countryCode=\"NG\" value=\"234\">Nigeria (+234)</option> <option data-countryCode=\"NU\" value=\"683\">Niue (+683)</option> <option data-countryCode=\"NF\" value=\"672\">Norfolk Islands (+672)</option> <option data-countryCode=\"NP\" value=\"670\">Northern Marianas (+670)</option> <option data-countryCode=\"NO\" value=\"47\">Norway (+47)</option> <option data-countryCode=\"OM\" value=\"968\">Oman (+968)</option> <option data-countryCode=\"PW\" value=\"680\">Palau (+680)</option> <option data-countryCode=\"PA\" value=\"507\">Panama (+507)</option> <option data-countryCode=\"PG\" value=\"675\">Papua New Guinea (+675)</option> <option data-countryCode=\"PY\" value=\"595\">Paraguay (+595)</option> <option data-countryCode=\"PE\" value=\"51\">Peru (+51)</option> <option data-countryCode=\"PH\" value=\"63\">Philippines (+63)</option> <option data-countryCode=\"PL\" value=\"48\">Poland (+48)</option> <option data-countryCode=\"PT\" value=\"351\">Portugal (+351)</option> <option data-countryCode=\"PR\" value=\"1787\">Puerto Rico (+1787)</option> <option data-countryCode=\"QA\" value=\"974\">Qatar (+974)</option> <option data-countryCode=\"RE\" value=\"262\">Reunion (+262)</option> <option data-countryCode=\"RO\" value=\"40\">Romania (+40)</option> <option data-countryCode=\"RU\" value=\"7\">Russia (+7)</option> <option data-countryCode=\"RW\" value=\"250\">Rwanda (+250)</option> <option data-countryCode=\"SM\" value=\"378\">San Marino (+378)</option> <option data-countryCode=\"ST\" value=\"239\">Sao Tome &amp; Principe (+239)</option> <option data-countryCode=\"SA\" value=\"966\">Saudi Arabia (+966)</option> <option data-countryCode=\"SN\" value=\"221\">Senegal (+221)</option> <option data-countryCode=\"CS\" value=\"381\">Serbia (+381)</option> <option data-countryCode=\"SC\" value=\"248\">Seychelles (+248)</option> <option data-countryCode=\"SL\" value=\"232\">Sierra Leone (+232)</option> <option data-countryCode=\"SG\" value=\"65\">Singapore (+65)</option> <option data-countryCode=\"SK\" value=\"421\">Slovak Republic (+421)</option> <option data-countryCode=\"SI\" value=\"386\">Slovenia (+386)</option> <option data-countryCode=\"SB\" value=\"677\">Solomon Islands (+677)</option> <option data-countryCode=\"SO\" value=\"252\">Somalia (+252)</option> <option data-countryCode=\"ZA\" value=\"27\">South Africa (+27)</option> <option data-countryCode=\"ES\" value=\"34\">Spain (+34)</option> <option data-countryCode=\"LK\" value=\"94\">Sri Lanka (+94)</option> <option data-countryCode=\"SH\" value=\"290\">St. Helena (+290)</option> <option data-countryCode=\"KN\" value=\"1869\">St. Kitts (+1869)</option> <option data-countryCode=\"SC\" value=\"1758\">St. Lucia (+1758)</option> <option data-countryCode=\"SD\" value=\"249\">Sudan (+249)</option> <option data-countryCode=\"SR\" value=\"597\">Suriname (+597)</option> <option data-countryCode=\"SZ\" value=\"268\">Swaziland (+268)</option> <option data-countryCode=\"SE\" value=\"46\">Sweden (+46)</option> <option data-countryCode=\"CH\" value=\"41\">Switzerland (+41)</option> <option data-countryCode=\"SI\" value=\"963\">Syria (+963)</option> <option data-countryCode=\"TW\" value=\"886\">Taiwan (+886)</option> <option data-countryCode=\"TJ\" value=\"7\">Tajikstan (+7)</option> <option data-countryCode=\"TH\" value=\"66\">Thailand (+66)</option> <option data-countryCode=\"TG\" value=\"228\">Togo (+228)</option> <option data-countryCode=\"TO\" value=\"676\">Tonga (+676)</option> <option data-countryCode=\"TT\" value=\"1868\">Trinidad &amp; Tobago (+1868)</option> <option data-countryCode=\"TN\" value=\"216\">Tunisia (+216)</option> <option data-countryCode=\"TR\" value=\"90\">Turkey (+90)</option> <option data-countryCode=\"TM\" value=\"7\">Turkmenistan (+7)</option> <option data-countryCode=\"TM\" value=\"993\">Turkmenistan (+993)</option> <option data-countryCode=\"TC\" value=\"1649\">Turks &amp; Caicos Islands (+1649)</option> <option data-countryCode=\"TV\" value=\"688\">Tuvalu (+688)</option> <option data-countryCode=\"UG\" value=\"256\">Uganda (+256)</option> <option data-countryCode=\"GB\" value=\"44\">UK (+44)</option> <option data-countryCode=\"UA\" value=\"380\">Ukraine (+380)</option> <option data-countryCode=\"AE\" value=\"971\">United Arab Emirates (+971)</option> <option data-countryCode=\"UY\" value=\"598\">Uruguay (+598)</option> <option data-countryCode=\"US\" value=\"1\">USA (+1)</option> <option data-countryCode=\"UZ\" value=\"7\">Uzbekistan (+7)</option> <option data-countryCode=\"VU\" value=\"678\">Vanuatu (+678)</option> <option data-countryCode=\"VA\" value=\"379\">Vatican City (+379)</option> <option data-countryCode=\"VE\" value=\"58\">Venezuela (+58)</option> <option data-countryCode=\"VN\" value=\"84\">Vietnam (+84)</option> <option data-countryCode=\"VG\" value=\"84\">Virgin Islands - British (+1284)</option> <option data-countryCode=\"VI\" value=\"84\">Virgin Islands - US (+1340)</option> <option data-countryCode=\"WF\" value=\"681\">Wallis &amp; Futuna (+681)</option> <option data-countryCode=\"YE\" value=\"969\">Yemen (North)(+969)</option> <option data-countryCode=\"YE\" value=\"967\">Yemen (South)(+967)</option> <option data-countryCode=\"ZM\" value=\"260\">Zambia (+260)</option> <option data-countryCode=\"ZW\" value=\"263\">Zimbabwe (+263)</option> </select> <input type=\"text\" name=\"ea-phone-number-part\" maxlength=\"499\" class=\"ea-phone-number-part custom-field dummy form-control\" placeholder=\"<%- item.mixed %>\" <% if (item.required == \"1\") { %>data-rule-required=\"true\" data-msg-required=\"<%- settings['trans.field-required'] %>\"<% } %>><br> <input type=\"hidden\" name=\"<%- item.slug %>\" data-prop=\"<%- item.slug %>\" class=\"custom-field full-value\" > </div> <!-- EMAIL TYPE --> <% } else if(item.type === 'EMAIL') { %> <input id=\"<%- item.slug %>\" class=\"form-control custom-field\" maxlength=\"499\" type=\"text\" name=\"<%- item.slug %>\" placeholder=\"<%- item.mixed %>\" value=\"<%- item.default_value %>\" <% if (item.required == \"1\") { %>data-rule-required=\"true\" data-msg-required=\"<%- settings['trans.field-required'] %>\"<% } %> data-rule-email=\"true\" data-msg-email=\"<%- settings['trans.error-email'] %>\"> <!-- SELECT TYPE --> <% } else if(item.type === 'SELECT') { %> <select id=\"<%- item.slug %>\" class=\"form-control custom-field\" name=\"<%- item.slug %>\" <% if (item.required == \"1\") { %>aria-required=\"true\" <% if (item.required == \"1\") { %>data-rule-required=\"true\"<% } %> data-msg-required=\"<%- settings['trans.field-required'] %>\"<% } %>> <% _.each(item.mixed.split(','),function(i,k,l) { %> <% if (i == \"-\") { %> <option value=\"\">-</option> <% } else { %> <option value=\"<%- i %>\"><%- i %></option> <% }});%> </select> <!-- TEXTAREA TYPE --> <% } else if(item.type === 'TEXTAREA') { %> <textarea id=\"<%- item.slug %>\" class=\"form-control custom-field\" rows=\"3\" maxlength=\"499\" style=\"height: auto;\" placeholder=\"<%- item.mixed %>\" name=\"<%- item.slug %>\" <% if (item.required == \"1\") { %>data-rule-required=\"true\" data-msg-required=\"<%- settings['trans.field-required'] %>\"<% } %>></textarea> <% } %> </div> </div> <% });%> </div> <div class=\"form-group\" style=\"display:none;\"> <div class=\"block\"></div> <label class=\"ea-label col-sm-4 control-label\"> Repeat Appointement </label> <div class=\"col-sm-8\"> <select id=\"repeat_booking\" data-c=\"repeat_booking\" class=\"filter form-control\"> <option value=\"0\">Does Not Repeat</option> <option value=\"1\">Repeat Weekly</option> <option value=\"2\">Custom</option> </select> </div> <input type=\"hidden\" name=\"repeat_booking\" value=\"0\" /> <input type=\"hidden\" name=\"repeat_start_date\" value=\"0\" /> <input type=\"hidden\" name=\"repeat_end_date\" value=\"0\" /> <div id=\"recurrence-summary\" class=\"mt-3 text-muted\" style=\"display: none; padding:20px;\"> <strong>Repeat every:</strong> <span id=\"summary-repeat-week\"></span><br> <strong>Starts:</strong> <span id=\"summary-start-date\"></span><br> <strong>Ends:</strong> <span id=\"summary-end-date\"></span> </div> </div> <h3 id=\"booking-overview-header\"><%- settings['trans.booking-overview'] %></h3> <div id=\"booking-overview\"></div> <div class=\"ea_hide_show\"> <% if (settings['show.iagree'] == '1') { %> <div class=\"form-group\"> <label class=\"col-sm-4 control-label\">&nbsp;</label> <div class=\"col-sm-8\"> <div class=\"checkbox\"> <label> <input id=\"ea-iagree\" name=\"iagree\" type=\"checkbox\" data-rule-required=\"true\" data-msg-required=\"<%- settings['trans.field-iagree'] %>\"> <%- settings['trans.iagree'] %> </label> </div> </div> </div> <% } %> <% if (settings['gdpr.on'] == '1') { %> <div class=\"form-group\"> <label class=\"col-sm-4 control-label\">&nbsp;</label> <div class=\"col-sm-8\"> <div class=\"checkbox\"> <label class=\"gdpr\"> <input id=\"ea-gdpr\" name=\"gdpr\" type=\"checkbox\" data-rule-required=\"true\" data-msg-required=\"<%- settings['gdpr.message'] %>\"> <% if (settings['gdpr.link'] != '') { %> <a href=\"<%- settings['gdpr.link'] %>\" target=\"_blank\"><%- settings['gdpr.label'] %></a> <% } else {%> <%- settings['gdpr.label'] %> <% } %> </label> </div> </div> </div> <% } %> <% if (settings['captcha.site-key'] !== '') { %> <div style=\"width: 100%; padding: 20px;\" class=\"g-recaptcha\" data-sitekey=\"<%- settings['captcha.site-key'] %>\"></div> <% } %> <div class=\"form-group\"> <div class=\"col-sm-12 ea-actions-group\" style=\"display: inline-flex; align-items: center; justify-content: center;\"> <button class=\"ea-btn ea-submit btn btn-primary booking-button\"><%- settings['trans.submit_button_text'] %></button> <button class=\"ea-btn ea-cancel btn btn-default\"><%- settings['trans.cancel'] %></button> </div> </div> </div> <% if (settings.layout_cols === '2') { %> </div> <% } %> </div> </form> </div> <div id=\"ea-loader\"></div> <div id=\"custom-recurrence-modal\" style=\"display:none; position:fixed; top:20%; left:50%; transform:translateX(-50%); background:#fff; padding:20px; border:1px solid #ccc; border-radius:8px; z-index:10000; width:420px;\"> <h4>Custom recurrence</h4> <div class=\"row\"> <label class=\"col-sm-4\">Repeat every</label> <input type=\"number\" min=\"1\" id=\"modal-repeat-week\" value=\"2\" class=\"col-sm-4\"> weeks </div> <div class=\"mt-3 row\" style=\"margin-top: 10px;\"> <label class=\"col-sm-4\">Starts</label> <input class=\"col-sm-4\" type=\"date\" id=\"modal-start-date\" /> </div> <div class=\"mt-3\"> <label>Ends</label><br> <input type=\"radio\" name=\"modal-end-type\" value=\"never\" id=\"modal-end-never\" checked> <label for=\"modal-end-never\">Never</label><br> <input type=\"radio\" name=\"modal-end-type\" value=\"date\" id=\"modal-end-on\"> <label for=\"modal-end-on\">On</label> <input type=\"date\" id=\"modal-end-date\" disabled> </div> <div class=\"mt-3\" style=\"margin-top: 10px;\"> <button type=\"button\" id=\"modal-save-btn\" class=\"btn btn-primary\">Done</button> <button type=\"button\" id=\"modal-cancel-btn\" class=\"btn btn-default\">Cancel</button> </div> </div> <!-- Optional: Light overlay --> <div id=\"custom-recurrence-overlay\" style=\"display:none; position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.4);z-index:9999;\"></div> body .wp-block-post-content a:not(.wp-element-button) { color: #000000; text-decoration: none !important; } .ea-standard .selected-time { background-color: green !important; color: white !important; } <small id=\"ea-overview-message\"><%- settings['trans.overview-message'] %></small> <table> <tbody> <% if(settings['rtl'] == '1') { %> <% if(data.location.indexOf('_') !== 0) { %> <tr class=\"row-location\"> <td class=\"ea-label\"><%- settings['trans.location'] %></td> <td class=\"value\"><%- data.location %></td> </tr> <% } %> <% if(data.service.indexOf('_') !== 0) { %> <tr class=\"row-service\"> <td class=\"ea-label\"><%- settings['trans.service'] %></td> <td class=\"value\"><%- data.service %></td> </tr> <% } %> <% if(data.worker.indexOf('_') !== 0) { %> <tr class=\"row-worker\"> <td class=\"ea-label\"><%- settings['trans.worker'] %></td> <td class=\"value\"><%- data.worker %></td> </tr> <% } %> <% if (settings['price.hide'] !== '1') { %> <tr class=\"row-price\"> <td class=\"ea-label\"><%- settings['trans.price'] %></td> <td class=\"value\"><%- settings['hide.decimal_in_price'] == '1' ? Math.round(parseFloat(data.price)) : 55 %> <%- settings['trans.currency'] %></td> </tr> <% } %> <tr class=\"row-datetime\"> <td class=\"ea-label\"><%- settings['trans.date-time'] %></td> <td class=\"value\"><%- data.date %> <%- data.time %></td> </tr> <% } else { %> <% if(data.location.indexOf('_') !== 0) { %> <tr class=\"row-location\"> <td class=\"ea-label\"><%- settings['trans.location'] %></td> <td class=\"value\"><%- data.location %></td> </tr> <% } %> <% if(data.service.indexOf('_') !== 0) { %> <tr class=\"row-service\"> <td class=\"ea-label\"><%- settings['trans.service'] %></td> <td class=\"value\"><%- data.service %></td> </tr> <% } %> <% if(data.worker.indexOf('_') !== 0) { %> <tr class=\"row-worker\"> <td class=\"ea-label\"><%- settings['trans.worker'] %></td> <td class=\"value\"><%- data.worker %></td> </tr> <% } %> <% if (settings['price.hide'] !== '1') { %> <tr class=\"row-price\"> <td class=\"ea-label\"><%- settings['trans.price'] %></td> <% if (settings['currency.before'] == '1') { %> <td class=\"value\"><%- settings['trans.currency'] %><%- settings['hide.decimal_in_price'] == '1' ? Math.round(parseFloat(data.price)) : data.price %></td> <% } else { %> <td class=\"value\"><%- settings['hide.decimal_in_price'] == '1' ? Math.round(parseFloat(data.price)) : data.price %><%- settings['trans.currency'] %></td> <% } %> </tr> <% } %> <tr class=\"row-datetime\"> <td class=\"ea-label\"><%- settings['trans.date-time'] %></td> <td class=\"value\"><%- data.date_time %></td> </tr> <% } %> </tbody> </table> <div id=\"ea-total-amount\" style=\"display: none;\" data-total=\"<%- data.price %>\"></div> <div id=\"ea-meta-data\" data-location=\"<%- data.location %>\" data-service=\"<%- data.service %>\" data-worker=\"<%- data.worker %>\" data-date-time=\"<%- data.date_time %>\" data-currency=\"<%- settings['trans.currency'] %>\"></div> <div id=\"ea-success-box\" style=\"display:none; min-width:400px; min-height:340px; margin: 20px auto; padding: 20px; border-radius: 10px; text-align: center; font-family: Arial, sans-serif; box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);\" class=\"ea-confirmation-card\"> <h3 style=\"color: #2b6924; margin-top: 0;\" class=\"ea-confirmation-title\"> <%- settings['trans.confirmation-title'] || \"Thank You for Booking!\" %> </h3> <div style=\"margin: 10px 0 20px;\"> <p style=\"font-size: 14px; color: #555; margin-top: 8px; word-wrap: break-word; white-space: normal; max-width: 100%;\" class=\"ea-status-note\"> </p> </div> <div id=\"ea-overview-details\" style=\"width: 100%; font-size: 14px; color: #000; text-align: left; margin: 0 auto 20px;\"> </div> <div id=\"ea-overview-buttons\" style=\"justify-content: center; gap: 10px; margin-top: 15px; flex-wrap: wrap;\"> <a href=\"#\" onclick=\"window.location.reload();\" style=\"padding: 5px 10px; background-color: #333cb7; color: white; text-decoration: none; border-radius: 5px; margin-right: 5px;\" class=\"ea-button-book-again\"> <%- settings['trans.book-again'] || \"Book New Appointment\" %> </a> <a id=\"ea-add-to-calendar\" href=\"#\" target=\"_blank\" style=\"background-color: #34A853; color: #fff; padding: 5px 10px; border-radius: 6px; text-decoration: none;\"> Add to Google Calendar </a> </div> </div> ΚΥΨΕΛΗ ΑΘΗΝΑ ΧΙΟΣ Τηλ. 210 867 6090 Βελβενδού 7-9, Κυψέλη Αθήνα 11364Χάρτης ΚΑΘΗΜΕΡΙΝΑ ΠΡΩΙ: 06:45 – 14:00 ΚΑΘΗΜΕΡΙΝΑ ΑΠΟΓΕΥΜΑ: 18:00 – 20:00 ΣΑΒΒΑΤΟ: 07:45 – 12:00 kipselibiodiagnosi@gmail.com Τηλ. 210 341 9458 Κειριαδών 29, Πετράλωνα Αθήνα 11854Χάρτης ΚΑΘΗΜΕΡΙΝΑ: 06:45 – 20:00 ΣΑΒΒΑΤΟ: 07:45 – 12:00 petralonabiodiagnosi1@gmail.com Συμβεβλημένο με τον ΕΟΠΥΥ Τηλ. 2271 0 29991 Δημοτικό Parking Φαρκαινας, Αεροπόρου Ροδοκανάκη 43, Χίος 82100Χάρτης ΚΑΘΗΜΕΡΙΝΑ: 06:45 – 14:00 ΤΡΙΤΗ – ΠΕΜΠΤΗ: 18:00 – 20:00 ΣΑΒΒΑΤΟ: 08:00 – 12:00 xiosbiodiagnosi@gmail.com Copyright All Rights Reserved © 2021 Iatros.Website #text-block-4 { margin-bottom:0px; text-align:left; } #text-block-5 { margin-bottom:0px; text-align:left; } #text-block-6 { margin-bottom:0px; text-align:left; } .full-width-2 { min-height:100px; margin-bottom:0px; } .full-width-2 .page-section-content { padding:10px 0 10px; } #background-layer--2 { ; background-position:center center; background-repeat:repeat; ; } #background-layer--2 .mk-color-layer { ; width:100%; height:100%; position:absolute; top:0; left:0; } #text-block-8 { margin-bottom:0px; text-align:left; } #text-block-11 { margin-bottom:0px; text-align:center; } #text-block-13 { margin-bottom:0px; text-align:center; } {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"\\/*\"},{\"not\":{\"href_matches\":[\"\\/wp-*.php\",\"\\/wp-admin\\/*\",\"\\/wp-content\\/uploads\\/*\",\"\\/wp-content\\/*\",\"\\/wp-content\\/plugins\\/*\",\"\\/wp-content\\/themes\\/jupiter\\/*\",\"\\/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} php = { hasAdminbar: false, json: (null != null) ? null : \"\", jsPath: 'https://medbiodiagnosi.gr/wp-content/themes/jupiter/assets/js' }; (function () { var c = document.body.className; c = c.replace(/woocommerce-no-js/, 'woocommerce-js'); document.body.className = c; })(); /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); /* ]]> */ /* <![CDATA[ */ ( function( domain, translations ) { var localeData = translations.locale_data[ domain ] || translations.locale_data.messages; localeData[\"\"].domain = domain; wp.i18n.setLocaleData( localeData, domain ); } )( \"contact-form-7\", {\"translation-revision-date\":\"2024-08-02 09:16:28+0000\",\"generator\":\"GlotPress\\/4.0.1\",\"domain\":\"messages\",\"locale_data\":{\"messages\":{\"\":{\"domain\":\"messages\",\"plural-forms\":\"nplurals=2; plural=n != 1;\",\"lang\":\"el_GR\"},\"This contact form is placed in the wrong place.\":[\"\\u0397 \\u03c6\\u03cc\\u03c1\\u03bc\\u03b1 \\u03b5\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03af\\u03b1\\u03c2 \\u03b5\\u03af\\u03bd\\u03b1\\u03b9 \\u03c3\\u03b5 \\u03bb\\u03ac\\u03b8\\u03bf\\u03c2 \\u03b8\\u03ad\\u03c3\\u03b7.\"],\"Error:\":[\"\\u03a3\\u03c6\\u03ac\\u03bb\\u03bc\\u03b1:\"]}},\"comment\":{\"reference\":\"includes\\/js\\/index.js\"}} ); /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/medbiodiagnosi.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; /* ]]> */ /* <![CDATA[ */ var wc_order_attribution = {\"params\":{\"lifetime\":1.0000000000000000818030539140313095458623138256371021270751953125e-5,\"session\":30,\"base64\":false,\"ajaxurl\":\"https:\\/\\/medbiodiagnosi.gr\\/wp-admin\\/admin-ajax.php\",\"prefix\":\"wc_order_attribution_\",\"allowTracking\":true},\"fields\":{\"source_type\":\"current.typ\",\"referrer\":\"current_add.rf\",\"utm_campaign\":\"current.cmp\",\"utm_source\":\"current.src\",\"utm_medium\":\"current.mdm\",\"utm_content\":\"current.cnt\",\"utm_id\":\"current.id\",\"utm_term\":\"current.trm\",\"utm_source_platform\":\"current.plt\",\"utm_creative_format\":\"current.fmt\",\"utm_marketing_tactic\":\"current.tct\",\"session_entry\":\"current_add.ep\",\"session_start_time\":\"current_add.fd\",\"session_pages\":\"session.pgs\",\"session_count\":\"udata.vst\",\"user_agent\":\"udata.uag\"}}; /* ]]> */ /* <![CDATA[ */ var jupiterDonutVars = {\"themeDir\":\"https:\\/\\/medbiodiagnosi.gr\\/wp-content\\/themes\\/jupiter\",\"assetsUrl\":\"https:\\/\\/medbiodiagnosi.gr\\/wp-content\\/plugins\\/jupiter-donut\\/assets\",\"gridWidth\":\"1280\",\"ajaxUrl\":\"https:\\/\\/medbiodiagnosi.gr\\/wp-admin\\/admin-ajax.php\",\"nonce\":\"656a603850\"}; /* ]]> */ /* <![CDATA[ */ var _mpc_ajax = \"https:\\/\\/medbiodiagnosi.gr\\/wp-admin\\/admin-ajax.php\"; var _mpc_animations = \"1\"; var _mpc_parallax = \"1\"; var _mpc_scroll_to_id = \"1\"; /* ]]> */ /* <![CDATA[ */ var wc_cart_fragments_params = {\"ajax_url\":\"\\/wp-admin\\/admin-ajax.php\",\"wc_ajax_url\":\"\\/?wc-ajax=%%endpoint%%\",\"cart_hash_key\":\"wc_cart_hash_dd1939cf5510aa3e75b955a31494b418\",\"fragment_name\":\"wc_fragments_dd1939cf5510aa3e75b955a31494b418\",\"request_timeout\":\"5000\"}; /* ]]> */ /* <![CDATA[ */ var vcData = {\"currentTheme\":{\"slug\":\"jupiter\"}}; /* ]]> */ /* <![CDATA[ */ jQuery(document).on('ea-init:completed', function () { jQuery('.masked-field').inputmask(); }); /* ]]> */ /* <![CDATA[ */ window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['25346969'] = {\"default_language\":\"el\",\"languages\":[\"ar\",\"zh-CN\",\"en\",\"fr\",\"de\",\"el\",\"it\",\"ru\",\"es\",\"tr\",\"uk\"],\"url_structure\":\"none\",\"flag_style\":\"2d\",\"flag_size\":24,\"wrapper_selector\":\"#gt-wrapper-25346969\",\"alt_flags\":[],\"horizontal_position\":\"left\",\"vertical_position\":\"bottom\",\"flags_location\":\"\\/wp-content\\/plugins\\/gtranslate\\/flags\\/\"}; /* ]]> */ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-189724865-1', 'auto'); ga('send', 'pageview'); window.get = {}; window.get.captcha = function(enteredCaptcha) { return jQuery.get(ajaxurl, { action : \"mk_validate_captcha_input\", captcha: enteredCaptcha }); };",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/medbiodiagnosi.gr-home-aefece0d/booking-rantevoy-online-f7047d9d.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/medbiodiagnosi.gr-home-aefece0d/booking-rantevoy-online-f7047d9d.txt",
+      "imageReferences": [
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/medbiodiagnosi-randevou-online.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/rantevoy-online",
+          "pageType": "booking",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://medbiodiagnosi.gr/rantevoy-online",
+              "retrievedAt": "2026-03-31T13:21:08.351Z"
+            }
+          ]
+        },
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/01/medbiodiagnosi.svg",
+          "alt": "Εξετάσεις Αιματολογικές, Βιοχημικές, Πήξης – Αιμόστασης, Ορμονολογικές, Ανοσολογικές, Καλλιέργιες, Έλεγχος θυροειδούς, Αλλεργιογόνα",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/rantevoy-online",
+          "pageType": "booking",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://medbiodiagnosi.gr/rantevoy-online",
+              "retrievedAt": "2026-03-31T13:21:08.351Z"
+            }
+          ]
+        },
+        {
+          "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/eopi_logo.png",
+          "sourcePageUrl": "https://medbiodiagnosi.gr/rantevoy-online",
+          "pageType": "booking",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://medbiodiagnosi.gr/rantevoy-online",
+              "retrievedAt": "2026-03-31T13:21:08.351Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page fetch",
+          "uri": "https://medbiodiagnosi.gr/rantevoy-online",
+          "retrievedAt": "2026-03-31T13:21:08.354Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/medbiodiagnosi.gr-home-aefece0d/booking-rantevoy-online-f7047d9d.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "210 867 6090",
+      "210 341 9458",
+      "2271 0 29991",
+      "1699444971431",
+      "1613147801185",
+      "1613147808273",
+      "1613147817905",
+      "1612929987549",
+      "306182 0",
+      "306182 100",
+      "2026-03-31",
+      "2024-08-02 09",
+      "1.0000000000000000818030539140313095458623138256371021270751953125",
+      "25346969",
+      "189724865-1",
+      "61544172",
+      "22285139",
+      "33225005",
+      "25095058"
+    ],
+    "emails": [
+      "kipselibiodiagnosi@gmail.com",
+      "petralonabiodiagnosi1@gmail.com",
+      "xiosbiodiagnosi@gmail.com"
+    ],
+    "addresses": [],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/Medbiodiagnosi"
+      },
+      {
+        "href": "https://www.instagram.com/med_biodiagnosi"
+      },
+      {
+        "href": "https://www.facebook.com/profile.php?id=100094716355594"
+      },
+      {
+        "href": "https://instagram.com/med_biodiagnosi"
+      },
+      {
+        "href": "https://www.facebook.com/%CE%92%CE%B9%CE%BF%CE%B4%CE%B9%CE%B1%CE%B3%CE%BD%CF%89%CF%83%CE%B7-%CE%9C%CE%B9%CE%BA%CF%81%CE%BF%CE%B2%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%B1-%CE%95%CF%81%CE%B3%CE%B1%CF%83%CF%84%CE%AE%CF%81%CE%B9%CE%B1-234938136928892/"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://medbiodiagnosi.gr/",
+        "method": "get",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "s",
+          "post_type",
+          "dgwt_wcas"
+        ],
+        "submitLabels": [
+          "Αναζήτηση"
+        ],
+        "fields": [
+          {
+            "name": "s",
+            "type": "search",
+            "label": "Αναζήτηση πακέτων εξετάσεων...",
+            "required": false
+          },
+          {
+            "name": "post_type",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "dgwt_wcas",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "MED ΒΙΟΔΙΑΓΝΩΣΗ - ΔΙΑΓΝΩΣΤΙΚΟ ΜΙΚΡΟΒΙΟΛΟΓΙΚΟ ΚΕΝΤΡΟ - MED ΒΙΟΔΙΑΓΝΩΣΗ ΚΥΨΕΛΗ - ΧΙΟΣ - ΔΙΑΓΝΩΣΤΙΚΟ ΜΙΚΡΟΒΙΟΛΟΓΙΚΟ ΚΕΝΤΡΟ",
+    "canonicalUrl": "https://medbiodiagnosi.gr/",
+    "language": "el",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "openGraphTitle": "MED ΒΙΟΔΙΑΓΝΩΣΗ - ΔΙΑΓΝΩΣΤΙΚΟ ΜΙΚΡΟΒΙΟΛΟΓΙΚΟ ΚΕΝΤΡΟ - MED ΒΙΟΔΙΑΓΝΩΣΗ ΚΥΨΕΛΗ - ΧΙΟΣ - ΔΙΑΓΝΩΣΤΙΚΟ ΜΙΚΡΟΒΙΟΛΟΓΙΚΟ ΚΕΝΤΡΟ",
+    "openGraphImage": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/med-biodiagnosi.jpg"
+  },
+  "imageReferences": [
+    {
+      "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/med-biodiagnosi.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.966Z"
+        }
+      ]
+    },
+    {
+      "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/01/medbiodiagnosi.svg",
+      "alt": "Εξετάσεις Αιματολογικές, Βιοχημικές, Πήξης – Αιμόστασης, Ορμονολογικές, Ανοσολογικές, Καλλιέργιες, Έλεγχος θυροειδούς, Αλλεργιογόνα",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.966Z"
+        }
+      ]
+    },
+    {
+      "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/eopi_logo.png",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.966Z"
+        }
+      ]
+    },
+    {
+      "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/covid-19-60x60.png",
+      "alt": "covid-19",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.966Z"
+        }
+      ]
+    },
+    {
+      "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/sars-cov-2_rapid_test-60x60.jpg",
+      "alt": "sars-cov-2_rapid_test",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.966Z"
+        }
+      ]
+    },
+    {
+      "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/h1n1-60x60.jpg",
+      "alt": "h1n1",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.966Z"
+        }
+      ]
+    },
+    {
+      "url": "https://medbiodiagnosi.gr/wp-content/uploads/bfi_thumb/microbiology-p2e05b5xv2ygo23aco42hfkw1wif0zkelkl90l1888.jpg",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.966Z"
+        }
+      ]
+    },
+    {
+      "url": "https://medbiodiagnosi.gr/wp-content/uploads/bfi_thumb/liothyronine-p2e13rwwge4ydc113kflwqhc6imx9ge3c5q6htxk2w.jpg",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.966Z"
+        }
+      ]
+    },
+    {
+      "url": "https://medbiodiagnosi.gr/wp-content/uploads/bfi_thumb/biochemical-p2e1c00297e9yi2y2mf385rjaw3jm41jgv84nzqjmw.jpg",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.966Z"
+        }
+      ]
+    },
+    {
+      "url": "https://medbiodiagnosi.gr/wp-content/uploads/bfi_thumb/hemotological-p2e1gvrvr82w9kzmk8ebofeqdy16lifch17xeqhxbc.png",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.966Z"
+        }
+      ]
+    },
+    {
+      "url": "https://medbiodiagnosi.gr/wp-content/uploads/bfi_thumb/t-cell-p2e1p11izj8cvx5mzr5xadejq5vpb2rllcrf52f3e0.jpg",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.966Z"
+        }
+      ]
+    },
+    {
+      "url": "https://medbiodiagnosi.gr/wp-content/uploads/bfi_thumb/allergy-icon-p2e1twtchjwz702bhd55qn1qt7tcah5elir7vt6h2g.png",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.966Z"
+        }
+      ]
+    },
+    {
+      "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/medbiodiagnosi-randevou-online.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/rantevoy-online",
+      "pageType": "booking",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://medbiodiagnosi.gr/rantevoy-online",
+          "retrievedAt": "2026-03-31T13:21:08.351Z"
+        }
+      ]
+    },
+    {
+      "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/anosologiko.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/anosologiko",
+      "pageType": "booking",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://medbiodiagnosi.gr/anosologiko",
+          "retrievedAt": "2026-03-31T13:21:09.765Z"
+        }
+      ]
+    },
+    {
+      "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/oncology.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/ogkologiko",
+      "pageType": "contact",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://medbiodiagnosi.gr/ogkologiko",
+          "retrievedAt": "2026-03-31T13:21:11.238Z"
+        }
+      ]
+    },
+    {
+      "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/sepsis-bacteria.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/orologiko",
+      "pageType": "contact",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://medbiodiagnosi.gr/orologiko",
+          "retrievedAt": "2026-03-31T13:21:12.781Z"
+        }
+      ]
+    },
+    {
+      "url": "https://medbiodiagnosi.gr/wp-content/uploads/2021/02/amh.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/tmima-gonimotitas",
+      "pageType": "contact",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://medbiodiagnosi.gr/tmima-gonimotitas",
+          "retrievedAt": "2026-03-31T13:21:14.224Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "210 867 6090",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.965Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 341 9458",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.965Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2271 0 29991",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.965Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1699444971431",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.965Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1613147801185",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.965Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1613147808273",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.965Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1613147817905",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.965Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1612929987549",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.965Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "306182 0",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.965Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "306182 100",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.965Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "kipselibiodiagnosi@gmail.com",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.965Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "petralonabiodiagnosi1@gmail.com",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.965Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "xiosbiodiagnosi@gmail.com",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.965Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://medbiodiagnosi.gr/",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://medbiodiagnosi.gr/",
+          "retrievedAt": "2026-03-31T13:21:06.965Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2026-03-31",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/rantevoy-online",
+      "pageType": "booking",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://medbiodiagnosi.gr/rantevoy-online",
+          "retrievedAt": "2026-03-31T13:21:08.351Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2024-08-02 09",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/rantevoy-online",
+      "pageType": "booking",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://medbiodiagnosi.gr/rantevoy-online",
+          "retrievedAt": "2026-03-31T13:21:08.351Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1.0000000000000000818030539140313095458623138256371021270751953125",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/rantevoy-online",
+      "pageType": "booking",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://medbiodiagnosi.gr/rantevoy-online",
+          "retrievedAt": "2026-03-31T13:21:08.351Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "25346969",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/rantevoy-online",
+      "pageType": "booking",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://medbiodiagnosi.gr/rantevoy-online",
+          "retrievedAt": "2026-03-31T13:21:08.351Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "189724865-1",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/rantevoy-online",
+      "pageType": "booking",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://medbiodiagnosi.gr/rantevoy-online",
+          "retrievedAt": "2026-03-31T13:21:08.351Z"
+        }
+      ]
+    },
+    {
+      "type": "booking_page",
+      "value": "https://medbiodiagnosi.gr/rantevoy-online",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/rantevoy-online",
+      "pageType": "booking",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://medbiodiagnosi.gr/rantevoy-online",
+          "retrievedAt": "2026-03-31T13:21:08.351Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "61544172",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/anosologiko",
+      "pageType": "booking",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://medbiodiagnosi.gr/anosologiko",
+          "retrievedAt": "2026-03-31T13:21:09.765Z"
+        }
+      ]
+    },
+    {
+      "type": "booking_page",
+      "value": "https://medbiodiagnosi.gr/anosologiko",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/anosologiko",
+      "pageType": "booking",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://medbiodiagnosi.gr/anosologiko",
+          "retrievedAt": "2026-03-31T13:21:09.765Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "22285139",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/ogkologiko",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://medbiodiagnosi.gr/ogkologiko",
+          "retrievedAt": "2026-03-31T13:21:11.238Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://medbiodiagnosi.gr/ogkologiko",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/ogkologiko",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://medbiodiagnosi.gr/ogkologiko",
+          "retrievedAt": "2026-03-31T13:21:11.238Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "33225005",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/orologiko",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://medbiodiagnosi.gr/orologiko",
+          "retrievedAt": "2026-03-31T13:21:12.781Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://medbiodiagnosi.gr/orologiko",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/orologiko",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://medbiodiagnosi.gr/orologiko",
+          "retrievedAt": "2026-03-31T13:21:12.781Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "25095058",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/tmima-gonimotitas",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://medbiodiagnosi.gr/tmima-gonimotitas",
+          "retrievedAt": "2026-03-31T13:21:14.224Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://medbiodiagnosi.gr/tmima-gonimotitas",
+      "sourcePageUrl": "https://medbiodiagnosi.gr/tmima-gonimotitas",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://medbiodiagnosi.gr/tmima-gonimotitas",
+          "retrievedAt": "2026-03-31T13:21:14.224Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://medbiodiagnosi.gr/",
+    "finalOrigin": "https://medbiodiagnosi.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://medbiodiagnosi.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:21:05.537Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [
+        "/wp-admin/admin-ajax.php"
+      ],
+      "disallowRules": [
+        "/wp-content/uploads/wc-logs/",
+        "/wp-content/uploads/woocommerce_transient_files/",
+        "/wp-content/uploads/woocommerce_uploads/",
+        "/*?add-to-cart=",
+        "/*?*add-to-cart=",
+        "/wp-admin/"
+      ],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://medbiodiagnosi.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:21:04.732Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://medbiodiagnosi.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/rantevoy-online",
+        "action": "queued",
+        "pageTypeHint": "booking",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/anosologiko",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/ogkologiko",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/orologiko",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/tmima-gonimotitas",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/tmima-yperichon",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/ergastiriaki-ypodomi",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/aimatologikes-exetaseis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/geniki-oyron",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/thyreoeidis-exetaseis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/oi-aparaitites-exetaseis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/oi-aparaitites-exetaseis-gia-ta-paidia",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/agora-online",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/xrisimes-plirofories",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/cart",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/product/plires-check-up-1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/product/moriako-test-pcr-covid-19",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/product/rapid-test-anichneysis-antigonoy-ag-covid-19",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:06.968Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/rantevoy-online",
+        "action": "fetched",
+        "pageTypeHint": "booking",
+        "statusCode": 200,
+        "reason": "Fetched from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:08.354Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/anosologiko",
+        "action": "fetched",
+        "pageTypeHint": "booking",
+        "statusCode": 200,
+        "reason": "Fetched from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:09.767Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/ogkologiko",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:11.240Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/orologiko",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:12.782Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/tmima-gonimotitas",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://medbiodiagnosi.gr/",
+        "timestamp": "2026-03-31T13:21:14.226Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:21:18.818Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/rantevoy-online",
+        "action": "screenshot_captured",
+        "pageTypeHint": "booking",
+        "timestamp": "2026-03-31T13:21:21.327Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/anosologiko",
+        "action": "screenshot_captured",
+        "pageTypeHint": "booking",
+        "timestamp": "2026-03-31T13:21:23.724Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/ogkologiko",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:21:25.900Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/orologiko",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:21:28.055Z"
+      },
+      {
+        "url": "https://medbiodiagnosi.gr/tmima-gonimotitas",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:21:30.330Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

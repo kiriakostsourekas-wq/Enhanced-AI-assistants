@@ -1,0 +1,3238 @@
+{
+  "domain": "elpis.gr",
+  "collectedAt": "2026-03-31T13:20:28.843Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/elpis.gr-home-68e57927",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "http://www.elpis.gr/",
+      "finalUrl": "http://www.elpis.gr/",
+      "fetchedAt": "2026-03-31T13:20:13.596Z",
+      "metadata": {
+        "title": "| Γενικό Νοσοκομείο Αθηνών | Η Ελπίςarrow-orangearrow-orangearrow-orangearrow-orangearrow-orangearrow-orangearrow-orangearrow-orange",
+        "canonicalUrl": "http://www.elpis.gr/",
+        "language": "el"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Κεντρική πλοήγηση"
+        },
+        {
+          "level": "h2",
+          "text": "Ιανουάριος! Μήνας Ευαισθητοποίησης για τον Καρκίνο Τραχήλου της Μήτρας"
+        },
+        {
+          "level": "h2",
+          "text": "Νέος Ενιαίος Αριθμός Επικοινωνίας, Ραντεβού και Εξυπηρέτησης Πολιτών για θέματα Υγείας"
+        },
+        {
+          "level": "h2",
+          "text": "Πίνακες Μοριοδότησης υποψηφίων Ιατρών και Επιτυχόντων του Γ.Ν.Α. \"Η ΕΛΠΙΣ\" μετά τη διεξαγωγή συνέντευξης από το Αρμόδιο Συμβούλιο του Νοσοκομείου"
+        },
+        {
+          "level": "h2",
+          "text": "CoViD 19 - ΧΟΡΗΓΗΣΗ ΑΝΤΙΪΚΩΝ ΦΑΡΜΑΚΩΝ"
+        },
+        {
+          "level": "h2",
+          "text": "Η Γνώμη σας Μετράει για το Γ.Ν.Α. \"Η ΕΛΠΙΣ\""
+        },
+        {
+          "level": "h2",
+          "text": "ΤΕΛΕΥΤΑΙΑ ΝΕΑ"
+        },
+        {
+          "level": "h2",
+          "text": "Έκτακτο Δελτίο Επικίνδυνων Καιρικών Φαινομένων"
+        },
+        {
+          "level": "h2",
+          "text": "Ευχές από τη Διοίκηση του Γ.Ν.Α. \"Η ΕΛΠΙΣ\" - Χριστούγεννα 2025"
+        },
+        {
+          "level": "h2",
+          "text": "Οκτώβριος 2025, μήνας Πρόληψης, Ενημέρωσης & Ευαισθητοποίησης για τον Καρκίνο του Μαστού"
+        },
+        {
+          "level": "h2",
+          "text": "Footer"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "http://www.elpis.gr/"
+        },
+        {
+          "href": "http://www.elpis.gr/en",
+          "label": "EN"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio",
+          "label": "ΝΟΣΟΚΟΜΕΙΟ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/istoria",
+          "label": "ΙΣΤΟΡΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/skopos-orama-apostoli",
+          "label": "ΣΚΟΠΟΣ - ΟΡΑΜΑ - ΑΠΟΣΤΟΛΗ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/dioikisi-organogramma",
+          "label": "ΔΙΟΙΚΗΣΗ - ΟΡΓΑΝΟΓΡΑΜΜΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/anafores-apologismoi-isologimoi-statistika",
+          "label": "ΑΝΑΦΟΡΕΣ (ΑΠΟΛΟΓΙΣΜΟΣ – ΣΤΑΤΙΣΤΙΚΑ – ΙΣΟΛΟΓΙΜΟΙ)"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/politiki-ygieinis-kai-asfaleias-ergazomenon-toy-gna-i-elpis",
+          "label": "ΠΟΛΙΤΙΚΗ ΥΓΙΕΙΝΗΣ ΚΑΙ ΑΣΦΑΛΕΙΑΣ ΕΡΓΑΖΟΜΕΝΩΝ ΤΟΥ Γ.Ν.Α «Η ΕΛΠΙΣ»"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/somateio-ergazomenon",
+          "label": "ΣΩΜΑΤΕΙΟ"
+        },
+        {
+          "href": "http://www.elpis.gr/ieros-naos",
+          "label": "ΙΕΡΟΣ ΝΑΟΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypodomes-exoplismos",
+          "label": "ΥΠΟΔΟΜΕΣ & ΕΞΟΠΛΙΣΜΟΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/dorees",
+          "label": "ΔΩΡΕΕΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/eyharistiries-epistoles",
+          "label": "ΕΥΧΑΡΙΣΤΗΡΙΕΣ ΕΠΙΣΤΟΛΕΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/symmorfosi-odigia-ee-20191937n-49902022",
+          "label": "ΣΥΜΜΟΡΦΩΣΗ - ΟΔΗΓΙΑ (ΕΕ) 2019/1937/Ν. 4990/2022"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies",
+          "label": "ΥΠΗΡΕΣΙΕΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies/iatriki-ypiresia",
+          "label": "ΙΑΤΡΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/pathologikos-tomeas",
+          "label": "ΠΑΘΟΛΟΓΙΚΟΣ ΤΟΜΕΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies/heiroyrgikos-tomeas",
+          "label": "ΧΕΙΡΟΥΡΓΙΚΟΣ ΤΟΜΕΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ergastiriakos-tomeas",
+          "label": "ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΤΟΜΕΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/tmima-diaitologias-diatrofis",
+          "label": "ΤΜΗΜΑ ΔΙΑΙΤΟΛΟΓΙΑΣ-ΔΙΑΤΡΟΦΗΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/tmima-koinonikis-ypiresias",
+          "label": "ΤΜΗΜΑ ΚΟΙΝΩΝΙΚΗΣ ΥΠΗΡΕΣΙΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/tmima-paraiatrikoy-prosopikoy",
+          "label": "ΤΜΗΜΑ ΠΑΡΑΪΑΤΡΙΚΟΥ ΠΡΟΣΩΠΙΚΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/grafeio-epoptrias-dimosias-ygeias",
+          "label": "ΓΡΑΦΕΙΟ ΕΠΟΠΤΡΙΑΣ ΔΗΜΟΣΙΑΣ ΥΓΕΙΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies/nosileytiki-ypiresia",
+          "label": "ΝΟΣΗΛΕΥΤΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies/dioikitikes-ypiresies",
+          "label": "ΔΙΟΙΚΗΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/aytoteli-tmimata-grafeia",
+          "label": "ΑΥΤΟΤΕΛΗ ΤΜΗΜΑΤΑ & ΓΡΑΦΕΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/epitropi-nosokomeiakon-loimoxeon",
+          "label": "ΕΠΙΤΡΟΠΗ ΝΟΣΟΚΟΜΕΙΑΚΩΝ ΛΟΙΜΩΞΕΩΝ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresiesiatrikes-epitropes/omada-ypostirixis-threpsis",
+          "label": "ΟΜΑΔΑ ΥΠΟΣΤΗΡΙΞΗΣ ΘΡΕΨΗΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis",
+          "label": "ΠΟΛΙΤΗΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/efimeries",
+          "label": "ΕΦΗΜΕΡΙΕΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/lista-heiroyrgeioy",
+          "label": "ΛΙΣΤΑ ΧΕΙΡΟΥΡΓΕΙΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/exoterika-iatreia-ranteboy",
+          "label": "ΕΞΩΤΕΡΙΚΑ ΙΑΤΡΕΙΑ & ΡΑΝΤΕΒΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/kanones-episkeptirioy",
+          "label": "ΚΑΝΟΝΕΣ ΕΠΙΣΚΕΠΤΗΡΙΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/ethelontiki-aimodosia",
+          "label": "ΕΘΕΛΟΝΤΙΚΗ ΑΙΜΟΔΟΣΙΑ"
+        },
+        {
+          "href": "https://www.elpis.gr/covid-19-horigisi-antiikon-farmakon",
+          "label": "COVID 19 - ΧΟΡΗΓΗΣΗ ΑΝΤΙΪΚΩΝ ΦΑΡΜΑΚΩΝ"
+        },
+        {
+          "href": "http://www.elpis.gr/hrisima-gia-tin-ygeia-moy",
+          "label": "ΧΡΗΣΙΜΑ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΜΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/dikaiomata-ypohreoseis-asthenoys",
+          "label": "ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/prosopika-dedomena",
+          "label": "ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/i-gnomi-sas-metraei-gia-gna-i-elpis",
+          "label": "Η ΓΝΩΜΗ ΣΑΣ ΜΕΤΡΑΕΙ ΓΙΑ ΤΟ Γ.Ν.Α. \"Η ΕΛΠΙΣ\""
+        },
+        {
+          "href": "http://www.elpis.gr/nea-anakoinoseis",
+          "label": "ΝΕΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/deltia-typoy",
+          "label": "ΔΕΛΤΙΑ ΤΥΠΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/anakoinoseis",
+          "label": "ΑΝΑΚΟΙΝΩΣΕΙΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/egrapsan-gia-mas",
+          "label": "ΕΓΡΑΨΑΝ ΓΙΑ ΜΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/diagonismoi",
+          "label": "ΔΙΑΓΩΝΙΣΜΟΙ"
+        },
+        {
+          "href": "http://www.elpis.gr/diagonismoi/prokiryxeis-diakiryxeis",
+          "label": "ΠΡΟΚΗΡΥΞΕΙΣ-ΔΙΑΚΗΡΥΞΕΙΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/diagonismoi/diaboyleyseis",
+          "label": "ΔΙΑΒΟΥΛΕΥΣΕΙΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/diagonismoi/prokiryxeis-plirosis-theseon-prosopikoy",
+          "label": "ΠΡΟΚΗΡΥΞΕΙΣ ΠΛΗΡΩΣΗΣ ΘΕΣΕΩΝ ΠΡΟΣΩΠΙΚΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/contact",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/periodiko-gia-tin-ygeia",
+          "label": "ΠΕΡΙΟΔΙΚΟ ΓΙΑ ΤΗΝ ΥΓΕΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/espa-2014-2020",
+          "label": "ΕΣΠΑ 2014-2020"
+        },
+        {
+          "href": "http://www.elpis.gr/ianoyarios-minas-eyaisthitopoiisis-gia-ton-karkino-trahiloy-tis-mitras",
+          "label": "Μάθετε περισσότερα.arrow-white{fill:#FFF;}arrow-orange"
+        },
+        {
+          "href": "http://www.elpis.gr/neos-eniaios-arithmos-epikoinonias-ranteboy-kai-exypiretisis-politon-gia-themata-ygeias",
+          "label": "Μάθετε περισσότερα.arrow-blue{fill:#FFF;}arrow-orange"
+        },
+        {
+          "href": "http://www.elpis.gr/pinakes-moriodotisis-ypopsifion-iatron-kai-epityhonton-toy-gna-i-elpis-meta-ti-diexagogi",
+          "label": "Μάθετε περισσότερα.arrow-blue{fill:#FFF;}arrow-orange"
+        },
+        {
+          "href": "http://www.elpis.gr/covid-19-horigisi-antiikon-farmakon",
+          "label": "Μάθετε περισσότερα.arrow-blue{fill:#FFF;}arrow-orange"
+        },
+        {
+          "href": "http://www.elpis.gr/prokiryxeis",
+          "label": "ΔΙΑΓΩΝΙΣΜΟΙΠροκηρύξεις, Διακηρύξεις, Διαβουλεύσεις , Θέσεις Προσωπικού"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies/aytoteles-grafeio-eleghoy-poiotitas-ereynas-synehizomenis-ekpaideysis",
+          "label": "ΑΥΤΟΤΕΛΕΣ ΓΡΑΦΕΙΟ ΕΛΕΓΧΟΥ ΠΟΙΟΤΗΤΑΣ, ΕΡΕΥΝΑΣ & ΣΥΝΕΧΙΖΟΜΕΝΗΣ ΕΚΠΑΙΔΕΥΣΗΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies/aytoteles-grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+          "label": "ΑΥΤΟΤΕΛΕΣ ΓΡΑΦΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΔΙΚΑΙΩΜΑΤΩΝ ΛΗΠΤΩΝ ΥΠΗΡΕΣΙΩΝ ΥΓΕΙΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresiesiatrikes-epitropes/epitropi-nosokomeiakon-loimoxeon",
+          "label": "ΕΠΙΤΡΟΠΗ ΝΟΣΟΚΟΜΕΙΑΚΩΝ ΛΟΙΜΩΞΕΩΝ"
+        },
+        {
+          "href": "http://www.elpis.gr/ektakto-deltio-epikindynon-kairikon-fainomenon",
+          "label": "Μάθετε περισσότερα.arrow-orange{fill:#FFF;}arrow-orange"
+        },
+        {
+          "href": "http://www.elpis.gr/eyhes-apo-ti-dioikisi-toy-gna-i-elpis-hristoygenna-2025",
+          "label": "Μάθετε περισσότερα.arrow-orange{fill:#FFF;}arrow-orange"
+        },
+        {
+          "href": "http://www.elpis.gr/oktobrios-2025-minas-prolipsis-enimerosis-eyaisthitopoiisis-gia-ton-karkino-toy-mastoy",
+          "label": "Μάθετε περισσότερα.arrow-orange{fill:#FFF;}arrow-orange"
+        },
+        {
+          "href": "http://www.elpis.gr/nea",
+          "label": "Δείτε τα όλα"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/dikaiomata-ypohreoseis-asthenoys",
+          "label": "ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/nea/deltia-typoy",
+          "label": "ΔΕΛΤΙΑ ΤΥΠΟΥ"
+        }
+      ],
+      "forms": [
+        {
+          "action": "http://www.elpis.gr/search",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "search",
+            "edit-submit-search"
+          ],
+          "submitLabels": [
+            "Apply"
+          ],
+          "fields": [
+            {
+              "name": "search",
+              "type": "text",
+              "label": "Αναζήτηση",
+              "required": false
+            },
+            {
+              "name": "edit-submit-search",
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "213 20 39 000",
+          "2019/1937",
+          "4990/2022",
+          "2014-2020"
+        ],
+        "emails": [
+          "info@elpis.gr",
+          "protokollo@elpis.gr"
+        ],
+        "addresses": [
+          "Δημητσάνας 7, Αμπελόκηποι, Αθήνα"
+        ],
+        "socialLinks": [],
+        "forms": [
+          {
+            "action": "http://www.elpis.gr/search",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "search",
+              "edit-submit-search"
+            ],
+            "submitLabels": [
+              "Apply"
+            ],
+            "fields": [
+              {
+                "name": "search",
+                "type": "text",
+                "label": "Αναζήτηση",
+                "required": false
+              },
+              {
+                "name": "edit-submit-search",
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Footer ΝΟΣΟΚΟΜΕΙΟ ΥΠΗΡΕΣΙΕΣ ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ ΠΟΙΟΤΗΤΑ & ΕΚΠΑΙΔΕΥΣΗ ΔΕΛΤΙΑ ΤΥΠΟΥ ΕΠΙΚΟΝΩΝΙΑ ΧΡΗΣΙΜΑ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΜΟΥ ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ ΠΑΡΑΒΙΑΣΕΙΣ ΕΝΩΣΙΑΚΟΥ ΔΙΚΑΙΟΥ - ΟΔΗΓΙΑ (ΕΕ) 2019/1937/Ν. 4990/2022",
+      "textContent": "213 20 39 000 info@elpis.grprotokollo@elpis.gr Τμ. Γραμματείας Δημητσάνας 7, Αμπελόκηποι, Αθήνα ENGR ΑΝΑΖΗΤΗΣΗ Κεντρική πλοήγηση ΑΡΧΙΚΗ ΝΟΣΟΚΟΜΕΙΟ ΙΣΤΟΡΙΑ ΣΚΟΠΟΣ - ΟΡΑΜΑ - ΑΠΟΣΤΟΛΗ ΔΙΟΙΚΗΣΗ - ΟΡΓΑΝΟΓΡΑΜΜΑ ΑΝΑΦΟΡΕΣ (ΑΠΟΛΟΓΙΣΜΟΣ – ΣΤΑΤΙΣΤΙΚΑ – ΙΣΟΛΟΓΙΜΟΙ) ΠΟΛΙΤΙΚΗ ΥΓΙΕΙΝΗΣ ΚΑΙ ΑΣΦΑΛΕΙΑΣ ΕΡΓΑΖΟΜΕΝΩΝ ΤΟΥ Γ.Ν.Α «Η ΕΛΠΙΣ» ΣΩΜΑΤΕΙΟ ΙΕΡΟΣ ΝΑΟΣ ΥΠΟΔΟΜΕΣ & ΕΞΟΠΛΙΣΜΟΣ ΔΩΡΕΕΣ ΕΥΧΑΡΙΣΤΗΡΙΕΣ ΕΠΙΣΤΟΛΕΣ ΣΥΜΜΟΡΦΩΣΗ - ΟΔΗΓΙΑ (ΕΕ) 2019/1937/Ν. 4990/2022 ΥΠΗΡΕΣΙΕΣ ΙΑΤΡΙΚΗ ΥΠΗΡΕΣΙΑ ΠΑΘΟΛΟΓΙΚΟΣ ΤΟΜΕΑΣ ΧΕΙΡΟΥΡΓΙΚΟΣ ΤΟΜΕΑΣ ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΤΟΜΕΑΣ ΤΜΗΜΑ ΔΙΑΙΤΟΛΟΓΙΑΣ-ΔΙΑΤΡΟΦΗΣ ΤΜΗΜΑ ΚΟΙΝΩΝΙΚΗΣ ΥΠΗΡΕΣΙΑΣ ΤΜΗΜΑ ΠΑΡΑΪΑΤΡΙΚΟΥ ΠΡΟΣΩΠΙΚΟΥ ΓΡΑΦΕΙΟ ΕΠΟΠΤΡΙΑΣ ΔΗΜΟΣΙΑΣ ΥΓΕΙΑΣ ΝΟΣΗΛΕΥΤΙΚΗ ΥΠΗΡΕΣΙΑ ΔΙΟΙΚΗΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ ΑΥΤΟΤΕΛΗ ΤΜΗΜΑΤΑ & ΓΡΑΦΕΙΑ ΙΑΤΡΙΚΕΣ ΕΠΙΤΡΟΠΕΣ ΕΠΙΤΡΟΠΗ ΝΟΣΟΚΟΜΕΙΑΚΩΝ ΛΟΙΜΩΞΕΩΝ ΟΜΑΔΑ ΥΠΟΣΤΗΡΙΞΗΣ ΘΡΕΨΗΣ ΠΟΛΙΤΗΣ ΕΦΗΜΕΡΙΕΣ ΛΙΣΤΑ ΧΕΙΡΟΥΡΓΕΙΟΥ ΕΞΩΤΕΡΙΚΑ ΙΑΤΡΕΙΑ & ΡΑΝΤΕΒΟΥ ΚΑΝΟΝΕΣ ΕΠΙΣΚΕΠΤΗΡΙΟΥ ΕΘΕΛΟΝΤΙΚΗ ΑΙΜΟΔΟΣΙΑ COVID 19 - ΧΟΡΗΓΗΣΗ ΑΝΤΙΪΚΩΝ ΦΑΡΜΑΚΩΝ ΧΡΗΣΙΜΑ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΜΟΥ ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ Η ΓΝΩΜΗ ΣΑΣ ΜΕΤΡΑΕΙ ΓΙΑ ΤΟ Γ.Ν.Α. \"Η ΕΛΠΙΣ\" ΝΕΑ ΔΕΛΤΙΑ ΤΥΠΟΥ ΑΝΑΚΟΙΝΩΣΕΙΣ ΕΓΡΑΨΑΝ ΓΙΑ ΜΑΣ ΔΙΑΓΩΝΙΣΜΟΙ ΠΡΟΚΗΡΥΞΕΙΣ-ΔΙΑΚΗΡΥΞΕΙΣ ΔΙΑΒΟΥΛΕΥΣΕΙΣ ΠΡΟΚΗΡΥΞΕΙΣ ΠΛΗΡΩΣΗΣ ΘΕΣΕΩΝ ΠΡΟΣΩΠΙΚΟΥ ΕΠΙΚΟΙΝΩΝΙΑ ΠΕΡΙΟΔΙΚΟ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΕΣΠΑ 2014-2020 Μενού Ιανουάριος! Μήνας Ευαισθητοποίησης για τον Καρκίνο Τραχήλου της Μήτρας · Παρασκευή, 23 Ιαν 2026 Μάθετε περισσότερα.arrow-white{fill:#FFF;}arrow-orange Νέος Ενιαίος Αριθμός Επικοινωνίας, Ραντεβού και Εξυπηρέτησης Πολιτών για θέματα Υγείας Για ραντεβού καλείτε στο 1566 ή Ηλεκτρονικά στο www.finddoctors.gov.gr · Παρασκευή, 26 Σεπ 2025 Μάθετε περισσότερα.arrow-blue{fill:#FFF;}arrow-orange Πίνακες Μοριοδότησης υποψηφίων Ιατρών και Επιτυχόντων του Γ.Ν.Α. \"Η ΕΛΠΙΣ\" μετά τη διεξαγωγή συνέντευξης από το Αρμόδιο Συμβούλιο του Νοσοκομείου Νέοι Πίνακες για τη θέση Αιματολογίας - Δευτέρα 19 Φεβ 2024 Μάθετε περισσότερα.arrow-blue{fill:#FFF;}arrow-orange CoViD 19 - ΧΟΡΗΓΗΣΗ ΑΝΤΙΪΚΩΝ ΦΑΡΜΑΚΩΝ Μάθετε περισσότερα.arrow-blue{fill:#FFF;}arrow-orange Η Γνώμη σας Μετράει για το Γ.Ν.Α. \"Η ΕΛΠΙΣ\" Βοηθείστε μας να γίνουμε καλύτεροι, αξιολογώντας τις υπηρεσίες που παρέχουμε · Τετάρτη, 11 Δεκ 2019 Μάθετε περισσότερα.arrow-blue{fill:#FFF;}arrow-orange ΕΞΩΤΕΡΙΚΑ ΙΑΤΡΕΙΑ & ΡΑΝΤΕΒΟΥΓια ραντεβού καλείτε στο 1566 ή Ηλεκτρονικά στο www.finddoctors.gov.gr ή μέσω της Εφαρμογής MyHealth app ΕΦΗΜΕΡΙΕΣΓενική Εφημερία κάθε 4 ημέρες ΛΙΣΤΑ ΧΕΙΡΟΥΡΓΕΙΟΥΔιαδικασία, Κατηγορίες, Λίστα ΔΙΑΓΩΝΙΣΜΟΙΠροκηρύξεις, Διακηρύξεις, Διαβουλεύσεις , Θέσεις Προσωπικού ΙΑΤΡΙΚΗ ΥΠΗΡΕΣΙΑΠαθολογικός / Χειρουργικός / Εργαστηριακός Τομέας ΣΚΟΠΟΣ - ΟΡΑΜΑ - ΑΠΟΣΤΟΛΗΦροντίδα υγείας σε κάθε πολίτη ΑΥΤΟΤΕΛΕΣ ΓΡΑΦΕΙΟ ΕΛΕΓΧΟΥ ΠΟΙΟΤΗΤΑΣ, ΕΡΕΥΝΑΣ & ΣΥΝΕΧΙΖΟΜΕΝΗΣ ΕΚΠΑΙΔΕΥΣΗΣ ΑΥΤΟΤΕΛΕΣ ΓΡΑΦΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΔΙΚΑΙΩΜΑΤΩΝ ΛΗΠΤΩΝ ΥΠΗΡΕΣΙΩΝ ΥΓΕΙΑΣ ΕΠΙΤΡΟΠΗ ΝΟΣΟΚΟΜΕΙΑΚΩΝ ΛΟΙΜΩΞΕΩΝ ΤΕΛΕΥΤΑΙΑ ΝΕΑ Έκτακτο Δελτίο Επικίνδυνων Καιρικών Φαινομένων · Τετάρτη, 21 Ιαν 2026 Μάθετε περισσότερα.arrow-orange{fill:#FFF;}arrow-orange Ευχές από τη Διοίκηση του Γ.Ν.Α. \"Η ΕΛΠΙΣ\" - Χριστούγεννα 2025 · Πέμπτη, 18 Δεκ 2025 Μάθετε περισσότερα.arrow-orange{fill:#FFF;}arrow-orange Οκτώβριος 2025, μήνας Πρόληψης, Ενημέρωσης & Ευαισθητοποίησης για τον Καρκίνο του Μαστού · Πέμπτη, 16 Οκτ 2025 Μάθετε περισσότερα.arrow-orange{fill:#FFF;}arrow-orange Δείτε τα όλα Footer ΝΟΣΟΚΟΜΕΙΟ ΥΠΗΡΕΣΙΕΣ ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ ΠΟΙΟΤΗΤΑ & ΕΚΠΑΙΔΕΥΣΗ ΔΕΛΤΙΑ ΤΥΠΟΥ ΕΠΙΚΟΝΩΝΙΑ ΧΡΗΣΙΜΑ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΜΟΥ ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ ΠΑΡΑΒΙΑΣΕΙΣ ΕΝΩΣΙΑΚΟΥ ΔΙΚΑΙΟΥ - ΟΔΗΓΙΑ (ΕΕ) 2019/1937/Ν. 4990/2022 ΑΡΧΙΚΗ ΝΟΣΟΚΟΜΕΙΟ ΙΣΤΟΡΙΑ ΣΚΟΠΟΣ - ΟΡΑΜΑ - ΑΠΟΣΤΟΛΗ ΔΙΟΙΚΗΣΗ - ΟΡΓΑΝΟΓΡΑΜΜΑ ΑΝΑΦΟΡΕΣ (ΑΠΟΛΟΓΙΣΜΟΣ – ΣΤΑΤΙΣΤΙΚΑ – ΙΣΟΛΟΓΙΜΟΙ) ΠΟΛΙΤΙΚΗ ΥΓΙΕΙΝΗΣ ΚΑΙ ΑΣΦΑΛΕΙΑΣ ΕΡΓΑΖΟΜΕΝΩΝ ΤΟΥ Γ.Ν.Α «Η ΕΛΠΙΣ» ΣΩΜΑΤΕΙΟ ΙΕΡΟΣ ΝΑΟΣ ΥΠΟΔΟΜΕΣ & ΕΞΟΠΛΙΣΜΟΣ ΔΩΡΕΕΣ ΕΥΧΑΡΙΣΤΗΡΙΕΣ ΕΠΙΣΤΟΛΕΣ ΣΥΜΜΟΡΦΩΣΗ - ΟΔΗΓΙΑ (ΕΕ) 2019/1937/Ν. 4990/2022 ΥΠΗΡΕΣΙΕΣ ΙΑΤΡΙΚΗ ΥΠΗΡΕΣΙΑ ΠΑΘΟΛΟΓΙΚΟΣ ΤΟΜΕΑΣ ΧΕΙΡΟΥΡΓΙΚΟΣ ΤΟΜΕΑΣ ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΤΟΜΕΑΣ ΤΜΗΜΑ ΔΙΑΙΤΟΛΟΓΙΑΣ-ΔΙΑΤΡΟΦΗΣ ΤΜΗΜΑ ΚΟΙΝΩΝΙΚΗΣ ΥΠΗΡΕΣΙΑΣ ΤΜΗΜΑ ΠΑΡΑΪΑΤΡΙΚΟΥ ΠΡΟΣΩΠΙΚΟΥ ΓΡΑΦΕΙΟ ΕΠΟΠΤΡΙΑΣ ΔΗΜΟΣΙΑΣ ΥΓΕΙΑΣ ΝΟΣΗΛΕΥΤΙΚΗ ΥΠΗΡΕΣΙΑ ΔΙΟΙΚΗΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ ΑΥΤΟΤΕΛΗ ΤΜΗΜΑΤΑ & ΓΡΑΦΕΙΑ ΙΑΤΡΙΚΕΣ ΕΠΙΤΡΟΠΕΣ ΕΠΙΤΡΟΠΗ ΝΟΣΟΚΟΜΕΙΑΚΩΝ ΛΟΙΜΩΞΕΩΝ ΟΜΑΔΑ ΥΠΟΣΤΗΡΙΞΗΣ ΘΡΕΨΗΣ ΠΟΛΙΤΗΣ ΕΦΗΜΕΡΙΕΣ ΛΙΣΤΑ ΧΕΙΡΟΥΡΓΕΙΟΥ ΕΞΩΤΕΡΙΚΑ ΙΑΤΡΕΙΑ & ΡΑΝΤΕΒΟΥ ΚΑΝΟΝΕΣ ΕΠΙΣΚΕΠΤΗΡΙΟΥ ΕΘΕΛΟΝΤΙΚΗ ΑΙΜΟΔΟΣΙΑ COVID 19 - ΧΟΡΗΓΗΣΗ ΑΝΤΙΪΚΩΝ ΦΑΡΜΑΚΩΝ ΧΡΗΣΙΜΑ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΜΟΥ ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ Η ΓΝΩΜΗ ΣΑΣ ΜΕΤΡΑΕΙ ΓΙΑ ΤΟ Γ.Ν.Α. \"Η ΕΛΠΙΣ\" ΝΕΑ ΔΕΛΤΙΑ ΤΥΠΟΥ ΑΝΑΚΟΙΝΩΣΕΙΣ ΕΓΡΑΨΑΝ ΓΙΑ ΜΑΣ ΔΙΑΓΩΝΙΣΜΟΙ ΠΡΟΚΗΡΥΞΕΙΣ-ΔΙΑΚΗΡΥΞΕΙΣ ΔΙΑΒΟΥΛΕΥΣΕΙΣ ΠΡΟΚΗΡΥΞΕΙΣ ΠΛΗΡΩΣΗΣ ΘΕΣΕΩΝ ΠΡΟΣΩΠΙΚΟΥ ΕΠΙΚΟΙΝΩΝΙΑ ΠΕΡΙΟΔΙΚΟ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΕΣΠΑ 2014-2020 {\"path\":{\"baseUrl\":\"\\/\",\"scriptPath\":null,\"pathPrefix\":\"\",\"currentPath\":\"home\",\"currentPathIsAdmin\":false,\"isFront\":true,\"currentLanguage\":\"el\"},\"pluralDelimiter\":\"\\u0003\",\"suppressDeprecationErrors\":true,\"responsive_menu\":{\"position\":\"right\",\"theme\":\"theme-light\",\"pagedim\":\"pagedim\",\"modifyViewport\":true,\"use_bootstrap\":false,\"breakpoint\":\"(min-width: 960px)\",\"drag\":false},\"eu_cookie_compliance\":{\"cookie_policy_version\":\"1.0.0\",\"popup_enabled\":true,\"popup_agreed_enabled\":false,\"popup_hide_agreed\":false,\"popup_clicking_confirmation\":false,\"popup_scrolling_confirmation\":false,\"popup_html_info\":\"\\u003Cdiv aria-labelledby=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\\u0022\\u003E\\n \\u003Cdiv class=\\u0022popup-content info eu-cookie-compliance-content\\u0022\\u003E\\n \\u003Cdiv id=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-compliance-message\\u0022 role=\\u0022document\\u0022\\u003E\\n \\u003Ch2\\u003EWe use cookies on this site to enhance your user experience\\u003C\\/h2\\u003E\\u003Cp\\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\\u003C\\/p\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022find-more-button eu-cookie-compliance-more-button\\u0022\\u003E\\u03a0\\u03b5\\u03c1\\u03b9\\u03c3\\u03c3\\u03cc\\u03c4\\u03b5\\u03c1\\u03b5\\u03c2 \\u03c0\\u03bb\\u03b7\\u03c1\\u03bf\\u03c6\\u03bf\\u03c1\\u03af\\u03b5\\u03c2\\u003C\\/button\\u003E\\n \\u003C\\/div\\u003E\\n\\n \\n \\u003Cdiv id=\\u0022popup-buttons\\u0022 class=\\u0022eu-cookie-compliance-buttons\\u0022\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022agree-button eu-cookie-compliance-secondary-button\\u0022\\u003EOK, \\u03c3\\u03c5\\u03bc\\u03c6\\u03c9\\u03bd\\u03ce\\u003C\\/button\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022decline-button eu-cookie-compliance-default-button\\u0022\\u003ENo, thanks\\u003C\\/button\\u003E\\n \\u003C\\/div\\u003E\\n \\u003C\\/div\\u003E\\n\\u003C\\/div\\u003E\",\"use_mobile_message\":false,\"mobile_popup_html_info\":\"\\u003Cdiv aria-labelledby=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\\u0022\\u003E\\n \\u003Cdiv class=\\u0022popup-content info eu-cookie-compliance-content\\u0022\\u003E\\n \\u003Cdiv id=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-compliance-message\\u0022 role=\\u0022document\\u0022\\u003E\\n \\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022find-more-button eu-cookie-compliance-more-button\\u0022\\u003E\\u03a0\\u03b5\\u03c1\\u03b9\\u03c3\\u03c3\\u03cc\\u03c4\\u03b5\\u03c1\\u03b5\\u03c2 \\u03c0\\u03bb\\u03b7\\u03c1\\u03bf\\u03c6\\u03bf\\u03c1\\u03af\\u03b5\\u03c2\\u003C\\/button\\u003E\\n \\u003C\\/div\\u003E\\n\\n \\n \\u003Cdiv id=\\u0022popup-buttons\\u0022 class=\\u0022eu-cookie-compliance-buttons\\u0022\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022agree-button eu-cookie-compliance-secondary-button\\u0022\\u003EOK, \\u03c3\\u03c5\\u03bc\\u03c6\\u03c9\\u03bd\\u03ce\\u003C\\/button\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022decline-button eu-cookie-compliance-default-button\\u0022\\u003ENo, thanks\\u003C\\/button\\u003E\\n \\u003C\\/div\\u003E\\n \\u003C\\/div\\u003E\\n\\u003C\\/div\\u003E\",\"mobile_breakpoint\":768,\"popup_html_agreed\":false,\"popup_use_bare_css\":false,\"popup_height\":\"auto\",\"popup_width\":\"100%\",\"popup_delay\":1000,\"popup_link\":\"https:\\/\\/www.elpis.gr\\/system\\/files\\/2020-03\\/%CE%A0%CE%9F%CE%9B%CE%99%CE%A4%CE%99%CE%9A%CE%97%20Cookies.pdf\",\"popup_link_new_window\":true,\"popup_position\":false,\"fixed_top_position\":true,\"popup_language\":\"el\",\"store_consent\":false,\"better_support_for_screen_readers\":false,\"cookie_name\":\"\",\"reload_page\":false,\"domain\":\"\",\"domain_all_sites\":false,\"popup_eu_only\":false,\"popup_eu_only_js\":false,\"cookie_lifetime\":100,\"cookie_session\":0,\"set_cookie_session_zero_on_disagree\":0,\"disagree_do_not_show_popup\":false,\"method\":\"opt_in\",\"automatic_cookies_removal\":true,\"allowed_cookies\":\"\",\"withdraw_markup\":\"\\u003Cbutton type=\\u0022button\\u0022 class=\\u0022eu-cookie-withdraw-tab\\u0022\\u003EPrivacy settings\\u003C\\/button\\u003E\\n\\u003Cdiv aria-labelledby=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-withdraw-banner\\u0022\\u003E\\n \\u003Cdiv class=\\u0022popup-content info eu-cookie-compliance-content\\u0022\\u003E\\n \\u003Cdiv id=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-compliance-message\\u0022 role=\\u0022document\\u0022\\u003E\\n \\u003Ch2\\u003EWe use cookies on this site to enhance your user experience\\u003C\\/h2\\u003E\\u003Cp\\u003EYou have given your consent for us to set cookies.\\u003C\\/p\\u003E\\n \\u003C\\/div\\u003E\\n \\u003Cdiv id=\\u0022popup-buttons\\u0022 class=\\u0022eu-cookie-compliance-buttons\\u0022\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022eu-cookie-withdraw-button \\u0022\\u003EWithdraw consent\\u003C\\/button\\u003E\\n \\u003C\\/div\\u003E\\n \\u003C\\/div\\u003E\\n\\u003C\\/div\\u003E\",\"withdraw_enabled\":false,\"reload_options\":0,\"reload_routes_list\":\"\",\"withdraw_button_on_info_popup\":false,\"cookie_categories\":[],\"cookie_categories_details\":[],\"enable_save_preferences_button\":true,\"cookie_value_disagreed\":\"0\",\"cookie_value_agreed_show_thank_you\":\"1\",\"cookie_value_agreed\":\"2\",\"containing_element\":\"body\",\"settings_tab_enabled\":false,\"olivero_primary_button_classes\":\"\",\"olivero_secondary_button_classes\":\"\",\"close_button_action\":\"\",\"open_by_default\":true,\"modules_allow_popup\":true,\"hide_the_banner\":false,\"geoip_match\":true},\"ajaxTrustedUrl\":{\"\\/search\":true},\"user\":{\"uid\":0,\"permissionsHash\":\"5440ce7fc0211b01605ce830e6336f45859f99b7b9a0412df2b6009b71d4a9d5\"}}",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/elpis.gr-home-68e57927/homepage--68e57927.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/elpis.gr-home-68e57927/homepage--68e57927.txt",
+      "imageReferences": [
+        {
+          "url": "http://www.elpis.gr/themes/on/images/logo.svg",
+          "alt": "Home",
+          "sourcePageUrl": "http://www.elpis.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/",
+              "retrievedAt": "2026-03-31T13:20:13.594Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/system/files/inline-images/TEL1.png",
+          "alt": "Phone",
+          "sourcePageUrl": "http://www.elpis.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/",
+              "retrievedAt": "2026-03-31T13:20:13.594Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/system/files/inline-images/EMAIL3.png",
+          "alt": "Email",
+          "sourcePageUrl": "http://www.elpis.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/",
+              "retrievedAt": "2026-03-31T13:20:13.594Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/system/files/inline-images/loc.jpg",
+          "alt": "l",
+          "sourcePageUrl": "http://www.elpis.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/",
+              "retrievedAt": "2026-03-31T13:20:13.594Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/system/files/styles/page_teaser/private/2025-09/1566e_rv_frontpage.jpg?itok=EN7RU_-v",
+          "alt": "1566e_rv_frontpage",
+          "sourcePageUrl": "http://www.elpis.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/",
+              "retrievedAt": "2026-03-31T13:20:13.594Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/system/files/styles/page_teaser/private/2022-07/hospital-image.jpg?itok=6QobNTf0",
+          "alt": "Elpis gr",
+          "sourcePageUrl": "http://www.elpis.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/",
+              "retrievedAt": "2026-03-31T13:20:13.594Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/system/files/styles/page_teaser/private/2023-10/antiviral_drugs_siteicon_6_0.jpg?itok=u8xpNLxs",
+          "alt": "antiviral_drugs_siteicon_6",
+          "sourcePageUrl": "http://www.elpis.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/",
+              "retrievedAt": "2026-03-31T13:20:13.594Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/system/files/styles/page_teaser/private/2019-12/IMG_3.jpg?itok=gzHsxTBT",
+          "alt": "Info-Kiosk",
+          "sourcePageUrl": "http://www.elpis.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/",
+              "retrievedAt": "2026-03-31T13:20:13.594Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/system/files/styles/page_teaser/private/2026-01/civilprotectionalert_2_21.1.2026.jpg?itok=GoDtDlns",
+          "alt": "civilprotectionalert_2_21.1.2026",
+          "sourcePageUrl": "http://www.elpis.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/",
+              "retrievedAt": "2026-03-31T13:20:13.594Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/system/files/styles/page_teaser/private/2021-12/christmas_2021_firstpage_new.png?itok=tmbNE6XE",
+          "alt": "christmas_2021_firstpage",
+          "sourcePageUrl": "http://www.elpis.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/",
+              "retrievedAt": "2026-03-31T13:20:13.594Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/system/files/styles/page_teaser/private/2025-10/oct_breastca_awareness.jpg?itok=zs-svvGQ",
+          "alt": "oct_breastca_awareness",
+          "sourcePageUrl": "http://www.elpis.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/",
+              "retrievedAt": "2026-03-31T13:20:13.594Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/themes/on/images/flame.svg",
+          "sourcePageUrl": "http://www.elpis.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/",
+              "retrievedAt": "2026-03-31T13:20:13.594Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.596Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/elpis.gr-home-68e57927/homepage-page-68e57927.png"
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "http://www.elpis.gr/ypiresies",
+      "finalUrl": "http://www.elpis.gr/ypiresies",
+      "fetchedAt": "2026-03-31T13:20:17.914Z",
+      "metadata": {
+        "title": "ΥΠΗΡΕΣΙΕΣ | Γενικό Νοσοκομείο Αθηνών | Η Ελπίς",
+        "canonicalUrl": "http://www.elpis.gr/ypiresies",
+        "language": "el"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Κεντρική πλοήγηση"
+        },
+        {
+          "level": "h2",
+          "text": "ΥΠΗΡΕΣΙΕΣ"
+        },
+        {
+          "level": "h2",
+          "text": "Footer"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "http://www.elpis.gr/"
+        },
+        {
+          "href": "http://www.elpis.gr/en/node/35",
+          "label": "EN"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies",
+          "label": "GR"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio",
+          "label": "ΝΟΣΟΚΟΜΕΙΟ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/istoria",
+          "label": "ΙΣΤΟΡΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/skopos-orama-apostoli",
+          "label": "ΣΚΟΠΟΣ - ΟΡΑΜΑ - ΑΠΟΣΤΟΛΗ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/dioikisi-organogramma",
+          "label": "ΔΙΟΙΚΗΣΗ - ΟΡΓΑΝΟΓΡΑΜΜΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/anafores-apologismoi-isologimoi-statistika",
+          "label": "ΑΝΑΦΟΡΕΣ (ΑΠΟΛΟΓΙΣΜΟΣ – ΣΤΑΤΙΣΤΙΚΑ – ΙΣΟΛΟΓΙΜΟΙ)"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/politiki-ygieinis-kai-asfaleias-ergazomenon-toy-gna-i-elpis",
+          "label": "ΠΟΛΙΤΙΚΗ ΥΓΙΕΙΝΗΣ ΚΑΙ ΑΣΦΑΛΕΙΑΣ ΕΡΓΑΖΟΜΕΝΩΝ ΤΟΥ Γ.Ν.Α «Η ΕΛΠΙΣ»"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/somateio-ergazomenon",
+          "label": "ΣΩΜΑΤΕΙΟ"
+        },
+        {
+          "href": "http://www.elpis.gr/ieros-naos",
+          "label": "ΙΕΡΟΣ ΝΑΟΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypodomes-exoplismos",
+          "label": "ΥΠΟΔΟΜΕΣ & ΕΞΟΠΛΙΣΜΟΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/dorees",
+          "label": "ΔΩΡΕΕΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/eyharistiries-epistoles",
+          "label": "ΕΥΧΑΡΙΣΤΗΡΙΕΣ ΕΠΙΣΤΟΛΕΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/symmorfosi-odigia-ee-20191937n-49902022",
+          "label": "ΣΥΜΜΟΡΦΩΣΗ - ΟΔΗΓΙΑ (ΕΕ) 2019/1937/Ν. 4990/2022"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies/iatriki-ypiresia",
+          "label": "ΙΑΤΡΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/pathologikos-tomeas",
+          "label": "ΠΑΘΟΛΟΓΙΚΟΣ ΤΟΜΕΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies/heiroyrgikos-tomeas",
+          "label": "ΧΕΙΡΟΥΡΓΙΚΟΣ ΤΟΜΕΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ergastiriakos-tomeas",
+          "label": "ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΤΟΜΕΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/tmima-diaitologias-diatrofis",
+          "label": "ΤΜΗΜΑ ΔΙΑΙΤΟΛΟΓΙΑΣ-ΔΙΑΤΡΟΦΗΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/tmima-koinonikis-ypiresias",
+          "label": "ΤΜΗΜΑ ΚΟΙΝΩΝΙΚΗΣ ΥΠΗΡΕΣΙΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/tmima-paraiatrikoy-prosopikoy",
+          "label": "ΤΜΗΜΑ ΠΑΡΑΪΑΤΡΙΚΟΥ ΠΡΟΣΩΠΙΚΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/grafeio-epoptrias-dimosias-ygeias",
+          "label": "ΓΡΑΦΕΙΟ ΕΠΟΠΤΡΙΑΣ ΔΗΜΟΣΙΑΣ ΥΓΕΙΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies/nosileytiki-ypiresia",
+          "label": "ΝΟΣΗΛΕΥΤΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies/dioikitikes-ypiresies",
+          "label": "ΔΙΟΙΚΗΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/aytoteli-tmimata-grafeia",
+          "label": "ΑΥΤΟΤΕΛΗ ΤΜΗΜΑΤΑ & ΓΡΑΦΕΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/epitropi-nosokomeiakon-loimoxeon",
+          "label": "ΕΠΙΤΡΟΠΗ ΝΟΣΟΚΟΜΕΙΑΚΩΝ ΛΟΙΜΩΞΕΩΝ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresiesiatrikes-epitropes/omada-ypostirixis-threpsis",
+          "label": "ΟΜΑΔΑ ΥΠΟΣΤΗΡΙΞΗΣ ΘΡΕΨΗΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis",
+          "label": "ΠΟΛΙΤΗΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/efimeries",
+          "label": "ΕΦΗΜΕΡΙΕΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/lista-heiroyrgeioy",
+          "label": "ΛΙΣΤΑ ΧΕΙΡΟΥΡΓΕΙΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/exoterika-iatreia-ranteboy",
+          "label": "ΕΞΩΤΕΡΙΚΑ ΙΑΤΡΕΙΑ & ΡΑΝΤΕΒΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/kanones-episkeptirioy",
+          "label": "ΚΑΝΟΝΕΣ ΕΠΙΣΚΕΠΤΗΡΙΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/ethelontiki-aimodosia",
+          "label": "ΕΘΕΛΟΝΤΙΚΗ ΑΙΜΟΔΟΣΙΑ"
+        },
+        {
+          "href": "https://www.elpis.gr/covid-19-horigisi-antiikon-farmakon",
+          "label": "COVID 19 - ΧΟΡΗΓΗΣΗ ΑΝΤΙΪΚΩΝ ΦΑΡΜΑΚΩΝ"
+        },
+        {
+          "href": "http://www.elpis.gr/hrisima-gia-tin-ygeia-moy",
+          "label": "ΧΡΗΣΙΜΑ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΜΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/dikaiomata-ypohreoseis-asthenoys",
+          "label": "ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/prosopika-dedomena",
+          "label": "ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/i-gnomi-sas-metraei-gia-gna-i-elpis",
+          "label": "Η ΓΝΩΜΗ ΣΑΣ ΜΕΤΡΑΕΙ ΓΙΑ ΤΟ Γ.Ν.Α. \"Η ΕΛΠΙΣ\""
+        },
+        {
+          "href": "http://www.elpis.gr/nea-anakoinoseis",
+          "label": "ΝΕΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/deltia-typoy",
+          "label": "ΔΕΛΤΙΑ ΤΥΠΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/anakoinoseis",
+          "label": "ΑΝΑΚΟΙΝΩΣΕΙΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/egrapsan-gia-mas",
+          "label": "ΕΓΡΑΨΑΝ ΓΙΑ ΜΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/diagonismoi",
+          "label": "ΔΙΑΓΩΝΙΣΜΟΙ"
+        },
+        {
+          "href": "http://www.elpis.gr/diagonismoi/prokiryxeis-diakiryxeis",
+          "label": "ΠΡΟΚΗΡΥΞΕΙΣ-ΔΙΑΚΗΡΥΞΕΙΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/diagonismoi/diaboyleyseis",
+          "label": "ΔΙΑΒΟΥΛΕΥΣΕΙΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/diagonismoi/prokiryxeis-plirosis-theseon-prosopikoy",
+          "label": "ΠΡΟΚΗΡΥΞΕΙΣ ΠΛΗΡΩΣΗΣ ΘΕΣΕΩΝ ΠΡΟΣΩΠΙΚΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/contact",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/periodiko-gia-tin-ygeia",
+          "label": "ΠΕΡΙΟΔΙΚΟ ΓΙΑ ΤΗΝ ΥΓΕΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/espa-2014-2020",
+          "label": "ΕΣΠΑ 2014-2020"
+        },
+        {
+          "href": "https://www.elpis.gr/ypiresies/iatriki-ypiresia",
+          "label": "ΙΑΤΡΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        {
+          "href": "https://www.elpis.gr/ypiresies/nosileytiki-ypiresia",
+          "label": "ΝΟΣΗΛΕΥΤΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        {
+          "href": "https://www.elpis.gr/ypiresies/dioikitikes-ypiresies",
+          "label": "ΔΙΟΙΚΗΤΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        {
+          "href": "https://www.elpis.gr/ypiresies/aytoteli-tmimata-grafeia",
+          "label": "ΑΥΤΟΤΕΛΗ ΤΜΗΜΑΤΑ & ΓΡΑΦΕΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/dikaiomata-ypohreoseis-asthenoys",
+          "label": "ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies/aytoteles-grafeio-eleghoy-poiotitas-ereynas-synehizomenis-ekpaideysis",
+          "label": "ΠΟΙΟΤΗΤΑ & ΕΚΠΑΙΔΕΥΣΗ"
+        },
+        {
+          "href": "http://www.elpis.gr/nea/deltia-typoy",
+          "label": "ΔΕΛΤΙΑ ΤΥΠΟΥ"
+        }
+      ],
+      "forms": [
+        {
+          "action": "http://www.elpis.gr/search",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "search",
+            "edit-submit-search"
+          ],
+          "submitLabels": [
+            "Apply"
+          ],
+          "fields": [
+            {
+              "name": "search",
+              "type": "text",
+              "label": "Αναζήτηση",
+              "required": false
+            },
+            {
+              "name": "edit-submit-search",
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "213 20 39 000",
+          "2019/1937",
+          "4990/2022",
+          "2014-2020"
+        ],
+        "emails": [
+          "info@elpis.gr",
+          "protokollo@elpis.gr"
+        ],
+        "addresses": [
+          "Δημητσάνας 7, Αμπελόκηποι, Αθήνα"
+        ],
+        "socialLinks": [],
+        "forms": [
+          {
+            "action": "http://www.elpis.gr/search",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "search",
+              "edit-submit-search"
+            ],
+            "submitLabels": [
+              "Apply"
+            ],
+            "fields": [
+              {
+                "name": "search",
+                "type": "text",
+                "label": "Αναζήτηση",
+                "required": false
+              },
+              {
+                "name": "edit-submit-search",
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Footer ΝΟΣΟΚΟΜΕΙΟ ΥΠΗΡΕΣΙΕΣ ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ ΠΟΙΟΤΗΤΑ & ΕΚΠΑΙΔΕΥΣΗ ΔΕΛΤΙΑ ΤΥΠΟΥ ΕΠΙΚΟΝΩΝΙΑ ΧΡΗΣΙΜΑ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΜΟΥ ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ ΠΑΡΑΒΙΑΣΕΙΣ ΕΝΩΣΙΑΚΟΥ ΔΙΚΑΙΟΥ - ΟΔΗΓΙΑ (ΕΕ) 2019/1937/Ν. 4990/2022",
+      "textContent": "213 20 39 000 info@elpis.grprotokollo@elpis.gr Τμ. Γραμματείας Δημητσάνας 7, Αμπελόκηποι, Αθήνα ENGR ΑΝΑΖΗΤΗΣΗ Κεντρική πλοήγηση ΑΡΧΙΚΗ ΝΟΣΟΚΟΜΕΙΟ ΙΣΤΟΡΙΑ ΣΚΟΠΟΣ - ΟΡΑΜΑ - ΑΠΟΣΤΟΛΗ ΔΙΟΙΚΗΣΗ - ΟΡΓΑΝΟΓΡΑΜΜΑ ΑΝΑΦΟΡΕΣ (ΑΠΟΛΟΓΙΣΜΟΣ – ΣΤΑΤΙΣΤΙΚΑ – ΙΣΟΛΟΓΙΜΟΙ) ΠΟΛΙΤΙΚΗ ΥΓΙΕΙΝΗΣ ΚΑΙ ΑΣΦΑΛΕΙΑΣ ΕΡΓΑΖΟΜΕΝΩΝ ΤΟΥ Γ.Ν.Α «Η ΕΛΠΙΣ» ΣΩΜΑΤΕΙΟ ΙΕΡΟΣ ΝΑΟΣ ΥΠΟΔΟΜΕΣ & ΕΞΟΠΛΙΣΜΟΣ ΔΩΡΕΕΣ ΕΥΧΑΡΙΣΤΗΡΙΕΣ ΕΠΙΣΤΟΛΕΣ ΣΥΜΜΟΡΦΩΣΗ - ΟΔΗΓΙΑ (ΕΕ) 2019/1937/Ν. 4990/2022 ΥΠΗΡΕΣΙΕΣ ΙΑΤΡΙΚΗ ΥΠΗΡΕΣΙΑ ΠΑΘΟΛΟΓΙΚΟΣ ΤΟΜΕΑΣ ΧΕΙΡΟΥΡΓΙΚΟΣ ΤΟΜΕΑΣ ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΤΟΜΕΑΣ ΤΜΗΜΑ ΔΙΑΙΤΟΛΟΓΙΑΣ-ΔΙΑΤΡΟΦΗΣ ΤΜΗΜΑ ΚΟΙΝΩΝΙΚΗΣ ΥΠΗΡΕΣΙΑΣ ΤΜΗΜΑ ΠΑΡΑΪΑΤΡΙΚΟΥ ΠΡΟΣΩΠΙΚΟΥ ΓΡΑΦΕΙΟ ΕΠΟΠΤΡΙΑΣ ΔΗΜΟΣΙΑΣ ΥΓΕΙΑΣ ΝΟΣΗΛΕΥΤΙΚΗ ΥΠΗΡΕΣΙΑ ΔΙΟΙΚΗΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ ΑΥΤΟΤΕΛΗ ΤΜΗΜΑΤΑ & ΓΡΑΦΕΙΑ ΙΑΤΡΙΚΕΣ ΕΠΙΤΡΟΠΕΣ ΕΠΙΤΡΟΠΗ ΝΟΣΟΚΟΜΕΙΑΚΩΝ ΛΟΙΜΩΞΕΩΝ ΟΜΑΔΑ ΥΠΟΣΤΗΡΙΞΗΣ ΘΡΕΨΗΣ ΠΟΛΙΤΗΣ ΕΦΗΜΕΡΙΕΣ ΛΙΣΤΑ ΧΕΙΡΟΥΡΓΕΙΟΥ ΕΞΩΤΕΡΙΚΑ ΙΑΤΡΕΙΑ & ΡΑΝΤΕΒΟΥ ΚΑΝΟΝΕΣ ΕΠΙΣΚΕΠΤΗΡΙΟΥ ΕΘΕΛΟΝΤΙΚΗ ΑΙΜΟΔΟΣΙΑ COVID 19 - ΧΟΡΗΓΗΣΗ ΑΝΤΙΪΚΩΝ ΦΑΡΜΑΚΩΝ ΧΡΗΣΙΜΑ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΜΟΥ ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ Η ΓΝΩΜΗ ΣΑΣ ΜΕΤΡΑΕΙ ΓΙΑ ΤΟ Γ.Ν.Α. \"Η ΕΛΠΙΣ\" ΝΕΑ ΔΕΛΤΙΑ ΤΥΠΟΥ ΑΝΑΚΟΙΝΩΣΕΙΣ ΕΓΡΑΨΑΝ ΓΙΑ ΜΑΣ ΔΙΑΓΩΝΙΣΜΟΙ ΠΡΟΚΗΡΥΞΕΙΣ-ΔΙΑΚΗΡΥΞΕΙΣ ΔΙΑΒΟΥΛΕΥΣΕΙΣ ΠΡΟΚΗΡΥΞΕΙΣ ΠΛΗΡΩΣΗΣ ΘΕΣΕΩΝ ΠΡΟΣΩΠΙΚΟΥ ΕΠΙΚΟΙΝΩΝΙΑ ΠΕΡΙΟΔΙΚΟ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΕΣΠΑ 2014-2020 Μενού ΥΠΗΡΕΣΙΕΣ Το Γ.Ν.Α. «Η ΕΛΠΙΣ» διαρθρώνεται από τρεις Υπηρεσίες: την Ιατρική, τη Νοσηλευτική και τη Διοικητική-Οικονομική (περιλαμβάνει και την Τεχνική Υπηρεσία). Διαθέτει, επίσης, Αυτοτελές Γραφείο Προστασίας Δικαιωμάτων Ληπτών Υπηρεσιών Υγείας, Αυτοτελές Γραφείο Ελέγχου Ποιότητας, Έρευνας & Συνεχιζόμενης Εκπαίδευσης και Αυτοτελές Τμήμα Οργάνωσης & Πληροφορικής. Κάθε Υπηρεσία, Αυτοτελές Τμήμα/Γραφείο έχει τη δική του ιεραρχική διάρθρωση και συγκρότηση. Τα Αυτοτελή Τμήματα/Γραφεία υπάγονται απευθείας στο Διοικητή του Νοσοκομείου. ΙΑΤΡΙΚΗ ΥΠΗΡΕΣΙΑ ΝΟΣΗΛΕΥΤΙΚΗ ΥΠΗΡΕΣΙΑ ΔΙΟΙΚΗΤΙΚΗ ΥΠΗΡΕΣΙΑ ΑΥΤΟΤΕΛΗ ΤΜΗΜΑΤΑ & ΓΡΑΦΕΙΑ Footer ΝΟΣΟΚΟΜΕΙΟ ΥΠΗΡΕΣΙΕΣ ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ ΠΟΙΟΤΗΤΑ & ΕΚΠΑΙΔΕΥΣΗ ΔΕΛΤΙΑ ΤΥΠΟΥ ΕΠΙΚΟΝΩΝΙΑ ΧΡΗΣΙΜΑ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΜΟΥ ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ ΠΑΡΑΒΙΑΣΕΙΣ ΕΝΩΣΙΑΚΟΥ ΔΙΚΑΙΟΥ - ΟΔΗΓΙΑ (ΕΕ) 2019/1937/Ν. 4990/2022 ΑΡΧΙΚΗ ΝΟΣΟΚΟΜΕΙΟ ΙΣΤΟΡΙΑ ΣΚΟΠΟΣ - ΟΡΑΜΑ - ΑΠΟΣΤΟΛΗ ΔΙΟΙΚΗΣΗ - ΟΡΓΑΝΟΓΡΑΜΜΑ ΑΝΑΦΟΡΕΣ (ΑΠΟΛΟΓΙΣΜΟΣ – ΣΤΑΤΙΣΤΙΚΑ – ΙΣΟΛΟΓΙΜΟΙ) ΠΟΛΙΤΙΚΗ ΥΓΙΕΙΝΗΣ ΚΑΙ ΑΣΦΑΛΕΙΑΣ ΕΡΓΑΖΟΜΕΝΩΝ ΤΟΥ Γ.Ν.Α «Η ΕΛΠΙΣ» ΣΩΜΑΤΕΙΟ ΙΕΡΟΣ ΝΑΟΣ ΥΠΟΔΟΜΕΣ & ΕΞΟΠΛΙΣΜΟΣ ΔΩΡΕΕΣ ΕΥΧΑΡΙΣΤΗΡΙΕΣ ΕΠΙΣΤΟΛΕΣ ΣΥΜΜΟΡΦΩΣΗ - ΟΔΗΓΙΑ (ΕΕ) 2019/1937/Ν. 4990/2022 ΥΠΗΡΕΣΙΕΣ ΙΑΤΡΙΚΗ ΥΠΗΡΕΣΙΑ ΠΑΘΟΛΟΓΙΚΟΣ ΤΟΜΕΑΣ ΧΕΙΡΟΥΡΓΙΚΟΣ ΤΟΜΕΑΣ ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΤΟΜΕΑΣ ΤΜΗΜΑ ΔΙΑΙΤΟΛΟΓΙΑΣ-ΔΙΑΤΡΟΦΗΣ ΤΜΗΜΑ ΚΟΙΝΩΝΙΚΗΣ ΥΠΗΡΕΣΙΑΣ ΤΜΗΜΑ ΠΑΡΑΪΑΤΡΙΚΟΥ ΠΡΟΣΩΠΙΚΟΥ ΓΡΑΦΕΙΟ ΕΠΟΠΤΡΙΑΣ ΔΗΜΟΣΙΑΣ ΥΓΕΙΑΣ ΝΟΣΗΛΕΥΤΙΚΗ ΥΠΗΡΕΣΙΑ ΔΙΟΙΚΗΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ ΑΥΤΟΤΕΛΗ ΤΜΗΜΑΤΑ & ΓΡΑΦΕΙΑ ΙΑΤΡΙΚΕΣ ΕΠΙΤΡΟΠΕΣ ΕΠΙΤΡΟΠΗ ΝΟΣΟΚΟΜΕΙΑΚΩΝ ΛΟΙΜΩΞΕΩΝ ΟΜΑΔΑ ΥΠΟΣΤΗΡΙΞΗΣ ΘΡΕΨΗΣ ΠΟΛΙΤΗΣ ΕΦΗΜΕΡΙΕΣ ΛΙΣΤΑ ΧΕΙΡΟΥΡΓΕΙΟΥ ΕΞΩΤΕΡΙΚΑ ΙΑΤΡΕΙΑ & ΡΑΝΤΕΒΟΥ ΚΑΝΟΝΕΣ ΕΠΙΣΚΕΠΤΗΡΙΟΥ ΕΘΕΛΟΝΤΙΚΗ ΑΙΜΟΔΟΣΙΑ COVID 19 - ΧΟΡΗΓΗΣΗ ΑΝΤΙΪΚΩΝ ΦΑΡΜΑΚΩΝ ΧΡΗΣΙΜΑ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΜΟΥ ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ Η ΓΝΩΜΗ ΣΑΣ ΜΕΤΡΑΕΙ ΓΙΑ ΤΟ Γ.Ν.Α. \"Η ΕΛΠΙΣ\" ΝΕΑ ΔΕΛΤΙΑ ΤΥΠΟΥ ΑΝΑΚΟΙΝΩΣΕΙΣ ΕΓΡΑΨΑΝ ΓΙΑ ΜΑΣ ΔΙΑΓΩΝΙΣΜΟΙ ΠΡΟΚΗΡΥΞΕΙΣ-ΔΙΑΚΗΡΥΞΕΙΣ ΔΙΑΒΟΥΛΕΥΣΕΙΣ ΠΡΟΚΗΡΥΞΕΙΣ ΠΛΗΡΩΣΗΣ ΘΕΣΕΩΝ ΠΡΟΣΩΠΙΚΟΥ ΕΠΙΚΟΙΝΩΝΙΑ ΠΕΡΙΟΔΙΚΟ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΕΣΠΑ 2014-2020 {\"path\":{\"baseUrl\":\"\\/\",\"scriptPath\":null,\"pathPrefix\":\"\",\"currentPath\":\"node\\/35\",\"currentPathIsAdmin\":false,\"isFront\":false,\"currentLanguage\":\"el\"},\"pluralDelimiter\":\"\\u0003\",\"suppressDeprecationErrors\":true,\"responsive_menu\":{\"position\":\"right\",\"theme\":\"theme-light\",\"pagedim\":\"pagedim\",\"modifyViewport\":true,\"use_bootstrap\":false,\"breakpoint\":\"(min-width: 960px)\",\"drag\":false},\"eu_cookie_compliance\":{\"cookie_policy_version\":\"1.0.0\",\"popup_enabled\":true,\"popup_agreed_enabled\":false,\"popup_hide_agreed\":false,\"popup_clicking_confirmation\":false,\"popup_scrolling_confirmation\":false,\"popup_html_info\":\"\\u003Cdiv aria-labelledby=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\\u0022\\u003E\\n \\u003Cdiv class=\\u0022popup-content info eu-cookie-compliance-content\\u0022\\u003E\\n \\u003Cdiv id=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-compliance-message\\u0022 role=\\u0022document\\u0022\\u003E\\n \\u003Ch2\\u003EWe use cookies on this site to enhance your user experience\\u003C\\/h2\\u003E\\u003Cp\\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\\u003C\\/p\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022find-more-button eu-cookie-compliance-more-button\\u0022\\u003E\\u03a0\\u03b5\\u03c1\\u03b9\\u03c3\\u03c3\\u03cc\\u03c4\\u03b5\\u03c1\\u03b5\\u03c2 \\u03c0\\u03bb\\u03b7\\u03c1\\u03bf\\u03c6\\u03bf\\u03c1\\u03af\\u03b5\\u03c2\\u003C\\/button\\u003E\\n \\u003C\\/div\\u003E\\n\\n \\n \\u003Cdiv id=\\u0022popup-buttons\\u0022 class=\\u0022eu-cookie-compliance-buttons\\u0022\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022agree-button eu-cookie-compliance-secondary-button\\u0022\\u003EOK, \\u03c3\\u03c5\\u03bc\\u03c6\\u03c9\\u03bd\\u03ce\\u003C\\/button\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022decline-button eu-cookie-compliance-default-button\\u0022\\u003ENo, thanks\\u003C\\/button\\u003E\\n \\u003C\\/div\\u003E\\n \\u003C\\/div\\u003E\\n\\u003C\\/div\\u003E\",\"use_mobile_message\":false,\"mobile_popup_html_info\":\"\\u003Cdiv aria-labelledby=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\\u0022\\u003E\\n \\u003Cdiv class=\\u0022popup-content info eu-cookie-compliance-content\\u0022\\u003E\\n \\u003Cdiv id=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-compliance-message\\u0022 role=\\u0022document\\u0022\\u003E\\n \\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022find-more-button eu-cookie-compliance-more-button\\u0022\\u003E\\u03a0\\u03b5\\u03c1\\u03b9\\u03c3\\u03c3\\u03cc\\u03c4\\u03b5\\u03c1\\u03b5\\u03c2 \\u03c0\\u03bb\\u03b7\\u03c1\\u03bf\\u03c6\\u03bf\\u03c1\\u03af\\u03b5\\u03c2\\u003C\\/button\\u003E\\n \\u003C\\/div\\u003E\\n\\n \\n \\u003Cdiv id=\\u0022popup-buttons\\u0022 class=\\u0022eu-cookie-compliance-buttons\\u0022\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022agree-button eu-cookie-compliance-secondary-button\\u0022\\u003EOK, \\u03c3\\u03c5\\u03bc\\u03c6\\u03c9\\u03bd\\u03ce\\u003C\\/button\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022decline-button eu-cookie-compliance-default-button\\u0022\\u003ENo, thanks\\u003C\\/button\\u003E\\n \\u003C\\/div\\u003E\\n \\u003C\\/div\\u003E\\n\\u003C\\/div\\u003E\",\"mobile_breakpoint\":768,\"popup_html_agreed\":false,\"popup_use_bare_css\":false,\"popup_height\":\"auto\",\"popup_width\":\"100%\",\"popup_delay\":1000,\"popup_link\":\"https:\\/\\/www.elpis.gr\\/system\\/files\\/2020-03\\/%CE%A0%CE%9F%CE%9B%CE%99%CE%A4%CE%99%CE%9A%CE%97%20Cookies.pdf\",\"popup_link_new_window\":true,\"popup_position\":false,\"fixed_top_position\":true,\"popup_language\":\"el\",\"store_consent\":false,\"better_support_for_screen_readers\":false,\"cookie_name\":\"\",\"reload_page\":false,\"domain\":\"\",\"domain_all_sites\":false,\"popup_eu_only\":false,\"popup_eu_only_js\":false,\"cookie_lifetime\":100,\"cookie_session\":0,\"set_cookie_session_zero_on_disagree\":0,\"disagree_do_not_show_popup\":false,\"method\":\"opt_in\",\"automatic_cookies_removal\":true,\"allowed_cookies\":\"\",\"withdraw_markup\":\"\\u003Cbutton type=\\u0022button\\u0022 class=\\u0022eu-cookie-withdraw-tab\\u0022\\u003EPrivacy settings\\u003C\\/button\\u003E\\n\\u003Cdiv aria-labelledby=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-withdraw-banner\\u0022\\u003E\\n \\u003Cdiv class=\\u0022popup-content info eu-cookie-compliance-content\\u0022\\u003E\\n \\u003Cdiv id=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-compliance-message\\u0022 role=\\u0022document\\u0022\\u003E\\n \\u003Ch2\\u003EWe use cookies on this site to enhance your user experience\\u003C\\/h2\\u003E\\u003Cp\\u003EYou have given your consent for us to set cookies.\\u003C\\/p\\u003E\\n \\u003C\\/div\\u003E\\n \\u003Cdiv id=\\u0022popup-buttons\\u0022 class=\\u0022eu-cookie-compliance-buttons\\u0022\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022eu-cookie-withdraw-button \\u0022\\u003EWithdraw consent\\u003C\\/button\\u003E\\n \\u003C\\/div\\u003E\\n \\u003C\\/div\\u003E\\n\\u003C\\/div\\u003E\",\"withdraw_enabled\":false,\"reload_options\":0,\"reload_routes_list\":\"\",\"withdraw_button_on_info_popup\":false,\"cookie_categories\":[],\"cookie_categories_details\":[],\"enable_save_preferences_button\":true,\"cookie_value_disagreed\":\"0\",\"cookie_value_agreed_show_thank_you\":\"1\",\"cookie_value_agreed\":\"2\",\"containing_element\":\"body\",\"settings_tab_enabled\":false,\"olivero_primary_button_classes\":\"\",\"olivero_secondary_button_classes\":\"\",\"close_button_action\":\"\",\"open_by_default\":true,\"modules_allow_popup\":true,\"hide_the_banner\":false,\"geoip_match\":true},\"ajaxTrustedUrl\":{\"\\/search\":true},\"user\":{\"uid\":0,\"permissionsHash\":\"5440ce7fc0211b01605ce830e6336f45859f99b7b9a0412df2b6009b71d4a9d5\"}}",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/elpis.gr-home-68e57927/services-ypiresies-16cfaebb.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/elpis.gr-home-68e57927/services-ypiresies-16cfaebb.txt",
+      "imageReferences": [
+        {
+          "url": "http://www.elpis.gr/themes/on/images/logo.svg",
+          "alt": "Home",
+          "sourcePageUrl": "http://www.elpis.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:20:17.912Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/system/files/inline-images/TEL1.png",
+          "alt": "Phone",
+          "sourcePageUrl": "http://www.elpis.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:20:17.912Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/system/files/inline-images/EMAIL3.png",
+          "alt": "Email",
+          "sourcePageUrl": "http://www.elpis.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:20:17.912Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/system/files/inline-images/loc.jpg",
+          "alt": "l",
+          "sourcePageUrl": "http://www.elpis.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:20:17.912Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/themes/on/images/flame.svg",
+          "sourcePageUrl": "http://www.elpis.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:20:17.912Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/themes/on/images/ypoyrgeio-igeias.png",
+          "alt": "Ministry of health",
+          "sourcePageUrl": "http://www.elpis.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:20:17.912Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/themes/on/images/1h-igeionomiki-perifereia-attikis.png",
+          "alt": "1η Υγειονομικη περιφέρεια Αττικής",
+          "sourcePageUrl": "http://www.elpis.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:20:17.912Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/themes/on/images/efimereuonta-farmakeia.png",
+          "alt": "Εφημερεύοντα φαρμακεία",
+          "sourcePageUrl": "http://www.elpis.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:20:17.912Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/themes/on/images/efimereuonta-nosokomeia.jpg",
+          "alt": "Εφημερεύοντα νοσοκομεία",
+          "sourcePageUrl": "http://www.elpis.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:20:17.912Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/themes/on/images/diavgeia_all_logo.png",
+          "alt": "Διαύγεια",
+          "sourcePageUrl": "http://www.elpis.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:20:17.912Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/themes/on/images/eof-blue.png",
+          "alt": "ΕΟΦ",
+          "sourcePageUrl": "http://www.elpis.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:20:17.912Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/themes/on/images/europi-sou.png",
+          "alt": "Your europe",
+          "sourcePageUrl": "http://www.elpis.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:20:17.912Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "http://www.elpis.gr/ypiresies",
+          "retrievedAt": "2026-03-31T13:20:17.914Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "http://www.elpis.gr/contact",
+      "finalUrl": "http://www.elpis.gr/contact",
+      "fetchedAt": "2026-03-31T13:20:15.420Z",
+      "metadata": {
+        "title": "Επικοινωνία | Γενικό Νοσοκομείο Αθηνών | Η Ελπίς",
+        "canonicalUrl": "http://www.elpis.gr/contact",
+        "language": "el"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "level": "h2",
+          "text": "Κεντρική πλοήγηση"
+        },
+        {
+          "level": "h2",
+          "text": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ (ΓΝΑ) \"Η ΕΛΠΙΣ\" ΔΗΜΗΤΣΑΝΑΣ 7 ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑ"
+        },
+        {
+          "level": "h2",
+          "text": "Footer"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "http://www.elpis.gr/"
+        },
+        {
+          "href": "http://www.elpis.gr/en/contact",
+          "label": "EN"
+        },
+        {
+          "href": "http://www.elpis.gr/contact",
+          "label": "GR"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio",
+          "label": "ΝΟΣΟΚΟΜΕΙΟ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/istoria",
+          "label": "ΙΣΤΟΡΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/skopos-orama-apostoli",
+          "label": "ΣΚΟΠΟΣ - ΟΡΑΜΑ - ΑΠΟΣΤΟΛΗ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/dioikisi-organogramma",
+          "label": "ΔΙΟΙΚΗΣΗ - ΟΡΓΑΝΟΓΡΑΜΜΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/anafores-apologismoi-isologimoi-statistika",
+          "label": "ΑΝΑΦΟΡΕΣ (ΑΠΟΛΟΓΙΣΜΟΣ – ΣΤΑΤΙΣΤΙΚΑ – ΙΣΟΛΟΓΙΜΟΙ)"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/politiki-ygieinis-kai-asfaleias-ergazomenon-toy-gna-i-elpis",
+          "label": "ΠΟΛΙΤΙΚΗ ΥΓΙΕΙΝΗΣ ΚΑΙ ΑΣΦΑΛΕΙΑΣ ΕΡΓΑΖΟΜΕΝΩΝ ΤΟΥ Γ.Ν.Α «Η ΕΛΠΙΣ»"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/somateio-ergazomenon",
+          "label": "ΣΩΜΑΤΕΙΟ"
+        },
+        {
+          "href": "http://www.elpis.gr/ieros-naos",
+          "label": "ΙΕΡΟΣ ΝΑΟΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypodomes-exoplismos",
+          "label": "ΥΠΟΔΟΜΕΣ & ΕΞΟΠΛΙΣΜΟΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/dorees",
+          "label": "ΔΩΡΕΕΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/eyharistiries-epistoles",
+          "label": "ΕΥΧΑΡΙΣΤΗΡΙΕΣ ΕΠΙΣΤΟΛΕΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/nosokomeio/symmorfosi-odigia-ee-20191937n-49902022",
+          "label": "ΣΥΜΜΟΡΦΩΣΗ - ΟΔΗΓΙΑ (ΕΕ) 2019/1937/Ν. 4990/2022"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies",
+          "label": "ΥΠΗΡΕΣΙΕΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies/iatriki-ypiresia",
+          "label": "ΙΑΤΡΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/pathologikos-tomeas",
+          "label": "ΠΑΘΟΛΟΓΙΚΟΣ ΤΟΜΕΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies/heiroyrgikos-tomeas",
+          "label": "ΧΕΙΡΟΥΡΓΙΚΟΣ ΤΟΜΕΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ergastiriakos-tomeas",
+          "label": "ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΤΟΜΕΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/tmima-diaitologias-diatrofis",
+          "label": "ΤΜΗΜΑ ΔΙΑΙΤΟΛΟΓΙΑΣ-ΔΙΑΤΡΟΦΗΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/tmima-koinonikis-ypiresias",
+          "label": "ΤΜΗΜΑ ΚΟΙΝΩΝΙΚΗΣ ΥΠΗΡΕΣΙΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/tmima-paraiatrikoy-prosopikoy",
+          "label": "ΤΜΗΜΑ ΠΑΡΑΪΑΤΡΙΚΟΥ ΠΡΟΣΩΠΙΚΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/grafeio-epoptrias-dimosias-ygeias",
+          "label": "ΓΡΑΦΕΙΟ ΕΠΟΠΤΡΙΑΣ ΔΗΜΟΣΙΑΣ ΥΓΕΙΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies/nosileytiki-ypiresia",
+          "label": "ΝΟΣΗΛΕΥΤΙΚΗ ΥΠΗΡΕΣΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies/dioikitikes-ypiresies",
+          "label": "ΔΙΟΙΚΗΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/aytoteli-tmimata-grafeia",
+          "label": "ΑΥΤΟΤΕΛΗ ΤΜΗΜΑΤΑ & ΓΡΑΦΕΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/epitropi-nosokomeiakon-loimoxeon",
+          "label": "ΕΠΙΤΡΟΠΗ ΝΟΣΟΚΟΜΕΙΑΚΩΝ ΛΟΙΜΩΞΕΩΝ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresiesiatrikes-epitropes/omada-ypostirixis-threpsis",
+          "label": "ΟΜΑΔΑ ΥΠΟΣΤΗΡΙΞΗΣ ΘΡΕΨΗΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis",
+          "label": "ΠΟΛΙΤΗΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/efimeries",
+          "label": "ΕΦΗΜΕΡΙΕΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/lista-heiroyrgeioy",
+          "label": "ΛΙΣΤΑ ΧΕΙΡΟΥΡΓΕΙΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/exoterika-iatreia-ranteboy",
+          "label": "ΕΞΩΤΕΡΙΚΑ ΙΑΤΡΕΙΑ & ΡΑΝΤΕΒΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/kanones-episkeptirioy",
+          "label": "ΚΑΝΟΝΕΣ ΕΠΙΣΚΕΠΤΗΡΙΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/ethelontiki-aimodosia",
+          "label": "ΕΘΕΛΟΝΤΙΚΗ ΑΙΜΟΔΟΣΙΑ"
+        },
+        {
+          "href": "https://www.elpis.gr/covid-19-horigisi-antiikon-farmakon",
+          "label": "COVID 19 - ΧΟΡΗΓΗΣΗ ΑΝΤΙΪΚΩΝ ΦΑΡΜΑΚΩΝ"
+        },
+        {
+          "href": "http://www.elpis.gr/hrisima-gia-tin-ygeia-moy",
+          "label": "ΧΡΗΣΙΜΑ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΜΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/dikaiomata-ypohreoseis-asthenoys",
+          "label": "ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/prosopika-dedomena",
+          "label": "ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/i-gnomi-sas-metraei-gia-gna-i-elpis",
+          "label": "Η ΓΝΩΜΗ ΣΑΣ ΜΕΤΡΑΕΙ ΓΙΑ ΤΟ Γ.Ν.Α. \"Η ΕΛΠΙΣ\""
+        },
+        {
+          "href": "http://www.elpis.gr/nea-anakoinoseis",
+          "label": "ΝΕΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/deltia-typoy",
+          "label": "ΔΕΛΤΙΑ ΤΥΠΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/anakoinoseis",
+          "label": "ΑΝΑΚΟΙΝΩΣΕΙΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/egrapsan-gia-mas",
+          "label": "ΕΓΡΑΨΑΝ ΓΙΑ ΜΑΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/diagonismoi",
+          "label": "ΔΙΑΓΩΝΙΣΜΟΙ"
+        },
+        {
+          "href": "http://www.elpis.gr/diagonismoi/prokiryxeis-diakiryxeis",
+          "label": "ΠΡΟΚΗΡΥΞΕΙΣ-ΔΙΑΚΗΡΥΞΕΙΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/diagonismoi/diaboyleyseis",
+          "label": "ΔΙΑΒΟΥΛΕΥΣΕΙΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/diagonismoi/prokiryxeis-plirosis-theseon-prosopikoy",
+          "label": "ΠΡΟΚΗΡΥΞΕΙΣ ΠΛΗΡΩΣΗΣ ΘΕΣΕΩΝ ΠΡΟΣΩΠΙΚΟΥ"
+        },
+        {
+          "href": "http://www.elpis.gr/periodiko-gia-tin-ygeia",
+          "label": "ΠΕΡΙΟΔΙΚΟ ΓΙΑ ΤΗΝ ΥΓΕΙΑ"
+        },
+        {
+          "href": "http://www.elpis.gr/espa-2014-2020",
+          "label": "ΕΣΠΑ 2014-2020"
+        },
+        {
+          "href": "http://www.elpis.gr/themes/on/images/phonebook-ELPIS-13-05-2022.pdf",
+          "label": "ΕΔΩ"
+        },
+        {
+          "href": "mailto://info@elpis.gr",
+          "label": "info@elpis.gr"
+        },
+        {
+          "href": "http://www.elpis.gr/politis/dikaiomata-ypohreoseis-asthenoys",
+          "label": "ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ"
+        },
+        {
+          "href": "http://www.elpis.gr/ypiresies/aytoteles-grafeio-eleghoy-poiotitas-ereynas-synehizomenis-ekpaideysis",
+          "label": "ΠΟΙΟΤΗΤΑ & ΕΚΠΑΙΔΕΥΣΗ"
+        },
+        {
+          "href": "http://www.elpis.gr/nea/deltia-typoy",
+          "label": "ΔΕΛΤΙΑ ΤΥΠΟΥ"
+        }
+      ],
+      "forms": [
+        {
+          "action": "http://www.elpis.gr/search",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "search",
+            "edit-submit-search"
+          ],
+          "submitLabels": [
+            "Apply"
+          ],
+          "fields": [
+            {
+              "name": "search",
+              "type": "text",
+              "label": "Αναζήτηση",
+              "required": false
+            },
+            {
+              "name": "edit-submit-search",
+              "type": "submit",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "http://www.elpis.gr/contact",
+          "method": "post",
+          "purposeHint": "contact",
+          "fieldNames": [
+            "name",
+            "eponymo",
+            "email",
+            "message",
+            "captcha_sid",
+            "captcha_token",
+            "captcha_response",
+            "captcha_cacheable",
+            "op",
+            "honeypot_time",
+            "form_build_id",
+            "form_id",
+            "url"
+          ],
+          "submitLabels": [
+            "ΥΠΟΒΟΛΗ"
+          ],
+          "fields": [
+            {
+              "name": "name",
+              "type": "text",
+              "label": "ΟΝΟΜΑ*",
+              "required": true
+            },
+            {
+              "name": "eponymo",
+              "type": "text",
+              "label": "ΕΠΩΝΥΜΟ*",
+              "required": true
+            },
+            {
+              "name": "email",
+              "type": "email",
+              "label": "EMAIL*",
+              "required": true
+            },
+            {
+              "name": "message",
+              "type": "textarea",
+              "label": "ΣΧΟΛΙΟ*",
+              "required": true
+            },
+            {
+              "name": "captcha_sid",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "captcha_token",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "captcha_response",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "captcha_cacheable",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "op",
+              "type": "submit",
+              "required": false
+            },
+            {
+              "name": "honeypot_time",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "form_build_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "form_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "url",
+              "type": "text",
+              "label": "Leave this field blank",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "213 20 39 000",
+          "2019/1937",
+          "4990/2022",
+          "2014-2020",
+          "213 20 39 288",
+          "//+30213203900",
+          "//+302132039288"
+        ],
+        "emails": [
+          "info@elpis.gr",
+          "protokollo@elpis.gr",
+          "//info@elpis.gr"
+        ],
+        "addresses": [
+          "Δημητσάνας 7, Αμπελόκηποι, Αθήνα",
+          "ΕΠΙΚΟΙΝΩΝΙΑ Για περισσότερες πληροφορίες σχετικά με το ΓΝΑ “Η ΕΛΠΙΣ” μη διστάσετε να επικοινωνήσετε μαζί μας. Το προσωπικό μας θα χαρεί να σας εξυπηρετήσει. ΟΝΟΜΑ* ΕΠΩΝΥΜΟ* EMAIL* ΣΧΟΛΙΟ* CAPTCHA This question is for testing whether or not you are a human visitor and to prevent automated spam submissions. Τα πεδία με * είναι υποχρεωτικά. ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ (ΓΝΑ) \"Η ΕΛΠΙΣ\" ΔΗΜΗΤΣΑΝΑΣ 7 ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑ Δείτε τον Τηλεφωνικό Κατάλογο ΕΔΩ Κέντρο: 213 20 39 000 e-mail: info@elpis.gr Πρωινά Ραντεβού: Τηλ.: 1566 Απογευματινά Ραντεβού: Tηλ.: 213 20 39 288 Leave this field blank",
+          "ΟΝΟΜΑ* ΕΠΩΝΥΜΟ* EMAIL* ΣΧΟΛΙΟ* CAPTCHA This question is for testing whether or not you are a human visitor and to prevent automated spam submissions. Τα πεδία με * είναι υποχρεωτικά. ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ (ΓΝΑ) \"Η ΕΛΠΙΣ\" ΔΗΜΗΤΣΑΝΑΣ 7 ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑ Δείτε τον Τηλεφωνικό Κατάλογο ΕΔΩ Κέντρο: 213 20 39 000 e-mail: info@elpis.gr Πρωινά Ραντεβού: Τηλ.: 1566 Απογευματινά Ραντεβού: Tηλ.: 213 20 39 288"
+        ],
+        "socialLinks": [],
+        "forms": [
+          {
+            "action": "http://www.elpis.gr/search",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "search",
+              "edit-submit-search"
+            ],
+            "submitLabels": [
+              "Apply"
+            ],
+            "fields": [
+              {
+                "name": "search",
+                "type": "text",
+                "label": "Αναζήτηση",
+                "required": false
+              },
+              {
+                "name": "edit-submit-search",
+                "type": "submit",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "http://www.elpis.gr/contact",
+            "method": "post",
+            "purposeHint": "contact",
+            "fieldNames": [
+              "name",
+              "eponymo",
+              "email",
+              "message",
+              "captcha_sid",
+              "captcha_token",
+              "captcha_response",
+              "captcha_cacheable",
+              "op",
+              "honeypot_time",
+              "form_build_id",
+              "form_id",
+              "url"
+            ],
+            "submitLabels": [
+              "ΥΠΟΒΟΛΗ"
+            ],
+            "fields": [
+              {
+                "name": "name",
+                "type": "text",
+                "label": "ΟΝΟΜΑ*",
+                "required": true
+              },
+              {
+                "name": "eponymo",
+                "type": "text",
+                "label": "ΕΠΩΝΥΜΟ*",
+                "required": true
+              },
+              {
+                "name": "email",
+                "type": "email",
+                "label": "EMAIL*",
+                "required": true
+              },
+              {
+                "name": "message",
+                "type": "textarea",
+                "label": "ΣΧΟΛΙΟ*",
+                "required": true
+              },
+              {
+                "name": "captcha_sid",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "captcha_token",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "captcha_response",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "captcha_cacheable",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "op",
+                "type": "submit",
+                "required": false
+              },
+              {
+                "name": "honeypot_time",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "form_build_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "form_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "url",
+                "type": "text",
+                "label": "Leave this field blank",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Footer ΝΟΣΟΚΟΜΕΙΟ ΥΠΗΡΕΣΙΕΣ ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ ΠΟΙΟΤΗΤΑ & ΕΚΠΑΙΔΕΥΣΗ ΔΕΛΤΙΑ ΤΥΠΟΥ ΕΠΙΚΟΝΩΝΙΑ ΧΡΗΣΙΜΑ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΜΟΥ ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ ΠΑΡΑΒΙΑΣΕΙΣ ΕΝΩΣΙΑΚΟΥ ΔΙΚΑΙΟΥ - ΟΔΗΓΙΑ (ΕΕ) 2019/1937/Ν. 4990/2022",
+      "textContent": "213 20 39 000 info@elpis.grprotokollo@elpis.gr Τμ. Γραμματείας Δημητσάνας 7, Αμπελόκηποι, Αθήνα ENGR ΑΝΑΖΗΤΗΣΗ Κεντρική πλοήγηση ΑΡΧΙΚΗ ΝΟΣΟΚΟΜΕΙΟ ΙΣΤΟΡΙΑ ΣΚΟΠΟΣ - ΟΡΑΜΑ - ΑΠΟΣΤΟΛΗ ΔΙΟΙΚΗΣΗ - ΟΡΓΑΝΟΓΡΑΜΜΑ ΑΝΑΦΟΡΕΣ (ΑΠΟΛΟΓΙΣΜΟΣ – ΣΤΑΤΙΣΤΙΚΑ – ΙΣΟΛΟΓΙΜΟΙ) ΠΟΛΙΤΙΚΗ ΥΓΙΕΙΝΗΣ ΚΑΙ ΑΣΦΑΛΕΙΑΣ ΕΡΓΑΖΟΜΕΝΩΝ ΤΟΥ Γ.Ν.Α «Η ΕΛΠΙΣ» ΣΩΜΑΤΕΙΟ ΙΕΡΟΣ ΝΑΟΣ ΥΠΟΔΟΜΕΣ & ΕΞΟΠΛΙΣΜΟΣ ΔΩΡΕΕΣ ΕΥΧΑΡΙΣΤΗΡΙΕΣ ΕΠΙΣΤΟΛΕΣ ΣΥΜΜΟΡΦΩΣΗ - ΟΔΗΓΙΑ (ΕΕ) 2019/1937/Ν. 4990/2022 ΥΠΗΡΕΣΙΕΣ ΙΑΤΡΙΚΗ ΥΠΗΡΕΣΙΑ ΠΑΘΟΛΟΓΙΚΟΣ ΤΟΜΕΑΣ ΧΕΙΡΟΥΡΓΙΚΟΣ ΤΟΜΕΑΣ ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΤΟΜΕΑΣ ΤΜΗΜΑ ΔΙΑΙΤΟΛΟΓΙΑΣ-ΔΙΑΤΡΟΦΗΣ ΤΜΗΜΑ ΚΟΙΝΩΝΙΚΗΣ ΥΠΗΡΕΣΙΑΣ ΤΜΗΜΑ ΠΑΡΑΪΑΤΡΙΚΟΥ ΠΡΟΣΩΠΙΚΟΥ ΓΡΑΦΕΙΟ ΕΠΟΠΤΡΙΑΣ ΔΗΜΟΣΙΑΣ ΥΓΕΙΑΣ ΝΟΣΗΛΕΥΤΙΚΗ ΥΠΗΡΕΣΙΑ ΔΙΟΙΚΗΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ ΑΥΤΟΤΕΛΗ ΤΜΗΜΑΤΑ & ΓΡΑΦΕΙΑ ΙΑΤΡΙΚΕΣ ΕΠΙΤΡΟΠΕΣ ΕΠΙΤΡΟΠΗ ΝΟΣΟΚΟΜΕΙΑΚΩΝ ΛΟΙΜΩΞΕΩΝ ΟΜΑΔΑ ΥΠΟΣΤΗΡΙΞΗΣ ΘΡΕΨΗΣ ΠΟΛΙΤΗΣ ΕΦΗΜΕΡΙΕΣ ΛΙΣΤΑ ΧΕΙΡΟΥΡΓΕΙΟΥ ΕΞΩΤΕΡΙΚΑ ΙΑΤΡΕΙΑ & ΡΑΝΤΕΒΟΥ ΚΑΝΟΝΕΣ ΕΠΙΣΚΕΠΤΗΡΙΟΥ ΕΘΕΛΟΝΤΙΚΗ ΑΙΜΟΔΟΣΙΑ COVID 19 - ΧΟΡΗΓΗΣΗ ΑΝΤΙΪΚΩΝ ΦΑΡΜΑΚΩΝ ΧΡΗΣΙΜΑ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΜΟΥ ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ Η ΓΝΩΜΗ ΣΑΣ ΜΕΤΡΑΕΙ ΓΙΑ ΤΟ Γ.Ν.Α. \"Η ΕΛΠΙΣ\" ΝΕΑ ΔΕΛΤΙΑ ΤΥΠΟΥ ΑΝΑΚΟΙΝΩΣΕΙΣ ΕΓΡΑΨΑΝ ΓΙΑ ΜΑΣ ΔΙΑΓΩΝΙΣΜΟΙ ΠΡΟΚΗΡΥΞΕΙΣ-ΔΙΑΚΗΡΥΞΕΙΣ ΔΙΑΒΟΥΛΕΥΣΕΙΣ ΠΡΟΚΗΡΥΞΕΙΣ ΠΛΗΡΩΣΗΣ ΘΕΣΕΩΝ ΠΡΟΣΩΠΙΚΟΥ ΕΠΙΚΟΙΝΩΝΙΑ ΠΕΡΙΟΔΙΚΟ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΕΣΠΑ 2014-2020 Μενού ΕΠΙΚΟΙΝΩΝΙΑ Για περισσότερες πληροφορίες σχετικά με το ΓΝΑ “Η ΕΛΠΙΣ” μη διστάσετε να επικοινωνήσετε μαζί μας. Το προσωπικό μας θα χαρεί να σας εξυπηρετήσει. ΟΝΟΜΑ* ΕΠΩΝΥΜΟ* EMAIL* ΣΧΟΛΙΟ* CAPTCHA This question is for testing whether or not you are a human visitor and to prevent automated spam submissions. Τα πεδία με * είναι υποχρεωτικά. ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ (ΓΝΑ) \"Η ΕΛΠΙΣ\" ΔΗΜΗΤΣΑΝΑΣ 7 ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑ Δείτε τον Τηλεφωνικό Κατάλογο ΕΔΩ Κέντρο: 213 20 39 000 e-mail: info@elpis.gr Πρωινά Ραντεβού: Τηλ.: 1566 Απογευματινά Ραντεβού: Tηλ.: 213 20 39 288 Leave this field blank Footer ΝΟΣΟΚΟΜΕΙΟ ΥΠΗΡΕΣΙΕΣ ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ ΠΟΙΟΤΗΤΑ & ΕΚΠΑΙΔΕΥΣΗ ΔΕΛΤΙΑ ΤΥΠΟΥ ΕΠΙΚΟΝΩΝΙΑ ΧΡΗΣΙΜΑ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΜΟΥ ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ ΠΑΡΑΒΙΑΣΕΙΣ ΕΝΩΣΙΑΚΟΥ ΔΙΚΑΙΟΥ - ΟΔΗΓΙΑ (ΕΕ) 2019/1937/Ν. 4990/2022 ΑΡΧΙΚΗ ΝΟΣΟΚΟΜΕΙΟ ΙΣΤΟΡΙΑ ΣΚΟΠΟΣ - ΟΡΑΜΑ - ΑΠΟΣΤΟΛΗ ΔΙΟΙΚΗΣΗ - ΟΡΓΑΝΟΓΡΑΜΜΑ ΑΝΑΦΟΡΕΣ (ΑΠΟΛΟΓΙΣΜΟΣ – ΣΤΑΤΙΣΤΙΚΑ – ΙΣΟΛΟΓΙΜΟΙ) ΠΟΛΙΤΙΚΗ ΥΓΙΕΙΝΗΣ ΚΑΙ ΑΣΦΑΛΕΙΑΣ ΕΡΓΑΖΟΜΕΝΩΝ ΤΟΥ Γ.Ν.Α «Η ΕΛΠΙΣ» ΣΩΜΑΤΕΙΟ ΙΕΡΟΣ ΝΑΟΣ ΥΠΟΔΟΜΕΣ & ΕΞΟΠΛΙΣΜΟΣ ΔΩΡΕΕΣ ΕΥΧΑΡΙΣΤΗΡΙΕΣ ΕΠΙΣΤΟΛΕΣ ΣΥΜΜΟΡΦΩΣΗ - ΟΔΗΓΙΑ (ΕΕ) 2019/1937/Ν. 4990/2022 ΥΠΗΡΕΣΙΕΣ ΙΑΤΡΙΚΗ ΥΠΗΡΕΣΙΑ ΠΑΘΟΛΟΓΙΚΟΣ ΤΟΜΕΑΣ ΧΕΙΡΟΥΡΓΙΚΟΣ ΤΟΜΕΑΣ ΕΡΓΑΣΤΗΡΙΑΚΟΣ ΤΟΜΕΑΣ ΤΜΗΜΑ ΔΙΑΙΤΟΛΟΓΙΑΣ-ΔΙΑΤΡΟΦΗΣ ΤΜΗΜΑ ΚΟΙΝΩΝΙΚΗΣ ΥΠΗΡΕΣΙΑΣ ΤΜΗΜΑ ΠΑΡΑΪΑΤΡΙΚΟΥ ΠΡΟΣΩΠΙΚΟΥ ΓΡΑΦΕΙΟ ΕΠΟΠΤΡΙΑΣ ΔΗΜΟΣΙΑΣ ΥΓΕΙΑΣ ΝΟΣΗΛΕΥΤΙΚΗ ΥΠΗΡΕΣΙΑ ΔΙΟΙΚΗΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ ΑΥΤΟΤΕΛΗ ΤΜΗΜΑΤΑ & ΓΡΑΦΕΙΑ ΙΑΤΡΙΚΕΣ ΕΠΙΤΡΟΠΕΣ ΕΠΙΤΡΟΠΗ ΝΟΣΟΚΟΜΕΙΑΚΩΝ ΛΟΙΜΩΞΕΩΝ ΟΜΑΔΑ ΥΠΟΣΤΗΡΙΞΗΣ ΘΡΕΨΗΣ ΠΟΛΙΤΗΣ ΕΦΗΜΕΡΙΕΣ ΛΙΣΤΑ ΧΕΙΡΟΥΡΓΕΙΟΥ ΕΞΩΤΕΡΙΚΑ ΙΑΤΡΕΙΑ & ΡΑΝΤΕΒΟΥ ΚΑΝΟΝΕΣ ΕΠΙΣΚΕΠΤΗΡΙΟΥ ΕΘΕΛΟΝΤΙΚΗ ΑΙΜΟΔΟΣΙΑ COVID 19 - ΧΟΡΗΓΗΣΗ ΑΝΤΙΪΚΩΝ ΦΑΡΜΑΚΩΝ ΧΡΗΣΙΜΑ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΜΟΥ ΔΙΚΑΙΩΜΑΤΑ & ΥΠΟΧΡΕΩΣΕΙΣ ΑΣΘΕΝΟΥΣ ΠΡΟΣΩΠΙΚΑ ΔΕΔΟΜΕΝΑ Η ΓΝΩΜΗ ΣΑΣ ΜΕΤΡΑΕΙ ΓΙΑ ΤΟ Γ.Ν.Α. \"Η ΕΛΠΙΣ\" ΝΕΑ ΔΕΛΤΙΑ ΤΥΠΟΥ ΑΝΑΚΟΙΝΩΣΕΙΣ ΕΓΡΑΨΑΝ ΓΙΑ ΜΑΣ ΔΙΑΓΩΝΙΣΜΟΙ ΠΡΟΚΗΡΥΞΕΙΣ-ΔΙΑΚΗΡΥΞΕΙΣ ΔΙΑΒΟΥΛΕΥΣΕΙΣ ΠΡΟΚΗΡΥΞΕΙΣ ΠΛΗΡΩΣΗΣ ΘΕΣΕΩΝ ΠΡΟΣΩΠΙΚΟΥ ΕΠΙΚΟΙΝΩΝΙΑ ΠΕΡΙΟΔΙΚΟ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΕΣΠΑ 2014-2020 {\"path\":{\"baseUrl\":\"\\/\",\"scriptPath\":null,\"pathPrefix\":\"\",\"currentPath\":\"webform\\/contact\",\"currentPathIsAdmin\":false,\"isFront\":false,\"currentLanguage\":\"el\"},\"pluralDelimiter\":\"\\u0003\",\"suppressDeprecationErrors\":true,\"responsive_menu\":{\"position\":\"right\",\"theme\":\"theme-light\",\"pagedim\":\"pagedim\",\"modifyViewport\":true,\"use_bootstrap\":false,\"breakpoint\":\"(min-width: 960px)\",\"drag\":false},\"eu_cookie_compliance\":{\"cookie_policy_version\":\"1.0.0\",\"popup_enabled\":true,\"popup_agreed_enabled\":false,\"popup_hide_agreed\":false,\"popup_clicking_confirmation\":false,\"popup_scrolling_confirmation\":false,\"popup_html_info\":\"\\u003Cdiv aria-labelledby=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\\u0022\\u003E\\n \\u003Cdiv class=\\u0022popup-content info eu-cookie-compliance-content\\u0022\\u003E\\n \\u003Cdiv id=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-compliance-message\\u0022 role=\\u0022document\\u0022\\u003E\\n \\u003Ch2\\u003EWe use cookies on this site to enhance your user experience\\u003C\\/h2\\u003E\\u003Cp\\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\\u003C\\/p\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022find-more-button eu-cookie-compliance-more-button\\u0022\\u003E\\u03a0\\u03b5\\u03c1\\u03b9\\u03c3\\u03c3\\u03cc\\u03c4\\u03b5\\u03c1\\u03b5\\u03c2 \\u03c0\\u03bb\\u03b7\\u03c1\\u03bf\\u03c6\\u03bf\\u03c1\\u03af\\u03b5\\u03c2\\u003C\\/button\\u003E\\n \\u003C\\/div\\u003E\\n\\n \\n \\u003Cdiv id=\\u0022popup-buttons\\u0022 class=\\u0022eu-cookie-compliance-buttons\\u0022\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022agree-button eu-cookie-compliance-secondary-button\\u0022\\u003EOK, \\u03c3\\u03c5\\u03bc\\u03c6\\u03c9\\u03bd\\u03ce\\u003C\\/button\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022decline-button eu-cookie-compliance-default-button\\u0022\\u003ENo, thanks\\u003C\\/button\\u003E\\n \\u003C\\/div\\u003E\\n \\u003C\\/div\\u003E\\n\\u003C\\/div\\u003E\",\"use_mobile_message\":false,\"mobile_popup_html_info\":\"\\u003Cdiv aria-labelledby=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\\u0022\\u003E\\n \\u003Cdiv class=\\u0022popup-content info eu-cookie-compliance-content\\u0022\\u003E\\n \\u003Cdiv id=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-compliance-message\\u0022 role=\\u0022document\\u0022\\u003E\\n \\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022find-more-button eu-cookie-compliance-more-button\\u0022\\u003E\\u03a0\\u03b5\\u03c1\\u03b9\\u03c3\\u03c3\\u03cc\\u03c4\\u03b5\\u03c1\\u03b5\\u03c2 \\u03c0\\u03bb\\u03b7\\u03c1\\u03bf\\u03c6\\u03bf\\u03c1\\u03af\\u03b5\\u03c2\\u003C\\/button\\u003E\\n \\u003C\\/div\\u003E\\n\\n \\n \\u003Cdiv id=\\u0022popup-buttons\\u0022 class=\\u0022eu-cookie-compliance-buttons\\u0022\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022agree-button eu-cookie-compliance-secondary-button\\u0022\\u003EOK, \\u03c3\\u03c5\\u03bc\\u03c6\\u03c9\\u03bd\\u03ce\\u003C\\/button\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022decline-button eu-cookie-compliance-default-button\\u0022\\u003ENo, thanks\\u003C\\/button\\u003E\\n \\u003C\\/div\\u003E\\n \\u003C\\/div\\u003E\\n\\u003C\\/div\\u003E\",\"mobile_breakpoint\":768,\"popup_html_agreed\":false,\"popup_use_bare_css\":false,\"popup_height\":\"auto\",\"popup_width\":\"100%\",\"popup_delay\":1000,\"popup_link\":\"https:\\/\\/www.elpis.gr\\/system\\/files\\/2020-03\\/%CE%A0%CE%9F%CE%9B%CE%99%CE%A4%CE%99%CE%9A%CE%97%20Cookies.pdf\",\"popup_link_new_window\":true,\"popup_position\":false,\"fixed_top_position\":true,\"popup_language\":\"el\",\"store_consent\":false,\"better_support_for_screen_readers\":false,\"cookie_name\":\"\",\"reload_page\":false,\"domain\":\"\",\"domain_all_sites\":false,\"popup_eu_only\":false,\"popup_eu_only_js\":false,\"cookie_lifetime\":100,\"cookie_session\":0,\"set_cookie_session_zero_on_disagree\":0,\"disagree_do_not_show_popup\":false,\"method\":\"opt_in\",\"automatic_cookies_removal\":true,\"allowed_cookies\":\"\",\"withdraw_markup\":\"\\u003Cbutton type=\\u0022button\\u0022 class=\\u0022eu-cookie-withdraw-tab\\u0022\\u003EPrivacy settings\\u003C\\/button\\u003E\\n\\u003Cdiv aria-labelledby=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-withdraw-banner\\u0022\\u003E\\n \\u003Cdiv class=\\u0022popup-content info eu-cookie-compliance-content\\u0022\\u003E\\n \\u003Cdiv id=\\u0022popup-text\\u0022 class=\\u0022eu-cookie-compliance-message\\u0022 role=\\u0022document\\u0022\\u003E\\n \\u003Ch2\\u003EWe use cookies on this site to enhance your user experience\\u003C\\/h2\\u003E\\u003Cp\\u003EYou have given your consent for us to set cookies.\\u003C\\/p\\u003E\\n \\u003C\\/div\\u003E\\n \\u003Cdiv id=\\u0022popup-buttons\\u0022 class=\\u0022eu-cookie-compliance-buttons\\u0022\\u003E\\n \\u003Cbutton type=\\u0022button\\u0022 class=\\u0022eu-cookie-withdraw-button \\u0022\\u003EWithdraw consent\\u003C\\/button\\u003E\\n \\u003C\\/div\\u003E\\n \\u003C\\/div\\u003E\\n\\u003C\\/div\\u003E\",\"withdraw_enabled\":false,\"reload_options\":0,\"reload_routes_list\":\"\",\"withdraw_button_on_info_popup\":false,\"cookie_categories\":[],\"cookie_categories_details\":[],\"enable_save_preferences_button\":true,\"cookie_value_disagreed\":\"0\",\"cookie_value_agreed_show_thank_you\":\"1\",\"cookie_value_agreed\":\"2\",\"containing_element\":\"body\",\"settings_tab_enabled\":false,\"olivero_primary_button_classes\":\"\",\"olivero_secondary_button_classes\":\"\",\"close_button_action\":\"\",\"open_by_default\":true,\"modules_allow_popup\":true,\"hide_the_banner\":false,\"geoip_match\":true},\"ajaxTrustedUrl\":{\"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM\":true,\"\\/search\":true},\"user\":{\"uid\":0,\"permissionsHash\":\"5440ce7fc0211b01605ce830e6336f45859f99b7b9a0412df2b6009b71d4a9d5\"}}",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/elpis.gr-home-68e57927/contact-contact-d9a76da5.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/elpis.gr-home-68e57927/contact-contact-d9a76da5.txt",
+      "imageReferences": [
+        {
+          "url": "http://www.elpis.gr/themes/on/images/logo.svg",
+          "alt": "Home",
+          "sourcePageUrl": "http://www.elpis.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/contact",
+              "retrievedAt": "2026-03-31T13:20:15.419Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/system/files/inline-images/TEL1.png",
+          "alt": "Phone",
+          "sourcePageUrl": "http://www.elpis.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/contact",
+              "retrievedAt": "2026-03-31T13:20:15.419Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/system/files/inline-images/EMAIL3.png",
+          "alt": "Email",
+          "sourcePageUrl": "http://www.elpis.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/contact",
+              "retrievedAt": "2026-03-31T13:20:15.419Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/system/files/inline-images/loc.jpg",
+          "alt": "l",
+          "sourcePageUrl": "http://www.elpis.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/contact",
+              "retrievedAt": "2026-03-31T13:20:15.419Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/themes/on/images/flame.svg",
+          "sourcePageUrl": "http://www.elpis.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/contact",
+              "retrievedAt": "2026-03-31T13:20:15.419Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/themes/on/images/ypoyrgeio-igeias.png",
+          "alt": "Ministry of health",
+          "sourcePageUrl": "http://www.elpis.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/contact",
+              "retrievedAt": "2026-03-31T13:20:15.419Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/themes/on/images/1h-igeionomiki-perifereia-attikis.png",
+          "alt": "1η Υγειονομικη περιφέρεια Αττικής",
+          "sourcePageUrl": "http://www.elpis.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/contact",
+              "retrievedAt": "2026-03-31T13:20:15.419Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/themes/on/images/efimereuonta-farmakeia.png",
+          "alt": "Εφημερεύοντα φαρμακεία",
+          "sourcePageUrl": "http://www.elpis.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/contact",
+              "retrievedAt": "2026-03-31T13:20:15.419Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/themes/on/images/efimereuonta-nosokomeia.jpg",
+          "alt": "Εφημερεύοντα νοσοκομεία",
+          "sourcePageUrl": "http://www.elpis.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/contact",
+              "retrievedAt": "2026-03-31T13:20:15.419Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/themes/on/images/diavgeia_all_logo.png",
+          "alt": "Διαύγεια",
+          "sourcePageUrl": "http://www.elpis.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/contact",
+              "retrievedAt": "2026-03-31T13:20:15.419Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/themes/on/images/eof-blue.png",
+          "alt": "ΕΟΦ",
+          "sourcePageUrl": "http://www.elpis.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/contact",
+              "retrievedAt": "2026-03-31T13:20:15.419Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.elpis.gr/themes/on/images/europi-sou.png",
+          "alt": "Your europe",
+          "sourcePageUrl": "http://www.elpis.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://www.elpis.gr/contact",
+              "retrievedAt": "2026-03-31T13:20:15.419Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "http://www.elpis.gr/contact",
+          "retrievedAt": "2026-03-31T13:20:15.420Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/elpis.gr-home-68e57927/contact-contact-d9a76da5.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "213 20 39 000",
+      "2019/1937",
+      "4990/2022",
+      "2014-2020",
+      "213 20 39 288",
+      "//+30213203900",
+      "//+302132039288",
+      "213 20 39 015",
+      "213 20 39 021"
+    ],
+    "emails": [
+      "info@elpis.gr",
+      "protokollo@elpis.gr",
+      "//info@elpis.gr",
+      "koinyp@elpis.gr"
+    ],
+    "addresses": [
+      "Δημητσάνας 7, Αμπελόκηποι, Αθήνα",
+      "ΕΠΙΚΟΙΝΩΝΙΑ Για περισσότερες πληροφορίες σχετικά με το ΓΝΑ “Η ΕΛΠΙΣ” μη διστάσετε να επικοινωνήσετε μαζί μας. Το προσωπικό μας θα χαρεί να σας εξυπηρετήσει. ΟΝΟΜΑ* ΕΠΩΝΥΜΟ* EMAIL* ΣΧΟΛΙΟ* CAPTCHA This question is for testing whether or not you are a human visitor and to prevent automated spam submissions. Τα πεδία με * είναι υποχρεωτικά. ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ (ΓΝΑ) \"Η ΕΛΠΙΣ\" ΔΗΜΗΤΣΑΝΑΣ 7 ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑ Δείτε τον Τηλεφωνικό Κατάλογο ΕΔΩ Κέντρο: 213 20 39 000 e-mail: info@elpis.gr Πρωινά Ραντεβού: Τηλ.: 1566 Απογευματινά Ραντεβού: Tηλ.: 213 20 39 288 Leave this field blank",
+      "ΟΝΟΜΑ* ΕΠΩΝΥΜΟ* EMAIL* ΣΧΟΛΙΟ* CAPTCHA This question is for testing whether or not you are a human visitor and to prevent automated spam submissions. Τα πεδία με * είναι υποχρεωτικά. ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ (ΓΝΑ) \"Η ΕΛΠΙΣ\" ΔΗΜΗΤΣΑΝΑΣ 7 ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑ Δείτε τον Τηλεφωνικό Κατάλογο ΕΔΩ Κέντρο: 213 20 39 000 e-mail: info@elpis.gr Πρωινά Ραντεβού: Τηλ.: 1566 Απογευματινά Ραντεβού: Tηλ.: 213 20 39 288",
+      "ΕΠΙΚΟΙΝΩΝΙΑ Για περισσότερες πληροφορίες σχετικά με το ΓΝΑ “Η ΕΛΠΙΣ” μη διστάσετε να επικοινωνήσετε μαζί μας. Το προσωπικό μας θα χαρεί να σας εξυπηρετήσει. Your Name ΕΠΩΝΥΜΟ* Your Email Message CAPTCHA This question is for testing whether or not you are a human visitor and to prevent automated spam submissions. Τα πεδία με * είναι υποχρεωτικά. ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ (ΓΝΑ) \"Η ΕΛΠΙΣ\" ΔΗΜΗΤΣΑΝΑΣ 7 ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑ Δείτε τον Τηλεφωνικό Κατάλογο ΕΔΩ Κέντρο: 213 20 39 000 e-mail: info@elpis.gr Πρωινά Ραντεβού: Τηλ.: 1566 Απογευματινά Ραντεβού: Tηλ.: 213 20 39 288 Leave this field blank",
+      "Your Name ΕΠΩΝΥΜΟ* Your Email Message CAPTCHA This question is for testing whether or not you are a human visitor and to prevent automated spam submissions. Τα πεδία με * είναι υποχρεωτικά. ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ (ΓΝΑ) \"Η ΕΛΠΙΣ\" ΔΗΜΗΤΣΑΝΑΣ 7 ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑ Δείτε τον Τηλεφωνικό Κατάλογο ΕΔΩ Κέντρο: 213 20 39 000 e-mail: info@elpis.gr Πρωινά Ραντεβού: Τηλ.: 1566 Απογευματινά Ραντεβού: Tηλ.: 213 20 39 288"
+    ],
+    "socialLinks": [],
+    "forms": [
+      {
+        "action": "http://www.elpis.gr/search",
+        "method": "get",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "search",
+          "edit-submit-search"
+        ],
+        "submitLabels": [
+          "Apply"
+        ],
+        "fields": [
+          {
+            "name": "search",
+            "type": "text",
+            "label": "Αναζήτηση",
+            "required": false
+          },
+          {
+            "name": "edit-submit-search",
+            "type": "submit",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "http://www.elpis.gr/contact",
+        "method": "post",
+        "purposeHint": "contact",
+        "fieldNames": [
+          "name",
+          "eponymo",
+          "email",
+          "message",
+          "captcha_sid",
+          "captcha_token",
+          "captcha_response",
+          "captcha_cacheable",
+          "op",
+          "honeypot_time",
+          "form_build_id",
+          "form_id",
+          "url"
+        ],
+        "submitLabels": [
+          "ΥΠΟΒΟΛΗ"
+        ],
+        "fields": [
+          {
+            "name": "name",
+            "type": "text",
+            "label": "ΟΝΟΜΑ*",
+            "required": true
+          },
+          {
+            "name": "eponymo",
+            "type": "text",
+            "label": "ΕΠΩΝΥΜΟ*",
+            "required": true
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "label": "EMAIL*",
+            "required": true
+          },
+          {
+            "name": "message",
+            "type": "textarea",
+            "label": "ΣΧΟΛΙΟ*",
+            "required": true
+          },
+          {
+            "name": "captcha_sid",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "captcha_token",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "captcha_response",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "captcha_cacheable",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "op",
+            "type": "submit",
+            "required": false
+          },
+          {
+            "name": "honeypot_time",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "form_build_id",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "form_id",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "url",
+            "type": "text",
+            "label": "Leave this field blank",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "http://www.elpis.gr/en/search",
+        "method": "get",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "search",
+          "edit-submit-search"
+        ],
+        "submitLabels": [
+          "Apply"
+        ],
+        "fields": [
+          {
+            "name": "search",
+            "type": "text",
+            "label": "Search",
+            "required": false
+          },
+          {
+            "name": "edit-submit-search",
+            "type": "submit",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "http://www.elpis.gr/en/contact",
+        "method": "post",
+        "purposeHint": "contact",
+        "fieldNames": [
+          "name",
+          "eponymo",
+          "email",
+          "message",
+          "captcha_sid",
+          "captcha_token",
+          "captcha_response",
+          "captcha_cacheable",
+          "op",
+          "honeypot_time",
+          "form_build_id",
+          "form_id",
+          "url"
+        ],
+        "submitLabels": [
+          "Send message"
+        ],
+        "fields": [
+          {
+            "name": "name",
+            "type": "text",
+            "label": "Your Name",
+            "required": true
+          },
+          {
+            "name": "eponymo",
+            "type": "text",
+            "label": "ΕΠΩΝΥΜΟ*",
+            "required": true
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "label": "Your Email",
+            "required": true
+          },
+          {
+            "name": "message",
+            "type": "textarea",
+            "label": "Message",
+            "required": true
+          },
+          {
+            "name": "captcha_sid",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "captcha_token",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "captcha_response",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "captcha_cacheable",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "op",
+            "type": "submit",
+            "required": false
+          },
+          {
+            "name": "honeypot_time",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "form_build_id",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "form_id",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "url",
+            "type": "text",
+            "label": "Leave this field blank",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "| Γενικό Νοσοκομείο Αθηνών | Η Ελπίςarrow-orangearrow-orangearrow-orangearrow-orangearrow-orangearrow-orangearrow-orangearrow-orange",
+    "canonicalUrl": "http://www.elpis.gr/",
+    "language": "el"
+  },
+  "imageReferences": [
+    {
+      "url": "http://www.elpis.gr/themes/on/images/logo.svg",
+      "alt": "Home",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/system/files/inline-images/TEL1.png",
+      "alt": "Phone",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/system/files/inline-images/EMAIL3.png",
+      "alt": "Email",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/system/files/inline-images/loc.jpg",
+      "alt": "l",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/system/files/styles/page_teaser/private/2025-09/1566e_rv_frontpage.jpg?itok=EN7RU_-v",
+      "alt": "1566e_rv_frontpage",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/system/files/styles/page_teaser/private/2022-07/hospital-image.jpg?itok=6QobNTf0",
+      "alt": "Elpis gr",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/system/files/styles/page_teaser/private/2023-10/antiviral_drugs_siteicon_6_0.jpg?itok=u8xpNLxs",
+      "alt": "antiviral_drugs_siteicon_6",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/system/files/styles/page_teaser/private/2019-12/IMG_3.jpg?itok=gzHsxTBT",
+      "alt": "Info-Kiosk",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/system/files/styles/page_teaser/private/2026-01/civilprotectionalert_2_21.1.2026.jpg?itok=GoDtDlns",
+      "alt": "civilprotectionalert_2_21.1.2026",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/system/files/styles/page_teaser/private/2021-12/christmas_2021_firstpage_new.png?itok=tmbNE6XE",
+      "alt": "christmas_2021_firstpage",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/system/files/styles/page_teaser/private/2025-10/oct_breastca_awareness.jpg?itok=zs-svvGQ",
+      "alt": "oct_breastca_awareness",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/themes/on/images/flame.svg",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/themes/on/images/ypoyrgeio-igeias.png",
+      "alt": "Ministry of health",
+      "sourcePageUrl": "http://www.elpis.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/contact",
+          "retrievedAt": "2026-03-31T13:20:15.419Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/themes/on/images/1h-igeionomiki-perifereia-attikis.png",
+      "alt": "1η Υγειονομικη περιφέρεια Αττικής",
+      "sourcePageUrl": "http://www.elpis.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/contact",
+          "retrievedAt": "2026-03-31T13:20:15.419Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/themes/on/images/efimereuonta-farmakeia.png",
+      "alt": "Εφημερεύοντα φαρμακεία",
+      "sourcePageUrl": "http://www.elpis.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/contact",
+          "retrievedAt": "2026-03-31T13:20:15.419Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/themes/on/images/efimereuonta-nosokomeia.jpg",
+      "alt": "Εφημερεύοντα νοσοκομεία",
+      "sourcePageUrl": "http://www.elpis.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/contact",
+          "retrievedAt": "2026-03-31T13:20:15.419Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/themes/on/images/diavgeia_all_logo.png",
+      "alt": "Διαύγεια",
+      "sourcePageUrl": "http://www.elpis.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/contact",
+          "retrievedAt": "2026-03-31T13:20:15.419Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/themes/on/images/eof-blue.png",
+      "alt": "ΕΟΦ",
+      "sourcePageUrl": "http://www.elpis.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/contact",
+          "retrievedAt": "2026-03-31T13:20:15.419Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.elpis.gr/themes/on/images/europi-sou.png",
+      "alt": "Your europe",
+      "sourcePageUrl": "http://www.elpis.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/contact",
+          "retrievedAt": "2026-03-31T13:20:15.419Z"
+        }
+      ]
+    },
+    {
+      "url": "data:image/png;base64,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",
+      "alt": "tel.png",
+      "sourcePageUrl": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/tmima-koinonikis-ypiresias",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/tmima-koinonikis-ypiresias",
+          "retrievedAt": "2026-03-31T13:20:21.247Z"
+        }
+      ]
+    },
+    {
+      "url": "data:image/png;base64,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",
+      "alt": "e",
+      "sourcePageUrl": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/tmima-koinonikis-ypiresias",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/tmima-koinonikis-ypiresias",
+          "retrievedAt": "2026-03-31T13:20:21.247Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "213 20 39 000",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2019/1937",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "4990/2022",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2014-2020",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@elpis.gr",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "protokollo@elpis.gr",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Δημητσάνας 7, Αμπελόκηποι, Αθήνα",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "http://www.elpis.gr/",
+      "sourcePageUrl": "http://www.elpis.gr/",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "http://www.elpis.gr/",
+          "retrievedAt": "2026-03-31T13:20:13.594Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213 20 39 288",
+      "sourcePageUrl": "http://www.elpis.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "http://www.elpis.gr/contact",
+          "retrievedAt": "2026-03-31T13:20:15.419Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "//+30213203900",
+      "sourcePageUrl": "http://www.elpis.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "http://www.elpis.gr/contact",
+          "retrievedAt": "2026-03-31T13:20:15.419Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "//+302132039288",
+      "sourcePageUrl": "http://www.elpis.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "http://www.elpis.gr/contact",
+          "retrievedAt": "2026-03-31T13:20:15.419Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "//info@elpis.gr",
+      "sourcePageUrl": "http://www.elpis.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "http://www.elpis.gr/contact",
+          "retrievedAt": "2026-03-31T13:20:15.419Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "ΕΠΙΚΟΙΝΩΝΙΑ Για περισσότερες πληροφορίες σχετικά με το ΓΝΑ “Η ΕΛΠΙΣ” μη διστάσετε να επικοινωνήσετε μαζί μας. Το προσωπικό μας θα χαρεί να σας εξυπηρετήσει. ΟΝΟΜΑ* ΕΠΩΝΥΜΟ* EMAIL* ΣΧΟΛΙΟ* CAPTCHA This question is for testing whether or not you are a human visitor and to prevent automated spam submissions. Τα πεδία με * είναι υποχρεωτικά. ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ (ΓΝΑ) \"Η ΕΛΠΙΣ\" ΔΗΜΗΤΣΑΝΑΣ 7 ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑ Δείτε τον Τηλεφωνικό Κατάλογο ΕΔΩ Κέντρο: 213 20 39 000 e-mail: info@elpis.gr Πρωινά Ραντεβού: Τηλ.: 1566 Απογευματινά Ραντεβού: Tηλ.: 213 20 39 288 Leave this field blank",
+      "sourcePageUrl": "http://www.elpis.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "http://www.elpis.gr/contact",
+          "retrievedAt": "2026-03-31T13:20:15.419Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "ΟΝΟΜΑ* ΕΠΩΝΥΜΟ* EMAIL* ΣΧΟΛΙΟ* CAPTCHA This question is for testing whether or not you are a human visitor and to prevent automated spam submissions. Τα πεδία με * είναι υποχρεωτικά. ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ (ΓΝΑ) \"Η ΕΛΠΙΣ\" ΔΗΜΗΤΣΑΝΑΣ 7 ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑ Δείτε τον Τηλεφωνικό Κατάλογο ΕΔΩ Κέντρο: 213 20 39 000 e-mail: info@elpis.gr Πρωινά Ραντεβού: Τηλ.: 1566 Απογευματινά Ραντεβού: Tηλ.: 213 20 39 288",
+      "sourcePageUrl": "http://www.elpis.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "http://www.elpis.gr/contact",
+          "retrievedAt": "2026-03-31T13:20:15.419Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "http://www.elpis.gr/contact",
+      "sourcePageUrl": "http://www.elpis.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "http://www.elpis.gr/contact",
+          "retrievedAt": "2026-03-31T13:20:15.419Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "http://www.elpis.gr/contact",
+      "sourcePageUrl": "http://www.elpis.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "http://www.elpis.gr/contact",
+          "retrievedAt": "2026-03-31T13:20:15.419Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "ΕΠΙΚΟΙΝΩΝΙΑ Για περισσότερες πληροφορίες σχετικά με το ΓΝΑ “Η ΕΛΠΙΣ” μη διστάσετε να επικοινωνήσετε μαζί μας. Το προσωπικό μας θα χαρεί να σας εξυπηρετήσει. Your Name ΕΠΩΝΥΜΟ* Your Email Message CAPTCHA This question is for testing whether or not you are a human visitor and to prevent automated spam submissions. Τα πεδία με * είναι υποχρεωτικά. ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ (ΓΝΑ) \"Η ΕΛΠΙΣ\" ΔΗΜΗΤΣΑΝΑΣ 7 ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑ Δείτε τον Τηλεφωνικό Κατάλογο ΕΔΩ Κέντρο: 213 20 39 000 e-mail: info@elpis.gr Πρωινά Ραντεβού: Τηλ.: 1566 Απογευματινά Ραντεβού: Tηλ.: 213 20 39 288 Leave this field blank",
+      "sourcePageUrl": "http://www.elpis.gr/en/contact",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "http://www.elpis.gr/en/contact",
+          "retrievedAt": "2026-03-31T13:20:16.713Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Your Name ΕΠΩΝΥΜΟ* Your Email Message CAPTCHA This question is for testing whether or not you are a human visitor and to prevent automated spam submissions. Τα πεδία με * είναι υποχρεωτικά. ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΑΘΗΝΩΝ (ΓΝΑ) \"Η ΕΛΠΙΣ\" ΔΗΜΗΤΣΑΝΑΣ 7 ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑ Δείτε τον Τηλεφωνικό Κατάλογο ΕΔΩ Κέντρο: 213 20 39 000 e-mail: info@elpis.gr Πρωινά Ραντεβού: Τηλ.: 1566 Απογευματινά Ραντεβού: Tηλ.: 213 20 39 288",
+      "sourcePageUrl": "http://www.elpis.gr/en/contact",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "http://www.elpis.gr/en/contact",
+          "retrievedAt": "2026-03-31T13:20:16.713Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "http://www.elpis.gr/en/contact",
+      "sourcePageUrl": "http://www.elpis.gr/en/contact",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "http://www.elpis.gr/en/contact",
+          "retrievedAt": "2026-03-31T13:20:16.713Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "http://www.elpis.gr/en/contact",
+      "sourcePageUrl": "http://www.elpis.gr/en/contact",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "http://www.elpis.gr/en/contact",
+          "retrievedAt": "2026-03-31T13:20:16.713Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "http://www.elpis.gr/ypiresies",
+      "sourcePageUrl": "http://www.elpis.gr/ypiresies",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "http://www.elpis.gr/ypiresies",
+          "retrievedAt": "2026-03-31T13:20:17.912Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "http://www.elpis.gr/ypiresies/iatriki-ypiresia",
+      "sourcePageUrl": "http://www.elpis.gr/ypiresies/iatriki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "http://www.elpis.gr/ypiresies/iatriki-ypiresia",
+          "retrievedAt": "2026-03-31T13:20:19.377Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213 20 39 015",
+      "sourcePageUrl": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/tmima-koinonikis-ypiresias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/tmima-koinonikis-ypiresias",
+          "retrievedAt": "2026-03-31T13:20:21.247Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213 20 39 021",
+      "sourcePageUrl": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/tmima-koinonikis-ypiresias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/tmima-koinonikis-ypiresias",
+          "retrievedAt": "2026-03-31T13:20:21.247Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "koinyp@elpis.gr",
+      "sourcePageUrl": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/tmima-koinonikis-ypiresias",
+      "pageType": "services",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/tmima-koinonikis-ypiresias",
+          "retrievedAt": "2026-03-31T13:20:21.247Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/tmima-koinonikis-ypiresias",
+      "sourcePageUrl": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/tmima-koinonikis-ypiresias",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/tmima-koinonikis-ypiresias",
+          "retrievedAt": "2026-03-31T13:20:21.247Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "http://www.elpis.gr/",
+    "finalOrigin": "http://www.elpis.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "http://www.elpis.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:20:13.159Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [
+        "/core/*.css$",
+        "/core/*.css?",
+        "/core/*.js$",
+        "/core/*.js?",
+        "/core/*.gif",
+        "/core/*.jpg",
+        "/core/*.jpeg",
+        "/core/*.png",
+        "/core/*.svg",
+        "/profiles/*.css$",
+        "/profiles/*.css?",
+        "/profiles/*.js$",
+        "/profiles/*.js?",
+        "/profiles/*.gif",
+        "/profiles/*.jpg",
+        "/profiles/*.jpeg",
+        "/profiles/*.png",
+        "/profiles/*.svg"
+      ],
+      "disallowRules": [
+        "/core/",
+        "/profiles/",
+        "/README.txt",
+        "/web.config",
+        "/admin/",
+        "/comment/reply/",
+        "/filter/tips",
+        "/node/add/",
+        "/search/",
+        "/user/register/",
+        "/user/password/",
+        "/user/login/",
+        "/user/logout/",
+        "/index.php/admin/",
+        "/index.php/comment/reply/",
+        "/index.php/filter/tips",
+        "/index.php/node/add/",
+        "/index.php/search/",
+        "/index.php/user/password/",
+        "/index.php/user/register/",
+        "/index.php/user/login/",
+        "/index.php/user/logout/"
+      ],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "http://www.elpis.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:20:12.629Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "http://www.elpis.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.596Z"
+      },
+      {
+        "url": "http://www.elpis.gr/contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/ypiresies",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/ypiresies/iatriki-ypiresia",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/tmima-koinonikis-ypiresias",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/ypiresies/nosileytiki-ypiresia",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/ypiresies/dioikitikes-ypiresies",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/politis/exoterika-iatreia-ranteboy",
+        "action": "queued",
+        "pageTypeHint": "booking",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/ypiresies/aytoteles-grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/nosokomeio",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/nosokomeio/istoria",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/nosokomeio/skopos-orama-apostoli",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/nosokomeio/dioikisi-organogramma",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/nosokomeio/anafores-apologismoi-isologimoi-statistika",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/nosokomeio/politiki-ygieinis-kai-asfaleias-ergazomenon-toy-gna-i-elpis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/nosokomeio/somateio-ergazomenon",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/ieros-naos",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/ypodomes-exoplismos",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:13.597Z"
+      },
+      {
+        "url": "http://www.elpis.gr/contact",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:15.420Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from http://www.elpis.gr/contact",
+        "timestamp": "2026-03-31T13:20:15.421Z"
+      },
+      {
+        "url": "mailto://info@elpis.gr",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/contact",
+        "timestamp": "2026-03-31T13:20:15.421Z"
+      },
+      {
+        "url": "http://www.elpis.gr/nosokomeio/dorees",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/contact",
+        "timestamp": "2026-03-31T13:20:15.421Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/contact",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from http://www.elpis.gr/contact",
+        "timestamp": "2026-03-31T13:20:16.714Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/node/35",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://www.elpis.gr/en/contact",
+        "timestamp": "2026-03-31T13:20:16.715Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/node/38",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://www.elpis.gr/en/contact",
+        "timestamp": "2026-03-31T13:20:16.715Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/node/39",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://www.elpis.gr/en/contact",
+        "timestamp": "2026-03-31T13:20:16.715Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/node/36",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://www.elpis.gr/en/contact",
+        "timestamp": "2026-03-31T13:20:16.715Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/node/43",
+        "action": "queued",
+        "pageTypeHint": "booking",
+        "reason": "Discovered from http://www.elpis.gr/en/contact",
+        "timestamp": "2026-03-31T13:20:16.715Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/node/21",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/en/contact",
+        "timestamp": "2026-03-31T13:20:16.715Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/node/23",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/en/contact",
+        "timestamp": "2026-03-31T13:20:16.715Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/node/22",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/en/contact",
+        "timestamp": "2026-03-31T13:20:16.715Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/node/24",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/en/contact",
+        "timestamp": "2026-03-31T13:20:16.715Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/node/27",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/en/contact",
+        "timestamp": "2026-03-31T13:20:16.715Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/node/164",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/en/contact",
+        "timestamp": "2026-03-31T13:20:16.715Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/node/28",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/en/contact",
+        "timestamp": "2026-03-31T13:20:16.715Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/node/63",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/en/contact",
+        "timestamp": "2026-03-31T13:20:16.715Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/node/159",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/en/contact",
+        "timestamp": "2026-03-31T13:20:16.715Z"
+      },
+      {
+        "url": "http://www.elpis.gr/ypiresies",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:17.914Z"
+      },
+      {
+        "url": "https://www.elpis.gr/ypiresies/iatriki-ypiresia",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://www.elpis.gr/ypiresies",
+        "timestamp": "2026-03-31T13:20:17.914Z"
+      },
+      {
+        "url": "https://www.elpis.gr/ypiresies/nosileytiki-ypiresia",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://www.elpis.gr/ypiresies",
+        "timestamp": "2026-03-31T13:20:17.914Z"
+      },
+      {
+        "url": "https://www.elpis.gr/ypiresies/dioikitikes-ypiresies",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://www.elpis.gr/ypiresies",
+        "timestamp": "2026-03-31T13:20:17.914Z"
+      },
+      {
+        "url": "http://www.elpis.gr/ypiresies/iatriki-ypiresia",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:19.379Z"
+      },
+      {
+        "url": "http://www.elpis.gr/nosokomeio/eyharistiries-epistoles",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/ypiresies/iatriki-ypiresia",
+        "timestamp": "2026-03-31T13:20:19.379Z"
+      },
+      {
+        "url": "http://www.elpis.gr/nosokomeio/symmorfosi-odigia-ee-20191937n-49902022",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/ypiresies/iatriki-ypiresia",
+        "timestamp": "2026-03-31T13:20:19.379Z"
+      },
+      {
+        "url": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/pathologikos-tomeas",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/ypiresies/iatriki-ypiresia",
+        "timestamp": "2026-03-31T13:20:19.379Z"
+      },
+      {
+        "url": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/tmima-koinonikis-ypiresias",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from http://www.elpis.gr/",
+        "timestamp": "2026-03-31T13:20:21.249Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/node/93",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/ypiresiesiatriki-ypiresia/tmima-koinonikis-ypiresias",
+        "timestamp": "2026-03-31T13:20:21.249Z"
+      },
+      {
+        "url": "http://www.elpis.gr/ypiresiesiatriki-ypiresia/tmima-koinonikis-ypiresias",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://www.elpis.gr/ypiresiesiatriki-ypiresia/tmima-koinonikis-ypiresias",
+        "timestamp": "2026-03-31T13:20:21.249Z"
+      },
+      {
+        "url": "http://www.elpis.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:20:23.939Z"
+      },
+      {
+        "url": "http://www.elpis.gr/contact",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:20:26.987Z"
+      },
+      {
+        "url": "http://www.elpis.gr/en/contact",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:20:28.779Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/e0cf4b7e-2c06-4879-b6fc-79bee0e47b43.png",
+    "status": "downloaded",
+    "local_path": "assets/c34aa01fc1e6f7c6.png"
+  },
+  {
+    "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/gwGEXOfUthiwWqDSwMep/media/62b67631981fe88be8f9c211.png",
+    "status": "downloaded",
+    "local_path": "assets/c2aae2e534ec9251.png"
+  },
+  {
+    "url": "http://dentora.iamabdus.com/v1.2/wp-content/uploads/2019/05/tooth-2.png.webp",
+    "status": "error",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://firebasestorage.googleapis.com/v0/b/highlevel-backend.appspot.com/o/location%2FcI2vnxzjpwwUkm8WVE0S%2Fimages%2FxAMnyai9lSuv3wWUL44j%2FChIJOwg_06VPwokRYv534QaPC8g%2Fmap-E3aDQP7rXk.jpg?alt=media",
+    "status": "downloaded",
+    "local_path": "assets/100fe42884ac0c82.jpg"
+  },
+  {
+    "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_768/u_https://assets.cdn.filesafe.space/gwGEXOfUthiwWqDSwMep/media/62b67631981fe88be8f9c211.png",
+    "status": "downloaded",
+    "local_path": "assets/08fd68a112b7b422.png"
+  },
+  {
+    "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_900/u_https://assets.cdn.filesafe.space/gwGEXOfUthiwWqDSwMep/media/62b67631981fe88be8f9c211.png",
+    "status": "downloaded",
+    "local_path": "assets/d0e3b1a712b943d9.png"
+  }
+]

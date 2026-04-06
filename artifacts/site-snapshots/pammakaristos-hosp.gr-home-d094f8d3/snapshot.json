@@ -1,0 +1,2653 @@
+{
+  "domain": "pammakaristos-hosp.gr",
+  "collectedAt": "2026-03-31T13:20:46.205Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/pammakaristos-hosp.gr-home-d094f8d3",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://www.pammakaristos-hosp.gr/",
+      "finalUrl": "https://www.pammakaristos-hosp.gr/",
+      "fetchedAt": "2026-03-31T13:20:31.097Z",
+      "metadata": {
+        "title": "Παμμακάριστος",
+        "canonicalUrl": "https://www.pammakaristos-hosp.gr/",
+        "language": "el",
+        "robots": "max-image-preview:large",
+        "openGraphTitle": "Παμμακάριστος"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Νέα - Ανακοινώσεις"
+        },
+        {
+          "level": "h2",
+          "text": "Μάρτιος 2026"
+        },
+        {
+          "level": "h2",
+          "text": "Ώρες Επισκεπτηρίου"
+        },
+        {
+          "level": "h2",
+          "text": "Πρόσβαση"
+        },
+        {
+          "level": "h2",
+          "text": "Εφημερεύοντα Νοσοκομεία"
+        },
+        {
+          "level": "h2",
+          "text": "Γραφείο Προστασίας Δικαιωμάτων Ληπτών Υπηρεσιών Υγείας (ΓΠΔ)"
+        },
+        {
+          "level": "h3",
+          "text": "ΔΗΜΟΣΙΕΥΣΗ ΑΡΘΡΟΥ ΣΤΟ “Διεθνές Περιοδικό Healthcare MDPI” ΑΠΟ ΤΗΝ ΚΟΙΝΩΝΙΚΗ ΥΠΗΡΕΣΙΑ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ΜΑΣ"
+        },
+        {
+          "level": "h3",
+          "text": "ΔΗΜΟΣΙΕΥΣΗ ΑΡΘΡΟΥ ΣΤΟ “Discover Health Systems” ΑΠΟ ΤΗΝ ΚΟΙΝΩΝΙΚΗ ΥΠΗΡΕΣΙΑ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ΜΑΣ"
+        },
+        {
+          "level": "h3",
+          "text": "ΣΥΣΤΗΜΑΤΑ ΚΑΤΑΓΡΑΦΗΣ ΠΕΡΙΒΑΛΛΟΝΤΙΚΩΝ ΣΥΝΘΗΚΩΝ"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΡΓΑΣΙΕΣ ΣΥΝΤΗΡΗΣΗΣ ΚΑΙ ΑΠΟΚΑΤΑΣΤΑΣΗΣ ΤΟΥ ΚΤΙΡΙΟΥ"
+        },
+        {
+          "level": "h3",
+          "text": "ΑΝΤΙΚΑΤΑΣΤΑΣΗ ΦΘΑΡΜΕΝΩΝ ΔΑΠΕΔΩΝ"
+        },
+        {
+          "level": "h3",
+          "text": "ΠΙΝΑΚΑΣ ΕΠΙΛΟΓΗΣ ΥΠΟΨΗΦΙΟΥ ΓΙΑ ΘΕΣΗ ΕΠΙΜ. Α΄ ΑΚΤΙΝΟΔΙΑΓΝΩΣΤΙΚΗΣ"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.pammakaristos-hosp.gr/"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/to-nosokomeio/",
+          "label": "Το Νοσοκομείο"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/to-nosokomeio/istoriko/",
+          "label": "Ιστορικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/to-nosokomeio/organogramma/",
+          "label": "Οργανόγραμμα"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/",
+          "label": "Για τον Πολίτη"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/diadikasia-eisagwgis/",
+          "label": "Διαδικασία Εισαγωγής"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/dikaiomata/",
+          "label": "Δικαιώματα"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ypoxrewseis/",
+          "label": "Υποχρεώσεις"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/",
+          "label": "Εργαστηριακές Εξετάσεις"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis/",
+          "label": "Εργαστηριακές Εξετάσεις"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/aimatologiko/",
+          "label": "Αιματολογικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/aktinodiagnwstiko/",
+          "label": "Ακτινοδιαγνωστικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/vioximiko/",
+          "label": "Βιοχημικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/kardiologiko/",
+          "label": "Καρδιολογικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/mikroviologiko/",
+          "label": "Μικροβιολογικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/puriniki-iatriki/",
+          "label": "Πυρηνική Ιατρική"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/proina-iatreia/",
+          "label": "Πρωινά Ιατρεία"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/%ce%b1%cf%80%ce%bf%ce%b3%ce%b5%cf%85%ce%bc%ce%b1%cf%84%ce%b9%ce%bd%ce%ac-%ce%b9%ce%b1%cf%84%cf%81%ce%b5%ce%af%ce%b1/",
+          "label": "Απογευματινά Ιατρεία"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/vevaiwseis-enimerosi-2/",
+          "label": "Βεβαιώσεις – Ενημέρωση"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias/",
+          "label": "Γραφείο Προστασίας Δικαιωμάτων Ληπτών Υπηρεσιών Υγείας"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/nea-draseis/anakoinoseis/",
+          "label": "Νέα – Δράσεις"
+        },
+        {
+          "href": "http://pammakaristos-hosp.gr/%CE%95%CF%86%CE%B7%CE%BC%CE%B5%CF%81%CE%AF%CE%B5%CF%82/",
+          "label": "Εφημερίες"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/nea-draseis/deltia-typou/",
+          "label": "Δελτία Τύπου"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/nea-draseis/lista-xeirourgiou/",
+          "label": "Λίστα Χειρουργείου"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/prokyrikseis-list/",
+          "label": "Προκηρύξεις"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/prokyrikseis/diavouleusi-texnikwn-prodiagrafwn/",
+          "label": "Διαβούλευση Τεχνικών Προδιαγραφών"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/syndesmoi-ygeias/",
+          "label": "Σύνδεσμοι Υγείας"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/syndesmoi-ygeias/iatrikoi-farmakeutikoi-sullogoi/",
+          "label": "Ιατρικοί & Φαρμακευτικοί Σύλλογοι"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/syndesmoi-ygeias/iatrikes-etaireies/",
+          "label": "Ιατρικές Εταιρείες"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/epikoinwnia/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/europe/",
+          "label": "Η Ευρώπη σου"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%b5%cf%83%cf%80%ce%b1-2014-2020/",
+          "label": "ΕΣΠΑ 2014-2020"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%b5%ce%ba%cf%80%ce%b1%ce%af%ce%b4%ce%b5%cf%85%cf%83%ce%b7-%ce%ba%ce%b1%ce%b9-%ce%ad%cf%81%ce%b5%cf%85%ce%bd%ce%b1/",
+          "label": "Εκπαίδευση & Έρευνα"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/vivliothiki/",
+          "label": "Βιβλιοθήκη"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%b5%cf%80%ce%b9%cf%83%cf%84%ce%b7%ce%bc%ce%bf%ce%bd%ce%b9%ce%ba%cf%8c-%cf%83%cf%85%ce%bc%ce%b2%ce%bf%cf%8d%ce%bb%ce%b9%ce%bf/",
+          "label": "Επιστημονικό Συμβούλιο"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%b9%ce%b1%cf%84%cf%81%ce%b9%ce%ba%ce%ae-%ce%b5%ce%ba%cf%80%ce%b1%ce%af%ce%b4%ce%b5%cf%85%cf%83%ce%b7/",
+          "label": "Ιατρική Εκπαίδευση"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%bd%ce%bf%cf%83%ce%b7%ce%bb%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%ae-%ce%b5%ce%ba%cf%80%ce%b1%ce%af%ce%b4%ce%b5%cf%85%cf%83%ce%b7/",
+          "label": "Νοσηλευτική Εκπαίδευση"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%bd%ce%bf%cf%83%ce%b7%ce%bb%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%ae-%ce%b5%ce%ba%cf%80%ce%b1%ce%af%ce%b4%ce%b5%cf%85%cf%83%ce%b7-2/",
+          "label": "Επιτροπή Νοσοκομειακών Λοιμώξεων"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%cf%80%cf%81%cf%89%cf%84%cf%8c%ce%ba%ce%bf%ce%bb%ce%bb%ce%b1-%ce%bc%ce%b5%ce%bb%ce%ad%cf%84%ce%b5%cf%82/",
+          "label": "Πρωτόκολλα-Μελέτες"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ad%cf%82/",
+          "label": "Πολιτικές"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ad%cf%82/%cf%80%cf%81%ce%bf%cf%83%cf%84%ce%b1%cf%83%ce%af%ce%b1-%cf%80%cf%81%ce%bf%cf%83%cf%8e%cf%80%cf%89%ce%bd-%cf%80%ce%bf%cf%85-%ce%b1%ce%bd%ce%b1%cf%86%ce%ad%cf%81%ce%bf%cf%85%ce%bd-%cf%80%ce%b1%cf%81/",
+          "label": "Προστασία προσώπων που αναφέρουν παραβιάσεις του Ενωσιακού Δικαίου"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ad%cf%82/%cf%80%cf%81%cf%8c%ce%bb%ce%b7%cf%88%ce%b7-%ce%ba%ce%b1%ce%b9-%ce%b1%ce%bd%cf%84%ce%b9%ce%bc%ce%b5%cf%84%cf%8e%cf%80%ce%b9%cf%83%ce%b7-%cf%80%ce%b5%cf%81%ce%b9%cf%83%cf%84%ce%b1%cf%84%ce%b9%ce%ba/",
+          "label": "Πρόληψη και αντιμετώπιση περιστατικών βίας και παρενόχλησης στο χώρο εργασίας"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gdpr/",
+          "label": "Πολιτική Προστασίας Προσωπικών Δεδομένων (GDPR)"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ad%cf%82/e%ce%bd%ce%b7%ce%bc%ce%ad%cf%81%cf%89%cf%83%ce%b7-%ce%b3%ce%b9%ce%b1-%cf%84%ce%b7%ce%bd-%ce%b5%cf%80%ce%b5%ce%be%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%af%ce%b1-%cf%80%cf%81%ce%bf%cf%83%cf%89%cf%80%ce%b9/",
+          "label": "Eνημέρωση για την επεξεργασία προσωπικών δεδομένων υποψηφίων/προσφερόντων"
+        },
+        {
+          "href": "https://pammakaristos-hosp.gr/%ce%b4%cf%89%cf%81%ce%b5%ce%b1-%cf%83%cf%85%cf%83%cf%84%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%cf%83-%ce%b5%cf%80%ce%b5%ce%be%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%b9%ce%b1%cf%83-%ce%b9%ce%b1%cf%84%cf%81%ce%b9/",
+          "label": "Δείτε περισσότερα"
+        },
+        {
+          "href": "https://pammakaristos-hosp.gr/wp-content/uploads/2024/10/%CE%9F%CE%BA%CF%84%CF%8E%CE%B2%CF%81%CE%B9%CE%BF%CF%82-%CE%9C%CE%97%CE%9D%CE%91%CE%A3-%CE%A0%CE%A1%CE%9F%CE%9B%CE%97%CE%A8%CE%97%CE%A3-%CE%95%CE%9D%CE%97%CE%9C%CE%95%CE%A1%CE%A9%CE%A3%CE%97%CE%A3-%CE%95%CE%A5%CE%91%CE%99%CE%A3%CE%98%CE%97%CE%A4%CE%9F%CE%A0%CE%9F%CE%A0%CE%99%CE%97%CE%A3%CE%97%CE%A3-%CE%93%CE%99%CE%91-%CE%A4%CE%9F%CE%9D-%CE%9A%CE%91%CE%A1%CE%9A%CE%99%CE%9D%CE%9F-%CE%A4%CE%9F%CE%A5-%CE%9C%CE%91%CE%A3%CE%A4%CE%9F%CE%A5.pdf",
+          "label": "Δείτε περισσότερα"
+        },
+        {
+          "href": "https://pammakaristos-hosp.gr/%cf%87%cf%81%cf%85%cf%83%ce%bf-%ce%b2%cf%81%ce%b1%ce%b2%ce%b5%ce%b9%ce%bf-%cf%83%cf%84%ce%b1-healthcare-business-awards-2020/",
+          "label": "Δείτε περισσότερα"
+        },
+        {
+          "href": "http://pammakaristos-hosp.gr/to-nosokomeio/istoriko/",
+          "label": "Δείτε περισσότερα"
+        },
+        {
+          "href": "http://pammakaristos-hosp.gr/to-nosokomeio/gastrenterologiko-iatreio/",
+          "label": "Δείτε περισσότερα"
+        },
+        {
+          "href": "http://pammakaristos-hosp.gr/to-nosokomeio/tmima-pyrinikis-iatrikis/",
+          "label": "Δείτε περισσότερα"
+        },
+        {
+          "href": "http://pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias-dikaiwmatwn/",
+          "label": "Δείτε περισσότερα"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-%ce%b4%ce%b9%ce%b5%ce%b8%ce%bd%ce%b5%cf%82-%cf%80%ce%b5%cf%81%ce%b9%ce%bf%ce%b4/",
+          "label": "ΔΗΜΟΣΙΕΥΣΗ ΑΡΘΡΟΥ ΣΤΟ “Διεθνές Περιοδικό Healthcare MDPI” ΑΠΟ ΤΗΝ ΚΟΙΝΩΝΙΚΗ ΥΠΗΡΕΣΙΑ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ΜΑΣ"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/2025/09/11/",
+          "label": "11/09/2025"
+        },
+        {
+          "href": "https://pammakaristos-hosp.gr/wp-content/uploads/2025/09/healthcare-13-01731-1.pdf",
+          "label": "Περισσότερα"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf/",
+          "label": "ΔΗΜΟΣΙΕΥΣΗ ΑΡΘΡΟΥ ΣΤΟ “Discover Health Systems” ΑΠΟ ΤΗΝ ΚΟΙΝΩΝΙΚΗ ΥΠΗΡΕΣΙΑ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ΜΑΣ"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/2024/12/11/",
+          "label": "11/12/2024"
+        },
+        {
+          "href": "https://pammakaristos-hosp.gr/wp-content/uploads/2024/12/Mimarakis-et-all._DHS.pdf",
+          "label": "Περισσότερα"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%cf%83%cf%85%cf%83%cf%84%ce%b7%ce%bc%ce%b1%cf%84%ce%b1-%ce%ba%ce%b1%cf%84%ce%b1%ce%b3%cf%81%ce%b1%cf%86%ce%b7%cf%83-%cf%80%ce%b5%cf%81%ce%b9%ce%b2%ce%b1%ce%bb%ce%bb%ce%bf%ce%bd%cf%84%ce%b9%ce%ba%cf%89/",
+          "label": "ΣΥΣΤΗΜΑΤΑ ΚΑΤΑΓΡΑΦΗΣ ΠΕΡΙΒΑΛΛΟΝΤΙΚΩΝ ΣΥΝΘΗΚΩΝ"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/2024/04/04/",
+          "label": "04/04/2024"
+        },
+        {
+          "href": "https://pammakaristos-hosp.gr/%cf%83%cf%85%cf%83%cf%84%ce%b7%ce%bc%ce%b1%cf%84%ce%b1-%ce%ba%ce%b1%cf%84%ce%b1%ce%b3%cf%81%ce%b1%cf%86%ce%b7%cf%83-%cf%80%ce%b5%cf%81%ce%b9%ce%b2%ce%b1%ce%bb%ce%bb%ce%bf%ce%bd%cf%84%ce%b9%ce%ba%cf%89/",
+          "label": "Περισσότερα"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%b9%ce%b5%cf%83-%cf%83%cf%85%ce%bd%cf%84%ce%b7%cf%81%ce%b7%cf%83%ce%b7%cf%83-%ce%ba%ce%b1%ce%b9-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%cf%84%ce%b1%cf%83%cf%84%ce%b1%cf%83/",
+          "label": "ΕΡΓΑΣΙΕΣ ΣΥΝΤΗΡΗΣΗΣ ΚΑΙ ΑΠΟΚΑΤΑΣΤΑΣΗΣ ΤΟΥ ΚΤΙΡΙΟΥ"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/2024/04/01/",
+          "label": "01/04/2024"
+        },
+        {
+          "href": "https://pammakaristos-hosp.gr/?p=60978&preview=true",
+          "label": "Περισσότερα"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%b1%ce%bd%cf%84%ce%b9%ce%ba%ce%b1%cf%84%ce%b1%cf%83%cf%84%ce%b1%cf%83%ce%b7-%cf%86%ce%b8%ce%b1%cf%81%ce%bc%ce%b5%ce%bd%cf%89%ce%bd-%ce%b4%ce%b1%cf%80%ce%b5%ce%b4%cf%89%ce%bd/",
+          "label": "ΑΝΤΙΚΑΤΑΣΤΑΣΗ ΦΘΑΡΜΕΝΩΝ ΔΑΠΕΔΩΝ"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/2024/01/14/",
+          "label": "14/01/2024"
+        },
+        {
+          "href": "https://pammakaristos-hosp.gr/%ce%b1%ce%bd%cf%84%ce%b9%ce%ba%ce%b1%cf%84%ce%b1%cf%83%cf%84%ce%b1%cf%83%ce%b7-%cf%86%ce%b8%ce%b1%cf%81%ce%bc%ce%b5%ce%bd%cf%89%ce%bd-%ce%b4%ce%b1%cf%80%ce%b5%ce%b4%cf%89%ce%bd/",
+          "label": "Περισσότερα"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%cf%80%ce%b9%ce%bd%ce%b1%ce%ba%ce%b1%cf%83-%ce%b5%cf%80%ce%b9%ce%bb%ce%bf%ce%b3%ce%b7%cf%83-%cf%85%cf%80%ce%bf%cf%88%ce%b7%cf%86%ce%b9%ce%bf%cf%85-%ce%b3%ce%b9%ce%b1-%ce%b8%ce%b5%cf%83%ce%b7-%ce%b5-2/",
+          "label": "ΠΙΝΑΚΑΣ ΕΠΙΛΟΓΗΣ ΥΠΟΨΗΦΙΟΥ ΓΙΑ ΘΕΣΗ ΕΠΙΜ. Α΄ ΑΚΤΙΝΟΔΙΑΓΝΩΣΤΙΚΗΣ"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/2023/12/14/",
+          "label": "14/12/2023"
+        },
+        {
+          "href": "https://pammakaristos-hosp.gr/wp-content/uploads/2023/12/%CE%A0%CE%99%CE%9D%CE%91%CE%9A%CE%91%CE%A3-%CE%95%CE%A0%CE%99%CE%9B%CE%9F%CE%93%CE%97%CE%A3-%CE%A5%CE%A0%CE%9F%CE%A8%CE%97%CE%A6%CE%99%CE%9F%CE%A5-%CE%95%CE%91-%CE%91%CE%9A%CE%A4%CE%99%CE%9D%CE%9F%CE%94%CE%99%CE%91%CE%93%CE%9D%CE%A9%CE%A3%CE%A4%CE%99%CE%9A%CE%97%CE%A3.pdf",
+          "label": "Περισσότερα"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/nea-draseis/prosexeis-efimeries/",
+          "label": "Εφημερίες"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/plirofories-episkeptiriou/",
+          "label": "Πληροφορίες Επισκεπτηρίου"
+        },
+        {
+          "href": "https://pammakaristos-hosp.gr/%ce%b5%cf%83%cf%80%ce%b1-2014-2020/"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.pammakaristos-hosp.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Go!"
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "text",
+              "label": "Type and hit enter …",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "2102011091 - 2102019091",
+          "213 2042100",
+          "2014-2020",
+          "23/11/2024",
+          "44250-024-00159-6",
+          "34170/31.07.2020",
+          "2627282930311234567891011121314151617181920212223242526272829303112345",
+          "11/09/2025",
+          "11/12/2024",
+          "87002911"
+        ],
+        "emails": [
+          "info@pammakaristos-hosp.gr"
+        ],
+        "addresses": [
+          "Ιακωβάτων 43, Τ.Κ. 11144, Αθήνα",
+          "Το Νοσοκομείο Στα κτίρια του σημερινού Νοσοκομείου «ΠΑΜΜΑΚΑΡΙΣΤΟΣ», στη δεκαετία του 1930, λειτούργησε πρότυπο Δημοτικό Σχολείο με τη διεύθυνση των μοναχών της Ιεράς Μονής «Παμμακαρίστου Θεοτόκου». ΕπικοινωνίαΤηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.grΏρες Επισκεπτηρίου Καθημερινά: 11:00 – 13:00 & 18:00 – 21:00 Μονάδα Εμφραγμάτων: 12:00 – 12:30 & 18:00 – 18:30 Χρήσιμοι ΣύνδεσμοιΕφημερίες Πληροφορίες Επισκεπτηρίου Βρείτε μας στον χάρτη Εφημερεύοντα Νοσοκομεία Ⓒ ΠΑΜΜΑΚΑΡΙΣΤΟΣ 2023. All rights reserved. | Powered by CONNE3ION",
+          "ΕπικοινωνίαΤηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.gr",
+          "Τηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.gr"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/WordPress.Premium.Theme/",
+            "label": "Facebook"
+          },
+          {
+            "href": "https://twitter.com/premium_theme",
+            "label": "Twitter"
+          },
+          {
+            "href": "https://www.instagram.com/dream_theme_photo/",
+            "label": "Instagram"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.pammakaristos-hosp.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Go!"
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "text",
+                "label": "Type and hit enter …",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Το Νοσοκομείο Στα κτίρια του σημερινού Νοσοκομείου «ΠΑΜΜΑΚΑΡΙΣΤΟΣ», στη δεκαετία του 1930, λειτούργησε πρότυπο Δημοτικό Σχολείο με τη διεύθυνση των μοναχών της Ιεράς Μονής «Παμμακαρίστου Θεοτόκου». ΕπικοινωνίαΤηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.grΏρες Επισκεπτηρίου Καθημερινά: 11:00 – 13:00 & 18:00 – 21:00 Μονάδα Εμφραγμάτων: 12:00 – 12:30 & 18:00 – 18:30 Χρήσιμοι ΣύνδεσμοιΕφημερίες Πληροφορίες Επισκεπτηρίου Βρείτε μας στον χάρτη Εφημερεύοντα Νοσοκομεία Ⓒ ΠΑΜΜΑΚΑΡΙΣΤΟΣ 2023. All rights reserved. | Powered by CONNE3ION",
+      "textContent": "Skip to content FacebookTwitterPinterestInstagramΡαντεβού Εξωτερικών Ιατρείων: 2102011091 - 2102019091 Search: Αναζήτηση Παμμακάριστος Νοσοκομείο Θείας Πρόνοιας \"Η Παμμακάριστος\" Τηλεφωνικό Κέντρο: 213 2042100Ιακωβάτων 43, Τ.Κ. 11144, Αθήνα Ιακωβάτων 43Τ.Κ. 11144, Αθήνα Τηλεφωνικό Κέντρο: 213 2042100 Αρχική Το ΝοσοκομείοΙστορικό Οργανόγραμμα Για τον ΠολίτηΔιαδικασία Εισαγωγής Δικαιώματα Υποχρεώσεις Εργαστηριακές ΕξετάσειςΕργαστηριακές Εξετάσεις Αιματολογικό Ακτινοδιαγνωστικό Βιοχημικό Καρδιολογικό Μικροβιολογικό Πυρηνική Ιατρική Πρωινά Ιατρεία Απογευματινά Ιατρεία Βεβαιώσεις – Ενημέρωση Γραφείο Προστασίας Δικαιωμάτων Ληπτών Υπηρεσιών Υγείας Νέα – ΔράσειςΑνακοινώσεις Εφημερίες Δελτία Τύπου Λίστα Χειρουργείου ΠροκηρύξειςΠροκηρύξεις Διαβούλευση Τεχνικών Προδιαγραφών Σύνδεσμοι ΥγείαςΣυμμετοχή στην Έρευνα: Διερεύνηση της ικανοποίησης των πολιτών από τις Πρωτοβάθμιες και Δευτεροβάθμιες Μονάδες Υγείας Ιατρικοί & Φαρμακευτικοί Σύλλογοι Σύνδεσμοι Υγείας Ιατρικές Εταιρείες Επικοινωνία Η Ευρώπη σου ΕΣΠΑ 2014-2020 Εκπαίδευση & ΈρευναΒιβλιοθήκη Επιστημονικό Συμβούλιο Ιατρική Εκπαίδευση Νοσηλευτική Εκπαίδευση Επιτροπή Νοσοκομειακών Λοιμώξεων Πρωτόκολλα-Μελέτες ΠολιτικέςΠροστασία προσώπων που αναφέρουν παραβιάσεις του Ενωσιακού Δικαίου Πρόληψη και αντιμετώπιση περιστατικών βίας και παρενόχλησης στο χώρο εργασίας Πολιτική Προστασίας Προσωπικών Δεδομένων (GDPR) Eνημέρωση για την επεξεργασία προσωπικών δεδομένων υποψηφίων/προσφερόντων Αρχική Το ΝοσοκομείοΙστορικό Οργανόγραμμα Για τον ΠολίτηΔιαδικασία Εισαγωγής Δικαιώματα Υποχρεώσεις Εργαστηριακές ΕξετάσειςΕργαστηριακές Εξετάσεις Αιματολογικό Ακτινοδιαγνωστικό Βιοχημικό Καρδιολογικό Μικροβιολογικό Πυρηνική Ιατρική Πρωινά Ιατρεία Απογευματινά Ιατρεία Βεβαιώσεις – Ενημέρωση Γραφείο Προστασίας Δικαιωμάτων Ληπτών Υπηρεσιών Υγείας Νέα – ΔράσειςΑνακοινώσεις Εφημερίες Δελτία Τύπου Λίστα Χειρουργείου ΠροκηρύξειςΠροκηρύξεις Διαβούλευση Τεχνικών Προδιαγραφών Σύνδεσμοι ΥγείαςΣυμμετοχή στην Έρευνα: Διερεύνηση της ικανοποίησης των πολιτών από τις Πρωτοβάθμιες και Δευτεροβάθμιες Μονάδες Υγείας Ιατρικοί & Φαρμακευτικοί Σύλλογοι Σύνδεσμοι Υγείας Ιατρικές Εταιρείες Επικοινωνία Η Ευρώπη σου ΕΣΠΑ 2014-2020 Εκπαίδευση & ΈρευναΒιβλιοθήκη Επιστημονικό Συμβούλιο Ιατρική Εκπαίδευση Νοσηλευτική Εκπαίδευση Επιτροπή Νοσοκομειακών Λοιμώξεων Πρωτόκολλα-Μελέτες ΠολιτικέςΠροστασία προσώπων που αναφέρουν παραβιάσεις του Ενωσιακού Δικαίου Πρόληψη και αντιμετώπιση περιστατικών βίας και παρενόχλησης στο χώρο εργασίας Πολιτική Προστασίας Προσωπικών Δεδομένων (GDPR) Eνημέρωση για την επεξεργασία προσωπικών δεδομένων υποψηφίων/προσφερόντων Δείτε περισσότερα ΔΗΜΟΣΙΕΥΣΗ ΑΡΘΡΟΥ Με χαρά σας γνωρίζουμε πως δημοσιεύτηκε στο Περιοδικό “Discover Health Systems” το άρθρο με τίτλο ¨Socioeconomic, health status and hospitalization aspects of adult patients referred to the social service of a tertiary hospital¨ που διερευνά το κοινωνικοδημογραφικό προφίλ και τις ιδιαίτερες ψυχοκοινωνικές και οικονομικές ανάγκες των ασθενών που απευθύνονται στην Κοινωνική Υπηρεσία του Νοσοκομείου μας. Η εν λόγω μελέτη αποτέλεσε πρωτοβουλία και πνευματικό έργο των στελεχών της Κοινωνικής Υπηρεσίας του Νοσοκομείου μας, Δρ. Δημήτριο Μιμαράκη και Κα Ευανθία Προβιδάκη, μετά τις σχετικές επίσημες αδειοδοτήσεις του Νοσοκομείου μας. Το περιεχόμενο ωστόσο του εν λόγω επιστημονικού άρθρου παρουσιάστηκε σε προφορική εισήγηση υπό τον τίτλο “Κοινωνική εργασία στην Υγεία – από το πεδίο στην έρευνα. Μελέτη του κοινωνικού προφίλ και των ιδιαίτερων αναγκών των ασθενών που παραπέμπονται στην Κοινωνική Υπηρεσία Γενικού Νοσοκομείου” από τον Κο Μιμαράκη Δημήτριο, στο Διεθνές Συνέδριο «Κοινωνική εργασία στην εποχή των «ρευστών βεβαιοτήτων»: Συνδέοντας την εμπειρία από το πεδίο με την έρευνα¨ που πραγματοποιήθηκε στο Πανεπιστήμιο Δυτικής Αττικής στις 22 και 23/11/2024. Για περισσότερες πληροφορίες παρακαλούνται οι ενδιαφερόμενοι να ανατρέξουν στον ακόλουθο σύνδεσμο: https://link.springer.com/article/10.1007/s44250-024-00159-6 Δείτε περισσότερα Εγκατάσταση και λειτουργία του συστήματος ΑΡΧΕΙΟΘΕΤΗΣΗΣ ΚΑΙ ΕΠΕΞΕΡΓΑΣΙΑΣ EIKONΩN(PACS) Δείτε περισσότερα Δείτε περισσότερα HEALTHCARE BUSINESS AWARDS 2020 Δείτε περισσότερα ΑΝΑΚΟΙΝΩΣΗ Βάσει της υπ.αριθμ.34170/31.07.2020 Εγκυκλίου του Υπουργείου Υγείας με Οδηγίες προς Νοσοκομεία για το Επισκεπτήριο/Παραμονή Συνοδού σε Ασθενείς και Είσοδο/Παραμονή Ιατρικών Επισκεπτών. Αναστέλλεται το επισκεπτήριο και όπου κρίνεται αναγκαίο, δύναται να υπάρχει ένας συνοδός στον οποίο θα δίνεται ειδική άδεια από την Διοίκηση του Νοσοκομείου. ΔΕΝ ΕΠΙΤΡΕΠΕΤΑΙ η παραμονή στο νοσοκομείο συνοδών που παρουσιάζουν οποιοδήποτε σύμπτωμα λοίμωξης ανωτέρου αναπνευστικού (πυρετός, δεκατική κίνηση, βήχας, φαρυγγαλγία, ρινική καταρροή). Δεν επιτρέπεται η επίσκεψη των ιατρικών επισκεπτών στις νοσηλευτικές μονάδες. Σε εξαιρετικές περιπτώσεις όπου αυτό είναι απαραίτητο, θα πρέπει να υπάρχει ειδική έγκριση από τη Διοίκηση του Νοσοκομείου, κατόπιν εισήγησης του Διευθυντή Ιατρικής Υπηρεσίας. ΜΕ ΑΛΗΘΙΝΗ ΑΦΟΣΙΩΣΗ ΣΤΗ ΘΕΡΑΠΕΙΑ ΣΑΣ Υπηρεσίες υγείας υψηλού επιπέδου Δείτε περισσότερα Το νοσοκομείο μας παρέχει κορυφαίου επιπέδου υπηρεσίες υγείας, αξιοποιώντας την υψηλή τεχνογνωσία και την μακρόχρονη επιστημονική εμπειρία των στελεχών του. ΔΙΑΓΝΩΣΤΙΚΕΣ ΚΑΙ ΕΠΕΜΒΑΤΙΚΕΣ ΕΝΔΟΣΚΟΠΗΣΕΙΣ Γαστρεντερολογικό Ιατρείο και Εργαστήριο Ενδοσκοπήσεων Δείτε περισσότερα Το Γαστρεντερολογικό Τμήμα παρέχει ολοκληρωμένη διαγνωστική, νοσηλευτική και θεραπευτική φροντίδα στο σύνολο των ασθενών με παθήσεις του πεπτικού συστήματος ΠΥΡΗΝΙΚΗΣ ΙΑΤΡΙΚΗΣ Τμήμα Δείτε περισσότερα Εφοδιασμένο με δικέφαλη γ-Camera Siemens E CAM, έχει την δυνατότητα να εκτελεί σπινθηρογραφήματα μυοκαρδίου, οστών, αιματώσεως πνευμόνων, θυρεοειδούς και παραθυρεοειδών var htmlDiv = document.getElementById(\"rs-plugin-settings-inline-css\"); var htmlDivCss=\"\"; if(htmlDiv) { htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss; }else{ var htmlDiv = document.createElement(\"div\"); htmlDiv.innerHTML = \"<style>\" + htmlDivCss + \"</style>\"; document.getElementsByTagName(\"head\")[0].appendChild(htmlDiv.childNodes[0]); } var htmlDiv = document.getElementById(\"rs-plugin-settings-inline-css\"); var htmlDivCss=\"\"; if(htmlDiv) { htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss; }else{ var htmlDiv = document.createElement(\"div\"); htmlDiv.innerHTML = \"<style>\" + htmlDivCss + \"</style>\"; document.getElementsByTagName(\"head\")[0].appendChild(htmlDiv.childNodes[0]); } if (setREVStartSize!==undefined) setREVStartSize( {c: '#rev_slider_1_1', responsiveLevels: [1240,1024,778,480], gridwidth: [1240,1024,778,480], gridheight: [500,500,400,300], sliderLayout: 'auto'}); var revapi1, tpj; (function() { if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener(\"DOMContentLoaded\",onLoad); else onLoad(); function onLoad() { if (tpj===undefined) { tpj = jQuery; if(\"off\" == \"on\") tpj.noConflict();} if(tpj(\"#rev_slider_1_1\").revolution == undefined){ revslider_showDoubleJqueryError(\"#rev_slider_1_1\"); }else{ revapi1 = tpj(\"#rev_slider_1_1\").show().revolution({ sliderType:\"standard\", jsFileLocation:\"//www.pammakaristos-hosp.gr/wp-content/plugins/revslider/public/assets/js/\", sliderLayout:\"auto\", dottedOverlay:\"none\", delay:9000, navigation: { keyboardNavigation:\"off\", keyboard_direction: \"horizontal\", mouseScrollNavigation:\"off\", mouseScrollReverse:\"default\", onHoverStop:\"on\", touch:{ touchenabled:\"on\", touchOnDesktop:\"off\", swipe_threshold: 75, swipe_min_touches: 50, swipe_direction: \"horizontal\", drag_block_vertical: false } , arrows: { style:\"hesperiden\", enable:true, hide_onmobile:true, hide_under:600, hide_onleave:true, hide_delay:200, hide_delay_mobile:1200, tmp:'', left: { h_align:\"left\", v_align:\"center\", h_offset:30, v_offset:0 }, right: { h_align:\"right\", v_align:\"center\", h_offset:30, v_offset:0 } } }, responsiveLevels:[1240,1024,778,480], visibilityLevels:[1240,1024,778,480], gridwidth:[1240,1024,778,480], gridheight:[500,500,400,300], lazyType:\"smart\", parallax: { type:\"mouse\", origo:\"slidercenter\", speed:2000, speedbg:0, speedls:0, levels:[2,3,4,5,6,7,12,16,10,50,47,48,49,50,51,55], }, shadow:0, spinner:\"off\", stopLoop:\"off\", stopAfterLoops:-1, stopAtSlide:-1, shuffle:\"off\", autoHeight:\"off\", hideThumbsOnMobile:\"off\", hideSliderAtLimit:0, hideCaptionAtLimit:0, hideAllCaptionAtLilmit:0, debugMode:false, fallbacks: { simplifyAll:\"off\", nextSlideOnWindowFocus:\"off\", disableFocusListener:false, } }); }; /* END OF revapi call */ }; /* END OF ON LOAD FUNCTION */ }()); /* END OF WRAPPING FUNCTION */ var htmlDivCss = unescape(\".hesperiden.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A40px%3B%0A%09height%3A40px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A100%3B%0A%20%20%20%20border-radius%3A%2050%25%3B%0A%7D%0A.hesperiden.tparrows%3Ahover%20%7B%0A%09background%3Argba%280%2C%200%2C%200%2C%201%29%3B%0A%7D%0A.hesperiden.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%22revicons%22%3B%0A%09font-size%3A20px%3B%0A%09color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%2040px%3B%0A%09text-align%3A%20center%3B%0A%7D%0A.hesperiden.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82c%22%3B%0A%20%20%20%20margin-left%3A-3px%3B%0A%7D%0A.hesperiden.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82d%22%3B%0A%20%20%20%20margin-right%3A-3px%3B%0A%7D%0A\"); var htmlDiv = document.getElementById('rs-plugin-settings-inline-css'); if(htmlDiv) { htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss; } else{ var htmlDiv = document.createElement('div'); htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>'; document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]); } Ημερολόγιo Εφημεριών Μάρτιος 2026Απρίλιος MOTUWETHFRSASU 2627282930311234567891011121314151617181920212223242526272829303112345 Ώρες ΕπισκεπτηρίουΚαθημερινά: 11:00 – 13:00 & 18:00 – 21:00 Μονάδα Εμφραγμάτων: 12:00 – 12:30 & 18:00 – 18:30 ΠρόσβασηΠώς θα φθάσετε στο Νοσοκομείο…Βρείτε μας στον χάρτη Εφημερεύοντα ΝοσοκομείαΔείτε ποια νοσοκομεία εφημερεύουν…ΠερισσότεραΓραφείο Προστασίας Δικαιωμάτων Ληπτών Υπηρεσιών Υγείας (ΓΠΔ)Οι δημόσιες υπηρεσίες υγείας έχουν σκοπό την εξασφάλιση του δικαιώματος των πολιτών να αντιμετωπίσουν τα προβλήματα της υγείας τους μέσα από διαδικασίες που εξασφαλίζουν την παροχή υπηρεσιών υψηλού επιπέδου, με σεβασμό στην ανθρώπινη αξιοπρέπεια.Γραφείο Προστασίας Δικαιωμάτων Ληπτών Υπηρεσιών Υγείας (ΓΠΔ)Οι δημόσιες υπηρεσίες υγείας έχουν σκοπό την εξασφάλιση του δικαιώματος των πολιτών να αντιμετωπίσουν τα προβλήματα της υγείας τους μέσα από διαδικασίες που εξασφαλίζουν την παροχή υπηρεσιών υψηλού επιπέδου, με σεβασμό στην ανθρώπινη αξιοπρέπεια.Δείτε περισσότεραΔείτε περισσότεραΝέα - Ανακοινώσεις.blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.content-bg-on.classic-layout-list article { background: #ffffff; -webkit-box-shadow: none; box-shadow: none; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.dividers-on.classic-layout-list article { margin-top: ; padding-top: 0; border-color: ; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.dividers-on.classic-layout-list article:first-of-type { margin-top: 0; padding-top: 0; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.classic-layout-list.mode-list .post-thumbnail-wrap { width: ; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.classic-layout-list.mode-list .post-entry-content { width: calc(100% - ); } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.classic-layout-list.mode-list .no-img .post-entry-content { width: 100%; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .filter-bg-decoration .filter-categories a.act { color: #fff; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821:not(.mode-masonry) article { margin-top: ; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821:not(.mode-masonry) article:first-of-type, .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821:not(.mode-masonry) article.visible.first:not(.product) { margin-top: 0; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.dividers-on:not(.mode-masonry) article { margin-top: 0; padding-top: ; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.dividers-on:not(.mode-masonry) article:first-of-type, .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.dividers-on:not(.mode-masonry) article.visible.first:not(.product) { margin-top: 0; padding-top: 0; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .post-thumbnail-wrap { padding: 0px 0px 0px 0px; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.enable-bg-rollover .post-thumbnail-rollover:after { background: ; background: -webkit-linear-gradient(); background: linear-gradient(); } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .gallery-zoom-ico { width: 44px; height: 44px; line-height: 44px; border-radius: 100px; margin: -22px 0 0 -22px; border-width: 0px; color: #ffffff; background: none; } .bottom-overlap-layout-list.blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .gallery-zoom-ico { margin-top: -72px; } .gradient-overlay-layout-list.blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .gallery-zoom-ico, .content-rollover-layout-list.blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .gallery-zoom-ico { margin: 0 0 10px; } .content-align-center.gradient-overlay-layout-list.blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .gallery-zoom-ico, .content-align-center.content-rollover-layout-list.blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .gallery-zoom-ico { margin: 0 auto 10px; } .dt-icon-bg-on.blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .gallery-zoom-ico { background: rgba(255,255,255,0.3); -webkit-box-shadow: none; box-shadow: none; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .gallery-zoom-ico > span, .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .gallery-zoom-ico:before { font-size: 32px; line-height: 44px; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .gallery-zoom-ico > span, .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .gallery-zoom-ico:before { color: #ffffff; background: none; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .entry-title, .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.owl-carousel .entry-title { margin-bottom: 5px; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .entry-meta { margin-bottom: 15px; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .portfolio-categories { margin-bottom: 15px; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .entry-excerpt { margin-bottom: 5px; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821:not(.centered-layout-list) .post-entry-content { padding: 15px 20px 20px 20px; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821:not(.centered-layout-list):not(.content-bg-on):not(.mode-list) .no-img .post-entry-content { padding: 0; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.content-bg-on:not(.classic-layout-list):not(.centered-layout-list) .post-entry-content { background: #ffffff; -webkit-box-shadow: none; box-shadow: none; } @media screen and (max-width: ) { .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 article { -webkit-flex-flow: column nowrap; -moz-flex-flow: column nowrap; -ms-flex-flow: column nowrap; flex-flow: column nowrap; margin-top: 20px; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.dividers-on article { border: none; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.content-bg-on.centered-layout-list article { padding: 0; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.blog-shortcode.dividers-on article, .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.dividers-on.classic-layout-list article { margin-top: 20px; padding: 0; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.blog-shortcode.dividers-on article:first-of-type, .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.dividers-on.classic-layout-list article:first-of-type { padding: 0; } #page .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .post-thumbnail-wrap, #page .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .post-entry-content { width: 100%; margin: 0; top: 0; } #page .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .post-thumbnail-wrap { padding: 0; } #page .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .post-entry-content:after { display: none; } #page .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .project-even .post-thumbnail-wrap, #page .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.centered-layout-list .post-thumbnail-wrap { -webkit-order: 0; -moz-order: 0; -ms-flex-order: 0; order: 0; } #page .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.centered-layout-list .post-entry-title-content { -webkit-order: 1; -moz-order: 1; -ms-flex-order: 1; order: 1; width: 100%; padding: 20px 20px 0; } #page .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.centered-layout-list .post-entry-content { -webkit-order: 2; -moz-order: 2; -ms-flex-order: 2; order: 2; padding-top: 0; } #page .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .fancy-categories { top: 10px; left: 10px; bottom: auto; right: auto; } #page .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .fancy-date a { top: 10px; right: 10px; left: auto; bottom: auto; } #page .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .post-entry-content { padding: 20px; } #page .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .entry-title { margin: 3px 0 5px; font-size: 20px; line-height: 26px; } #page .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .entry-meta { margin: 5px 0 5px; } #page .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .entry-excerpt { margin: 15px 0 0; } #page .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .post-details { margin: 5px 0 10px; } #page .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .post-details.details-type-link { margin-bottom: 2px; } } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .owl-nav a { width: 36px; height: 36px; border-radius: 500px; } .dt-arrow-border-on.blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .owl-nav a:not(:hover):before { border-width: 0px; } .dt-arrow-hover-border-on.blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .owl-nav a:hover:after { border-width: 0px; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .owl-nav a.owl-prev { top: 50%; transform: translateY(calc(-50% + 0px)); left: -43px; } @media all and (-ms-high-contrast: none) { .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .owl-nav a.owl-prev { transform: translateY(-50%); margin-top: 0px; } } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .owl-nav a.owl-prev i { padding: 0px 0px 0px 0px; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .owl-nav a.owl-next { top: 50%; transform: translateY(calc(-50% + 0px)); right: -43px; } @media all and (-ms-high-contrast: none) { .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .owl-nav a.owl-next { transform: translateY(-50%); margin-top: 0px; } } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .owl-nav a.owl-next i { padding: 0px 0px 0px 0px; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .owl-nav i { font-size: 18px; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .owl-nav a:not(:hover) i, .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .owl-nav a:not(:hover) i:before { color: #ffffff; background: none; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .owl-nav a:hover i, .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .owl-nav a:hover i:before { color: rgba(255,255,255,0.75); background: none; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .owl-dots { top: calc(100% + 20px); left: 50%; transform: translateX(calc(-50% + 0px)); } @media all and (-ms-high-contrast: none) { .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .owl-dots { transform: translateX(-50%); margin-left: 0px; } } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821 .owl-dot { width: 10px; height: 10px; margin: 0 8px; } @media screen and (max-width: 778px) { .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.hide-arrows .owl-nav a { display: none; } } @media screen and (max-width: 778px) { .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.reposition-arrows .owl-nav .owl-prev { top: 50%; transform: translateY(calc(-50% + 0px)); left: 10px; } .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.reposition-arrows .owl-nav .owl-next { top: 50%; transform: translateY(calc(-50% + 0px)); right: 10px; } } @media screen and (max-width: 778px) and all and (-ms-high-contrast: none) { .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.reposition-arrows .owl-nav .owl-prev { transform: translateY(-50%); margin-top: 0px; } } @media screen and (max-width: 778px) and all and (-ms-high-contrast: none) { .blog-carousel-shortcode.blog-carousel-shortcode-id-c2602520c40c20f8751e4f949c4ca821.reposition-arrows .owl-nav .owl-next { transform: translateY(-50%); margin-top: 0px; } } ΔΗΜΟΣΙΕΥΣΗ ΑΡΘΡΟΥ ΣΤΟ “Διεθνές Περιοδικό Healthcare MDPI” ΑΠΟ ΤΗΝ ΚΟΙΝΩΝΙΚΗ ΥΠΗΡΕΣΙΑ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ΜΑΣ 11/09/2025 #default-btn-d98d01b8564f522f66babe494f406765:not(:hover).default-btn-bg-off { background: none; } #default-btn-d98d01b8564f522f66babe494f406765:hover.default-btn-bg-hover-off { background: none; } #default-btn-d98d01b8564f522f66babe494f406765 > i { font-size: 11px; } #default-btn-d98d01b8564f522f66babe494f406765 * { vertical-align: middle; } Περισσότερα ΔΗΜΟΣΙΕΥΣΗ ΑΡΘΡΟΥ ΣΤΟ “Discover Health Systems” ΑΠΟ ΤΗΝ ΚΟΙΝΩΝΙΚΗ ΥΠΗΡΕΣΙΑ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ΜΑΣ 11/12/2024 #default-btn-0eab3a87002911a51d00c4d456ab9050:not(:hover).default-btn-bg-off { background: none; } #default-btn-0eab3a87002911a51d00c4d456ab9050:hover.default-btn-bg-hover-off { background: none; } #default-btn-0eab3a87002911a51d00c4d456ab9050 > i { font-size: 11px; } #default-btn-0eab3a87002911a51d00c4d456ab9050 * { vertical-align: middle; } Περισσότερα ΣΥΣΤΗΜΑΤΑ ΚΑΤΑΓΡΑΦΗΣ ΠΕΡΙΒΑΛΛΟΝΤΙΚΩΝ ΣΥΝΘΗΚΩΝ 04/04/2024 #default-btn-a655a1943564e599c65f09748caea62e:not(:hover).default-btn-bg-off { background: none; } #default-btn-a655a1943564e599c65f09748caea62e:hover.default-btn-bg-hover-off { background: none; } #default-btn-a655a1943564e599c65f09748caea62e > i { font-size: 11px; } #default-btn-a655a1943564e599c65f09748caea62e * { vertical-align: middle; } Περισσότερα ΕΡΓΑΣΙΕΣ ΣΥΝΤΗΡΗΣΗΣ ΚΑΙ ΑΠΟΚΑΤΑΣΤΑΣΗΣ ΤΟΥ ΚΤΙΡΙΟΥ 01/04/2024 #default-btn-f34bc8b48f08fdd60ac629ef1eeaa306:not(:hover).default-btn-bg-off { background: none; } #default-btn-f34bc8b48f08fdd60ac629ef1eeaa306:hover.default-btn-bg-hover-off { background: none; } #default-btn-f34bc8b48f08fdd60ac629ef1eeaa306 > i { font-size: 11px; } #default-btn-f34bc8b48f08fdd60ac629ef1eeaa306 * { vertical-align: middle; } Περισσότερα ΑΝΤΙΚΑΤΑΣΤΑΣΗ ΦΘΑΡΜΕΝΩΝ ΔΑΠΕΔΩΝ 14/01/2024 #default-btn-3a290e2236428edbf37a31b767cf0782:not(:hover).default-btn-bg-off { background: none; } #default-btn-3a290e2236428edbf37a31b767cf0782:hover.default-btn-bg-hover-off { background: none; } #default-btn-3a290e2236428edbf37a31b767cf0782 > i { font-size: 11px; } #default-btn-3a290e2236428edbf37a31b767cf0782 * { vertical-align: middle; } Περισσότερα ΠΙΝΑΚΑΣ ΕΠΙΛΟΓΗΣ ΥΠΟΨΗΦΙΟΥ ΓΙΑ ΘΕΣΗ ΕΠΙΜ. Α΄ ΑΚΤΙΝΟΔΙΑΓΝΩΣΤΙΚΗΣ 14/12/2023 #default-btn-e44a50d2132a96983133be880607c413:not(:hover).default-btn-bg-off { background: none; } #default-btn-e44a50d2132a96983133be880607c413:hover.default-btn-bg-hover-off { background: none; } #default-btn-e44a50d2132a96983133be880607c413 > i { font-size: 11px; } #default-btn-e44a50d2132a96983133be880607c413 * { vertical-align: middle; } Περισσότερα Το Νοσοκομείο Στα κτίρια του σημερινού Νοσοκομείου «ΠΑΜΜΑΚΑΡΙΣΤΟΣ», στη δεκαετία του 1930, λειτούργησε πρότυπο Δημοτικό Σχολείο με τη διεύθυνση των μοναχών της Ιεράς Μονής «Παμμακαρίστου Θεοτόκου». ΕπικοινωνίαΤηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.grΏρες Επισκεπτηρίου Καθημερινά: 11:00 – 13:00 & 18:00 – 21:00 Μονάδα Εμφραγμάτων: 12:00 – 12:30 & 18:00 – 18:30 Χρήσιμοι ΣύνδεσμοιΕφημερίες Πληροφορίες Επισκεπτηρίου Βρείτε μας στον χάρτη Εφημερεύοντα Νοσοκομεία Ⓒ ΠΑΜΜΑΚΑΡΙΣΤΟΣ 2023. All rights reserved. | Powered by CONNE3ION Go to Top {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/dt-the7/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} const abmsg = \"We noticed an ad blocker. Consider whitelisting us to support the site ❤️\"; const abmsgd = \"download\"; const iswpdmpropage = 0; jQuery(function($){ }); #notification-60957::before{background-image:url()}#notification-60957 .hthb-notification-content{margin: }#notification-60957 .hthb-notification-content{padding: }#notification-60957 .hthb-notification-content .ht_btn{margin: }#notification-60957 .hthb-notification-content .ht_btn{padding: }#notification-60957.hthb-state--open{height:px}#notification-60957 .hthb-open-toggle{display: none;}@media (max-width: 768px){ #notification-60957.hthb-state--open{height:px;} } <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-54XCR6C\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\" aria-hidden=\"true\"></iframe> function revslider_showDoubleJqueryError(sliderID) { var errorMessage = \"Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.\"; errorMessage += \"<br> This includes make eliminates the revolution slider libraries, and make it not work.\"; errorMessage += \"<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option: <strong><b>Put JS Includes To Body</b></strong> option to true.\"; errorMessage += \"<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.\"; errorMessage = \"<span style='font-size:16px;color:#BC0C06;'>\" + errorMessage + \"</span>\"; jQuery(sliderID).show().html(errorMessage); } /* <![CDATA[ */ jQuery(function(jQuery){jQuery.datepicker.setDefaults({\"closeText\":\"\\u039a\\u03bb\\u03b5\\u03af\\u03c3\\u03b9\\u03bc\\u03bf\",\"currentText\":\"\\u03a3\\u03ae\\u03bc\\u03b5\\u03c1\\u03b1\",\"monthNames\":[\"\\u0399\\u03b1\\u03bd\\u03bf\\u03c5\\u03ac\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u03a6\\u03b5\\u03b2\\u03c1\\u03bf\\u03c5\\u03ac\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u039c\\u03ac\\u03c1\\u03c4\\u03b9\\u03bf\\u03c2\",\"\\u0391\\u03c0\\u03c1\\u03af\\u03bb\\u03b9\\u03bf\\u03c2\",\"\\u039c\\u03ac\\u03b9\\u03bf\\u03c2\",\"\\u0399\\u03bf\\u03cd\\u03bd\\u03b9\\u03bf\\u03c2\",\"\\u0399\\u03bf\\u03cd\\u03bb\\u03b9\\u03bf\\u03c2\",\"\\u0391\\u03cd\\u03b3\\u03bf\\u03c5\\u03c3\\u03c4\\u03bf\\u03c2\",\"\\u03a3\\u03b5\\u03c0\\u03c4\\u03ad\\u03bc\\u03b2\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u039f\\u03ba\\u03c4\\u03ce\\u03b2\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u039d\\u03bf\\u03ad\\u03bc\\u03b2\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u0394\\u03b5\\u03ba\\u03ad\\u03bc\\u03b2\\u03c1\\u03b9\\u03bf\\u03c2\"],\"monthNamesShort\":[\"\\u0399\\u03b1\\u03bd\",\"\\u03a6\\u03b5\\u03b2\",\"\\u039c\\u03b1\\u03c1\",\"\\u0391\\u03c0\\u03c1\",\"\\u039c\\u03ac\\u03b9\",\"\\u0399\\u03bf\\u03cd\\u03bd\",\"\\u0399\\u03bf\\u03cd\\u03bb\",\"\\u0391\\u03c5\\u03b3\",\"\\u03a3\\u03b5\\u03c0\",\"\\u039f\\u03ba\\u03c4\",\"\\u039d\\u03bf\\u03ad\",\"\\u0394\\u03b5\\u03ba\"],\"nextText\":\"\\u0395\\u03c0\\u03cc\\u03bc\\u03b5\\u03bd\\u03bf\",\"prevText\":\"\\u03a0\\u03c1\\u03bf\\u03b7\\u03b3\\u03bf\\u03cd\\u03bc\\u03b5\\u03bd\\u03b1\",\"dayNames\":[\"\\u039a\\u03c5\\u03c1\\u03b9\\u03b1\\u03ba\\u03ae\",\"\\u0394\\u03b5\\u03c5\\u03c4\\u03ad\\u03c1\\u03b1\",\"\\u03a4\\u03c1\\u03af\\u03c4\\u03b7\",\"\\u03a4\\u03b5\\u03c4\\u03ac\\u03c1\\u03c4\\u03b7\",\"\\u03a0\\u03ad\\u03bc\\u03c0\\u03c4\\u03b7\",\"\\u03a0\\u03b1\\u03c1\\u03b1\\u03c3\\u03ba\\u03b5\\u03c5\\u03ae\",\"\\u03a3\\u03ac\\u03b2\\u03b2\\u03b1\\u03c4\\u03bf\"],\"dayNamesShort\":[\"\\u039a\\u03c5\",\"\\u0394\\u03b5\",\"\\u03a4\\u03c1\",\"\\u03a4\\u03b5\",\"\\u03a0\\u03b5\",\"\\u03a0\\u03b1\",\"\\u03a3\\u03b1\"],\"dayNamesMin\":[\"\\u039a\",\"\\u0394\",\"\\u03a4\",\"\\u03a4\",\"\\u03a0\",\"\\u03a0\",\"\\u03a3\"],\"dateFormat\":\"dd/mm/yy\",\"firstDay\":1,\"isRTL\":false});}); //# sourceURL=jquery-ui-datepicker-js-after /* ]]> */ /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); //# sourceURL=wp-i18n-js-after /* ]]> */ /* <![CDATA[ */ ( function( domain, translations ) { var localeData = translations.locale_data[ domain ] || translations.locale_data.messages; localeData[\"\"].domain = domain; wp.i18n.setLocaleData( localeData, domain ); } )( \"contact-form-7\", {\"translation-revision-date\":\"2024-08-02 09:16:28+0000\",\"generator\":\"GlotPress\\/4.0.1\",\"domain\":\"messages\",\"locale_data\":{\"messages\":{\"\":{\"domain\":\"messages\",\"plural-forms\":\"nplurals=2; plural=n != 1;\",\"lang\":\"el_GR\"},\"This contact form is placed in the wrong place.\":[\"\\u0397 \\u03c6\\u03cc\\u03c1\\u03bc\\u03b1 \\u03b5\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03af\\u03b1\\u03c2 \\u03b5\\u03af\\u03bd\\u03b1\\u03b9 \\u03c3\\u03b5 \\u03bb\\u03ac\\u03b8\\u03bf\\u03c2 \\u03b8\\u03ad\\u03c3\\u03b7.\"],\"Error:\":[\"\\u03a3\\u03c6\\u03ac\\u03bb\\u03bc\\u03b1:\"]}},\"comment\":{\"reference\":\"includes\\/js\\/index.js\"}} ); //# sourceURL=contact-form-7-js-translations /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.pammakaristos-hosp.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; //# sourceURL=contact-form-7-js-before /* ]]> */ /* <![CDATA[ */ var hashbar_analytical = {\"ajaxurl\":\"https://www.pammakaristos-hosp.gr/wp-admin/admin-ajax.php\",\"nonce_key\":\"b5ea14a996\",\"enable_analytics\":\"\"}; //# sourceURL=hashbar-analytics-js-extra /* ]]> */ /* <![CDATA[ */ function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!=\"function\") {window.onload=e}else{window.onload=function() {t();e()}}}; var heateorSssSharingAjaxUrl = 'https://www.pammakaristos-hosp.gr/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://www.pammakaristos-hosp.gr/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://www.pammakaristos-hosp.gr/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = \"Link copied.\";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,\"popUpWindow\",\"height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status\")} //# sourceURL=heateor_sss_sharing_js-js-before /* ]]> */ {\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://www.pammakaristos-hosp.gr/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4\"}} /* <![CDATA[ */ /*! This file is auto-generated */ const a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://www.pammakaristos-hosp.gr/wp-includes/js/wp-emoji-loader.min.js /* ]]> */ jQuery(document).ready(function() { jQuery(\"#mec_monthly_view_month_59667_202603\").mecMonthlyView( { id: \"59667\", today: \"20260331\", display_all: \"0\", month_id: \"202603\", active_month: {year: \"2026\", month: \"03\"}, next_month: {year: \"2026\", month: \"04\"}, events_label: \"Events\", event_label: \"Event\", month_navigator: 1, atts: \"atts%5Blabel%5D=&atts%5Bcategory%5D=&atts%5Blocation%5D=&atts%5Borganizer%5D=&atts%5Btag%5D=&atts%5Bauthor%5D=&atts%5Bskin%5D=monthly_view&atts%5Bsk-options%5D%5Bmonthly_view%5D%5Bstyle%5D=simple&atts%5Bsk-options%5D%5Bmonthly_view%5D%5Bstart_date_type%5D=start_current_month&atts%5Bsk-options%5D%5Bmonthly_view%5D%5Bstart_date%5D=&atts%5Bsk-options%5D%5Bmonthly_view%5D%5Bnext_previous_button%5D=1&atts%5Bsk-options%5D%5Bmonthly_view%5D%5Bsed_method%5D=0&atts%5Bsk-options%5D%5Bmonthly_view%5D%5Bimage_popup%5D=0&atts%5Bsf_status%5D=0&atts%5Bsf_display_label%5D=&atts%5Bshow_past_events%5D=0&atts%5Bshow_only_past_events%5D=0&atts%5Bshow_only_ongoing_events%5D=0&atts%5Bid%5D=59667\", style: \"simple\", ajax_url: \"https://www.pammakaristos-hosp.gr/wp-admin/admin-ajax.php\", sed_method: \"0\", image_popup: \"0\", sf: { container: \"\", reset: 0, refine: 0, }, }); });",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/pammakaristos-hosp.gr-home-d094f8d3/homepage--d094f8d3.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/pammakaristos-hosp.gr-home-d094f8d3/homepage--d094f8d3.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.pammakaristos-hosp.gr/wp-content/uploads/2018/03/logo-main-dummy-dark.png",
+          "alt": "Παμμακάριστος",
+          "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.pammakaristos-hosp.gr/",
+              "retrievedAt": "2026-03-31T13:20:31.095Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.pammakaristos-hosp.gr/wp-content/uploads/2018/Logos/logo-small-dummy.png",
+          "alt": "Παμμακάριστος",
+          "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.pammakaristos-hosp.gr/",
+              "retrievedAt": "2026-03-31T13:20:31.095Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.pammakaristos-hosp.gr/wp-content/plugins/revslider/admin/assets/images/dummy.png",
+          "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.pammakaristos-hosp.gr/",
+              "retrievedAt": "2026-03-31T13:20:31.095Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.pammakaristos-hosp.gr/wp-content/uploads/2018/Logos/logo-bottom-logo-hd.png",
+          "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.pammakaristos-hosp.gr/",
+              "retrievedAt": "2026-03-31T13:20:31.095Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.pammakaristos-hosp.gr/wp-content/uploads/2018/Logos/logo-bottom-logo-regular.png",
+          "alt": "Παμμακάριστος",
+          "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.pammakaristos-hosp.gr/",
+              "retrievedAt": "2026-03-31T13:20:31.095Z"
+            }
+          ]
+        },
+        {
+          "url": "https://pammakaristos-hosp.gr/wp-content/uploads/2024/02/%CE%95%CF%85%CF%81%CF%89%CF%80%CE%B1%CE%B9%CE%BA%CE%AE-%CE%88%CE%BD%CF%89%CF%83%CE%B7.jpg",
+          "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.pammakaristos-hosp.gr/",
+              "retrievedAt": "2026-03-31T13:20:31.095Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.097Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/pammakaristos-hosp.gr-home-d094f8d3/homepage-page-d094f8d3.png"
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf",
+      "finalUrl": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf",
+      "fetchedAt": "2026-03-31T13:20:37.788Z",
+      "metadata": {
+        "title": "ΔΗΜΟΣΙΕΥΣΗ ΑΡΘΡΟΥ ΣΤΟ “Discover Health Systems” ΑΠΟ ΤΗΝ ΚΟΙΝΩΝΙΚΗ ΥΠΗΡΕΣΙΑ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ΜΑΣ | Παμμακάριστος",
+        "canonicalUrl": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf/",
+        "language": "el",
+        "robots": "max-image-preview:large",
+        "openGraphTitle": "ΔΗΜΟΣΙΕΥΣΗ ΑΡΘΡΟΥ ΣΤΟ “Discover Health Systems” ΑΠΟ ΤΗΝ ΚΟΙΝΩΝΙΚΗ ΥΠΗΡΕΣΙΑ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ΜΑΣ | Παμμακάριστος",
+        "openGraphDescription": "Κοινοποιήστε"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "ΔΗΜΟΣΙΕΥΣΗ ΑΡΘΡΟΥ ΣΤΟ “Discover Health Systems” ΑΠΟ ΤΗΝ ΚΟΙΝΩΝΙΚΗ ΥΠΗΡΕΣΙΑ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ΜΑΣ"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.pammakaristos-hosp.gr/"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/to-nosokomeio/",
+          "label": "Το Νοσοκομείο"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/to-nosokomeio/istoriko/",
+          "label": "Ιστορικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/to-nosokomeio/organogramma/",
+          "label": "Οργανόγραμμα"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/",
+          "label": "Για τον Πολίτη"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/diadikasia-eisagwgis/",
+          "label": "Διαδικασία Εισαγωγής"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/dikaiomata/",
+          "label": "Δικαιώματα"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ypoxrewseis/",
+          "label": "Υποχρεώσεις"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/",
+          "label": "Εργαστηριακές Εξετάσεις"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis/",
+          "label": "Εργαστηριακές Εξετάσεις"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/aimatologiko/",
+          "label": "Αιματολογικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/aktinodiagnwstiko/",
+          "label": "Ακτινοδιαγνωστικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/vioximiko/",
+          "label": "Βιοχημικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/kardiologiko/",
+          "label": "Καρδιολογικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/mikroviologiko/",
+          "label": "Μικροβιολογικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/puriniki-iatriki/",
+          "label": "Πυρηνική Ιατρική"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/proina-iatreia/",
+          "label": "Πρωινά Ιατρεία"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/%ce%b1%cf%80%ce%bf%ce%b3%ce%b5%cf%85%ce%bc%ce%b1%cf%84%ce%b9%ce%bd%ce%ac-%ce%b9%ce%b1%cf%84%cf%81%ce%b5%ce%af%ce%b1/",
+          "label": "Απογευματινά Ιατρεία"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/vevaiwseis-enimerosi-2/",
+          "label": "Βεβαιώσεις – Ενημέρωση"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias/",
+          "label": "Γραφείο Προστασίας Δικαιωμάτων Ληπτών Υπηρεσιών Υγείας"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/nea-draseis/anakoinoseis/",
+          "label": "Νέα – Δράσεις"
+        },
+        {
+          "href": "http://pammakaristos-hosp.gr/%CE%95%CF%86%CE%B7%CE%BC%CE%B5%CF%81%CE%AF%CE%B5%CF%82/",
+          "label": "Εφημερίες"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/nea-draseis/deltia-typou/",
+          "label": "Δελτία Τύπου"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/nea-draseis/lista-xeirourgiou/",
+          "label": "Λίστα Χειρουργείου"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/prokyrikseis-list/",
+          "label": "Προκηρύξεις"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/prokyrikseis/diavouleusi-texnikwn-prodiagrafwn/",
+          "label": "Διαβούλευση Τεχνικών Προδιαγραφών"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/syndesmoi-ygeias/",
+          "label": "Σύνδεσμοι Υγείας"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/syndesmoi-ygeias/iatrikoi-farmakeutikoi-sullogoi/",
+          "label": "Ιατρικοί & Φαρμακευτικοί Σύλλογοι"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/syndesmoi-ygeias/iatrikes-etaireies/",
+          "label": "Ιατρικές Εταιρείες"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/epikoinwnia/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/europe/",
+          "label": "Η Ευρώπη σου"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%b5%cf%83%cf%80%ce%b1-2014-2020/",
+          "label": "ΕΣΠΑ 2014-2020"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%b5%ce%ba%cf%80%ce%b1%ce%af%ce%b4%ce%b5%cf%85%cf%83%ce%b7-%ce%ba%ce%b1%ce%b9-%ce%ad%cf%81%ce%b5%cf%85%ce%bd%ce%b1/",
+          "label": "Εκπαίδευση & Έρευνα"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/vivliothiki/",
+          "label": "Βιβλιοθήκη"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%b5%cf%80%ce%b9%cf%83%cf%84%ce%b7%ce%bc%ce%bf%ce%bd%ce%b9%ce%ba%cf%8c-%cf%83%cf%85%ce%bc%ce%b2%ce%bf%cf%8d%ce%bb%ce%b9%ce%bf/",
+          "label": "Επιστημονικό Συμβούλιο"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%b9%ce%b1%cf%84%cf%81%ce%b9%ce%ba%ce%ae-%ce%b5%ce%ba%cf%80%ce%b1%ce%af%ce%b4%ce%b5%cf%85%cf%83%ce%b7/",
+          "label": "Ιατρική Εκπαίδευση"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%bd%ce%bf%cf%83%ce%b7%ce%bb%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%ae-%ce%b5%ce%ba%cf%80%ce%b1%ce%af%ce%b4%ce%b5%cf%85%cf%83%ce%b7/",
+          "label": "Νοσηλευτική Εκπαίδευση"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%bd%ce%bf%cf%83%ce%b7%ce%bb%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%ae-%ce%b5%ce%ba%cf%80%ce%b1%ce%af%ce%b4%ce%b5%cf%85%cf%83%ce%b7-2/",
+          "label": "Επιτροπή Νοσοκομειακών Λοιμώξεων"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%cf%80%cf%81%cf%89%cf%84%cf%8c%ce%ba%ce%bf%ce%bb%ce%bb%ce%b1-%ce%bc%ce%b5%ce%bb%ce%ad%cf%84%ce%b5%cf%82/",
+          "label": "Πρωτόκολλα-Μελέτες"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ad%cf%82/",
+          "label": "Πολιτικές"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ad%cf%82/%cf%80%cf%81%ce%bf%cf%83%cf%84%ce%b1%cf%83%ce%af%ce%b1-%cf%80%cf%81%ce%bf%cf%83%cf%8e%cf%80%cf%89%ce%bd-%cf%80%ce%bf%cf%85-%ce%b1%ce%bd%ce%b1%cf%86%ce%ad%cf%81%ce%bf%cf%85%ce%bd-%cf%80%ce%b1%cf%81/",
+          "label": "Προστασία προσώπων που αναφέρουν παραβιάσεις του Ενωσιακού Δικαίου"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ad%cf%82/%cf%80%cf%81%cf%8c%ce%bb%ce%b7%cf%88%ce%b7-%ce%ba%ce%b1%ce%b9-%ce%b1%ce%bd%cf%84%ce%b9%ce%bc%ce%b5%cf%84%cf%8e%cf%80%ce%b9%cf%83%ce%b7-%cf%80%ce%b5%cf%81%ce%b9%cf%83%cf%84%ce%b1%cf%84%ce%b9%ce%ba/",
+          "label": "Πρόληψη και αντιμετώπιση περιστατικών βίας και παρενόχλησης στο χώρο εργασίας"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gdpr/",
+          "label": "Πολιτική Προστασίας Προσωπικών Δεδομένων (GDPR)"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ad%cf%82/e%ce%bd%ce%b7%ce%bc%ce%ad%cf%81%cf%89%cf%83%ce%b7-%ce%b3%ce%b9%ce%b1-%cf%84%ce%b7%ce%bd-%ce%b5%cf%80%ce%b5%ce%be%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%af%ce%b1-%cf%80%cf%81%ce%bf%cf%83%cf%89%cf%80%ce%b9/",
+          "label": "Eνημέρωση για την επεξεργασία προσωπικών δεδομένων υποψηφίων/προσφερόντων"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/category/%ce%b1%ce%bd%ce%b1%ce%ba%ce%bf%ce%b9%ce%bd%cf%8e%cf%83%ce%b5%ce%b9%cf%82/",
+          "label": "Ανακοινώσεις"
+        },
+        {
+          "href": "https://pammakaristos-hosp.gr/wp-content/uploads/2024/12/Mimarakis-et-all._DHS.pdf",
+          "label": "Περισσότερα"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/nea-draseis/prosexeis-efimeries/",
+          "label": "Εφημερίες"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/plirofories-episkeptiriou/",
+          "label": "Πληροφορίες Επισκεπτηρίου"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.pammakaristos-hosp.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Go!"
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "text",
+              "label": "Type and hit enter …",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "2102011091 - 2102019091",
+          "213 2042100",
+          "2014-2020",
+          "87002911",
+          "23/11/2024",
+          "44250-024-00159-6",
+          "2024-08-02 09",
+          "2102011091",
+          "2102019091",
+          "2132042100"
+        ],
+        "emails": [
+          "info@pammakaristos-hosp.gr"
+        ],
+        "addresses": [
+          "Ιακωβάτων 43, Τ.Κ. 11144, Αθήνα",
+          "Το Νοσοκομείο Στα κτίρια του σημερινού Νοσοκομείου «ΠΑΜΜΑΚΑΡΙΣΤΟΣ», στη δεκαετία του 1930, λειτούργησε πρότυπο Δημοτικό Σχολείο με τη διεύθυνση των μοναχών της Ιεράς Μονής «Παμμακαρίστου Θεοτόκου». ΕπικοινωνίαΤηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.grΏρες Επισκεπτηρίου Καθημερινά: 11:00 – 13:00 & 18:00 – 21:00 Μονάδα Εμφραγμάτων: 12:00 – 12:30 & 18:00 – 18:30 Χρήσιμοι ΣύνδεσμοιΕφημερίες Πληροφορίες Επισκεπτηρίου Βρείτε μας στον χάρτη Εφημερεύοντα Νοσοκομεία Ⓒ ΠΑΜΜΑΚΑΡΙΣΤΟΣ 2023. All rights reserved. | Powered by CONNE3ION",
+          "ΕπικοινωνίαΤηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.gr",
+          "Τηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.gr"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/WordPress.Premium.Theme/",
+            "label": "Facebook"
+          },
+          {
+            "href": "https://twitter.com/premium_theme",
+            "label": "Twitter"
+          },
+          {
+            "href": "https://www.instagram.com/dream_theme_photo/",
+            "label": "Instagram"
+          },
+          {
+            "href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.pammakaristos-hosp.gr%2F%25ce%25b4%25ce%25b7%25ce%25bc%25ce%25bf%25cf%2583%25ce%25b9%25ce%25b5%25cf%2585%25cf%2583%25ce%25b7-%25ce%25b1%25cf%2581%25ce%25b8%25cf%2581%25ce%25bf%25cf%2585-%25cf%2583%25cf%2584%25ce%25bf-discover-health-systems-%25ce%25b1%25cf%2580%25ce%25bf-%25cf%2584%25ce%25b7%25ce%25bd-%25ce%25ba%25ce%25bf%2F"
+          },
+          {
+            "href": "https://twitter.com/intent/tweet?text=%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%99%CE%95%CE%A5%CE%A3%CE%97%20%CE%91%CE%A1%CE%98%CE%A1%CE%9F%CE%A5%20%CE%A3%CE%A4%CE%9F%20%22Discover%20Health%20Systems%22%20%CE%91%CE%A0%CE%9F%20%CE%A4%CE%97%CE%9D%20%CE%9A%CE%9F%CE%99%CE%9D%CE%A9%CE%9D%CE%99%CE%9A%CE%97%20%CE%A5%CE%A0%CE%97%CE%A1%CE%95%CE%A3%CE%99%CE%91%20%CE%A4%CE%9F%CE%A5%20%CE%9D%CE%9F%CE%A3%CE%9F%CE%9A%CE%9F%CE%9C%CE%95%CE%99%CE%9F%CE%A5%20%CE%9C%CE%91%CE%A3&url=https%3A%2F%2Fwww.pammakaristos-hosp.gr%2F%25ce%25b4%25ce%25b7%25ce%25bc%25ce%25bf%25cf%2583%25ce%25b9%25ce%25b5%25cf%2585%25cf%2583%25ce%25b7-%25ce%25b1%25cf%2581%25ce%25b8%25cf%2581%25ce%25bf%25cf%2585-%25cf%2583%25cf%2584%25ce%25bf-discover-health-systems-%25ce%25b1%25cf%2580%25ce%25bf-%25cf%2584%25ce%25b7%25ce%25bd-%25ce%25ba%25ce%25bf%2F"
+          },
+          {
+            "href": "https://www.instagram.com/"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.pammakaristos-hosp.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Go!"
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "text",
+                "label": "Type and hit enter …",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Το Νοσοκομείο Στα κτίρια του σημερινού Νοσοκομείου «ΠΑΜΜΑΚΑΡΙΣΤΟΣ», στη δεκαετία του 1930, λειτούργησε πρότυπο Δημοτικό Σχολείο με τη διεύθυνση των μοναχών της Ιεράς Μονής «Παμμακαρίστου Θεοτόκου». ΕπικοινωνίαΤηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.grΏρες Επισκεπτηρίου Καθημερινά: 11:00 – 13:00 & 18:00 – 21:00 Μονάδα Εμφραγμάτων: 12:00 – 12:30 & 18:00 – 18:30 Χρήσιμοι ΣύνδεσμοιΕφημερίες Πληροφορίες Επισκεπτηρίου Βρείτε μας στον χάρτη Εφημερεύοντα Νοσοκομεία Ⓒ ΠΑΜΜΑΚΑΡΙΣΤΟΣ 2023. All rights reserved. | Powered by CONNE3ION",
+      "textContent": "Skip to content FacebookTwitterPinterestInstagramΡαντεβού Εξωτερικών Ιατρείων: 2102011091 - 2102019091 Search: Αναζήτηση Παμμακάριστος Νοσοκομείο Θείας Πρόνοιας \"Η Παμμακάριστος\" Τηλεφωνικό Κέντρο: 213 2042100Ιακωβάτων 43, Τ.Κ. 11144, Αθήνα Ιακωβάτων 43Τ.Κ. 11144, Αθήνα Τηλεφωνικό Κέντρο: 213 2042100 Αρχική Το ΝοσοκομείοΙστορικό Οργανόγραμμα Για τον ΠολίτηΔιαδικασία Εισαγωγής Δικαιώματα Υποχρεώσεις Εργαστηριακές ΕξετάσειςΕργαστηριακές Εξετάσεις Αιματολογικό Ακτινοδιαγνωστικό Βιοχημικό Καρδιολογικό Μικροβιολογικό Πυρηνική Ιατρική Πρωινά Ιατρεία Απογευματινά Ιατρεία Βεβαιώσεις – Ενημέρωση Γραφείο Προστασίας Δικαιωμάτων Ληπτών Υπηρεσιών Υγείας Νέα – ΔράσειςΑνακοινώσεις Εφημερίες Δελτία Τύπου Λίστα Χειρουργείου ΠροκηρύξειςΠροκηρύξεις Διαβούλευση Τεχνικών Προδιαγραφών Σύνδεσμοι ΥγείαςΣυμμετοχή στην Έρευνα: Διερεύνηση της ικανοποίησης των πολιτών από τις Πρωτοβάθμιες και Δευτεροβάθμιες Μονάδες Υγείας Ιατρικοί & Φαρμακευτικοί Σύλλογοι Σύνδεσμοι Υγείας Ιατρικές Εταιρείες Επικοινωνία Η Ευρώπη σου ΕΣΠΑ 2014-2020 Εκπαίδευση & ΈρευναΒιβλιοθήκη Επιστημονικό Συμβούλιο Ιατρική Εκπαίδευση Νοσηλευτική Εκπαίδευση Επιτροπή Νοσοκομειακών Λοιμώξεων Πρωτόκολλα-Μελέτες ΠολιτικέςΠροστασία προσώπων που αναφέρουν παραβιάσεις του Ενωσιακού Δικαίου Πρόληψη και αντιμετώπιση περιστατικών βίας και παρενόχλησης στο χώρο εργασίας Πολιτική Προστασίας Προσωπικών Δεδομένων (GDPR) Eνημέρωση για την επεξεργασία προσωπικών δεδομένων υποψηφίων/προσφερόντων Αρχική Το ΝοσοκομείοΙστορικό Οργανόγραμμα Για τον ΠολίτηΔιαδικασία Εισαγωγής Δικαιώματα Υποχρεώσεις Εργαστηριακές ΕξετάσειςΕργαστηριακές Εξετάσεις Αιματολογικό Ακτινοδιαγνωστικό Βιοχημικό Καρδιολογικό Μικροβιολογικό Πυρηνική Ιατρική Πρωινά Ιατρεία Απογευματινά Ιατρεία Βεβαιώσεις – Ενημέρωση Γραφείο Προστασίας Δικαιωμάτων Ληπτών Υπηρεσιών Υγείας Νέα – ΔράσειςΑνακοινώσεις Εφημερίες Δελτία Τύπου Λίστα Χειρουργείου ΠροκηρύξειςΠροκηρύξεις Διαβούλευση Τεχνικών Προδιαγραφών Σύνδεσμοι ΥγείαςΣυμμετοχή στην Έρευνα: Διερεύνηση της ικανοποίησης των πολιτών από τις Πρωτοβάθμιες και Δευτεροβάθμιες Μονάδες Υγείας Ιατρικοί & Φαρμακευτικοί Σύλλογοι Σύνδεσμοι Υγείας Ιατρικές Εταιρείες Επικοινωνία Η Ευρώπη σου ΕΣΠΑ 2014-2020 Εκπαίδευση & ΈρευναΒιβλιοθήκη Επιστημονικό Συμβούλιο Ιατρική Εκπαίδευση Νοσηλευτική Εκπαίδευση Επιτροπή Νοσοκομειακών Λοιμώξεων Πρωτόκολλα-Μελέτες ΠολιτικέςΠροστασία προσώπων που αναφέρουν παραβιάσεις του Ενωσιακού Δικαίου Πρόληψη και αντιμετώπιση περιστατικών βίας και παρενόχλησης στο χώρο εργασίας Πολιτική Προστασίας Προσωπικών Δεδομένων (GDPR) Eνημέρωση για την επεξεργασία προσωπικών δεδομένων υποψηφίων/προσφερόντων ΔΗΜΟΣΙΕΥΣΗ ΑΡΘΡΟΥ ΣΤΟ “Discover Health Systems” ΑΠΟ ΤΗΝ ΚΟΙΝΩΝΙΚΗ ΥΠΗΡΕΣΙΑ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ΜΑΣYou are here:HomeΑνακοινώσειςΔΗΜΟΣΙΕΥΣΗ ΑΡΘΡΟΥ ΣΤΟ “Discover Health… #default-btn-0eab3a87002911a51d00c4d456ab9050:not(:hover).default-btn-bg-off { background: none; } #default-btn-0eab3a87002911a51d00c4d456ab9050:hover.default-btn-bg-hover-off { background: none; } #default-btn-0eab3a87002911a51d00c4d456ab9050 > i { font-size: 11px; } #default-btn-0eab3a87002911a51d00c4d456ab9050 * { vertical-align: middle; } Περισσότερα Με χαρά σας γνωρίζουμε πως δημοσιεύτηκε στο Περιοδικό “Discover Health Systems” το άρθρο με τίτλο ¨Socioeconomic, health status and hospitalization aspects of adult patients referred to the social service of a tertiary hospital¨ που διερευνά το κοινωνικοδημογραφικό προφίλ και τις ιδιαίτερες ψυχοκοινωνικές και οικονομικές ανάγκες των ασθενών που απευθύνονται στην Κοινωνική Υπηρεσία του Νοσοκομείου μας. Η εν λόγω μελέτη αποτέλεσε πρωτοβουλία και πνευματικό έργο των στελεχών της Κοινωνικής Υπηρεσίας του Νοσοκομείου μας, Δρ. Δημήτριο Μιμαράκη και Κα Ευανθία Προβιδάκη, μετά τις σχετικές επίσημες αδειοδοτήσεις του Νοσοκομείου μας. Το περιεχόμενο ωστόσο του εν λόγω επιστημονικού άρθρου παρουσιάστηκε σε προφορική εισήγηση υπό τον τίτλο “Κοινωνική εργασία στην Υγεία – από το πεδίο στην έρευνα. Μελέτη του κοινωνικού προφίλ και των ιδιαίτερων αναγκών των ασθενών που παραπέμπονται στην Κοινωνική Υπηρεσία Γενικού Νοσοκομείου” από τον Κο Μιμαράκη Δημήτριο, στο Διεθνές Συνέδριο ¨Κοινωνική εργασία στην εποχή των «ρευστών βεβαιοτήτων»: Συνδέοντας την εμπειρία από το πεδίο με την έρευνα¨ που πραγματοποιήθηκε στο Πανεπιστήμιο Δυτικής Αττικής στις 22 και 23/11/2024. Για περισσότερες πληροφορίες παρακαλούνται οι ενδιαφερόμενοι να ανατρέξουν στον ακόλουθο σύνδεσμο: https://link.springer.com/article/10.1007/s44250-024-00159-6 Διοικητής Θρασύβουλος Λαδόπουλος Κοινοποιήστε Το Νοσοκομείο Στα κτίρια του σημερινού Νοσοκομείου «ΠΑΜΜΑΚΑΡΙΣΤΟΣ», στη δεκαετία του 1930, λειτούργησε πρότυπο Δημοτικό Σχολείο με τη διεύθυνση των μοναχών της Ιεράς Μονής «Παμμακαρίστου Θεοτόκου». ΕπικοινωνίαΤηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.grΏρες Επισκεπτηρίου Καθημερινά: 11:00 – 13:00 & 18:00 – 21:00 Μονάδα Εμφραγμάτων: 12:00 – 12:30 & 18:00 – 18:30 Χρήσιμοι ΣύνδεσμοιΕφημερίες Πληροφορίες Επισκεπτηρίου Βρείτε μας στον χάρτη Εφημερεύοντα Νοσοκομεία Ⓒ ΠΑΜΜΑΚΑΡΙΣΤΟΣ 2023. All rights reserved. | Powered by CONNE3ION Go to Top {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/dt-the7/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} const abmsg = \"We noticed an ad blocker. Consider whitelisting us to support the site ❤️\"; const abmsgd = \"download\"; const iswpdmpropage = 0; jQuery(function($){ }); <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-54XCR6C\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\" aria-hidden=\"true\"></iframe> /* <![CDATA[ */ jQuery(function(jQuery){jQuery.datepicker.setDefaults({\"closeText\":\"\\u039a\\u03bb\\u03b5\\u03af\\u03c3\\u03b9\\u03bc\\u03bf\",\"currentText\":\"\\u03a3\\u03ae\\u03bc\\u03b5\\u03c1\\u03b1\",\"monthNames\":[\"\\u0399\\u03b1\\u03bd\\u03bf\\u03c5\\u03ac\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u03a6\\u03b5\\u03b2\\u03c1\\u03bf\\u03c5\\u03ac\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u039c\\u03ac\\u03c1\\u03c4\\u03b9\\u03bf\\u03c2\",\"\\u0391\\u03c0\\u03c1\\u03af\\u03bb\\u03b9\\u03bf\\u03c2\",\"\\u039c\\u03ac\\u03b9\\u03bf\\u03c2\",\"\\u0399\\u03bf\\u03cd\\u03bd\\u03b9\\u03bf\\u03c2\",\"\\u0399\\u03bf\\u03cd\\u03bb\\u03b9\\u03bf\\u03c2\",\"\\u0391\\u03cd\\u03b3\\u03bf\\u03c5\\u03c3\\u03c4\\u03bf\\u03c2\",\"\\u03a3\\u03b5\\u03c0\\u03c4\\u03ad\\u03bc\\u03b2\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u039f\\u03ba\\u03c4\\u03ce\\u03b2\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u039d\\u03bf\\u03ad\\u03bc\\u03b2\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u0394\\u03b5\\u03ba\\u03ad\\u03bc\\u03b2\\u03c1\\u03b9\\u03bf\\u03c2\"],\"monthNamesShort\":[\"\\u0399\\u03b1\\u03bd\",\"\\u03a6\\u03b5\\u03b2\",\"\\u039c\\u03b1\\u03c1\",\"\\u0391\\u03c0\\u03c1\",\"\\u039c\\u03ac\\u03b9\",\"\\u0399\\u03bf\\u03cd\\u03bd\",\"\\u0399\\u03bf\\u03cd\\u03bb\",\"\\u0391\\u03c5\\u03b3\",\"\\u03a3\\u03b5\\u03c0\",\"\\u039f\\u03ba\\u03c4\",\"\\u039d\\u03bf\\u03ad\",\"\\u0394\\u03b5\\u03ba\"],\"nextText\":\"\\u0395\\u03c0\\u03cc\\u03bc\\u03b5\\u03bd\\u03bf\",\"prevText\":\"\\u03a0\\u03c1\\u03bf\\u03b7\\u03b3\\u03bf\\u03cd\\u03bc\\u03b5\\u03bd\\u03b1\",\"dayNames\":[\"\\u039a\\u03c5\\u03c1\\u03b9\\u03b1\\u03ba\\u03ae\",\"\\u0394\\u03b5\\u03c5\\u03c4\\u03ad\\u03c1\\u03b1\",\"\\u03a4\\u03c1\\u03af\\u03c4\\u03b7\",\"\\u03a4\\u03b5\\u03c4\\u03ac\\u03c1\\u03c4\\u03b7\",\"\\u03a0\\u03ad\\u03bc\\u03c0\\u03c4\\u03b7\",\"\\u03a0\\u03b1\\u03c1\\u03b1\\u03c3\\u03ba\\u03b5\\u03c5\\u03ae\",\"\\u03a3\\u03ac\\u03b2\\u03b2\\u03b1\\u03c4\\u03bf\"],\"dayNamesShort\":[\"\\u039a\\u03c5\",\"\\u0394\\u03b5\",\"\\u03a4\\u03c1\",\"\\u03a4\\u03b5\",\"\\u03a0\\u03b5\",\"\\u03a0\\u03b1\",\"\\u03a3\\u03b1\"],\"dayNamesMin\":[\"\\u039a\",\"\\u0394\",\"\\u03a4\",\"\\u03a4\",\"\\u03a0\",\"\\u03a0\",\"\\u03a3\"],\"dateFormat\":\"dd/mm/yy\",\"firstDay\":1,\"isRTL\":false});}); //# sourceURL=jquery-ui-datepicker-js-after /* ]]> */ /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); //# sourceURL=wp-i18n-js-after /* ]]> */ /* <![CDATA[ */ ( function( domain, translations ) { var localeData = translations.locale_data[ domain ] || translations.locale_data.messages; localeData[\"\"].domain = domain; wp.i18n.setLocaleData( localeData, domain ); } )( \"contact-form-7\", {\"translation-revision-date\":\"2024-08-02 09:16:28+0000\",\"generator\":\"GlotPress\\/4.0.1\",\"domain\":\"messages\",\"locale_data\":{\"messages\":{\"\":{\"domain\":\"messages\",\"plural-forms\":\"nplurals=2; plural=n != 1;\",\"lang\":\"el_GR\"},\"This contact form is placed in the wrong place.\":[\"\\u0397 \\u03c6\\u03cc\\u03c1\\u03bc\\u03b1 \\u03b5\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03af\\u03b1\\u03c2 \\u03b5\\u03af\\u03bd\\u03b1\\u03b9 \\u03c3\\u03b5 \\u03bb\\u03ac\\u03b8\\u03bf\\u03c2 \\u03b8\\u03ad\\u03c3\\u03b7.\"],\"Error:\":[\"\\u03a3\\u03c6\\u03ac\\u03bb\\u03bc\\u03b1:\"]}},\"comment\":{\"reference\":\"includes\\/js\\/index.js\"}} ); //# sourceURL=contact-form-7-js-translations /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.pammakaristos-hosp.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; //# sourceURL=contact-form-7-js-before /* ]]> */ /* <![CDATA[ */ var hashbar_analytical = {\"ajaxurl\":\"https://www.pammakaristos-hosp.gr/wp-admin/admin-ajax.php\",\"nonce_key\":\"b5ea14a996\",\"enable_analytics\":\"\"}; //# sourceURL=hashbar-analytics-js-extra /* ]]> */ /* <![CDATA[ */ function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!=\"function\") {window.onload=e}else{window.onload=function() {t();e()}}}; var heateorSssSharingAjaxUrl = 'https://www.pammakaristos-hosp.gr/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://www.pammakaristos-hosp.gr/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://www.pammakaristos-hosp.gr/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = \"Link copied.\";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,\"popUpWindow\",\"height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status\")} //# sourceURL=heateor_sss_sharing_js-js-before /* ]]> */ {\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://www.pammakaristos-hosp.gr/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4\"}} /* <![CDATA[ */ /*! This file is auto-generated */ const a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://www.pammakaristos-hosp.gr/wp-includes/js/wp-emoji-loader.min.js /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/pammakaristos-hosp.gr-home-d094f8d3/services-ce-b4-ce-b7-ce-bc-ce-bf-cf-83-ce-b9-ce-b5-cf-85-cf-83-ce-b7-ce-b1-cf-81-ce-b8-cf-4d5dc4aa.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/pammakaristos-hosp.gr-home-d094f8d3/services-ce-b4-ce-b7-ce-bc-ce-bf-cf-83-ce-b9-ce-b5-cf-85-cf-83-ce-b7-ce-b1-cf-81-ce-b8-cf-4d5dc4aa.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.pammakaristos-hosp.gr/wp-content/uploads/2018/03/logo-main-dummy-dark.png",
+          "alt": "Παμμακάριστος",
+          "sourcePageUrl": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf",
+              "retrievedAt": "2026-03-31T13:20:37.784Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.pammakaristos-hosp.gr/wp-content/uploads/2018/Logos/logo-small-dummy.png",
+          "alt": "Παμμακάριστος",
+          "sourcePageUrl": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf",
+              "retrievedAt": "2026-03-31T13:20:37.784Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.pammakaristos-hosp.gr/wp-content/uploads/2018/Logos/logo-bottom-logo-hd.png",
+          "sourcePageUrl": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf",
+              "retrievedAt": "2026-03-31T13:20:37.784Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.pammakaristos-hosp.gr/wp-content/uploads/2018/Logos/logo-bottom-logo-regular.png",
+          "alt": "Παμμακάριστος",
+          "sourcePageUrl": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf",
+              "retrievedAt": "2026-03-31T13:20:37.784Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf",
+          "retrievedAt": "2026-03-31T13:20:37.788Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+      "finalUrl": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+      "fetchedAt": "2026-03-31T13:20:34.334Z",
+      "metadata": {
+        "title": "Επικοινωνία | Παμμακάριστος",
+        "canonicalUrl": "https://www.pammakaristos-hosp.gr/epikoinwnia/",
+        "language": "el",
+        "robots": "max-image-preview:large",
+        "openGraphTitle": "Επικοινωνία | Παμμακάριστος"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Επικοινωνία"
+        },
+        {
+          "level": "h2",
+          "text": "Επιθυμείτε να επικοινωνήσετε μαζί μας; Συμπληρώστε τη Φόρμα Επικοινωνίας!"
+        },
+        {
+          "level": "h3",
+          "text": "Χρήσιμα Τηλέφωνα"
+        },
+        {
+          "level": "h3",
+          "text": "Ταχυδρομική Διεύθυνση"
+        },
+        {
+          "level": "h3",
+          "text": "Πληροφορίες Πρόσβασης"
+        },
+        {
+          "level": "h3",
+          "text": "Ηλεκτρονική Διεύθυνση"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.pammakaristos-hosp.gr/"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/to-nosokomeio/",
+          "label": "Το Νοσοκομείο"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/to-nosokomeio/istoriko/",
+          "label": "Ιστορικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/to-nosokomeio/organogramma/",
+          "label": "Οργανόγραμμα"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/",
+          "label": "Για τον Πολίτη"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/diadikasia-eisagwgis/",
+          "label": "Διαδικασία Εισαγωγής"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/dikaiomata/",
+          "label": "Δικαιώματα"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ypoxrewseis/",
+          "label": "Υποχρεώσεις"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/",
+          "label": "Εργαστηριακές Εξετάσεις"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis/",
+          "label": "Εργαστηριακές Εξετάσεις"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/aimatologiko/",
+          "label": "Αιματολογικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/aktinodiagnwstiko/",
+          "label": "Ακτινοδιαγνωστικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/vioximiko/",
+          "label": "Βιοχημικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/kardiologiko/",
+          "label": "Καρδιολογικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/mikroviologiko/",
+          "label": "Μικροβιολογικό"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/puriniki-iatriki/",
+          "label": "Πυρηνική Ιατρική"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/proina-iatreia/",
+          "label": "Πρωινά Ιατρεία"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/%ce%b1%cf%80%ce%bf%ce%b3%ce%b5%cf%85%ce%bc%ce%b1%cf%84%ce%b9%ce%bd%ce%ac-%ce%b9%ce%b1%cf%84%cf%81%ce%b5%ce%af%ce%b1/",
+          "label": "Απογευματινά Ιατρεία"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/vevaiwseis-enimerosi-2/",
+          "label": "Βεβαιώσεις – Ενημέρωση"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias/",
+          "label": "Γραφείο Προστασίας Δικαιωμάτων Ληπτών Υπηρεσιών Υγείας"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/nea-draseis/anakoinoseis/",
+          "label": "Νέα – Δράσεις"
+        },
+        {
+          "href": "http://pammakaristos-hosp.gr/%CE%95%CF%86%CE%B7%CE%BC%CE%B5%CF%81%CE%AF%CE%B5%CF%82/",
+          "label": "Εφημερίες"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/nea-draseis/deltia-typou/",
+          "label": "Δελτία Τύπου"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/nea-draseis/lista-xeirourgiou/",
+          "label": "Λίστα Χειρουργείου"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/prokyrikseis-list/",
+          "label": "Προκηρύξεις"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/prokyrikseis/diavouleusi-texnikwn-prodiagrafwn/",
+          "label": "Διαβούλευση Τεχνικών Προδιαγραφών"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/syndesmoi-ygeias/",
+          "label": "Σύνδεσμοι Υγείας"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/syndesmoi-ygeias/iatrikoi-farmakeutikoi-sullogoi/",
+          "label": "Ιατρικοί & Φαρμακευτικοί Σύλλογοι"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/syndesmoi-ygeias/iatrikes-etaireies/",
+          "label": "Ιατρικές Εταιρείες"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/epikoinwnia/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/europe/",
+          "label": "Η Ευρώπη σου"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%b5%cf%83%cf%80%ce%b1-2014-2020/",
+          "label": "ΕΣΠΑ 2014-2020"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%b5%ce%ba%cf%80%ce%b1%ce%af%ce%b4%ce%b5%cf%85%cf%83%ce%b7-%ce%ba%ce%b1%ce%b9-%ce%ad%cf%81%ce%b5%cf%85%ce%bd%ce%b1/",
+          "label": "Εκπαίδευση & Έρευνα"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/vivliothiki/",
+          "label": "Βιβλιοθήκη"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%b5%cf%80%ce%b9%cf%83%cf%84%ce%b7%ce%bc%ce%bf%ce%bd%ce%b9%ce%ba%cf%8c-%cf%83%cf%85%ce%bc%ce%b2%ce%bf%cf%8d%ce%bb%ce%b9%ce%bf/",
+          "label": "Επιστημονικό Συμβούλιο"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%b9%ce%b1%cf%84%cf%81%ce%b9%ce%ba%ce%ae-%ce%b5%ce%ba%cf%80%ce%b1%ce%af%ce%b4%ce%b5%cf%85%cf%83%ce%b7/",
+          "label": "Ιατρική Εκπαίδευση"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%bd%ce%bf%cf%83%ce%b7%ce%bb%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%ae-%ce%b5%ce%ba%cf%80%ce%b1%ce%af%ce%b4%ce%b5%cf%85%cf%83%ce%b7/",
+          "label": "Νοσηλευτική Εκπαίδευση"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%ce%bd%ce%bf%cf%83%ce%b7%ce%bb%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%ae-%ce%b5%ce%ba%cf%80%ce%b1%ce%af%ce%b4%ce%b5%cf%85%cf%83%ce%b7-2/",
+          "label": "Επιτροπή Νοσοκομειακών Λοιμώξεων"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%cf%80%cf%81%cf%89%cf%84%cf%8c%ce%ba%ce%bf%ce%bb%ce%bb%ce%b1-%ce%bc%ce%b5%ce%bb%ce%ad%cf%84%ce%b5%cf%82/",
+          "label": "Πρωτόκολλα-Μελέτες"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ad%cf%82/",
+          "label": "Πολιτικές"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ad%cf%82/%cf%80%cf%81%ce%bf%cf%83%cf%84%ce%b1%cf%83%ce%af%ce%b1-%cf%80%cf%81%ce%bf%cf%83%cf%8e%cf%80%cf%89%ce%bd-%cf%80%ce%bf%cf%85-%ce%b1%ce%bd%ce%b1%cf%86%ce%ad%cf%81%ce%bf%cf%85%ce%bd-%cf%80%ce%b1%cf%81/",
+          "label": "Προστασία προσώπων που αναφέρουν παραβιάσεις του Ενωσιακού Δικαίου"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ad%cf%82/%cf%80%cf%81%cf%8c%ce%bb%ce%b7%cf%88%ce%b7-%ce%ba%ce%b1%ce%b9-%ce%b1%ce%bd%cf%84%ce%b9%ce%bc%ce%b5%cf%84%cf%8e%cf%80%ce%b9%cf%83%ce%b7-%cf%80%ce%b5%cf%81%ce%b9%cf%83%cf%84%ce%b1%cf%84%ce%b9%ce%ba/",
+          "label": "Πρόληψη και αντιμετώπιση περιστατικών βίας και παρενόχλησης στο χώρο εργασίας"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gdpr/",
+          "label": "Πολιτική Προστασίας Προσωπικών Δεδομένων (GDPR)"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ad%cf%82/e%ce%bd%ce%b7%ce%bc%ce%ad%cf%81%cf%89%cf%83%ce%b7-%ce%b3%ce%b9%ce%b1-%cf%84%ce%b7%ce%bd-%ce%b5%cf%80%ce%b5%ce%be%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%af%ce%b1-%cf%80%cf%81%ce%bf%cf%83%cf%89%cf%80%ce%b9/",
+          "label": "Eνημέρωση για την επεξεργασία προσωπικών δεδομένων υποψηφίων/προσφερόντων"
+        },
+        {
+          "href": "https://pammakaristos-hosp.gr///gia-ton-politi/plirofories-episkeptiriou/",
+          "label": "εδώ"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/nea-draseis/prosexeis-efimeries/",
+          "label": "Εφημερίες"
+        },
+        {
+          "href": "https://www.pammakaristos-hosp.gr/gia-ton-politi/plirofories-episkeptiriou/",
+          "label": "Πληροφορίες Επισκεπτηρίου"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.pammakaristos-hosp.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Go!"
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "text",
+              "label": "Type and hit enter …",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://www.pammakaristos-hosp.gr/epikoinwnia/#wpcf7-f4-p239-o1",
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "_wpcf7",
+            "_wpcf7_version",
+            "_wpcf7_locale",
+            "_wpcf7_unit_tag",
+            "_wpcf7_container_post",
+            "_wpcf7_posted_data_hash",
+            "your-lastname",
+            "your-firstname",
+            "your-phone",
+            "your-email",
+            "your-reason",
+            "your-message",
+            "submit"
+          ],
+          "submitLabels": [
+            "Αποστολή Μηνύματος"
+          ],
+          "fields": [
+            {
+              "name": "_wpcf7",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_version",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_locale",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_unit_tag",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_container_post",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_posted_data_hash",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "your-lastname",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-firstname",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-phone",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "type": "email",
+              "required": true
+            },
+            {
+              "name": "your-reason",
+              "type": "select",
+              "required": true
+            },
+            {
+              "name": "your-message",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "2102011091 - 2102019091",
+          "213 2042100",
+          "2014-2020",
+          "2102011091",
+          "2102019091",
+          "213 2042192",
+          "213 2042159",
+          "213 2042180",
+          "213 2042201",
+          "213 2042"
+        ],
+        "emails": [
+          "info@pammakaristos-hosp.gr"
+        ],
+        "addresses": [
+          "Ιακωβάτων 43, Τ.Κ. 11144, Αθήνα",
+          "Το Νοσοκομείο Στα κτίρια του σημερινού Νοσοκομείου «ΠΑΜΜΑΚΑΡΙΣΤΟΣ», στη δεκαετία του 1930, λειτούργησε πρότυπο Δημοτικό Σχολείο με τη διεύθυνση των μοναχών της Ιεράς Μονής «Παμμακαρίστου Θεοτόκου». ΕπικοινωνίαΤηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.grΏρες Επισκεπτηρίου Καθημερινά: 11:00 – 13:00 & 18:00 – 21:00 Μονάδα Εμφραγμάτων: 12:00 – 12:30 & 18:00 – 18:30 Χρήσιμοι ΣύνδεσμοιΕφημερίες Πληροφορίες Επισκεπτηρίου Βρείτε μας στον χάρτη Εφημερεύοντα Νοσοκομεία Ⓒ ΠΑΜΜΑΚΑΡΙΣΤΟΣ 2023. All rights reserved. | Powered by CONNE3ION",
+          "ΕπικοινωνίαΤηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.gr",
+          "Τηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.gr"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/WordPress.Premium.Theme/",
+            "label": "Facebook"
+          },
+          {
+            "href": "https://twitter.com/premium_theme",
+            "label": "Twitter"
+          },
+          {
+            "href": "https://www.instagram.com/dream_theme_photo/",
+            "label": "Instagram"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.pammakaristos-hosp.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Go!"
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "text",
+                "label": "Type and hit enter …",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://www.pammakaristos-hosp.gr/epikoinwnia/#wpcf7-f4-p239-o1",
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "_wpcf7",
+              "_wpcf7_version",
+              "_wpcf7_locale",
+              "_wpcf7_unit_tag",
+              "_wpcf7_container_post",
+              "_wpcf7_posted_data_hash",
+              "your-lastname",
+              "your-firstname",
+              "your-phone",
+              "your-email",
+              "your-reason",
+              "your-message",
+              "submit"
+            ],
+            "submitLabels": [
+              "Αποστολή Μηνύματος"
+            ],
+            "fields": [
+              {
+                "name": "_wpcf7",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_version",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_locale",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_unit_tag",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_container_post",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_posted_data_hash",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "your-lastname",
+                "type": "text",
+                "required": true
+              },
+              {
+                "name": "your-firstname",
+                "type": "text",
+                "required": true
+              },
+              {
+                "name": "your-phone",
+                "type": "text",
+                "required": true
+              },
+              {
+                "name": "your-email",
+                "type": "email",
+                "required": true
+              },
+              {
+                "name": "your-reason",
+                "type": "select",
+                "required": true
+              },
+              {
+                "name": "your-message",
+                "type": "textarea",
+                "required": true
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Το Νοσοκομείο Στα κτίρια του σημερινού Νοσοκομείου «ΠΑΜΜΑΚΑΡΙΣΤΟΣ», στη δεκαετία του 1930, λειτούργησε πρότυπο Δημοτικό Σχολείο με τη διεύθυνση των μοναχών της Ιεράς Μονής «Παμμακαρίστου Θεοτόκου». ΕπικοινωνίαΤηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.grΏρες Επισκεπτηρίου Καθημερινά: 11:00 – 13:00 & 18:00 – 21:00 Μονάδα Εμφραγμάτων: 12:00 – 12:30 & 18:00 – 18:30 Χρήσιμοι ΣύνδεσμοιΕφημερίες Πληροφορίες Επισκεπτηρίου Βρείτε μας στον χάρτη Εφημερεύοντα Νοσοκομεία Ⓒ ΠΑΜΜΑΚΑΡΙΣΤΟΣ 2023. All rights reserved. | Powered by CONNE3ION",
+      "textContent": "Skip to content FacebookTwitterPinterestInstagramΡαντεβού Εξωτερικών Ιατρείων: 2102011091 - 2102019091 Search: Αναζήτηση Παμμακάριστος Νοσοκομείο Θείας Πρόνοιας \"Η Παμμακάριστος\" Τηλεφωνικό Κέντρο: 213 2042100Ιακωβάτων 43, Τ.Κ. 11144, Αθήνα Ιακωβάτων 43Τ.Κ. 11144, Αθήνα Τηλεφωνικό Κέντρο: 213 2042100 Αρχική Το ΝοσοκομείοΙστορικό Οργανόγραμμα Για τον ΠολίτηΔιαδικασία Εισαγωγής Δικαιώματα Υποχρεώσεις Εργαστηριακές ΕξετάσειςΕργαστηριακές Εξετάσεις Αιματολογικό Ακτινοδιαγνωστικό Βιοχημικό Καρδιολογικό Μικροβιολογικό Πυρηνική Ιατρική Πρωινά Ιατρεία Απογευματινά Ιατρεία Βεβαιώσεις – Ενημέρωση Γραφείο Προστασίας Δικαιωμάτων Ληπτών Υπηρεσιών Υγείας Νέα – ΔράσειςΑνακοινώσεις Εφημερίες Δελτία Τύπου Λίστα Χειρουργείου ΠροκηρύξειςΠροκηρύξεις Διαβούλευση Τεχνικών Προδιαγραφών Σύνδεσμοι ΥγείαςΣυμμετοχή στην Έρευνα: Διερεύνηση της ικανοποίησης των πολιτών από τις Πρωτοβάθμιες και Δευτεροβάθμιες Μονάδες Υγείας Ιατρικοί & Φαρμακευτικοί Σύλλογοι Σύνδεσμοι Υγείας Ιατρικές Εταιρείες Επικοινωνία Η Ευρώπη σου ΕΣΠΑ 2014-2020 Εκπαίδευση & ΈρευναΒιβλιοθήκη Επιστημονικό Συμβούλιο Ιατρική Εκπαίδευση Νοσηλευτική Εκπαίδευση Επιτροπή Νοσοκομειακών Λοιμώξεων Πρωτόκολλα-Μελέτες ΠολιτικέςΠροστασία προσώπων που αναφέρουν παραβιάσεις του Ενωσιακού Δικαίου Πρόληψη και αντιμετώπιση περιστατικών βίας και παρενόχλησης στο χώρο εργασίας Πολιτική Προστασίας Προσωπικών Δεδομένων (GDPR) Eνημέρωση για την επεξεργασία προσωπικών δεδομένων υποψηφίων/προσφερόντων Αρχική Το ΝοσοκομείοΙστορικό Οργανόγραμμα Για τον ΠολίτηΔιαδικασία Εισαγωγής Δικαιώματα Υποχρεώσεις Εργαστηριακές ΕξετάσειςΕργαστηριακές Εξετάσεις Αιματολογικό Ακτινοδιαγνωστικό Βιοχημικό Καρδιολογικό Μικροβιολογικό Πυρηνική Ιατρική Πρωινά Ιατρεία Απογευματινά Ιατρεία Βεβαιώσεις – Ενημέρωση Γραφείο Προστασίας Δικαιωμάτων Ληπτών Υπηρεσιών Υγείας Νέα – ΔράσειςΑνακοινώσεις Εφημερίες Δελτία Τύπου Λίστα Χειρουργείου ΠροκηρύξειςΠροκηρύξεις Διαβούλευση Τεχνικών Προδιαγραφών Σύνδεσμοι ΥγείαςΣυμμετοχή στην Έρευνα: Διερεύνηση της ικανοποίησης των πολιτών από τις Πρωτοβάθμιες και Δευτεροβάθμιες Μονάδες Υγείας Ιατρικοί & Φαρμακευτικοί Σύλλογοι Σύνδεσμοι Υγείας Ιατρικές Εταιρείες Επικοινωνία Η Ευρώπη σου ΕΣΠΑ 2014-2020 Εκπαίδευση & ΈρευναΒιβλιοθήκη Επιστημονικό Συμβούλιο Ιατρική Εκπαίδευση Νοσηλευτική Εκπαίδευση Επιτροπή Νοσοκομειακών Λοιμώξεων Πρωτόκολλα-Μελέτες ΠολιτικέςΠροστασία προσώπων που αναφέρουν παραβιάσεις του Ενωσιακού Δικαίου Πρόληψη και αντιμετώπιση περιστατικών βίας και παρενόχλησης στο χώρο εργασίας Πολιτική Προστασίας Προσωπικών Δεδομένων (GDPR) Eνημέρωση για την επεξεργασία προσωπικών δεδομένων υποψηφίων/προσφερόντων ΕπικοινωνίαYou are here:HomeΕπικοινωνία Χρήσιμα Τηλέφωνα Τηλεφωνικό Κέντρο: 213 2042100 Ραντεβού Εξωτερικών Ιατρείων: 2102011091 – 2102019091 από τις 08:00 π.μ έως τις 14:00. Πρωτόκολλο: 213 2042192 Γραμματεία Εξωτερικών Ιατρείων: 213 2042159 Γραφείο Κίνησης Ασθενών: 213 2042180 – 252 Γραφείο Προμηθειών: 213 2042201 – 202 Αν γνωρίζετε τον τριψήφιο αριθμό του δωματίου νοσηλείας του ασθενή, μπορείτε να επικοινωνήσετε απευθείας μαζί του, στο τηλέφωνο 213 2042ΧΧΧ, όπου ΧΧΧ είναι ο τριψήφιος αριθμός του δωματίου του. Ταχυδρομική Διεύθυνση Ιακωβάτων 43, Τ.Κ. 11144, Αθήνα Πληροφορίες Πρόσβασης Πατήστε εδώ για οδηγίες πρόσβασης ή οδηγηθείτε στο Google Maps. Ηλεκτρονική Διεύθυνση info@pammakaristos-hosp.gr (function($) { 'use strict'; var map_map_69cbc41784373 = null; var coordinate_map_69cbc41784373; var isDraggable = $(document).width() > 641 ? true : true; try { var map_map_69cbc41784373 = null; var coordinate_map_69cbc41784373; coordinate_map_69cbc41784373=new google.maps.LatLng(38.0145294, 23.7315264); var mapOptions= { zoom: 12, center: coordinate_map_69cbc41784373, scaleControl: true, streetViewControl: false, mapTypeControl: false, panControl: false, zoomControl: false, scrollwheel: true, draggable: isDraggable, zoomControlOptions: { position: google.maps.ControlPosition.RIGHT_BOTTOM },mapTypeId: google.maps.MapTypeId.ROADMAP,};var map_map_69cbc41784373 = new google.maps.Map(document.getElementById('map_69cbc41784373'),mapOptions); var x = 'infowindow_open_value'; var marker_map_69cbc41784373 = new google.maps.Marker({ position: new google.maps.LatLng(38.0145294, 23.7315264), animation: google.maps.Animation.DROP, map: map_map_69cbc41784373, icon: '' }); google.maps.event.addListener(marker_map_69cbc41784373, 'click', toggleBounce);var infowindow = new google.maps.InfoWindow(); infowindow.setContent('<div class=\"map_info_text\" style=\\'color:#000;\\'>Pammakaristos Hospital<br /> &#8220;ΠΑΜΜΑΚΑΡΙΣΤΟΣ ΝΟΣΟΚΟΜΕΙΟ ΘΕΙΑΣ ΠΡΟΝΟΙΑΣ&#8221;</div>');google.maps.event.addListener(marker_map_69cbc41784373, 'click', function() { infowindow.open(map_map_69cbc41784373,marker_map_69cbc41784373); });} catch(e){}; jQuery(document).ready(function($){ google.maps.event.trigger(map_map_69cbc41784373, 'resize'); $(window).resize(function(){ google.maps.event.trigger(map_map_69cbc41784373, 'resize'); if(map_map_69cbc41784373!=null) map_map_69cbc41784373.setCenter(coordinate_map_69cbc41784373); }); $('.ui-tabs').bind('tabsactivate', function(event, ui) { if($(this).find('.ultimate-map-wrapper').length > 0) { setTimeout(function(){ $(window).trigger('resize'); },200); } }); $('.ui-accordion').bind('accordionactivate', function(event, ui) { if($(this).find('.ultimate-map-wrapper').length > 0) { setTimeout(function(){ $(window).trigger('resize'); },200); } }); $(window).load(function(){ setTimeout(function(){ $(window).trigger('resize'); },200); }); $('.ult_exp_section').select(function(){ if($(map_map_69cbc41784373).parents('.ult_exp_section')) { setTimeout(function(){ $(window).trigger('resize'); },200); } }); $(document).on('onUVCModalPopupOpen', function(){ if($(map_map_69cbc41784373).parents('.ult_modal-content')) { setTimeout(function(){ $(window).trigger('resize'); },200); } }); $(document).on('click','.ult_tab_li',function(){ $(window).trigger('resize'); setTimeout(function(){ $(window).trigger('resize'); },200); }); }); function toggleBounce() { if (marker_map_69cbc41784373.getAnimation() != null) { marker_map_69cbc41784373.setAnimation(null); } else { marker_map_69cbc41784373.setAnimation(google.maps.Animation.BOUNCE); } } })(jQuery); Επιθυμείτε να επικοινωνήσετε μαζί μας; Συμπληρώστε τη Φόρμα Επικοινωνίας! Επίθετο Όνομα Τηλέφωνο Email Λόγος Επικοινωνίας —Please choose an option—Γενική ΕρώτησηΠληροφορίες σχετικά με ιατρούςΠληροφορίες για τμήματα/ειδικότητεςΠαράπονα/ΕυχαριστίεςΕπείγοντα/Ασθενοφόρο Μήνυμα Το Νοσοκομείο Στα κτίρια του σημερινού Νοσοκομείου «ΠΑΜΜΑΚΑΡΙΣΤΟΣ», στη δεκαετία του 1930, λειτούργησε πρότυπο Δημοτικό Σχολείο με τη διεύθυνση των μοναχών της Ιεράς Μονής «Παμμακαρίστου Θεοτόκου». ΕπικοινωνίαΤηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.grΏρες Επισκεπτηρίου Καθημερινά: 11:00 – 13:00 & 18:00 – 21:00 Μονάδα Εμφραγμάτων: 12:00 – 12:30 & 18:00 – 18:30 Χρήσιμοι ΣύνδεσμοιΕφημερίες Πληροφορίες Επισκεπτηρίου Βρείτε μας στον χάρτη Εφημερεύοντα Νοσοκομεία Ⓒ ΠΑΜΜΑΚΑΡΙΣΤΟΣ 2023. All rights reserved. | Powered by CONNE3ION Go to Top {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/dt-the7/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} const abmsg = \"We noticed an ad blocker. Consider whitelisting us to support the site ❤️\"; const abmsgd = \"download\"; const iswpdmpropage = 0; jQuery(function($){ }); <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-54XCR6C\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\" aria-hidden=\"true\"></iframe> /* <![CDATA[ */ jQuery(function(jQuery){jQuery.datepicker.setDefaults({\"closeText\":\"\\u039a\\u03bb\\u03b5\\u03af\\u03c3\\u03b9\\u03bc\\u03bf\",\"currentText\":\"\\u03a3\\u03ae\\u03bc\\u03b5\\u03c1\\u03b1\",\"monthNames\":[\"\\u0399\\u03b1\\u03bd\\u03bf\\u03c5\\u03ac\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u03a6\\u03b5\\u03b2\\u03c1\\u03bf\\u03c5\\u03ac\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u039c\\u03ac\\u03c1\\u03c4\\u03b9\\u03bf\\u03c2\",\"\\u0391\\u03c0\\u03c1\\u03af\\u03bb\\u03b9\\u03bf\\u03c2\",\"\\u039c\\u03ac\\u03b9\\u03bf\\u03c2\",\"\\u0399\\u03bf\\u03cd\\u03bd\\u03b9\\u03bf\\u03c2\",\"\\u0399\\u03bf\\u03cd\\u03bb\\u03b9\\u03bf\\u03c2\",\"\\u0391\\u03cd\\u03b3\\u03bf\\u03c5\\u03c3\\u03c4\\u03bf\\u03c2\",\"\\u03a3\\u03b5\\u03c0\\u03c4\\u03ad\\u03bc\\u03b2\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u039f\\u03ba\\u03c4\\u03ce\\u03b2\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u039d\\u03bf\\u03ad\\u03bc\\u03b2\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u0394\\u03b5\\u03ba\\u03ad\\u03bc\\u03b2\\u03c1\\u03b9\\u03bf\\u03c2\"],\"monthNamesShort\":[\"\\u0399\\u03b1\\u03bd\",\"\\u03a6\\u03b5\\u03b2\",\"\\u039c\\u03b1\\u03c1\",\"\\u0391\\u03c0\\u03c1\",\"\\u039c\\u03ac\\u03b9\",\"\\u0399\\u03bf\\u03cd\\u03bd\",\"\\u0399\\u03bf\\u03cd\\u03bb\",\"\\u0391\\u03c5\\u03b3\",\"\\u03a3\\u03b5\\u03c0\",\"\\u039f\\u03ba\\u03c4\",\"\\u039d\\u03bf\\u03ad\",\"\\u0394\\u03b5\\u03ba\"],\"nextText\":\"\\u0395\\u03c0\\u03cc\\u03bc\\u03b5\\u03bd\\u03bf\",\"prevText\":\"\\u03a0\\u03c1\\u03bf\\u03b7\\u03b3\\u03bf\\u03cd\\u03bc\\u03b5\\u03bd\\u03b1\",\"dayNames\":[\"\\u039a\\u03c5\\u03c1\\u03b9\\u03b1\\u03ba\\u03ae\",\"\\u0394\\u03b5\\u03c5\\u03c4\\u03ad\\u03c1\\u03b1\",\"\\u03a4\\u03c1\\u03af\\u03c4\\u03b7\",\"\\u03a4\\u03b5\\u03c4\\u03ac\\u03c1\\u03c4\\u03b7\",\"\\u03a0\\u03ad\\u03bc\\u03c0\\u03c4\\u03b7\",\"\\u03a0\\u03b1\\u03c1\\u03b1\\u03c3\\u03ba\\u03b5\\u03c5\\u03ae\",\"\\u03a3\\u03ac\\u03b2\\u03b2\\u03b1\\u03c4\\u03bf\"],\"dayNamesShort\":[\"\\u039a\\u03c5\",\"\\u0394\\u03b5\",\"\\u03a4\\u03c1\",\"\\u03a4\\u03b5\",\"\\u03a0\\u03b5\",\"\\u03a0\\u03b1\",\"\\u03a3\\u03b1\"],\"dayNamesMin\":[\"\\u039a\",\"\\u0394\",\"\\u03a4\",\"\\u03a4\",\"\\u03a0\",\"\\u03a0\",\"\\u03a3\"],\"dateFormat\":\"dd/mm/yy\",\"firstDay\":1,\"isRTL\":false});}); //# sourceURL=jquery-ui-datepicker-js-after /* ]]> */ /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); //# sourceURL=wp-i18n-js-after /* ]]> */ /* <![CDATA[ */ ( function( domain, translations ) { var localeData = translations.locale_data[ domain ] || translations.locale_data.messages; localeData[\"\"].domain = domain; wp.i18n.setLocaleData( localeData, domain ); } )( \"contact-form-7\", {\"translation-revision-date\":\"2024-08-02 09:16:28+0000\",\"generator\":\"GlotPress\\/4.0.1\",\"domain\":\"messages\",\"locale_data\":{\"messages\":{\"\":{\"domain\":\"messages\",\"plural-forms\":\"nplurals=2; plural=n != 1;\",\"lang\":\"el_GR\"},\"This contact form is placed in the wrong place.\":[\"\\u0397 \\u03c6\\u03cc\\u03c1\\u03bc\\u03b1 \\u03b5\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03af\\u03b1\\u03c2 \\u03b5\\u03af\\u03bd\\u03b1\\u03b9 \\u03c3\\u03b5 \\u03bb\\u03ac\\u03b8\\u03bf\\u03c2 \\u03b8\\u03ad\\u03c3\\u03b7.\"],\"Error:\":[\"\\u03a3\\u03c6\\u03ac\\u03bb\\u03bc\\u03b1:\"]}},\"comment\":{\"reference\":\"includes\\/js\\/index.js\"}} ); //# sourceURL=contact-form-7-js-translations /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.pammakaristos-hosp.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; //# sourceURL=contact-form-7-js-before /* ]]> */ /* <![CDATA[ */ var hashbar_analytical = {\"ajaxurl\":\"https://www.pammakaristos-hosp.gr/wp-admin/admin-ajax.php\",\"nonce_key\":\"b5ea14a996\",\"enable_analytics\":\"\"}; //# sourceURL=hashbar-analytics-js-extra /* ]]> */ /* <![CDATA[ */ function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!=\"function\") {window.onload=e}else{window.onload=function() {t();e()}}}; var heateorSssSharingAjaxUrl = 'https://www.pammakaristos-hosp.gr/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://www.pammakaristos-hosp.gr/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://www.pammakaristos-hosp.gr/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = \"Link copied.\";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,\"popUpWindow\",\"height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status\")} //# sourceURL=heateor_sss_sharing_js-js-before /* ]]> */ {\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://www.pammakaristos-hosp.gr/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4\"}} /* <![CDATA[ */ /*! This file is auto-generated */ const a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://www.pammakaristos-hosp.gr/wp-includes/js/wp-emoji-loader.min.js /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/pammakaristos-hosp.gr-home-d094f8d3/contact-epikoinwnia-5f46407b.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/pammakaristos-hosp.gr-home-d094f8d3/contact-epikoinwnia-5f46407b.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.pammakaristos-hosp.gr/wp-content/uploads/2018/03/logo-main-dummy-dark.png",
+          "alt": "Παμμακάριστος",
+          "sourcePageUrl": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+              "retrievedAt": "2026-03-31T13:20:34.333Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.pammakaristos-hosp.gr/wp-content/uploads/2018/Logos/logo-small-dummy.png",
+          "alt": "Παμμακάριστος",
+          "sourcePageUrl": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+              "retrievedAt": "2026-03-31T13:20:34.333Z"
+            }
+          ]
+        },
+        {
+          "url": "http://www.pammakaristos-hosp.gr/wp-content/uploads/2018/Logos/logo-bottom-logo-hd.png",
+          "sourcePageUrl": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+              "retrievedAt": "2026-03-31T13:20:34.333Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.pammakaristos-hosp.gr/wp-content/uploads/2018/Logos/logo-bottom-logo-regular.png",
+          "alt": "Παμμακάριστος",
+          "sourcePageUrl": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+              "retrievedAt": "2026-03-31T13:20:34.333Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:20:34.334Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/pammakaristos-hosp.gr-home-d094f8d3/contact-epikoinwnia-5f46407b.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "2102011091 - 2102019091",
+      "213 2042100",
+      "2014-2020",
+      "23/11/2024",
+      "44250-024-00159-6",
+      "34170/31.07.2020",
+      "2627282930311234567891011121314151617181920212223242526272829303112345",
+      "11/09/2025",
+      "11/12/2024",
+      "87002911",
+      "4368/2016",
+      "21.2.2016",
+      "10976/10.2.2017",
+      "2132042287",
+      "213 2042106",
+      "2024-08-02 09",
+      "2102011091",
+      "2102019091",
+      "213 2042192",
+      "213 2042159",
+      "213 2042180",
+      "213 2042201",
+      "213 2042",
+      "2227-9032/13/14/1731",
+      "2132042100"
+    ],
+    "emails": [
+      "info@pammakaristos-hosp.gr",
+      "o.tsakalou@pammakaristos-hosp.gr"
+    ],
+    "addresses": [
+      "Ιακωβάτων 43, Τ.Κ. 11144, Αθήνα",
+      "Το Νοσοκομείο Στα κτίρια του σημερινού Νοσοκομείου «ΠΑΜΜΑΚΑΡΙΣΤΟΣ», στη δεκαετία του 1930, λειτούργησε πρότυπο Δημοτικό Σχολείο με τη διεύθυνση των μοναχών της Ιεράς Μονής «Παμμακαρίστου Θεοτόκου». ΕπικοινωνίαΤηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.grΏρες Επισκεπτηρίου Καθημερινά: 11:00 – 13:00 & 18:00 – 21:00 Μονάδα Εμφραγμάτων: 12:00 – 12:30 & 18:00 – 18:30 Χρήσιμοι ΣύνδεσμοιΕφημερίες Πληροφορίες Επισκεπτηρίου Βρείτε μας στον χάρτη Εφημερεύοντα Νοσοκομεία Ⓒ ΠΑΜΜΑΚΑΡΙΣΤΟΣ 2023. All rights reserved. | Powered by CONNE3ION",
+      "ΕπικοινωνίαΤηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.gr",
+      "Τηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.gr"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/WordPress.Premium.Theme/",
+        "label": "Facebook"
+      },
+      {
+        "href": "https://twitter.com/premium_theme",
+        "label": "Twitter"
+      },
+      {
+        "href": "https://www.instagram.com/dream_theme_photo/",
+        "label": "Instagram"
+      },
+      {
+        "href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.pammakaristos-hosp.gr%2F%25ce%25b4%25ce%25b7%25ce%25bc%25ce%25bf%25cf%2583%25ce%25b9%25ce%25b5%25cf%2585%25cf%2583%25ce%25b7-%25ce%25b1%25cf%2581%25ce%25b8%25cf%2581%25ce%25bf%25cf%2585-%25cf%2583%25cf%2584%25ce%25bf-%25ce%25b4%25ce%25b9%25ce%25b5%25ce%25b8%25ce%25bd%25ce%25b5%25cf%2582-%25cf%2580%25ce%25b5%25cf%2581%25ce%25b9%25ce%25bf%25ce%25b4%2F"
+      },
+      {
+        "href": "https://twitter.com/intent/tweet?text=%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%99%CE%95%CE%A5%CE%A3%CE%97%20%CE%91%CE%A1%CE%98%CE%A1%CE%9F%CE%A5%20%CE%A3%CE%A4%CE%9F%20%22%CE%94%CE%B9%CE%B5%CE%B8%CE%BD%CE%AD%CF%82%20%CE%A0%CE%B5%CF%81%CE%B9%CE%BF%CE%B4%CE%B9%CE%BA%CF%8C%20Healthcare%20MDPI%22%20%CE%91%CE%A0%CE%9F%20%CE%A4%CE%97%CE%9D%20%CE%9A%CE%9F%CE%99%CE%9D%CE%A9%CE%9D%CE%99%CE%9A%CE%97%20%CE%A5%CE%A0%CE%97%CE%A1%CE%95%CE%A3%CE%99%CE%91%20%CE%A4%CE%9F%CE%A5%20%CE%9D%CE%9F%CE%A3%CE%9F%CE%9A%CE%9F%CE%9C%CE%95%CE%99%CE%9F%CE%A5%20%CE%9C%CE%91%CE%A3&url=https%3A%2F%2Fwww.pammakaristos-hosp.gr%2F%25ce%25b4%25ce%25b7%25ce%25bc%25ce%25bf%25cf%2583%25ce%25b9%25ce%25b5%25cf%2585%25cf%2583%25ce%25b7-%25ce%25b1%25cf%2581%25ce%25b8%25cf%2581%25ce%25bf%25cf%2585-%25cf%2583%25cf%2584%25ce%25bf-%25ce%25b4%25ce%25b9%25ce%25b5%25ce%25b8%25ce%25bd%25ce%25b5%25cf%2582-%25cf%2580%25ce%25b5%25cf%2581%25ce%25b9%25ce%25bf%25ce%25b4%2F"
+      },
+      {
+        "href": "https://www.instagram.com/"
+      },
+      {
+        "href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.pammakaristos-hosp.gr%2F%25ce%25b4%25ce%25b7%25ce%25bc%25ce%25bf%25cf%2583%25ce%25b9%25ce%25b5%25cf%2585%25cf%2583%25ce%25b7-%25ce%25b1%25cf%2581%25ce%25b8%25cf%2581%25ce%25bf%25cf%2585-%25cf%2583%25cf%2584%25ce%25bf-discover-health-systems-%25ce%25b1%25cf%2580%25ce%25bf-%25cf%2584%25ce%25b7%25ce%25bd-%25ce%25ba%25ce%25bf%2F"
+      },
+      {
+        "href": "https://twitter.com/intent/tweet?text=%CE%94%CE%97%CE%9C%CE%9F%CE%A3%CE%99%CE%95%CE%A5%CE%A3%CE%97%20%CE%91%CE%A1%CE%98%CE%A1%CE%9F%CE%A5%20%CE%A3%CE%A4%CE%9F%20%22Discover%20Health%20Systems%22%20%CE%91%CE%A0%CE%9F%20%CE%A4%CE%97%CE%9D%20%CE%9A%CE%9F%CE%99%CE%9D%CE%A9%CE%9D%CE%99%CE%9A%CE%97%20%CE%A5%CE%A0%CE%97%CE%A1%CE%95%CE%A3%CE%99%CE%91%20%CE%A4%CE%9F%CE%A5%20%CE%9D%CE%9F%CE%A3%CE%9F%CE%9A%CE%9F%CE%9C%CE%95%CE%99%CE%9F%CE%A5%20%CE%9C%CE%91%CE%A3&url=https%3A%2F%2Fwww.pammakaristos-hosp.gr%2F%25ce%25b4%25ce%25b7%25ce%25bc%25ce%25bf%25cf%2583%25ce%25b9%25ce%25b5%25cf%2585%25cf%2583%25ce%25b7-%25ce%25b1%25cf%2581%25ce%25b8%25cf%2581%25ce%25bf%25cf%2585-%25cf%2583%25cf%2584%25ce%25bf-discover-health-systems-%25ce%25b1%25cf%2580%25ce%25bf-%25cf%2584%25ce%25b7%25ce%25bd-%25ce%25ba%25ce%25bf%2F"
+      },
+      {
+        "href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.pammakaristos-hosp.gr%2F%25ce%25b5%25cf%2581%25ce%25b3%25ce%25b1%25cf%2583%25ce%25b9%25ce%25b5%25cf%2583-%25cf%2583%25cf%2585%25ce%25bd%25cf%2584%25ce%25b7%25cf%2581%25ce%25b7%25cf%2583%25ce%25b7%25cf%2583-%25ce%25ba%25ce%25b1%25ce%25b9-%25ce%25b1%25cf%2580%25ce%25bf%25ce%25ba%25ce%25b1%25cf%2584%25ce%25b1%25cf%2583%25cf%2584%25ce%25b1%25cf%2583%2F"
+      },
+      {
+        "href": "https://twitter.com/intent/tweet?text=%CE%95%CE%A1%CE%93%CE%91%CE%A3%CE%99%CE%95%CE%A3%20%CE%A3%CE%A5%CE%9D%CE%A4%CE%97%CE%A1%CE%97%CE%A3%CE%97%CE%A3%20%CE%9A%CE%91%CE%99%20%CE%91%CE%A0%CE%9F%CE%9A%CE%91%CE%A4%CE%91%CE%A3%CE%A4%CE%91%CE%A3%CE%97%CE%A3%20%CE%A4%CE%9F%CE%A5%20%CE%9A%CE%A4%CE%99%CE%A1%CE%99%CE%9F%CE%A5&url=https%3A%2F%2Fwww.pammakaristos-hosp.gr%2F%25ce%25b5%25cf%2581%25ce%25b3%25ce%25b1%25cf%2583%25ce%25b9%25ce%25b5%25cf%2583-%25cf%2583%25cf%2585%25ce%25bd%25cf%2584%25ce%25b7%25cf%2581%25ce%25b7%25cf%2583%25ce%25b7%25cf%2583-%25ce%25ba%25ce%25b1%25ce%25b9-%25ce%25b1%25cf%2580%25ce%25bf%25ce%25ba%25ce%25b1%25cf%2584%25ce%25b1%25cf%2583%25cf%2584%25ce%25b1%25cf%2583%2F"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://www.pammakaristos-hosp.gr/",
+        "method": "get",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "s",
+          "submit"
+        ],
+        "submitLabels": [
+          "Go!"
+        ],
+        "fields": [
+          {
+            "name": "s",
+            "type": "text",
+            "label": "Type and hit enter …",
+            "required": false
+          },
+          {
+            "type": "submit",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.pammakaristos-hosp.gr/epikoinwnia/#wpcf7-f4-p239-o1",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "_wpcf7",
+          "_wpcf7_version",
+          "_wpcf7_locale",
+          "_wpcf7_unit_tag",
+          "_wpcf7_container_post",
+          "_wpcf7_posted_data_hash",
+          "your-lastname",
+          "your-firstname",
+          "your-phone",
+          "your-email",
+          "your-reason",
+          "your-message",
+          "submit"
+        ],
+        "submitLabels": [
+          "Αποστολή Μηνύματος"
+        ],
+        "fields": [
+          {
+            "name": "_wpcf7",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_version",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_locale",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_unit_tag",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_container_post",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_posted_data_hash",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "your-lastname",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "your-firstname",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "your-phone",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "your-email",
+            "type": "email",
+            "required": true
+          },
+          {
+            "name": "your-reason",
+            "type": "select",
+            "required": true
+          },
+          {
+            "name": "your-message",
+            "type": "textarea",
+            "required": true
+          },
+          {
+            "type": "submit",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Παμμακάριστος",
+    "canonicalUrl": "https://www.pammakaristos-hosp.gr/",
+    "language": "el",
+    "robots": "max-image-preview:large",
+    "openGraphTitle": "Παμμακάριστος"
+  },
+  "imageReferences": [
+    {
+      "url": "https://www.pammakaristos-hosp.gr/wp-content/uploads/2018/03/logo-main-dummy-dark.png",
+      "alt": "Παμμακάριστος",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.095Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pammakaristos-hosp.gr/wp-content/uploads/2018/Logos/logo-small-dummy.png",
+      "alt": "Παμμακάριστος",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.095Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pammakaristos-hosp.gr/wp-content/plugins/revslider/admin/assets/images/dummy.png",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.095Z"
+        }
+      ]
+    },
+    {
+      "url": "http://www.pammakaristos-hosp.gr/wp-content/uploads/2018/Logos/logo-bottom-logo-hd.png",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.095Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pammakaristos-hosp.gr/wp-content/uploads/2018/Logos/logo-bottom-logo-regular.png",
+      "alt": "Παμμακάριστος",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.095Z"
+        }
+      ]
+    },
+    {
+      "url": "https://pammakaristos-hosp.gr/wp-content/uploads/2024/02/%CE%95%CF%85%CF%81%CF%89%CF%80%CE%B1%CE%B9%CE%BA%CE%AE-%CE%88%CE%BD%CF%89%CF%83%CE%B7.jpg",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.095Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pammakaristos-hosp.gr/wp-content/uploads/2024/04/IMG_4569.jpg",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%b9%ce%b5%cf%83-%cf%83%cf%85%ce%bd%cf%84%ce%b7%cf%81%ce%b7%cf%83%ce%b7%cf%83-%ce%ba%ce%b1%ce%b9-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%cf%84%ce%b1%cf%83%cf%84%ce%b1%cf%83",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.pammakaristos-hosp.gr/%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%b9%ce%b5%cf%83-%cf%83%cf%85%ce%bd%cf%84%ce%b7%cf%81%ce%b7%cf%83%ce%b7%cf%83-%ce%ba%ce%b1%ce%b9-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%cf%84%ce%b1%cf%83%cf%84%ce%b1%cf%83",
+          "retrievedAt": "2026-03-31T13:20:39.900Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pammakaristos-hosp.gr/wp-content/uploads/2024/04/IMG_4570.jpg",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%b9%ce%b5%cf%83-%cf%83%cf%85%ce%bd%cf%84%ce%b7%cf%81%ce%b7%cf%83%ce%b7%cf%83-%ce%ba%ce%b1%ce%b9-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%cf%84%ce%b1%cf%83%cf%84%ce%b1%cf%83",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.pammakaristos-hosp.gr/%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%b9%ce%b5%cf%83-%cf%83%cf%85%ce%bd%cf%84%ce%b7%cf%81%ce%b7%cf%83%ce%b7%cf%83-%ce%ba%ce%b1%ce%b9-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%cf%84%ce%b1%cf%83%cf%84%ce%b1%cf%83",
+          "retrievedAt": "2026-03-31T13:20:39.900Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "2102011091 - 2102019091",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.094Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213 2042100",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.094Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2014-2020",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.094Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "23/11/2024",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.094Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "44250-024-00159-6",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.094Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "34170/31.07.2020",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.094Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2627282930311234567891011121314151617181920212223242526272829303112345",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.094Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "11/09/2025",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.094Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "11/12/2024",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.094Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "87002911",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.094Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@pammakaristos-hosp.gr",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.094Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Ιακωβάτων 43, Τ.Κ. 11144, Αθήνα",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.094Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Το Νοσοκομείο Στα κτίρια του σημερινού Νοσοκομείου «ΠΑΜΜΑΚΑΡΙΣΤΟΣ», στη δεκαετία του 1930, λειτούργησε πρότυπο Δημοτικό Σχολείο με τη διεύθυνση των μοναχών της Ιεράς Μονής «Παμμακαρίστου Θεοτόκου». ΕπικοινωνίαΤηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.grΏρες Επισκεπτηρίου Καθημερινά: 11:00 – 13:00 & 18:00 – 21:00 Μονάδα Εμφραγμάτων: 12:00 – 12:30 & 18:00 – 18:30 Χρήσιμοι ΣύνδεσμοιΕφημερίες Πληροφορίες Επισκεπτηρίου Βρείτε μας στον χάρτη Εφημερεύοντα Νοσοκομεία Ⓒ ΠΑΜΜΑΚΑΡΙΣΤΟΣ 2023. All rights reserved. | Powered by CONNE3ION",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.094Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "ΕπικοινωνίαΤηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.gr",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.094Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Τηλέφωνο:213 2042100Ταχυδρομική Διεύθυνση:Ιακωβάτων 43,Τ.Κ. 11144, ΑθήναΗλεκτρονική Διεύθυνση:info@pammakaristos-hosp.gr",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.094Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.pammakaristos-hosp.gr/",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.pammakaristos-hosp.gr/",
+          "retrievedAt": "2026-03-31T13:20:31.094Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "4368/2016",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+          "retrievedAt": "2026-03-31T13:20:33.609Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "21.2.2016",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+          "retrievedAt": "2026-03-31T13:20:33.609Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "10976/10.2.2017",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+          "retrievedAt": "2026-03-31T13:20:33.609Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2132042287",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+          "retrievedAt": "2026-03-31T13:20:33.609Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213 2042106",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+          "retrievedAt": "2026-03-31T13:20:33.609Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2024-08-02 09",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+          "retrievedAt": "2026-03-31T13:20:33.609Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2102011091",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+          "retrievedAt": "2026-03-31T13:20:33.609Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "o.tsakalou@pammakaristos-hosp.gr",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+      "pageType": "services",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+          "retrievedAt": "2026-03-31T13:20:33.609Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+          "retrievedAt": "2026-03-31T13:20:33.609Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2102019091",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:20:34.332Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213 2042192",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:20:34.332Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213 2042159",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:20:34.332Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213 2042180",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:20:34.332Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213 2042201",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:20:34.332Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213 2042",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:20:34.332Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:20:34.332Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+          "retrievedAt": "2026-03-31T13:20:34.332Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2227-9032/13/14/1731",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-%ce%b4%ce%b9%ce%b5%ce%b8%ce%bd%ce%b5%cf%82-%cf%80%ce%b5%cf%81%ce%b9%ce%bf%ce%b4",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-%ce%b4%ce%b9%ce%b5%ce%b8%ce%bd%ce%b5%cf%82-%cf%80%ce%b5%cf%81%ce%b9%ce%bf%ce%b4",
+          "retrievedAt": "2026-03-31T13:20:36.337Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2132042100",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-%ce%b4%ce%b9%ce%b5%ce%b8%ce%bd%ce%b5%cf%82-%cf%80%ce%b5%cf%81%ce%b9%ce%bf%ce%b4",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-%ce%b4%ce%b9%ce%b5%ce%b8%ce%bd%ce%b5%cf%82-%cf%80%ce%b5%cf%81%ce%b9%ce%bf%ce%b4",
+          "retrievedAt": "2026-03-31T13:20:36.337Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-%ce%b4%ce%b9%ce%b5%ce%b8%ce%bd%ce%b5%cf%82-%cf%80%ce%b5%cf%81%ce%b9%ce%bf%ce%b4",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-%ce%b4%ce%b9%ce%b5%ce%b8%ce%bd%ce%b5%cf%82-%cf%80%ce%b5%cf%81%ce%b9%ce%bf%ce%b4",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-%ce%b4%ce%b9%ce%b5%ce%b8%ce%bd%ce%b5%cf%82-%cf%80%ce%b5%cf%81%ce%b9%ce%bf%ce%b4",
+          "retrievedAt": "2026-03-31T13:20:36.337Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf",
+          "retrievedAt": "2026-03-31T13:20:37.784Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.pammakaristos-hosp.gr/%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%b9%ce%b5%cf%83-%cf%83%cf%85%ce%bd%cf%84%ce%b7%cf%81%ce%b7%cf%83%ce%b7%cf%83-%ce%ba%ce%b1%ce%b9-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%cf%84%ce%b1%cf%83%cf%84%ce%b1%cf%83",
+      "sourcePageUrl": "https://www.pammakaristos-hosp.gr/%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%b9%ce%b5%cf%83-%cf%83%cf%85%ce%bd%cf%84%ce%b7%cf%81%ce%b7%cf%83%ce%b7%cf%83-%ce%ba%ce%b1%ce%b9-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%cf%84%ce%b1%cf%83%cf%84%ce%b1%cf%83",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.pammakaristos-hosp.gr/%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%b9%ce%b5%cf%83-%cf%83%cf%85%ce%bd%cf%84%ce%b7%cf%81%ce%b7%cf%83%ce%b7%cf%83-%ce%ba%ce%b1%ce%b9-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%cf%84%ce%b1%cf%83%cf%84%ce%b1%cf%83",
+          "retrievedAt": "2026-03-31T13:20:39.900Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://www.pammakaristos-hosp.gr/",
+    "finalOrigin": "https://www.pammakaristos-hosp.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://www.pammakaristos-hosp.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:20:30.866Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [
+        "/wp-admin/admin-ajax.php"
+      ],
+      "disallowRules": [
+        "/wp-admin/"
+      ],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://www.pammakaristos-hosp.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:20:30.198Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://www.pammakaristos-hosp.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-%ce%b4%ce%b9%ce%b5%ce%b8%ce%bd%ce%b5%cf%82-%cf%80%ce%b5%cf%81%ce%b9%ce%bf%ce%b4",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://pammakaristos-hosp.gr/?p=60978&preview=true",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/to-nosokomeio",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/to-nosokomeio/istoriko",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/to-nosokomeio/organogramma",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/gia-ton-politi",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/gia-ton-politi/diadikasia-eisagwgis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/gia-ton-politi/dikaiomata",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ypoxrewseis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/aimatologiko",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/aktinodiagnwstiko",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/vioximiko",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/kardiologiko",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:31.097Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:33.611Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/mikroviologiko",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+        "timestamp": "2026-03-31T13:20:33.611Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/gia-ton-politi/ergastiriakes-eksetaseis-top/puriniki-iatriki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+        "timestamp": "2026-03-31T13:20:33.611Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/gia-ton-politi/proina-iatreia",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+        "timestamp": "2026-03-31T13:20:33.611Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/gia-ton-politi/%ce%b1%cf%80%ce%bf%ce%b3%ce%b5%cf%85%ce%bc%ce%b1%cf%84%ce%b9%ce%bd%ce%ac-%ce%b9%ce%b1%cf%84%cf%81%ce%b5%ce%af%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/gia-ton-politi/grafeio-prostasias",
+        "timestamp": "2026-03-31T13:20:33.611Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:34.334Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/gia-ton-politi/vevaiwseis-enimerosi-2",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.pammakaristos-hosp.gr/epikoinwnia",
+        "timestamp": "2026-03-31T13:20:34.334Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-%ce%b4%ce%b9%ce%b5%ce%b8%ce%bd%ce%b5%cf%82-%cf%80%ce%b5%cf%81%ce%b9%ce%bf%ce%b4",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:36.338Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:37.788Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%b9%ce%b5%cf%83-%cf%83%cf%85%ce%bd%cf%84%ce%b7%cf%81%ce%b7%cf%83%ce%b7%cf%83-%ce%ba%ce%b1%ce%b9-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%cf%84%ce%b1%cf%83%cf%84%ce%b1%cf%83",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.pammakaristos-hosp.gr/",
+        "timestamp": "2026-03-31T13:20:39.902Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:20:42.366Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:20:44.205Z"
+      },
+      {
+        "url": "https://www.pammakaristos-hosp.gr/%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%b9%ce%b5%cf%83-%cf%83%cf%85%ce%bd%cf%84%ce%b7%cf%81%ce%b7%cf%83%ce%b7%cf%83-%ce%ba%ce%b1%ce%b9-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%cf%84%ce%b1%cf%83%cf%84%ce%b1%cf%83",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:20:46.179Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

@@ -1,0 +1,2935 @@
+{
+  "domain": "ioannislyras.com",
+  "collectedAt": "2026-03-31T13:16:05.876Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ioannislyras.com-home-0ea64803",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://www.ioannislyras.com/",
+      "finalUrl": "https://www.ioannislyras.com/el",
+      "fetchedAt": "2026-03-31T13:15:49.337Z",
+      "metadata": {
+        "title": "Πλαστικός Χειρουργός | Ιωάννης Λύρας",
+        "metaDescription": "Ο πλαστικός χειρουργός Λύρας Ιωάννης είναι ειδικός στην πλαστική χειρουργική του προσώπου και του σώματος. Ο Δρ Λύρας Ιωάννης έχει εκπαιδευτεί δίπλα στο γνωστό βραζιλιάνο καθηγητή Ivo Pitanguy.",
+        "language": "el-gr",
+        "openGraphImage": "https://www.ioannislyras.com/images/og.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Bραζιλιάνικη ομορφιά με Ευρωπαϊκό στύλ"
+        },
+        {
+          "level": "h2",
+          "text": "Δρ. Ιωάννης Λύρας AEXPI, ACEIP, FICS, NYAS"
+        },
+        {
+          "level": "h2",
+          "text": "ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ"
+        },
+        {
+          "level": "h2",
+          "text": "ΑΙΣΘΗΤΙΚΕΣ ΘΕΡΑΠΕΙΕΣ"
+        },
+        {
+          "level": "h2",
+          "text": "ΛΟΓΙΑ ΑΣΘΕΝΩΝ"
+        },
+        {
+          "level": "h2",
+          "text": "ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΜΑΖΙ ΜΑΣ"
+        },
+        {
+          "level": "h3",
+          "text": "Eπικοινωνία"
+        },
+        {
+          "level": "h3",
+          "text": "ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ"
+        },
+        {
+          "level": "h3",
+          "text": "ΔΡ. IΩΑΝΝΗΣ ΛΥΡΑΣ ΑΕΧPI, ACEIP, FICS, NYAS"
+        },
+        {
+          "level": "h3",
+          "text": "ΧΡΗΣΙΜΑ LINKS"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ NEWSLETTER ΜΑΣ"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.ioannislyras.com/"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AC-%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF",
+          "label": "ΙΑΤΡΙΚΑ ΒΙΝΤΕΟ"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/",
+          "label": "ΑΡΧΙΚΗ"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+          "label": "Ο δρ. ΛΥΡΑΣ"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+          "label": "Ιατρικές Δραστηριότητες"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%B7%CE%BC%CE%BF%CE%BD%CE%B9%CE%BA%CE%AD%CF%82-%CE%B9%CE%B4%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+          "label": "Επιστημονικές Ιδιότητες"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%BA%CE%AE-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE",
+          "label": "Κοινωνική Συμμετοχή"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B4%CE%B9%CE%B1%CE%BA%CF%81%CE%AF%CF%83%CE%B5%CE%B9%CF%82-%CE%B2%CF%81%CE%B1%CE%B2%CE%B5%CF%85%CF%83%CE%B5%CE%B9%CF%82-%CE%BF%CF%81%CF%8C%CF%83%CE%B7%CE%BC%CE%B1-%CE%B6%CF%89%CE%AE",
+          "label": "Διακρίσεις - Βραβευσεις - Ορόσημα Ζωή"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%BF%CE%B9-%CF%81%CE%AF%CE%B6%CE%B5%CF%82-%CE%BC%CE%BF%CF%85",
+          "label": "Οι Ρίζες μου"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B7-%CE%B2%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%AF%CE%B1-%CE%BC%CE%AD%CF%83%CE%B1-%CE%BC%CE%BF%CF%85/%CE%B1%CF%86%CE%B7%CE%B3%CE%B7%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CE%B2%CE%B9%CF%89%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1",
+          "label": "Αφηγηματική βιωματική ιστορία"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B7-%CE%B2%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%AF%CE%B1-%CE%BC%CE%AD%CF%83%CE%B1-%CE%BC%CE%BF%CF%85/%CE%B7-%CE%B2%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%B9%CE%AC%CE%BD%CE%B9%CE%BA%CE%B7-%CE%BF%CE%BC%CE%BF%CF%81%CF%86%CE%B9%CE%AC",
+          "label": "Η Βραζιλιάνικη Ομορφιά"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B7-%CE%B2%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%AF%CE%B1-%CE%BC%CE%AD%CF%83%CE%B1-%CE%BC%CE%BF%CF%85/%CE%BF-%CE%BA%CE%B1%CE%B8%CE%B7%CE%B3%CE%B7%CF%84%CE%AE%CF%82-ivo-pitanguy-%CE%B3%CF%81%CE%AC%CF%86%CE%B5%CE%B9",
+          "label": "Ο Καθηγητής Ivo Pitanguy γράφει"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AD%CF%82-%CF%86%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B5%CF%82",
+          "label": "Προσωπικές Φωτογραφίες"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CF%83%CF%85%CE%BD%CE%B5%CE%BD%CF%84%CE%B5%CF%8D%CE%BE%CE%B5%CE%B9%CF%82",
+          "label": "Συνεντεύξεις"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85",
+          "label": "Θεραπείες Προσώπου"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%85%CE%B1%CE%BB%CE%BF%CF%85%CF%81%CE%BF%CE%BD%CE%B9%CE%BA%CF%8C",
+          "label": "Υαλουρονικό"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%80%CE%B5%CF%80%CF%84%CE%AF%CE%B4%CE%B9%CE%B1-%CE%B2%CE%B9%CF%84%CE%B1%CE%BC%CE%AF%CE%BD%CE%B5%CF%82",
+          "label": "Πεπτίδια - Βιταμίνες"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%AD%CE%BD%CE%B6%CF%85%CE%BC%CE%B1",
+          "label": "Ένζυμα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/botox",
+          "label": "Botox"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%BC%CE%B5%CF%83%CE%BF%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B1",
+          "label": "Μεσοθεραπεία"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%B2%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE-%CE%BA%CF%85%CF%84%CF%84%CE%B1%CF%81%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CE%BD%CE%AD%CF%89%CF%83%CE%B7",
+          "label": "Βιολογική Κυτταρική Ανανέωση"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%B1%CE%BD%CE%B1%CE%AF%CE%BC%CE%B1%CE%BA%CF%84%CE%B7-%CE%B2%CE%BB%CE%B5%CF%86%CE%B1%CF%81%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE",
+          "label": "Αναίμακτη Βλεφαροπλαστική"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%BB%CE%AF%CF%80%CE%BF%CE%BB%CF%85%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CE%BF%CF%8D%CE%BB%CE%B9-%CE%BC%CE%AC%CE%B3%CE%BF%CF%85%CE%BB%CE%B1",
+          "label": "Λίπολυση - Προγούλι - Μάγουλα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%BB%CE%B9%CF%80%CE%BF%CF%80%CF%81%CF%8C%CF%83%CE%B8%CE%B5%CF%83%CE%B7",
+          "label": "Λιποπρόσθεση"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF-%CE%B1%CE%BD%CF%84%CE%B9%CE%B3%CE%AE%CF%81%CE%B1%CE%BD%CF%83%CE%B7%CF%82",
+          "label": "Συνδιασμοί Αντιγήρανσης"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%86%CF%85%CF%84%CE%B9%CE%BA%CF%8C-peeling",
+          "label": "Φυτικό Peeling"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%87%CE%B7%CE%BC%CE%B9%CE%BA%CF%8C-peeling",
+          "label": "Χημικό Peeling"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF-%CE%BC%CE%B5-%CE%BB%CE%AF%CF%80%CE%BF%CF%82",
+          "label": "Πρόσωπο με λίπος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%B2%CE%BB%CE%B1%CF%83%CF%84%CE%BF%CE%BA%CF%8D%CF%84%CF%84%CE%B1%CF%81%CE%B1",
+          "label": "Βλαστοκύτταρα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%B5%CE%BE%CF%89%CF%83%CF%8E%CE%BC%CE%B1%CF%84%CE%B1",
+          "label": "Εξωσώματα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%83%CF%8E%CE%BC%CE%B1%CF%84%CE%BF%CF%82",
+          "label": "Θεραπείες Σώματος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%83%CF%8E%CE%BC%CE%B1%CF%84%CE%BF%CF%82/%CE%B4%CE%AD%CF%81%CE%BC%CE%B1",
+          "label": "Δέρμα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%83%CF%8E%CE%BC%CE%B1%CF%84%CE%BF%CF%82/%CE%BB%CE%AF%CF%80%CE%BF%CF%82",
+          "label": "Λίπος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%83%CF%8E%CE%BC%CE%B1%CF%84%CE%BF%CF%82/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF-%CE%B1%CE%BD%CF%84%CE%B9%CE%B3%CE%AE%CF%81%CE%B1%CE%BD%CF%83%CE%B7%CF%82-%CF%83%CF%8D%CF%83%CF%86%CE%B9%CE%BE%CE%B7%CF%82-%CF%83%CE%B9%CE%BB%CE%BF%CF%85%CE%AD%CF%84%CE%B1%CF%82",
+          "label": "Συνδιασμοί Αντιγήρανσης σύσφιξης Σιλουέτας"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83",
+          "label": "ΕΠΕΜΒΑΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF",
+          "label": "Πρόσωπο"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF/lifting",
+          "label": "Lifting"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF/%CE%B2%CE%BB%CE%B5%CF%86%CE%B1%CF%81%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE",
+          "label": "Βλεφαροπλαστική"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF/%CF%80%CF%81%CE%BF%CE%B3%CE%BF%CF%8D%CE%BB%CE%B9",
+          "label": "Προγούλι"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF/%CF%89%CF%84%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE",
+          "label": "Ωτοπλαστική"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%BC%CF%8D%CF%84%CE%B7",
+          "label": "Μύτη"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%BC%CF%8D%CF%84%CE%B7/%CE%BA%CE%BB%CE%B5%CE%B9%CF%83%CF%84%CE%AE-%CF%81%CE%B9%CE%BD%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE",
+          "label": "Κλειστή Ρινοπλαστική"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%BC%CF%8D%CF%84%CE%B7/%CE%B1%CE%BD%CE%BF%CE%B9%CF%87%CF%84%CE%AE-%CF%81%CE%B9%CE%BD%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE",
+          "label": "Ανοιχτή Ρινοπλαστική"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%BC%CF%8D%CF%84%CE%B7/%CF%81%CE%B9%CE%BD%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CE%BA%CE%B1%CE%B9-%CE%B4%CE%B9%CE%AC%CF%86%CF%81%CE%B1%CE%B3%CE%BC%CE%B1",
+          "label": "Ρινοπλαστική και Διάφραγμα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%84%CE%AE%CE%B8%CE%BF%CF%82",
+          "label": "Στήθος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%8E%CE%BC%CE%B1",
+          "label": "Σώμα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%B3%CE%BB%CE%BF%CF%85%CF%84%CE%BF%CE%AF",
+          "label": "Γλουτοί"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%B5%CF%85%CE%B1%CE%AF%CF%83%CE%B8%CE%B7%CF%84%CE%B7-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AE",
+          "label": "Ευαίσθητη Περιοχή"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%B5%CF%85%CE%B1%CE%AF%CF%83%CE%B8%CE%B7%CF%84%CE%B7-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AE/%CE%B1%CE%B9%CF%83%CE%B8%CE%B7%CF%84%CE%B9%CE%BA%CE%AE-%CE%B3%CF%85%CE%BD%CE%B1%CE%B9%CE%BA%CE%B5%CE%AF%CF%89%CE%BD-%CE%AD%CE%BE%CF%89-%CE%B3%CE%B5%CE%BD%CE%BD%CE%B7%CF%84%CE%B9%CE%BA%CF%8E%CE%BD-%CE%BF%CF%81%CE%B3%CE%AC%CE%BD%CF%89%CE%BD",
+          "label": "Αισθητική γυναικείων Έξω γεννητικών οργάνων"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%B5%CF%85%CE%B1%CE%AF%CF%83%CE%B8%CE%B7%CF%84%CE%B7-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AE/%CE%B1%CE%B9%CF%83%CE%B8%CE%B7%CF%84%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B4%CF%81%CF%8E%CE%BD-%CE%AD%CE%BE%CF%89-%CE%B3%CE%B5%CE%BD%CE%BD%CE%B7%CF%84%CE%B9%CE%BA%CF%8E%CE%BD-%CE%BF%CF%81%CE%B3%CE%AC%CE%BD%CF%89%CE%BD",
+          "label": "Αισθητική ανδρών Έξω γεννητικών οργάνων"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF",
+          "label": "Συνδιασμοί"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF/2-2-%CE%B3%CE%BB%CE%BF%CF%85%CF%84%CE%BF%CE%AF-%CE%BD%CF%84%CE%B5%CE%BA%CE%BF%CE%BB%CF%84%CE%AD-%CF%83%CF%84%CE%AE%CE%B8%CE%BF%CF%82-%CE%BC%CE%B7%CF%81%CE%BF%CE%AF",
+          "label": "2 + 2 ( Γλουτοί Ντεκολτέ Στήθος Μηροί)"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF/2-1-%CE%B3%CE%BB%CE%BF%CF%85%CF%84%CE%BF%CE%AF-%CE%BD%CF%84%CE%B5%CE%BA%CE%BF%CE%BB%CF%84%CE%AD-%CF%83%CF%84%CE%AE%CE%B8%CE%BF%CF%82",
+          "label": "2+1 Γλουτοί Ντεκολτέ Στήθος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF/%CE%BC%CF%8D%CF%84%CE%B7-%CF%83%CF%84%CE%AE%CE%B8%CE%BF%CF%82",
+          "label": "Μύτη - Στήθος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF/mommy-make-over",
+          "label": "Mommy Make Over"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/media-1/%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%B1-%CF%84%CF%8D%CF%80%CE%BF%CF%85",
+          "label": "Δελτία Τύπου"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/media-1/%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF",
+          "label": "Βίντεο"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CE%BD%CE%B7%CE%BC%CE%B5%CF%81%CF%89%CF%83%CE%B7-blog",
+          "label": "ΕΝΗΜΕΡΩΣΗ - BLOG"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B7-%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CF%87%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CE%AE-%CF%83%CF%84%CE%B7%CE%BD-%CE%B1%CE%B8%CE%AE%CE%BD%CE%B1,-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1,-%CE%BF-%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CF%8C%CF%82-%CF%87%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CF%8C%CF%82-%CE%B4%CF%81-%CE%B9-%CE%BB%CF%8D%CF%81%CE%B1%CF%82",
+          "label": "ΠΕΡΙΣΣΟΤΕΡΑ"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.ioannislyras.com/el/",
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "form[newsletter_email]",
+            "form[formId]"
+          ],
+          "submitLabels": [
+            "ΕΓΓΡΑΦΗ"
+          ],
+          "fields": [
+            {
+              "name": "form[newsletter_email]",
+              "type": "email",
+              "label": "Email",
+              "required": true
+            },
+            {
+              "name": "form[formId]",
+              "type": "hidden",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "+30 210 7219 660",
+          "210 7219 660",
+          "210 7250 509",
+          "+30 6936 774 777",
+          "+302107219660",
+          "2107219660",
+          "+302107250509",
+          "+306936774777"
+        ],
+        "emails": [
+          "lyras@lifting.gr"
+        ],
+        "addresses": [
+          "Βασ. Σοφίας 57, Κολωνάκι, 115 21 +30 210 7219 660 lyras@lifting.gr",
+          "Βασ. Σοφίας 57, Κολωνάκι, 115 21",
+          "Βασ. Σοφίας 57 Κολωνάκι, 115 21 Αθήνα",
+          "ΔΡ. IΩΑΝΝΗΣ ΛΥΡΑΣ ΑΕΧPI, ACEIP, FICS, NYAS Αισθητικός, Επανορθωτικός Πλαστικός Χειρουργός Ερρίκος Ντυνάν - Διευθυντής Πλαστικής Χειρουργικής Κλινικής ΧΡΗΣΙΜΑ LINKS ΒΙΝΤΕΟ Ο ΙΑΤΡΟΣ ΘΕΡΑΠΕΙΕΣ ΠΡΟΣΩΠΟΥ ΘΕΡΑΠΕΙΕΣ ΣΩΜΑΤΟΣ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ NEWSLETTER ΜΑΣ Invalid email address. ΕΓΓΡΑΦΗ © 2026 DR. IOANNIS LYRAS All rights reserved",
+          "ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.instagram.com/lyras_plasticsurgery_results/"
+          },
+          {
+            "href": "https://www.facebook.com/dr.lyras.beautyland/"
+          },
+          {
+            "href": "https://www.linkedin.com/in/lyras-ioannis-b6b47116/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAANFlEMBSKoy4WI-dnvrXfSCbSsFMvccd7o"
+          },
+          {
+            "href": "https://www.youtube.com/user/vrotas/featured"
+          },
+          {
+            "href": "https://x.com/lyrasclinic"
+          },
+          {
+            "href": "https://www.tiktok.com/@drlyras_plasticsurgeon"
+          },
+          {
+            "href": "https://www.instagram.com/dr.lyras.plastic.surgeon"
+          },
+          {
+            "href": "https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHgYtmts0y9SQAAAXo4gQNoInlKqHiYnR39DVxwzWLGg3YBDp7-DhfOaI9uendXdIHcEhNP45TD37qDQfhg7Qb4ioLP03Dtyy5ZhaaN43iMczrSR1mDMvQvFFtyi3Mbt0_EuR4=&originalReferer=https://ioannislyras.com.144-76-136-139.weserver.eu/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flyras-ioannis-b6b47116%2F%3FminiProfileUrn%3Durn%253Ali%253Afs_miniProfile%253AACoAAANFlEMBSKoy4WI-dnvrXfSCbSsFMvccd7o"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.ioannislyras.com/el/",
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "form[newsletter_email]",
+              "form[formId]"
+            ],
+            "submitLabels": [
+              "ΕΓΓΡΑΦΗ"
+            ],
+            "fields": [
+              {
+                "name": "form[newsletter_email]",
+                "type": "email",
+                "label": "Email",
+                "required": true
+              },
+              {
+                "name": "form[formId]",
+                "type": "hidden",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "ΔΡ. IΩΑΝΝΗΣ ΛΥΡΑΣ ΑΕΧPI, ACEIP, FICS, NYAS Αισθητικός, Επανορθωτικός Πλαστικός Χειρουργός Ερρίκος Ντυνάν - Διευθυντής Πλαστικής Χειρουργικής Κλινικής ΧΡΗΣΙΜΑ LINKS ΒΙΝΤΕΟ Ο ΙΑΤΡΟΣ ΘΕΡΑΠΕΙΕΣ ΠΡΟΣΩΠΟΥ ΘΕΡΑΠΕΙΕΣ ΣΩΜΑΤΟΣ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ NEWSLETTER ΜΑΣ Invalid email address. ΕΓΓΡΑΦΗ © 2026 DR. IOANNIS LYRAS All rights reserved",
+      "textContent": "Βασ. Σοφίας 57, Κολωνάκι, 115 21 +30 210 7219 660 lyras@lifting.gr ΙΑΤΡΙΚΑ ΒΙΝΤΕΟ ΑΡΧΙΚΗ Ο δρ. ΛΥΡΑΣ Βιογραφικό Ιατρικές Δραστηριότητες Επιστημονικές Ιδιότητες Κοινωνική Συμμετοχή Διακρίσεις - Βραβευσεις - Ορόσημα Ζωή Οι Ρίζες μου Η Βραζιλία μέσα μου Αφηγηματική βιωματική ιστορία Η Βραζιλιάνικη Ομορφιά Ο Καθηγητής Ivo Pitanguy γράφει Προσωπικές Φωτογραφίες Συνεντεύξεις ΘΕΡΑΠΕΙΕΣ Θεραπείες Προσώπου Υαλουρονικό Πεπτίδια - Βιταμίνες Ένζυμα Botox Μεσοθεραπεία Βιολογική Κυτταρική Ανανέωση Αναίμακτη Βλεφαροπλαστική Λίπολυση - Προγούλι - Μάγουλα Λιποπρόσθεση Συνδιασμοί Αντιγήρανσης Φυτικό Peeling Χημικό Peeling Πρόσωπο με λίπος Βλαστοκύτταρα Εξωσώματα Θεραπείες Σώματος Δέρμα Λίπος Συνδιασμοί Αντιγήρανσης σύσφιξης Σιλουέτας ΕΠΕΜΒΑΣΕΙΣ Πρόσωπο Lifting Βλεφαροπλαστική Προγούλι Ωτοπλαστική Μύτη Κλειστή Ρινοπλαστική Ανοιχτή Ρινοπλαστική Ρινοπλαστική και Διάφραγμα Στήθος Σώμα Γλουτοί Ευαίσθητη Περιοχή Αισθητική γυναικείων Έξω γεννητικών οργάνων Αισθητική ανδρών Έξω γεννητικών οργάνων Συνδιασμοί 2 + 2 ( Γλουτοί Ντεκολτέ Στήθος Μηροί) 2+1 Γλουτοί Ντεκολτέ Στήθος Μύτη - Στήθος Mommy Make Over MEDIA Δελτία Τύπου Βίντεο ΕΝΗΜΕΡΩΣΗ - BLOG ΕΠΙΚΟΙΝΩΝΙΑ Δρ. Ιωάνης Λύρας - Δ/ντής Πλαστικός Χειρουργός - Αθήνα Επίτιμος Πρόξενος της Βραζιλίας - Πειραιάς Bραζιλιάνικη ομορφιά με Ευρωπαϊκό στύλ ΠΕΡΙΣΣΟΤΕΡΑ Δρ. Ιωάνης Λύρας - Δ/ντής Πλαστικός Χειρουργός - Αθήνα Επίτιμος Πρόξενος της Βραζιλίας - Πειραιάς Bραζιλιάνικη ομορφιά με Ευρωπαϊκό στύλ ΠΕΡΙΣΣΟΤΕΡΑ /****************************************** - PREPARE PLACEHOLDER FOR SLIDER - ******************************************/ var setREVStartSize = function() { var tpopt = new Object(); tpopt.startwidth = 1140; tpopt.startheight = 900; tpopt.container = jQuery('#rev_slider_1_1'); tpopt.fullScreen = \"on\"; tpopt.forceFullWidth=\"on\"; tpopt.container.closest(\".rev_slider_wrapper\").css({height:tpopt.container.height()});tpopt.width=parseInt(tpopt.container.width(),0);tpopt.height=parseInt(tpopt.container.height(),0);tpopt.bw=tpopt.width/tpopt.startwidth;tpopt.bh=tpopt.height/tpopt.startheight;if(tpopt.bh>tpopt.bw)tpopt.bh=tpopt.bw;if(tpopt.bh<tpopt.bw)tpopt.bw=tpopt.bh;if(tpopt.bw<tpopt.bh)tpopt.bh=tpopt.bw;if(tpopt.bh>1){tpopt.bw=1;tpopt.bh=1}if(tpopt.bw>1){tpopt.bw=1;tpopt.bh=1}tpopt.height=Math.round(tpopt.startheight*(tpopt.width/tpopt.startwidth));if(tpopt.height>tpopt.startheight&&tpopt.autoHeight!=\"on\")tpopt.height=tpopt.startheight;if(tpopt.fullScreen==\"on\"){tpopt.height=tpopt.bw*tpopt.startheight;var cow=tpopt.container.parent().width();var coh=jQuery(window).height();if(tpopt.fullScreenOffsetContainer!=undefined){try{var offcontainers=tpopt.fullScreenOffsetContainer.split(\",\");jQuery.each(offcontainers,function(e,t){coh=coh-jQuery(t).outerHeight(true);if(coh<tpopt.minFullScreenHeight)coh=tpopt.minFullScreenHeight})}catch(e){}}tpopt.container.parent().height(coh);tpopt.container.height(coh);tpopt.container.closest(\".rev_slider_wrapper\").height(coh);tpopt.container.closest(\".forcefullwidth_wrapper_tp_banner\").find(\".tp-fullwidth-forcer\").height(coh);tpopt.container.css({height:\"100%\"});tpopt.height=coh;}else{tpopt.container.height(tpopt.height);tpopt.container.closest(\".rev_slider_wrapper\").height(tpopt.height);tpopt.container.closest(\".forcefullwidth_wrapper_tp_banner\").find(\".tp-fullwidth-forcer\").height(tpopt.height);} }; /* CALL PLACEHOLDER */ setREVStartSize(); var tpj=jQuery; tpj.noConflict(); var revapi1; tpj(document).ready(function() { if(tpj('#rev_slider_1_1').revolution == undefined){ revslider_showDoubleJqueryError('#rev_slider_1_1'); }else{ revapi1 = tpj('#rev_slider_1_1').show().revolution( { dottedOverlay:\"none\", delay:9000, startwidth:1140, startheight:900, hideThumbs:200, thumbWidth:100, thumbHeight:50, thumbAmount:1, simplifyAll:\"off\", navigationType:\"none\", navigationArrows:\"none\", navigationStyle:\"round\", touchenabled:\"on\", onHoverStop:\"off\", nextSlideOnWindowFocus:\"off\", swipe_threshold: 75, swipe_min_touches: 1, drag_block_vertical: false, keyboardNavigation:\"off\", navigationHAlign:\"center\", navigationVAlign:\"bottom\", navigationHOffset:0, navigationVOffset:20, soloArrowLeftHalign:\"left\", soloArrowLeftValign:\"center\", soloArrowLeftHOffset:20, soloArrowLeftVOffset:0, soloArrowRightHalign:\"right\", soloArrowRightValign:\"center\", soloArrowRightHOffset:20, soloArrowRightVOffset:0, shadow:0, fullWidth:\"off\", fullScreen:\"on\", spinner:\"spinner0\", stopLoop:\"off\", stopAfterLoops:0, stopAtSlide:1, shuffle:\"off\", forceFullWidth:\"on\", fullScreenAlignForce:\"on\", minFullScreenHeight:\"300\", hideThumbsOnMobile:\"off\", hideNavDelayOnMobile:1500, hideBulletsOnMobile:\"off\", hideArrowsOnMobile:\"off\", hideThumbsUnderResolution:0, fullScreenOffsetContainer: \"#header, #top-bar\", fullScreenOffset: \"\", hideSliderAtLimit:0, hideCaptionAtLimit:0, hideAllCaptionAtLilmit:0, startWithSlide:0, isJoomla: true }); } }); /*ready*/ Η Πλαστική Χειρουργική είτε αισθητική είτε επανορθωτική, είναι μία ειδικότητα της Ιατρικής Επιστήμης που ασχολείται με την απόδοση της \"αρμονίας\" και της \"ομορφιάς\" στις \"γραμμές\" του προσώπου και του σώματος του ανθρώπου. Δρ. Ιωάννης Λύρας AEXPI, ACEIP, FICS, NYAS Αισθητικός, Επανορθωτικός Πλαστικός Χειρουργός. Ερρίκος Ντυνάν - Διευθυντής Πλαστικής Χειρουργικής Κλινικής Mέλος του Διεθνούς κολλεγίου χειρουργών, μέλος της Ελληνικής και της Διεθνούς εταιρίας Πλαστικής Χειρουργικής, μέλος της Ακαδημίας Επιστημών της Νέας Υόρκης ως Πλαστικός Χειρουργός. Ειδικός Ορκωτός Πραγματογνώμων Πλαστικής Χειρουργικής στα Αστικά και Ποινικά Δικαστήρια της Ελλάδος. ΠΕΡΙΣΣΟΤΕΡΑ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ Πρόσωπο Τίποτα δεν είναι πιο ευαίσθητο στα σημάδια του χρόνου απ’ ότι το πρόσωπο και το ντεκολτέ. Σώμα Ιδανικές αναλογίες σώματος - Ο όρος της αισθητικής και επανορθωτικής πλαστικής χειρουργικής. Μύτη Η Πλαστική μύτης και διαφράγματος είναι η πιο δημοφιλής πλαστική χειρουργική στον κόσμο. Στήθος Κάθε γυναίκα μπορεί να αποκτήσει το όμορφο στήθος που ονειρεύεται σε όλη της την ζωή. ΑΙΣΘΗΤΙΚΕΣ ΘΕΡΑΠΕΙΕΣ Πρόσωπο Όλα για την ομορφιά! Για την παράταση της νεότητας και για τη συμμετρία! ΠΕΡΙΣΣΟΤΕΡΑ Σώμα Αισθητικές Θεραπείες προσωπου: Όλα για την ομορφιά! Για την παράταση της νεότητας και για τη συμμετρία! αισθητικές θεραπείες σώματος: Τα όμορφα γυναικεία πόδια γύρισαν όχι και λίγες σελίδες της ιστορίας\" όπως λένε χαρακτηριστικά οι Γάλλοι. ΠΕΡΙΣΣΟΤΕΡΑ ΛΟΓΙΑ ΑΣΘΕΝΩΝ Έφτιαξα το στήθος μου που είναι το υπέρτατο σύμβολο θηλυκότητας και το όνειρο κάθε γυναίκας.Αφεθηκα στα μαγικά χέρια του κ.Λύρα, που είναι ένας υπέροχος, μοναδικός, και κορυφαίος επιστήμονας!!Το αποτέλεσμα είναι φυσικό και εξαιρετικό!!!!Η αυτοπεποίθηση μου έχει εκτιναχθεί στα ύψη!!!! Δεν είναι μόνο η κορυφή στην ειδικότητα του αλλά είναι και ένας καταπληκτικός ανθρώπος,που από την πρώτη στιγμή σέ κάνει να αισθανθείς πολύ άνετα!!!! Θέλω να τον ευχαριστήσω μέσα από την καρδιά μου,και ένα μεγάλο ευχαριστώ στο υπέροχο team που είναι πάντα δίπλα μας!!!! Συνεχίστε το έργο σας μοιράζοντας την ομορφιά σέ τόσες γυναίκες που είναι υπόσχεση ευτυχίας!!!!! Σας ευχαριστούμε και σας αγαπάμε πολύ. Ειρήνη Μ. Επισκέφτηκα τον Δρ Λύρα πριν λίγους μήνες ώστε να διορθώσω τα πεταχτά αυτιά που με ενοχλούσαν από παιδί. Στην πρώτη κιόλας επίσκεψη μου εξήγησε πλήρως όλη την διαδικασία της επεμβάσεως και έτσι μετά από λίγες ημέρες προχώρησα άμεσα. Η εμπειρία μοναδική, το αποτέλεσμα υπέροχο και όλα κύλησαν όπως ακριβώς μου τα είχε εξηγήσει. Είμαι απόλυτα ευχαριστημένος με το υπέροχο αποτέλεσμα!! Δρ Λύρα σας ευχαριστώ πολύ είστε μοναδικός γιατρος και άνθρωπος. Μπράβο και σε όλο το team σας. Χρήστος Π. Έχω να πω τα καλύτερα. Κύριε Λύρα σας ευχαριστώ πολύ για αυτό το μοναδικό αποτέλεσμα που καταφέρατε!! Μου δώσατε το σώμα που ονειρευόμουν τόσα χρόνια και εύχομαι να το είχα κάνει νωρίτερα. Πραγματικά το αποτέλεσμα είναι εκπληκτικό και χαίρομαι πολύ για αυτή τη συνεργασία. Πλέον είμαστε φίλοι και είστε ένας εκπληκτικός γιατρός. Το πιο σημαντικό όμως είναι ότι αισθάνθηκα σαν να σας ξέρω χρόνια γιατί πρώτα από όλα είστε ανοιχτόκαρδος άνθρωπος, προσιτός. Έχετε κερδίσει την εμπιστοσύνη και την αγάπη μου!! Βάλια Χ. Εχω κάνει πολλές επεβάσεις στον γιατρό κύριο Λύρα. Είμαι από τις πρώτες πελάτισσές του αμέσως όταν επέστρεψε από την Βραζιλία και έκανε το ιατρείο του στο Κολωνάκι. Πρώτα στήθος μεγεθυνση, μετά υαλουρονικό πολλές φορές, μετά βλεφαροπλαστική με λέιζερ, μετά νήματα και πρόσφατα κοιλιοπλαστική και βραζιλιάνικη λιπογλυπτική. Και συνεχίζω για να είμαι πάντα με προσεγμένη και περιποιημένη εμφάνιση. Το κάνω όχι μόνον για εμένα αλλά και για τον σύζυγό μου για να αισθάνεται καλά και για τα παιδιά μου και για τα εγγόνια μου. Πρόσφατα η εγγονή μου είδε κάποιες ρυτιδούλες στο πάνω χείλος μου και δεν με άφηνε να την φιλήσω. Αμέσως στον κύριο Λύρα. Τσούπ, μεσοθεραπεία και εντάξει. Μου αρέσει αυτός ο γιατρός γιατί δεν με πονάει, δεν με παραμορφώνει, δεν κάνει του κεφαλιού του. Με ακούει και με προσέχει. Πού και πού μου κάνει εκπτώσεις ή δωράκια. Είναι όμορφο να πηγαίνω στο ιατρείο του γιατί αμέσως αισθάνομαι ηρεμία και χαρά με αυτά που μου κάνει. Είναι γλυκομίλητος και καλός άνθρωπος. Βλέπω εκεί συνέχεια κόσμο μεγάλους και μικρούς πολύ ικανοποιημένους. Με κάποιες άλλες πελάτισσες έχουμε γίνει και φίλες. Καμιά φορά πηγαίνουμε Λύρα και μαζί. Δεν θέλω να γεράσω και δεν θα γεράσω γιατί διάβασα στο βιβλίο του ότι η Μαλβινα Κάραλη είχε πεί άλλο Λύρας, άλλο γήρας. Να ναι καλά ο γιατρός της ομορφιάς..Η ομορφιά είναι δικαίωμά μας. Αιμιλία Α. Επισκέφθηκα τον γιατρό για ανόρθωση στήθους μετά από 2 πλαστικούς που είχα πάει και δεν μου ενέπνεαν εμπιστοσύνη και βιάζοντουσαν να μου εξηγήσουν. Ο γιατρός μου μίλησε μια ώρα μου έλυσε όλες μου τις απορίες και έκλεισα το χειρουργείο λίγες μέρες μετά χωρίς δυσταγμο. Το αποτέλεσμα είναι μακράν ανώτερο των προσδοκιών μου και μετά από μια ανόρθωση και λιποαναρροφηση σώματος αλλά και υαλουρονικο στα χείλη που είναι η μόνη φορά που μου κράτησε τόσους μήνες έχω να πω ότι ο γιατρός δεν αλλάζει μόνο σώματα αλλάζει και ζωές. Κάθε φορά που πηγαίνω χαίρομαι να τον βλέπω και την απίστευτη ομάδα που έχει την Παρασκευή την Σοφία και την Μαρία που πραγματικά τις έχω λατρέψει. Οτιδήποτε παρέμβαση θα κάνω θα πάω με κλειστά μάτια πράγματικα ότι μου έχει πει ο κος Λύρας και η Παρασκευή ήταν 100% σωστό. Σας ευχαριστώ όλους από καρδιάς!!! Ραφαέλα Κ. Εξαιρετικός ιατρός! Η εμπειρία του, η πλήρης γνώση του αντικειμένου του, η προσαρμοστικότητά του σε κάθε περίπτωση (προσωπικά είχα δυο πετυχημένα χειρουργεία) είναι στοιχεία που σε κάνουν να νιώθεις ασφαλής, σιγουριά και να θέλεις να συνεχίσεις. Συγχαρητήρια σε όλο το team! Έλενα Σ. Γνώρισα τον γιατρό κ. Ιωάννη Λύρα το 1999. Η πρώτη επέμβαση που πραγματοποίησα τότε ήταν αυτή της γυναικομαστίας και συνδυαστικά μία επέμβαση βλεφαροπλαστικής για να αφαιρεθούν οι σακούλες και επίσης ανανέωση με λίπος στο πρόσωπο γιατί ήμουν ήδη 52 ετών τότε και είχα αρχίσει να φαίνομαι κουρασμένος ενώ δεν αισθανόμουν έτσι.. Αυτές ήταν επεμβάσεις που μου άλλαξαν το βλέμμα μου και το σώμα μου, άλλα περισσότερο την ψυχολογία μου, ανεβάζοντας κατακόρυφα την συμπεριφορά μου. Και κάπως έτσι ξεκινάει η γνωριμία μας με τον κ. Λύρα που διαρκεί έως και σήμερα. Συνεχίσαμε από τότε με πολλές θεραπείες προσώπου με ενέσιμο υαλουρονικό, μεσαοθεραπείες και μπότοξ. Παρόλες τις θεραπείες είχα πάντα φυσικό αποτέλεσμα χωρίς υπερβολές ή παραμορφώσεις. Όλοι και όλες μου λένε ότι δείχνω ξεκούραστος και νεότερος από την σημερινή μου ηλικία που είναι 72 προς 73. Όλο αυτά τα χρόνια δεν έχω σταματήσει να επισκέπτομαι το ιατρείο του κ Λύρα και για άλλες αισθητικές συμβουλές όπως και διατροφή με βιταμίνες. Όλα είναι πολύ καλά και τα υλικά είναι πολύ καλά ποιοτικά, με μεγάλη διάρκεια και φίλοι και γνωστοί πάντα μου λένε πως φαίνομαι μέχρι 50 ετών. Οι τιμές είναι φυσιολογικές έως και φτηνές και εμένα μου κάνει μεγάλες εκπτώσεις επειδή γνωριζόμαστε 20 χρόνια, δηλαδή έχω πάει και 20 φορές για θεραπεία. Όταν γνωριστήκαμε το 1999 ήμουν 52 ετών. Ο Δρ Λύρας είναι ένας θαυμάσιος γιατρός, επιτυχημένος, αριστούχος και δεν τον αλλάζω ποτέ και με τίποτα. Ακόμη και δωρεάν κάποιος άλλος να μου έλεγε να κάνω οτιδήποτε δεν θα πήγαινα ποτέ, δεν αλλάζω τον Δρ Λύρα με τίποτα διότι είναι μοναδικός. Είναι ένας πού ευγενικός άνθρωπος και σταθερός χαρακτήρας. Κάνει όλες τις θεραπείες και τις επεμβάσεις ο ίδιος. Ευτύχιος Π. Εμπιστεύομαι τον γιατρό εδώ και 9 χρόνια. Πριν από 7 χρόνια έκανα βλέφαρο πλαστική και απαλλαχτηκα από σακούλες που είχα κάτω από τα μάτια από τότε που θυμόμουν τον εαυτό μου.Το πρόσωπο μου που έδειχνε πάντα κουρασμένο φαίνεται πολύ πιο νεανικό και το αποτέλεσμα μένει αναλλοίωτο από τότε.Πριν από δύο εβδομάδες έκανα μίνι λιφτ κάτω προσώπου με ανόρθωση λαιμού.Δεν θα εμπιστευομουν κανέναν άλλο γιατρό για μια τέτοια επέμβαση.Δεν είχα και δεν έχω κανένα άγχος για το αν θα μείνουν ουλές η αν θα παραμορφοθω. Και ήδη το αποτέλεσμα είναι καταπληκτικό.Δεν είχα τέτοιο λαιμό ποτέ στην ζωή μου, ενώ μέσα σε 15 ημέρες μπορώ και έχω κοινωνική ζωή χωρίς να φαίνεται ότι έχω κάνει χειρουργειο. Σας ευχαριστώ πολύ γιατρέ.Μου αλλάξατε την ψυχολογία και κατά συνέπεια την ζωή μου. Να είστε παντα καλα. Βάσω Ι. Ήταν μια καταπληκτική δουλειά! Σας ευχαριστώ πάρα πολύ! Έκανα λιπομεταφορά πριν 3 χρόνια στο πρόσωπο και το αποτέλεσμα είναι καταπληκτικό ακόμα και μετά από τόσο καιρό! Όχι μόνο δεν σκέφτηκα να κάνω κάποια επαναληπτική διαδικασία αλλά αντιθέτως φαίνεται σαν να έχει γίνει η επέμβαση πολύ πρόσφατα! Χάρηκα πολύ που ήσασταν ο θεράπων ιατρός μου γιατί εκτός από κορυφαίος πλαστικός είστε και ένας εξαιρετικός άνθρωπος! Δημήτρης Π. Το όνειρο που γίνεται πραγματικότητα στο σήμερα. Πάντα εδώ για εμάς με ατελείωτη έμπνευση και ανεκτίμητη υποστήριξη ώστε να μας δώσει τη χαρά και την ευτυχία της πρόσβασης στην ατέρμονη ομορφιά και με βάση πάντα το σεβασμό στην προσωπικότητα και το στυλ που ταιριάζει σε καθεμία από εμάς. Θεϊκός εμπνευστής της ομορφιάς, λαμπρός επιστήμων, υπέροχος γιατρός και άνθρωπος. \"Από μικρή φοβόμουνα το γήρας το μεγάλο, μα είδα πώς με έφτιαξες δε θέλω πράγμα άλλο\". Ρουμπίνα Μ. jQuery(document).ready(function($){ jQuery(\".book-slider .owl-carousel\").owlCarousel({ loop: true, autoplay: true, nav: true, navText : ['<span class=\"fa fa-angle-left\" aria-hidden=\"true\"></span>','<span class=\"fa fa-angle-right\" aria-hidden=\"true\"></span>'], dots: false, responsive : { // breakpoint from 0 up 0 : { items:1, }, // breakpoint from 480 up 481 : { items:1, }, // breakpoint from 768 up 768 : { items:1, }, // breakpoint from 980 up 1024 : { items:1, }, 1366 : { items:1, } } }); }); Το μυστικό της Βραζιλιάνικης ομορφιάς Η βραζιλιάνικη ομορφιά απο φιλοσοφική και πολιτική άποψη ΠΕΡΙΣΣΟΤΕΡΑ Η φυσική ανάγκη του ανθρώπου για ένα σώμα χωρίς ατέλειες αποτελεί σχεδόν ένστικτο. Στη Βραζιλία, χώρα των χρωμάτων των αντιθέσεων, της αρμονίας, της \"σάμπα\" και των όμορφων σωμάτων, υπάρχει ίσως ένα μυστικό, το μυστικό της Βραζιλιάνικης ομορφιάς. ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΜΑΖΙ ΜΑΣ Καλέστε μας για να σας λύσουμε κάθε απορία ή για να κλείσετε το ραντεβού σας ΠΕΡΙΣΣΟΤΕΡΑ Eπικοινωνία Βασ. Σοφίας 57 Κολωνάκι, 115 21 Αθήνα ΤΗΛ: 210 7219 660, Fax: 210 7250 509 lyras@lifting.gr ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ ΔΕΥΤΕΡΑ - ΠΑΡΑΣΚΕΥΗ 11:00 - 19:00 ΔΡ. IΩΑΝΝΗΣ ΛΥΡΑΣ ΑΕΧPI, ACEIP, FICS, NYAS Αισθητικός, Επανορθωτικός Πλαστικός Χειρουργός Ερρίκος Ντυνάν - Διευθυντής Πλαστικής Χειρουργικής Κλινικής ΧΡΗΣΙΜΑ LINKS ΒΙΝΤΕΟ Ο ΙΑΤΡΟΣ ΘΕΡΑΠΕΙΕΣ ΠΡΟΣΩΠΟΥ ΘΕΡΑΠΕΙΕΣ ΣΩΜΑΤΟΣ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ NEWSLETTER ΜΑΣ Invalid email address. ΕΓΓΡΑΦΗ © 2026 DR. IOANNIS LYRAS All rights reserved ScrollReveal().reveal('#intro,#aesthetics-face,#motto,#makria', {origin: 'left',distance: '150px', duration:1000, reset: false, delay: 500 }); ScrollReveal().reveal('#viografiko,.surgery-1,#book,#aesthetics-body', {origin: 'bottom',distance: '150px', duration:1000, reset: false, delay: 500 }); ScrollReveal().reveal('.surgery-2,#patients,#contact,#randevouz', {origin: 'top',distance: '150px', duration:1000, reset: false, delay: 500 });",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ioannislyras.com-home-0ea64803/homepage-el-89f04157.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ioannislyras.com-home-0ea64803/homepage-el-89f04157.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.ioannislyras.com/images/og.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "homepage",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:49.331Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/logo.png",
+          "alt": "ioannislyras",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:49.331Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/body-therapy/derma.png",
+          "alt": "Δέρμα",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:49.331Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/body-therapy/lipos.png",
+          "alt": "Λίπος",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:49.331Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/body-therapy/img-3.png",
+          "alt": "Συνδιασμοί Αντιγήρανσης σύσφιξης Σιλουέτας",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:49.331Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/epemvaseis-images/lifting.png",
+          "alt": "Lifting",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:49.331Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/slider/slider-img-test.png",
+          "alt": "slider-img-test",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:49.331Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/cv-img/cv-logo.jpg",
+          "alt": "Dr. Ioannis Lyras",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:49.331Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/aesthetics/vraveia.png",
+          "alt": "vraveia",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:49.331Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/plastic-surgery/face-img.jpg",
+          "alt": "face surgery",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:49.331Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/plastic-surgery/body-img.jpg",
+          "alt": "face surgery",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:49.331Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/plastic-surgery/nose-img.jpg",
+          "alt": "face surgery",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:49.331Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.337Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ioannislyras.com-home-0ea64803/homepage-el-89f04157.png"
+    },
+    "about": {
+      "pageType": "about",
+      "requestedUrl": "https://www.ioannislyras.com/el",
+      "finalUrl": "https://www.ioannislyras.com/el",
+      "fetchedAt": "2026-03-31T13:15:52.941Z",
+      "metadata": {
+        "title": "Πλαστικός Χειρουργός | Ιωάννης Λύρας",
+        "metaDescription": "Ο πλαστικός χειρουργός Λύρας Ιωάννης είναι ειδικός στην πλαστική χειρουργική του προσώπου και του σώματος. Ο Δρ Λύρας Ιωάννης έχει εκπαιδευτεί δίπλα στο γνωστό βραζιλιάνο καθηγητή Ivo Pitanguy.",
+        "language": "el-gr",
+        "openGraphImage": "https://www.ioannislyras.com/images/og.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Bραζιλιάνικη ομορφιά με Ευρωπαϊκό στύλ"
+        },
+        {
+          "level": "h2",
+          "text": "Δρ. Ιωάννης Λύρας AEXPI, ACEIP, FICS, NYAS"
+        },
+        {
+          "level": "h2",
+          "text": "ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ"
+        },
+        {
+          "level": "h2",
+          "text": "ΑΙΣΘΗΤΙΚΕΣ ΘΕΡΑΠΕΙΕΣ"
+        },
+        {
+          "level": "h2",
+          "text": "ΛΟΓΙΑ ΑΣΘΕΝΩΝ"
+        },
+        {
+          "level": "h2",
+          "text": "ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΜΑΖΙ ΜΑΣ"
+        },
+        {
+          "level": "h3",
+          "text": "Eπικοινωνία"
+        },
+        {
+          "level": "h3",
+          "text": "ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ"
+        },
+        {
+          "level": "h3",
+          "text": "ΔΡ. IΩΑΝΝΗΣ ΛΥΡΑΣ ΑΕΧPI, ACEIP, FICS, NYAS"
+        },
+        {
+          "level": "h3",
+          "text": "ΧΡΗΣΙΜΑ LINKS"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ NEWSLETTER ΜΑΣ"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.ioannislyras.com/"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AC-%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF",
+          "label": "ΙΑΤΡΙΚΑ ΒΙΝΤΕΟ"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/",
+          "label": "ΑΡΧΙΚΗ"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+          "label": "Ο δρ. ΛΥΡΑΣ"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+          "label": "Ιατρικές Δραστηριότητες"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%B7%CE%BC%CE%BF%CE%BD%CE%B9%CE%BA%CE%AD%CF%82-%CE%B9%CE%B4%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+          "label": "Επιστημονικές Ιδιότητες"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%BA%CE%AE-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE",
+          "label": "Κοινωνική Συμμετοχή"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B4%CE%B9%CE%B1%CE%BA%CF%81%CE%AF%CF%83%CE%B5%CE%B9%CF%82-%CE%B2%CF%81%CE%B1%CE%B2%CE%B5%CF%85%CF%83%CE%B5%CE%B9%CF%82-%CE%BF%CF%81%CF%8C%CF%83%CE%B7%CE%BC%CE%B1-%CE%B6%CF%89%CE%AE",
+          "label": "Διακρίσεις - Βραβευσεις - Ορόσημα Ζωή"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%BF%CE%B9-%CF%81%CE%AF%CE%B6%CE%B5%CF%82-%CE%BC%CE%BF%CF%85",
+          "label": "Οι Ρίζες μου"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B7-%CE%B2%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%AF%CE%B1-%CE%BC%CE%AD%CF%83%CE%B1-%CE%BC%CE%BF%CF%85/%CE%B1%CF%86%CE%B7%CE%B3%CE%B7%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CE%B2%CE%B9%CF%89%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1",
+          "label": "Αφηγηματική βιωματική ιστορία"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B7-%CE%B2%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%AF%CE%B1-%CE%BC%CE%AD%CF%83%CE%B1-%CE%BC%CE%BF%CF%85/%CE%B7-%CE%B2%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%B9%CE%AC%CE%BD%CE%B9%CE%BA%CE%B7-%CE%BF%CE%BC%CE%BF%CF%81%CF%86%CE%B9%CE%AC",
+          "label": "Η Βραζιλιάνικη Ομορφιά"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B7-%CE%B2%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%AF%CE%B1-%CE%BC%CE%AD%CF%83%CE%B1-%CE%BC%CE%BF%CF%85/%CE%BF-%CE%BA%CE%B1%CE%B8%CE%B7%CE%B3%CE%B7%CF%84%CE%AE%CF%82-ivo-pitanguy-%CE%B3%CF%81%CE%AC%CF%86%CE%B5%CE%B9",
+          "label": "Ο Καθηγητής Ivo Pitanguy γράφει"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AD%CF%82-%CF%86%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B5%CF%82",
+          "label": "Προσωπικές Φωτογραφίες"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CF%83%CF%85%CE%BD%CE%B5%CE%BD%CF%84%CE%B5%CF%8D%CE%BE%CE%B5%CE%B9%CF%82",
+          "label": "Συνεντεύξεις"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85",
+          "label": "Θεραπείες Προσώπου"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%85%CE%B1%CE%BB%CE%BF%CF%85%CF%81%CE%BF%CE%BD%CE%B9%CE%BA%CF%8C",
+          "label": "Υαλουρονικό"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%80%CE%B5%CF%80%CF%84%CE%AF%CE%B4%CE%B9%CE%B1-%CE%B2%CE%B9%CF%84%CE%B1%CE%BC%CE%AF%CE%BD%CE%B5%CF%82",
+          "label": "Πεπτίδια - Βιταμίνες"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%AD%CE%BD%CE%B6%CF%85%CE%BC%CE%B1",
+          "label": "Ένζυμα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/botox",
+          "label": "Botox"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%BC%CE%B5%CF%83%CE%BF%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B1",
+          "label": "Μεσοθεραπεία"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%B2%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE-%CE%BA%CF%85%CF%84%CF%84%CE%B1%CF%81%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CE%BD%CE%AD%CF%89%CF%83%CE%B7",
+          "label": "Βιολογική Κυτταρική Ανανέωση"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%B1%CE%BD%CE%B1%CE%AF%CE%BC%CE%B1%CE%BA%CF%84%CE%B7-%CE%B2%CE%BB%CE%B5%CF%86%CE%B1%CF%81%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE",
+          "label": "Αναίμακτη Βλεφαροπλαστική"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%BB%CE%AF%CF%80%CE%BF%CE%BB%CF%85%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CE%BF%CF%8D%CE%BB%CE%B9-%CE%BC%CE%AC%CE%B3%CE%BF%CF%85%CE%BB%CE%B1",
+          "label": "Λίπολυση - Προγούλι - Μάγουλα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%BB%CE%B9%CF%80%CE%BF%CF%80%CF%81%CF%8C%CF%83%CE%B8%CE%B5%CF%83%CE%B7",
+          "label": "Λιποπρόσθεση"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF-%CE%B1%CE%BD%CF%84%CE%B9%CE%B3%CE%AE%CF%81%CE%B1%CE%BD%CF%83%CE%B7%CF%82",
+          "label": "Συνδιασμοί Αντιγήρανσης"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%86%CF%85%CF%84%CE%B9%CE%BA%CF%8C-peeling",
+          "label": "Φυτικό Peeling"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%87%CE%B7%CE%BC%CE%B9%CE%BA%CF%8C-peeling",
+          "label": "Χημικό Peeling"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF-%CE%BC%CE%B5-%CE%BB%CE%AF%CF%80%CE%BF%CF%82",
+          "label": "Πρόσωπο με λίπος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%B2%CE%BB%CE%B1%CF%83%CF%84%CE%BF%CE%BA%CF%8D%CF%84%CF%84%CE%B1%CF%81%CE%B1",
+          "label": "Βλαστοκύτταρα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%B5%CE%BE%CF%89%CF%83%CF%8E%CE%BC%CE%B1%CF%84%CE%B1",
+          "label": "Εξωσώματα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%83%CF%8E%CE%BC%CE%B1%CF%84%CE%BF%CF%82",
+          "label": "Θεραπείες Σώματος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%83%CF%8E%CE%BC%CE%B1%CF%84%CE%BF%CF%82/%CE%B4%CE%AD%CF%81%CE%BC%CE%B1",
+          "label": "Δέρμα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%83%CF%8E%CE%BC%CE%B1%CF%84%CE%BF%CF%82/%CE%BB%CE%AF%CF%80%CE%BF%CF%82",
+          "label": "Λίπος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%83%CF%8E%CE%BC%CE%B1%CF%84%CE%BF%CF%82/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF-%CE%B1%CE%BD%CF%84%CE%B9%CE%B3%CE%AE%CF%81%CE%B1%CE%BD%CF%83%CE%B7%CF%82-%CF%83%CF%8D%CF%83%CF%86%CE%B9%CE%BE%CE%B7%CF%82-%CF%83%CE%B9%CE%BB%CE%BF%CF%85%CE%AD%CF%84%CE%B1%CF%82",
+          "label": "Συνδιασμοί Αντιγήρανσης σύσφιξης Σιλουέτας"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83",
+          "label": "ΕΠΕΜΒΑΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF",
+          "label": "Πρόσωπο"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF/lifting",
+          "label": "Lifting"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF/%CE%B2%CE%BB%CE%B5%CF%86%CE%B1%CF%81%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE",
+          "label": "Βλεφαροπλαστική"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF/%CF%80%CF%81%CE%BF%CE%B3%CE%BF%CF%8D%CE%BB%CE%B9",
+          "label": "Προγούλι"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF/%CF%89%CF%84%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE",
+          "label": "Ωτοπλαστική"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%BC%CF%8D%CF%84%CE%B7",
+          "label": "Μύτη"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%BC%CF%8D%CF%84%CE%B7/%CE%BA%CE%BB%CE%B5%CE%B9%CF%83%CF%84%CE%AE-%CF%81%CE%B9%CE%BD%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE",
+          "label": "Κλειστή Ρινοπλαστική"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%BC%CF%8D%CF%84%CE%B7/%CE%B1%CE%BD%CE%BF%CE%B9%CF%87%CF%84%CE%AE-%CF%81%CE%B9%CE%BD%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE",
+          "label": "Ανοιχτή Ρινοπλαστική"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%BC%CF%8D%CF%84%CE%B7/%CF%81%CE%B9%CE%BD%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CE%BA%CE%B1%CE%B9-%CE%B4%CE%B9%CE%AC%CF%86%CF%81%CE%B1%CE%B3%CE%BC%CE%B1",
+          "label": "Ρινοπλαστική και Διάφραγμα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%84%CE%AE%CE%B8%CE%BF%CF%82",
+          "label": "Στήθος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%8E%CE%BC%CE%B1",
+          "label": "Σώμα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%B3%CE%BB%CE%BF%CF%85%CF%84%CE%BF%CE%AF",
+          "label": "Γλουτοί"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%B5%CF%85%CE%B1%CE%AF%CF%83%CE%B8%CE%B7%CF%84%CE%B7-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AE",
+          "label": "Ευαίσθητη Περιοχή"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%B5%CF%85%CE%B1%CE%AF%CF%83%CE%B8%CE%B7%CF%84%CE%B7-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AE/%CE%B1%CE%B9%CF%83%CE%B8%CE%B7%CF%84%CE%B9%CE%BA%CE%AE-%CE%B3%CF%85%CE%BD%CE%B1%CE%B9%CE%BA%CE%B5%CE%AF%CF%89%CE%BD-%CE%AD%CE%BE%CF%89-%CE%B3%CE%B5%CE%BD%CE%BD%CE%B7%CF%84%CE%B9%CE%BA%CF%8E%CE%BD-%CE%BF%CF%81%CE%B3%CE%AC%CE%BD%CF%89%CE%BD",
+          "label": "Αισθητική γυναικείων Έξω γεννητικών οργάνων"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%B5%CF%85%CE%B1%CE%AF%CF%83%CE%B8%CE%B7%CF%84%CE%B7-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AE/%CE%B1%CE%B9%CF%83%CE%B8%CE%B7%CF%84%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B4%CF%81%CF%8E%CE%BD-%CE%AD%CE%BE%CF%89-%CE%B3%CE%B5%CE%BD%CE%BD%CE%B7%CF%84%CE%B9%CE%BA%CF%8E%CE%BD-%CE%BF%CF%81%CE%B3%CE%AC%CE%BD%CF%89%CE%BD",
+          "label": "Αισθητική ανδρών Έξω γεννητικών οργάνων"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF",
+          "label": "Συνδιασμοί"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF/2-2-%CE%B3%CE%BB%CE%BF%CF%85%CF%84%CE%BF%CE%AF-%CE%BD%CF%84%CE%B5%CE%BA%CE%BF%CE%BB%CF%84%CE%AD-%CF%83%CF%84%CE%AE%CE%B8%CE%BF%CF%82-%CE%BC%CE%B7%CF%81%CE%BF%CE%AF",
+          "label": "2 + 2 ( Γλουτοί Ντεκολτέ Στήθος Μηροί)"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF/2-1-%CE%B3%CE%BB%CE%BF%CF%85%CF%84%CE%BF%CE%AF-%CE%BD%CF%84%CE%B5%CE%BA%CE%BF%CE%BB%CF%84%CE%AD-%CF%83%CF%84%CE%AE%CE%B8%CE%BF%CF%82",
+          "label": "2+1 Γλουτοί Ντεκολτέ Στήθος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF/%CE%BC%CF%8D%CF%84%CE%B7-%CF%83%CF%84%CE%AE%CE%B8%CE%BF%CF%82",
+          "label": "Μύτη - Στήθος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF/mommy-make-over",
+          "label": "Mommy Make Over"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/media-1/%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%B1-%CF%84%CF%8D%CF%80%CE%BF%CF%85",
+          "label": "Δελτία Τύπου"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/media-1/%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF",
+          "label": "Βίντεο"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CE%BD%CE%B7%CE%BC%CE%B5%CF%81%CF%89%CF%83%CE%B7-blog",
+          "label": "ΕΝΗΜΕΡΩΣΗ - BLOG"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B7-%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CF%87%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CE%AE-%CF%83%CF%84%CE%B7%CE%BD-%CE%B1%CE%B8%CE%AE%CE%BD%CE%B1,-%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1,-%CE%BF-%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CF%8C%CF%82-%CF%87%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CF%8C%CF%82-%CE%B4%CF%81-%CE%B9-%CE%BB%CF%8D%CF%81%CE%B1%CF%82",
+          "label": "ΠΕΡΙΣΣΟΤΕΡΑ"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.ioannislyras.com/el",
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "form[newsletter_email]",
+            "form[formId]"
+          ],
+          "submitLabels": [
+            "ΕΓΓΡΑΦΗ"
+          ],
+          "fields": [
+            {
+              "name": "form[newsletter_email]",
+              "type": "email",
+              "label": "Email",
+              "required": true
+            },
+            {
+              "name": "form[formId]",
+              "type": "hidden",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "+30 210 7219 660",
+          "210 7219 660",
+          "210 7250 509",
+          "+30 6936 774 777",
+          "+302107219660",
+          "2107219660",
+          "+302107250509",
+          "+306936774777"
+        ],
+        "emails": [
+          "lyras@lifting.gr"
+        ],
+        "addresses": [
+          "Βασ. Σοφίας 57, Κολωνάκι, 115 21 +30 210 7219 660 lyras@lifting.gr",
+          "Βασ. Σοφίας 57, Κολωνάκι, 115 21",
+          "Βασ. Σοφίας 57 Κολωνάκι, 115 21 Αθήνα",
+          "ΔΡ. IΩΑΝΝΗΣ ΛΥΡΑΣ ΑΕΧPI, ACEIP, FICS, NYAS Αισθητικός, Επανορθωτικός Πλαστικός Χειρουργός Ερρίκος Ντυνάν - Διευθυντής Πλαστικής Χειρουργικής Κλινικής ΧΡΗΣΙΜΑ LINKS ΒΙΝΤΕΟ Ο ΙΑΤΡΟΣ ΘΕΡΑΠΕΙΕΣ ΠΡΟΣΩΠΟΥ ΘΕΡΑΠΕΙΕΣ ΣΩΜΑΤΟΣ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ NEWSLETTER ΜΑΣ Invalid email address. ΕΓΓΡΑΦΗ © 2026 DR. IOANNIS LYRAS All rights reserved",
+          "ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.instagram.com/lyras_plasticsurgery_results/"
+          },
+          {
+            "href": "https://www.facebook.com/dr.lyras.beautyland/"
+          },
+          {
+            "href": "https://www.linkedin.com/in/lyras-ioannis-b6b47116/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAANFlEMBSKoy4WI-dnvrXfSCbSsFMvccd7o"
+          },
+          {
+            "href": "https://www.youtube.com/user/vrotas/featured"
+          },
+          {
+            "href": "https://x.com/lyrasclinic"
+          },
+          {
+            "href": "https://www.tiktok.com/@drlyras_plasticsurgeon"
+          },
+          {
+            "href": "https://www.instagram.com/dr.lyras.plastic.surgeon"
+          },
+          {
+            "href": "https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHgYtmts0y9SQAAAXo4gQNoInlKqHiYnR39DVxwzWLGg3YBDp7-DhfOaI9uendXdIHcEhNP45TD37qDQfhg7Qb4ioLP03Dtyy5ZhaaN43iMczrSR1mDMvQvFFtyi3Mbt0_EuR4=&originalReferer=https://ioannislyras.com.144-76-136-139.weserver.eu/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flyras-ioannis-b6b47116%2F%3FminiProfileUrn%3Durn%253Ali%253Afs_miniProfile%253AACoAAANFlEMBSKoy4WI-dnvrXfSCbSsFMvccd7o"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.ioannislyras.com/el",
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "form[newsletter_email]",
+              "form[formId]"
+            ],
+            "submitLabels": [
+              "ΕΓΓΡΑΦΗ"
+            ],
+            "fields": [
+              {
+                "name": "form[newsletter_email]",
+                "type": "email",
+                "label": "Email",
+                "required": true
+              },
+              {
+                "name": "form[formId]",
+                "type": "hidden",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "ΔΡ. IΩΑΝΝΗΣ ΛΥΡΑΣ ΑΕΧPI, ACEIP, FICS, NYAS Αισθητικός, Επανορθωτικός Πλαστικός Χειρουργός Ερρίκος Ντυνάν - Διευθυντής Πλαστικής Χειρουργικής Κλινικής ΧΡΗΣΙΜΑ LINKS ΒΙΝΤΕΟ Ο ΙΑΤΡΟΣ ΘΕΡΑΠΕΙΕΣ ΠΡΟΣΩΠΟΥ ΘΕΡΑΠΕΙΕΣ ΣΩΜΑΤΟΣ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ NEWSLETTER ΜΑΣ Invalid email address. ΕΓΓΡΑΦΗ © 2026 DR. IOANNIS LYRAS All rights reserved",
+      "textContent": "Βασ. Σοφίας 57, Κολωνάκι, 115 21 +30 210 7219 660 lyras@lifting.gr ΙΑΤΡΙΚΑ ΒΙΝΤΕΟ ΑΡΧΙΚΗ Ο δρ. ΛΥΡΑΣ Βιογραφικό Ιατρικές Δραστηριότητες Επιστημονικές Ιδιότητες Κοινωνική Συμμετοχή Διακρίσεις - Βραβευσεις - Ορόσημα Ζωή Οι Ρίζες μου Η Βραζιλία μέσα μου Αφηγηματική βιωματική ιστορία Η Βραζιλιάνικη Ομορφιά Ο Καθηγητής Ivo Pitanguy γράφει Προσωπικές Φωτογραφίες Συνεντεύξεις ΘΕΡΑΠΕΙΕΣ Θεραπείες Προσώπου Υαλουρονικό Πεπτίδια - Βιταμίνες Ένζυμα Botox Μεσοθεραπεία Βιολογική Κυτταρική Ανανέωση Αναίμακτη Βλεφαροπλαστική Λίπολυση - Προγούλι - Μάγουλα Λιποπρόσθεση Συνδιασμοί Αντιγήρανσης Φυτικό Peeling Χημικό Peeling Πρόσωπο με λίπος Βλαστοκύτταρα Εξωσώματα Θεραπείες Σώματος Δέρμα Λίπος Συνδιασμοί Αντιγήρανσης σύσφιξης Σιλουέτας ΕΠΕΜΒΑΣΕΙΣ Πρόσωπο Lifting Βλεφαροπλαστική Προγούλι Ωτοπλαστική Μύτη Κλειστή Ρινοπλαστική Ανοιχτή Ρινοπλαστική Ρινοπλαστική και Διάφραγμα Στήθος Σώμα Γλουτοί Ευαίσθητη Περιοχή Αισθητική γυναικείων Έξω γεννητικών οργάνων Αισθητική ανδρών Έξω γεννητικών οργάνων Συνδιασμοί 2 + 2 ( Γλουτοί Ντεκολτέ Στήθος Μηροί) 2+1 Γλουτοί Ντεκολτέ Στήθος Μύτη - Στήθος Mommy Make Over MEDIA Δελτία Τύπου Βίντεο ΕΝΗΜΕΡΩΣΗ - BLOG ΕΠΙΚΟΙΝΩΝΙΑ Δρ. Ιωάνης Λύρας - Δ/ντής Πλαστικός Χειρουργός - Αθήνα Επίτιμος Πρόξενος της Βραζιλίας - Πειραιάς Bραζιλιάνικη ομορφιά με Ευρωπαϊκό στύλ ΠΕΡΙΣΣΟΤΕΡΑ Δρ. Ιωάνης Λύρας - Δ/ντής Πλαστικός Χειρουργός - Αθήνα Επίτιμος Πρόξενος της Βραζιλίας - Πειραιάς Bραζιλιάνικη ομορφιά με Ευρωπαϊκό στύλ ΠΕΡΙΣΣΟΤΕΡΑ /****************************************** - PREPARE PLACEHOLDER FOR SLIDER - ******************************************/ var setREVStartSize = function() { var tpopt = new Object(); tpopt.startwidth = 1140; tpopt.startheight = 900; tpopt.container = jQuery('#rev_slider_1_1'); tpopt.fullScreen = \"on\"; tpopt.forceFullWidth=\"on\"; tpopt.container.closest(\".rev_slider_wrapper\").css({height:tpopt.container.height()});tpopt.width=parseInt(tpopt.container.width(),0);tpopt.height=parseInt(tpopt.container.height(),0);tpopt.bw=tpopt.width/tpopt.startwidth;tpopt.bh=tpopt.height/tpopt.startheight;if(tpopt.bh>tpopt.bw)tpopt.bh=tpopt.bw;if(tpopt.bh<tpopt.bw)tpopt.bw=tpopt.bh;if(tpopt.bw<tpopt.bh)tpopt.bh=tpopt.bw;if(tpopt.bh>1){tpopt.bw=1;tpopt.bh=1}if(tpopt.bw>1){tpopt.bw=1;tpopt.bh=1}tpopt.height=Math.round(tpopt.startheight*(tpopt.width/tpopt.startwidth));if(tpopt.height>tpopt.startheight&&tpopt.autoHeight!=\"on\")tpopt.height=tpopt.startheight;if(tpopt.fullScreen==\"on\"){tpopt.height=tpopt.bw*tpopt.startheight;var cow=tpopt.container.parent().width();var coh=jQuery(window).height();if(tpopt.fullScreenOffsetContainer!=undefined){try{var offcontainers=tpopt.fullScreenOffsetContainer.split(\",\");jQuery.each(offcontainers,function(e,t){coh=coh-jQuery(t).outerHeight(true);if(coh<tpopt.minFullScreenHeight)coh=tpopt.minFullScreenHeight})}catch(e){}}tpopt.container.parent().height(coh);tpopt.container.height(coh);tpopt.container.closest(\".rev_slider_wrapper\").height(coh);tpopt.container.closest(\".forcefullwidth_wrapper_tp_banner\").find(\".tp-fullwidth-forcer\").height(coh);tpopt.container.css({height:\"100%\"});tpopt.height=coh;}else{tpopt.container.height(tpopt.height);tpopt.container.closest(\".rev_slider_wrapper\").height(tpopt.height);tpopt.container.closest(\".forcefullwidth_wrapper_tp_banner\").find(\".tp-fullwidth-forcer\").height(tpopt.height);} }; /* CALL PLACEHOLDER */ setREVStartSize(); var tpj=jQuery; tpj.noConflict(); var revapi1; tpj(document).ready(function() { if(tpj('#rev_slider_1_1').revolution == undefined){ revslider_showDoubleJqueryError('#rev_slider_1_1'); }else{ revapi1 = tpj('#rev_slider_1_1').show().revolution( { dottedOverlay:\"none\", delay:9000, startwidth:1140, startheight:900, hideThumbs:200, thumbWidth:100, thumbHeight:50, thumbAmount:1, simplifyAll:\"off\", navigationType:\"none\", navigationArrows:\"none\", navigationStyle:\"round\", touchenabled:\"on\", onHoverStop:\"off\", nextSlideOnWindowFocus:\"off\", swipe_threshold: 75, swipe_min_touches: 1, drag_block_vertical: false, keyboardNavigation:\"off\", navigationHAlign:\"center\", navigationVAlign:\"bottom\", navigationHOffset:0, navigationVOffset:20, soloArrowLeftHalign:\"left\", soloArrowLeftValign:\"center\", soloArrowLeftHOffset:20, soloArrowLeftVOffset:0, soloArrowRightHalign:\"right\", soloArrowRightValign:\"center\", soloArrowRightHOffset:20, soloArrowRightVOffset:0, shadow:0, fullWidth:\"off\", fullScreen:\"on\", spinner:\"spinner0\", stopLoop:\"off\", stopAfterLoops:0, stopAtSlide:1, shuffle:\"off\", forceFullWidth:\"on\", fullScreenAlignForce:\"on\", minFullScreenHeight:\"300\", hideThumbsOnMobile:\"off\", hideNavDelayOnMobile:1500, hideBulletsOnMobile:\"off\", hideArrowsOnMobile:\"off\", hideThumbsUnderResolution:0, fullScreenOffsetContainer: \"#header, #top-bar\", fullScreenOffset: \"\", hideSliderAtLimit:0, hideCaptionAtLimit:0, hideAllCaptionAtLilmit:0, startWithSlide:0, isJoomla: true }); } }); /*ready*/ Η Πλαστική Χειρουργική είτε αισθητική είτε επανορθωτική, είναι μία ειδικότητα της Ιατρικής Επιστήμης που ασχολείται με την απόδοση της \"αρμονίας\" και της \"ομορφιάς\" στις \"γραμμές\" του προσώπου και του σώματος του ανθρώπου. Δρ. Ιωάννης Λύρας AEXPI, ACEIP, FICS, NYAS Αισθητικός, Επανορθωτικός Πλαστικός Χειρουργός. Ερρίκος Ντυνάν - Διευθυντής Πλαστικής Χειρουργικής Κλινικής Mέλος του Διεθνούς κολλεγίου χειρουργών, μέλος της Ελληνικής και της Διεθνούς εταιρίας Πλαστικής Χειρουργικής, μέλος της Ακαδημίας Επιστημών της Νέας Υόρκης ως Πλαστικός Χειρουργός. Ειδικός Ορκωτός Πραγματογνώμων Πλαστικής Χειρουργικής στα Αστικά και Ποινικά Δικαστήρια της Ελλάδος. ΠΕΡΙΣΣΟΤΕΡΑ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ Πρόσωπο Τίποτα δεν είναι πιο ευαίσθητο στα σημάδια του χρόνου απ’ ότι το πρόσωπο και το ντεκολτέ. Σώμα Ιδανικές αναλογίες σώματος - Ο όρος της αισθητικής και επανορθωτικής πλαστικής χειρουργικής. Μύτη Η Πλαστική μύτης και διαφράγματος είναι η πιο δημοφιλής πλαστική χειρουργική στον κόσμο. Στήθος Κάθε γυναίκα μπορεί να αποκτήσει το όμορφο στήθος που ονειρεύεται σε όλη της την ζωή. ΑΙΣΘΗΤΙΚΕΣ ΘΕΡΑΠΕΙΕΣ Πρόσωπο Όλα για την ομορφιά! Για την παράταση της νεότητας και για τη συμμετρία! ΠΕΡΙΣΣΟΤΕΡΑ Σώμα Αισθητικές Θεραπείες προσωπου: Όλα για την ομορφιά! Για την παράταση της νεότητας και για τη συμμετρία! αισθητικές θεραπείες σώματος: Τα όμορφα γυναικεία πόδια γύρισαν όχι και λίγες σελίδες της ιστορίας\" όπως λένε χαρακτηριστικά οι Γάλλοι. ΠΕΡΙΣΣΟΤΕΡΑ ΛΟΓΙΑ ΑΣΘΕΝΩΝ Επισκέφθηκα τον γιατρό για ανόρθωση στήθους μετά από 2 πλαστικούς που είχα πάει και δεν μου ενέπνεαν εμπιστοσύνη και βιάζοντουσαν να μου εξηγήσουν. Ο γιατρός μου μίλησε μια ώρα μου έλυσε όλες μου τις απορίες και έκλεισα το χειρουργείο λίγες μέρες μετά χωρίς δυσταγμο. Το αποτέλεσμα είναι μακράν ανώτερο των προσδοκιών μου και μετά από μια ανόρθωση και λιποαναρροφηση σώματος αλλά και υαλουρονικο στα χείλη που είναι η μόνη φορά που μου κράτησε τόσους μήνες έχω να πω ότι ο γιατρός δεν αλλάζει μόνο σώματα αλλάζει και ζωές. Κάθε φορά που πηγαίνω χαίρομαι να τον βλέπω και την απίστευτη ομάδα που έχει την Παρασκευή την Σοφία και την Μαρία που πραγματικά τις έχω λατρέψει. Οτιδήποτε παρέμβαση θα κάνω θα πάω με κλειστά μάτια πράγματικα ότι μου έχει πει ο κος Λύρας και η Παρασκευή ήταν 100% σωστό. Σας ευχαριστώ όλους από καρδιάς!!! Ραφαέλα Κ. Γνώρισα τον γιατρό κ. Ιωάννη Λύρα το 1999. Η πρώτη επέμβαση που πραγματοποίησα τότε ήταν αυτή της γυναικομαστίας και συνδυαστικά μία επέμβαση βλεφαροπλαστικής για να αφαιρεθούν οι σακούλες και επίσης ανανέωση με λίπος στο πρόσωπο γιατί ήμουν ήδη 52 ετών τότε και είχα αρχίσει να φαίνομαι κουρασμένος ενώ δεν αισθανόμουν έτσι.. Αυτές ήταν επεμβάσεις που μου άλλαξαν το βλέμμα μου και το σώμα μου, άλλα περισσότερο την ψυχολογία μου, ανεβάζοντας κατακόρυφα την συμπεριφορά μου. Και κάπως έτσι ξεκινάει η γνωριμία μας με τον κ. Λύρα που διαρκεί έως και σήμερα. Συνεχίσαμε από τότε με πολλές θεραπείες προσώπου με ενέσιμο υαλουρονικό, μεσαοθεραπείες και μπότοξ. Παρόλες τις θεραπείες είχα πάντα φυσικό αποτέλεσμα χωρίς υπερβολές ή παραμορφώσεις. Όλοι και όλες μου λένε ότι δείχνω ξεκούραστος και νεότερος από την σημερινή μου ηλικία που είναι 72 προς 73. Όλο αυτά τα χρόνια δεν έχω σταματήσει να επισκέπτομαι το ιατρείο του κ Λύρα και για άλλες αισθητικές συμβουλές όπως και διατροφή με βιταμίνες. Όλα είναι πολύ καλά και τα υλικά είναι πολύ καλά ποιοτικά, με μεγάλη διάρκεια και φίλοι και γνωστοί πάντα μου λένε πως φαίνομαι μέχρι 50 ετών. Οι τιμές είναι φυσιολογικές έως και φτηνές και εμένα μου κάνει μεγάλες εκπτώσεις επειδή γνωριζόμαστε 20 χρόνια, δηλαδή έχω πάει και 20 φορές για θεραπεία. Όταν γνωριστήκαμε το 1999 ήμουν 52 ετών. Ο Δρ Λύρας είναι ένας θαυμάσιος γιατρός, επιτυχημένος, αριστούχος και δεν τον αλλάζω ποτέ και με τίποτα. Ακόμη και δωρεάν κάποιος άλλος να μου έλεγε να κάνω οτιδήποτε δεν θα πήγαινα ποτέ, δεν αλλάζω τον Δρ Λύρα με τίποτα διότι είναι μοναδικός. Είναι ένας πού ευγενικός άνθρωπος και σταθερός χαρακτήρας. Κάνει όλες τις θεραπείες και τις επεμβάσεις ο ίδιος. Ευτύχιος Π. Επισκέφτηκα τον Δρ Λύρα πριν λίγους μήνες ώστε να διορθώσω τα πεταχτά αυτιά που με ενοχλούσαν από παιδί. Στην πρώτη κιόλας επίσκεψη μου εξήγησε πλήρως όλη την διαδικασία της επεμβάσεως και έτσι μετά από λίγες ημέρες προχώρησα άμεσα. Η εμπειρία μοναδική, το αποτέλεσμα υπέροχο και όλα κύλησαν όπως ακριβώς μου τα είχε εξηγήσει. Είμαι απόλυτα ευχαριστημένος με το υπέροχο αποτέλεσμα!! Δρ Λύρα σας ευχαριστώ πολύ είστε μοναδικός γιατρος και άνθρωπος. Μπράβο και σε όλο το team σας. Χρήστος Π. Το όνειρο που γίνεται πραγματικότητα στο σήμερα. Πάντα εδώ για εμάς με ατελείωτη έμπνευση και ανεκτίμητη υποστήριξη ώστε να μας δώσει τη χαρά και την ευτυχία της πρόσβασης στην ατέρμονη ομορφιά και με βάση πάντα το σεβασμό στην προσωπικότητα και το στυλ που ταιριάζει σε καθεμία από εμάς. Θεϊκός εμπνευστής της ομορφιάς, λαμπρός επιστήμων, υπέροχος γιατρός και άνθρωπος. \"Από μικρή φοβόμουνα το γήρας το μεγάλο, μα είδα πώς με έφτιαξες δε θέλω πράγμα άλλο\". Ρουμπίνα Μ. Έφτιαξα το στήθος μου που είναι το υπέρτατο σύμβολο θηλυκότητας και το όνειρο κάθε γυναίκας.Αφεθηκα στα μαγικά χέρια του κ.Λύρα, που είναι ένας υπέροχος, μοναδικός, και κορυφαίος επιστήμονας!!Το αποτέλεσμα είναι φυσικό και εξαιρετικό!!!!Η αυτοπεποίθηση μου έχει εκτιναχθεί στα ύψη!!!! Δεν είναι μόνο η κορυφή στην ειδικότητα του αλλά είναι και ένας καταπληκτικός ανθρώπος,που από την πρώτη στιγμή σέ κάνει να αισθανθείς πολύ άνετα!!!! Θέλω να τον ευχαριστήσω μέσα από την καρδιά μου,και ένα μεγάλο ευχαριστώ στο υπέροχο team που είναι πάντα δίπλα μας!!!! Συνεχίστε το έργο σας μοιράζοντας την ομορφιά σέ τόσες γυναίκες που είναι υπόσχεση ευτυχίας!!!!! Σας ευχαριστούμε και σας αγαπάμε πολύ. Ειρήνη Μ. Έχω να πω τα καλύτερα. Κύριε Λύρα σας ευχαριστώ πολύ για αυτό το μοναδικό αποτέλεσμα που καταφέρατε!! Μου δώσατε το σώμα που ονειρευόμουν τόσα χρόνια και εύχομαι να το είχα κάνει νωρίτερα. Πραγματικά το αποτέλεσμα είναι εκπληκτικό και χαίρομαι πολύ για αυτή τη συνεργασία. Πλέον είμαστε φίλοι και είστε ένας εκπληκτικός γιατρός. Το πιο σημαντικό όμως είναι ότι αισθάνθηκα σαν να σας ξέρω χρόνια γιατί πρώτα από όλα είστε ανοιχτόκαρδος άνθρωπος, προσιτός. Έχετε κερδίσει την εμπιστοσύνη και την αγάπη μου!! Βάλια Χ. Εχω κάνει πολλές επεβάσεις στον γιατρό κύριο Λύρα. Είμαι από τις πρώτες πελάτισσές του αμέσως όταν επέστρεψε από την Βραζιλία και έκανε το ιατρείο του στο Κολωνάκι. Πρώτα στήθος μεγεθυνση, μετά υαλουρονικό πολλές φορές, μετά βλεφαροπλαστική με λέιζερ, μετά νήματα και πρόσφατα κοιλιοπλαστική και βραζιλιάνικη λιπογλυπτική. Και συνεχίζω για να είμαι πάντα με προσεγμένη και περιποιημένη εμφάνιση. Το κάνω όχι μόνον για εμένα αλλά και για τον σύζυγό μου για να αισθάνεται καλά και για τα παιδιά μου και για τα εγγόνια μου. Πρόσφατα η εγγονή μου είδε κάποιες ρυτιδούλες στο πάνω χείλος μου και δεν με άφηνε να την φιλήσω. Αμέσως στον κύριο Λύρα. Τσούπ, μεσοθεραπεία και εντάξει. Μου αρέσει αυτός ο γιατρός γιατί δεν με πονάει, δεν με παραμορφώνει, δεν κάνει του κεφαλιού του. Με ακούει και με προσέχει. Πού και πού μου κάνει εκπτώσεις ή δωράκια. Είναι όμορφο να πηγαίνω στο ιατρείο του γιατί αμέσως αισθάνομαι ηρεμία και χαρά με αυτά που μου κάνει. Είναι γλυκομίλητος και καλός άνθρωπος. Βλέπω εκεί συνέχεια κόσμο μεγάλους και μικρούς πολύ ικανοποιημένους. Με κάποιες άλλες πελάτισσες έχουμε γίνει και φίλες. Καμιά φορά πηγαίνουμε Λύρα και μαζί. Δεν θέλω να γεράσω και δεν θα γεράσω γιατί διάβασα στο βιβλίο του ότι η Μαλβινα Κάραλη είχε πεί άλλο Λύρας, άλλο γήρας. Να ναι καλά ο γιατρός της ομορφιάς..Η ομορφιά είναι δικαίωμά μας. Αιμιλία Α. Ήταν μια καταπληκτική δουλειά! Σας ευχαριστώ πάρα πολύ! Έκανα λιπομεταφορά πριν 3 χρόνια στο πρόσωπο και το αποτέλεσμα είναι καταπληκτικό ακόμα και μετά από τόσο καιρό! Όχι μόνο δεν σκέφτηκα να κάνω κάποια επαναληπτική διαδικασία αλλά αντιθέτως φαίνεται σαν να έχει γίνει η επέμβαση πολύ πρόσφατα! Χάρηκα πολύ που ήσασταν ο θεράπων ιατρός μου γιατί εκτός από κορυφαίος πλαστικός είστε και ένας εξαιρετικός άνθρωπος! Δημήτρης Π. Εμπιστεύομαι τον γιατρό εδώ και 9 χρόνια. Πριν από 7 χρόνια έκανα βλέφαρο πλαστική και απαλλαχτηκα από σακούλες που είχα κάτω από τα μάτια από τότε που θυμόμουν τον εαυτό μου.Το πρόσωπο μου που έδειχνε πάντα κουρασμένο φαίνεται πολύ πιο νεανικό και το αποτέλεσμα μένει αναλλοίωτο από τότε.Πριν από δύο εβδομάδες έκανα μίνι λιφτ κάτω προσώπου με ανόρθωση λαιμού.Δεν θα εμπιστευομουν κανέναν άλλο γιατρό για μια τέτοια επέμβαση.Δεν είχα και δεν έχω κανένα άγχος για το αν θα μείνουν ουλές η αν θα παραμορφοθω. Και ήδη το αποτέλεσμα είναι καταπληκτικό.Δεν είχα τέτοιο λαιμό ποτέ στην ζωή μου, ενώ μέσα σε 15 ημέρες μπορώ και έχω κοινωνική ζωή χωρίς να φαίνεται ότι έχω κάνει χειρουργειο. Σας ευχαριστώ πολύ γιατρέ.Μου αλλάξατε την ψυχολογία και κατά συνέπεια την ζωή μου. Να είστε παντα καλα. Βάσω Ι. Εξαιρετικός ιατρός! Η εμπειρία του, η πλήρης γνώση του αντικειμένου του, η προσαρμοστικότητά του σε κάθε περίπτωση (προσωπικά είχα δυο πετυχημένα χειρουργεία) είναι στοιχεία που σε κάνουν να νιώθεις ασφαλής, σιγουριά και να θέλεις να συνεχίσεις. Συγχαρητήρια σε όλο το team! Έλενα Σ. jQuery(document).ready(function($){ jQuery(\".book-slider .owl-carousel\").owlCarousel({ loop: true, autoplay: true, nav: true, navText : ['<span class=\"fa fa-angle-left\" aria-hidden=\"true\"></span>','<span class=\"fa fa-angle-right\" aria-hidden=\"true\"></span>'], dots: false, responsive : { // breakpoint from 0 up 0 : { items:1, }, // breakpoint from 480 up 481 : { items:1, }, // breakpoint from 768 up 768 : { items:1, }, // breakpoint from 980 up 1024 : { items:1, }, 1366 : { items:1, } } }); }); Το μυστικό της Βραζιλιάνικης ομορφιάς Η βραζιλιάνικη ομορφιά απο φιλοσοφική και πολιτική άποψη ΠΕΡΙΣΣΟΤΕΡΑ Η φυσική ανάγκη του ανθρώπου για ένα σώμα χωρίς ατέλειες αποτελεί σχεδόν ένστικτο. Στη Βραζιλία, χώρα των χρωμάτων των αντιθέσεων, της αρμονίας, της \"σάμπα\" και των όμορφων σωμάτων, υπάρχει ίσως ένα μυστικό, το μυστικό της Βραζιλιάνικης ομορφιάς. ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΜΑΖΙ ΜΑΣ Καλέστε μας για να σας λύσουμε κάθε απορία ή για να κλείσετε το ραντεβού σας ΠΕΡΙΣΣΟΤΕΡΑ Eπικοινωνία Βασ. Σοφίας 57 Κολωνάκι, 115 21 Αθήνα ΤΗΛ: 210 7219 660, Fax: 210 7250 509 lyras@lifting.gr ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ ΔΕΥΤΕΡΑ - ΠΑΡΑΣΚΕΥΗ 11:00 - 19:00 ΔΡ. IΩΑΝΝΗΣ ΛΥΡΑΣ ΑΕΧPI, ACEIP, FICS, NYAS Αισθητικός, Επανορθωτικός Πλαστικός Χειρουργός Ερρίκος Ντυνάν - Διευθυντής Πλαστικής Χειρουργικής Κλινικής ΧΡΗΣΙΜΑ LINKS ΒΙΝΤΕΟ Ο ΙΑΤΡΟΣ ΘΕΡΑΠΕΙΕΣ ΠΡΟΣΩΠΟΥ ΘΕΡΑΠΕΙΕΣ ΣΩΜΑΤΟΣ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ NEWSLETTER ΜΑΣ Invalid email address. ΕΓΓΡΑΦΗ © 2026 DR. IOANNIS LYRAS All rights reserved ScrollReveal().reveal('#intro,#aesthetics-face,#motto,#makria', {origin: 'left',distance: '150px', duration:1000, reset: false, delay: 500 }); ScrollReveal().reveal('#viografiko,.surgery-1,#book,#aesthetics-body', {origin: 'bottom',distance: '150px', duration:1000, reset: false, delay: 500 }); ScrollReveal().reveal('.surgery-2,#patients,#contact,#randevouz', {origin: 'top',distance: '150px', duration:1000, reset: false, delay: 500 });",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ioannislyras.com-home-0ea64803/about-el-89f04157.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ioannislyras.com-home-0ea64803/about-el-89f04157.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.ioannislyras.com/images/og.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "about",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:52.935Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/logo.png",
+          "alt": "ioannislyras",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:52.935Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/body-therapy/derma.png",
+          "alt": "Δέρμα",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:52.935Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/body-therapy/lipos.png",
+          "alt": "Λίπος",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:52.935Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/body-therapy/img-3.png",
+          "alt": "Συνδιασμοί Αντιγήρανσης σύσφιξης Σιλουέτας",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:52.935Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/epemvaseis-images/lifting.png",
+          "alt": "Lifting",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:52.935Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/slider/slider-img-test.png",
+          "alt": "slider-img-test",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:52.935Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/cv-img/cv-logo.jpg",
+          "alt": "Dr. Ioannis Lyras",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:52.935Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/aesthetics/vraveia.png",
+          "alt": "vraveia",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:52.935Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/plastic-surgery/face-img.jpg",
+          "alt": "face surgery",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:52.935Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/plastic-surgery/body-img.jpg",
+          "alt": "face surgery",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:52.935Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/plastic-surgery/nose-img.jpg",
+          "alt": "face surgery",
+          "sourcePageUrl": "https://www.ioannislyras.com/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el",
+              "retrievedAt": "2026-03-31T13:15:52.935Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.55,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page fetch",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:52.941Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ioannislyras.com-home-0ea64803/homepage-el-89f04157.png"
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+      "finalUrl": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+      "fetchedAt": "2026-03-31T13:15:49.796Z",
+      "metadata": {
+        "title": "ΕΠΙΚΟΙΝΩΝΙΑ",
+        "language": "el-gr"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Δίκτυο Ιατρείων"
+        },
+        {
+          "level": "h3",
+          "text": "ΔΡ. IΩΑΝΝΗΣ ΛΥΡΑΣ ΑΕΧPI, ACEIP, FICS, NYAS"
+        },
+        {
+          "level": "h3",
+          "text": "ΧΡΗΣΙΜΑ LINKS"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ NEWSLETTER ΜΑΣ"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.ioannislyras.com/"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AC-%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF",
+          "label": "ΙΑΤΡΙΚΑ ΒΙΝΤΕΟ"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/",
+          "label": "ΑΡΧΙΚΗ"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+          "label": "Ο δρ. ΛΥΡΑΣ"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+          "label": "Ιατρικές Δραστηριότητες"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%B7%CE%BC%CE%BF%CE%BD%CE%B9%CE%BA%CE%AD%CF%82-%CE%B9%CE%B4%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+          "label": "Επιστημονικές Ιδιότητες"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%BA%CE%AE-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE",
+          "label": "Κοινωνική Συμμετοχή"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B4%CE%B9%CE%B1%CE%BA%CF%81%CE%AF%CF%83%CE%B5%CE%B9%CF%82-%CE%B2%CF%81%CE%B1%CE%B2%CE%B5%CF%85%CF%83%CE%B5%CE%B9%CF%82-%CE%BF%CF%81%CF%8C%CF%83%CE%B7%CE%BC%CE%B1-%CE%B6%CF%89%CE%AE",
+          "label": "Διακρίσεις - Βραβευσεις - Ορόσημα Ζωή"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%BF%CE%B9-%CF%81%CE%AF%CE%B6%CE%B5%CF%82-%CE%BC%CE%BF%CF%85",
+          "label": "Οι Ρίζες μου"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B7-%CE%B2%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%AF%CE%B1-%CE%BC%CE%AD%CF%83%CE%B1-%CE%BC%CE%BF%CF%85/%CE%B1%CF%86%CE%B7%CE%B3%CE%B7%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CE%B2%CE%B9%CF%89%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1",
+          "label": "Αφηγηματική βιωματική ιστορία"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B7-%CE%B2%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%AF%CE%B1-%CE%BC%CE%AD%CF%83%CE%B1-%CE%BC%CE%BF%CF%85/%CE%B7-%CE%B2%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%B9%CE%AC%CE%BD%CE%B9%CE%BA%CE%B7-%CE%BF%CE%BC%CE%BF%CF%81%CF%86%CE%B9%CE%AC",
+          "label": "Η Βραζιλιάνικη Ομορφιά"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B7-%CE%B2%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%AF%CE%B1-%CE%BC%CE%AD%CF%83%CE%B1-%CE%BC%CE%BF%CF%85/%CE%BF-%CE%BA%CE%B1%CE%B8%CE%B7%CE%B3%CE%B7%CF%84%CE%AE%CF%82-ivo-pitanguy-%CE%B3%CF%81%CE%AC%CF%86%CE%B5%CE%B9",
+          "label": "Ο Καθηγητής Ivo Pitanguy γράφει"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AD%CF%82-%CF%86%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B5%CF%82",
+          "label": "Προσωπικές Φωτογραφίες"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CF%83%CF%85%CE%BD%CE%B5%CE%BD%CF%84%CE%B5%CF%8D%CE%BE%CE%B5%CE%B9%CF%82",
+          "label": "Συνεντεύξεις"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85",
+          "label": "Θεραπείες Προσώπου"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%85%CE%B1%CE%BB%CE%BF%CF%85%CF%81%CE%BF%CE%BD%CE%B9%CE%BA%CF%8C",
+          "label": "Υαλουρονικό"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%80%CE%B5%CF%80%CF%84%CE%AF%CE%B4%CE%B9%CE%B1-%CE%B2%CE%B9%CF%84%CE%B1%CE%BC%CE%AF%CE%BD%CE%B5%CF%82",
+          "label": "Πεπτίδια - Βιταμίνες"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%AD%CE%BD%CE%B6%CF%85%CE%BC%CE%B1",
+          "label": "Ένζυμα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/botox",
+          "label": "Botox"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%BC%CE%B5%CF%83%CE%BF%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B1",
+          "label": "Μεσοθεραπεία"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%B2%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE-%CE%BA%CF%85%CF%84%CF%84%CE%B1%CF%81%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CE%BD%CE%AD%CF%89%CF%83%CE%B7",
+          "label": "Βιολογική Κυτταρική Ανανέωση"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%B1%CE%BD%CE%B1%CE%AF%CE%BC%CE%B1%CE%BA%CF%84%CE%B7-%CE%B2%CE%BB%CE%B5%CF%86%CE%B1%CF%81%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE",
+          "label": "Αναίμακτη Βλεφαροπλαστική"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%BB%CE%AF%CF%80%CE%BF%CE%BB%CF%85%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CE%BF%CF%8D%CE%BB%CE%B9-%CE%BC%CE%AC%CE%B3%CE%BF%CF%85%CE%BB%CE%B1",
+          "label": "Λίπολυση - Προγούλι - Μάγουλα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%BB%CE%B9%CF%80%CE%BF%CF%80%CF%81%CF%8C%CF%83%CE%B8%CE%B5%CF%83%CE%B7",
+          "label": "Λιποπρόσθεση"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF-%CE%B1%CE%BD%CF%84%CE%B9%CE%B3%CE%AE%CF%81%CE%B1%CE%BD%CF%83%CE%B7%CF%82",
+          "label": "Συνδιασμοί Αντιγήρανσης"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%86%CF%85%CF%84%CE%B9%CE%BA%CF%8C-peeling",
+          "label": "Φυτικό Peeling"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%87%CE%B7%CE%BC%CE%B9%CE%BA%CF%8C-peeling",
+          "label": "Χημικό Peeling"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF-%CE%BC%CE%B5-%CE%BB%CE%AF%CF%80%CE%BF%CF%82",
+          "label": "Πρόσωπο με λίπος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%B2%CE%BB%CE%B1%CF%83%CF%84%CE%BF%CE%BA%CF%8D%CF%84%CF%84%CE%B1%CF%81%CE%B1",
+          "label": "Βλαστοκύτταρα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%B5%CE%BE%CF%89%CF%83%CF%8E%CE%BC%CE%B1%CF%84%CE%B1",
+          "label": "Εξωσώματα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%83%CF%8E%CE%BC%CE%B1%CF%84%CE%BF%CF%82",
+          "label": "Θεραπείες Σώματος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%83%CF%8E%CE%BC%CE%B1%CF%84%CE%BF%CF%82/%CE%B4%CE%AD%CF%81%CE%BC%CE%B1",
+          "label": "Δέρμα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%83%CF%8E%CE%BC%CE%B1%CF%84%CE%BF%CF%82/%CE%BB%CE%AF%CF%80%CE%BF%CF%82",
+          "label": "Λίπος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%83%CF%8E%CE%BC%CE%B1%CF%84%CE%BF%CF%82/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF-%CE%B1%CE%BD%CF%84%CE%B9%CE%B3%CE%AE%CF%81%CE%B1%CE%BD%CF%83%CE%B7%CF%82-%CF%83%CF%8D%CF%83%CF%86%CE%B9%CE%BE%CE%B7%CF%82-%CF%83%CE%B9%CE%BB%CE%BF%CF%85%CE%AD%CF%84%CE%B1%CF%82",
+          "label": "Συνδιασμοί Αντιγήρανσης σύσφιξης Σιλουέτας"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83",
+          "label": "ΕΠΕΜΒΑΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF",
+          "label": "Πρόσωπο"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF/lifting",
+          "label": "Lifting"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF/%CE%B2%CE%BB%CE%B5%CF%86%CE%B1%CF%81%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE",
+          "label": "Βλεφαροπλαστική"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF/%CF%80%CF%81%CE%BF%CE%B3%CE%BF%CF%8D%CE%BB%CE%B9",
+          "label": "Προγούλι"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%BF/%CF%89%CF%84%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE",
+          "label": "Ωτοπλαστική"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%BC%CF%8D%CF%84%CE%B7",
+          "label": "Μύτη"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%BC%CF%8D%CF%84%CE%B7/%CE%BA%CE%BB%CE%B5%CE%B9%CF%83%CF%84%CE%AE-%CF%81%CE%B9%CE%BD%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE",
+          "label": "Κλειστή Ρινοπλαστική"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%BC%CF%8D%CF%84%CE%B7/%CE%B1%CE%BD%CE%BF%CE%B9%CF%87%CF%84%CE%AE-%CF%81%CE%B9%CE%BD%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE",
+          "label": "Ανοιχτή Ρινοπλαστική"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%BC%CF%8D%CF%84%CE%B7/%CF%81%CE%B9%CE%BD%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CE%BA%CE%B1%CE%B9-%CE%B4%CE%B9%CE%AC%CF%86%CF%81%CE%B1%CE%B3%CE%BC%CE%B1",
+          "label": "Ρινοπλαστική και Διάφραγμα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%84%CE%AE%CE%B8%CE%BF%CF%82",
+          "label": "Στήθος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%8E%CE%BC%CE%B1",
+          "label": "Σώμα"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%B3%CE%BB%CE%BF%CF%85%CF%84%CE%BF%CE%AF",
+          "label": "Γλουτοί"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%B5%CF%85%CE%B1%CE%AF%CF%83%CE%B8%CE%B7%CF%84%CE%B7-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AE",
+          "label": "Ευαίσθητη Περιοχή"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%B5%CF%85%CE%B1%CE%AF%CF%83%CE%B8%CE%B7%CF%84%CE%B7-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AE/%CE%B1%CE%B9%CF%83%CE%B8%CE%B7%CF%84%CE%B9%CE%BA%CE%AE-%CE%B3%CF%85%CE%BD%CE%B1%CE%B9%CE%BA%CE%B5%CE%AF%CF%89%CE%BD-%CE%AD%CE%BE%CF%89-%CE%B3%CE%B5%CE%BD%CE%BD%CE%B7%CF%84%CE%B9%CE%BA%CF%8E%CE%BD-%CE%BF%CF%81%CE%B3%CE%AC%CE%BD%CF%89%CE%BD",
+          "label": "Αισθητική γυναικείων Έξω γεννητικών οργάνων"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CE%B5%CF%85%CE%B1%CE%AF%CF%83%CE%B8%CE%B7%CF%84%CE%B7-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AE/%CE%B1%CE%B9%CF%83%CE%B8%CE%B7%CF%84%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B4%CF%81%CF%8E%CE%BD-%CE%AD%CE%BE%CF%89-%CE%B3%CE%B5%CE%BD%CE%BD%CE%B7%CF%84%CE%B9%CE%BA%CF%8E%CE%BD-%CE%BF%CF%81%CE%B3%CE%AC%CE%BD%CF%89%CE%BD",
+          "label": "Αισθητική ανδρών Έξω γεννητικών οργάνων"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF",
+          "label": "Συνδιασμοί"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF/2-2-%CE%B3%CE%BB%CE%BF%CF%85%CF%84%CE%BF%CE%AF-%CE%BD%CF%84%CE%B5%CE%BA%CE%BF%CE%BB%CF%84%CE%AD-%CF%83%CF%84%CE%AE%CE%B8%CE%BF%CF%82-%CE%BC%CE%B7%CF%81%CE%BF%CE%AF",
+          "label": "2 + 2 ( Γλουτοί Ντεκολτέ Στήθος Μηροί)"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF/2-1-%CE%B3%CE%BB%CE%BF%CF%85%CF%84%CE%BF%CE%AF-%CE%BD%CF%84%CE%B5%CE%BA%CE%BF%CE%BB%CF%84%CE%AD-%CF%83%CF%84%CE%AE%CE%B8%CE%BF%CF%82",
+          "label": "2+1 Γλουτοί Ντεκολτέ Στήθος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF/%CE%BC%CF%8D%CF%84%CE%B7-%CF%83%CF%84%CE%AE%CE%B8%CE%BF%CF%82",
+          "label": "Μύτη - Στήθος"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%83%CE%B5%CE%B9%CF%83/%CF%83%CF%85%CE%BD%CE%B4%CE%B9%CE%B1%CF%83%CE%BC%CE%BF%CE%AF/mommy-make-over",
+          "label": "Mommy Make Over"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/media-1/%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%B1-%CF%84%CF%8D%CF%80%CE%BF%CF%85",
+          "label": "Δελτία Τύπου"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/media-1/%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF",
+          "label": "Βίντεο"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CE%BD%CE%B7%CE%BC%CE%B5%CF%81%CF%89%CF%83%CE%B7-blog",
+          "label": "ΕΝΗΜΕΡΩΣΗ - BLOG"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1/9-%CE%B9%CE%B1%CF%84%CF%81%CE%B5%CE%AF%CE%BF-k%CE%B7%CF%86%CE%B9%CF%83%CE%B9%CE%AC",
+          "label": "Ιατρείο Kηφισιάς"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1/1-%CE%B9%CE%B1%CF%84%CF%81%CE%B5%CE%AF%CE%BF-%CE%B1%CF%84%CF%84%CE%B9%CE%BA%CE%AE",
+          "label": "Ιατρείο Αττική"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1/2-%CE%B9%CE%B1%CF%84%CF%81%CE%B5%CE%AF%CE%BF-%CE%B8%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%BF%CE%BD%CE%AF%CE%BA%CE%B7",
+          "label": "Ιατρείο Θεσσαλονίκη"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1/3-%CE%B9%CE%B1%CF%84%CF%81%CE%B5%CE%AF%CE%BF-%CE%BA%CF%81%CE%AE%CF%84%CE%B7",
+          "label": "Ιατρείο Κρήτη"
+        },
+        {
+          "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1/4-%CE%B9%CE%B1%CF%84%CF%81%CE%B5%CE%AF%CE%BF-%CE%BA%CF%8D%CF%80%CF%81%CE%BF%CF%85",
+          "label": "Ιατρείο Κύπρου"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [],
+          "submitLabels": [],
+          "fields": []
+        },
+        {
+          "action": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "form[newsletter_email]",
+            "form[formId]"
+          ],
+          "submitLabels": [
+            "ΕΓΓΡΑΦΗ"
+          ],
+          "fields": [
+            {
+              "name": "form[newsletter_email]",
+              "type": "email",
+              "label": "Email",
+              "required": true
+            },
+            {
+              "name": "form[formId]",
+              "type": "hidden",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "+30 210 7219 660",
+          "210 7219 660",
+          "210 7250 509",
+          "+30 6936 774 777",
+          "+302107219660",
+          "+302107250509",
+          "+306936774777"
+        ],
+        "emails": [
+          "lyras@lifting.gr"
+        ],
+        "addresses": [
+          "Βασ. Σοφίας 57, Κολωνάκι, 115 21 +30 210 7219 660 lyras@lifting.gr ΙΑΤΡΙΚΑ ΒΙΝΤΕΟ ΑΡΧΙΚΗ Ο δρ. ΛΥΡΑΣ Βιογραφικό Ιατρικές Δραστηριότητες Επιστημονικές Ιδιότητες Κοινωνική Συμμετοχή Διακρίσεις - Βραβευσεις - Ορόσημα Ζωή Οι Ρίζες μου Η Βραζιλία μέσα μου Αφηγηματική βιωματική ιστορία Η Βραζιλιάνικη Ομορφιά Ο Καθηγητής Ivo Pitanguy γράφει Προσωπικές Φωτογραφίες Συνεντεύξεις ΘΕΡΑΠΕΙΕΣ Θεραπείες Προσώπου Υαλουρονικό Πεπτίδια - Βιταμίνες Ένζυμα Botox Μεσοθεραπεία Βιολογική Κυτταρική Ανανέωση Αναίμακτη Βλεφαροπλαστική Λίπολυση - Προγούλι - Μάγουλα Λιποπρόσθεση Συνδιασμοί Αντιγήρανσης Φυτικό Peeling Χημικό Peeling Πρόσωπο με λίπος Βλαστοκύτταρα Εξωσώματα Θεραπείες Σώματος Δέρμα Λίπος Συνδιασμοί Αντιγήρανσης σύσφιξης Σιλουέτας ΕΠΕΜΒΑΣΕΙΣ Πρόσωπο Lifting Βλεφαροπλαστική Προγούλι Ωτοπλαστική Μύτη Κλειστή Ρινοπλαστική Ανοιχτή Ρινοπλαστική Ρινοπλαστική και Διάφραγμα Στήθος Σώμα Γλουτοί Ευαίσθητη Περιοχή Αισθητική γυναικείων Έξω γεννητικών οργάνων Αισθητική ανδρών Έξω γεννητικών οργάνων Συνδιασμοί 2 + 2 ( Γλουτοί Ντεκολτέ Στήθος Μηροί) 2+1 Γλουτοί Ντεκολτέ Στήθος Μύτη - Στήθος Mommy Make Over MEDIA Δελτία Τύπου Βίντεο ΕΝΗΜΕΡΩΣΗ - BLOG ΕΠΙΚΟΙΝΩΝΙΑ ΕΠΙΚΟΙΝΩΝΙΑ Δίκτυο Ιατρείων Όνομα Διεύθυνση Προάστιο Κατάσταση Ταχυδρομικός Κώδικας Χώρα Ιατρείο Kηφισιάς Τατοΐου 141 Αθήνα Κηφισιά 14564 Ελλάδα Ιατρείο Αττική Βασ. Σοφίας 57 Αθήνα Κολωνάκι 115 21 Ελλάδα Ιατρείο Θεσσαλονίκη Τέρμα 17ης Νοέμβρη Θεσσαλονίκη Πυλαία 543 01 Ελλάδα Ιατρείο Κρήτη Εθνικής Αντιστάσεως 50 Κρήτη Ηράκλειο 713 06 Ελλάδα Ιατρείο Κύπρου 6-12 Ψαρών Λευκωσία Έγκωμη 2408 Κύπρος ΔΡ. IΩΑΝΝΗΣ ΛΥΡΑΣ ΑΕΧPI, ACEIP, FICS, NYAS Αισθητικός, Επανορθωτικός Πλαστικός Χειρουργός Ερρίκος Ντυνάν - Διευθυντής Πλαστικής Χειρουργικής Κλινικής ΧΡΗΣΙΜΑ LINKS ΒΙΝΤΕΟ Ο ΙΑΤΡΟΣ ΘΕΡΑΠΕΙΕΣ ΠΡΟΣΩΠΟΥ ΘΕΡΑΠΕΙΕΣ ΣΩΜΑΤΟΣ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ NEWSLETTER ΜΑΣ Invalid email address. ΕΓΓΡΑΦΗ © 2026 DR. IOANNIS LYRAS All rights reserved ScrollReveal().reveal('#intro,#aesthetics-face,#motto,#makria', {origin: 'left',distance: '150px', duration:1000, reset: false, delay: 500 }); ScrollReveal().reveal('#viografiko,.surgery-1,#book,#aesthetics-body', {origin: 'bottom',distance: '150px', duration:1000, reset: false, delay: 500 }); ScrollReveal().reveal('.surgery-2,#patients,#contact,#randevouz', {origin: 'top',distance: '150px', duration:1000, reset: false, delay: 500 });",
+          "Βασ. Σοφίας 57, Κολωνάκι, 115 21 +30 210 7219 660 lyras@lifting.gr",
+          "Βασ. Σοφίας 57, Κολωνάκι, 115 21",
+          "Δίκτυο Ιατρείων Όνομα Διεύθυνση Προάστιο Κατάσταση Ταχυδρομικός Κώδικας Χώρα Ιατρείο Kηφισιάς Τατοΐου 141 Αθήνα Κηφισιά 14564 Ελλάδα Ιατρείο Αττική Βασ. Σοφίας 57 Αθήνα Κολωνάκι 115 21 Ελλάδα Ιατρείο Θεσσαλονίκη Τέρμα 17ης Νοέμβρη Θεσσαλονίκη Πυλαία 543 01 Ελλάδα Ιατρείο Κρήτη Εθνικής Αντιστάσεως 50 Κρήτη Ηράκλειο 713 06 Ελλάδα Ιατρείο Κύπρου 6-12 Ψαρών Λευκωσία Έγκωμη 2408 Κύπρος",
+          "ΔΡ. IΩΑΝΝΗΣ ΛΥΡΑΣ ΑΕΧPI, ACEIP, FICS, NYAS Αισθητικός, Επανορθωτικός Πλαστικός Χειρουργός Ερρίκος Ντυνάν - Διευθυντής Πλαστικής Χειρουργικής Κλινικής ΧΡΗΣΙΜΑ LINKS ΒΙΝΤΕΟ Ο ΙΑΤΡΟΣ ΘΕΡΑΠΕΙΕΣ ΠΡΟΣΩΠΟΥ ΘΕΡΑΠΕΙΕΣ ΣΩΜΑΤΟΣ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ NEWSLETTER ΜΑΣ Invalid email address. ΕΓΓΡΑΦΗ © 2026 DR. IOANNIS LYRAS All rights reserved",
+          "ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.instagram.com/lyras_plasticsurgery_results/"
+          },
+          {
+            "href": "https://www.facebook.com/dr.lyras.beautyland/"
+          },
+          {
+            "href": "https://www.linkedin.com/in/lyras-ioannis-b6b47116/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAANFlEMBSKoy4WI-dnvrXfSCbSsFMvccd7o"
+          },
+          {
+            "href": "https://www.youtube.com/user/vrotas/featured"
+          },
+          {
+            "href": "https://x.com/lyrasclinic"
+          },
+          {
+            "href": "https://www.tiktok.com/@drlyras_plasticsurgeon"
+          },
+          {
+            "href": "https://www.instagram.com/dr.lyras.plastic.surgeon"
+          },
+          {
+            "href": "https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHgYtmts0y9SQAAAXo4gQNoInlKqHiYnR39DVxwzWLGg3YBDp7-DhfOaI9uendXdIHcEhNP45TD37qDQfhg7Qb4ioLP03Dtyy5ZhaaN43iMczrSR1mDMvQvFFtyi3Mbt0_EuR4=&originalReferer=https://ioannislyras.com.144-76-136-139.weserver.eu/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flyras-ioannis-b6b47116%2F%3FminiProfileUrn%3Durn%253Ali%253Afs_miniProfile%253AACoAAANFlEMBSKoy4WI-dnvrXfSCbSsFMvccd7o"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [],
+            "submitLabels": [],
+            "fields": []
+          },
+          {
+            "action": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "form[newsletter_email]",
+              "form[formId]"
+            ],
+            "submitLabels": [
+              "ΕΓΓΡΑΦΗ"
+            ],
+            "fields": [
+              {
+                "name": "form[newsletter_email]",
+                "type": "email",
+                "label": "Email",
+                "required": true
+              },
+              {
+                "name": "form[formId]",
+                "type": "hidden",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "ΔΡ. IΩΑΝΝΗΣ ΛΥΡΑΣ ΑΕΧPI, ACEIP, FICS, NYAS Αισθητικός, Επανορθωτικός Πλαστικός Χειρουργός Ερρίκος Ντυνάν - Διευθυντής Πλαστικής Χειρουργικής Κλινικής ΧΡΗΣΙΜΑ LINKS ΒΙΝΤΕΟ Ο ΙΑΤΡΟΣ ΘΕΡΑΠΕΙΕΣ ΠΡΟΣΩΠΟΥ ΘΕΡΑΠΕΙΕΣ ΣΩΜΑΤΟΣ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ NEWSLETTER ΜΑΣ Invalid email address. ΕΓΓΡΑΦΗ © 2026 DR. IOANNIS LYRAS All rights reserved",
+      "textContent": "Βασ. Σοφίας 57, Κολωνάκι, 115 21 +30 210 7219 660 lyras@lifting.gr ΙΑΤΡΙΚΑ ΒΙΝΤΕΟ ΑΡΧΙΚΗ Ο δρ. ΛΥΡΑΣ Βιογραφικό Ιατρικές Δραστηριότητες Επιστημονικές Ιδιότητες Κοινωνική Συμμετοχή Διακρίσεις - Βραβευσεις - Ορόσημα Ζωή Οι Ρίζες μου Η Βραζιλία μέσα μου Αφηγηματική βιωματική ιστορία Η Βραζιλιάνικη Ομορφιά Ο Καθηγητής Ivo Pitanguy γράφει Προσωπικές Φωτογραφίες Συνεντεύξεις ΘΕΡΑΠΕΙΕΣ Θεραπείες Προσώπου Υαλουρονικό Πεπτίδια - Βιταμίνες Ένζυμα Botox Μεσοθεραπεία Βιολογική Κυτταρική Ανανέωση Αναίμακτη Βλεφαροπλαστική Λίπολυση - Προγούλι - Μάγουλα Λιποπρόσθεση Συνδιασμοί Αντιγήρανσης Φυτικό Peeling Χημικό Peeling Πρόσωπο με λίπος Βλαστοκύτταρα Εξωσώματα Θεραπείες Σώματος Δέρμα Λίπος Συνδιασμοί Αντιγήρανσης σύσφιξης Σιλουέτας ΕΠΕΜΒΑΣΕΙΣ Πρόσωπο Lifting Βλεφαροπλαστική Προγούλι Ωτοπλαστική Μύτη Κλειστή Ρινοπλαστική Ανοιχτή Ρινοπλαστική Ρινοπλαστική και Διάφραγμα Στήθος Σώμα Γλουτοί Ευαίσθητη Περιοχή Αισθητική γυναικείων Έξω γεννητικών οργάνων Αισθητική ανδρών Έξω γεννητικών οργάνων Συνδιασμοί 2 + 2 ( Γλουτοί Ντεκολτέ Στήθος Μηροί) 2+1 Γλουτοί Ντεκολτέ Στήθος Μύτη - Στήθος Mommy Make Over MEDIA Δελτία Τύπου Βίντεο ΕΝΗΜΕΡΩΣΗ - BLOG ΕΠΙΚΟΙΝΩΝΙΑ ΕΠΙΚΟΙΝΩΝΙΑ Δίκτυο Ιατρείων Όνομα Διεύθυνση Προάστιο Κατάσταση Ταχυδρομικός Κώδικας Χώρα Ιατρείο Kηφισιάς Τατοΐου 141 Αθήνα Κηφισιά 14564 Ελλάδα Ιατρείο Αττική Βασ. Σοφίας 57 Αθήνα Κολωνάκι 115 21 Ελλάδα Ιατρείο Θεσσαλονίκη Τέρμα 17ης Νοέμβρη Θεσσαλονίκη Πυλαία 543 01 Ελλάδα Ιατρείο Κρήτη Εθνικής Αντιστάσεως 50 Κρήτη Ηράκλειο 713 06 Ελλάδα Ιατρείο Κύπρου 6-12 Ψαρών Λευκωσία Έγκωμη 2408 Κύπρος ΔΡ. IΩΑΝΝΗΣ ΛΥΡΑΣ ΑΕΧPI, ACEIP, FICS, NYAS Αισθητικός, Επανορθωτικός Πλαστικός Χειρουργός Ερρίκος Ντυνάν - Διευθυντής Πλαστικής Χειρουργικής Κλινικής ΧΡΗΣΙΜΑ LINKS ΒΙΝΤΕΟ Ο ΙΑΤΡΟΣ ΘΕΡΑΠΕΙΕΣ ΠΡΟΣΩΠΟΥ ΘΕΡΑΠΕΙΕΣ ΣΩΜΑΤΟΣ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ NEWSLETTER ΜΑΣ Invalid email address. ΕΓΓΡΑΦΗ © 2026 DR. IOANNIS LYRAS All rights reserved ScrollReveal().reveal('#intro,#aesthetics-face,#motto,#makria', {origin: 'left',distance: '150px', duration:1000, reset: false, delay: 500 }); ScrollReveal().reveal('#viografiko,.surgery-1,#book,#aesthetics-body', {origin: 'bottom',distance: '150px', duration:1000, reset: false, delay: 500 }); ScrollReveal().reveal('.surgery-2,#patients,#contact,#randevouz', {origin: 'top',distance: '150px', duration:1000, reset: false, delay: 500 });",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ioannislyras.com-home-0ea64803/contact-el-ce-b5-cf-80-ce-b9-ce-ba-ce-bf-ce-b9-ce-bd-cf-89-ce-bd-ce-b9-ce-b1-d1987277.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ioannislyras.com-home-0ea64803/contact-el-ce-b5-cf-80-ce-b9-ce-ba-ce-bf-ce-b9-ce-bd-cf-89-ce-bd-ce-b9-ce-b1-d1987277.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.ioannislyras.com/images/logo.png",
+          "alt": "ioannislyras",
+          "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+              "retrievedAt": "2026-03-31T13:15:49.794Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/body-therapy/derma.png",
+          "alt": "Δέρμα",
+          "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+              "retrievedAt": "2026-03-31T13:15:49.794Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/body-therapy/lipos.png",
+          "alt": "Λίπος",
+          "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+              "retrievedAt": "2026-03-31T13:15:49.794Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/body-therapy/img-3.png",
+          "alt": "Συνδιασμοί Αντιγήρανσης σύσφιξης Σιλουέτας",
+          "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+              "retrievedAt": "2026-03-31T13:15:49.794Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ioannislyras.com/images/epemvaseis-images/lifting.png",
+          "alt": "Lifting",
+          "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+              "retrievedAt": "2026-03-31T13:15:49.794Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+          "retrievedAt": "2026-03-31T13:15:49.796Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ioannislyras.com-home-0ea64803/contact-el-ce-b5-cf-80-ce-b9-ce-ba-ce-bf-ce-b9-ce-bd-cf-89-ce-bd-ce-b9-ce-b1-d1987277.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "+30 210 7219 660",
+      "210 7219 660",
+      "210 7250 509",
+      "+30 6936 774 777",
+      "+302107219660",
+      "2107219660",
+      "+302107250509",
+      "+306936774777",
+      "2005-2006",
+      "2007-2011",
+      "2005-2016",
+      "2016-2019",
+      "2017-2025",
+      "2018-2026",
+      "2000-2001",
+      "2001-2016",
+      "2001-2002"
+    ],
+    "emails": [
+      "lyras@lifting.gr"
+    ],
+    "addresses": [
+      "Βασ. Σοφίας 57, Κολωνάκι, 115 21 +30 210 7219 660 lyras@lifting.gr",
+      "Βασ. Σοφίας 57, Κολωνάκι, 115 21",
+      "Βασ. Σοφίας 57 Κολωνάκι, 115 21 Αθήνα",
+      "ΔΡ. IΩΑΝΝΗΣ ΛΥΡΑΣ ΑΕΧPI, ACEIP, FICS, NYAS Αισθητικός, Επανορθωτικός Πλαστικός Χειρουργός Ερρίκος Ντυνάν - Διευθυντής Πλαστικής Χειρουργικής Κλινικής ΧΡΗΣΙΜΑ LINKS ΒΙΝΤΕΟ Ο ΙΑΤΡΟΣ ΘΕΡΑΠΕΙΕΣ ΠΡΟΣΩΠΟΥ ΘΕΡΑΠΕΙΕΣ ΣΩΜΑΤΟΣ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ NEWSLETTER ΜΑΣ Invalid email address. ΕΓΓΡΑΦΗ © 2026 DR. IOANNIS LYRAS All rights reserved",
+      "ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr",
+      "Βασ. Σοφίας 57, Κολωνάκι, 115 21 +30 210 7219 660 lyras@lifting.gr ΙΑΤΡΙΚΑ ΒΙΝΤΕΟ ΑΡΧΙΚΗ Ο δρ. ΛΥΡΑΣ Βιογραφικό Ιατρικές Δραστηριότητες Επιστημονικές Ιδιότητες Κοινωνική Συμμετοχή Διακρίσεις - Βραβευσεις - Ορόσημα Ζωή Οι Ρίζες μου Η Βραζιλία μέσα μου Αφηγηματική βιωματική ιστορία Η Βραζιλιάνικη Ομορφιά Ο Καθηγητής Ivo Pitanguy γράφει Προσωπικές Φωτογραφίες Συνεντεύξεις ΘΕΡΑΠΕΙΕΣ Θεραπείες Προσώπου Υαλουρονικό Πεπτίδια - Βιταμίνες Ένζυμα Botox Μεσοθεραπεία Βιολογική Κυτταρική Ανανέωση Αναίμακτη Βλεφαροπλαστική Λίπολυση - Προγούλι - Μάγουλα Λιποπρόσθεση Συνδιασμοί Αντιγήρανσης Φυτικό Peeling Χημικό Peeling Πρόσωπο με λίπος Βλαστοκύτταρα Εξωσώματα Θεραπείες Σώματος Δέρμα Λίπος Συνδιασμοί Αντιγήρανσης σύσφιξης Σιλουέτας ΕΠΕΜΒΑΣΕΙΣ Πρόσωπο Lifting Βλεφαροπλαστική Προγούλι Ωτοπλαστική Μύτη Κλειστή Ρινοπλαστική Ανοιχτή Ρινοπλαστική Ρινοπλαστική και Διάφραγμα Στήθος Σώμα Γλουτοί Ευαίσθητη Περιοχή Αισθητική γυναικείων Έξω γεννητικών οργάνων Αισθητική ανδρών Έξω γεννητικών οργάνων Συνδιασμοί 2 + 2 ( Γλουτοί Ντεκολτέ Στήθος Μηροί) 2+1 Γλουτοί Ντεκολτέ Στήθος Μύτη - Στήθος Mommy Make Over MEDIA Δελτία Τύπου Βίντεο ΕΝΗΜΕΡΩΣΗ - BLOG ΕΠΙΚΟΙΝΩΝΙΑ ΕΠΙΚΟΙΝΩΝΙΑ Δίκτυο Ιατρείων Όνομα Διεύθυνση Προάστιο Κατάσταση Ταχυδρομικός Κώδικας Χώρα Ιατρείο Kηφισιάς Τατοΐου 141 Αθήνα Κηφισιά 14564 Ελλάδα Ιατρείο Αττική Βασ. Σοφίας 57 Αθήνα Κολωνάκι 115 21 Ελλάδα Ιατρείο Θεσσαλονίκη Τέρμα 17ης Νοέμβρη Θεσσαλονίκη Πυλαία 543 01 Ελλάδα Ιατρείο Κρήτη Εθνικής Αντιστάσεως 50 Κρήτη Ηράκλειο 713 06 Ελλάδα Ιατρείο Κύπρου 6-12 Ψαρών Λευκωσία Έγκωμη 2408 Κύπρος ΔΡ. IΩΑΝΝΗΣ ΛΥΡΑΣ ΑΕΧPI, ACEIP, FICS, NYAS Αισθητικός, Επανορθωτικός Πλαστικός Χειρουργός Ερρίκος Ντυνάν - Διευθυντής Πλαστικής Χειρουργικής Κλινικής ΧΡΗΣΙΜΑ LINKS ΒΙΝΤΕΟ Ο ΙΑΤΡΟΣ ΘΕΡΑΠΕΙΕΣ ΠΡΟΣΩΠΟΥ ΘΕΡΑΠΕΙΕΣ ΣΩΜΑΤΟΣ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ NEWSLETTER ΜΑΣ Invalid email address. ΕΓΓΡΑΦΗ © 2026 DR. IOANNIS LYRAS All rights reserved ScrollReveal().reveal('#intro,#aesthetics-face,#motto,#makria', {origin: 'left',distance: '150px', duration:1000, reset: false, delay: 500 }); ScrollReveal().reveal('#viografiko,.surgery-1,#book,#aesthetics-body', {origin: 'bottom',distance: '150px', duration:1000, reset: false, delay: 500 }); ScrollReveal().reveal('.surgery-2,#patients,#contact,#randevouz', {origin: 'top',distance: '150px', duration:1000, reset: false, delay: 500 });",
+      "Δίκτυο Ιατρείων Όνομα Διεύθυνση Προάστιο Κατάσταση Ταχυδρομικός Κώδικας Χώρα Ιατρείο Kηφισιάς Τατοΐου 141 Αθήνα Κηφισιά 14564 Ελλάδα Ιατρείο Αττική Βασ. Σοφίας 57 Αθήνα Κολωνάκι 115 21 Ελλάδα Ιατρείο Θεσσαλονίκη Τέρμα 17ης Νοέμβρη Θεσσαλονίκη Πυλαία 543 01 Ελλάδα Ιατρείο Κρήτη Εθνικής Αντιστάσεως 50 Κρήτη Ηράκλειο 713 06 Ελλάδα Ιατρείο Κύπρου 6-12 Ψαρών Λευκωσία Έγκωμη 2408 Κύπρος"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.instagram.com/lyras_plasticsurgery_results/"
+      },
+      {
+        "href": "https://www.facebook.com/dr.lyras.beautyland/"
+      },
+      {
+        "href": "https://www.linkedin.com/in/lyras-ioannis-b6b47116/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAANFlEMBSKoy4WI-dnvrXfSCbSsFMvccd7o"
+      },
+      {
+        "href": "https://www.youtube.com/user/vrotas/featured"
+      },
+      {
+        "href": "https://x.com/lyrasclinic"
+      },
+      {
+        "href": "https://www.tiktok.com/@drlyras_plasticsurgeon"
+      },
+      {
+        "href": "https://www.instagram.com/dr.lyras.plastic.surgeon"
+      },
+      {
+        "href": "https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHgYtmts0y9SQAAAXo4gQNoInlKqHiYnR39DVxwzWLGg3YBDp7-DhfOaI9uendXdIHcEhNP45TD37qDQfhg7Qb4ioLP03Dtyy5ZhaaN43iMczrSR1mDMvQvFFtyi3Mbt0_EuR4=&originalReferer=https://ioannislyras.com.144-76-136-139.weserver.eu/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flyras-ioannis-b6b47116%2F%3FminiProfileUrn%3Durn%253Ali%253Afs_miniProfile%253AACoAAANFlEMBSKoy4WI-dnvrXfSCbSsFMvccd7o"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://www.ioannislyras.com/el/",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "form[newsletter_email]",
+          "form[formId]"
+        ],
+        "submitLabels": [
+          "ΕΓΓΡΑΦΗ"
+        ],
+        "fields": [
+          {
+            "name": "form[newsletter_email]",
+            "type": "email",
+            "label": "Email",
+            "required": true
+          },
+          {
+            "name": "form[formId]",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [],
+        "submitLabels": [],
+        "fields": []
+      },
+      {
+        "action": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "form[newsletter_email]",
+          "form[formId]"
+        ],
+        "submitLabels": [
+          "ΕΓΓΡΑΦΗ"
+        ],
+        "fields": [
+          {
+            "name": "form[newsletter_email]",
+            "type": "email",
+            "label": "Email",
+            "required": true
+          },
+          {
+            "name": "form[formId]",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.ioannislyras.com/el/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AC-%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "form[newsletter_email]",
+          "form[formId]"
+        ],
+        "submitLabels": [
+          "ΕΓΓΡΑΦΗ"
+        ],
+        "fields": [
+          {
+            "name": "form[newsletter_email]",
+            "type": "email",
+            "label": "Email",
+            "required": true
+          },
+          {
+            "name": "form[formId]",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.ioannislyras.com/el",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "form[newsletter_email]",
+          "form[formId]"
+        ],
+        "submitLabels": [
+          "ΕΓΓΡΑΦΗ"
+        ],
+        "fields": [
+          {
+            "name": "form[newsletter_email]",
+            "type": "email",
+            "label": "Email",
+            "required": true
+          },
+          {
+            "name": "form[formId]",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "form[newsletter_email]",
+          "form[formId]"
+        ],
+        "submitLabels": [
+          "ΕΓΓΡΑΦΗ"
+        ],
+        "fields": [
+          {
+            "name": "form[newsletter_email]",
+            "type": "email",
+            "label": "Email",
+            "required": true
+          },
+          {
+            "name": "form[formId]",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "form[newsletter_email]",
+          "form[formId]"
+        ],
+        "submitLabels": [
+          "ΕΓΓΡΑΦΗ"
+        ],
+        "fields": [
+          {
+            "name": "form[newsletter_email]",
+            "type": "email",
+            "label": "Email",
+            "required": true
+          },
+          {
+            "name": "form[formId]",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Πλαστικός Χειρουργός | Ιωάννης Λύρας",
+    "metaDescription": "Ο πλαστικός χειρουργός Λύρας Ιωάννης είναι ειδικός στην πλαστική χειρουργική του προσώπου και του σώματος. Ο Δρ Λύρας Ιωάννης έχει εκπαιδευτεί δίπλα στο γνωστό βραζιλιάνο καθηγητή Ivo Pitanguy.",
+    "language": "el-gr",
+    "openGraphImage": "https://www.ioannislyras.com/images/og.jpg"
+  },
+  "imageReferences": [
+    {
+      "url": "https://www.ioannislyras.com/images/og.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ioannislyras.com/images/logo.png",
+      "alt": "ioannislyras",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ioannislyras.com/images/body-therapy/derma.png",
+      "alt": "Δέρμα",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ioannislyras.com/images/body-therapy/lipos.png",
+      "alt": "Λίπος",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ioannislyras.com/images/body-therapy/img-3.png",
+      "alt": "Συνδιασμοί Αντιγήρανσης σύσφιξης Σιλουέτας",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ioannislyras.com/images/epemvaseis-images/lifting.png",
+      "alt": "Lifting",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ioannislyras.com/images/slider/slider-img-test.png",
+      "alt": "slider-img-test",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ioannislyras.com/images/cv-img/cv-logo.jpg",
+      "alt": "Dr. Ioannis Lyras",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ioannislyras.com/images/aesthetics/vraveia.png",
+      "alt": "vraveia",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ioannislyras.com/images/plastic-surgery/face-img.jpg",
+      "alt": "face surgery",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ioannislyras.com/images/plastic-surgery/body-img.jpg",
+      "alt": "face surgery",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ioannislyras.com/images/plastic-surgery/nose-img.jpg",
+      "alt": "face surgery",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ioannislyras.com/images/cv-img/cv-img.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+      "pageType": "about",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+          "retrievedAt": "2026-03-31T13:15:54.336Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ioannislyras.com/images/cv-img/IMG_0683.png",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+      "pageType": "contact",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+          "retrievedAt": "2026-03-31T13:15:55.717Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ioannislyras.com/media/system/images/arrow.png",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+          "retrievedAt": "2026-03-31T13:15:55.717Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "+30 210 7219 660",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 7219 660",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 7250 509",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 6936 774 777",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+302107219660",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2107219660",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+302107250509",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+306936774777",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "lyras@lifting.gr",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Βασ. Σοφίας 57, Κολωνάκι, 115 21 +30 210 7219 660 lyras@lifting.gr",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Βασ. Σοφίας 57, Κολωνάκι, 115 21",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Βασ. Σοφίας 57 Κολωνάκι, 115 21 Αθήνα",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "ΔΡ. IΩΑΝΝΗΣ ΛΥΡΑΣ ΑΕΧPI, ACEIP, FICS, NYAS Αισθητικός, Επανορθωτικός Πλαστικός Χειρουργός Ερρίκος Ντυνάν - Διευθυντής Πλαστικής Χειρουργικής Κλινικής ΧΡΗΣΙΜΑ LINKS ΒΙΝΤΕΟ Ο ΙΑΤΡΟΣ ΘΕΡΑΠΕΙΕΣ ΠΡΟΣΩΠΟΥ ΘΕΡΑΠΕΙΕΣ ΣΩΜΑΤΟΣ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ NEWSLETTER ΜΑΣ Invalid email address. ΕΓΓΡΑΦΗ © 2026 DR. IOANNIS LYRAS All rights reserved",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.ioannislyras.com/el",
+      "sourcePageUrl": "https://www.ioannislyras.com/el",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ioannislyras.com/el",
+          "retrievedAt": "2026-03-31T13:15:49.331Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Βασ. Σοφίας 57, Κολωνάκι, 115 21 +30 210 7219 660 lyras@lifting.gr ΙΑΤΡΙΚΑ ΒΙΝΤΕΟ ΑΡΧΙΚΗ Ο δρ. ΛΥΡΑΣ Βιογραφικό Ιατρικές Δραστηριότητες Επιστημονικές Ιδιότητες Κοινωνική Συμμετοχή Διακρίσεις - Βραβευσεις - Ορόσημα Ζωή Οι Ρίζες μου Η Βραζιλία μέσα μου Αφηγηματική βιωματική ιστορία Η Βραζιλιάνικη Ομορφιά Ο Καθηγητής Ivo Pitanguy γράφει Προσωπικές Φωτογραφίες Συνεντεύξεις ΘΕΡΑΠΕΙΕΣ Θεραπείες Προσώπου Υαλουρονικό Πεπτίδια - Βιταμίνες Ένζυμα Botox Μεσοθεραπεία Βιολογική Κυτταρική Ανανέωση Αναίμακτη Βλεφαροπλαστική Λίπολυση - Προγούλι - Μάγουλα Λιποπρόσθεση Συνδιασμοί Αντιγήρανσης Φυτικό Peeling Χημικό Peeling Πρόσωπο με λίπος Βλαστοκύτταρα Εξωσώματα Θεραπείες Σώματος Δέρμα Λίπος Συνδιασμοί Αντιγήρανσης σύσφιξης Σιλουέτας ΕΠΕΜΒΑΣΕΙΣ Πρόσωπο Lifting Βλεφαροπλαστική Προγούλι Ωτοπλαστική Μύτη Κλειστή Ρινοπλαστική Ανοιχτή Ρινοπλαστική Ρινοπλαστική και Διάφραγμα Στήθος Σώμα Γλουτοί Ευαίσθητη Περιοχή Αισθητική γυναικείων Έξω γεννητικών οργάνων Αισθητική ανδρών Έξω γεννητικών οργάνων Συνδιασμοί 2 + 2 ( Γλουτοί Ντεκολτέ Στήθος Μηροί) 2+1 Γλουτοί Ντεκολτέ Στήθος Μύτη - Στήθος Mommy Make Over MEDIA Δελτία Τύπου Βίντεο ΕΝΗΜΕΡΩΣΗ - BLOG ΕΠΙΚΟΙΝΩΝΙΑ ΕΠΙΚΟΙΝΩΝΙΑ Δίκτυο Ιατρείων Όνομα Διεύθυνση Προάστιο Κατάσταση Ταχυδρομικός Κώδικας Χώρα Ιατρείο Kηφισιάς Τατοΐου 141 Αθήνα Κηφισιά 14564 Ελλάδα Ιατρείο Αττική Βασ. Σοφίας 57 Αθήνα Κολωνάκι 115 21 Ελλάδα Ιατρείο Θεσσαλονίκη Τέρμα 17ης Νοέμβρη Θεσσαλονίκη Πυλαία 543 01 Ελλάδα Ιατρείο Κρήτη Εθνικής Αντιστάσεως 50 Κρήτη Ηράκλειο 713 06 Ελλάδα Ιατρείο Κύπρου 6-12 Ψαρών Λευκωσία Έγκωμη 2408 Κύπρος ΔΡ. IΩΑΝΝΗΣ ΛΥΡΑΣ ΑΕΧPI, ACEIP, FICS, NYAS Αισθητικός, Επανορθωτικός Πλαστικός Χειρουργός Ερρίκος Ντυνάν - Διευθυντής Πλαστικής Χειρουργικής Κλινικής ΧΡΗΣΙΜΑ LINKS ΒΙΝΤΕΟ Ο ΙΑΤΡΟΣ ΘΕΡΑΠΕΙΕΣ ΠΡΟΣΩΠΟΥ ΘΕΡΑΠΕΙΕΣ ΣΩΜΑΤΟΣ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΕΠΙΚΟΙΝΩΝΙΑ ΒΑΣ. ΣΟΦΙΑΣ 57, ΚΟΛΩΝΑΚΙ Τ.Κ 115 21 ΑΘΗΝΑ, ΕΛΛΑΔΑ Τηλ: 210 7219 660 Fax: 210 7250 509 Viber & WhatsUp:+30 6936 774 777 Email: lyras@lifting.gr ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ NEWSLETTER ΜΑΣ Invalid email address. ΕΓΓΡΑΦΗ © 2026 DR. IOANNIS LYRAS All rights reserved ScrollReveal().reveal('#intro,#aesthetics-face,#motto,#makria', {origin: 'left',distance: '150px', duration:1000, reset: false, delay: 500 }); ScrollReveal().reveal('#viografiko,.surgery-1,#book,#aesthetics-body', {origin: 'bottom',distance: '150px', duration:1000, reset: false, delay: 500 }); ScrollReveal().reveal('.surgery-2,#patients,#contact,#randevouz', {origin: 'top',distance: '150px', duration:1000, reset: false, delay: 500 });",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+          "retrievedAt": "2026-03-31T13:15:49.794Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Δίκτυο Ιατρείων Όνομα Διεύθυνση Προάστιο Κατάσταση Ταχυδρομικός Κώδικας Χώρα Ιατρείο Kηφισιάς Τατοΐου 141 Αθήνα Κηφισιά 14564 Ελλάδα Ιατρείο Αττική Βασ. Σοφίας 57 Αθήνα Κολωνάκι 115 21 Ελλάδα Ιατρείο Θεσσαλονίκη Τέρμα 17ης Νοέμβρη Θεσσαλονίκη Πυλαία 543 01 Ελλάδα Ιατρείο Κρήτη Εθνικής Αντιστάσεως 50 Κρήτη Ηράκλειο 713 06 Ελλάδα Ιατρείο Κύπρου 6-12 Ψαρών Λευκωσία Έγκωμη 2408 Κύπρος",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+          "retrievedAt": "2026-03-31T13:15:49.794Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+          "retrievedAt": "2026-03-31T13:15:49.794Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+          "retrievedAt": "2026-03-31T13:15:49.794Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.ioannislyras.com/el/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AC-%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AC-%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AC-%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF",
+          "retrievedAt": "2026-03-31T13:15:51.357Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.ioannislyras.com/el/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AC-%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AC-%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AC-%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF",
+          "retrievedAt": "2026-03-31T13:15:51.357Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2005-2006",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+          "retrievedAt": "2026-03-31T13:15:54.336Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2007-2011",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+          "retrievedAt": "2026-03-31T13:15:54.336Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2005-2016",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+          "retrievedAt": "2026-03-31T13:15:54.336Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2016-2019",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+          "retrievedAt": "2026-03-31T13:15:54.336Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2017-2025",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+          "retrievedAt": "2026-03-31T13:15:54.336Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2018-2026",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+          "retrievedAt": "2026-03-31T13:15:54.336Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2000-2001",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+          "retrievedAt": "2026-03-31T13:15:54.336Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2001-2016",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+          "retrievedAt": "2026-03-31T13:15:54.336Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2001-2002",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+          "retrievedAt": "2026-03-31T13:15:54.336Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+      "pageType": "about",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+          "retrievedAt": "2026-03-31T13:15:54.336Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+          "retrievedAt": "2026-03-31T13:15:55.717Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+      "sourcePageUrl": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+          "retrievedAt": "2026-03-31T13:15:55.717Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://www.ioannislyras.com/",
+    "finalOrigin": "https://www.ioannislyras.com",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://www.ioannislyras.com/robots.txt",
+      "fetchedAt": "2026-03-31T13:15:47.842Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [],
+      "disallowRules": [
+        "/administrator/",
+        "/bin/",
+        "/cache/",
+        "/cli/",
+        "/components/",
+        "/includes/",
+        "/installation/",
+        "/language/",
+        "/layouts/",
+        "/libraries/",
+        "/logs/",
+        "/modules/",
+        "/plugins/",
+        "/tmp/"
+      ],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://www.ioannislyras.com/robots.txt",
+          "retrievedAt": "2026-03-31T13:15:47.438Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://www.ioannislyras.com/el",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ioannislyras.com/",
+        "timestamp": "2026-03-31T13:15:49.337Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AC-%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%B7%CE%BC%CE%BF%CE%BD%CE%B9%CE%BA%CE%AD%CF%82-%CE%B9%CE%B4%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%BA%CE%AE-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B4%CE%B9%CE%B1%CE%BA%CF%81%CE%AF%CF%83%CE%B5%CE%B9%CF%82-%CE%B2%CF%81%CE%B1%CE%B2%CE%B5%CF%85%CF%83%CE%B5%CE%B9%CF%82-%CE%BF%CF%81%CF%8C%CF%83%CE%B7%CE%BC%CE%B1-%CE%B6%CF%89%CE%AE",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%BF%CE%B9-%CF%81%CE%AF%CE%B6%CE%B5%CF%82-%CE%BC%CE%BF%CF%85",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B7-%CE%B2%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%AF%CE%B1-%CE%BC%CE%AD%CF%83%CE%B1-%CE%BC%CE%BF%CF%85/%CE%B1%CF%86%CE%B7%CE%B3%CE%B7%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CE%B2%CE%B9%CF%89%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B7-%CE%B2%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%AF%CE%B1-%CE%BC%CE%AD%CF%83%CE%B1-%CE%BC%CE%BF%CF%85/%CE%B7-%CE%B2%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%B9%CE%AC%CE%BD%CE%B9%CE%BA%CE%B7-%CE%BF%CE%BC%CE%BF%CF%81%CF%86%CE%B9%CE%AC",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B7-%CE%B2%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%AF%CE%B1-%CE%BC%CE%AD%CF%83%CE%B1-%CE%BC%CE%BF%CF%85/%CE%BF-%CE%BA%CE%B1%CE%B8%CE%B7%CE%B3%CE%B7%CF%84%CE%AE%CF%82-ivo-pitanguy-%CE%B3%CF%81%CE%AC%CF%86%CE%B5%CE%B9",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CE%AD%CF%82-%CF%86%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B5%CF%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CF%83%CF%85%CE%BD%CE%B5%CE%BD%CF%84%CE%B5%CF%8D%CE%BE%CE%B5%CE%B9%CF%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%85%CE%B1%CE%BB%CE%BF%CF%85%CF%81%CE%BF%CE%BD%CE%B9%CE%BA%CF%8C",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CF%80%CE%B5%CF%80%CF%84%CE%AF%CE%B4%CE%B9%CE%B1-%CE%B2%CE%B9%CF%84%CE%B1%CE%BC%CE%AF%CE%BD%CE%B5%CF%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%AD%CE%BD%CE%B6%CF%85%CE%BC%CE%B1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:49.796Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/botox",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+        "timestamp": "2026-03-31T13:15:49.796Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AC-%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:51.359Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%BC%CE%B5%CF%83%CE%BF%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AC-%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF",
+        "timestamp": "2026-03-31T13:15:51.360Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:52.941Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%B2%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE-%CE%BA%CF%85%CF%84%CF%84%CE%B1%CF%81%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BD%CE%B1%CE%BD%CE%AD%CF%89%CF%83%CE%B7",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:52.942Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:54.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%B1%CE%BD%CE%B1%CE%AF%CE%BC%CE%B1%CE%BA%CF%84%CE%B7-%CE%B2%CE%BB%CE%B5%CF%86%CE%B1%CF%81%CE%BF%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C",
+        "timestamp": "2026-03-31T13:15:54.338Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ioannislyras.com/el",
+        "timestamp": "2026-03-31T13:15:55.719Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B5%CF%83/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B5%CF%82-%CF%80%CF%81%CE%BF%CF%83%CF%8E%CF%80%CE%BF%CF%85/%CE%BB%CE%AF%CF%80%CE%BF%CE%BB%CF%85%CF%83%CE%B7-%CF%80%CF%81%CE%BF%CE%B3%CE%BF%CF%8D%CE%BB%CE%B9-%CE%BC%CE%AC%CE%B3%CE%BF%CF%85%CE%BB%CE%B1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+        "timestamp": "2026-03-31T13:15:55.720Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:16:00.864Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:16:02.485Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AC-%CE%B2%CE%AF%CE%BD%CF%84%CE%B5%CE%BF",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:16:04.273Z"
+      },
+      {
+        "url": "https://www.ioannislyras.com/el/%CE%B4%CF%81-%CE%BB%CF%85%CF%81%CE%B1%CF%83/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C/%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AD%CF%82-%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:16:05.853Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

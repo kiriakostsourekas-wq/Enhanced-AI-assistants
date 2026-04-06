@@ -1,0 +1,2841 @@
+{
+  "domain": "karanikas-cardiology.gr",
+  "collectedAt": "2026-03-31T13:09:15.193Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/karanikas-cardiology.gr-home-91afb629",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://karanikas-cardiology.gr/",
+      "finalUrl": "https://karanikas-cardiology.gr/",
+      "fetchedAt": "2026-03-31T13:09:03.702Z",
+      "metadata": {
+        "title": "Καρδιολόγος | Δρ. Σταύρος Καρανίκας",
+        "metaDescription": "Καρδιολόγος Δρ. Καρανίκας Σταύρος Βρείτε πληροφορίες και τρόπους επικοινωνίας με τον ειδικό καρδιολόγος - αρρυθμιολόγος",
+        "canonicalUrl": "https://karanikas-cardiology.gr/",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Καρδιολόγος | Δρ. Σταύρος Καρανίκας",
+        "openGraphDescription": "Καρδιολόγος Δρ. Καρανίκας Σταύρος Βρείτε πληροφορίες και τρόπους επικοινωνίας με τον ειδικό καρδιολόγος - αρρυθμιολόγος",
+        "openGraphImage": "https://karanikas-cardiology.gr/wp-content/uploads/2026/02/%CF%86%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%B1-1.png"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Δρ Σταύρος Καρανίκας"
+        },
+        {
+          "level": "h2",
+          "text": "Καρδιολόγος – Αρρυθμιολόγος"
+        },
+        {
+          "level": "h3",
+          "text": "Υπηρεσίες"
+        },
+        {
+          "level": "h3",
+          "text": "Υπηρεσίες κατ'οίκον"
+        },
+        {
+          "level": "h3",
+          "text": "Είπαν για εμάς"
+        },
+        {
+          "level": "h3",
+          "text": "Τελευταία νέα"
+        },
+        {
+          "level": "h3",
+          "text": "Τιμητική διάκριση"
+        },
+        {
+          "level": "h3",
+          "text": "Αίσθημα παλμών"
+        },
+        {
+          "level": "h3",
+          "text": "Έξυπνα ρολόγια για την ανίχνευση της κολπικής μαρμαρυγής"
+        },
+        {
+          "level": "h3",
+          "text": "Επικοινωνήστε μαζί μας"
+        },
+        {
+          "level": "h3",
+          "text": "Στοιχεία Επικοινωνίας"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://karanikas-cardiology.gr/contact",
+          "label": "ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kardiologos/",
+          "label": "ΚΑΡΔΙΟΛΟΓΟΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/hlektrokardiografima/",
+          "label": "ΗΛΕΚΤΡΟΚΑΡΔΙΟΓΡΑΦΗΜΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/holter-rithmou/",
+          "label": "HOLTER ΡΥΘΜΟΥ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/holter-pieseos/",
+          "label": "HOLTER ΠΙΕΣΕΩΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusimo-holter/",
+          "label": "ΕΜΦΥΤΕΥΣΙΜΟ HOLTER"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/elegxos-vimatodoti-apinidoti/",
+          "label": "ΕΛΕΓΧΟΣ ΒΗΜΑΤΟΔΟΤΗ – ΑΠΙΝΙΔΩΤΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/triplex-kardias/",
+          "label": "ΥΠΕΡΗΧΟΓΡΑΦΙΑ (TRIPLEX) ΚΑΡΔΙΑΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/vimatodotis-2/",
+          "label": "ΕΜΦΥΤΕΥΣΗ ΒΗΜΑΤΟΔΟΤΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusi-apinidoti/",
+          "label": "ΕΜΦΥΤΕΥΣΗ ΑΠΙΝΙΔΩΤΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusi-amfikoiliakou-vimatodoti/",
+          "label": "ΕΜΦΥΤΕΥΣΗ ΑΜΦΙΚΟΙΛΙΑΚΟΥ ΒΗΜΑΤΟΔΟΤΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/tilt-test/",
+          "label": "TILT TEST"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/episkepsi-katoikon/",
+          "label": "ΕΠΙΣΚΕΨΗ ΚΑΤ’ΟΙΚΟΝ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kardiaki-aneparkeia/",
+          "label": "ΚΑΡΔΙΑΚΗ ΑΝΕΠΑΡΚΕΙΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/diatrofikes-sumboules-pathiseis-kardias/",
+          "label": "ΔΙΑΤΡΟΦΙΚΕΣ ΣΥΜΒΟΥΛΕΣ ΓΙΑ ΤΗΝ ΠΡΟΛΗΨΗ ΚΑΙ ΤΗΝ ΑΝΤΙΜΕΤΩΠΙΣΗ ΤΩΝ ΚΑΡΔΙΑΓΓΕΙΑΚΩΝ ΠΑΘΗΣΕΩΝ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/artiriaki-ipertasi/",
+          "label": "ΑΡΤΗΡΙΑΚΗ ΥΠΕΡΤΑΣΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/artiriaki-ipertasi-kai-kuhsh/",
+          "label": "ΑΡΤΗΡΙΑΚΗ ΥΠΕΡΤΑΣΗ ΚΑΙ ΚΥΗΣΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/sigkopi-kai-lipothimia-ti-einai-pote-na-anusixiso/",
+          "label": "ΣΥΓΚΟΠΗ ΚΑΙ ΛΙΠΟΘΥΜΙΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kolpikos-pterugismos/",
+          "label": "ΚΟΛΠΙΚΟΣ ΠΤΕΡΥΓΙΣΜΟΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kolpiki-marmarigi/",
+          "label": "ΚΟΛΠΙΚΗ ΜΑΡΜΑΡΥΓΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kolpiki-taxykardia/",
+          "label": "ΚΟΛΠΙΚΗ ΤΑΧΥΚΑΡΔΙΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/sindromo-vradikardias-tachikardias/",
+          "label": "ΣΥΝΔΡΟΜΟ ΒΡΑΔΥΚΑΡΔΙΑΣ – ΤΑΧΥΚΑΡΔΙΑΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfragma-tou-myokardiou/",
+          "label": "ΕΜΦΡΑΓΜΑ ΤΟΥ ΜΥΟΚΑΡΔΙΟΥ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/blog/",
+          "label": "ΝΕΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/contact/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/hlektrokardiografima",
+          "label": "Ηλεκτροκαρδιογράφημα"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/holter-pieseos",
+          "label": "Holter πιέσεως"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusi-vimatodoti-apinidoti",
+          "label": "Εμφύτευση βηματοδότη & απινιδωτή"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/holter-rithmou",
+          "label": "Holter ρυθμού"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/triplex-kardias",
+          "label": "Υπερηχογράφημα καρδιάς"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusimo-holter",
+          "label": "Εμφυτεύσιμο Holter"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/holter-katoikon",
+          "label": "Holter ρυθμού 24 ή 48 ωρών"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/elegxos-vimatodoti-apinidoti",
+          "label": "Έλεγχος και ρύθμιση βηματοδότη, απινιδωτή ή αμφικοιλιακού βηματοδότη"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/frontida-parakolouthisi-metegxeiritikou-asthenous",
+          "label": "Φροντίδα και παρακολούθηση μετεγχειρητικού ασθενούς"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/timitiki-diakrisi/"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/aisthima-palmon/"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/exipna-rologia-gia-tin-anixneusi-tis-kolpikis-marmarigis/"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://karanikas-cardiology.gr/",
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "wpforms[fields][3]",
+            "wpforms[fields][4]",
+            "wpforms[fields][1]",
+            "wpforms[fields][2]",
+            "wpforms[id]",
+            "wpforms[author]",
+            "wpforms[post_id]"
+          ],
+          "submitLabels": [
+            "Αποστολή"
+          ],
+          "fields": [
+            {
+              "name": "wpforms[fields][3]",
+              "type": "text",
+              "label": "Ονοματεπώνυμο",
+              "required": false
+            },
+            {
+              "name": "wpforms[fields][4]",
+              "type": "text",
+              "label": "Τηλέφωνο",
+              "required": false
+            },
+            {
+              "name": "wpforms[fields][1]",
+              "type": "email",
+              "label": "Email",
+              "required": true
+            },
+            {
+              "name": "wpforms[fields][2]",
+              "type": "textarea",
+              "label": "Μήνυμα",
+              "required": true
+            },
+            {
+              "name": "wpforms[id]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "wpforms[author]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "wpforms[post_id]",
+              "type": "hidden",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "6978131340 6979970498",
+          "+306978131340",
+          "+306979970498",
+          "6978131340",
+          "6979970498"
+        ],
+        "emails": [
+          "karanikasstavros@gmail.com"
+        ],
+        "addresses": [
+          "ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Ηλεκτροκαρδιογράφημα Εμφυτεύσιμο Holter Υπερηχογράφημα καρδιάς Holter πιέσεως Εμφύτευση απινιδωτή Holter ρυθμού Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/drkaranikas"
+          },
+          {
+            "href": "https://www.instagram.com/drkaranikas/?igshid=YmMyMTA2M2Y%3D&fbclid=IwAR089Bm9cMOUZoL9AggBAAMp-CJ61CqiU2ky2qyByXRb8Znn0oGiZhMJg9c"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://karanikas-cardiology.gr/",
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "wpforms[fields][3]",
+              "wpforms[fields][4]",
+              "wpforms[fields][1]",
+              "wpforms[fields][2]",
+              "wpforms[id]",
+              "wpforms[author]",
+              "wpforms[post_id]"
+            ],
+            "submitLabels": [
+              "Αποστολή"
+            ],
+            "fields": [
+              {
+                "name": "wpforms[fields][3]",
+                "type": "text",
+                "label": "Ονοματεπώνυμο",
+                "required": false
+              },
+              {
+                "name": "wpforms[fields][4]",
+                "type": "text",
+                "label": "Τηλέφωνο",
+                "required": false
+              },
+              {
+                "name": "wpforms[fields][1]",
+                "type": "email",
+                "label": "Email",
+                "required": true
+              },
+              {
+                "name": "wpforms[fields][2]",
+                "type": "textarea",
+                "label": "Μήνυμα",
+                "required": true
+              },
+              {
+                "name": "wpforms[id]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "wpforms[author]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "wpforms[post_id]",
+                "type": "hidden",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Ηλεκτροκαρδιογράφημα Εμφυτεύσιμο Holter Υπερηχογράφημα καρδιάς Holter πιέσεως Εμφύτευση απινιδωτή Holter ρυθμού Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com",
+      "textContent": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KM8VS9Q\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ ΑΡΧΙΚΗ ΚΑΡΔΙΟΛΟΓΟΣ ΥΠΗΡΕΣΙΕΣ ΗΛΕΚΤΡΟΚΑΡΔΙΟΓΡΑΦΗΜΑ HOLTER ΡΥΘΜΟΥ HOLTER ΡΥΘΜΟΥ 7 ΗΜΕΡΩΝ HOLTER ΠΙΕΣΕΩΣ ΕΜΦΥΤΕΥΣΙΜΟ HOLTER ΕΛΕΓΧΟΣ ΒΗΜΑΤΟΔΟΤΗ – ΑΠΙΝΙΔΩΤΗ ΥΠΕΡΗΧΟΓΡΑΦΙΑ (TRIPLEX) ΚΑΡΔΙΑΣ ΕΜΦΥΤΕΥΣΗ ΒΗΜΑΤΟΔΟΤΗ ΕΜΦΥΤΕΥΣΗ ΑΠΙΝΙΔΩΤΗ ΕΜΦΥΤΕΥΣΗ ΑΜΦΙΚΟΙΛΙΑΚΟΥ ΒΗΜΑΤΟΔΟΤΗ TILT TEST ΕΠΙΣΚΕΨΗ ΚΑΤ’ΟΙΚΟΝ ΚΑΡΔΙΑ ΚΑΙ ΠΑΘΗΣΕΙΣ ΚΑΡΔΙΑΚΗ ΑΝΕΠΑΡΚΕΙΑ ΔΙΑΤΡΟΦΙΚΕΣ ΣΥΜΒΟΥΛΕΣ ΓΙΑ ΤΗΝ ΠΡΟΛΗΨΗ ΚΑΙ ΤΗΝ ΑΝΤΙΜΕΤΩΠΙΣΗ ΤΩΝ ΚΑΡΔΙΑΓΓΕΙΑΚΩΝ ΠΑΘΗΣΕΩΝ ΑΡΤΗΡΙΑΚΗ ΥΠΕΡΤΑΣΗ ΑΡΤΗΡΙΑΚΗ ΥΠΕΡΤΑΣΗ ΚΑΙ ΚΥΗΣΗ ΣΥΓΚΟΠΗ ΚΑΙ ΛΙΠΟΘΥΜΙΑ ΚΟΛΠΙΚΟΣ ΠΤΕΡΥΓΙΣΜΟΣ ΚΟΛΠΙΚΗ ΜΑΡΜΑΡΥΓΗ ΚΟΛΠΙΚΗ ΤΑΧΥΚΑΡΔΙΑ ΣΥΝΔΡΟΜΟ ΒΡΑΔΥΚΑΡΔΙΑΣ – ΤΑΧΥΚΑΡΔΙΑΣ ΕΜΦΡΑΓΜΑ ΤΟΥ ΜΥΟΚΑΡΔΙΟΥ ΝΕΑ ΕΠΙΚΟΙΝΩΝΙΑ Σταυρος Β. Καρανικας ΜD, MSc Καρδιολόγος – Αρρυθμιολόγος Επιμελητής Καρδιολογικής Κλινικής Νοσοκομείου Μητέρα, όμιλος Υγεία Επιμελητής Καρδιοχειρουργικής Μονάδας Εντατικής Θεραπείας Ωνασείου Καρδιοχειρουργικού Κέντρου Μάθετε περισσότερα Ο ασθενης πρεπει να ειναι η αρχη και το τελος της διαγνωσης Η ιστορία του, αν σταθείς προσεκτικά και την ακούσεις, θα οδηγήσει στις σωστές διαγνωστικές αποφάσεις που αφορούν στις εξετάσεις, τη διάγνωση και τις παρεμβάσεις. Και το όφελος τελικά σε αυτόν θα επιστρέψει. Μάθετε περισσότερα setREVStartSize({c: 'rev_slider_2_1',rl:[1240,1024,778,480],el:[820,768,700,400],gw:[1920,1024,778,480],gh:[820,768,700,400],type:'standard',justify:'',layout:'fullwidth',mh:\"0\"});if (window.RS_MODULES!==undefined && window.RS_MODULES.modules!==undefined && window.RS_MODULES.modules[\"revslider21\"]!==undefined) {window.RS_MODULES.modules[\"revslider21\"].once = false;window.revapi2 = undefined;if (window.RS_MODULES.checkMinimal!==undefined) window.RS_MODULES.checkMinimal()} Δρ Σταύρος Καρανίκας Καρδιολόγος – Αρρυθμιολόγος Ο Σταύρος Β. Καρανίκας είναι Καρδιολόγος – Αρρυθμιολόγος και διατηρεί ιδιωτικό ιατρείο στο κέντρο της Αθήνας. Το 2015 ολοκλήρωσε την ειδικότητα της Καρδιολογίας στο Κωνσταντοπούλειο Γενικό Νοσοκομείο Νέας Ιωνίας, ενώ παράλληλα περάτωσε τις μεταπτυχιακές του σπουδές στο Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών. Στη συνέχεια, μετέβη στη Μεγάλη Βρετανία, όπου εξειδικεύτηκε στην εμφύτευση συσκευών καρδιακής βηματοδότησης και την αντιμετώπιση των καρδιακών αρρυθμιών. Στο Λονδίνο εργάστηκε ως Επιμελητής Καρδιολόγος έως το 2020. Από τότε έως σήμερα, κατέχει τη θέση του Επιμελητή Καρδιολόγου στο Εργαστήριο Ηλεκτροφυσιολογίας – Εμφύτευσης Βηματοδοτών, καθώς και στην Κλινική Ενηλίκων του νοσοκομείου «Μητέρα» (Όμιλος Υγεία). Παράλληλα, επί τρία συναπτά έτη, διετέλεσε Επικουρικός Επιμελητής Καρδιολόγος στην Καρδιοχειρουργική Μονάδα Εντατικής Θεραπείας του Ωνασείου Καρδιοχειρουργικού Κέντρου. Ο ιατρός συμμετέχει ενεργά σε πολυάριθμα διεθνή συνέδρια και το έργο του περιλαμβάνει πλήθος επιστημονικών δημοσιεύσεων σε διεθνή περιοδικά. Διαθέτει εκτενή εμπειρία στη διεξαγωγή πολυάριθμων πολυκεντρικών κλινικών μελετών. Είναι μέλος της Ελληνικής Καρδιολογικής Εταιρείας και της Ευρωπαϊκής Αρρυθμιολογικής Εταιρείας (EHRA). Τέλος, διακρίνεται για τη βαθιά του γνώση σε όλο το φάσμα της Κλινικής Καρδιολογίας, με εξειδίκευση στην εμφύτευση βηματοδοτών και απινιδωτών. Βιογραφικό Αρρυθμίες Βηματοδότης Απινιδωτής Ισχαιμία Μυοκαρδίου Καρδιακή Ανεπάρκεια Αρτηριακή Υπέρταση Μεταβολικά Νοσήματα Υπηρεσίες Ηλεκτροκαρδιογράφημα Holter πιέσεως Εμφύτευση βηματοδότη & απινιδωτή Holter ρυθμού Υπερηχογράφημα καρδιάς Εμφυτεύσιμο Holter Υπηρεσίες κατ'οίκον Holter ρυθμού 24 ή 48 ωρών Holter πιέσεως 24 ωρών Έλεγχος και ρύθμιση βηματοδότη, απινιδωτή ή αμφικοιλιακού βηματοδότη Φροντίδα και παρακολούθηση μετεγχειρητικού ασθενούς Μάθετε περισσότερα Είπαν για εμάς Εξαιρετικός επιστήμονας και άνθρωπος πάνω από όλα. Αντιμετώπισε επιτυχώς το χρόνιο καρδιολογικό πρόβλημα του πατέρα μου . Ιδιαίτερα σχολαστικός με την εξέταση και το ιστορικό του ασθενούς, μας εξήγησε πρόθυμα όλες τις απορίες. Οι έγκαιρες ορθές διαγνώσεις του σώζουν. Σας ευχαριστούμε! Τ.Τ Σε εμπειρία 20 ετών από καρδιολόγους είναι ο μόνος γιατρός που κατάφερε να βρει το πρόβλημα υγείας μου και να το λύσει!!! Επίσης είναι ο μόνος γιατρός που κατάλαβε ότι κινδύνεψε η ζωή της μητέρας μου και την έσωσε!!! Είναι άριστος επαγγελματίας και εκπληκτικός Άνθρωπος!!!! Έχει λύσεις για τα πάντα και δεν πέφτει ΠΟΤΈ έξω!!! Τον συστήνω ανεπιφύλακτα!!! Γ.Μ Σπουδαίος γιατρός και εξαιρετικός άνθρωπος. Ασχολήθηκε με την περίπτωσή μας διεξοδικά και μας καθοδήγησε σωστά, λύνοντάς μας ταυτόχρονα όλες τις απορίες μας. Τον συστήνω ανεπιφύλαχτα. Λ.Κ Εξαιρετικός άνθρωπος και σπουδαίος επιστήμονας. Διαχειρίστηκε πολύ γρήγορα και με απόλυτη επιτυχία το πρόβλημα της υγείας μου καθώς κινδύνεψε η ζωή μου.. σας ευχαριστώ πάρα πολύ. Είμαι ευγνώμων. Τον συστήνω ανεπιφύλακτα . Σας εμπιστεύομαι απόλυτα. Μ.Κ Έχουμε να κάνουμε με γιατρό πλήρους επιστημονικής κατάρτισης, γεγονός που αποδεικνύεται από το ότι διαχειριστήκε με απόλυτη επιτυχία την υπέρταση συγγενικού μου προσώπου λαμβάνοντας υπόψιν όλο το ιστορικό του ασθενούς. Και φυσικά όλα αυτά να στα εξηγεί απλά και κατανοητά κάνοντας σε να νιώθεις ασφάλεια και εμπιστοσύνη. Κύριε Σταύρο σας ευχαριστούμε πολύ! Τ.Π Ο Σταύρος είναι μεταξύ εκείνων που ακόμα καταλαβαίνουν την ιατρική ως συνώνυμη της ηθικής διάστασης του ανθρώπου -θεραπευτή και θεραπευόμενου- μέσα στον κόσμο. Μ.Σ Previous Next Τελευταία νέα Τιμητική διάκριση Η εμπιστοσύνη των ασθενών μας είναι η δύναμή μας. Μας εμπνέει για συνεχή μάθηση και εξέλιξη, υπενθυμίζοντάς μας το βάρος της ευθύνης που φέρουμε. Οφείλουμε πάντοτε να λαμβάνουμε υπόψη και να σεβόμαστε την ιδιαιτερότητα και την ατομικότητα του ασθενούς και, όταν αυτό κρίνεται αναγκαίο, να τον καθοδηγούμε υπεύθυνα. Σας ευχαριστούμε. Μάθετε περισσότερα Αίσθημα παλμών Τι είναι; Το αίσθημα παλμών είναι η αντίληψη των δικών μας καρδιακών παλμών. Αυτό που συνήθως νιώθει κανείς είναι ένας γρήγορος καρδιακός ρυθμός, δυνατός παλμός ή “φτερούγισμα” στο στήθος. Πότε πρέπει να ανησυχήσω; Αν και το αίσθημα παλμών μπορεί εύκολα να ανησυχήσει τον ασθενή συνήθως είναι αθώο. Φυσιολογικές καταστάσεις όπως η έντονη άσκηση, το άγχος και η ψυχολογική επιβάρυνση από οποιαδήποτε αιτία αλλά και η υπερκατανάλωση διεγερτικών ουσιών όπως η καφεϊνη και η νικοτίνη μπορούν να προκαλέσουν την αίσθηση αυτή. Ενίοτε βέβαια το αίσθημα παλμών μπορεί να είναι το σύμπτωμα μιας πάθησης όπως μια αρρυθμία που χρήζει ιατρικής προσοχής, διάγνωσης και θεραπείας. Έτσι λοιπόν ένα περιστασιακό αίσθημα παλμών πολύ σύντομης διάρκειας (ενός ή μερικών δευτερολέπτων) για ελάχιστες φορές μέσα σε μια ημέρα συνήθως δεν αποτελεί λόγω ανησυχίας. Μερικές περιπτώσεις κατά τις οποίες θα πρέπει οπωσδήποτε να αναζητήσουμε ιατρική βοήθεια είναι όταν το αίσθημα παλμών συνοδεύεται από: Μεγαλύτερη διάρκεια Δυσφορία ή πόνο στο στήθος Ζάλη, αδυναμία ή επικείμενη απώλεια συνείδησης Δύσπνοια Τι εξετάσεις θα χρειαστώ; Αρχικώς στην ανίχνευση ή αποκλεισμό δομικών ή λειτουργικών ανωμαλιών της καρδιάς που μπορεί να αποτελούν την αφετηρία των συμπτωμάτων σημαντικό ρόλο θα διατελέσει ο υπέρηχος (triplex) καρδιάς. Η κυρίως διερεύνηση του αισθήματος παλμών και του αποκλεισμού ή της επιβεβαίωσης μιας πιο σύνθετης αρρυθμίας θα αρχίσει με την καταγραφή του ηλεκτροκαρδιογραφήματος. Όμως, λόγω της μικρής διάρκειας της καταγραφής ενδέχεται να χρειαστεί μεγαλύτερης διάρκειας παρακολούθηση του ρυθμού όπως με το HOLTER ρυθμού ή με εμφυτεύσιμο καταγραφέα (implantable loop recorder). Τέλος θα πρέπει να τονιστεί ότι το αίσθημα παλμών είναι ένα μη ειδικό σύμπτωμα και τελικώς η βασική του αιτία ενδέχεται να μην είναι αμιγώς καρδιολογική. Μάθετε περισσότερα Έξυπνα ρολόγια για την ανίχνευση της κολπικής μαρμαρυγής Τα τελευταία χρόνια η τεχνολογία των εμπορικών φορητών συσκευών όπως τα έξυπνα ρολόγια έχει εξελιχθεί αλματωδώς. Το ολοένα και αυξανόμενο ενδιαφέρον του κοινού για βελτίωση της ποιότητας ζωής έχει βρει απήχηση στις συσκευές αυτές που είναι ικανές σε πολλές περιπτώσεις να καταγράφουν πολλαπλά ζωτικά σημεία όπως τα επίπεδα οξυγόνου στο αίμα, οι καρδιακοί παλμοί, η αρτηριακή πίεση και διάφορα άλλα. Κάποιες από αυτές τις συσκευές πάνε ένα βήμα πιο μακριά και είναι σε θέση να καταγράψουν το ηλεκτροκαρδιογράφημα, να ανιχνεύσουν την κολπική μαρμαρυγή και να προτρέψουν τον ασθενή να αναζητήσει ιατρική βοήθεια. Πλεονεκτήματα έξυπνων συσκευών: Απεριόριστη χρονική διάρκεια παρακολούθησης Ευκολία στη χρήση και εύκολη αποστολή του καρδιογραφήματος στο θεράποντα ιατρό Εύκολη προσβασιμότητα Δυνατότητα άμεσης αποστολής του ύποπτου καρδιογραφήματος στον θεράποντα ιατρό Μειονεκτήματα έξυπνων συσκευών Οι περισσότερες απαιτούν την ενεργό συμμετοχή του ασθενούς στην καταγραφή. Έτσι μια ασυμπτωματική κολπική μαρμαρυγή δεν θα ωθήσει τον ασθενή να καταγράψει το καρδιογράφημα και έτσι η αρρυθμία μπορεί να διαλάθει της προσοχής Προς το παρόν οι δυνατότητες των έξυπνων ρολογιών περιορίζονται στην ανίχνευση κολπικής μαρμαρυγής και όχι άλλων αρρυθμιών Συσκευές που έχουν λάβει έγκριση από τον Αμερικανικό Οργανισμό Φαρμάκων και Τροφίμων (FDA) είναι: Apple Watch Series 8 & Apple Watch Ultra Apple Watch Series 7 Google pixel watch Samsung Galaxy Watch 4 & Galaxy Watch 4 Classic Fitbit Sense 2 Συσκευές με δυνατότητα για αξιόπιστη ανίχνευση της κολπικής μαρμαρυγής που όμως δεν έχουν πάρει ακόμη έγκριση από τον Αμερικανικό Οργανισμό Φαρμάκων και Τροφίμων Samsung Galaxy Watch 5 & Galaxy Watch 5 Pro Samsung Galaxy Watch 4 & 4 Classic HUAWEI WATCH Ultimate Withings ScanWatch Withings ScanWatch Horizon Withings Move ECG HUAWEI Watch GT 3 Pro Ας σημειωθεί ότι οι έξυπνες συσκευές που προορίζονται για εμπορική και όχι αμιγώς ιατρική χρήση δεν μπορούν να υποκαταστήσουν ούτε την εξειδικευμένη ιατρική συμβουλή ούτε τις συνολικές δυνατότητες των καθιερωμένων ιατρικών συσκευών όπως το HOLTER ρυθμού. Όμως σε περιπτώσεις που απαιτείται παρατεταμένη παρακολούθηση του ασθενούς ενώ οι κλασσικές λύσεις έχουν αποτύχει να θέσουν τη διάγνωση ή σε απομονωμένες περιοχές όπως τα απομακρυσμένα ελληνικά νησιά, μπορεί να φανούν όχι μόνο χρήσιμες αλλά και σωτήριες. Μάθετε περισσότερα Επικοινωνήστε μαζί μας Please enable JavaScript in your browser to complete this form.ΟνοματεπώνυμοΤηλέφωνοEmail *Μήνυμα *Αποστολή Στοιχεία Επικοινωνίας 6978131340 6979970498 karanikasstavros@gmail.com Βασ. Σοφίας 92, Αθήνα ΚΑΛΕΣΤΕ ΜΑΣ ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Ηλεκτροκαρδιογράφημα Εμφυτεύσιμο Holter Υπερηχογράφημα καρδιάς Holter πιέσεως Εμφύτευση απινιδωτή Holter ρυθμού Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com window.RS_MODULES = window.RS_MODULES || {}; window.RS_MODULES.modules = window.RS_MODULES.modules || {}; window.RS_MODULES.waiting = window.RS_MODULES.waiting || []; window.RS_MODULES.defered = true; window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {}; window.RS_MODULES.type = 'compiled'; if(typeof revslider_showDoubleJqueryError === \"undefined\") {function revslider_showDoubleJqueryError(sliderID) {console.log(\"You have some jquery.js library include that comes after the Slider Revolution files js inclusion.\");console.log(\"To fix this, you can:\");console.log(\"1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on\");console.log(\"2. Find the double jQuery.js inclusion and remove it\");return \"Double Included jQuery Library\";}} #rev_slider_2_1_wrapper .hesperiden.tparrows{cursor:pointer;background:rgba(0,0,0,0.5);width:40px;height:40px;position:absolute;display:block;z-index:1000; border-radius:50%}#rev_slider_2_1_wrapper .hesperiden.tparrows.rs-touchhover{background:#000000}#rev_slider_2_1_wrapper .hesperiden.tparrows:before{font-family:'revicons';font-size:20px;color:#ffffff;display:block;line-height:40px;text-align:center}#rev_slider_2_1_wrapper .hesperiden.tparrows.tp-leftarrow:before{content:'\\e82c'; margin-left:-3px}#rev_slider_2_1_wrapper .hesperiden.tparrows.tp-rightarrow:before{content:'\\e82d'; margin-right:-3px} var tpj = jQuery; var revapi2; if(window.RS_MODULES === undefined) window.RS_MODULES = {}; if(RS_MODULES.modules === undefined) RS_MODULES.modules = {}; RS_MODULES.modules[\"revslider21\"] = {once: RS_MODULES.modules[\"revslider21\"]!==undefined ? RS_MODULES.modules[\"revslider21\"].once : undefined, init:function() { window.revapi2 = window.revapi2===undefined || window.revapi2===null || window.revapi2.length===0 ? document.getElementById(\"rev_slider_2_1\") : window.revapi2; if(window.revapi2 === null || window.revapi2 === undefined || window.revapi2.length==0) { window.revapi2initTry = window.revapi2initTry ===undefined ? 0 : window.revapi2initTry+1; if (window.revapi2initTry<20) requestAnimationFrame(function() {RS_MODULES.modules[\"revslider21\"].init()}); return;} window.revapi2 = jQuery(window.revapi2); if(window.revapi2.revolution==undefined){ revslider_showDoubleJqueryError(\"rev_slider_2_1\"); return;} revapi2.revolutionInit({ revapi:\"revapi2\", DPR:\"dpr\", sliderLayout:\"fullwidth\", visibilityLevels:\"1240,1024,778,480\", gridwidth:\"1920,1024,778,480\", gridheight:\"820,768,700,400\", lazyType:\"smart\", perspective:600, perspectiveType:\"global\", editorheight:\"820,768,700,400\", responsiveLevels:\"1240,1024,778,480\", progressBar:{disableProgressBar:true}, navigation: { wheelCallDelay:1000, onHoverStop:false, arrows: { enable:true, style:\"hesperiden\", left: { h_offset:30 }, right: { h_offset:30 } } }, viewPort: { global:true, globalDist:\"-200px\", enable:false }, fallbacks: { allowHTML5AutoPlayOnAndroid:true }, }); }} // End of RevInitScript if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();}; /* <![CDATA[ */ var wpforms_settings = {\"val_required\":\"This field is required.\",\"val_email\":\"Please enter a valid email address.\",\"val_email_suggestion\":\"Did you mean {suggestion}?\",\"val_email_suggestion_title\":\"Click to accept this suggestion.\",\"val_email_restricted\":\"This email address is not allowed.\",\"val_number\":\"Please enter a valid number.\",\"val_number_positive\":\"Please enter a valid positive number.\",\"val_confirm\":\"Field values do not match.\",\"val_checklimit\":\"You have exceeded the number of allowed selections: {#}.\",\"val_limit_characters\":\"{count} of {limit} max characters.\",\"val_limit_words\":\"{count} of {limit} max words.\",\"val_recaptcha_fail_msg\":\"Google reCAPTCHA verification failed, please try again later.\",\"val_turnstile_fail_msg\":\"Cloudflare Turnstile verification failed, please try again later.\",\"val_inputmask_incomplete\":\"Please fill out the field in required format.\",\"uuid_cookie\":\"\",\"locale\":\"en\",\"wpforms_plugin_url\":\"https:\\/\\/karanikas-cardiology.gr\\/wp-content\\/plugins\\/wpforms-lite\\/\",\"gdpr\":\"\",\"ajaxurl\":\"https:\\/\\/karanikas-cardiology.gr\\/wp-admin\\/admin-ajax.php\",\"mailcheck_enabled\":\"1\",\"mailcheck_domains\":[],\"mailcheck_toplevel_domains\":[\"dev\"],\"is_ssl\":\"1\",\"page_title\":\"\\u0391\\u03c1\\u03c7\\u03b9\\u03ba\\u03ae\",\"page_id\":\"2\",\"currency_code\":\"USD\",\"currency_thousands\":\",\",\"currency_decimals\":\"2\",\"currency_decimal\":\".\",\"currency_symbol\":\"$\",\"currency_symbol_pos\":\"left\"} /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/karanikas-cardiology.gr-home-91afb629/homepage--91afb629.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/karanikas-cardiology.gr-home-91afb629/homepage--91afb629.txt",
+      "imageReferences": [
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2026/02/%CF%86%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%B1-1.png",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://karanikas-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:09:03.694Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/pin-top.svg",
+          "alt": "Location",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:09:03.694Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/phone-top.svg",
+          "alt": "Phone",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:09:03.694Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/email-top.svg",
+          "alt": "Email",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:09:03.694Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/fb-top.svg",
+          "alt": "Facebook",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:09:03.694Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/insta-top.svg",
+          "alt": "Instagram",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:09:03.694Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/logo-top.png",
+          "alt": "Σταύρος Καρανίκας Ειδικός Καρδιολόγος -Αρρυθμιολόγος",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:09:03.694Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/plugins/revslider/public/assets/assets/dummy.png",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:09:03.694Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2026/02/%CF%86%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%B1-2.png",
+          "alt": "Σταύρος Καρανίκας - Ειδικός Καρδιολόγος Αρρυθμιολόγος",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:09:03.694Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/aruthmies_.jpg",
+          "alt": "Αρρυθμίες",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:09:03.694Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/vimatodoths_.jpg",
+          "alt": "Αρρυθμίες",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:09:03.694Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/isxaimia_.jpg",
+          "alt": "Ισχαιμία Μυοκαρδίου - Καρδιακή Υπέρταση",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/",
+              "retrievedAt": "2026-03-31T13:09:03.694Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.702Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/karanikas-cardiology.gr-home-91afb629/homepage-page-91afb629.png"
+    },
+    "about": {
+      "pageType": "about",
+      "requestedUrl": "https://karanikas-cardiology.gr/kardiologos",
+      "finalUrl": "https://karanikas-cardiology.gr/kardiologos",
+      "fetchedAt": "2026-03-31T13:09:05.827Z",
+      "metadata": {
+        "title": "Καρδιολόγος Αθήνα | Δρ. Καρανίκας Σταύρος",
+        "metaDescription": "Καρδιολόγος Αθήνα | Δρ. Καρανίκας Σταύρος ειδικός καρδιολόγος - αρρυθμιολόγος | Διαβάστε το πλήρες βιογραφικό του ιατρού",
+        "canonicalUrl": "https://karanikas-cardiology.gr/kardiologos/",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Καρδιολόγος Αθήνα | Δρ. Καρανίκας Σταύρος",
+        "openGraphDescription": "Καρδιολόγος Αθήνα | Δρ. Καρανίκας Σταύρος ειδικός καρδιολόγος - αρρυθμιολόγος | Διαβάστε το πλήρες βιογραφικό του ιατρού",
+        "openGraphImage": "https://karanikas-cardiology.gr/wp-content/uploads/2022/11/photo-bio-eswteriki.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Βιογραφικό"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://karanikas-cardiology.gr/contact",
+          "label": "ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kardiologos/",
+          "label": "ΚΑΡΔΙΟΛΟΓΟΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/hlektrokardiografima/",
+          "label": "ΗΛΕΚΤΡΟΚΑΡΔΙΟΓΡΑΦΗΜΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/holter-rithmou/",
+          "label": "HOLTER ΡΥΘΜΟΥ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/holter-pieseos/",
+          "label": "HOLTER ΠΙΕΣΕΩΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusimo-holter/",
+          "label": "ΕΜΦΥΤΕΥΣΙΜΟ HOLTER"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/elegxos-vimatodoti-apinidoti/",
+          "label": "ΕΛΕΓΧΟΣ ΒΗΜΑΤΟΔΟΤΗ – ΑΠΙΝΙΔΩΤΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/triplex-kardias/",
+          "label": "ΥΠΕΡΗΧΟΓΡΑΦΙΑ (TRIPLEX) ΚΑΡΔΙΑΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/vimatodotis-2/",
+          "label": "ΕΜΦΥΤΕΥΣΗ ΒΗΜΑΤΟΔΟΤΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusi-apinidoti/",
+          "label": "ΕΜΦΥΤΕΥΣΗ ΑΠΙΝΙΔΩΤΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusi-amfikoiliakou-vimatodoti/",
+          "label": "ΕΜΦΥΤΕΥΣΗ ΑΜΦΙΚΟΙΛΙΑΚΟΥ ΒΗΜΑΤΟΔΟΤΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/tilt-test/",
+          "label": "TILT TEST"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/episkepsi-katoikon/",
+          "label": "ΕΠΙΣΚΕΨΗ ΚΑΤ’ΟΙΚΟΝ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kardiaki-aneparkeia/",
+          "label": "ΚΑΡΔΙΑΚΗ ΑΝΕΠΑΡΚΕΙΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/diatrofikes-sumboules-pathiseis-kardias/",
+          "label": "ΔΙΑΤΡΟΦΙΚΕΣ ΣΥΜΒΟΥΛΕΣ ΓΙΑ ΤΗΝ ΠΡΟΛΗΨΗ ΚΑΙ ΤΗΝ ΑΝΤΙΜΕΤΩΠΙΣΗ ΤΩΝ ΚΑΡΔΙΑΓΓΕΙΑΚΩΝ ΠΑΘΗΣΕΩΝ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/artiriaki-ipertasi/",
+          "label": "ΑΡΤΗΡΙΑΚΗ ΥΠΕΡΤΑΣΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/artiriaki-ipertasi-kai-kuhsh/",
+          "label": "ΑΡΤΗΡΙΑΚΗ ΥΠΕΡΤΑΣΗ ΚΑΙ ΚΥΗΣΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/sigkopi-kai-lipothimia-ti-einai-pote-na-anusixiso/",
+          "label": "ΣΥΓΚΟΠΗ ΚΑΙ ΛΙΠΟΘΥΜΙΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kolpikos-pterugismos/",
+          "label": "ΚΟΛΠΙΚΟΣ ΠΤΕΡΥΓΙΣΜΟΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kolpiki-marmarigi/",
+          "label": "ΚΟΛΠΙΚΗ ΜΑΡΜΑΡΥΓΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kolpiki-taxykardia/",
+          "label": "ΚΟΛΠΙΚΗ ΤΑΧΥΚΑΡΔΙΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/sindromo-vradikardias-tachikardias/",
+          "label": "ΣΥΝΔΡΟΜΟ ΒΡΑΔΥΚΑΡΔΙΑΣ – ΤΑΧΥΚΑΡΔΙΑΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfragma-tou-myokardiou/",
+          "label": "ΕΜΦΡΑΓΜΑ ΤΟΥ ΜΥΟΚΑΡΔΙΟΥ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/blog/",
+          "label": "ΝΕΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/contact/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/hlektrokardiografima",
+          "label": "Ηλεκτροκαρδιογράφημα"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusimo-holter",
+          "label": "Εμφυτεύσιμο Holter"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/triplex-kardias",
+          "label": "Υπερηχογράφημα καρδιάς"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/holter-pieseos",
+          "label": "Holter πιέσεως"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusi-vimatodoti-apinidoti",
+          "label": "Εμφύτευση απινιδωτή"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/holter-rithmou",
+          "label": "Holter ρυθμού"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "6978131340 6979970498",
+          "10.3109/09537104.2015.1125874",
+          "2014.08.056",
+          "0735-1097(14)60011-5",
+          "113.001118",
+          "2013.05.021",
+          "+306978131340",
+          "+306979970498",
+          "6978131340",
+          "6979970498"
+        ],
+        "emails": [
+          "karanikasstavros@gmail.com"
+        ],
+        "addresses": [
+          "ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Ηλεκτροκαρδιογράφημα Εμφυτεύσιμο Holter Υπερηχογράφημα καρδιάς Holter πιέσεως Εμφύτευση απινιδωτή Holter ρυθμού Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/drkaranikas"
+          },
+          {
+            "href": "https://www.instagram.com/drkaranikas/?igshid=YmMyMTA2M2Y%3D&fbclid=IwAR089Bm9cMOUZoL9AggBAAMp-CJ61CqiU2ky2qyByXRb8Znn0oGiZhMJg9c"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Ηλεκτροκαρδιογράφημα Εμφυτεύσιμο Holter Υπερηχογράφημα καρδιάς Holter πιέσεως Εμφύτευση απινιδωτή Holter ρυθμού Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com",
+      "textContent": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KM8VS9Q\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ ΑΡΧΙΚΗ ΚΑΡΔΙΟΛΟΓΟΣ ΥΠΗΡΕΣΙΕΣ ΗΛΕΚΤΡΟΚΑΡΔΙΟΓΡΑΦΗΜΑ HOLTER ΡΥΘΜΟΥ HOLTER ΡΥΘΜΟΥ 7 ΗΜΕΡΩΝ HOLTER ΠΙΕΣΕΩΣ ΕΜΦΥΤΕΥΣΙΜΟ HOLTER ΕΛΕΓΧΟΣ ΒΗΜΑΤΟΔΟΤΗ – ΑΠΙΝΙΔΩΤΗ ΥΠΕΡΗΧΟΓΡΑΦΙΑ (TRIPLEX) ΚΑΡΔΙΑΣ ΕΜΦΥΤΕΥΣΗ ΒΗΜΑΤΟΔΟΤΗ ΕΜΦΥΤΕΥΣΗ ΑΠΙΝΙΔΩΤΗ ΕΜΦΥΤΕΥΣΗ ΑΜΦΙΚΟΙΛΙΑΚΟΥ ΒΗΜΑΤΟΔΟΤΗ TILT TEST ΕΠΙΣΚΕΨΗ ΚΑΤ’ΟΙΚΟΝ ΚΑΡΔΙΑ ΚΑΙ ΠΑΘΗΣΕΙΣ ΚΑΡΔΙΑΚΗ ΑΝΕΠΑΡΚΕΙΑ ΔΙΑΤΡΟΦΙΚΕΣ ΣΥΜΒΟΥΛΕΣ ΓΙΑ ΤΗΝ ΠΡΟΛΗΨΗ ΚΑΙ ΤΗΝ ΑΝΤΙΜΕΤΩΠΙΣΗ ΤΩΝ ΚΑΡΔΙΑΓΓΕΙΑΚΩΝ ΠΑΘΗΣΕΩΝ ΑΡΤΗΡΙΑΚΗ ΥΠΕΡΤΑΣΗ ΑΡΤΗΡΙΑΚΗ ΥΠΕΡΤΑΣΗ ΚΑΙ ΚΥΗΣΗ ΣΥΓΚΟΠΗ ΚΑΙ ΛΙΠΟΘΥΜΙΑ ΚΟΛΠΙΚΟΣ ΠΤΕΡΥΓΙΣΜΟΣ ΚΟΛΠΙΚΗ ΜΑΡΜΑΡΥΓΗ ΚΟΛΠΙΚΗ ΤΑΧΥΚΑΡΔΙΑ ΣΥΝΔΡΟΜΟ ΒΡΑΔΥΚΑΡΔΙΑΣ – ΤΑΧΥΚΑΡΔΙΑΣ ΕΜΦΡΑΓΜΑ ΤΟΥ ΜΥΟΚΑΡΔΙΟΥ ΝΕΑ ΕΠΙΚΟΙΝΩΝΙΑ Βιογραφικό .drop_caps_1:first-letter{ color: var(--dark); float: left; font-size: 75px; line-height: 60px; padding: 4px 8px 3px 0; font-weight:700; } Ο Σταύρος Β. Καρανίκας είναι Καρδιολόγος – Αρρυθμιολόγος και διατηρεί ιδιωτικό ιατρείο στο κέντρο της Αθήνας. Το 2015 ολοκλήρωσε την ειδικότητα της Καρδιολογίας στο Κωνσταντοπούλειο Γενικό Νοσοκομείο Νέας Ιωνίας, ενώ παράλληλα περάτωσε τις μεταπτυχιακές του σπουδές στο Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών. Στη συνέχεια, μετέβη στη Μεγάλη Βρετανία, όπου εξειδικεύτηκε στην εμφύτευση συσκευών καρδιακής βηματοδότησης και την αντιμετώπιση των καρδιακών αρρυθμιών. Στο Λονδίνο εργάστηκε ως Επιμελητής Καρδιολόγος έως το 2020. Από τότε έως σήμερα, κατέχει τη θέση του Επιμελητή Καρδιολόγου στο Εργαστήριο Ηλεκτροφυσιολογίας – Εμφύτευσης Βηματοδοτών, καθώς και στην Κλινική Ενηλίκων του νοσοκομείου «Μητέρα» (Όμιλος Υγεία). Παράλληλα, επί τρία συναπτά έτη, διετέλεσε Επικουρικός Επιμελητής Καρδιολόγος στην Καρδιοχειρουργική Μονάδα Εντατικής Θεραπείας του Ωνασείου Καρδιοχειρουργικού Κέντρου. Ο ιατρός συμμετέχει ενεργά σε πολυάριθμα διεθνή συνέδρια και το έργο του περιλαμβάνει πλήθος επιστημονικών δημοσιεύσεων σε διεθνή περιοδικά. Διαθέτει εκτενή εμπειρία στη διεξαγωγή πολυάριθμων πολυκεντρικών κλινικών μελετών. Είναι μέλος της Ελληνικής Καρδιολογικής Εταιρείας και της Ευρωπαϊκής Αρρυθμιολογικής Εταιρείας (EHRA). Τέλος, διακρίνεται για τη βαθιά του γνώση σε όλο το φάσμα της Κλινικής Καρδιολογίας, με εξειδίκευση στην εμφύτευση βηματοδοτών και απινιδωτών. ΕΡΓΑΣΙΑΚΗ ΕΜΠΕΙΡΙΑ Ιούλιος 2005 – Δεκέμβριος 2006: Αγροτικός Ιατρός, Π.Ι. Κεραμειών, Κ..Υ. Σάμης, Γενικού Νοσοκομείου Κεφαλονιάς Αύγουστος 2008 – Ιούλιος 2010: Ειδικευόμενος Παθολογίας, Παθολογική κλινική Γενικού Νοσοκομείου Κεφαλονιάς Ιούλιος 2010 – Δεκέμβριος 2011: Ειδικευόμενος Καρδιολογίας, Καρδιολογική κλινική, Γενικό Νοσοκομείο Άργους Φεβρουάριος 2012 – Ιούνιος 2015: Ειδικευόμενος Καρδιολογίας, Καρδιολογική κλινική Κωνσταντοπούλειου Γενικού Νοσοκομείου, Νέα Ιωνία Αττικής Iούλιος 2015 – Μάιος 2016: Επιμελητής Καρδιολόγος, Ιατρικό Kέντρο Παλαιού Φαλήρου Iούλιος 2015 – Μάιος 2016: Καρδιολόγος & Επιστημονικός υπεύθυνος, διαγνωστικού κέντρου“Διάγνωση”, Αιγάλεω Αττικής Μάιος 2016 – Φεβρουάριος 2017: Senior Clinical Fellow in Cardiology, Queen Elizabeth Hospital Woolwich, Lewisham & Greenwich Trust, London Φεβρουάριος 2017 – Φεβρουάριος 2018: Επιμελητής Καρδιολόγος (Locum Consultant Cardiologist), University Hospital of Lewisham, Lewisham & Greenwich Trust, London Μάρτιος 2018 – Δεκέμβριος 2019: Εξειδικευόμενος στην Καρδιακή ανεπάρκεια και καρδιακή βηματοδότηση (Senior Clinical Fellow in heart failure and devices), Queen Elizabeth Hospital Woolwich, Lewisham & Greenwich Trust, London Ιανουάριος 2020 – σήμερα: Επιμελητής καρδιολογικής κλινικής ενηλίκων νοσοκομείου Μητέρα, όμιλος Υγεία Φεβρουάριος 2021 – σήμερα: Επιμελητής Καρδιοχειρουργικής Μονάδας Ωνασείου Καρδιοχειρουργικού Κέντρου ΕΚΠΑΙΔΕΥΣΗ 1996 – 2002: Ιατρική σχολή, University of Medicine and Pharmacy ''Victor Babes'' Timisoara, Romania Ιανουάριος 2015: Μεταπτυχιακός τίτλος σπουδών – MSc, Καρδιοαναπνευστική αναζωογόνηση, Ιατρική σχολή, Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών Μάιος 2015: Λήψη τίτλου ειδικότητας Kαρδιολογίας ΔΗΜΟΣΙΕΥΣΕΙΣ (peer reviewed journals) Cavotricuspid isthmus ablation guided by force‐time integral – A randomized study. Clinical Cardiology doi: 10.1002/clc.23805 HEllenic Registry on Myocarditis SyndromES on behalf of Hellenic Heart Failure Association: The HERMES-HF Registry ESC Heart Failure doi:10.1002/ehf2.12894 Ticagrelor vs clopidogrel followed by ticagrelor re-loading in patients with ST-segment elevation myocardial infarction undergoing primary percutaneous coronary intervention: A randomized, pharmacodynamic comparison Platelets. doi:10.3109/09537104.2015.1125874 Ticagrelor Crushed Tablets Administration in STEMI Patients. The MOJITO Study J Am Coll Cardiol. 2015;65(5):511-512. doi: 10.1016/j.jacc.2014.08.056 High platelet reactivity in ST segment elevation myocardial infarction post thrombolysis: A pharmacodynamic comparison of ticagrelor versus high dose of clopidogrel. J Am Coll Cardiol. 2014;63(12_S): doi:10.1016/S0735-1097(14)60011-5 Onset of antiplatelet action with high (100 mg) versus standard (60 mg) loading dose of prasugrel in patients with ST-segment-elevation myocardial infarction undergoing primary percutaneous coronary intervention: pharmacodynamic study. Circ Cardiovasc Interv. 2014 Apr;7(2):233-9. doi: 10.1161/CIRCINTERVENTIONS.113.001118. Epub 2014 Mar 25. Standard (180mg) vs high (360mg) loading dose of ticagrelor in patients with STEMI undergoing primary PCI. Eur Heart J (2013) 34 (suppl 1): doi: 10.1093/eurheartj/eht307.P464 Double Versus Standard Loading Dose of Ticagrelor: Onset of Antiplatelet Action in Patients With STEMI Undergoing Primary PCI. J Am Coll Cardiol. 2013 Sep 3;62(10):940-1. doi: 10.1016/j.jacc.2013.05.021. Epub 2013 Jun 7 ΑΝΑΡΤΗΜΕΝΕΣ ΑΝΑΚΟΙΝΩΣΕΙΣ Un unexpected finding in a patient with previous coronary artery bypass grafts and atypical chest pain, EuroEcho 2019, Βιέννη Active fixation leads vs passive fixation pacemaker leads, a two-sided story of high sensitive cardiac troponin I elevation, Euroheartcare 2016, Αθήνα Ticagrelor versus clopidogrel and reloading with ticagrelor to patients with ST elevation myocardial infarction: a pharmacodynamic study (35th Panhellenic Congress in Cardiology) Start of platelet inhibition with high (100 mg) versus usual (60 mg) loading dose of prasugrel to patients with ST elevation myocardial infarction undergoing primary PCI (35th Panhellenic Congress in Cardiology) Ticagrelor vs High Dose Clopidogrel in Patients With ST Elevation Myocardial Infarction Post Fibrinolysis and high residual PR under Clopidogrel (34th Panhellenic Congress in Cardiology) Δείκτης διαμόλυνσης φυματίωσης σε μετανάστες και ημεδαπούς για τη λήψη πιστοποιητικού υγείας αντίστοιχα για άδεια παραμονής και πρόσληψη στο δημόσιο Χειρουργική αντιμετώπιση μετεγχειρητικών κοιλιοκηλών (25ο Πανελλήνιο Συνέδριο Χειρουργικής) Κοπροχόος περιτονίτιδα. Αίτια και αντιμετώπιση (25ο Πανελλήνιο Συνέδριο Χειρουργικής) Αναδρομική μελέτη διατρήσεων πεπτικού έλκους (25ο Πανελλήνιο Συνέδριο Χειρουργικής) Διαγνωστική προσπέλαση και αντιμετώπιση αποφρακτικού ειλεού (25ο Πανελλήνιο Συνέδριο Χειρουργικής) Διάγνωση και αντιμετώπιση εμβολής άνω μεσεντερίου αρτηρίας (25ο Πανελλήνιο Συνέδριο Χειρουργικής) Ειλεός από καρκίνο παχέως εντέρου (14ο Συνέδριο Ιατροχειρουργικής Εταιρείας Κέρκυρας) Ιατρογενής ρήξη παχέως εντέρου (14ο Συνέδριο Ιατροχειρουργικής Εταιρείας Κέρκυρας) Οξεία χειρουργική κοιλία λόγω διατρήσεως κοίλου σπλάχνου (14ο Συνέδριο Ιατροχειρουργικής Εταιρείας Κέρκυρας) ΠΟΛΥΚΕΝΤΡΙΚΕΣ ΚΛΙΝΙΚΕΣ ΜΕΛΕΤΕΣ Κατά τη διάρκεια της ειδικότητας και μετά ως το 2017 ως ερευνητικός συνεργάτης της Καρδιολογικής κλινικής του Κωνσταντοπούλειου Γ.Ν: RELAX-AHF2 (phase III) FOURIER (phase III) PARAGON HF (phase III) BIOSTAT (observational) ΣΥΜΜΕΤΟΧΗ ΣΕ REGISTRIES Πανελλήνιο πρωτόκολλο καταγραφής περιστατικών μυοκαρδίτιδας Πανελλήνιο πρωτόκολλο καταγραφής τραύματος (Ελληνική Εταιρία Τραύματος) ΕΘΕΛΟΝΤΙΚΗ ΕΡΓΑΣΙΑ Ιούλιος 2015: Εξέταση ασθενών και δημιουργία ιατρικού φακέλου για τους τροφίμους του γηροκομείου ‘’Παναγία η ελεούσα’’, Νέα Ιωνία Μάιος – Ιούνιος 2010: Συμμετοχή στην ανθρωπιστική αποστολή της ΜΚΟ ΚΕΔΑΣ στην Bucoba – Tanzania (ιατρικό προσωπικό) ΕΚΠΑΙΔΕΥΤΙΚΑ ΣΕΜΙΝΑΡΙΑ Ιούνιος 2019: Good Clinical Practice (GCP) Refresher, National Institute for Health and Research (Ηνωμένο Βασίλειο) Ιανουάριος 2019: VIRTUAL CRT HOSPITAL, MEDTRONIC – Tolochenaz, Ελβετία Ιούνιος 2018: IBHRE Exam Prep Course – Abbott, Λονδίνο Ιούλιος 2018: CRHF University course, module 2, Virtual patient management, Medtronic - Μάντσεστερ Μάιος 2018: CRHF University course, module 1, Optimizing management of complex device patient, Medtronic - Λονδίνο Νοέμβριος 2017: UK His pacing summit, Royal College of Physicians - Medtronic Ιανουάριος 2015: ALS, advanced life support, Ελληνική Καρδιολογική Εταιρία, European Resuscitation Council Νοέμβριος 2013: Teaching Course on Echocardiography, Ελληνική Καρδιολογική Εταιρία, European Association of Cardiovascular Imaging Σεπτέμβριος 2013: Υπερηχοκαρδιογραφία στην καθημερινή κλινική πράξη, Ομάδα εργασίας υπερήχων, Ελληνική Καρδιολογική Απρίλιος 2013: Good clinical Practice for Investigators, Hellenic Association of Pharmaceutical Companies Nοέμβριος 2012: Παρουσίαση περιστατικών και λήψη αποφάσεων, Ομάδες εργασίας Ελληνικής Καρδιολογικής Εταιρίας – ιατρική σχολή Ιωαννίνων Απρίλιος 2011: eA.C.L.S. (Advanced Cardiac Life Support / Hellenic Society of Cardiopumonary Resuscitation, ACEP) Φεβρουάριος 2011: Καρδιοαναπνευστική δοκιμασία κόπωσης και αποκατάσταση, Ελληνική Εταιρία Εργοσπιρομετρίας, Άσκησης και Αποκατάστασης Νοέμβριος 2010: Καρδιοαναπνευστική δοκιμασία κόπωσης και αποκατάσταση, Ελληνική Εταιρία Εργοσπιρομετρίας, Άσκησης και Αποκατάστασης Σεπτέμβριος 2007 & Φεβρουάριος 2012: B.L.S. /A.E.D. (Basic Life Support / Automated External Defibrilation European Resuscitation Council) Μάιος 2007: A.T.L.S. (Advanced Trauma Life Support / American College of Surgeons – Hellenic Chapter) ΞΕΝΕΣ ΓΛΩΣΣΕΣ ΑΓΓΛΙΚΗ ΙΤΑΛΙΚΗ ΡΟΥΜΑΝΙΚΗ ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Ηλεκτροκαρδιογράφημα Εμφυτεύσιμο Holter Υπερηχογράφημα καρδιάς Holter πιέσεως Εμφύτευση απινιδωτή Holter ρυθμού Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com window.RS_MODULES = window.RS_MODULES || {}; window.RS_MODULES.modules = window.RS_MODULES.modules || {}; window.RS_MODULES.waiting = window.RS_MODULES.waiting || []; window.RS_MODULES.defered = true; window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {}; window.RS_MODULES.type = 'compiled'; #rs-demo-id {}",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/karanikas-cardiology.gr-home-91afb629/about-kardiologos-87db507e.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/karanikas-cardiology.gr-home-91afb629/about-kardiologos-87db507e.txt",
+      "imageReferences": [
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/11/photo-bio-eswteriki.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+          "pageType": "about",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://karanikas-cardiology.gr/kardiologos",
+              "retrievedAt": "2026-03-31T13:09:05.825Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/pin-top.svg",
+          "alt": "Location",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/kardiologos",
+              "retrievedAt": "2026-03-31T13:09:05.825Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/phone-top.svg",
+          "alt": "Phone",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/kardiologos",
+              "retrievedAt": "2026-03-31T13:09:05.825Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/email-top.svg",
+          "alt": "Email",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/kardiologos",
+              "retrievedAt": "2026-03-31T13:09:05.825Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/fb-top.svg",
+          "alt": "Facebook",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/kardiologos",
+              "retrievedAt": "2026-03-31T13:09:05.825Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/insta-top.svg",
+          "alt": "Instagram",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/kardiologos",
+              "retrievedAt": "2026-03-31T13:09:05.825Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/logo-top.png",
+          "alt": "Σταύρος Καρανίκας Ειδικός Καρδιολόγος -Αρρυθμιολόγος",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/kardiologos",
+              "retrievedAt": "2026-03-31T13:09:05.825Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2026/02/%CF%86%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%B1-2.png",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/kardiologos",
+              "retrievedAt": "2026-03-31T13:09:05.825Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/logo-footer.png",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/kardiologos",
+              "retrievedAt": "2026-03-31T13:09:05.825Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/fb-footer.svg",
+          "alt": "Facebook",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/kardiologos",
+              "retrievedAt": "2026-03-31T13:09:05.825Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/insta-footer.svg",
+          "alt": "Instagram",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/kardiologos",
+              "retrievedAt": "2026-03-31T13:09:05.825Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/pin-footer.svg",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/kardiologos",
+              "retrievedAt": "2026-03-31T13:09:05.825Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.55,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page fetch",
+          "uri": "https://karanikas-cardiology.gr/kardiologos",
+          "retrievedAt": "2026-03-31T13:09:05.827Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "https://karanikas-cardiology.gr/holter-rithmou",
+      "finalUrl": "https://karanikas-cardiology.gr/holter-rithmou",
+      "fetchedAt": "2026-03-31T13:09:08.980Z",
+      "metadata": {
+        "title": "HOLTER ρυθμού | Τι είναι και γιατί είναι χρήσιμο;",
+        "metaDescription": "HOLTER ΡΥΘΜΟΥ | Πώς γίνεται; Πότε ενδείκνυται; Μάθετε όλες τις πληροφορίες | Δρ. Καρανίκας Σταύρος Καρδιολόγος - Αρρυθμιολόγος",
+        "canonicalUrl": "https://karanikas-cardiology.gr/holter-rithmou/",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "HOLTER ρυθμού | Τι είναι και γιατί είναι χρήσιμο;",
+        "openGraphDescription": "HOLTER ΡΥΘΜΟΥ | Πώς γίνεται; Πότε ενδείκνυται; Μάθετε όλες τις πληροφορίες | Δρ. Καρανίκας Σταύρος Καρδιολόγος - Αρρυθμιολόγος",
+        "openGraphImage": "https://karanikas-cardiology.gr/wp-content/uploads/2022/12/HOLTER-%CE%A1%CE%A5%CE%98%CE%9C%CE%9F%CE%A5-min.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "HOLTER ΡΥΘΜΟΥ"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://karanikas-cardiology.gr/contact",
+          "label": "ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kardiologos/",
+          "label": "ΚΑΡΔΙΟΛΟΓΟΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/hlektrokardiografima/",
+          "label": "ΗΛΕΚΤΡΟΚΑΡΔΙΟΓΡΑΦΗΜΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/holter-rithmou/",
+          "label": "HOLTER ΡΥΘΜΟΥ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/holter-pieseos/",
+          "label": "HOLTER ΠΙΕΣΕΩΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusimo-holter/",
+          "label": "ΕΜΦΥΤΕΥΣΙΜΟ HOLTER"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/elegxos-vimatodoti-apinidoti/",
+          "label": "ΕΛΕΓΧΟΣ ΒΗΜΑΤΟΔΟΤΗ – ΑΠΙΝΙΔΩΤΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/triplex-kardias/",
+          "label": "ΥΠΕΡΗΧΟΓΡΑΦΙΑ (TRIPLEX) ΚΑΡΔΙΑΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/vimatodotis-2/",
+          "label": "ΕΜΦΥΤΕΥΣΗ ΒΗΜΑΤΟΔΟΤΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusi-apinidoti/",
+          "label": "ΕΜΦΥΤΕΥΣΗ ΑΠΙΝΙΔΩΤΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusi-amfikoiliakou-vimatodoti/",
+          "label": "ΕΜΦΥΤΕΥΣΗ ΑΜΦΙΚΟΙΛΙΑΚΟΥ ΒΗΜΑΤΟΔΟΤΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/tilt-test/",
+          "label": "TILT TEST"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/episkepsi-katoikon/",
+          "label": "ΕΠΙΣΚΕΨΗ ΚΑΤ’ΟΙΚΟΝ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kardiaki-aneparkeia/",
+          "label": "ΚΑΡΔΙΑΚΗ ΑΝΕΠΑΡΚΕΙΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/diatrofikes-sumboules-pathiseis-kardias/",
+          "label": "ΔΙΑΤΡΟΦΙΚΕΣ ΣΥΜΒΟΥΛΕΣ ΓΙΑ ΤΗΝ ΠΡΟΛΗΨΗ ΚΑΙ ΤΗΝ ΑΝΤΙΜΕΤΩΠΙΣΗ ΤΩΝ ΚΑΡΔΙΑΓΓΕΙΑΚΩΝ ΠΑΘΗΣΕΩΝ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/artiriaki-ipertasi/",
+          "label": "ΑΡΤΗΡΙΑΚΗ ΥΠΕΡΤΑΣΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/artiriaki-ipertasi-kai-kuhsh/",
+          "label": "ΑΡΤΗΡΙΑΚΗ ΥΠΕΡΤΑΣΗ ΚΑΙ ΚΥΗΣΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/sigkopi-kai-lipothimia-ti-einai-pote-na-anusixiso/",
+          "label": "ΣΥΓΚΟΠΗ ΚΑΙ ΛΙΠΟΘΥΜΙΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kolpikos-pterugismos/",
+          "label": "ΚΟΛΠΙΚΟΣ ΠΤΕΡΥΓΙΣΜΟΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kolpiki-marmarigi/",
+          "label": "ΚΟΛΠΙΚΗ ΜΑΡΜΑΡΥΓΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kolpiki-taxykardia/",
+          "label": "ΚΟΛΠΙΚΗ ΤΑΧΥΚΑΡΔΙΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/sindromo-vradikardias-tachikardias/",
+          "label": "ΣΥΝΔΡΟΜΟ ΒΡΑΔΥΚΑΡΔΙΑΣ – ΤΑΧΥΚΑΡΔΙΑΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfragma-tou-myokardiou/",
+          "label": "ΕΜΦΡΑΓΜΑ ΤΟΥ ΜΥΟΚΑΡΔΙΟΥ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/blog/",
+          "label": "ΝΕΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/contact/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/hlektrokardiografima",
+          "label": "Ηλεκτροκαρδιογράφημα"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusimo-holter",
+          "label": "Εμφυτεύσιμο Holter"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/triplex-kardias",
+          "label": "Υπερηχογράφημα καρδιάς"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/holter-pieseos",
+          "label": "Holter πιέσεως"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusi-vimatodoti-apinidoti",
+          "label": "Εμφύτευση απινιδωτή"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/holter-rithmou",
+          "label": "Holter ρυθμού"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "6978131340 6979970498",
+          "+306978131340",
+          "+306979970498",
+          "6978131340",
+          "6979970498"
+        ],
+        "emails": [
+          "karanikasstavros@gmail.com"
+        ],
+        "addresses": [
+          "ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Ηλεκτροκαρδιογράφημα Εμφυτεύσιμο Holter Υπερηχογράφημα καρδιάς Holter πιέσεως Εμφύτευση απινιδωτή Holter ρυθμού Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/drkaranikas"
+          },
+          {
+            "href": "https://www.instagram.com/drkaranikas/?igshid=YmMyMTA2M2Y%3D&fbclid=IwAR089Bm9cMOUZoL9AggBAAMp-CJ61CqiU2ky2qyByXRb8Znn0oGiZhMJg9c"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Ηλεκτροκαρδιογράφημα Εμφυτεύσιμο Holter Υπερηχογράφημα καρδιάς Holter πιέσεως Εμφύτευση απινιδωτή Holter ρυθμού Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com",
+      "textContent": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KM8VS9Q\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ ΑΡΧΙΚΗ ΚΑΡΔΙΟΛΟΓΟΣ ΥΠΗΡΕΣΙΕΣ ΗΛΕΚΤΡΟΚΑΡΔΙΟΓΡΑΦΗΜΑ HOLTER ΡΥΘΜΟΥ HOLTER ΡΥΘΜΟΥ 7 ΗΜΕΡΩΝ HOLTER ΠΙΕΣΕΩΣ ΕΜΦΥΤΕΥΣΙΜΟ HOLTER ΕΛΕΓΧΟΣ ΒΗΜΑΤΟΔΟΤΗ – ΑΠΙΝΙΔΩΤΗ ΥΠΕΡΗΧΟΓΡΑΦΙΑ (TRIPLEX) ΚΑΡΔΙΑΣ ΕΜΦΥΤΕΥΣΗ ΒΗΜΑΤΟΔΟΤΗ ΕΜΦΥΤΕΥΣΗ ΑΠΙΝΙΔΩΤΗ ΕΜΦΥΤΕΥΣΗ ΑΜΦΙΚΟΙΛΙΑΚΟΥ ΒΗΜΑΤΟΔΟΤΗ TILT TEST ΕΠΙΣΚΕΨΗ ΚΑΤ’ΟΙΚΟΝ ΚΑΡΔΙΑ ΚΑΙ ΠΑΘΗΣΕΙΣ ΚΑΡΔΙΑΚΗ ΑΝΕΠΑΡΚΕΙΑ ΔΙΑΤΡΟΦΙΚΕΣ ΣΥΜΒΟΥΛΕΣ ΓΙΑ ΤΗΝ ΠΡΟΛΗΨΗ ΚΑΙ ΤΗΝ ΑΝΤΙΜΕΤΩΠΙΣΗ ΤΩΝ ΚΑΡΔΙΑΓΓΕΙΑΚΩΝ ΠΑΘΗΣΕΩΝ ΑΡΤΗΡΙΑΚΗ ΥΠΕΡΤΑΣΗ ΑΡΤΗΡΙΑΚΗ ΥΠΕΡΤΑΣΗ ΚΑΙ ΚΥΗΣΗ ΣΥΓΚΟΠΗ ΚΑΙ ΛΙΠΟΘΥΜΙΑ ΚΟΛΠΙΚΟΣ ΠΤΕΡΥΓΙΣΜΟΣ ΚΟΛΠΙΚΗ ΜΑΡΜΑΡΥΓΗ ΚΟΛΠΙΚΗ ΤΑΧΥΚΑΡΔΙΑ ΣΥΝΔΡΟΜΟ ΒΡΑΔΥΚΑΡΔΙΑΣ – ΤΑΧΥΚΑΡΔΙΑΣ ΕΜΦΡΑΓΜΑ ΤΟΥ ΜΥΟΚΑΡΔΙΟΥ ΝΕΑ ΕΠΙΚΟΙΝΩΝΙΑ HOLTER ΡΥΘΜΟΥ Τι είναι το Holter ρυθμού; Το Holter ρυθμού(ή αλλιώς η εικοσιτετράωρη περιπατητική ηλεκτροκαρδιογραφία) αποτελεί τη ναυαρχίδα της παρακολούθησης του καρδιακού ρυθμού. Αποτελείται από μια μικρή συσκευή και ηλεκτρόδια, τα οποία με τη βοήθεια ειδικών αυτοκόλλητων εφαρμόζονται στο δέρμα του στήθους και της κοιλιάς. Το Ηolter ρυθμού μπορεί να ανιχνεύσει και να καταγράψει στη μνήμη του την ηλεκτρική δραστηριότητα της καρδιάς του ασθενούς για μια παρατεταμένη περίοδο, συνήθως μιας ή δύο ημερών. Το Holter ρυθμού είναι μια συσκευή που επινοήθηκε το 1949 από τον Norman J.Holter και σήμερα είναι ο καλύτερος σύμμαχος των καρδιολόγων. Γιατί είναι χρήσιμο το Holter ρυθμού; Η χρησιμότητα του Holter έγκειται στην καταγραφή του ηλεκτροκαρδιογραφήματος γιασαφώς περισσότερο χρόνο από ότι το απλό ηλεκτροκαρδιογράφημα που διαρκεί μόνο λίγα δευτερόλεπτα. Έτσι, αυξάνεται σημαντικά η πιθανότητα καταγραφής μιας διαταραχής του ρυθμού, όταν ο καρδιογράφος δεν είναι διαθέσιμος. Για παράδειγμα μπορεί ο ασθενής να παρουσιάσει μια διαταραχή στο σπίτι ή στο δρόμο. Με το Holter ρυθμού η παρακολούθηση μπορεί να είναι 24ωρη ή 48ωρη. Η εξέταση είναι εντελώς ανώδυνη και ο ασθενής μπορεί να συνεχίσει τις καθημερινές του δραστηριότητες. Πώς χρησιμοποιείται το Holter ρυθμού; O ιατρός εφαρμόζει στο στήθος του ασθενούς τα ειδικά αυτοκόλλητα (patches). Στη συνέχεια, συνδέει τη μικρή συσκευή, με τη βοήθεια ειδικών ηλεκτροδίων, με τα αυτοκόλλητα και την ενεργοποιεί. Αφού ολοκληρωθεί η εξέταση, ο καρδιολόγος χρησιμοποιώντας ειδικό λογισμικό είναι σε θέση να αναλύσει τον καρδιακό ρυθμό, να διαγνώσει μια αρρυθμία που ενδεχομένως έχει εντοπιστεί. Τέλος, ένας έμπειρος καρδιολόγος εξετάζοντας τα δεδομένα μπορεί να προχωρήσει στη διαφορική διάγνωση μιας αθώας αρρυθμίας από μια πιο σύνθετη και επικίνδυνη. Πότε ενδείκνυται το Holter; Το Holter ρυθμού χρειάζεται όταν το απλό καρδιογράφημα αποτύχει να βοηθήσει στη διάγνωση, ενώ ο κλινικός ιατρός εξακολουθεί να υποψιάζεται μια αρρυθμία. Η παθολογική ηλεκτρική δραστηριότητα της καρδιάς μπορεί να αποτελεί την γενεσιουργό αιτία πλήθους προβλημάτων που χρήζουν διερεύνησης και θέτουν την υποψία αρρυθμίας. Μερικές από τις πιθανές εκφάνσεις των αρρυθμιών μπορεί να είναι: ανεξήγητη ζάλη δύσπνοια εύκολη κόπωση λιποθυμικά ή συγκοπτικά επεισόδια ισχαιμικά αγγειακά εγκεφαλικά συμβάντα καρδιακή ανεπάρκεια αίσθημα παλμού (φτερούγισμα στο στήθος) Η χρήση του Holter ρυθμού είναι η πλέον επιβεβλημένη για την παρακολούθηση ασθενών με διαγνωσμένη κολπική μαρμαρυγή ή άλλες κακοήθεις αρρυθμίες ενώ μπορεί να φανεί ιδιαίτερα χρήσιμη κατά την παρακολούθηση ασθενών μετά από έμφραγμα του μυοκαρδίου, αντικατάσταση βαλβίδων ή άλλες καρδιοχειρουργικές επεμβάσεις. Τέλος η εξέταση με Holter ρυθμού θα πρέπει να γίνεται σε κάθε ασθενή με αγγειακό εγκεφαλικό επεισόδιο. Συμβουλές για πριν και μετά την τοποθέτηση του Holter ρυθμού Φορέστε άνετα ρούχα. Αφαιρέστε κοσμήματα και μεταλλικά αντικείμενα από πάνω σας, διότι μπορεί να προκληθούν παράσιτα. Δεν μπορείτε να κάνετε μπάνιο για όσο φοράτε τη συσκευή, καθώς οι περισσότερες συσκευές δεν είναι αδιάβροχες. Αποφύγετε δραστηριότητες, όπως π.χ. έντονη γυμναστική, που μπορεί να ενισχύσουν την εφίδρωση και να ξεκολλήσουν τα ειδικά αυτοκόλλητα (patches). Συμπερασματικά: Στόχος της διερεύνησης του ασθενούς με Holter ρυθμού είναι η αποκάλυψη και η καταγραφή μιας αρρυθμίας. Τα δεδομένα που συλλέγονται από τη συσκευή μελετώνται από τον θεράποντα καρδιολόγο που έπειτα προχωρά στη διάγνωση του προβλήματος. Η διάγνωση και ταξινόμηση της βαρύτητας της νόσου θα καθορίσει τα επόμενα διαγνωστικά ή θεραπευτικά βήματα, εάν είναι απαραίτητα. Αν έχετε συνεχόμενες αρρυθμίες, καλό είναι να απευθυνθείτε άμεσα σε κάποιον έμπειρο καρδιολόγο. Ο ειδικός Καρδιολόγος – Αρρυθμιολόγος Σταύρος Καρανίκας είναι μέλος της Ελληνικής Καρδιολογικής Εταιρίας και της Ευρωπαϊκής Αρρυθμιολογικής Εταιρίας. Ο ιατρός κατέχει μεγάλη εμπειρία και συνεχώς επιμορφώνεται πάνω σε ζητήματα καρδιολογίας. Αν έχετε αρρυθμίες, επικοινωνήστε με τον καρδιολόγο Σταύρο Καρανίκα, καθώς η εξειδίκευσή του στην αρρυθμιολογία τον καθιστά τον πλέον κατάλληλο για τη διάγνωση του προβλήματός σας. ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Ηλεκτροκαρδιογράφημα Εμφυτεύσιμο Holter Υπερηχογράφημα καρδιάς Holter πιέσεως Εμφύτευση απινιδωτή Holter ρυθμού Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com window.RS_MODULES = window.RS_MODULES || {}; window.RS_MODULES.modules = window.RS_MODULES.modules || {}; window.RS_MODULES.waiting = window.RS_MODULES.waiting || []; window.RS_MODULES.defered = true; window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {}; window.RS_MODULES.type = 'compiled'; #rs-demo-id {}",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/karanikas-cardiology.gr-home-91afb629/services-holter-rithmou-6e457642.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/karanikas-cardiology.gr-home-91afb629/services-holter-rithmou-6e457642.txt",
+      "imageReferences": [
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/12/HOLTER-%CE%A1%CE%A5%CE%98%CE%9C%CE%9F%CE%A5-min.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/holter-rithmou",
+          "pageType": "services",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://karanikas-cardiology.gr/holter-rithmou",
+              "retrievedAt": "2026-03-31T13:09:08.979Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/pin-top.svg",
+          "alt": "Location",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/holter-rithmou",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/holter-rithmou",
+              "retrievedAt": "2026-03-31T13:09:08.979Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/phone-top.svg",
+          "alt": "Phone",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/holter-rithmou",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/holter-rithmou",
+              "retrievedAt": "2026-03-31T13:09:08.979Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/email-top.svg",
+          "alt": "Email",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/holter-rithmou",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/holter-rithmou",
+              "retrievedAt": "2026-03-31T13:09:08.979Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/fb-top.svg",
+          "alt": "Facebook",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/holter-rithmou",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/holter-rithmou",
+              "retrievedAt": "2026-03-31T13:09:08.979Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/insta-top.svg",
+          "alt": "Instagram",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/holter-rithmou",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/holter-rithmou",
+              "retrievedAt": "2026-03-31T13:09:08.979Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/logo-top.png",
+          "alt": "Σταύρος Καρανίκας Ειδικός Καρδιολόγος -Αρρυθμιολόγος",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/holter-rithmou",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/holter-rithmou",
+              "retrievedAt": "2026-03-31T13:09:08.979Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/12/HOLTER-%CE%A1%CE%A5%CE%98%CE%9C%CE%9F%CE%A5-2.jpg",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/holter-rithmou",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/holter-rithmou",
+              "retrievedAt": "2026-03-31T13:09:08.979Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/cta-desk.png",
+          "alt": "Εικοινωνία",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/holter-rithmou",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/holter-rithmou",
+              "retrievedAt": "2026-03-31T13:09:08.979Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/cta-mob.png",
+          "alt": "Εικοινωνία",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/holter-rithmou",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/holter-rithmou",
+              "retrievedAt": "2026-03-31T13:09:08.979Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/logo-footer.png",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/holter-rithmou",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/holter-rithmou",
+              "retrievedAt": "2026-03-31T13:09:08.979Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/fb-footer.svg",
+          "alt": "Facebook",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/holter-rithmou",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/holter-rithmou",
+              "retrievedAt": "2026-03-31T13:09:08.979Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.55,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://karanikas-cardiology.gr/holter-rithmou",
+          "retrievedAt": "2026-03-31T13:09:08.980Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://karanikas-cardiology.gr/contact",
+      "finalUrl": "https://karanikas-cardiology.gr/contact",
+      "fetchedAt": "2026-03-31T13:09:04.523Z",
+      "metadata": {
+        "title": "Επικοινωνία |",
+        "metaDescription": "Επικοινωνία | Δρ. Καρανίκας Σταύρος Καρδιολόγος - Αρρυθμιολόγος",
+        "canonicalUrl": "https://karanikas-cardiology.gr/contact/",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Επικοινωνία |",
+        "openGraphDescription": "Επικοινωνία | Δρ. Καρανίκας Σταύρος Καρδιολόγος - Αρρυθμιολόγος",
+        "openGraphImage": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/phonr-footer.svg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Επικοινωνία"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://karanikas-cardiology.gr/contact",
+          "label": "ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kardiologos/",
+          "label": "ΚΑΡΔΙΟΛΟΓΟΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/hlektrokardiografima/",
+          "label": "ΗΛΕΚΤΡΟΚΑΡΔΙΟΓΡΑΦΗΜΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/holter-rithmou/",
+          "label": "HOLTER ΡΥΘΜΟΥ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/holter-pieseos/",
+          "label": "HOLTER ΠΙΕΣΕΩΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusimo-holter/",
+          "label": "ΕΜΦΥΤΕΥΣΙΜΟ HOLTER"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/elegxos-vimatodoti-apinidoti/",
+          "label": "ΕΛΕΓΧΟΣ ΒΗΜΑΤΟΔΟΤΗ – ΑΠΙΝΙΔΩΤΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/triplex-kardias/",
+          "label": "ΥΠΕΡΗΧΟΓΡΑΦΙΑ (TRIPLEX) ΚΑΡΔΙΑΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/vimatodotis-2/",
+          "label": "ΕΜΦΥΤΕΥΣΗ ΒΗΜΑΤΟΔΟΤΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusi-apinidoti/",
+          "label": "ΕΜΦΥΤΕΥΣΗ ΑΠΙΝΙΔΩΤΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusi-amfikoiliakou-vimatodoti/",
+          "label": "ΕΜΦΥΤΕΥΣΗ ΑΜΦΙΚΟΙΛΙΑΚΟΥ ΒΗΜΑΤΟΔΟΤΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/tilt-test/",
+          "label": "TILT TEST"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/episkepsi-katoikon/",
+          "label": "ΕΠΙΣΚΕΨΗ ΚΑΤ’ΟΙΚΟΝ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kardiaki-aneparkeia/",
+          "label": "ΚΑΡΔΙΑΚΗ ΑΝΕΠΑΡΚΕΙΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/diatrofikes-sumboules-pathiseis-kardias/",
+          "label": "ΔΙΑΤΡΟΦΙΚΕΣ ΣΥΜΒΟΥΛΕΣ ΓΙΑ ΤΗΝ ΠΡΟΛΗΨΗ ΚΑΙ ΤΗΝ ΑΝΤΙΜΕΤΩΠΙΣΗ ΤΩΝ ΚΑΡΔΙΑΓΓΕΙΑΚΩΝ ΠΑΘΗΣΕΩΝ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/artiriaki-ipertasi/",
+          "label": "ΑΡΤΗΡΙΑΚΗ ΥΠΕΡΤΑΣΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/artiriaki-ipertasi-kai-kuhsh/",
+          "label": "ΑΡΤΗΡΙΑΚΗ ΥΠΕΡΤΑΣΗ ΚΑΙ ΚΥΗΣΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/sigkopi-kai-lipothimia-ti-einai-pote-na-anusixiso/",
+          "label": "ΣΥΓΚΟΠΗ ΚΑΙ ΛΙΠΟΘΥΜΙΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kolpikos-pterugismos/",
+          "label": "ΚΟΛΠΙΚΟΣ ΠΤΕΡΥΓΙΣΜΟΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kolpiki-marmarigi/",
+          "label": "ΚΟΛΠΙΚΗ ΜΑΡΜΑΡΥΓΗ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/kolpiki-taxykardia/",
+          "label": "ΚΟΛΠΙΚΗ ΤΑΧΥΚΑΡΔΙΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/sindromo-vradikardias-tachikardias/",
+          "label": "ΣΥΝΔΡΟΜΟ ΒΡΑΔΥΚΑΡΔΙΑΣ – ΤΑΧΥΚΑΡΔΙΑΣ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfragma-tou-myokardiou/",
+          "label": "ΕΜΦΡΑΓΜΑ ΤΟΥ ΜΥΟΚΑΡΔΙΟΥ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/blog/",
+          "label": "ΝΕΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/contact/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/hlektrokardiografima",
+          "label": "Ηλεκτροκαρδιογράφημα"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusimo-holter",
+          "label": "Εμφυτεύσιμο Holter"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/triplex-kardias",
+          "label": "Υπερηχογράφημα καρδιάς"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/holter-pieseos",
+          "label": "Holter πιέσεως"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/emfiteusi-vimatodoti-apinidoti",
+          "label": "Εμφύτευση απινιδωτή"
+        },
+        {
+          "href": "https://karanikas-cardiology.gr/holter-rithmou",
+          "label": "Holter ρυθμού"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://karanikas-cardiology.gr/contact/",
+          "method": "post",
+          "purposeHint": "contact",
+          "fieldNames": [
+            "wpforms[fields][3]",
+            "wpforms[fields][4]",
+            "wpforms[fields][1]",
+            "wpforms[fields][2]",
+            "wpforms[id]",
+            "wpforms[author]",
+            "wpforms[post_id]"
+          ],
+          "submitLabels": [
+            "Αποστολή"
+          ],
+          "fields": [
+            {
+              "name": "wpforms[fields][3]",
+              "type": "text",
+              "label": "Ονοματεπώνυμο",
+              "required": false
+            },
+            {
+              "name": "wpforms[fields][4]",
+              "type": "text",
+              "label": "Τηλέφωνο",
+              "required": false
+            },
+            {
+              "name": "wpforms[fields][1]",
+              "type": "email",
+              "label": "Email",
+              "required": true
+            },
+            {
+              "name": "wpforms[fields][2]",
+              "type": "textarea",
+              "label": "Μήνυμα",
+              "required": true
+            },
+            {
+              "name": "wpforms[id]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "wpforms[author]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "wpforms[post_id]",
+              "type": "hidden",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "6978131340 6979970498",
+          "+306978131340",
+          "+306979970498",
+          "6978131340",
+          "6979970498"
+        ],
+        "emails": [
+          "karanikasstavros@gmail.com"
+        ],
+        "addresses": [
+          "ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Ηλεκτροκαρδιογράφημα Εμφυτεύσιμο Holter Υπερηχογράφημα καρδιάς Holter πιέσεως Εμφύτευση απινιδωτή Holter ρυθμού Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/drkaranikas"
+          },
+          {
+            "href": "https://www.instagram.com/drkaranikas/?igshid=YmMyMTA2M2Y%3D&fbclid=IwAR089Bm9cMOUZoL9AggBAAMp-CJ61CqiU2ky2qyByXRb8Znn0oGiZhMJg9c"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://karanikas-cardiology.gr/contact/",
+            "method": "post",
+            "purposeHint": "contact",
+            "fieldNames": [
+              "wpforms[fields][3]",
+              "wpforms[fields][4]",
+              "wpforms[fields][1]",
+              "wpforms[fields][2]",
+              "wpforms[id]",
+              "wpforms[author]",
+              "wpforms[post_id]"
+            ],
+            "submitLabels": [
+              "Αποστολή"
+            ],
+            "fields": [
+              {
+                "name": "wpforms[fields][3]",
+                "type": "text",
+                "label": "Ονοματεπώνυμο",
+                "required": false
+              },
+              {
+                "name": "wpforms[fields][4]",
+                "type": "text",
+                "label": "Τηλέφωνο",
+                "required": false
+              },
+              {
+                "name": "wpforms[fields][1]",
+                "type": "email",
+                "label": "Email",
+                "required": true
+              },
+              {
+                "name": "wpforms[fields][2]",
+                "type": "textarea",
+                "label": "Μήνυμα",
+                "required": true
+              },
+              {
+                "name": "wpforms[id]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "wpforms[author]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "wpforms[post_id]",
+                "type": "hidden",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Ηλεκτροκαρδιογράφημα Εμφυτεύσιμο Holter Υπερηχογράφημα καρδιάς Holter πιέσεως Εμφύτευση απινιδωτή Holter ρυθμού Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com",
+      "textContent": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KM8VS9Q\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ ΑΡΧΙΚΗ ΚΑΡΔΙΟΛΟΓΟΣ ΥΠΗΡΕΣΙΕΣ ΗΛΕΚΤΡΟΚΑΡΔΙΟΓΡΑΦΗΜΑ HOLTER ΡΥΘΜΟΥ HOLTER ΡΥΘΜΟΥ 7 ΗΜΕΡΩΝ HOLTER ΠΙΕΣΕΩΣ ΕΜΦΥΤΕΥΣΙΜΟ HOLTER ΕΛΕΓΧΟΣ ΒΗΜΑΤΟΔΟΤΗ – ΑΠΙΝΙΔΩΤΗ ΥΠΕΡΗΧΟΓΡΑΦΙΑ (TRIPLEX) ΚΑΡΔΙΑΣ ΕΜΦΥΤΕΥΣΗ ΒΗΜΑΤΟΔΟΤΗ ΕΜΦΥΤΕΥΣΗ ΑΠΙΝΙΔΩΤΗ ΕΜΦΥΤΕΥΣΗ ΑΜΦΙΚΟΙΛΙΑΚΟΥ ΒΗΜΑΤΟΔΟΤΗ TILT TEST ΕΠΙΣΚΕΨΗ ΚΑΤ’ΟΙΚΟΝ ΚΑΡΔΙΑ ΚΑΙ ΠΑΘΗΣΕΙΣ ΚΑΡΔΙΑΚΗ ΑΝΕΠΑΡΚΕΙΑ ΔΙΑΤΡΟΦΙΚΕΣ ΣΥΜΒΟΥΛΕΣ ΓΙΑ ΤΗΝ ΠΡΟΛΗΨΗ ΚΑΙ ΤΗΝ ΑΝΤΙΜΕΤΩΠΙΣΗ ΤΩΝ ΚΑΡΔΙΑΓΓΕΙΑΚΩΝ ΠΑΘΗΣΕΩΝ ΑΡΤΗΡΙΑΚΗ ΥΠΕΡΤΑΣΗ ΑΡΤΗΡΙΑΚΗ ΥΠΕΡΤΑΣΗ ΚΑΙ ΚΥΗΣΗ ΣΥΓΚΟΠΗ ΚΑΙ ΛΙΠΟΘΥΜΙΑ ΚΟΛΠΙΚΟΣ ΠΤΕΡΥΓΙΣΜΟΣ ΚΟΛΠΙΚΗ ΜΑΡΜΑΡΥΓΗ ΚΟΛΠΙΚΗ ΤΑΧΥΚΑΡΔΙΑ ΣΥΝΔΡΟΜΟ ΒΡΑΔΥΚΑΡΔΙΑΣ – ΤΑΧΥΚΑΡΔΙΑΣ ΕΜΦΡΑΓΜΑ ΤΟΥ ΜΥΟΚΑΡΔΙΟΥ ΝΕΑ ΕΠΙΚΟΙΝΩΝΙΑ Επικοινωνία Στοιχεία Επικοινωνίας 6978131340 6979970498 karanikasstavros@gmail.com Βασ. Σοφίας 92, Αθήνα Επικοινωνήστε μαζί μας Please enable JavaScript in your browser to complete this form.ΟνοματεπώνυμοΤηλέφωνοEmail *Μήνυμα *Αποστολή ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Ηλεκτροκαρδιογράφημα Εμφυτεύσιμο Holter Υπερηχογράφημα καρδιάς Holter πιέσεως Εμφύτευση απινιδωτή Holter ρυθμού Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com window.RS_MODULES = window.RS_MODULES || {}; window.RS_MODULES.modules = window.RS_MODULES.modules || {}; window.RS_MODULES.waiting = window.RS_MODULES.waiting || []; window.RS_MODULES.defered = true; window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {}; window.RS_MODULES.type = 'compiled'; #rs-demo-id {} /* <![CDATA[ */ var wpforms_settings = {\"val_required\":\"This field is required.\",\"val_email\":\"Please enter a valid email address.\",\"val_email_suggestion\":\"Did you mean {suggestion}?\",\"val_email_suggestion_title\":\"Click to accept this suggestion.\",\"val_email_restricted\":\"This email address is not allowed.\",\"val_number\":\"Please enter a valid number.\",\"val_number_positive\":\"Please enter a valid positive number.\",\"val_confirm\":\"Field values do not match.\",\"val_checklimit\":\"You have exceeded the number of allowed selections: {#}.\",\"val_limit_characters\":\"{count} of {limit} max characters.\",\"val_limit_words\":\"{count} of {limit} max words.\",\"val_recaptcha_fail_msg\":\"Google reCAPTCHA verification failed, please try again later.\",\"val_turnstile_fail_msg\":\"Cloudflare Turnstile verification failed, please try again later.\",\"val_inputmask_incomplete\":\"Please fill out the field in required format.\",\"uuid_cookie\":\"\",\"locale\":\"en\",\"wpforms_plugin_url\":\"https:\\/\\/karanikas-cardiology.gr\\/wp-content\\/plugins\\/wpforms-lite\\/\",\"gdpr\":\"\",\"ajaxurl\":\"https:\\/\\/karanikas-cardiology.gr\\/wp-admin\\/admin-ajax.php\",\"mailcheck_enabled\":\"1\",\"mailcheck_domains\":[],\"mailcheck_toplevel_domains\":[\"dev\"],\"is_ssl\":\"1\",\"page_title\":\"\\u0395\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03af\\u03b1\",\"page_id\":\"52\",\"currency_code\":\"USD\",\"currency_thousands\":\",\",\"currency_decimals\":\"2\",\"currency_decimal\":\".\",\"currency_symbol\":\"$\",\"currency_symbol_pos\":\"left\"} /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/karanikas-cardiology.gr-home-91afb629/contact-contact-cb929ca6.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/karanikas-cardiology.gr-home-91afb629/contact-contact-cb929ca6.txt",
+      "imageReferences": [
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/phonr-footer.svg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://karanikas-cardiology.gr/contact",
+              "retrievedAt": "2026-03-31T13:09:04.521Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/pin-top.svg",
+          "alt": "Location",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/contact",
+              "retrievedAt": "2026-03-31T13:09:04.521Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/phone-top.svg",
+          "alt": "Phone",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/contact",
+              "retrievedAt": "2026-03-31T13:09:04.521Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/email-top.svg",
+          "alt": "Email",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/contact",
+              "retrievedAt": "2026-03-31T13:09:04.521Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/fb-top.svg",
+          "alt": "Facebook",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/contact",
+              "retrievedAt": "2026-03-31T13:09:04.521Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/insta-top.svg",
+          "alt": "Instagram",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/contact",
+              "retrievedAt": "2026-03-31T13:09:04.521Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/logo-top.png",
+          "alt": "Σταύρος Καρανίκας Ειδικός Καρδιολόγος -Αρρυθμιολόγος",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/contact",
+              "retrievedAt": "2026-03-31T13:09:04.521Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/email-footer.svg",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/contact",
+              "retrievedAt": "2026-03-31T13:09:04.521Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/pin-footer.svg",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/contact",
+              "retrievedAt": "2026-03-31T13:09:04.521Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/fbxartis.svg",
+          "alt": "Facebook",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/contact",
+              "retrievedAt": "2026-03-31T13:09:04.521Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/insta-xartis.svg",
+          "alt": "Instagram",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/contact",
+              "retrievedAt": "2026-03-31T13:09:04.521Z"
+            }
+          ]
+        },
+        {
+          "url": "https://karanikas-cardiology.gr/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg",
+          "alt": "Loading",
+          "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://karanikas-cardiology.gr/contact",
+              "retrievedAt": "2026-03-31T13:09:04.521Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://karanikas-cardiology.gr/contact",
+          "retrievedAt": "2026-03-31T13:09:04.523Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/karanikas-cardiology.gr-home-91afb629/contact-contact-cb929ca6.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "6978131340 6979970498",
+      "+306978131340",
+      "+306979970498",
+      "6978131340",
+      "6979970498",
+      "10.3109/09537104.2015.1125874",
+      "2014.08.056",
+      "0735-1097(14)60011-5",
+      "113.001118",
+      "2013.05.021"
+    ],
+    "emails": [
+      "karanikasstavros@gmail.com"
+    ],
+    "addresses": [
+      "ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Ηλεκτροκαρδιογράφημα Εμφυτεύσιμο Holter Υπερηχογράφημα καρδιάς Holter πιέσεως Εμφύτευση απινιδωτή Holter ρυθμού Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/drkaranikas"
+      },
+      {
+        "href": "https://www.instagram.com/drkaranikas/?igshid=YmMyMTA2M2Y%3D&fbclid=IwAR089Bm9cMOUZoL9AggBAAMp-CJ61CqiU2ky2qyByXRb8Znn0oGiZhMJg9c"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://karanikas-cardiology.gr/",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "wpforms[fields][3]",
+          "wpforms[fields][4]",
+          "wpforms[fields][1]",
+          "wpforms[fields][2]",
+          "wpforms[id]",
+          "wpforms[author]",
+          "wpforms[post_id]"
+        ],
+        "submitLabels": [
+          "Αποστολή"
+        ],
+        "fields": [
+          {
+            "name": "wpforms[fields][3]",
+            "type": "text",
+            "label": "Ονοματεπώνυμο",
+            "required": false
+          },
+          {
+            "name": "wpforms[fields][4]",
+            "type": "text",
+            "label": "Τηλέφωνο",
+            "required": false
+          },
+          {
+            "name": "wpforms[fields][1]",
+            "type": "email",
+            "label": "Email",
+            "required": true
+          },
+          {
+            "name": "wpforms[fields][2]",
+            "type": "textarea",
+            "label": "Μήνυμα",
+            "required": true
+          },
+          {
+            "name": "wpforms[id]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[author]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[post_id]",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://karanikas-cardiology.gr/contact/",
+        "method": "post",
+        "purposeHint": "contact",
+        "fieldNames": [
+          "wpforms[fields][3]",
+          "wpforms[fields][4]",
+          "wpforms[fields][1]",
+          "wpforms[fields][2]",
+          "wpforms[id]",
+          "wpforms[author]",
+          "wpforms[post_id]"
+        ],
+        "submitLabels": [
+          "Αποστολή"
+        ],
+        "fields": [
+          {
+            "name": "wpforms[fields][3]",
+            "type": "text",
+            "label": "Ονοματεπώνυμο",
+            "required": false
+          },
+          {
+            "name": "wpforms[fields][4]",
+            "type": "text",
+            "label": "Τηλέφωνο",
+            "required": false
+          },
+          {
+            "name": "wpforms[fields][1]",
+            "type": "email",
+            "label": "Email",
+            "required": true
+          },
+          {
+            "name": "wpforms[fields][2]",
+            "type": "textarea",
+            "label": "Μήνυμα",
+            "required": true
+          },
+          {
+            "name": "wpforms[id]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[author]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[post_id]",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Καρδιολόγος | Δρ. Σταύρος Καρανίκας",
+    "metaDescription": "Καρδιολόγος Δρ. Καρανίκας Σταύρος Βρείτε πληροφορίες και τρόπους επικοινωνίας με τον ειδικό καρδιολόγος - αρρυθμιολόγος",
+    "canonicalUrl": "https://karanikas-cardiology.gr/",
+    "language": "en-US",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "openGraphTitle": "Καρδιολόγος | Δρ. Σταύρος Καρανίκας",
+    "openGraphDescription": "Καρδιολόγος Δρ. Καρανίκας Σταύρος Βρείτε πληροφορίες και τρόπους επικοινωνίας με τον ειδικό καρδιολόγος - αρρυθμιολόγος",
+    "openGraphImage": "https://karanikas-cardiology.gr/wp-content/uploads/2026/02/%CF%86%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%B1-1.png"
+  },
+  "imageReferences": [
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2026/02/%CF%86%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%B1-1.png",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/pin-top.svg",
+      "alt": "Location",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/phone-top.svg",
+      "alt": "Phone",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/email-top.svg",
+      "alt": "Email",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/fb-top.svg",
+      "alt": "Facebook",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/insta-top.svg",
+      "alt": "Instagram",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/logo-top.png",
+      "alt": "Σταύρος Καρανίκας Ειδικός Καρδιολόγος -Αρρυθμιολόγος",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/plugins/revslider/public/assets/assets/dummy.png",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2026/02/%CF%86%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%B1-2.png",
+      "alt": "Σταύρος Καρανίκας - Ειδικός Καρδιολόγος Αρρυθμιολόγος",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/aruthmies_.jpg",
+      "alt": "Αρρυθμίες",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/vimatodoths_.jpg",
+      "alt": "Αρρυθμίες",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/isxaimia_.jpg",
+      "alt": "Ισχαιμία Μυοκαρδίου - Καρδιακή Υπέρταση",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/phonr-footer.svg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://karanikas-cardiology.gr/contact",
+          "retrievedAt": "2026-03-31T13:09:04.521Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/email-footer.svg",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/contact",
+          "retrievedAt": "2026-03-31T13:09:04.521Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/pin-footer.svg",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/contact",
+          "retrievedAt": "2026-03-31T13:09:04.521Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/fbxartis.svg",
+      "alt": "Facebook",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/contact",
+          "retrievedAt": "2026-03-31T13:09:04.521Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/insta-xartis.svg",
+      "alt": "Instagram",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/contact",
+          "retrievedAt": "2026-03-31T13:09:04.521Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg",
+      "alt": "Loading",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/contact",
+          "retrievedAt": "2026-03-31T13:09:04.521Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/11/photo-bio-eswteriki.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+      "pageType": "about",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://karanikas-cardiology.gr/kardiologos",
+          "retrievedAt": "2026-03-31T13:09:05.825Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/logo-footer.png",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/kardiologos",
+          "retrievedAt": "2026-03-31T13:09:05.825Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/fb-footer.svg",
+      "alt": "Facebook",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/kardiologos",
+          "retrievedAt": "2026-03-31T13:09:05.825Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/insta-footer.svg",
+      "alt": "Instagram",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/kardiologos",
+          "retrievedAt": "2026-03-31T13:09:05.825Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/12/%CE%B7%CE%BB%CE%B5%CE%BA%CF%84%CF%81%CE%BF%CE%BA%CE%B1%CF%81%CE%B4%CE%B9%CE%BF%CE%B3%CF%81%CE%AC%CF%86%CE%B7%CE%BC%CE%B1.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/hlektrokardiografima",
+      "pageType": "about",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://karanikas-cardiology.gr/hlektrokardiografima",
+          "retrievedAt": "2026-03-31T13:09:07.352Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/cta-desk.png",
+      "alt": "Εικοινωνία",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/hlektrokardiografima",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/hlektrokardiografima",
+          "retrievedAt": "2026-03-31T13:09:07.352Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/10/cta-mob.png",
+      "alt": "Εικοινωνία",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/hlektrokardiografima",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/hlektrokardiografima",
+          "retrievedAt": "2026-03-31T13:09:07.352Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/12/HOLTER-%CE%A1%CE%A5%CE%98%CE%9C%CE%9F%CE%A5-min.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/holter-rithmou",
+      "pageType": "services",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://karanikas-cardiology.gr/holter-rithmou",
+          "retrievedAt": "2026-03-31T13:09:08.979Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2022/12/HOLTER-%CE%A1%CE%A5%CE%98%CE%9C%CE%9F%CE%A5-2.jpg",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/holter-rithmou",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://karanikas-cardiology.gr/holter-rithmou",
+          "retrievedAt": "2026-03-31T13:09:08.979Z"
+        }
+      ]
+    },
+    {
+      "url": "https://karanikas-cardiology.gr/wp-content/uploads/2023/02/shutterstock_1504576034.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/holter-pieseos",
+      "pageType": "services",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://karanikas-cardiology.gr/holter-pieseos",
+          "retrievedAt": "2026-03-31T13:09:10.343Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "6978131340 6979970498",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+306978131340",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+306979970498",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "6978131340",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "6979970498",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "karanikasstavros@gmail.com",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Ηλεκτροκαρδιογράφημα Εμφυτεύσιμο Holter Υπερηχογράφημα καρδιάς Holter πιέσεως Εμφύτευση απινιδωτή Holter ρυθμού Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://karanikas-cardiology.gr/",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://karanikas-cardiology.gr/",
+          "retrievedAt": "2026-03-31T13:09:03.694Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://karanikas-cardiology.gr/contact",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://karanikas-cardiology.gr/contact",
+          "retrievedAt": "2026-03-31T13:09:04.521Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://karanikas-cardiology.gr/contact",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://karanikas-cardiology.gr/contact",
+          "retrievedAt": "2026-03-31T13:09:04.521Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "10.3109/09537104.2015.1125874",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://karanikas-cardiology.gr/kardiologos",
+          "retrievedAt": "2026-03-31T13:09:05.825Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2014.08.056",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://karanikas-cardiology.gr/kardiologos",
+          "retrievedAt": "2026-03-31T13:09:05.825Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "0735-1097(14)60011-5",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://karanikas-cardiology.gr/kardiologos",
+          "retrievedAt": "2026-03-31T13:09:05.825Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "113.001118",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://karanikas-cardiology.gr/kardiologos",
+          "retrievedAt": "2026-03-31T13:09:05.825Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2013.05.021",
+      "sourcePageUrl": "https://karanikas-cardiology.gr/kardiologos",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://karanikas-cardiology.gr/kardiologos",
+          "retrievedAt": "2026-03-31T13:09:05.825Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://karanikas-cardiology.gr/",
+    "finalOrigin": "https://karanikas-cardiology.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://karanikas-cardiology.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:09:02.146Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [],
+      "disallowRules": [],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://karanikas-cardiology.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:08:59.759Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://karanikas-cardiology.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/kardiologos",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/hlektrokardiografima",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/holter-rithmou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/holter-pieseos",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/emfiteusimo-holter",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/elegxos-vimatodoti-apinidoti",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/triplex-kardias",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/vimatodotis-2",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/emfiteusi-apinidoti",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/emfiteusi-amfikoiliakou-vimatodoti",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/tilt-test",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/episkepsi-katoikon",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/kardiaki-aneparkeia",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/diatrofikes-sumboules-pathiseis-kardias",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/artiriaki-ipertasi",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/artiriaki-ipertasi-kai-kuhsh",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/sigkopi-kai-lipothimia-ti-einai-pote-na-anusixiso",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:03.702Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/contact",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:04.523Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/kolpikos-pterugismos",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/contact",
+        "timestamp": "2026-03-31T13:09:04.523Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/kardiologos",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:05.827Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/kolpiki-marmarigi",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/kardiologos",
+        "timestamp": "2026-03-31T13:09:05.828Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/hlektrokardiografima",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:07.353Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/kolpiki-taxykardia",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/hlektrokardiografima",
+        "timestamp": "2026-03-31T13:09:07.354Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/holter-rithmou",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:08.980Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/sindromo-vradikardias-tachikardias",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/holter-rithmou",
+        "timestamp": "2026-03-31T13:09:08.980Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/holter-pieseos",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://karanikas-cardiology.gr/",
+        "timestamp": "2026-03-31T13:09:10.344Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/emfragma-tou-myokardiou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://karanikas-cardiology.gr/holter-pieseos",
+        "timestamp": "2026-03-31T13:09:10.345Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:09:12.828Z"
+      },
+      {
+        "url": "https://karanikas-cardiology.gr/contact",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:09:15.169Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "attorney",
+    "url": "https://attorney.virtualpros.com/"
+  },
+  {
+    "slug": "cardealership",
+    "url": "https://cardealership.virtualpros.com/"
+  },
+  {
+    "slug": "carpetcleaning",
+    "url": "https://carpetcleaning.virtualpros.com/"
+  },
+  {
+    "slug": "chiropracter",
+    "url": "https://chiropracter.virtualpros.com/"
+  },
+  {
+    "slug": "dental",
+    "url": "https://dental.virtualpros.com/"
+  },
+  {
+    "slug": "electrician",
+    "url": "https://electrician.virtualpros.com/"
+  },
+  {
+    "slug": "hvac",
+    "url": "https://hvac.virtualpros.com/"
+  },
+  {
+    "slug": "medspa",
+    "url": "https://medspa.virtualpros.com/"
+  },
+  {
+    "slug": "plumber",
+    "url": "https://plumber.virtualpros.com/"
+  },
+  {
+    "slug": "restaurant",
+    "url": "https://restaurant.virtualpros.com/"
+  },
+  {
+    "slug": "roofing",
+    "url": "https://roofing.virtualpros.com/"
+  }
+]

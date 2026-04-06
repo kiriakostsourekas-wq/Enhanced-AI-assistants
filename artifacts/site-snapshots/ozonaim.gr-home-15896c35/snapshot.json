@@ -1,0 +1,2187 @@
+{
+  "domain": "ozonaim.gr",
+  "collectedAt": "2026-03-31T13:08:41.345Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ozonaim.gr-home-15896c35",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://www.ozonaim.gr/",
+      "finalUrl": "https://www.ozonaim.gr/",
+      "fetchedAt": "2026-03-31T13:08:24.974Z",
+      "metadata": {
+        "title": "Ορθοπεδικός Χειρούργος - Δρ. Ηλιάκης Εμμανουήλ | ozonaim.gr",
+        "metaDescription": "Ozonaim - Ορθοπεδικός Χειρούργος Δρ. Ηλιάκης Εμμανουήλ. Για αυτούς που ΔΕΝ ΘΕΛΟΥΝ ή ΔΕΝ ΜΠΟΡΟΥΝ να χειρουργηθούν.",
+        "canonicalUrl": "https://www.ozonaim.gr/",
+        "language": "el",
+        "robots": "max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+        "openGraphTitle": "Ορθοπεδικός Χειρούργος - Δρ. Ηλιάκης Εμμανουήλ | ozonaim.gr",
+        "openGraphDescription": "Ozonaim - Ορθοπεδικός Χειρούργος Δρ. Ηλιάκης Εμμανουήλ. Για αυτούς που ΔΕΝ ΘΕΛΟΥΝ ή ΔΕΝ ΜΠΟΡΟΥΝ να χειρουργηθούν."
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Παθήσεις"
+        },
+        {
+          "level": "h2",
+          "text": "Θεραπευτική"
+        },
+        {
+          "level": "h2",
+          "text": "Περιστατικά"
+        },
+        {
+          "level": "h2",
+          "text": "τελευταια νεα"
+        },
+        {
+          "level": "h2",
+          "text": "ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΜΑΖΙ ΜΑΣ ΚΑΙ ΚΛΕΙΣΤΕ ΤΟ ΡΑΝΤΕΒΟΥ ΣΑΣ"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.ozonaim.gr/",
+          "label": "<img width=\"145\" height=\"73\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png\" class=\"header_logo header-logo\" alt=\"Ozonaim\"/><img width=\"145\" height=\"73\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png\" class=\"header-logo-dark\" alt=\"Ozonaim\"/>"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/",
+          "label": "ΠΑΘΗΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%ce%b3%ce%ba%cf%85%ce%bb%cf%89%cf%84%ce%b9%ce%ba%ce%b7-%cf%83%cf%80%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1/",
+          "label": "Αγκυλωτική Σπονδυλαρθρίτιδα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%cf%85%cf%87%ce%b5%ce%bd%ce%b1%ce%bb%ce%b3%ce%b9%ce%b1/",
+          "label": "Αυχεναλγία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b3%ce%bf%ce%bd%ce%b1%cf%84%ce%bf/",
+          "label": "Γόνατο"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b9%cf%84%ce%b9%ce%b4%ce%b1/",
+          "label": "Επικονδυλίτιτδα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b9%ce%bb%ce%b9%ce%b3%ce%b3%ce%bf%cf%82/",
+          "label": "Ίλιγγος"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b9%ce%bd%ce%bf%ce%bc%cf%85%ce%b1%ce%bb%ce%b3%ce%b9%ce%b1/",
+          "label": "Ινομυαλγία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b9%cf%83%cf%87%cf%85%ce%bf/",
+          "label": "Ισχύο"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%ba%ce%b5%cf%86%ce%b1%ce%bb%ce%b1%ce%bb%ce%b3%ce%b9%ce%b1/",
+          "label": "Κεφαλαλγία – Αυχεναλγία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%84%ce%b5%ce%bf%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1/",
+          "label": "Οστεοαρθρίτιδα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%84%ce%b5%ce%bf%cf%80%ce%bf%cf%81%cf%89%cf%83%ce%b7/",
+          "label": "Οστεοπόρωση"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%86%cf%85%ce%b1%ce%bb%ce%b3%ce%af%ce%b1/",
+          "label": "Οσφυαλγία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%cf%83%ce%ba%ce%bf%ce%bb%ce%af%cf%89%cf%83%ce%b7/",
+          "label": "Σκολίωση"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%cf%83%cf%85%ce%bc%cf%86%ce%b7%cf%83%ce%b5%ce%b9%cf%82-%ce%bc%ce%b5%cf%84%ce%b1-%cf%84%ce%bf-%cf%87%ce%b5%ce%b9%cf%81%ce%bf%cf%85%cf%81%ce%b3%ce%b5%ce%b9%ce%bf/",
+          "label": "Συμφήσεις μετά το χειρουργείο"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%cf%8e%ce%bc%ce%bf%cf%82/",
+          "label": "Ώμος"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/barre-lieou-syndrome/",
+          "label": "BARRE-LIEOU SYNDROME"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%84%ce%b5%ce%bf%ce%bd%ce%ad%ce%ba%cf%81%cf%89%cf%83%ce%b7-%cf%84%ce%b7%cf%82-%ce%bc%ce%b7%cf%81%ce%b9%ce%b1%ce%af%ce%b1%cf%82-%ce%ba%ce%b5%cf%86%ce%b1%ce%bb%ce%ae%cf%82/",
+          "label": "Οστεονέκρωση της μηριαίας κεφαλής"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bd%ce%b5%cf%85%cf%81%ce%bf%cf%80%ce%b1%ce%b8%ce%b7%cf%84%ce%b9%ce%ba%cf%8c%cf%82-%cf%80%cf%8c%ce%bd%ce%bf%cf%82/",
+          "label": "Νευροπαθητικός πόνος"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/",
+          "label": "ΘΕΡΑΠΕΥΤΙΚΗ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%bc%ce%b5%cf%83%ce%bf%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%b9%ce%b1/",
+          "label": "Μεσοθεραπεία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%cf%81%ce%bf%ce%bb%ce%bf%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%af%ce%b1/",
+          "label": "Προλοθεραπεία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%cf%80%ce%bb%ce%ac%cf%83%ce%bc%ce%b1-%cf%80%ce%bb%ce%bf%cf%8d%cf%83%ce%b9%ce%bf-%cf%83%ce%b5-%ce%b1%ce%b9%ce%bc%ce%bf%cf%80%ce%b5%cf%84%ce%ac%ce%bb%ce%b9%ce%b1/",
+          "label": "Πλάσμα Πλούσιο σε Αιμοπετάλια"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%bf%ce%b6%ce%bf%ce%bd%ce%bf%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%b9%ce%b1/",
+          "label": "Οζονοθεραπεία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/ozonaim/",
+          "label": "OZONAIM"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%bd%ce%b5%cf%85%cf%81%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%ba%ce%b1-%ce%b1%ce%bd%cf%84%ce%b1%ce%bd%ce%b1%ce%ba%ce%bb%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%b1/",
+          "label": "Νευρολογικά Αντανακλαστικά"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%b1%cf%83%ce%ba%ce%ae%cf%83%ce%b5%ce%b9%cf%82/",
+          "label": "Ασκήσεις"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%b4%ce%b9%ce%b1%ce%b9%cf%84%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%bf/",
+          "label": "Διατροφή"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%b7-%ce%b4%ce%b9%ce%ba%ce%ae-%ce%bc%ce%b1%cf%82-%ce%b1%ce%bd%cf%84%ce%b9%cf%86%ce%bb%ce%b5%ce%b3%ce%bc%ce%bf%ce%bd%cf%8e%ce%b4%ce%b7%cf%82-%ce%b4%ce%af%ce%b1%ce%b9%cf%84%ce%b1/",
+          "label": "Η δική μας αντιφλεγμονώδης δίαιτα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%cf%88%ce%b7%cf%86%ce%b9%ce%b1%ce%ba%ce%bf%cf%82-%cf%80%ce%b5%ce%bb%ce%bc%ce%b1%cf%84%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%bf%cf%82/",
+          "label": "Ψηφιακός Πελματογράφος"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%cf%81%ce%b5%cf%86%ce%bb%ce%b5%ce%be%ce%bf%ce%bb%ce%bf%ce%b3%ce%af%ce%b1/",
+          "label": "Ρεφλεξολογία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/faq/",
+          "label": "ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b2%ce%b9%ce%b2%ce%bb%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%b1/",
+          "label": "ΒΙΒΛΙΟΓΡΑΦΙΑ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/blog/",
+          "label": "Τα νεα μας"
+        },
+        {
+          "href": "https://www.ozonaim.gr/contact-us",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/cv-driliakis/",
+          "label": "βιογραφικο"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CF%80%CE%B1%CE%B8%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CE%B1%CE%B3%CE%BA%CF%85%CE%BB%CF%89%CF%84%CE%B9%CE%BA%CE%B7-%CF%83%CF%80%CE%BF%CE%BD%CE%B4%CF%85%CE%BB%CE%B1%CF%81%CE%B8%CF%81%CE%B9%CF%84%CE%B9%CE%B4%CE%B1/",
+          "label": "Διαβάστε Περισσότερα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CF%80%CE%B1%CE%B8%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CE%B1%CF%85%CF%87%CE%B5%CE%BD%CE%B1%CE%BB%CE%B3%CE%B9%CE%B1/",
+          "label": "ΔΙΑΒΑΣΤΕ ΠΕΡΙΣΣΟΤΕΡΑ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CF%80%CE%B1%CE%B8%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CE%B3%CE%BF%CE%BD%CE%B1%CF%84%CE%BF/",
+          "label": "ΔΙΑΒΑΣΤΕ ΠΕΡΙΣΣΟΤΕΡΑ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CF%80%CE%B1%CE%B8%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%BD%CE%B4%CF%85%CE%BB%CE%B9%CF%84%CE%B9%CE%B4%CE%B1/",
+          "label": "Διαβάστε Περισσότερα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CF%80%CE%B1%CE%B8%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CE%B9%CE%BB%CE%B9%CE%B3%CE%B3%CE%BF%CF%82/",
+          "label": "Διαβάστε Περισσότερα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CF%80%CE%B1%CE%B8%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CE%B9%CE%BD%CE%BF%CE%BC%CF%85%CE%B1%CE%BB%CE%B3%CE%B9%CE%B1/",
+          "label": "Διαβάστε Περισσότερα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CF%80%CE%B1%CE%B8%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CE%B9%CF%83%CF%87%CF%85%CE%BF/",
+          "label": "Διαβάστε Περισσότερα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CF%80%CE%B1%CE%B8%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%B1%CE%BB%CE%B3%CE%B9%CE%B1/",
+          "label": "Διαβάστε Περισσότερα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CF%80%CE%B1%CE%B8%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CE%BF%CF%83%CF%84%CE%B5%CE%BF%CE%B1%CF%81%CE%B8%CF%81%CE%B9%CF%84%CE%B9%CE%B4%CE%B1/",
+          "label": "Διαβάστε Περισσότερα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CF%80%CE%B1%CE%B8%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CE%BF%CF%83%CF%84%CE%B5%CE%BF%CF%80%CE%BF%CF%81%CF%89%CF%83%CE%B7/",
+          "label": "Διαβάστε Περισσότερα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CF%80%CE%B1%CE%B8%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CE%BF%CF%83%CF%86%CF%85%CE%B1%CE%BB%CE%B3%CE%AF%CE%B1/",
+          "label": "Διαβάστε Περισσότερα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CF%80%CE%B1%CE%B8%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CF%83%CE%BA%CE%BF%CE%BB%CE%AF%CF%89%CF%83%CE%B7/",
+          "label": "Διαβάστε Περισσότερα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CF%80%CE%B1%CE%B8%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CF%83%CF%85%CE%BC%CF%86%CE%B7%CF%83%CE%B5%CE%B9%CF%82-%CE%BC%CE%B5%CF%84%CE%B1-%CF%84%CE%BF-%CF%87%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CE%B5%CE%B9%CE%BF/",
+          "label": "Διαβάστε Περισσότερα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CF%80%CE%B1%CE%B8%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CF%8E%CE%BC%CE%BF%CF%82/",
+          "label": "Διαβάστε Περισσότερα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%B7/%CE%BF%CE%B6%CE%BF%CE%BD%CE%BF%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B1/",
+          "label": "<img width=\"500\" height=\"277\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/ozonotherapeia-min.jpg\" class=\"attachment- size-\" alt=\"\" />"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%B7/%CE%BC%CE%B5%CF%83%CE%BF%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%B9%CE%B1/",
+          "label": "<img width=\"498\" height=\"280\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/mesotherapeia-min.jpg\" class=\"attachment- size-\" alt=\"\" />"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%B7/%CE%BD%CE%B5%CF%85%CF%81%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%B1-%CE%B1%CE%BD%CF%84%CE%B1%CE%BD%CE%B1%CE%BA%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%B1/",
+          "label": "<img width=\"495\" height=\"278\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/neurologika-antanaklastika-min.jpg\" class=\"attachment- size-\" alt=\"\" />"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%B7/%CF%88%CE%B7%CF%86%CE%B9%CE%B1%CE%BA%CE%BF%CF%82-%CF%80%CE%B5%CE%BB%CE%BC%CE%B1%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%BF%CF%82/",
+          "label": "<img width=\"501\" height=\"283\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/psifiakos-pelmatografos-min.jpg\" class=\"attachment- size-\" alt=\"\" />"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%B7/%CE%B5%CE%BD%CE%B5%CF%81%CE%B3%CE%B5%CE%B9%CE%B1%CE%BA%CE%BF%CF%82-%CE%B1%CE%BD%CE%B1%CE%BB%CF%85%CF%84%CE%B7%CF%82/"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%B7/%CF%83%CF%85%CE%BC%CE%B2%CE%BF%CF%85%CE%BB%CE%BF%CF%82-%CF%88%CF%85%CF%87%CE%BF%CE%BB%CE%BF%CE%B3%CE%BF%CF%82/",
+          "label": "<img width=\"502\" height=\"285\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/sumvoulos-psixologos-min.jpg\" class=\"attachment- size-\" alt=\"\" />"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%B7/%CE%B4%CE%B9%CE%B1%CE%B9%CF%84%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BF/",
+          "label": "<img width=\"1772\" height=\"2821\" src=\"https://www.ozonaim.gr/wp-content/uploads/2019/02/διαιτολόγιο-min.jpg\" class=\"attachment- size-\" alt=\"\" srcset=\"https://www.ozonaim.gr/wp-content/uploads/2019/02/διαιτολόγιο-min.jpg 1772w, https://www.ozonaim.gr/wp-content/uploads/2019/02/διαιτολόγιο-min-251x400.jpg 251w, https://www.ozonaim.gr/wp-content/uploads/2019/02/διαιτολόγιο-min-768x1223.jpg 768w, https://www.ozonaim.gr/wp-content/uploads/2019/02/διαιτολόγιο-min-503x800.jpg 503w\" sizes=\"(max-width: 1772px) 100vw, 1772px\" />"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%CE%B8%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%B7/%CE%B1%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82/",
+          "label": "<img width=\"1280\" height=\"720\" src=\"https://www.ozonaim.gr/wp-content/uploads/2019/02/georgina.jpg\" class=\"attachment- size-\" alt=\"\" srcset=\"https://www.ozonaim.gr/wp-content/uploads/2019/02/georgina.jpg 1280w, https://www.ozonaim.gr/wp-content/uploads/2019/02/georgina-711x400.jpg 711w, https://www.ozonaim.gr/wp-content/uploads/2019/02/georgina-768x432.jpg 768w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" />"
+        },
+        {
+          "href": "https://www.ozonaim.gr/2019/11/%ce%b7-%ce%b4%ce%b9%ce%b1%ce%b9%cf%84%ce%bf%ce%bb%cf%8c%ce%b3%ce%bf%cf%82-%ce%bc%ce%b1%cf%82-%cf%80%cf%81%ce%bf%cf%84%ce%b5%ce%af%ce%bd%ce%b5%ce%b9/",
+          "label": "Η διαιτολόγος μας προτείνει: 13 Νοεμβρίου, 2019 ΦΛΕΓΜΟΝΗ & ΥΓΕΙΑ Πώς συνδέεται η φλεγμονή με την υγεία; Σύγχρονη επιστημονική έρευνα έχει [...]"
+        },
+        {
+          "href": "https://www.ozonaim.gr/cv-driliakis",
+          "label": "ΒΙΟΓΡΑΦΙΚΟ"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "1084357492",
+          "1037483211",
+          "210 7228 340",
+          "372452761",
+          "1382009647",
+          "574704460",
+          "826691308",
+          "2035552084",
+          "202793206",
+          "1222683979"
+        ],
+        "emails": [
+          "driliakis@hotmail.com"
+        ],
+        "addresses": [],
+        "socialLinks": [],
+        "forms": []
+      },
+      "footerText": "ΑΡΧΙΚΗ ΠΑΘΗΣΕΙΣ ΘΕΡΑΠΕΥΤΙΚΗ Ρεφλεξολογία ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ ΒΙΒΛΙΟΓΡΑΦΙΑ Τα νεα μας Η δική μας αντιφλεγμονώδης δίαιτα Copyright 2026 © Ozonaim Developed by Codnext Software",
+      "textContent": "Skip to content <img width=\"145\" height=\"73\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png\" class=\"header_logo header-logo\" alt=\"Ozonaim\"/><img width=\"145\" height=\"73\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png\" class=\"header-logo-dark\" alt=\"Ozonaim\"/> ΑΡΧΙΚΗ ΠΑΘΗΣΕΙΣ Αγκυλωτική Σπονδυλαρθρίτιδα Αυχεναλγία Γόνατο Επικονδυλίτιτδα Ίλιγγος Ινομυαλγία Ισχύο Κεφαλαλγία – Αυχεναλγία Οστεοαρθρίτιδα Οστεοπόρωση Οσφυαλγία Σκολίωση Συμφήσεις μετά το χειρουργείο Ώμος BARRE-LIEOU SYNDROME Οστεονέκρωση της μηριαίας κεφαλής Νευροπαθητικός πόνος ΘΕΡΑΠΕΥΤΙΚΗ Μεσοθεραπεία Προλοθεραπεία Πλάσμα Πλούσιο σε Αιμοπετάλια Οζονοθεραπεία OZONAIM Νευρολογικά Αντανακλαστικά Ασκήσεις Διατροφή Η δική μας αντιφλεγμονώδης δίαιτα Ψηφιακός Πελματογράφος Ρεφλεξολογία ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ ΒΙΒΛΙΟΓΡΑΦΙΑ Τα νεα μας Η δική μας αντιφλεγμονώδης δίαιτα ΕΠΙΚΟΙΝΩΝΙΑ <img width=\"1020\" height=\"574\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/new-foto-iliakis.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/new-foto-iliakis.jpg 1280w, https://www.ozonaim.gr/wp-content/uploads/2018/12/new-foto-iliakis-711x400.jpg 711w, https://www.ozonaim.gr/wp-content/uploads/2018/12/new-foto-iliakis-768x432.jpg 768w\" sizes=\"(max-width: 1020px) 100vw, 1020px\" /> #banner-1084357492 .bg.bg-loaded { background-image: url(https://www.ozonaim.gr/wp-content/uploads/2018/12/new-foto-iliakis.jpg); } <img width=\"1020\" height=\"531\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png 1131w, https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo-768x400.png 768w\" sizes=\"(max-width: 1020px) 100vw, 1020px\" /> #image_1037483211 { width: 50%; } Για αυτούς που ΔΕΝ ΘΕΛΟΥΝ ή ΔΕΝ ΜΠΟΡΟΥΝ να χειρουργηθούν. Δρ. Ηλιάκης Εμμανουήλ – Ορθοπεδικός Χειρούργος βιογραφικο Διεύθυνση: Ευφρονίου 8, Αθήνα, 11634 Τηλ. – Fax: 210 7228 340 Email: driliakis@hotmail.com #section_372452761 { padding-top: 2px; padding-bottom: 2px; margin-bottom: 0px; background-color: rgb(240, 240, 240); } Παθήσεις <img width=\"1020\" height=\"477\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/man-photos-min-1400x655.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/man-photos-min-1400x655.jpg 1400w, https://www.ozonaim.gr/wp-content/uploads/2018/12/man-photos-min-800x374.jpg 800w, https://www.ozonaim.gr/wp-content/uploads/2018/12/man-photos-min-768x359.jpg 768w, https://www.ozonaim.gr/wp-content/uploads/2018/12/man-photos-min.jpg 1588w\" sizes=\"(max-width: 1020px) 100vw, 1020px\" /> #image_1382009647 { width: 100%; } Πατήστε στην πάθηση που σας ενδιαφέρει και δείτε περισσότερες πληροφορίες Αγκυλωτική Σπονδυλαρθρίτιδα Η αγκυλωτική σπονδυλαρθρίτιδα είναι χρόνια προοδευτική πάθηση των αρθρώσεων της σπ. στήλης, αφορά ασθενείς κάτω των 40 ετών, αρχίζει από τις ιερολαγώνιες και προχωρεί προς τα πάνω προκαλώντας οστεοποίηση των παρασπονδυλικών συνδέσμων για να καταλήξει τελικά σε αγκύλωση της σπ. στήλης. Διαβάστε Περισσότερα Αυχεναλγία Ο πόνος στον αυχένα μπορεί να προκληθεί από διάφορες αιτίες όπως οστεοαρθρίτιδα, κήλη δίσκου, λανθασμένη στάση του σώματος, κάκωση του αυχένα, κακοήθεια, φλεγμονή, μυϊκό σπασμό και άγχος. Συχνά επεκτείνεται εις την βάση της κεφαλής η τους ώμους. Ο γιατρός θα διαπιστώσει σπασμό εις τους μυς του αυχένα συχνά ασύμμετρα, περιορισμένη κίνηση του αυχένα σε κάποιες από τις κατευθύνσεις και θα προκαλέσει ενίσχυση του πόνου με την πίεση των αυχενικών σπονδύλων. Κάποιες φορές συνυπάρχουν ναυτία και ζάλη. Η θεραπεία περιλαμβάνει την αντιμετώπιση κάθε μιας από τις αιτίες που προκαλούν την πάθηση. Ιδιαίτερες περιπτώσεις Ασθενής ηλικίας 32 ετών πάσχει από αλμπινισμό. Προσήλθε στο ιατρείο μας αιτιούμενος αυχεναλγία, κεφαλαλγία (βρεγματική) και μπλοκ της γναθοκροταφικής άρθρωσης. Αντιμετωπίσθη με παρασπονδυλικές εγχύσεις 02/03 ΑΜΣΣ, εγχύσεις στην γναθοκροαφική και εις το κατάλληλο δερματικό αισθητικό νεύρο . Εκτός από την βελτίωση των Ορθοπεδικών του συμπτωμάτων παρατηρήθηκε μείωση των κινήσεων νυσταγμού των βλεφάρων και των βολβών (βίντεο 1 πριν και 2 μετά). Ασθενής ηλικίας 48 ετών με αυχεναλγία και μετωπιαία κεφαλαλγία ανέφερε αδυναμία επικέντρωσης σε αντικείμενα ιδίως κατά την νυκτερινή οδήγηση. Το αποτέλεσμα έδειξε ότι, μετά από δυο θεραπείες με παρασπονδυλικές και στα κατάλληλα δερματικά αισθητικά νεύρα εγχύσεων Ο2/Ο3 , εκτός της απαλλαγής από των ορθοπεδικών της συμπτωμάτων και διόρθωση των οφθαλμολογικών της. Παρόμοια θετικά αποτελέσματα ανεφέρθηκαν από άλλες τρείς ασθενείς οι οποίες αντιμετωπίσθηκαν με την ίδια μέθοδο και παράλληλα με τα Ορθοπεδικά τους συμπτώματα έκαναν και χρήση τεχνικών δακρύων. Βελτίωση της κλινικής εικόνας και εις τήν ξηροφθαλμία τους. ΔΙΑΒΑΣΤΕ ΠΕΡΙΣΣΟΤΕΡΑ Γόνατο ΠΟΝΟΣ ΣΤΟ ΓΟΝΑΤΟ & Ozonaim ΓΟΝΑΛΓΙΑ και ΑΡΘΡΟΣΚΟΠΙΣΗ Η καλύτερη θεραπεία είναι αυτή που θα βοηθήσει το σώμα να επισκευάσει την τραυματισμένη περιοχή. Θυμηθείτε ότι οι ιστοί στο σώμα μας επιτελούν καθορισμένες λειτουργίες και η αφαίρεση τους έχει σχεδόν πάντα συνέπειες. Οι μηνίσκοι, οι χιαστοί και οι χόνδροι είναι συνήθως οι στόχοι του αρθροσκόπου. Οι ιστοί αυτοί χρησιμεύουν για την τέλεια επαφή, την απορρόφηση των κραδασμών, την προστασία και την σταθερότητα της άρθρωσης και κατά συνέπεια με την αφαίρεση τους επιταχύνεται η διαδικασία εξέλιξης της Οστεοαρθρίτιδας. Μετά από αυτό εγχύσεις κορτικοστεροειδών, λήψη μη στεροειδών αντιφλεγμονωδών φαρμάκων, φυσικοθεραπείας καθίστανται αναγκαίες έως ότου ο ασθενής να οδηγηθεί εκ νέου στο χειρουργείο αυτή τη φορά για ολική αρθροπλαστική. ΔΙΑΒΑΣΤΕ ΠΕΡΙΣΣΟΤΕΡΑ Επικονδυλίτιτδα ΕΠΙΚΟΝΔΥΛΙΤΙΔΑ (tennis elbow) και Ozonaim Κλινική εικόνα: Σχεδόν το σύνολο των ασθενών με χρόνιο πόνο στον αγκώνα αναφέρει πόνο στην ακριβώς στην περιοχή του έξω επικόνδυλου (μπροστά και περιφερικά) κοντά στο σημείο της άρθρωσης που ενώνει την κεφαλή της κερκίδας με το βραχιόνιο και την ωλένη. Ο ιατρός που θα τον εξετάσει πιθανότατα θα του πει ότι συνυπάρχει κατά τις κινήσεις του αγκώνα και μια υπερβολική κίνηση – χαλάρωση της άρθρωσης αυτής. Αυτό σημαίνει ότι πιθανώς υπάρχει αλλοίωση-αδυναμία του δακτυλιοειδούς συνδέσμου της κερκίδας η οποία αναγκάζει τους μύες που ξεκινούν από εκεί κοντά να συσπώνται συνέχεια και να πονούν για να σταθεροποιήσουν αυτή την άρθρωση. Αυτό το σύνδρομο το οποίο βασικά αναφέρεται ως σύνδρομο του τενιστή (επικονδυλίτιδα) αντιμετωπίζεται από τον ορθοπεδικό αρχικά με παυσίπονα, φυσικοθεραπεία και αν αυτό δεν αποδώσει με εγχύσεις κορτικοστεροειδούς (κορτιζόνης), η οποία σχεδόν πάντα βοηθά στην υποχώρηση του πόνου για διάστημα διαφορετικό και μη προβλέψιμο. Η ερώτηση είναι γιατί συμβαίνει αυτό. Η κορτιζόνη είναι ένα από τα πιο ισχυρά αντιφλεγμονώδη, αλλά αναστέλλει και οποιαδήποτε διαδικασία φυσικής επιδιόρθωσης. Διαβάστε Περισσότερα Ίλιγγος Αναφέρεται σαν αίσθηση της στροφής του σώματος γύρω από αντικείμενα η αντίστροφα. Συχνά αυτή η απατηλή αίσθηση συνοδεύεται από ναυτία, εμετό και ταχυκαρδία. Μηχανισμοί που ελέγχουν την ισορροπία μπορούν να είναι: η παρεγκεφαλίδα, συγκεκριμένες βαθιές δομές του εγκεφάλου, η οπτική οδός, μυϊκές και αρθριτικές νευρικές απολήξεις, ο έσω ους (λαβύρινθος),το στομάχι, έντερο και τα αγγεία. Διαβάστε Περισσότερα Ινομυαλγία Η Ινομυαλγία η καλύτερα ινομυαλγικό σύνδρομο είναι μια πάθηση που συναντάται εις το 6% περίπου του γενικού πληθυσμού σύμφωνα με την βιλιογραφία. Επηρεάζει κυρίως τις γυναίκες ηλικίας μεταξύ 25-45 ετών και οι οποίες συνήθως έχουν ίδιον την ευαίσθητη και αγχώδη προσωπικότητα. Αποτελεί πάθηση του μυοσκελετικού συστήματος χαρακτηριζόμενη από χρόνιο εξωαρθρικό πόνο και από την παρουσία συγκεκριμένων επώδυνων σημείων (από 11-24) των tender points (εικόνα). Οι μύες που επηρεάζονται ευρίσκονται σε μια αυξημένη μυϊκή τάση και δημιουργούν πόνο, δυσκαμψία και κόπωση. Διαβάστε Περισσότερα Ισχίο ΙΣΧΙΟ & Ozonaim Η άρθρωση του ισχίου ενώνει τα κάτω άκρα με τη λεκάνη. Δυστυχώς για τους περισσότερους ανθρώπους τα δυο πόδια δεν είναι ακριβώς όμοια. Μπορεί να φαίνονται όμοια, αλλά από εμβιομηχανική άποψη δεν είναι ίδια. Το ένα κάτω άκρο μπορεί να περιστρέφεται περισσότερο μέσα είτε έξω, ή το ένα να είναι κοντύτερο από το άλλο. Το τελευταίο συμβαίνει συχνά εάν ένα άκρο έχει υποστεί κάταγμα κατά τη διάρκεια της παιδικής ηλικίας. Διαβάστε Περισσότερα Κεφαλαλγία – Αυχεναλγία Μπορεί να εμφανιστεί σαν κοινός πονοκέφαλος, σφίξιμο στο κεφάλι, αίσθηση βάρους, τάσεως , πίεσης, παλμού κ.λπ. Η έναρξη μπορεί να είναι σταδιακή η αιφνίδια η διάρκεια σύντομη η μεγάλη και να επηρεάζει τμήμα η ολόκληρο το κεφάλι. Ο πόνος μπορεί να συνδυαστεί με ερυθρότητα στο πρόσωπο, εμετό, ναυτία, ζάλη. Θεωρείται η ποιο συχνή νευρολογική πάθηση των βιομηχανικών χωρών. Διαβάστε Περισσότερα Οστεοαρθρίτιδα Οι δυο κύριες μορφές οστεοαρθρίτιδας είναι η εκφυλιστική αρθρίτιδα γνωστή και ως οστεοαρθρίτιδα και η φλεγμονώδης αρθρίτιδα με τυπική την ρευματοειδή αρθρίτιδα. Η Οστεοαρθρίτιδα είναι μια πάθηση τόσο διαδεδομένη ώστε να θεωρείται σαν μια λογική συνέπεια της γήρανσης. Είναι μια πάθηση χρόνια-εκφυλιστική εξελισσόμενη αθόρυβα με σταδιακή φθορά των αρθρικών επιφανειών χωρίς την σύγχρονη ικανότητα ανακατασκευής. Ταυτοχρόνως παρουσιάζεται και μείωση της κινητικότητας της άρθρωσης εξ αιτίας της δημιουργίας οστεοφύτων, πάχυνσης του αρθρικού θυλάκου και σπασμού των περιβαλλόντων μυών. Διαβάστε Περισσότερα Οστεοπόρωση Η οστεοπόρωση είναι πάθηση η οποία χαρακτηρίζεται από ελάττωση της οστικής μάζας δηλαδή απώλεια του οστίτη ιστού (πρωτεΐνες, μέταλλα κλπ). Αρχίζει από την ηλικία των τριάντα ετών. Αίτια που την επιταχύνουν είναι η κληρονομικούς, αλκοολισμός, κορτικοστεροειδή, πρώιμος κλιμακτήριος. Διαβάστε Περισσότερα Οσφυαλγία Η Ozonaim τεχνική μας μπορεί να αποτελέσει μια αξιόλογη πρόταση θεραπείας Η οσφυαλγία και η ισχιαλγία αποτελούν σύμπτωμα πολλών παθήσεων και όχι πάθηση. Οσφυαλγία σημαίνει πόνο στην μέση και ισχιαλγία πόνο στην διαδρομή του ισχιακού νεύρου. Ιδιαίτερες περιπτώσεις Ασθενής ηλικίας 68 ετών με σκλήρυνση κατά πλάκας . Παραπέμφθηκε στο ιατρείο μας για βαρειά σκολίωση, οσφυαλγία, υπαισθησία και αδυναμία από το δε κάτω άκρο. Από το ιστορικό πρόεκυψε και ακράτεια ούρων. Αντιμετωπίσθηκε με παρασπονδυλικές και στην μέση γραμμή εγχύσεις Ο2Ο3. Της συστήσαμε όπως συνήθως να μας τηλεφωνήσει την επόμενη μέρα για να μας γνωρίσει την πορεία της συμπτωματολογίας της. Ανεξαρτήτως των ορθοπεδικών της προβλημάτων ανέφερε ότι βελτιώθηκε και ο έλεγχος της ούρησης. Η μεθοδολογία αυτή επανελήφθη σε άλλες τρεις ασθενείς μας για συμπτωματολογία της ειδικότητας μας που είχαν αναφέρει στο ιστορικό τους και ακράτεια ούρων. Τα αποτελέσματα και στις τρεις περιπτώσεις ήταν βελτίωση του ελέγχου της ούρησης. Τα αποτελέσματα είναι πρώιμα (από μία εως τρείς επισκέψεις) και τα περιστατικά είναι λίγα αλλά ίσως να αποτελούν ένδειξη μιας πιθανής εν δυνάμει θεραπείας. Διαβάστε Περισσότερα Σκολίωση ΣΚΟΛΙΩΣΗ & Ozonaim Η Σκολίωση αποτελεί παραμόρφωση της σπ. στήλης (Σ.Σ.) με κύριο χαρακτηριστικό την πλάγια κλίση και στροφή της. Διακρίνεται σε δυο ομάδες την λειτουργική η δευτεροπαθή σκολίωση με καμπύλη προσωρινά διορθώσιμη και που εμφανίζεται συνήθως σε περιπτώσεις ανισοσκελίας, πόνου η κακής στάσεως του σώματος και οι οργανικές σκολιώσεις δύσκαμπτες που περιλαμβάνουν την ιδιοπαθή (80% των περιπτώσεων) την συγγενή, την παραλυτική και άλλες. Διαβάστε Περισσότερα Συμφήσεις μετά το χειρουργείο ΑΡΑΧΝΟΕΙΔΙΤΙΣ, ΜΕΤΕΓΧΕΙΡΙΤΙΚΕΣ ΣΥΜΦΥΣΕΙΣ H αραχνοειδίτιδα θεωρείται μια νευροπαθητική πάθηση προκαλούμενη από φλεγμονή στην αραχνοειδή μεμβράνη (η όποια καλύπτει και προστατεύει τα νευρά του κεντρικού νευρικού συστήματος συμπεριλαμβανομένου του εγκεφάλου και νωτιαίου μυελού). Η αραχνοειδής μεμβράνη φλεγμαίνει σαν απάντηση σε χημικά, αίμα, στεροειδή, μολύνσεις από μικρόβια και ιούς όταν τραυματίζεται η σπ. στήλη, όταν πιέζονται χρονίως τα νεύρα η σαν επιπλοκή χειρουργικής η άλλης επεμβατικής διαδικασίας (όπως η επισκληρίδιος αναισθησία) στην σπ. στήλη. Το αίμα το όποιο ξεφεύγει από τον τραυματισμό αυτό θεωρείται η αίτια του ερεθισμού του νευρικού συστήματος και το έναυσμα για την δημιουργία εκδορών και συμφύσεων οι οποίες μπορούν να προκαλέσουν συγκόλληση των νευρικών ιστών μεταξύ τους. Διαβάστε Περισσότερα Ώμος ΠΕΡΙΑΡΘΡΙΤΙΣ ΩΜΟΥ Με αυτό τον όρο παλιότερα εννοούσαν την φλεγμονή και τον πόνο γύρω από την άρθρωση του ώμου . Σήμερα κυρίως μετά την έλευση της μαγνητικής τομογραφίας είναι γνωστή ακριβώς η δομή η οποία έχει βλαφτεί και η οποία μπορεί να έχει υποστεί οξεία, χρόνια φλεγμονή έως την μερική η πλήρη ρήξη στοιχείων της άρθρωσης. Διαβάστε Περισσότερα #section_574704460 { padding-top: 0px; padding-bottom: 0px; } Θεραπευτική Οζονοθεραπεία <img width=\"500\" height=\"277\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/ozonotherapeia-min.jpg\" class=\"attachment- size-\" alt=\"\" /> Μεσοθεραπεία <img width=\"498\" height=\"280\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/mesotherapeia-min.jpg\" class=\"attachment- size-\" alt=\"\" /> Νευρολογικά Αν/στικά <img width=\"495\" height=\"278\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/neurologika-antanaklastika-min.jpg\" class=\"attachment- size-\" alt=\"\" /> Ψηφιακός Πελματογράφος <img width=\"501\" height=\"283\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/psifiakos-pelmatografos-min.jpg\" class=\"attachment- size-\" alt=\"\" /> Ενεργειακός Αναλυτής Σύμβουλος Ψυχολόγος <img width=\"502\" height=\"285\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/sumvoulos-psixologos-min.jpg\" class=\"attachment- size-\" alt=\"\" /> Ρεφλεξολογία <img width=\"259\" height=\"194\" src=\"https://www.ozonaim.gr/wp-content/uploads/2019/01/image-ρεφλεξολογια.jpg\" class=\"attachment- size-\" alt=\"\" /> Διαιτολόγιο <img width=\"1772\" height=\"2821\" src=\"https://www.ozonaim.gr/wp-content/uploads/2019/02/διαιτολόγιο-min.jpg\" class=\"attachment- size-\" alt=\"\" srcset=\"https://www.ozonaim.gr/wp-content/uploads/2019/02/διαιτολόγιο-min.jpg 1772w, https://www.ozonaim.gr/wp-content/uploads/2019/02/διαιτολόγιο-min-251x400.jpg 251w, https://www.ozonaim.gr/wp-content/uploads/2019/02/διαιτολόγιο-min-768x1223.jpg 768w, https://www.ozonaim.gr/wp-content/uploads/2019/02/διαιτολόγιο-min-503x800.jpg 503w\" sizes=\"(max-width: 1772px) 100vw, 1772px\" /> Ασκήσεις Αυχένα <img width=\"1280\" height=\"720\" src=\"https://www.ozonaim.gr/wp-content/uploads/2019/02/georgina.jpg\" class=\"attachment- size-\" alt=\"\" srcset=\"https://www.ozonaim.gr/wp-content/uploads/2019/02/georgina.jpg 1280w, https://www.ozonaim.gr/wp-content/uploads/2019/02/georgina-711x400.jpg 711w, https://www.ozonaim.gr/wp-content/uploads/2019/02/georgina-768x432.jpg 768w\" sizes=\"(max-width: 1280px) 100vw, 1280px\" /> #section_826691308 { padding-top: 30px; padding-bottom: 30px; background-color: rgb(255, 255, 255); } #section_2035552084 { padding-top: 30px; padding-bottom: 30px; background-color: rgb(255, 255, 255); } Περιστατικά <img width=\"800\" height=\"800\" src=\"https://www.ozonaim.gr/wp-content/uploads/2020/10/teliko-800x800.jpg\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://www.ozonaim.gr/wp-content/uploads/2020/10/teliko-800x800.jpg 800w, https://www.ozonaim.gr/wp-content/uploads/2020/10/teliko-400x400.jpg 400w, https://www.ozonaim.gr/wp-content/uploads/2020/10/teliko-280x280.jpg 280w, https://www.ozonaim.gr/wp-content/uploads/2020/10/teliko-768x768.jpg 768w, https://www.ozonaim.gr/wp-content/uploads/2020/10/teliko-1536x1536.jpg 1536w, https://www.ozonaim.gr/wp-content/uploads/2020/10/teliko-2048x2048.jpg 2048w\" sizes=\"(max-width: 800px) 100vw, 800px\" /> #image_202793206 { width: 100%; } #section_1222683979 { padding-top: 30px; padding-bottom: 30px; } τελευταια νεα Δείτε όλα τα νέα μας Blog Η διαιτολόγος μας προτείνει: 13 Νοεμβρίου, 2019 ΦΛΕΓΜΟΝΗ & ΥΓΕΙΑ Πώς συνδέεται η φλεγμονή με την υγεία; Σύγχρονη επιστημονική έρευνα έχει [...] #section_1030864379 { padding-top: 43px; padding-bottom: 43px; min-height: 276px; background-color: rgb(241, 241, 241); } ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΜΑΖΙ ΜΑΣ ΚΑΙ ΚΛΕΙΣΤΕ ΤΟ ΡΑΝΤΕΒΟΥ ΣΑΣ ΚΑΛΕΣΤΕ ΜΑΣ ΑΡΧΙΚΗ ΠΑΘΗΣΕΙΣ ΘΕΡΑΠΕΥΤΙΚΗ Ρεφλεξολογία ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ ΒΙΒΛΙΟΓΡΑΦΙΑ Τα νεα μας Η δική μας αντιφλεγμονώδης δίαιτα Copyright 2026 © Ozonaim Developed by Codnext Software ΑΡΧΙΚΗ ΠΑΘΗΣΕΙΣ Αγκυλωτική Σπονδυλαρθρίτιδα Αυχεναλγία Γόνατο Επικονδυλίτιτδα Ίλιγγος Ινομυαλγία Ισχύο Κεφαλαλγία – Αυχεναλγία Οστεοαρθρίτιδα Οστεοπόρωση Οσφυαλγία Σκολίωση Συμφήσεις μετά το χειρουργείο Ώμος BARRE-LIEOU SYNDROME Οστεονέκρωση της μηριαίας κεφαλής Νευροπαθητικός πόνος ΘΕΡΑΠΕΥΤΙΚΗ Μεσοθεραπεία Προλοθεραπεία Πλάσμα Πλούσιο σε Αιμοπετάλια Οζονοθεραπεία OZONAIM Νευρολογικά Αντανακλαστικά Ασκήσεις Διατροφή Η δική μας αντιφλεγμονώδης δίαιτα Ψηφιακός Πελματογράφος Ρεφλεξολογία ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ ΒΙΒΛΙΟΓΡΑΦΙΑ Τα νεα μας Η δική μας αντιφλεγμονώδης δίαιτα ΕΠΙΚΟΙΝΩΝΙΑ ΒΙΟΓΡΑΦΙΚΟ This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Cookie settingsACCEPTPrivacy & Cookies Policy Close Privacy Overview This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience. Necessary Always Enabled Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information. Non-necessary Non-necessary Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website. /* <![CDATA[ */ cli_cookiebar_settings='{\"animate_speed_hide\":\"500\",\"animate_speed_show\":\"500\",\"background\":\"#FFF\",\"border\":\"#b1a6a6c2\",\"border_on\":false,\"button_1_button_colour\":\"#000\",\"button_1_button_hover\":\"#000000\",\"button_1_link_colour\":\"#fff\",\"button_1_as_button\":true,\"button_1_new_win\":false,\"button_2_button_colour\":\"#333\",\"button_2_button_hover\":\"#292929\",\"button_2_link_colour\":\"#444\",\"button_2_as_button\":false,\"button_2_hidebar\":false,\"button_3_button_colour\":\"#000\",\"button_3_button_hover\":\"#000000\",\"button_3_link_colour\":\"#fff\",\"button_3_as_button\":true,\"button_3_new_win\":false,\"button_4_button_colour\":\"#000\",\"button_4_button_hover\":\"#000000\",\"button_4_link_colour\":\"#62a329\",\"button_4_as_button\":false,\"font_family\":\"inherit\",\"header_fix\":false,\"notify_animate_hide\":true,\"notify_animate_show\":false,\"notify_div_id\":\"#cookie-law-info-bar\",\"notify_position_horizontal\":\"right\",\"notify_position_vertical\":\"bottom\",\"scroll_close\":false,\"scroll_close_reload\":false,\"accept_close_reload\":false,\"reject_close_reload\":false,\"showagain_tab\":true,\"showagain_background\":\"#fff\",\"showagain_border\":\"#000\",\"showagain_div_id\":\"#cookie-law-info-again\",\"showagain_x_position\":\"100px\",\"text\":\"#000\",\"show_once_yn\":false,\"show_once\":\"10000\",\"logging_on\":false,\"as_popup\":false,\"popup_overlay\":true,\"bar_heading_text\":\"\",\"cookie_bar_as\":\"banner\",\"popup_showagain_position\":\"bottom-right\",\"widget_position\":\"left\"}'; /* ]]> */ /* <![CDATA[ */ var wpcf7 = {\"apiSettings\":{\"root\":\"https:\\/\\/www.ozonaim.gr\\/wp-json\\/contact-form-7\\/v1\",\"namespace\":\"contact-form-7\\/v1\"},\"cached\":\"1\"}; /* ]]> */ /* <![CDATA[ */ var flatsomeVars = {\"ajaxurl\":\"https:\\/\\/www.ozonaim.gr\\/wp-admin\\/admin-ajax.php\",\"rtl\":\"\",\"sticky_height\":\"70\",\"lightbox\":{\"close_markup\":\"<button title=\\\"%title%\\\" type=\\\"button\\\" class=\\\"mfp-close\\\"><svg xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\" width=\\\"28\\\" height=\\\"28\\\" viewBox=\\\"0 0 24 24\\\" fill=\\\"none\\\" stroke=\\\"currentColor\\\" stroke-width=\\\"2\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" class=\\\"feather feather-x\\\"><line x1=\\\"18\\\" y1=\\\"6\\\" x2=\\\"6\\\" y2=\\\"18\\\"><\\/line><line x1=\\\"6\\\" y1=\\\"6\\\" x2=\\\"18\\\" y2=\\\"18\\\"><\\/line><\\/svg><\\/button>\",\"close_btn_inside\":false},\"user\":{\"can_edit_pages\":false}}; /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ozonaim.gr-home-15896c35/homepage--15896c35.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ozonaim.gr-home-15896c35/homepage--15896c35.txt",
+      "imageReferences": [
+        {
+          "url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+          "alt": "Ozonaim",
+          "sourcePageUrl": "https://www.ozonaim.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ozonaim.gr/",
+              "retrievedAt": "2026-03-31T13:08:24.972Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://www.ozonaim.gr/",
+          "retrievedAt": "2026-03-31T13:08:24.974Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ozonaim.gr-home-15896c35/homepage-page-15896c35.png"
+    },
+    "about": {
+      "pageType": "about",
+      "requestedUrl": "https://www.ozonaim.gr/cv-driliakis",
+      "finalUrl": "https://www.ozonaim.gr/cv-driliakis",
+      "fetchedAt": "2026-03-31T13:08:29.745Z",
+      "metadata": {
+        "title": "ΒΙΟΓΡΑΦΙΚΟ | Ozonaim",
+        "canonicalUrl": "https://www.ozonaim.gr/cv-driliakis/",
+        "language": "el",
+        "robots": "max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+        "openGraphTitle": "ΒΙΟΓΡΑΦΙΚΟ | Ozonaim",
+        "openGraphImage": "https://www.ozonaim.gr/wp-content/uploads/2016/08/dummy-1.jpg"
+      },
+      "headings": [],
+      "internalLinks": [
+        {
+          "href": "https://www.ozonaim.gr/",
+          "label": "<img width=\"145\" height=\"73\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png\" class=\"header_logo header-logo\" alt=\"Ozonaim\"/><img width=\"145\" height=\"73\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png\" class=\"header-logo-dark\" alt=\"Ozonaim\"/>"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/",
+          "label": "ΠΑΘΗΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%ce%b3%ce%ba%cf%85%ce%bb%cf%89%cf%84%ce%b9%ce%ba%ce%b7-%cf%83%cf%80%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1/",
+          "label": "Αγκυλωτική Σπονδυλαρθρίτιδα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%cf%85%cf%87%ce%b5%ce%bd%ce%b1%ce%bb%ce%b3%ce%b9%ce%b1/",
+          "label": "Αυχεναλγία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b3%ce%bf%ce%bd%ce%b1%cf%84%ce%bf/",
+          "label": "Γόνατο"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b9%cf%84%ce%b9%ce%b4%ce%b1/",
+          "label": "Επικονδυλίτιτδα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b9%ce%bb%ce%b9%ce%b3%ce%b3%ce%bf%cf%82/",
+          "label": "Ίλιγγος"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b9%ce%bd%ce%bf%ce%bc%cf%85%ce%b1%ce%bb%ce%b3%ce%b9%ce%b1/",
+          "label": "Ινομυαλγία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b9%cf%83%cf%87%cf%85%ce%bf/",
+          "label": "Ισχύο"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%ba%ce%b5%cf%86%ce%b1%ce%bb%ce%b1%ce%bb%ce%b3%ce%b9%ce%b1/",
+          "label": "Κεφαλαλγία – Αυχεναλγία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%84%ce%b5%ce%bf%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1/",
+          "label": "Οστεοαρθρίτιδα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%84%ce%b5%ce%bf%cf%80%ce%bf%cf%81%cf%89%cf%83%ce%b7/",
+          "label": "Οστεοπόρωση"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%86%cf%85%ce%b1%ce%bb%ce%b3%ce%af%ce%b1/",
+          "label": "Οσφυαλγία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%cf%83%ce%ba%ce%bf%ce%bb%ce%af%cf%89%cf%83%ce%b7/",
+          "label": "Σκολίωση"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%cf%83%cf%85%ce%bc%cf%86%ce%b7%cf%83%ce%b5%ce%b9%cf%82-%ce%bc%ce%b5%cf%84%ce%b1-%cf%84%ce%bf-%cf%87%ce%b5%ce%b9%cf%81%ce%bf%cf%85%cf%81%ce%b3%ce%b5%ce%b9%ce%bf/",
+          "label": "Συμφήσεις μετά το χειρουργείο"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%cf%8e%ce%bc%ce%bf%cf%82/",
+          "label": "Ώμος"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/barre-lieou-syndrome/",
+          "label": "BARRE-LIEOU SYNDROME"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%84%ce%b5%ce%bf%ce%bd%ce%ad%ce%ba%cf%81%cf%89%cf%83%ce%b7-%cf%84%ce%b7%cf%82-%ce%bc%ce%b7%cf%81%ce%b9%ce%b1%ce%af%ce%b1%cf%82-%ce%ba%ce%b5%cf%86%ce%b1%ce%bb%ce%ae%cf%82/",
+          "label": "Οστεονέκρωση της μηριαίας κεφαλής"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bd%ce%b5%cf%85%cf%81%ce%bf%cf%80%ce%b1%ce%b8%ce%b7%cf%84%ce%b9%ce%ba%cf%8c%cf%82-%cf%80%cf%8c%ce%bd%ce%bf%cf%82/",
+          "label": "Νευροπαθητικός πόνος"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/",
+          "label": "ΘΕΡΑΠΕΥΤΙΚΗ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%bc%ce%b5%cf%83%ce%bf%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%b9%ce%b1/",
+          "label": "Μεσοθεραπεία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%cf%81%ce%bf%ce%bb%ce%bf%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%af%ce%b1/",
+          "label": "Προλοθεραπεία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%cf%80%ce%bb%ce%ac%cf%83%ce%bc%ce%b1-%cf%80%ce%bb%ce%bf%cf%8d%cf%83%ce%b9%ce%bf-%cf%83%ce%b5-%ce%b1%ce%b9%ce%bc%ce%bf%cf%80%ce%b5%cf%84%ce%ac%ce%bb%ce%b9%ce%b1/",
+          "label": "Πλάσμα Πλούσιο σε Αιμοπετάλια"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%bf%ce%b6%ce%bf%ce%bd%ce%bf%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%b9%ce%b1/",
+          "label": "Οζονοθεραπεία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/ozonaim/",
+          "label": "OZONAIM"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%bd%ce%b5%cf%85%cf%81%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%ba%ce%b1-%ce%b1%ce%bd%cf%84%ce%b1%ce%bd%ce%b1%ce%ba%ce%bb%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%b1/",
+          "label": "Νευρολογικά Αντανακλαστικά"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%b1%cf%83%ce%ba%ce%ae%cf%83%ce%b5%ce%b9%cf%82/",
+          "label": "Ασκήσεις"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%b4%ce%b9%ce%b1%ce%b9%cf%84%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%bf/",
+          "label": "Διατροφή"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%b7-%ce%b4%ce%b9%ce%ba%ce%ae-%ce%bc%ce%b1%cf%82-%ce%b1%ce%bd%cf%84%ce%b9%cf%86%ce%bb%ce%b5%ce%b3%ce%bc%ce%bf%ce%bd%cf%8e%ce%b4%ce%b7%cf%82-%ce%b4%ce%af%ce%b1%ce%b9%cf%84%ce%b1/",
+          "label": "Η δική μας αντιφλεγμονώδης δίαιτα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%cf%88%ce%b7%cf%86%ce%b9%ce%b1%ce%ba%ce%bf%cf%82-%cf%80%ce%b5%ce%bb%ce%bc%ce%b1%cf%84%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%bf%cf%82/",
+          "label": "Ψηφιακός Πελματογράφος"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%cf%81%ce%b5%cf%86%ce%bb%ce%b5%ce%be%ce%bf%ce%bb%ce%bf%ce%b3%ce%af%ce%b1/",
+          "label": "Ρεφλεξολογία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/faq/",
+          "label": "ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b2%ce%b9%ce%b2%ce%bb%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%b1/",
+          "label": "ΒΙΒΛΙΟΓΡΑΦΙΑ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/blog/",
+          "label": "Τα νεα μας"
+        },
+        {
+          "href": "https://www.ozonaim.gr/contact-us",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/cv-driliakis",
+          "label": "ΒΙΟΓΡΑΦΙΚΟ"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "2791/11-8-97",
+          "6/11/1997",
+          "2015-2020",
+          "2016-2017",
+          "2017-2018",
+          "2018-2019",
+          "1990-1992",
+          "27-3-1991",
+          "2107228340"
+        ],
+        "emails": [],
+        "addresses": [],
+        "socialLinks": [],
+        "forms": []
+      },
+      "footerText": "ΑΡΧΙΚΗ ΠΑΘΗΣΕΙΣ ΘΕΡΑΠΕΥΤΙΚΗ Ρεφλεξολογία ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ ΒΙΒΛΙΟΓΡΑΦΙΑ Τα νεα μας Η δική μας αντιφλεγμονώδης δίαιτα Copyright 2026 © Ozonaim Developed by Codnext Software",
+      "textContent": "Skip to content <img width=\"145\" height=\"73\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png\" class=\"header_logo header-logo\" alt=\"Ozonaim\"/><img width=\"145\" height=\"73\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png\" class=\"header-logo-dark\" alt=\"Ozonaim\"/> ΑΡΧΙΚΗ ΠΑΘΗΣΕΙΣ Αγκυλωτική Σπονδυλαρθρίτιδα Αυχεναλγία Γόνατο Επικονδυλίτιτδα Ίλιγγος Ινομυαλγία Ισχύο Κεφαλαλγία – Αυχεναλγία Οστεοαρθρίτιδα Οστεοπόρωση Οσφυαλγία Σκολίωση Συμφήσεις μετά το χειρουργείο Ώμος BARRE-LIEOU SYNDROME Οστεονέκρωση της μηριαίας κεφαλής Νευροπαθητικός πόνος ΘΕΡΑΠΕΥΤΙΚΗ Μεσοθεραπεία Προλοθεραπεία Πλάσμα Πλούσιο σε Αιμοπετάλια Οζονοθεραπεία OZONAIM Νευρολογικά Αντανακλαστικά Ασκήσεις Διατροφή Η δική μας αντιφλεγμονώδης δίαιτα Ψηφιακός Πελματογράφος Ρεφλεξολογία ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ ΒΙΒΛΙΟΓΡΑΦΙΑ Τα νεα μας Η δική μας αντιφλεγμονώδης δίαιτα ΕΠΙΚΟΙΝΩΝΙΑ <img width=\"351\" height=\"373\" alt=\"\" data-src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/driliakis-min.jpg\" class=\"attachment- size- lazyload\" src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\" /><noscript><img width=\"351\" height=\"373\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/driliakis-min.jpg\" class=\"attachment- size-\" alt=\"\" /> ΒΙΟΓΡΑΦΙΚΟ Δρ. ΗΛΙΑΚΗΣ ΕΜΜΑΝΟΥΗΛ – ΟΡΘΟΠΕΔΙΚΟΣ ΧΕΙΡΟΥΡΓΟΣ <img width=\"351\" height=\"373\" alt=\"\" data-src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/driliakis-min.jpg\" class=\"attachment- size- lazyload\" src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\" /><noscript><img width=\"351\" height=\"373\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/driliakis-min.jpg\" class=\"attachment- size-\" alt=\"\" /> ΒΙΟΓΡΑΦΙΚΟ Δρ. ΗΛΙΑΚΗΣ ΕΜΜΑΝΟΥΗΛ – ΟΡΘΟΠΕΔΙΚΟΣ ΧΕΙΡΟΥΡΓΟΣ ΠΕΡΙΛΗΠΤΙΚΟ ΒΙΟΓΡΑΦΙΚΟ Δρ. ΗΛΙΑΚΗ ΕΜΜΑΝΟΥΗΛ Ορθοπεδικού Χειρουργού Ο γιατρός γεννήθηκε το 1956 εις την Αθήνα. Είναι πτυχιούχος (1982) της Ιατρικής Σχολής του Πανεπιστημίου της Bologna (Ι), με βαθμό Άριστα. Τo 1989 έλαβε τον τίτλο της Ειδίκευσης στην Ορθοπεδική Χειρουργική, Αθήνα. Το 1999 του απονεμήθηκε ο τίτλος του Διδάκτορος της Ιατρικής Σχολής του Πανεπιστημίου Αθηνών με βαθμό Λίαν καλώς Έχει τιμηθεί με τον τίτλο του Επιτίμου Μέλους της Ακαδημίας Επιστημών Υγείας της Ρώμης (Ass. Annuale 10/7/97) με τον τίτλο του Καθηγητού (υπουργική απόφαση 2791/11-8-97 Υπουργείου Πολιτισμού της Ιταλίας).Ονομασία 6/11/1997 εντολή 2791. Από το 2000 έως και σήμερα είναι επιστημονικός συνεργάτης στο Ε.Μ.Π. Έχει τιμηθεί με τον τίτλο του External Expert Member of the International Scientific Cmmitee of Ozone Therapy for the period 2015-2020 (Madrid,April 13 2016). Διδάσκει στο Master of Ozonetherapy στην Brescia ITALY, τα έτη 2016-2017,2017-2018,2018-2019. ΕΠΙΣΗΣ Το 1997 έλαβε τον Μεταπτυχιακό τίτλο ειδίκευσης (Master) στη «Διορθωτική και Αισθητική Ιατρική», Τμήμα (Κρατικό) Μεταπτυχιακών Σπουδών Ρώμης «Medicina Correttiva ed Estetica» με βαθμό 30/30, διάρκειας άνω των 600 ωρών. Το 1998 απέκτησε τον Μεταπτυχιακό τίτλο (Master) ειδίκευσης στην«Αντιμετώπιση επειγόντων περιστατικών εις Νοσοκομειακή Μονάδα». Τμήμα (Κρατικό) Μεταπτυχιακών Σπουδών Ρώμης «Emergenze di Reparto» με βαθμό 30/30, διάρκειας άνω των 200 ωρών. Το 1990-1992 παρακολούθησε το 1ο και 2ο έτος της σχολής Θεραπείας Πόνου και Φυσικής Θεραπείας σε Διεθνές Εκπαιδευτικό Κέντρο (Ιδιωτικό Κέντρο). Bologna (I). Από το 1982 έως και για τριάντα ετη ακολούθησε ολες τις εξελικτικές βαθμίδες σε Νοσοκομεία στην Ελλάδα ενώ εως και σήμερα δηλαδή επί 37 έτη διατηρεί ιδιωτικό ορθοπεδικό ιατρείο. Διετέλεσε επίσης Αν. Προϊστάμενος Α’ Ορθοπεδικής Κλινικής 1ου Νοσοκομείου ΙΚΑ Αθηνών, Ελεγκτής ΙΚΑ Νοσοκομείων και Κλινικών και μόνιμος ιατρός του ΙΚΑ. Υπηρέτησε ακόμα ως Επίκ. Καθηγητής σε corsi di perfezionamento post-universitari εις το Centro Ricerche e Studi post Universitari A.S.A.S. D.M. 27-3-1991 c.d. n. 1199OYW9 στην Ιταλία και ως επισκέπτης καθηγητής σε αρκετά κέντρα (κρατικά και ιδιωτικά) εντος και εκτός Ελλάδος ενώ συμμετείχε και ως εισηγητής σε σεμινάρια του εξωτερικού. Είναι μέλος επιστημονικών Εταιρειών, σύμβουλος της συντακτικής επιτροπής επιστημονικών περιοδικών, συγγραφέας βιβλίων και μονογραφιών, έχει συνδράμει εις την οργάνωση εκπαιδευτικών σεμιναρίων. Έχει υπάρξει πρόεδρος ή συντονιστής συνεδριάσεων σε πολλά συνέδρια και έχει συμμετάσχει σε σημαντικό αριθμό ελληνικών και διεθνών συνεδρίων όπου παρουσίασε επιστημονική εργασία . Έχει να παρουσιάσει ερευνητικό συγγραφικό έργο σε ξενόγλωσσες δημοσιεύσεις σε περιοδικά εντός και εκτός του SCI, ερευνητικό έργο, ανακοινώσεις σε ελληνικά και διεθνή συνέδρια. Δρ Ηλιάκης Εμμανουήλ Ορθοπεδικός Χειρουργός Ευφρονίου 8 Παγκράτι. τηλ. 2107228340 ΑΡΧΙΚΗ ΠΑΘΗΣΕΙΣ ΘΕΡΑΠΕΥΤΙΚΗ Ρεφλεξολογία ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ ΒΙΒΛΙΟΓΡΑΦΙΑ Τα νεα μας Η δική μας αντιφλεγμονώδης δίαιτα Copyright 2026 © Ozonaim Developed by Codnext Software ΑΡΧΙΚΗ ΠΑΘΗΣΕΙΣ Αγκυλωτική Σπονδυλαρθρίτιδα Αυχεναλγία Γόνατο Επικονδυλίτιτδα Ίλιγγος Ινομυαλγία Ισχύο Κεφαλαλγία – Αυχεναλγία Οστεοαρθρίτιδα Οστεοπόρωση Οσφυαλγία Σκολίωση Συμφήσεις μετά το χειρουργείο Ώμος BARRE-LIEOU SYNDROME Οστεονέκρωση της μηριαίας κεφαλής Νευροπαθητικός πόνος ΘΕΡΑΠΕΥΤΙΚΗ Μεσοθεραπεία Προλοθεραπεία Πλάσμα Πλούσιο σε Αιμοπετάλια Οζονοθεραπεία OZONAIM Νευρολογικά Αντανακλαστικά Ασκήσεις Διατροφή Η δική μας αντιφλεγμονώδης δίαιτα Ψηφιακός Πελματογράφος Ρεφλεξολογία ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ ΒΙΒΛΙΟΓΡΑΦΙΑ Τα νεα μας Η δική μας αντιφλεγμονώδης δίαιτα ΕΠΙΚΟΙΝΩΝΙΑ ΒΙΟΓΡΑΦΙΚΟ This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Cookie settingsACCEPTPrivacy & Cookies Policy Close Privacy Overview This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience. Necessary Always Enabled Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information. Non-necessary Non-necessary Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website. /* <![CDATA[ */ cli_cookiebar_settings='{\"animate_speed_hide\":\"500\",\"animate_speed_show\":\"500\",\"background\":\"#FFF\",\"border\":\"#b1a6a6c2\",\"border_on\":false,\"button_1_button_colour\":\"#000\",\"button_1_button_hover\":\"#000000\",\"button_1_link_colour\":\"#fff\",\"button_1_as_button\":true,\"button_1_new_win\":false,\"button_2_button_colour\":\"#333\",\"button_2_button_hover\":\"#292929\",\"button_2_link_colour\":\"#444\",\"button_2_as_button\":false,\"button_2_hidebar\":false,\"button_3_button_colour\":\"#000\",\"button_3_button_hover\":\"#000000\",\"button_3_link_colour\":\"#fff\",\"button_3_as_button\":true,\"button_3_new_win\":false,\"button_4_button_colour\":\"#000\",\"button_4_button_hover\":\"#000000\",\"button_4_link_colour\":\"#62a329\",\"button_4_as_button\":false,\"font_family\":\"inherit\",\"header_fix\":false,\"notify_animate_hide\":true,\"notify_animate_show\":false,\"notify_div_id\":\"#cookie-law-info-bar\",\"notify_position_horizontal\":\"right\",\"notify_position_vertical\":\"bottom\",\"scroll_close\":false,\"scroll_close_reload\":false,\"accept_close_reload\":false,\"reject_close_reload\":false,\"showagain_tab\":true,\"showagain_background\":\"#fff\",\"showagain_border\":\"#000\",\"showagain_div_id\":\"#cookie-law-info-again\",\"showagain_x_position\":\"100px\",\"text\":\"#000\",\"show_once_yn\":false,\"show_once\":\"10000\",\"logging_on\":false,\"as_popup\":false,\"popup_overlay\":true,\"bar_heading_text\":\"\",\"cookie_bar_as\":\"banner\",\"popup_showagain_position\":\"bottom-right\",\"widget_position\":\"left\"}'; /* ]]> */ /* <![CDATA[ */ var wpcf7 = {\"apiSettings\":{\"root\":\"https:\\/\\/www.ozonaim.gr\\/wp-json\\/contact-form-7\\/v1\",\"namespace\":\"contact-form-7\\/v1\"},\"cached\":\"1\"}; /* ]]> */ /* <![CDATA[ */ var flatsomeVars = {\"ajaxurl\":\"https:\\/\\/www.ozonaim.gr\\/wp-admin\\/admin-ajax.php\",\"rtl\":\"\",\"sticky_height\":\"70\",\"lightbox\":{\"close_markup\":\"<button title=\\\"%title%\\\" type=\\\"button\\\" class=\\\"mfp-close\\\"><svg xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\" width=\\\"28\\\" height=\\\"28\\\" viewBox=\\\"0 0 24 24\\\" fill=\\\"none\\\" stroke=\\\"currentColor\\\" stroke-width=\\\"2\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" class=\\\"feather feather-x\\\"><line x1=\\\"18\\\" y1=\\\"6\\\" x2=\\\"6\\\" y2=\\\"18\\\"><\\/line><line x1=\\\"6\\\" y1=\\\"6\\\" x2=\\\"18\\\" y2=\\\"18\\\"><\\/line><\\/svg><\\/button>\",\"close_btn_inside\":false},\"user\":{\"can_edit_pages\":false}}; /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ozonaim.gr-home-15896c35/about-cv-driliakis-89b48d45.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ozonaim.gr-home-15896c35/about-cv-driliakis-89b48d45.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.ozonaim.gr/wp-content/uploads/2016/08/dummy-1.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.ozonaim.gr/cv-driliakis",
+          "pageType": "about",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.ozonaim.gr/cv-driliakis",
+              "retrievedAt": "2026-03-31T13:08:29.744Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+          "alt": "Ozonaim",
+          "sourcePageUrl": "https://www.ozonaim.gr/cv-driliakis",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ozonaim.gr/cv-driliakis",
+              "retrievedAt": "2026-03-31T13:08:29.744Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page fetch",
+          "uri": "https://www.ozonaim.gr/cv-driliakis",
+          "retrievedAt": "2026-03-31T13:08:29.745Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://www.ozonaim.gr/contact-us",
+      "finalUrl": "https://www.ozonaim.gr/contact-us",
+      "fetchedAt": "2026-03-31T13:08:26.807Z",
+      "metadata": {
+        "title": "ΕΠΙΚΟΙΝΩΝΙΑ | Ozonaim",
+        "canonicalUrl": "https://www.ozonaim.gr/contact-us/",
+        "language": "el",
+        "robots": "max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+        "openGraphTitle": "ΕΠΙΚΟΙΝΩΝΙΑ | Ozonaim"
+      },
+      "headings": [
+        {
+          "level": "h3",
+          "text": "ΣΤΕΙΛΤΕ ΜΑΣ ΤΟ ΜΗΝΥΜΑ ΣΑΣ"
+        },
+        {
+          "level": "h3",
+          "text": "ΣΤΟΙΧΕΙΑ ΕΠΙΚΟΙΝΩΝΙΑΣ"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.ozonaim.gr/",
+          "label": "<img width=\"145\" height=\"73\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png\" class=\"header_logo header-logo\" alt=\"Ozonaim\"/><img width=\"145\" height=\"73\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png\" class=\"header-logo-dark\" alt=\"Ozonaim\"/>"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/",
+          "label": "ΠΑΘΗΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%ce%b3%ce%ba%cf%85%ce%bb%cf%89%cf%84%ce%b9%ce%ba%ce%b7-%cf%83%cf%80%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1/",
+          "label": "Αγκυλωτική Σπονδυλαρθρίτιδα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%cf%85%cf%87%ce%b5%ce%bd%ce%b1%ce%bb%ce%b3%ce%b9%ce%b1/",
+          "label": "Αυχεναλγία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b3%ce%bf%ce%bd%ce%b1%cf%84%ce%bf/",
+          "label": "Γόνατο"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b9%cf%84%ce%b9%ce%b4%ce%b1/",
+          "label": "Επικονδυλίτιτδα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b9%ce%bb%ce%b9%ce%b3%ce%b3%ce%bf%cf%82/",
+          "label": "Ίλιγγος"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b9%ce%bd%ce%bf%ce%bc%cf%85%ce%b1%ce%bb%ce%b3%ce%b9%ce%b1/",
+          "label": "Ινομυαλγία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b9%cf%83%cf%87%cf%85%ce%bf/",
+          "label": "Ισχύο"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%ba%ce%b5%cf%86%ce%b1%ce%bb%ce%b1%ce%bb%ce%b3%ce%b9%ce%b1/",
+          "label": "Κεφαλαλγία – Αυχεναλγία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%84%ce%b5%ce%bf%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1/",
+          "label": "Οστεοαρθρίτιδα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%84%ce%b5%ce%bf%cf%80%ce%bf%cf%81%cf%89%cf%83%ce%b7/",
+          "label": "Οστεοπόρωση"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%86%cf%85%ce%b1%ce%bb%ce%b3%ce%af%ce%b1/",
+          "label": "Οσφυαλγία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%cf%83%ce%ba%ce%bf%ce%bb%ce%af%cf%89%cf%83%ce%b7/",
+          "label": "Σκολίωση"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%cf%83%cf%85%ce%bc%cf%86%ce%b7%cf%83%ce%b5%ce%b9%cf%82-%ce%bc%ce%b5%cf%84%ce%b1-%cf%84%ce%bf-%cf%87%ce%b5%ce%b9%cf%81%ce%bf%cf%85%cf%81%ce%b3%ce%b5%ce%b9%ce%bf/",
+          "label": "Συμφήσεις μετά το χειρουργείο"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%cf%8e%ce%bc%ce%bf%cf%82/",
+          "label": "Ώμος"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/barre-lieou-syndrome/",
+          "label": "BARRE-LIEOU SYNDROME"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%84%ce%b5%ce%bf%ce%bd%ce%ad%ce%ba%cf%81%cf%89%cf%83%ce%b7-%cf%84%ce%b7%cf%82-%ce%bc%ce%b7%cf%81%ce%b9%ce%b1%ce%af%ce%b1%cf%82-%ce%ba%ce%b5%cf%86%ce%b1%ce%bb%ce%ae%cf%82/",
+          "label": "Οστεονέκρωση της μηριαίας κεφαλής"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bd%ce%b5%cf%85%cf%81%ce%bf%cf%80%ce%b1%ce%b8%ce%b7%cf%84%ce%b9%ce%ba%cf%8c%cf%82-%cf%80%cf%8c%ce%bd%ce%bf%cf%82/",
+          "label": "Νευροπαθητικός πόνος"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/",
+          "label": "ΘΕΡΑΠΕΥΤΙΚΗ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%bc%ce%b5%cf%83%ce%bf%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%b9%ce%b1/",
+          "label": "Μεσοθεραπεία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%cf%81%ce%bf%ce%bb%ce%bf%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%af%ce%b1/",
+          "label": "Προλοθεραπεία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%cf%80%ce%bb%ce%ac%cf%83%ce%bc%ce%b1-%cf%80%ce%bb%ce%bf%cf%8d%cf%83%ce%b9%ce%bf-%cf%83%ce%b5-%ce%b1%ce%b9%ce%bc%ce%bf%cf%80%ce%b5%cf%84%ce%ac%ce%bb%ce%b9%ce%b1/",
+          "label": "Πλάσμα Πλούσιο σε Αιμοπετάλια"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%bf%ce%b6%ce%bf%ce%bd%ce%bf%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%b9%ce%b1/",
+          "label": "Οζονοθεραπεία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/ozonaim/",
+          "label": "OZONAIM"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%bd%ce%b5%cf%85%cf%81%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%ba%ce%b1-%ce%b1%ce%bd%cf%84%ce%b1%ce%bd%ce%b1%ce%ba%ce%bb%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%b1/",
+          "label": "Νευρολογικά Αντανακλαστικά"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%b1%cf%83%ce%ba%ce%ae%cf%83%ce%b5%ce%b9%cf%82/",
+          "label": "Ασκήσεις"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%b4%ce%b9%ce%b1%ce%b9%cf%84%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%bf/",
+          "label": "Διατροφή"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%b7-%ce%b4%ce%b9%ce%ba%ce%ae-%ce%bc%ce%b1%cf%82-%ce%b1%ce%bd%cf%84%ce%b9%cf%86%ce%bb%ce%b5%ce%b3%ce%bc%ce%bf%ce%bd%cf%8e%ce%b4%ce%b7%cf%82-%ce%b4%ce%af%ce%b1%ce%b9%cf%84%ce%b1/",
+          "label": "Η δική μας αντιφλεγμονώδης δίαιτα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%cf%88%ce%b7%cf%86%ce%b9%ce%b1%ce%ba%ce%bf%cf%82-%cf%80%ce%b5%ce%bb%ce%bc%ce%b1%cf%84%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%bf%cf%82/",
+          "label": "Ψηφιακός Πελματογράφος"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%cf%81%ce%b5%cf%86%ce%bb%ce%b5%ce%be%ce%bf%ce%bb%ce%bf%ce%b3%ce%af%ce%b1/",
+          "label": "Ρεφλεξολογία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/faq/",
+          "label": "ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b2%ce%b9%ce%b2%ce%bb%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%b1/",
+          "label": "ΒΙΒΛΙΟΓΡΑΦΙΑ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/blog/",
+          "label": "Τα νεα μας"
+        },
+        {
+          "href": "https://www.ozonaim.gr/contact-us",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/cv-driliakis",
+          "label": "ΒΙΟΓΡΑΦΙΚΟ"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.ozonaim.gr/contact-us/#wpcf7-f7-p326-o1",
+          "method": "post",
+          "purposeHint": "contact",
+          "fieldNames": [
+            "_wpcf7",
+            "_wpcf7_version",
+            "_wpcf7_locale",
+            "_wpcf7_unit_tag",
+            "_wpcf7_container_post",
+            "your-name",
+            "your-phone",
+            "your-email",
+            "your-message",
+            "phone2-944",
+            "quiz-454",
+            "_wpcf7_quiz_answer_quiz-454",
+            "submit"
+          ],
+          "submitLabels": [
+            "ΑΠΟΣΤΟΛΗ"
+          ],
+          "fields": [
+            {
+              "name": "_wpcf7",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_version",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_locale",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_unit_tag",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_container_post",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "your-name",
+              "type": "text",
+              "label": "Όνομα*",
+              "required": true
+            },
+            {
+              "name": "your-phone",
+              "type": "text",
+              "label": "Τηλέφωνο*",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "type": "email",
+              "label": "Email",
+              "required": false
+            },
+            {
+              "name": "your-message",
+              "type": "textarea",
+              "label": "Γράψτε το μήνυμά σας*",
+              "required": false
+            },
+            {
+              "name": "phone2-944",
+              "type": "text",
+              "required": false
+            },
+            {
+              "name": "quiz-454",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "_wpcf7_quiz_answer_quiz-454",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "37.972855",
+          "23.7477859",
+          "159166582",
+          "210 7228 340",
+          "2107228340"
+        ],
+        "emails": [
+          "driliakis@hotmail.com"
+        ],
+        "addresses": [],
+        "socialLinks": [],
+        "forms": [
+          {
+            "action": "https://www.ozonaim.gr/contact-us/#wpcf7-f7-p326-o1",
+            "method": "post",
+            "purposeHint": "contact",
+            "fieldNames": [
+              "_wpcf7",
+              "_wpcf7_version",
+              "_wpcf7_locale",
+              "_wpcf7_unit_tag",
+              "_wpcf7_container_post",
+              "your-name",
+              "your-phone",
+              "your-email",
+              "your-message",
+              "phone2-944",
+              "quiz-454",
+              "_wpcf7_quiz_answer_quiz-454",
+              "submit"
+            ],
+            "submitLabels": [
+              "ΑΠΟΣΤΟΛΗ"
+            ],
+            "fields": [
+              {
+                "name": "_wpcf7",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_version",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_locale",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_unit_tag",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_container_post",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "your-name",
+                "type": "text",
+                "label": "Όνομα*",
+                "required": true
+              },
+              {
+                "name": "your-phone",
+                "type": "text",
+                "label": "Τηλέφωνο*",
+                "required": true
+              },
+              {
+                "name": "your-email",
+                "type": "email",
+                "label": "Email",
+                "required": false
+              },
+              {
+                "name": "your-message",
+                "type": "textarea",
+                "label": "Γράψτε το μήνυμά σας*",
+                "required": false
+              },
+              {
+                "name": "phone2-944",
+                "type": "text",
+                "required": false
+              },
+              {
+                "name": "quiz-454",
+                "type": "text",
+                "required": true
+              },
+              {
+                "name": "_wpcf7_quiz_answer_quiz-454",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "ΑΡΧΙΚΗ ΠΑΘΗΣΕΙΣ ΘΕΡΑΠΕΥΤΙΚΗ Ρεφλεξολογία ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ ΒΙΒΛΙΟΓΡΑΦΙΑ Τα νεα μας Η δική μας αντιφλεγμονώδης δίαιτα Copyright 2026 © Ozonaim Developed by Codnext Software",
+      "textContent": "Skip to content <img width=\"145\" height=\"73\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png\" class=\"header_logo header-logo\" alt=\"Ozonaim\"/><img width=\"145\" height=\"73\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png\" class=\"header-logo-dark\" alt=\"Ozonaim\"/> ΑΡΧΙΚΗ ΠΑΘΗΣΕΙΣ Αγκυλωτική Σπονδυλαρθρίτιδα Αυχεναλγία Γόνατο Επικονδυλίτιτδα Ίλιγγος Ινομυαλγία Ισχύο Κεφαλαλγία – Αυχεναλγία Οστεοαρθρίτιδα Οστεοπόρωση Οσφυαλγία Σκολίωση Συμφήσεις μετά το χειρουργείο Ώμος BARRE-LIEOU SYNDROME Οστεονέκρωση της μηριαίας κεφαλής Νευροπαθητικός πόνος ΘΕΡΑΠΕΥΤΙΚΗ Μεσοθεραπεία Προλοθεραπεία Πλάσμα Πλούσιο σε Αιμοπετάλια Οζονοθεραπεία OZONAIM Νευρολογικά Αντανακλαστικά Ασκήσεις Διατροφή Η δική μας αντιφλεγμονώδης δίαιτα Ψηφιακός Πελματογράφος Ρεφλεξολογία ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ ΒΙΒΛΙΟΓΡΑΦΙΑ Τα νεα μας Η δική μας αντιφλεγμονώδης δίαιτα ΕΠΙΚΟΙΝΩΝΙΑ jQuery( document ).ready(function() { function initialize() { var styles = { 'flatsome': [{ \"featureType\": \"administrative\", \"stylers\": [ { \"visibility\": \"on\" } ] }, { \"featureType\": \"road\", \"stylers\": [ { \"visibility\": \"on\" }, { \"hue\": \"\" } ] }, { \"stylers\": [ { \"visibility\": \"on\" }, { \"hue\": \"\" }, { \"saturation\": -30 } ] } ]}; var myLatlng = new google.maps.LatLng(37.972855, 23.7477859); var myOptions = { zoom: 17, center: myLatlng, mapTypeId: google.maps.MapTypeId.ROADMAP, disableDefaultUI: true, mapTypeId: 'flatsome', draggable: true, zoomControl: true, zoomControlOptions: { position: google.maps.ControlPosition.TOP_LEFT }, // panControl: true, // panControlOptions: { // position: google.maps.ControlPosition.TOP_LEFT // }, mapTypeControl: true, mapTypeControlOptions: { position: google.maps.ControlPosition.TOP_LEFT }, // scaleControl: true, // scaleControlOptions: { // position: google.maps.ControlPosition.TOP_LEFT // }, streetViewControl: true, streetViewControlOptions: { position: google.maps.ControlPosition.TOP_LEFT }, // overviewMapControl: true, // overviewMapControlOptions: { // position: google.maps.ControlPosition.TOP_LEFT // }, scrollwheel: false, disableDoubleClickZoom: true } var map = new google.maps.Map(document.getElementById(\"map-159166582-inner\"), myOptions); var styledMapType = new google.maps.StyledMapType(styles['flatsome'], {name: 'flatsome'}); map.mapTypes.set('flatsome', styledMapType); var marker = new google.maps.Marker({ position: myLatlng, map: map, title:\"\" }); } // Required to proceed if (!(typeof google === 'object' && typeof google.maps === 'object')) { return } google.maps.event.addDomListener(window, 'load', initialize); google.maps.event.addDomListener(window, 'resize', initialize); }); #map-159166582 .map-inner { background-color: #fff; max-width: 30%; } #map-159166582 .map-height { height: 400px; } ΣΤΕΙΛΤΕ ΜΑΣ ΤΟ ΜΗΝΥΜΑ ΣΑΣ Please leave this field empty. 1+1=? ΣΤΟΙΧΕΙΑ ΕΠΙΚΟΙΝΩΝΙΑΣ Διεύθυνση: Ευφρονίου 8, Αθήνα, 11634 Τηλ. – Fax: 210 7228 340 Email: driliakis@hotmail.com ΑΡΧΙΚΗ ΠΑΘΗΣΕΙΣ ΘΕΡΑΠΕΥΤΙΚΗ Ρεφλεξολογία ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ ΒΙΒΛΙΟΓΡΑΦΙΑ Τα νεα μας Η δική μας αντιφλεγμονώδης δίαιτα Copyright 2026 © Ozonaim Developed by Codnext Software ΑΡΧΙΚΗ ΠΑΘΗΣΕΙΣ Αγκυλωτική Σπονδυλαρθρίτιδα Αυχεναλγία Γόνατο Επικονδυλίτιτδα Ίλιγγος Ινομυαλγία Ισχύο Κεφαλαλγία – Αυχεναλγία Οστεοαρθρίτιδα Οστεοπόρωση Οσφυαλγία Σκολίωση Συμφήσεις μετά το χειρουργείο Ώμος BARRE-LIEOU SYNDROME Οστεονέκρωση της μηριαίας κεφαλής Νευροπαθητικός πόνος ΘΕΡΑΠΕΥΤΙΚΗ Μεσοθεραπεία Προλοθεραπεία Πλάσμα Πλούσιο σε Αιμοπετάλια Οζονοθεραπεία OZONAIM Νευρολογικά Αντανακλαστικά Ασκήσεις Διατροφή Η δική μας αντιφλεγμονώδης δίαιτα Ψηφιακός Πελματογράφος Ρεφλεξολογία ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ ΒΙΒΛΙΟΓΡΑΦΙΑ Τα νεα μας Η δική μας αντιφλεγμονώδης δίαιτα ΕΠΙΚΟΙΝΩΝΙΑ ΒΙΟΓΡΑΦΙΚΟ This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Cookie settingsACCEPTPrivacy & Cookies Policy Close Privacy Overview This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience. Necessary Always Enabled Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information. Non-necessary Non-necessary Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website. /* <![CDATA[ */ cli_cookiebar_settings='{\"animate_speed_hide\":\"500\",\"animate_speed_show\":\"500\",\"background\":\"#FFF\",\"border\":\"#b1a6a6c2\",\"border_on\":false,\"button_1_button_colour\":\"#000\",\"button_1_button_hover\":\"#000000\",\"button_1_link_colour\":\"#fff\",\"button_1_as_button\":true,\"button_1_new_win\":false,\"button_2_button_colour\":\"#333\",\"button_2_button_hover\":\"#292929\",\"button_2_link_colour\":\"#444\",\"button_2_as_button\":false,\"button_2_hidebar\":false,\"button_3_button_colour\":\"#000\",\"button_3_button_hover\":\"#000000\",\"button_3_link_colour\":\"#fff\",\"button_3_as_button\":true,\"button_3_new_win\":false,\"button_4_button_colour\":\"#000\",\"button_4_button_hover\":\"#000000\",\"button_4_link_colour\":\"#62a329\",\"button_4_as_button\":false,\"font_family\":\"inherit\",\"header_fix\":false,\"notify_animate_hide\":true,\"notify_animate_show\":false,\"notify_div_id\":\"#cookie-law-info-bar\",\"notify_position_horizontal\":\"right\",\"notify_position_vertical\":\"bottom\",\"scroll_close\":false,\"scroll_close_reload\":false,\"accept_close_reload\":false,\"reject_close_reload\":false,\"showagain_tab\":true,\"showagain_background\":\"#fff\",\"showagain_border\":\"#000\",\"showagain_div_id\":\"#cookie-law-info-again\",\"showagain_x_position\":\"100px\",\"text\":\"#000\",\"show_once_yn\":false,\"show_once\":\"10000\",\"logging_on\":false,\"as_popup\":false,\"popup_overlay\":true,\"bar_heading_text\":\"\",\"cookie_bar_as\":\"banner\",\"popup_showagain_position\":\"bottom-right\",\"widget_position\":\"left\"}'; /* ]]> */ /* <![CDATA[ */ var wpcf7 = {\"apiSettings\":{\"root\":\"https:\\/\\/www.ozonaim.gr\\/wp-json\\/contact-form-7\\/v1\",\"namespace\":\"contact-form-7\\/v1\"},\"cached\":\"1\"}; /* ]]> */ /* <![CDATA[ */ var flatsomeVars = {\"ajaxurl\":\"https:\\/\\/www.ozonaim.gr\\/wp-admin\\/admin-ajax.php\",\"rtl\":\"\",\"sticky_height\":\"70\",\"lightbox\":{\"close_markup\":\"<button title=\\\"%title%\\\" type=\\\"button\\\" class=\\\"mfp-close\\\"><svg xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\" width=\\\"28\\\" height=\\\"28\\\" viewBox=\\\"0 0 24 24\\\" fill=\\\"none\\\" stroke=\\\"currentColor\\\" stroke-width=\\\"2\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" class=\\\"feather feather-x\\\"><line x1=\\\"18\\\" y1=\\\"6\\\" x2=\\\"6\\\" y2=\\\"18\\\"><\\/line><line x1=\\\"6\\\" y1=\\\"6\\\" x2=\\\"18\\\" y2=\\\"18\\\"><\\/line><\\/svg><\\/button>\",\"close_btn_inside\":false},\"user\":{\"can_edit_pages\":false}}; /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ozonaim.gr-home-15896c35/contact-contact-us-41498cc9.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ozonaim.gr-home-15896c35/contact-contact-us-41498cc9.txt",
+      "imageReferences": [
+        {
+          "url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+          "alt": "Ozonaim",
+          "sourcePageUrl": "https://www.ozonaim.gr/contact-us",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ozonaim.gr/contact-us",
+              "retrievedAt": "2026-03-31T13:08:26.806Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://www.ozonaim.gr/contact-us",
+          "retrievedAt": "2026-03-31T13:08:26.807Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ozonaim.gr-home-15896c35/contact-contact-us-41498cc9.png"
+    },
+    "faq": {
+      "pageType": "faq",
+      "requestedUrl": "https://www.ozonaim.gr/faq",
+      "finalUrl": "https://www.ozonaim.gr/faq",
+      "fetchedAt": "2026-03-31T13:08:28.402Z",
+      "metadata": {
+        "title": "FAQ | Ozonaim",
+        "canonicalUrl": "https://www.ozonaim.gr/faq/",
+        "language": "el",
+        "robots": "max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+        "openGraphTitle": "FAQ | Ozonaim"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Συχνότερες Ερωτήσεις"
+        },
+        {
+          "level": "h3",
+          "text": "Πατήστε πάνω στην ερώτηση που σας ενδιαφέρει για να διαβάσετε την απάντηση"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.ozonaim.gr/",
+          "label": "<img width=\"145\" height=\"73\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png\" class=\"header_logo header-logo\" alt=\"Ozonaim\"/><img width=\"145\" height=\"73\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png\" class=\"header-logo-dark\" alt=\"Ozonaim\"/>"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/",
+          "label": "ΠΑΘΗΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%ce%b3%ce%ba%cf%85%ce%bb%cf%89%cf%84%ce%b9%ce%ba%ce%b7-%cf%83%cf%80%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1/",
+          "label": "Αγκυλωτική Σπονδυλαρθρίτιδα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%cf%85%cf%87%ce%b5%ce%bd%ce%b1%ce%bb%ce%b3%ce%b9%ce%b1/",
+          "label": "Αυχεναλγία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b3%ce%bf%ce%bd%ce%b1%cf%84%ce%bf/",
+          "label": "Γόνατο"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b9%cf%84%ce%b9%ce%b4%ce%b1/",
+          "label": "Επικονδυλίτιτδα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b9%ce%bb%ce%b9%ce%b3%ce%b3%ce%bf%cf%82/",
+          "label": "Ίλιγγος"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b9%ce%bd%ce%bf%ce%bc%cf%85%ce%b1%ce%bb%ce%b3%ce%b9%ce%b1/",
+          "label": "Ινομυαλγία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b9%cf%83%cf%87%cf%85%ce%bf/",
+          "label": "Ισχύο"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%ba%ce%b5%cf%86%ce%b1%ce%bb%ce%b1%ce%bb%ce%b3%ce%b9%ce%b1/",
+          "label": "Κεφαλαλγία – Αυχεναλγία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%84%ce%b5%ce%bf%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1/",
+          "label": "Οστεοαρθρίτιδα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%84%ce%b5%ce%bf%cf%80%ce%bf%cf%81%cf%89%cf%83%ce%b7/",
+          "label": "Οστεοπόρωση"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%86%cf%85%ce%b1%ce%bb%ce%b3%ce%af%ce%b1/",
+          "label": "Οσφυαλγία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%cf%83%ce%ba%ce%bf%ce%bb%ce%af%cf%89%cf%83%ce%b7/",
+          "label": "Σκολίωση"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%cf%83%cf%85%ce%bc%cf%86%ce%b7%cf%83%ce%b5%ce%b9%cf%82-%ce%bc%ce%b5%cf%84%ce%b1-%cf%84%ce%bf-%cf%87%ce%b5%ce%b9%cf%81%ce%bf%cf%85%cf%81%ce%b3%ce%b5%ce%b9%ce%bf/",
+          "label": "Συμφήσεις μετά το χειρουργείο"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%cf%8e%ce%bc%ce%bf%cf%82/",
+          "label": "Ώμος"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/barre-lieou-syndrome/",
+          "label": "BARRE-LIEOU SYNDROME"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%84%ce%b5%ce%bf%ce%bd%ce%ad%ce%ba%cf%81%cf%89%cf%83%ce%b7-%cf%84%ce%b7%cf%82-%ce%bc%ce%b7%cf%81%ce%b9%ce%b1%ce%af%ce%b1%cf%82-%ce%ba%ce%b5%cf%86%ce%b1%ce%bb%ce%ae%cf%82/",
+          "label": "Οστεονέκρωση της μηριαίας κεφαλής"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bd%ce%b5%cf%85%cf%81%ce%bf%cf%80%ce%b1%ce%b8%ce%b7%cf%84%ce%b9%ce%ba%cf%8c%cf%82-%cf%80%cf%8c%ce%bd%ce%bf%cf%82/",
+          "label": "Νευροπαθητικός πόνος"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/",
+          "label": "ΘΕΡΑΠΕΥΤΙΚΗ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%bc%ce%b5%cf%83%ce%bf%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%b9%ce%b1/",
+          "label": "Μεσοθεραπεία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%cf%80%cf%81%ce%bf%ce%bb%ce%bf%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%af%ce%b1/",
+          "label": "Προλοθεραπεία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%cf%80%ce%bb%ce%ac%cf%83%ce%bc%ce%b1-%cf%80%ce%bb%ce%bf%cf%8d%cf%83%ce%b9%ce%bf-%cf%83%ce%b5-%ce%b1%ce%b9%ce%bc%ce%bf%cf%80%ce%b5%cf%84%ce%ac%ce%bb%ce%b9%ce%b1/",
+          "label": "Πλάσμα Πλούσιο σε Αιμοπετάλια"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%bf%ce%b6%ce%bf%ce%bd%ce%bf%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%b9%ce%b1/",
+          "label": "Οζονοθεραπεία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/ozonaim/",
+          "label": "OZONAIM"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%bd%ce%b5%cf%85%cf%81%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%ba%ce%b1-%ce%b1%ce%bd%cf%84%ce%b1%ce%bd%ce%b1%ce%ba%ce%bb%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%b1/",
+          "label": "Νευρολογικά Αντανακλαστικά"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%b1%cf%83%ce%ba%ce%ae%cf%83%ce%b5%ce%b9%cf%82/",
+          "label": "Ασκήσεις"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%b4%ce%b9%ce%b1%ce%b9%cf%84%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%bf/",
+          "label": "Διατροφή"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%b7-%ce%b4%ce%b9%ce%ba%ce%ae-%ce%bc%ce%b1%cf%82-%ce%b1%ce%bd%cf%84%ce%b9%cf%86%ce%bb%ce%b5%ce%b3%ce%bc%ce%bf%ce%bd%cf%8e%ce%b4%ce%b7%cf%82-%ce%b4%ce%af%ce%b1%ce%b9%cf%84%ce%b1/",
+          "label": "Η δική μας αντιφλεγμονώδης δίαιτα"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%cf%88%ce%b7%cf%86%ce%b9%ce%b1%ce%ba%ce%bf%cf%82-%cf%80%ce%b5%ce%bb%ce%bc%ce%b1%cf%84%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%bf%cf%82/",
+          "label": "Ψηφιακός Πελματογράφος"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%cf%81%ce%b5%cf%86%ce%bb%ce%b5%ce%be%ce%bf%ce%bb%ce%bf%ce%b3%ce%af%ce%b1/",
+          "label": "Ρεφλεξολογία"
+        },
+        {
+          "href": "https://www.ozonaim.gr/faq/",
+          "label": "ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/%ce%b2%ce%b9%ce%b2%ce%bb%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%b1/",
+          "label": "ΒΙΒΛΙΟΓΡΑΦΙΑ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/blog/",
+          "label": "Τα νεα μας"
+        },
+        {
+          "href": "https://www.ozonaim.gr/contact-us",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://www.ozonaim.gr/cv-driliakis",
+          "label": "ΒΙΟΓΡΑΦΙΚΟ"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [],
+        "emails": [],
+        "addresses": [],
+        "socialLinks": [],
+        "forms": []
+      },
+      "footerText": "ΑΡΧΙΚΗ ΠΑΘΗΣΕΙΣ ΘΕΡΑΠΕΥΤΙΚΗ Ρεφλεξολογία ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ ΒΙΒΛΙΟΓΡΑΦΙΑ Τα νεα μας Η δική μας αντιφλεγμονώδης δίαιτα Copyright 2026 © Ozonaim Developed by Codnext Software",
+      "textContent": "Skip to content <img width=\"145\" height=\"73\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png\" class=\"header_logo header-logo\" alt=\"Ozonaim\"/><img width=\"145\" height=\"73\" src=\"https://www.ozonaim.gr/wp-content/uploads/2018/12/Ozonaim-logo.png\" class=\"header-logo-dark\" alt=\"Ozonaim\"/> ΑΡΧΙΚΗ ΠΑΘΗΣΕΙΣ Αγκυλωτική Σπονδυλαρθρίτιδα Αυχεναλγία Γόνατο Επικονδυλίτιτδα Ίλιγγος Ινομυαλγία Ισχύο Κεφαλαλγία – Αυχεναλγία Οστεοαρθρίτιδα Οστεοπόρωση Οσφυαλγία Σκολίωση Συμφήσεις μετά το χειρουργείο Ώμος BARRE-LIEOU SYNDROME Οστεονέκρωση της μηριαίας κεφαλής Νευροπαθητικός πόνος ΘΕΡΑΠΕΥΤΙΚΗ Μεσοθεραπεία Προλοθεραπεία Πλάσμα Πλούσιο σε Αιμοπετάλια Οζονοθεραπεία OZONAIM Νευρολογικά Αντανακλαστικά Ασκήσεις Διατροφή Η δική μας αντιφλεγμονώδης δίαιτα Ψηφιακός Πελματογράφος Ρεφλεξολογία ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ ΒΙΒΛΙΟΓΡΑΦΙΑ Τα νεα μας Η δική μας αντιφλεγμονώδης δίαιτα ΕΠΙΚΟΙΝΩΝΙΑ Συχνότερες Ερωτήσεις Πατήστε πάνω στην ερώτηση που σας ενδιαφέρει για να διαβάσετε την απάντηση ΕΙΔΙΚΟ ΔΙΑΙΤΟΛΟΓΙΟ ΑΣΘΕΝΟΥΣ ΜΕ ΟΡΘΟΠΑΙΔΙΚΗ ΠΑΘΗΣΗ. ΤΙ ΠΡΕΠΕΙ ΝΑ ΤΡΩΤΕ; ΤΙ ΠΡΕΠΕΙ ΝΑ ΤΡΩΤΕ 1. Όλα τα λαχανικά: αρακά, πατάτα, ντομάτα, φασόλια, κρεμμύδια, σκόρδο, κολοκυθάκια, μελιτζάνα, χόρτα, και άλλα (εκτός από αυτά που προκαλούν ενοχλήσεις). 2. Όλα τα φρούτα (εκτός από σταφύλια και σύκα). 3. Όλα τα όσπρια: φασόλια, φακές, φάβα, σόγια, ρεβιθιά, και άλλα. 4. Όλα τα κρέατα: ψάρια (κατά προτίμηση σαρδέλα, γαύρο και κολιό), κοτόπουλο, γαλοπούλα και αυγά. 5. Όλα τα δημητριακά: κουάκερ, νιφάδες από σόγια ή σίκαλη, σιτάρι, κριθάρι, καλαμπόκι, ρύζι φαγόπυρο (buckwheat), κεχρί (millnet), κίνοα (quinoa) και άλλα. 6. Ψωμί ή κράκερ: (scandinavian crisp bran) ολικής αλέσεως χωρίς μαγιά ή προζύμι, παξιμάδια χωρίς λάδι - κριθαρένια - καλαμποκιου - σιταριού - σίκαλης, παξιμάδια κρητικά, ρυζογκοφρέτες. 7. Ξηρούς καρπούς μόνο με τσόφλι: καρύδια, φουντούκια και αμύγδαλα (τα καθαρισμένα έχουν συχνά μούχλα). Όλοι οι ξηροί καρποί να είναι άψητοι. Όχι φιστίκια (αράπικα αιγίνης). 8. Νερό εμφιαλωμένο ή από φίλτρο. 9. Όλα τα προϊόντα να είναι φρέσκα. Τα κατεψυγμένα επιτρέπονται εφόσον δεν μπορούμε να έχουμε φρέσκα. 10. Γιαούρτι και βούτυρο. Ένα ποτήρι γάλα την ημέρα. Όχι υδρογονωμένα έλαια (φυτίνες, μαργαρίνες, βιτάμ και άλλα). 11. Λάδι ελιάς για μαγείρεμα και κυρίως να χρησιμοποιείειτε ωμό. Καλαμποκέλαιο και ηλιέλαιο μόνο ωμό. 12. Ροφήματα: πράσινο κινέζικο τσάι σε μικρές ποσότητες, τσάι του βουνού, χαμομήλι, φασκόμηλο, Λουΐζα, σαμπούκο και άλλα. Για γλυκαντικό: στέβια (stevia rebaundiana) ΤΙ ΔΕΝ ΠΡΕΠΕΙ ΝΑ ΤΡΩΤΕ 1. Ξύδι, τουρσί, καπνιστά, ελιές, τυρί, ντρεσινγκ σος, μαγιονέζα αλλαντικά. 2. Μαγιά, ψωμί, φρυγανιά, ζυμαρικά, πίτες, πίτσες, και άλλα. 3. Ζάχαρη και υποκατάστατα, μέλι γλυκά, καραμέλες, τσίχλες, σοκολάτα, παγωτό και ότι άλλο περιέχει ζάχαρη. 4. Τροφές με συντηρητικά, αναψυκτικά σόδες, κονσέρβες κουτιά ντομάτα, πελτέ, κύβο knorr, Amita και άλλα. 5. Καφέ και υποκατάστατα, τσάι, μπύρα, αλκοόλ, κρασί, και άλλα. 6. Ξερά φρούτα, σταφύλια σύκα. 7. Mανιτάρια. ΓΙΑΤΙ ΠΡΕΠΕΙ ΝΑ ΑΠΟΦΥΓΟΥΜΕ ΤΗΝ ΕΓΧΥΣΗ ΚΟΡΤΙΖΟΝΗΣ Ο γιατρός μου συνέστησε έγχυση κορτιζόνης και σκέφτομαι εάν πρέπει να πάω. Την προηγούμενη φορά με είχε βοηθήσει. Εσείς τι νομίζετε; Μία συχνή ερώτηση που έχει μόνο μια απάντηση. Τουλάχιστον από μένα. Όχι. Ευτυχώς οι υποστηρικτές αυτής της λύσης κορτιζόνη στους τένοντες όλο και μειώνονται. Γιατί; Α. Η κορτιζόνη εμποδίζει την αποκατάσταση της τραυματισμένης περιοχής Ο συνδετικός ιστός αποκαθίσταται με την διαδικασία της φλεγμονής, Χωρίς τα στοιχεία της φλεγμονής δεν υπάρχει θεραπεία. Η διόγκωση ( οίδημα ) της περιοχής από μια έως τρεις μέρες είναι ο χρόνος που απαιτείται ώστε το σώμα να αρχίσει να αποκαθιστά τη βλάβη. Εάν θέλετε να σταματήσετε την αυτοθεραπεία η την θεραπεία σταματήστε την φλεγμονή . Είναι αυτό ακριβώς που κάνει η κορτιζόνη. Η κορτιζόνη είναι τόσο ισχυρή που εάν αναμειχτεί με ένα αναπλαστικό παράγοντα είναι ικανή να αναστείλει και αυτού την δράση. Β. Η κορτιζόνη εμποδίζει την θεραπευτική δράση της Ozonaim Να θυμόμαστε το εφαλτήριο σημείο κάθε ίασης. Το σώμα θεραπεύεται με την φλεγμονή. Η διαδικασία της φλεγμονής περιλαμβάνει την φαγοκυττάρωση (κύτταρα του ανοσοποιητικού καθαρίζουν την περιοχή), την αγγειογέννεση (δημιουργία νεόπλαστων αγγείων) και την δημιουργία ινοβλαστών (δημιουργία νέου κολλαγόνου). Όλα αυτά εμποδίζονται από την κορτιζόνη. Η κορτιζόνη επίσης σταματά την μετανάστευση κυττάρων του ανοσοποιητικού εις την τραυματισμένη περιοχή. Αυτή η μετανάστευση και η διαδικασία αποκατάστασης είναι αυτή που προκαλεί τον πόνο. Η κορτιζόνη εμποδίζει αυτήν την διαδικασία γι αυτό και ο ασθενής αισθάνεται καλυτέρα, Ο ασθενής που κάνει κορτιζόνη θυσιάζει την ίαση για τον έλεγχο του πόνου του. Αυτή είναι λανθασμένη επιλογή επειδή τώρα έχει μια αποδυναμωμένη δομή που νομίζει ότι είναι καλά. Έτσι συνεχίζει τα σπορ και τις δραστηριότητες του μη συνειδητοποιώντας ότι επιταχύνει την εκφυλιστική διαδικασία. Γ. Η κορτιζόνη επιταχύνει την εκφυλιστική διαδικασία Η κορτιζόνη,εμποδίζοντας την φυσιολογική θεραπευτική φλεγμονώδη αντίδραση, επιταχύνει την εκφυλιστική διαδικασία στους τένοντες, συνδέσμους και αρθρώσεις εκεί όπου αυτή εγχέεται. Αυτό επίσης δίνει στον ασθενή λανθασμένη αίσθηση σιγουριάς ότι η προβληματική περιοχή θεραπεύτηκε το οποίο όμως δεν είναι αλήθεια. Ο συνδυασμός κορτιζόνης και οι ακολουθούμενες ασκήσεις αποτελούν μια επιπλέον επιβάρυνση για τον χόνδρο. Τελικά εάν σε αυτά προστεθεί και κάποιος αρθροσκοπικός καθαρισμός η ολική αντικατάσταση της άρθρωσης αποτελεί σχεδόν πάντα μονόδρομο. Δ. Οι εγχύσεις κορτιζόνης μας γηράσκουν πρόωρα Η ozonaim τεχνική αποκαθιστά την βλάβη με την φυσιολογική διαδικασία της φλεγμονής η της υπεροξυγόνωσης (ανάλογα την συγκέντρωση του ιατρικού όζοντος) και προκαλεί τον οργανισμό να διορθώσει μόνιμα την βλάβη όπως θα έπρεπε να είχε ήδη γίνει δίδοντας του νέα προοπτική και όνειρα. Η κορτιζόνη εμποδίζει την πλήρη θεραπευτική διαδικασία. Η καταστολή ενός τραυματισμού αποτελεί την καλύτερη συνταγή ώστε αργότερα στην ζωή του να πονέσει, να λάβει αντιφλεγμονώδη, να υποστεί ακινητοποίηση, χειρουργείο δηλαδή συνολικά να γεράσει πρόωρα. Να θυμάστε πάντα ότι η επιτυχία μιας θεραπείας εξαρτάται 1) Από την σωστή διάγνωση - γνώση και κατόπιν από την κατάλληλη τεχνική αντιμετώπισης του γιατρού σας. 2) Από την ισορροπημένη διατροφή. 3) Από την ορμονική σας κατάσταση 4) Από τον τρόπο ζωής σας. ΑΡΧΙΚΗ ΠΑΘΗΣΕΙΣ ΘΕΡΑΠΕΥΤΙΚΗ Ρεφλεξολογία ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ ΒΙΒΛΙΟΓΡΑΦΙΑ Τα νεα μας Η δική μας αντιφλεγμονώδης δίαιτα Copyright 2026 © Ozonaim Developed by Codnext Software ΑΡΧΙΚΗ ΠΑΘΗΣΕΙΣ Αγκυλωτική Σπονδυλαρθρίτιδα Αυχεναλγία Γόνατο Επικονδυλίτιτδα Ίλιγγος Ινομυαλγία Ισχύο Κεφαλαλγία – Αυχεναλγία Οστεοαρθρίτιδα Οστεοπόρωση Οσφυαλγία Σκολίωση Συμφήσεις μετά το χειρουργείο Ώμος BARRE-LIEOU SYNDROME Οστεονέκρωση της μηριαίας κεφαλής Νευροπαθητικός πόνος ΘΕΡΑΠΕΥΤΙΚΗ Μεσοθεραπεία Προλοθεραπεία Πλάσμα Πλούσιο σε Αιμοπετάλια Οζονοθεραπεία OZONAIM Νευρολογικά Αντανακλαστικά Ασκήσεις Διατροφή Η δική μας αντιφλεγμονώδης δίαιτα Ψηφιακός Πελματογράφος Ρεφλεξολογία ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ ΒΙΒΛΙΟΓΡΑΦΙΑ Τα νεα μας Η δική μας αντιφλεγμονώδης δίαιτα ΕΠΙΚΟΙΝΩΝΙΑ ΒΙΟΓΡΑΦΙΚΟ This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Cookie settingsACCEPTPrivacy & Cookies Policy Close Privacy Overview This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience. Necessary Always Enabled Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information. Non-necessary Non-necessary Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website. /* <![CDATA[ */ cli_cookiebar_settings='{\"animate_speed_hide\":\"500\",\"animate_speed_show\":\"500\",\"background\":\"#FFF\",\"border\":\"#b1a6a6c2\",\"border_on\":false,\"button_1_button_colour\":\"#000\",\"button_1_button_hover\":\"#000000\",\"button_1_link_colour\":\"#fff\",\"button_1_as_button\":true,\"button_1_new_win\":false,\"button_2_button_colour\":\"#333\",\"button_2_button_hover\":\"#292929\",\"button_2_link_colour\":\"#444\",\"button_2_as_button\":false,\"button_2_hidebar\":false,\"button_3_button_colour\":\"#000\",\"button_3_button_hover\":\"#000000\",\"button_3_link_colour\":\"#fff\",\"button_3_as_button\":true,\"button_3_new_win\":false,\"button_4_button_colour\":\"#000\",\"button_4_button_hover\":\"#000000\",\"button_4_link_colour\":\"#62a329\",\"button_4_as_button\":false,\"font_family\":\"inherit\",\"header_fix\":false,\"notify_animate_hide\":true,\"notify_animate_show\":false,\"notify_div_id\":\"#cookie-law-info-bar\",\"notify_position_horizontal\":\"right\",\"notify_position_vertical\":\"bottom\",\"scroll_close\":false,\"scroll_close_reload\":false,\"accept_close_reload\":false,\"reject_close_reload\":false,\"showagain_tab\":true,\"showagain_background\":\"#fff\",\"showagain_border\":\"#000\",\"showagain_div_id\":\"#cookie-law-info-again\",\"showagain_x_position\":\"100px\",\"text\":\"#000\",\"show_once_yn\":false,\"show_once\":\"10000\",\"logging_on\":false,\"as_popup\":false,\"popup_overlay\":true,\"bar_heading_text\":\"\",\"cookie_bar_as\":\"banner\",\"popup_showagain_position\":\"bottom-right\",\"widget_position\":\"left\"}'; /* ]]> */ /* <![CDATA[ */ var wpcf7 = {\"apiSettings\":{\"root\":\"https:\\/\\/www.ozonaim.gr\\/wp-json\\/contact-form-7\\/v1\",\"namespace\":\"contact-form-7\\/v1\"},\"cached\":\"1\"}; /* ]]> */ /* <![CDATA[ */ var flatsomeVars = {\"ajaxurl\":\"https:\\/\\/www.ozonaim.gr\\/wp-admin\\/admin-ajax.php\",\"rtl\":\"\",\"sticky_height\":\"70\",\"lightbox\":{\"close_markup\":\"<button title=\\\"%title%\\\" type=\\\"button\\\" class=\\\"mfp-close\\\"><svg xmlns=\\\"http:\\/\\/www.w3.org\\/2000\\/svg\\\" width=\\\"28\\\" height=\\\"28\\\" viewBox=\\\"0 0 24 24\\\" fill=\\\"none\\\" stroke=\\\"currentColor\\\" stroke-width=\\\"2\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" class=\\\"feather feather-x\\\"><line x1=\\\"18\\\" y1=\\\"6\\\" x2=\\\"6\\\" y2=\\\"18\\\"><\\/line><line x1=\\\"6\\\" y1=\\\"6\\\" x2=\\\"18\\\" y2=\\\"18\\\"><\\/line><\\/svg><\\/button>\",\"close_btn_inside\":false},\"user\":{\"can_edit_pages\":false}}; /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ozonaim.gr-home-15896c35/faq-faq-8299da50.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ozonaim.gr-home-15896c35/faq-faq-8299da50.txt",
+      "imageReferences": [
+        {
+          "url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+          "alt": "Ozonaim",
+          "sourcePageUrl": "https://www.ozonaim.gr/faq",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ozonaim.gr/faq",
+              "retrievedAt": "2026-03-31T13:08:28.400Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "faq page fetch",
+          "uri": "https://www.ozonaim.gr/faq",
+          "retrievedAt": "2026-03-31T13:08:28.402Z"
+        }
+      ],
+      "statusCode": 200
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "1084357492",
+      "1037483211",
+      "210 7228 340",
+      "372452761",
+      "1382009647",
+      "574704460",
+      "826691308",
+      "2035552084",
+      "202793206",
+      "1222683979",
+      "37.972855",
+      "23.7477859",
+      "159166582",
+      "2107228340",
+      "2791/11-8-97",
+      "6/11/1997",
+      "2015-2020",
+      "2016-2017",
+      "2017-2018",
+      "2018-2019",
+      "1990-1992",
+      "27-3-1991",
+      "1541526145",
+      "1553850117",
+      "1179422628",
+      "772528141",
+      "121545013",
+      "184147476",
+      "988176927",
+      "2138495899",
+      "1212093486",
+      "1029802093",
+      "1631491938"
+    ],
+    "emails": [
+      "driliakis@hotmail.com"
+    ],
+    "addresses": [],
+    "socialLinks": [],
+    "forms": [
+      {
+        "action": "https://www.ozonaim.gr/contact-us/#wpcf7-f7-p326-o1",
+        "method": "post",
+        "purposeHint": "contact",
+        "fieldNames": [
+          "_wpcf7",
+          "_wpcf7_version",
+          "_wpcf7_locale",
+          "_wpcf7_unit_tag",
+          "_wpcf7_container_post",
+          "your-name",
+          "your-phone",
+          "your-email",
+          "your-message",
+          "phone2-944",
+          "quiz-454",
+          "_wpcf7_quiz_answer_quiz-454",
+          "submit"
+        ],
+        "submitLabels": [
+          "ΑΠΟΣΤΟΛΗ"
+        ],
+        "fields": [
+          {
+            "name": "_wpcf7",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_version",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_locale",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_unit_tag",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_container_post",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "your-name",
+            "type": "text",
+            "label": "Όνομα*",
+            "required": true
+          },
+          {
+            "name": "your-phone",
+            "type": "text",
+            "label": "Τηλέφωνο*",
+            "required": true
+          },
+          {
+            "name": "your-email",
+            "type": "email",
+            "label": "Email",
+            "required": false
+          },
+          {
+            "name": "your-message",
+            "type": "textarea",
+            "label": "Γράψτε το μήνυμά σας*",
+            "required": false
+          },
+          {
+            "name": "phone2-944",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "quiz-454",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "_wpcf7_quiz_answer_quiz-454",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "type": "submit",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Ορθοπεδικός Χειρούργος - Δρ. Ηλιάκης Εμμανουήλ | ozonaim.gr",
+    "metaDescription": "Ozonaim - Ορθοπεδικός Χειρούργος Δρ. Ηλιάκης Εμμανουήλ. Για αυτούς που ΔΕΝ ΘΕΛΟΥΝ ή ΔΕΝ ΜΠΟΡΟΥΝ να χειρουργηθούν.",
+    "canonicalUrl": "https://www.ozonaim.gr/",
+    "language": "el",
+    "robots": "max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+    "openGraphTitle": "Ορθοπεδικός Χειρούργος - Δρ. Ηλιάκης Εμμανουήλ | ozonaim.gr",
+    "openGraphDescription": "Ozonaim - Ορθοπεδικός Χειρούργος Δρ. Ηλιάκης Εμμανουήλ. Για αυτούς που ΔΕΝ ΘΕΛΟΥΝ ή ΔΕΝ ΜΠΟΡΟΥΝ να χειρουργηθούν."
+  },
+  "imageReferences": [
+    {
+      "url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "alt": "Ozonaim",
+      "sourcePageUrl": "https://www.ozonaim.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ozonaim.gr/",
+          "retrievedAt": "2026-03-31T13:08:24.972Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ozonaim.gr/wp-content/uploads/2016/08/dummy-1.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.ozonaim.gr/cv-driliakis",
+      "pageType": "about",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.ozonaim.gr/cv-driliakis",
+          "retrievedAt": "2026-03-31T13:08:29.744Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "1084357492",
+      "sourcePageUrl": "https://www.ozonaim.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ozonaim.gr/",
+          "retrievedAt": "2026-03-31T13:08:24.972Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1037483211",
+      "sourcePageUrl": "https://www.ozonaim.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ozonaim.gr/",
+          "retrievedAt": "2026-03-31T13:08:24.972Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 7228 340",
+      "sourcePageUrl": "https://www.ozonaim.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ozonaim.gr/",
+          "retrievedAt": "2026-03-31T13:08:24.972Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "372452761",
+      "sourcePageUrl": "https://www.ozonaim.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ozonaim.gr/",
+          "retrievedAt": "2026-03-31T13:08:24.972Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1382009647",
+      "sourcePageUrl": "https://www.ozonaim.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ozonaim.gr/",
+          "retrievedAt": "2026-03-31T13:08:24.972Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "574704460",
+      "sourcePageUrl": "https://www.ozonaim.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ozonaim.gr/",
+          "retrievedAt": "2026-03-31T13:08:24.972Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "826691308",
+      "sourcePageUrl": "https://www.ozonaim.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ozonaim.gr/",
+          "retrievedAt": "2026-03-31T13:08:24.972Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2035552084",
+      "sourcePageUrl": "https://www.ozonaim.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ozonaim.gr/",
+          "retrievedAt": "2026-03-31T13:08:24.972Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "202793206",
+      "sourcePageUrl": "https://www.ozonaim.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ozonaim.gr/",
+          "retrievedAt": "2026-03-31T13:08:24.972Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1222683979",
+      "sourcePageUrl": "https://www.ozonaim.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ozonaim.gr/",
+          "retrievedAt": "2026-03-31T13:08:24.972Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "driliakis@hotmail.com",
+      "sourcePageUrl": "https://www.ozonaim.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ozonaim.gr/",
+          "retrievedAt": "2026-03-31T13:08:24.972Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "37.972855",
+      "sourcePageUrl": "https://www.ozonaim.gr/contact-us",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/contact-us",
+          "retrievedAt": "2026-03-31T13:08:26.805Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "23.7477859",
+      "sourcePageUrl": "https://www.ozonaim.gr/contact-us",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/contact-us",
+          "retrievedAt": "2026-03-31T13:08:26.805Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "159166582",
+      "sourcePageUrl": "https://www.ozonaim.gr/contact-us",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/contact-us",
+          "retrievedAt": "2026-03-31T13:08:26.805Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2107228340",
+      "sourcePageUrl": "https://www.ozonaim.gr/contact-us",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/contact-us",
+          "retrievedAt": "2026-03-31T13:08:26.805Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.ozonaim.gr/contact-us",
+      "sourcePageUrl": "https://www.ozonaim.gr/contact-us",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/contact-us",
+          "retrievedAt": "2026-03-31T13:08:26.805Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.ozonaim.gr/contact-us",
+      "sourcePageUrl": "https://www.ozonaim.gr/contact-us",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/contact-us",
+          "retrievedAt": "2026-03-31T13:08:26.805Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2791/11-8-97",
+      "sourcePageUrl": "https://www.ozonaim.gr/cv-driliakis",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ozonaim.gr/cv-driliakis",
+          "retrievedAt": "2026-03-31T13:08:29.743Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "6/11/1997",
+      "sourcePageUrl": "https://www.ozonaim.gr/cv-driliakis",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ozonaim.gr/cv-driliakis",
+          "retrievedAt": "2026-03-31T13:08:29.743Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2015-2020",
+      "sourcePageUrl": "https://www.ozonaim.gr/cv-driliakis",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ozonaim.gr/cv-driliakis",
+          "retrievedAt": "2026-03-31T13:08:29.743Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2016-2017",
+      "sourcePageUrl": "https://www.ozonaim.gr/cv-driliakis",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ozonaim.gr/cv-driliakis",
+          "retrievedAt": "2026-03-31T13:08:29.743Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2017-2018",
+      "sourcePageUrl": "https://www.ozonaim.gr/cv-driliakis",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ozonaim.gr/cv-driliakis",
+          "retrievedAt": "2026-03-31T13:08:29.743Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2018-2019",
+      "sourcePageUrl": "https://www.ozonaim.gr/cv-driliakis",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ozonaim.gr/cv-driliakis",
+          "retrievedAt": "2026-03-31T13:08:29.743Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1990-1992",
+      "sourcePageUrl": "https://www.ozonaim.gr/cv-driliakis",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ozonaim.gr/cv-driliakis",
+          "retrievedAt": "2026-03-31T13:08:29.743Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "27-3-1991",
+      "sourcePageUrl": "https://www.ozonaim.gr/cv-driliakis",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ozonaim.gr/cv-driliakis",
+          "retrievedAt": "2026-03-31T13:08:29.743Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1541526145",
+      "sourcePageUrl": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+          "retrievedAt": "2026-03-31T13:08:31.219Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1553850117",
+      "sourcePageUrl": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+          "retrievedAt": "2026-03-31T13:08:31.219Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1179422628",
+      "sourcePageUrl": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+          "retrievedAt": "2026-03-31T13:08:31.219Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "772528141",
+      "sourcePageUrl": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+          "retrievedAt": "2026-03-31T13:08:31.219Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "121545013",
+      "sourcePageUrl": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+          "retrievedAt": "2026-03-31T13:08:31.219Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "184147476",
+      "sourcePageUrl": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+          "retrievedAt": "2026-03-31T13:08:31.219Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "988176927",
+      "sourcePageUrl": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+          "retrievedAt": "2026-03-31T13:08:31.219Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2138495899",
+      "sourcePageUrl": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+          "retrievedAt": "2026-03-31T13:08:31.219Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1212093486",
+      "sourcePageUrl": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+          "retrievedAt": "2026-03-31T13:08:31.219Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1029802093",
+      "sourcePageUrl": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+          "retrievedAt": "2026-03-31T13:08:31.219Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+      "sourcePageUrl": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+          "retrievedAt": "2026-03-31T13:08:31.219Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1631491938",
+      "sourcePageUrl": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%ce%b3%ce%ba%cf%85%ce%bb%cf%89%cf%84%ce%b9%ce%ba%ce%b7-%cf%83%cf%80%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%ce%b3%ce%ba%cf%85%ce%bb%cf%89%cf%84%ce%b9%ce%ba%ce%b7-%cf%83%cf%80%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1",
+          "retrievedAt": "2026-03-31T13:08:32.835Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%ce%b3%ce%ba%cf%85%ce%bb%cf%89%cf%84%ce%b9%ce%ba%ce%b7-%cf%83%cf%80%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1",
+      "sourcePageUrl": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%ce%b3%ce%ba%cf%85%ce%bb%cf%89%cf%84%ce%b9%ce%ba%ce%b7-%cf%83%cf%80%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%ce%b3%ce%ba%cf%85%ce%bb%cf%89%cf%84%ce%b9%ce%ba%ce%b7-%cf%83%cf%80%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1",
+          "retrievedAt": "2026-03-31T13:08:32.835Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://www.ozonaim.gr/",
+    "finalOrigin": "https://www.ozonaim.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://www.ozonaim.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:08:24.246Z",
+      "status": "present",
+      "allowRules": [],
+      "disallowRules": [],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://www.ozonaim.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:08:21.444Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://www.ozonaim.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.974Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/contact-us",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/faq",
+        "action": "queued",
+        "pageTypeHint": "faq",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/cv-driliakis",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%ce%b3%ce%ba%cf%85%ce%bb%cf%89%cf%84%ce%b9%ce%ba%ce%b7-%cf%83%cf%80%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%cf%85%cf%87%ce%b5%ce%bd%ce%b1%ce%bb%ce%b3%ce%b9%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b3%ce%bf%ce%bd%ce%b1%cf%84%ce%bf",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b9%cf%84%ce%b9%ce%b4%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b9%ce%bb%ce%b9%ce%b3%ce%b3%ce%bf%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b9%ce%bd%ce%bf%ce%bc%cf%85%ce%b1%ce%bb%ce%b3%ce%b9%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b9%cf%83%cf%87%cf%85%ce%bf",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%ba%ce%b5%cf%86%ce%b1%ce%bb%ce%b1%ce%bb%ce%b3%ce%b9%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%84%ce%b5%ce%bf%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%84%ce%b5%ce%bf%cf%80%ce%bf%cf%81%cf%89%cf%83%ce%b7",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%86%cf%85%ce%b1%ce%bb%ce%b3%ce%af%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%cf%83%ce%ba%ce%bf%ce%bb%ce%af%cf%89%cf%83%ce%b7",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%cf%83%cf%85%ce%bc%cf%86%ce%b7%cf%83%ce%b5%ce%b9%cf%82-%ce%bc%ce%b5%cf%84%ce%b1-%cf%84%ce%bf-%cf%87%ce%b5%ce%b9%cf%81%ce%bf%cf%85%cf%81%ce%b3%ce%b5%ce%b9%ce%bf",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%cf%8e%ce%bc%ce%bf%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:24.975Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/contact-us",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:26.807Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/barre-lieou-syndrome",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/contact-us",
+        "timestamp": "2026-03-31T13:08:26.808Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/faq",
+        "action": "fetched",
+        "pageTypeHint": "faq",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:28.402Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%cf%83%cf%84%ce%b5%ce%bf%ce%bd%ce%ad%ce%ba%cf%81%cf%89%cf%83%ce%b7-%cf%84%ce%b7%cf%82-%ce%bc%ce%b7%cf%81%ce%b9%ce%b1%ce%af%ce%b1%cf%82-%ce%ba%ce%b5%cf%86%ce%b1%ce%bb%ce%ae%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/faq",
+        "timestamp": "2026-03-31T13:08:28.402Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/cv-driliakis",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:29.745Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%bd%ce%b5%cf%85%cf%81%ce%bf%cf%80%ce%b1%ce%b8%ce%b7%cf%84%ce%b9%ce%ba%cf%8c%cf%82-%cf%80%cf%8c%ce%bd%ce%bf%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/cv-driliakis",
+        "timestamp": "2026-03-31T13:08:29.745Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:31.222Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+        "timestamp": "2026-03-31T13:08:31.222Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%ce%b3%ce%ba%cf%85%ce%bb%cf%89%cf%84%ce%b9%ce%ba%ce%b7-%cf%83%cf%80%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ozonaim.gr/",
+        "timestamp": "2026-03-31T13:08:32.836Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%b7/%ce%bc%ce%b5%cf%83%ce%bf%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%b9%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%ce%b3%ce%ba%cf%85%ce%bb%cf%89%cf%84%ce%b9%ce%ba%ce%b7-%cf%83%cf%80%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1",
+        "timestamp": "2026-03-31T13:08:32.837Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:08:34.915Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/contact-us",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:08:37.390Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:08:39.399Z"
+      },
+      {
+        "url": "https://www.ozonaim.gr/%cf%80%ce%b1%ce%b8%ce%b7%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%ce%b3%ce%ba%cf%85%ce%bb%cf%89%cf%84%ce%b9%ce%ba%ce%b7-%cf%83%cf%80%ce%bf%ce%bd%ce%b4%cf%85%ce%bb%ce%b1%cf%81%ce%b8%cf%81%ce%b9%cf%84%ce%b9%ce%b4%ce%b1",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:08:41.323Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

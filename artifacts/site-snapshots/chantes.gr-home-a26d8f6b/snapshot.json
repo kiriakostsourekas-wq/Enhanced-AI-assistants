@@ -1,0 +1,3292 @@
+{
+  "domain": "chantes.gr",
+  "collectedAt": "2026-03-31T13:17:05.055Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/chantes.gr-home-a26d8f6b",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://www.chantes.gr/",
+      "finalUrl": "https://www.chantes.gr/",
+      "fetchedAt": "2026-03-31T13:16:55.233Z",
+      "metadata": {
+        "title": "Πλαστική Χειρουργική Θεσσαλονίκη - Αχιλλέας Χαντές Πλαστικός Χειρουργός",
+        "metaDescription": "Πλαστικός Χειρουργός στη Θεσσαλονίκη Αχιλλέας Χαντές. Πλαστική Χειρουργική Σώματος, Στήθους, Προσώπου & μη Επεμβατικές Θεραπείες.",
+        "canonicalUrl": "https://www.chantes.gr/",
+        "language": "el-gr",
+        "openGraphTitle": "Πλαστική Χειρουργική Θεσσαλονίκη - Αχιλλέας Χαντές Πλαστικός Χειρουργός",
+        "openGraphDescription": "Πλαστικός Χειρουργός στη Θεσσαλονίκη Αχιλλέας Χαντές. Πλαστική Χειρουργική Σώματος, Στήθους, Προσώπου & μη Επεμβατικές Θεραπείες."
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Πλαστική Χειρουργική - Αχιλλέας Χαντές"
+        },
+        {
+          "level": "h2",
+          "text": "Αισθητική πλαστική χειρουργική"
+        },
+        {
+          "level": "h2",
+          "text": "Ο νέος ανανεωμένος χώρος μας"
+        },
+        {
+          "level": "h3",
+          "text": "Ανόρθωση Γλουτών"
+        },
+        {
+          "level": "h3",
+          "text": "Πλαστική Σώματος"
+        },
+        {
+          "level": "h3",
+          "text": "Πλαστική Στήθους"
+        },
+        {
+          "level": "h3",
+          "text": "Πλαστική Προσώπου"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.chantes.gr/"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo/rinoplastiki",
+          "label": "Επεμβάσεις"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo",
+          "label": "Πρόσωπο"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo/metopiaio-liftingk",
+          "label": "Μετωπιαίο Λίφτινγκ"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo/mini-liftingk-prosopou",
+          "label": "Mini Λίφτινγκ Προσώπου"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo/pogonoplastiki",
+          "label": "Πωγωνοπλαστική"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo/metamosxefsi-lipous",
+          "label": "Μεταμόσχευση Λίπους"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo/otoplastiki",
+          "label": "Ωτοπλαστική"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo/vlefaroplastiki",
+          "label": "Βλεφαροπλαστική"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos",
+          "label": "Στήθος"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/afksitiki-stithous",
+          "label": "Αυξητική Στήθους"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/apokatastasi-mastoy-mastektomi",
+          "label": "Αποκατάσταση Μαστού-Μαστεκτομή"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/anorthosi-stithous",
+          "label": "Ανόρθωση Στήθους"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/syndromo-poland",
+          "label": "Σύνδρομο Poland"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/meiotiki-stithous",
+          "label": "Μειωτική Στήθους"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/anomalies-thilis",
+          "label": "Ανωμαλίες θηλής"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/gynaikomastia",
+          "label": "Γυναικομαστία"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/solinotoi-mastoi",
+          "label": "Σωληνωτοί Μαστοί"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/anisomastia",
+          "label": "Ανισομαστία"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma",
+          "label": "Σώμα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/koilioplastiki",
+          "label": "Κοιλιοπλαστική"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/apoleia-varous-apokatastasi",
+          "label": "Απώλεια Βάρους-Αποκατάσταση"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/mini-koilioplastiki",
+          "label": "Μίνι Κοιλιοπλαστική"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/plastiki-aidoiou",
+          "label": "Πλαστική Αιδοίου"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/lipoanarrofisi-lipoglyptiki",
+          "label": "Λιποαναρρόφηση-Λιπογλυπτική"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/vraxionoplastiki",
+          "label": "Βραχιονοπλαστική"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/anorthosi-liftingk-glouton",
+          "label": "Ανόρθωση (Λίφτινγκ) Γλουτών"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/anorthosi-liftingk-miron",
+          "label": "Ανόρθωση (Λίφτινγκ) Μηρών"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/emslim",
+          "label": "EmSlim"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma",
+          "label": "Δέρμα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/laser-peeling-fraxel",
+          "label": "Laser Peeling-Fraxel"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/therapeia-kyttaritidas",
+          "label": "Θεραπεία Κυτταρίτιδας"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/oules-akmis",
+          "label": "Ουλές Ακμής"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/ygro-liftingk",
+          "label": "Υγρό Λίφτινγκ"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/yalouroniko-oksy-ia",
+          "label": "Fillers"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/ragades",
+          "label": "Ραγάδες"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/ypertrofikes-oules-xiloeidi",
+          "label": "Υπερτροφικές Ουλές - Χηλοειδή"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/yperidrosia-masxalon-pelmaton",
+          "label": "Υπεριδρωσία Μασχαλών-Πελμάτων"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/votouliniki-toksini",
+          "label": "Βοτουλινική τοξίνη"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+          "label": "Σύσφιγξη δέρματος με Ραδιοσυχνότητες RF"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/laser-mikrodermoapoksesi",
+          "label": "Laser-Μικροδερμοαπόξεση"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/ximika-peeling",
+          "label": "Χημικά Peeling"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/mesotherapeia",
+          "label": "Μεσοθεραπεία"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/diegersi-kollagonou-microneedling",
+          "label": "Διέγερση Κολλαγόνου – Microneedling"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/polygalaktik-sculptra",
+          "label": "Πολυγαλακτικό - Sculptra"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/laser-apotrixosi",
+          "label": "Laser Αποτρίχωση"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/afairesi-ogkidion-spiloi-elies-ktl",
+          "label": "Αφαίρεση Ογκιδίων (σπίλοι-«ελιές» κτλ.)"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/vlastokyttara",
+          "label": "Βλαστοκύτταρα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/afairesi-tatouaz-pico-laser",
+          "label": "Αφαίρεση Τατουάζ - PICO laser"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki",
+          "label": "Επανορθωτική Χειρουργική"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/nosos-dupuytren",
+          "label": "Νόσος Dupuytren"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/lipomata",
+          "label": "Λιπώματα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/thlastika-traymata",
+          "label": "Θλαστικά Τραύματα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/syndromo-karpiaiou-solina",
+          "label": "Σύνδρομο Καρπιαίου Σωλήνα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/kakoitheis-ogkoi-dermatos-melanoma",
+          "label": "Κακοήθεις Όγκοι Δέρματος-Μελάνωμα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/katakliseis-xronia-elki",
+          "label": "Κατακλίσεις-Χρόνια Έλκη"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/ektinassomenos-daktylos-trigger-finger",
+          "label": "Εκτινασσόμενος Δάκτυλος-Trigger Finger"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/kaloitheis-ogkoi-dermatos",
+          "label": "Καλοήθεις Όγκοι Δέρματος"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/kysti-kokkyga",
+          "label": "Κύστη Κόκκυγα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/stenotiki-tenontoelytritida-de-quervain",
+          "label": "Στενωτική Τενοντοελυτρίτιδα De Quervain"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/eisfrysi-onyxa",
+          "label": "Είσφρυση Όνυχα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/kakoseis-tenonton",
+          "label": "Κακώσεις Τενόντων"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/egkavma-metegkavmatikes-oules",
+          "label": "Έγκαυμα-Μετεγκαυματικές Ουλές"
+        },
+        {
+          "href": "https://www.chantes.gr/sxetika-me-emas/viografiko",
+          "label": "Σχετικά με εμάς"
+        },
+        {
+          "href": "https://www.chantes.gr/sxetika-me-emas/dimosieyseis",
+          "label": "Δημοσιεύσεις"
+        },
+        {
+          "href": "https://www.chantes.gr/sxetika-me-emas/mme",
+          "label": "ΜΜΕ"
+        },
+        {
+          "href": "https://www.chantes.gr/faqs",
+          "label": "FAQs"
+        },
+        {
+          "href": "https://www.chantes.gr/online/online-diagnosi-prosopou",
+          "label": "Online Διάγνωση"
+        },
+        {
+          "href": "https://www.chantes.gr/online/online-diagnosi-stithous",
+          "label": "Online Διάγνωση στήθους"
+        },
+        {
+          "href": "https://www.chantes.gr/online/online-diagnosi-somatos",
+          "label": "Online Διάγνωση σώματος"
+        },
+        {
+          "href": "https://www.chantes.gr/epikoinonia",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.chantes.gr/en/"
+        },
+        {
+          "href": "https://www.chantes.gr/hexabit/img/espa.pdf"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "1137763946338856",
+          "2114.186.348",
+          "2310.250.715",
+          "+357.253.14080",
+          "23310.23.330",
+          "23814.00.401",
+          "2411.810.030",
+          "23844.010.20",
+          "2310 250 715",
+          "2310250715"
+        ],
+        "emails": [
+          "info@chantes.gr",
+          "info@plastic-doctor.gr"
+        ],
+        "addresses": [
+          "ΑθήναΛ. Βασιλίσσης Σοφίας 57, 11521T: 2114.186.348ΘεσσαλονίκηΑγίας Σοφίας 16, 3ος όροφοςT: 2310.250.715ΛεμεσόςComing soonT: +357.253.14080ΒέροιαΕλιάς 7, 59132T: 23310.23.330ΈδεσσαΔημοκρατίας 5, 58200T: 23814.00.401ΛάρισαComing soonT: 2411.810.030ΑριδαίαT: 23844.010.20Στείλτε μας Emailinfo@chantes.grΚαλέστε μας2310 250 715Βρείτε μας στο skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagram Κατασκευή ιστοσελίδων Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/%CE%A0%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CF%8C%CF%82-%CE%A7%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CF%8C%CF%82-%CE%91%CF%87%CE%B9%CE%BB%CE%BB%CE%AD%CE%B1%CF%82-%CE%A7%CE%B1%CE%BD%CF%84%CE%AD%CF%82-565417580149926/",
+            "label": "facebook"
+          },
+          {
+            "href": "https://www.instagram.com/dr.chantes.plasticsurgeon",
+            "label": "instagram"
+          },
+          {
+            "href": "https://twitter.com/PlasticDoctorGr",
+            "label": "twitter"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "ΑθήναΛ. Βασιλίσσης Σοφίας 57, 11521T: 2114.186.348ΘεσσαλονίκηΑγίας Σοφίας 16, 3ος όροφοςT: 2310.250.715ΛεμεσόςComing soonT: +357.253.14080ΒέροιαΕλιάς 7, 59132T: 23310.23.330ΈδεσσαΔημοκρατίας 5, 58200T: 23814.00.401ΛάρισαComing soonT: 2411.810.030ΑριδαίαT: 23844.010.20Στείλτε μας Emailinfo@chantes.grΚαλέστε μας2310 250 715Βρείτε μας στο skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagram Κατασκευή ιστοσελίδων Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed",
+      "textContent": "<img height=\"1\" width=\"1\" alt=\"facebook\" style=\"display:none\" src=\"https://www.facebook.com/tr?id=1137763946338856&ev=PageView&noscript=1\">πλαστικός χειρουργός ΘεσσαλονίκηΑχιλλέας ΧαντέςΕπεμβάσειςΠρόσωποΡινοπλαστικήΜετωπιαίο ΛίφτινγκMini Λίφτινγκ ΠροσώπουΠωγωνοπλαστικήΜεταμόσχευση ΛίπουςΩτοπλαστικήΒλεφαροπλαστικήΣτήθοςΑυξητική ΣτήθουςΑποκατάσταση Μαστού-ΜαστεκτομήΑνόρθωση ΣτήθουςΣύνδρομο PolandΜειωτική ΣτήθουςΑνωμαλίες θηλήςΓυναικομαστίαΣωληνωτοί ΜαστοίΑνισομαστίαΣώμαΚοιλιοπλαστικήΑπώλεια Βάρους-ΑποκατάστασηΜίνι ΚοιλιοπλαστικήΠλαστική ΑιδοίουΛιποαναρρόφηση-ΛιπογλυπτικήΒραχιονοπλαστικήΑνόρθωση (Λίφτινγκ) ΓλουτώνΑνόρθωση (Λίφτινγκ) ΜηρώνEmSlimΔέρμαLaser Peeling-FraxelΘεραπεία ΚυτταρίτιδαςΟυλές ΑκμήςΥγρό ΛίφτινγκFillersΡαγάδεςΥπερτροφικές Ουλές - ΧηλοειδήΥπεριδρωσία Μασχαλών-ΠελμάτωνΒοτουλινική τοξίνηΣύσφιγξη δέρματος με Ραδιοσυχνότητες RFLaser-ΜικροδερμοαπόξεσηΧημικά PeelingΜεσοθεραπείαΔιέγερση Κολλαγόνου – MicroneedlingΠολυγαλακτικό - SculptraLaser ΑποτρίχωσηΑφαίρεση Ογκιδίων (σπίλοι-«ελιές» κτλ.)ΒλαστοκύτταραΑφαίρεση Τατουάζ - PICO laserΕπανορθωτική ΧειρουργικήΝόσος DupuytrenΛιπώματαΘλαστικά ΤραύματαΣύνδρομο Καρπιαίου ΣωλήναΚακοήθεις Όγκοι Δέρματος-ΜελάνωμαΚατακλίσεις-Χρόνια ΈλκηΕκτινασσόμενος Δάκτυλος-Trigger FingerΚαλοήθεις Όγκοι ΔέρματοςΚύστη ΚόκκυγαΣτενωτική Τενοντοελυτρίτιδα De QuervainΕίσφρυση ΌνυχαΚακώσεις ΤενόντωνΈγκαυμα-Μετεγκαυματικές ΟυλέςΣχετικά με εμάςΒιογραφικόΔημοσιεύσειςΜΜΕFAQsOnline ΔιάγνωσηOnline Διάγνωση προσώπουOnline Διάγνωση στήθουςOnline Διάγνωση σώματοςΕπικοινωνίαfacebook instagram twitterclose button×Αχιλλέας ΧαντέςΕπεμβάσειςΠρόσωποΡινοπλαστικήΜετωπιαίο ΛίφτινγκMini Λίφτινγκ ΠροσώπουΠωγωνοπλαστικήΜεταμόσχευση ΛίπουςΩτοπλαστικήΒλεφαροπλαστικήΣτήθοςΑυξητική ΣτήθουςΑποκατάσταση Μαστού-ΜαστεκτομήΑνόρθωση ΣτήθουςΣύνδρομο PolandΜειωτική ΣτήθουςΑνωμαλίες θηλήςΓυναικομαστίαΣωληνωτοί ΜαστοίΑνισομαστίαΣώμαΚοιλιοπλαστικήΑπώλεια Βάρους-ΑποκατάστασηΜίνι ΚοιλιοπλαστικήΠλαστική ΑιδοίουΛιποαναρρόφηση-ΛιπογλυπτικήΒραχιονοπλαστικήΑνόρθωση (Λίφτινγκ) ΓλουτώνΑνόρθωση (Λίφτινγκ) ΜηρώνEmSlimΔέρμαLaser Peeling-FraxelΘεραπεία ΚυτταρίτιδαςΟυλές ΑκμήςΥγρό ΛίφτινγκFillersΡαγάδεςΥπερτροφικές Ουλές - ΧηλοειδήΥπεριδρωσία Μασχαλών-ΠελμάτωνΒοτουλινική τοξίνηΣύσφιγξη δέρματος με Ραδιοσυχνότητες RFLaser-ΜικροδερμοαπόξεσηΧημικά PeelingΜεσοθεραπείαΔιέγερση Κολλαγόνου – MicroneedlingΠολυγαλακτικό - SculptraLaser ΑποτρίχωσηΑφαίρεση Ογκιδίων (σπίλοι-«ελιές» κτλ.)ΒλαστοκύτταραΑφαίρεση Τατουάζ - PICO laserΕπανορθωτική ΧειρουργικήΝόσος DupuytrenΛιπώματαΘλαστικά ΤραύματαΣύνδρομο Καρπιαίου ΣωλήναΚακοήθεις Όγκοι Δέρματος-ΜελάνωμαΚατακλίσεις-Χρόνια ΈλκηΕκτινασσόμενος Δάκτυλος-Trigger FingerΚαλοήθεις Όγκοι ΔέρματοςΚύστη ΚόκκυγαΣτενωτική Τενοντοελυτρίτιδα De QuervainΕίσφρυση ΌνυχαΚακώσεις ΤενόντωνΈγκαυμα-Μετεγκαυματικές ΟυλέςΣχετικά με εμάςΒιογραφικόΔημοσιεύσειςΜΜΕFAQsOnline ΔιάγνωσηOnline Διάγνωση προσώπουOnline Διάγνωση στήθουςOnline Διάγνωση σώματοςΕπικοινωνίαfacebook instagram twitterΠλαστική Χειρουργική - Αχιλλέας ΧαντέςΟ πλαστικός χειρουργός Αχιλλέας Χαντές ειδικεύεται στην αισθητική χειρουργική, έγκαυμα και αποκατάσταση, χειρουργική χεριού, αποκατάσταση μετά από ατυχήματα, αποκατάσταση μετά από ογκολογικές επεμβάσεις, ογκολογία του δέρματος, συγγενείς ανωμαλίες & εφαρμογές Laser.Αισθητική πλαστική χειρουργικήΤο φάσμα της είναι πολύ μεγάλο, παρότι έχει κυρίως ταυτιστεί με αισθητικές επεμβάσεις, όπως η αυξητική στήθους, η ρινοπλαστική, η λιποαναρρόφηση, το υαλουρονικό οξύ, η μεσοθεραπεία, η laser αποτρίχωση κτλ.Ανόρθωση ΓλουτώνΜε το πέρασμα των χρόνων και τις απότομες αυξομειώσεις βάρους οι γλουτοί «αδειάζουν» και είναι πιο πτωτικοί.Πλαστική ΣώματοςΗ κύρια ένδειξη για τη διενέργεια κοιλιοπλαστικής είναι η χαλάρωση του δέρματος στην περιοχή της κοιλιάς.Πλαστική ΣτήθουςΤα τελευταία χρόνια στην αυξητική στήθους χρησιμοποιούνται ενθέματα υψηλής ποιότητας που είναι 100% ασφαλή.Πλαστική ΠροσώπουΗ ρινοπλαστική είναι η επέμβαση που αναδιαμορφώνει τη μύτη και είναι μια από τις πιο συχνές επεμβάσεις στην πλαστική χειρουργική.Ο Αχιλλέας Χαντές είναι πτυχιούχος της Ιατρικής Σχολής του Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης, στην οποία εισήχθη με πανελλαδικές εξετάσεις. Είναι διδάκτωρ στην Ιατρική Σχολή του Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης με βαθμό «Άριστα» και έχει ολοκληρώσει την έρευνα του στην επίδραση των αυτόλογων αυξητικών παραγόντων στο δέρμα και στα μαλακά μόρια. Εκπαιδεύτηκε στην Πλαστική Χειρουργική τόσο στην Ελλάδα (Κλινική Πλαστικής Χειρουργικής Α.Π.Θ. στο Νοσοκομείο «Παπαγεωργίου»), όσο και σε χώρες του εξωτερικού όπως η Μεγάλη Βρετάνια, η Γερμανία και η Νότιος Κόρεα.πλαστικοσ χειρουργοσπλαστικη χειρουργικηΟ νέος ανανεωμένος χώρος μαςΡαντεβού γνωριμίας. Κλείστε το πρώτο σας ραντεβού ΧΩΡΙΣ ΧΡΕΩΣΗ με το εξειδικευμένο προσωπικό του πλαστικού χειρούργου Αχιλλέα Χαντέ για μια γενική ενημέρωση για τις υπηρεσίες μας. Περισσότερεςπληροφορίες Ενημερωθείτε για τα νέα μαςΚλείστεραντεβούΑθήναΛ. Βασιλίσσης Σοφίας 57, 11521T: 2114.186.348ΘεσσαλονίκηΑγίας Σοφίας 16, 3ος όροφοςT: 2310.250.715ΛεμεσόςComing soonT: +357.253.14080ΒέροιαΕλιάς 7, 59132T: 23310.23.330ΈδεσσαΔημοκρατίας 5, 58200T: 23814.00.401ΛάρισαComing soonT: 2411.810.030ΑριδαίαT: 23844.010.20Στείλτε μας Emailinfo@chantes.grΚαλέστε μας2310 250 715Βρείτε μας στο skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagram Κατασκευή ιστοσελίδων Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed(function(jQuery){ jQuery(document).ready(function() { // dropdown jQuery('.parent').addClass('dropdown'); jQuery('.parent > a').addClass('dropdown-toggle'); jQuery('.parent > a').attr('data-toggle', 'dropdown'); jQuery('.parent > a').append('<b class=\"caret\"></b>'); jQuery('.parent > ul').addClass('dropdown-menu'); jQuery('ul.dropdown-menu li.dropdown a.dropdown-toggle').hover( function () { jQuery('ul.dropdown-menu li.dropdown').removeClass('open'); jQuery(this).parent().addClass('open'); } ); }); })(jQuery); var dropdown = document.getElementsByClassName(\"dropdown-toggle\"); var i; for (i = 0; i < dropdown.length; i++) { dropdown[i].addEventListener(\"click\", function() { this.classList.toggle(\"babis\"); var dropdownContent = this.nextElementSibling; if (dropdownContent.style.display == \"flex\") { dropdownContent.style.display = \"none\"; } else { dropdownContent.style.display = \"flex\"; } }); } function openNav() { document.getElementById(\"mySidenav\").style.width = \"250px\"; } function closeNav() { document.getElementById(\"mySidenav\").style.width = \"0\"; } const card = document.querySelector('.card'), save_state = document.querySelector('.acymailing_form'), input = document.querySelector('.inputbox'), line2 = document.querySelector('.line2'); document.querySelector('.acy_form-custom').addEventListener('submit', function(e) { input.blur(); card.classList.add('saving'); save_state.classList.add('saving'); e.preventDefault(); }); line2.addEventListener('animationend', function(e) { setTimeout(() => { card.classList.add('done'); save_state.classList.add('done'); }, 1000); });AOS.init();window.onscroll = function() { scrollFunction() }; function scrollFunction() { if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) { document.getElementById(\"myBtn\").style.display = \"block\"; } else { document.getElementById(\"myBtn\").style.display = \"none\"; } } function topFunction() { document.body.scrollTop = 0; document.documentElement.scrollTop = 0; } πλαστικοσ χειρουργοσ",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/chantes.gr-home-a26d8f6b/homepage--a26d8f6b.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/chantes.gr-home-a26d8f6b/homepage--a26d8f6b.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.chantes.gr/hexabit/img/achilles_chantes-logo.webp",
+          "alt": "achilles chantes plastic doctor",
+          "sourcePageUrl": "https://www.chantes.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/",
+              "retrievedAt": "2026-03-31T13:16:55.230Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/media/mod_languages/images/en_gb.gif",
+          "alt": "English (United Kingdom)",
+          "sourcePageUrl": "https://www.chantes.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/",
+              "retrievedAt": "2026-03-31T13:16:55.230Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/espa.webp",
+          "alt": "espa banner",
+          "sourcePageUrl": "https://www.chantes.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/",
+              "retrievedAt": "2026-03-31T13:16:55.230Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/arrow-down.png",
+          "alt": "chantes achilles plastic doctor",
+          "sourcePageUrl": "https://www.chantes.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/",
+              "retrievedAt": "2026-03-31T13:16:55.230Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/big-logo.webp",
+          "alt": "plastic surgeon doctor",
+          "sourcePageUrl": "https://www.chantes.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/",
+              "retrievedAt": "2026-03-31T13:16:55.230Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/hip-plastic-surgery.webp",
+          "alt": "anorthosi glouton chantes achileas",
+          "sourcePageUrl": "https://www.chantes.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/",
+              "retrievedAt": "2026-03-31T13:16:55.230Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/body-plastic-surgery.webp",
+          "alt": "plastiki swmatos hantes ahileas",
+          "sourcePageUrl": "https://www.chantes.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/",
+              "retrievedAt": "2026-03-31T13:16:55.230Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/chest-plastic-surgery.webp",
+          "alt": "plastiki stithous achilles chantes",
+          "sourcePageUrl": "https://www.chantes.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/",
+              "retrievedAt": "2026-03-31T13:16:55.230Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/face-plastic-surgery.webp",
+          "alt": "plastiki proswpou axileas chantes",
+          "sourcePageUrl": "https://www.chantes.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/",
+              "retrievedAt": "2026-03-31T13:16:55.230Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/plastic_doctor_achilles_chantes.webp",
+          "alt": "plastic surgeon chantes thessaloniki",
+          "sourcePageUrl": "https://www.chantes.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/",
+              "retrievedAt": "2026-03-31T13:16:55.230Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/small-logo-left.webp",
+          "alt": "plastic surgeon achileas chantes",
+          "sourcePageUrl": "https://www.chantes.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/",
+              "retrievedAt": "2026-03-31T13:16:55.230Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/signature.webp",
+          "alt": "plastic-surgeon",
+          "sourcePageUrl": "https://www.chantes.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/",
+              "retrievedAt": "2026-03-31T13:16:55.230Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.233Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/chantes.gr-home-a26d8f6b/homepage-page-a26d8f6b.png"
+    },
+    "about": {
+      "pageType": "about",
+      "requestedUrl": "https://www.chantes.gr/en/about-us/cv",
+      "finalUrl": "https://www.chantes.gr/en/about-us/cv",
+      "fetchedAt": "2026-03-31T13:16:59.737Z",
+      "metadata": {
+        "title": "CV - Αχιλλέας Χαντές Πλαστικός Χειρουργός",
+        "canonicalUrl": "https://www.chantes.gr/en/about-us/cv",
+        "language": "en-gb",
+        "openGraphTitle": "CV - Αχιλλέας Χαντές Πλαστικός Χειρουργός"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "CV"
+        },
+        {
+          "level": "h2",
+          "text": "Education - Further education"
+        },
+        {
+          "level": "h2",
+          "text": "It deals with the whole range of Plastic Surgery:"
+        },
+        {
+          "level": "h2",
+          "text": "Publications"
+        },
+        {
+          "level": "h2",
+          "text": "Greek Publications"
+        },
+        {
+          "level": "h2",
+          "text": "Awards"
+        },
+        {
+          "level": "h2",
+          "text": "Media"
+        },
+        {
+          "level": "h2",
+          "text": "Expression of Interest Form"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.chantes.gr/"
+        },
+        {
+          "href": "https://www.chantes.gr/en/",
+          "label": "Achilles Chantes"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo/rinoplastiki",
+          "label": "Procedures"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/face",
+          "label": "Face"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/face/rhinoplasty",
+          "label": "Rhinoplasty"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/face/forehead-lifting",
+          "label": "Forehead Lifting"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/face/mini-face-lifting",
+          "label": "Mini Face Lifting"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/face/chin-surgery",
+          "label": "Chin Surgery"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/face/fat-grafting",
+          "label": "Fat Grafting"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/face/otoplasty",
+          "label": "Otoplasty"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/face/blepharoplasty",
+          "label": "Blepharoplasty"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast",
+          "label": "Breast"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/breast-augmentation",
+          "label": "Breast Augmentation"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/breast-reconstruction",
+          "label": "Breast Reconstruction"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/breast-lift",
+          "label": "Breast Lift"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/poland-syndrome",
+          "label": "Poland Syndrome"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/breast-reduction",
+          "label": "Breast Reduction"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/nipple-correction",
+          "label": "Nipple Correction"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/gynecomastia",
+          "label": "Gynecomastia"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/tuberous-breast",
+          "label": "Tuberous Breast"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/breast-asymmetry",
+          "label": "Breast Asymmetry"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/body",
+          "label": "Body"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/body/abdominoplasty",
+          "label": "Abdominoplasty"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/body/bariplastic-surgery",
+          "label": "Bariplastic Surgery"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/body/mini-abdominoplasty",
+          "label": "Mini Abdominoplasty"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/body/vaginoplasty",
+          "label": "Vaginoplasty"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/body/liposuction-liposculpture",
+          "label": "Liposuction-Liposculpture"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/body/emslim",
+          "label": "EmSlim"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin",
+          "label": "Skin"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/laser-peeling-fraxel",
+          "label": "Laser Peeling-Fraxel"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/cellulite-treatment",
+          "label": "Cellulite Treatment"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/acne-scars",
+          "label": "Acne Scars"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/liquid-lifting",
+          "label": "Liquid Lifting"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/hyaluronic-acid-ha",
+          "label": "Hyaluronic acid (HA)"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/stretch-marks",
+          "label": "Stretch marks"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/hypertrophic-scars-keloid",
+          "label": "Hypertrophic Scars - Keloid"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/botox",
+          "label": "Botox"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/laser-mikrodermoapoksesi",
+          "label": "Laser microdermabrasion"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/chemical-peeling",
+          "label": "Chemical Peeling"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/mesotherapy",
+          "label": "Mesotherapy"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/polylactic-acid-sculptra",
+          "label": "Polylactic Acid - Sculptra"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/laser-apotrixosi",
+          "label": "Laser Hair Removal"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/removal-of-benign-skin-lesions",
+          "label": "Removal of Benign Skin Lesions"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/stem-cells",
+          "label": "Stem cells"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/tattoo-removal",
+          "label": "Tattoo Removal"
+        },
+        {
+          "href": "https://www.chantes.gr/en/about-us/cv",
+          "label": "About Us"
+        },
+        {
+          "href": "https://www.chantes.gr/en/about-us/dimosieyseis",
+          "label": "Publications"
+        },
+        {
+          "href": "https://www.chantes.gr/en/about-us/mass-media",
+          "label": "Mass Media"
+        },
+        {
+          "href": "https://www.chantes.gr/en/faqs-en",
+          "label": "FAQs"
+        },
+        {
+          "href": "https://www.chantes.gr/online/online-diagnosi-prosopou",
+          "label": "OnlIne Diagnosis"
+        },
+        {
+          "href": "https://www.chantes.gr/en/online-diagnosis/online-face-diagnosis",
+          "label": "OnlIne Face Diagnosis"
+        },
+        {
+          "href": "https://www.chantes.gr/en/online-diagnosis/online-breast-diagnosis",
+          "label": "OnlIne Breast Diagnosis"
+        },
+        {
+          "href": "https://www.chantes.gr/en/online-diagnosis/online-body-diagnosis",
+          "label": "OnlIne Body Diagnosis"
+        },
+        {
+          "href": "https://www.chantes.gr/en/contact",
+          "label": "Contact"
+        },
+        {
+          "href": "https://www.chantes.gr/sxetika-me-emas/viografiko"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.plasticdoctor.gr/en/about-us/cv",
+          "method": "post",
+          "purposeHint": "contact",
+          "fieldNames": [
+            "form[inner_Name]",
+            "form[inner_Email]",
+            "form[inner_PhoneNumber]",
+            "form[inner_Message]",
+            "form[formId]",
+            "3e5de46ffd4677aceae11c0cec98629a"
+          ],
+          "submitLabels": [
+            "Send"
+          ],
+          "fields": [
+            {
+              "name": "form[inner_Name]",
+              "type": "text",
+              "label": "Name(*)",
+              "required": true
+            },
+            {
+              "name": "form[inner_Email]",
+              "type": "email",
+              "label": "Email(*)",
+              "required": true
+            },
+            {
+              "name": "form[inner_PhoneNumber]",
+              "type": "tel",
+              "label": "Phone number",
+              "required": false
+            },
+            {
+              "name": "form[inner_Message]",
+              "type": "textarea",
+              "label": "Message",
+              "required": false
+            },
+            {
+              "name": "form[formId]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "3e5de46ffd4677aceae11c0cec98629a",
+              "type": "hidden",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "1137763946338856",
+          "470921 3",
+          "978-960-93 2393",
+          "978-960-931223-3",
+          "+302310 250 715",
+          "+30231020715"
+        ],
+        "emails": [
+          "info@chantes.gr",
+          "info@plastic-doctor.gr"
+        ],
+        "addresses": [
+          "Find us on the mapAgias Sofias 16, 3rd floor ThessalonikiSend us an Emailinfo@chantes.grCall us+302310 250 715Find us on skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagramWeb design Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/%CE%A0%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CF%8C%CF%82-%CE%A7%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CF%8C%CF%82-%CE%91%CF%87%CE%B9%CE%BB%CE%BB%CE%AD%CE%B1%CF%82-%CE%A7%CE%B1%CE%BD%CF%84%CE%AD%CF%82-565417580149926/",
+            "label": "facebook"
+          },
+          {
+            "href": "https://www.instagram.com/dr.chantes.plasticsurgeon",
+            "label": "instagram"
+          },
+          {
+            "href": "https://twitter.com/PlasticDoctorGr",
+            "label": "twitter"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.plasticdoctor.gr/en/about-us/cv",
+            "method": "post",
+            "purposeHint": "contact",
+            "fieldNames": [
+              "form[inner_Name]",
+              "form[inner_Email]",
+              "form[inner_PhoneNumber]",
+              "form[inner_Message]",
+              "form[formId]",
+              "3e5de46ffd4677aceae11c0cec98629a"
+            ],
+            "submitLabels": [
+              "Send"
+            ],
+            "fields": [
+              {
+                "name": "form[inner_Name]",
+                "type": "text",
+                "label": "Name(*)",
+                "required": true
+              },
+              {
+                "name": "form[inner_Email]",
+                "type": "email",
+                "label": "Email(*)",
+                "required": true
+              },
+              {
+                "name": "form[inner_PhoneNumber]",
+                "type": "tel",
+                "label": "Phone number",
+                "required": false
+              },
+              {
+                "name": "form[inner_Message]",
+                "type": "textarea",
+                "label": "Message",
+                "required": false
+              },
+              {
+                "name": "form[formId]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "3e5de46ffd4677aceae11c0cec98629a",
+                "type": "hidden",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Find us on the mapAgias Sofias 16, 3rd floor ThessalonikiSend us an Emailinfo@chantes.grCall us+302310 250 715Find us on skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagramWeb design Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed",
+      "textContent": "<img height=\"1\" width=\"1\" alt=\"facebook\" style=\"display:none\" src=\"https://www.facebook.com/tr?id=1137763946338856&ev=PageView&noscript=1\">πλαστικός χειρουργός ΘεσσαλονίκηAchilles ChantesProceduresFaceRhinoplastyForehead Lifting Mini Face LiftingChin SurgeryFat GraftingOtoplastyBlepharoplastyBreastBreast AugmentationBreast ReconstructionBreast LiftPoland SyndromeBreast ReductionNipple CorrectionGynecomastiaTuberous BreastBreast AsymmetryBodyAbdominoplasty Bariplastic SurgeryMini Abdominoplasty VaginoplastyLiposuction-LiposculptureEmSlimSkinLaser Peeling-Fraxel Cellulite Treatment Acne ScarsLiquid LiftingHyaluronic acid (HA)Stretch marksHypertrophic Scars - Keloid Botox Laser microdermabrasionChemical PeelingMesotherapyPolylactic Acid - SculptraLaser Hair RemovalRemoval of Benign Skin LesionsStem cellsTattoo RemovalAbout UsCVPublicationsMass MediaFAQsOnlIne DiagnosisOnlIne Face DiagnosisOnlIne Breast DiagnosisOnlIne Body DiagnosisContactfacebook instagram twitterclose button×Achilles ChantesProceduresFaceRhinoplastyForehead Lifting Mini Face LiftingChin SurgeryFat GraftingOtoplastyBlepharoplastyBreastBreast AugmentationBreast ReconstructionBreast LiftPoland SyndromeBreast ReductionNipple CorrectionGynecomastiaTuberous BreastBreast AsymmetryBodyAbdominoplasty Bariplastic SurgeryMini Abdominoplasty VaginoplastyLiposuction-LiposculptureEmSlimSkinLaser Peeling-Fraxel Cellulite Treatment Acne ScarsLiquid LiftingHyaluronic acid (HA)Stretch marksHypertrophic Scars - Keloid Botox Laser microdermabrasionChemical PeelingMesotherapyPolylactic Acid - SculptraLaser Hair RemovalRemoval of Benign Skin LesionsStem cellsTattoo RemovalAbout UsCVPublicationsMass MediaFAQsOnlIne DiagnosisOnlIne Face DiagnosisOnlIne Breast DiagnosisOnlIne Body DiagnosisContactfacebook instagram twitter CV Education - Further education Dr. Achilleas Chantes is Plastic and Reconstructive Aesthetic Plastic Surgeon the llast 12 years. He is a graduated of the Medical School of the Aristotle University of Thessaloniki on 1999, where he was admitted with nationwide examinations. He has Doctor of Medicine (PhD) from the School of Medicine of the Aristotle University of Thessaloniki and had completed his research on the effect of autologous growth factors on skin and soft tissues. He has been trained in Plastic Surgery both in Greece (Plastic Surgery Clinic AUTH at Papageorgiou Hospital) as well as in foreign countries such as Great Britain, Germany and South Korea. More specifically he had his plastic surgery training: 1. At Queen Victoria Hospital in the greater London area. 2. The most renowned plastic surgery unit in Europe at the Canniesburn Plastic Surgery Unit at the Royal Infirmary Hospital in Glasgow. Canniesburn has been honored with a Nobel Prize in Medicine. 3. In the Plastic Surgery Clinic at the Essen Catholic Hospital in West Germany. 4. At the Seoul University Hospital of Plastic and Reconstructive Surgery, Bundang. South Korea is considered one of the top countries in the world in plastic surgery and is the \"Mecca of Aesthetic Surgery\", especially in the rich countries of the Far East, as well as the country with the highest PP10K (interventions per 10,000 population) of 74, when in Brazil and the US 55 and 42 respectively. Achilles Chantes is an active member of: Hellenic Society of Plastic Reconstructive and Aesthetic Surgery International Society of Aesthetic Plastic Surgery International Confederation for Plastic, Reconstructive and Aesthetic Surgery European Society for Laser Aesthetic Surgery It deals with the whole range of Plastic Surgery: Plastic surgery Burn and rehabilitation Hand surgery Reconstruction after accidents Reconstruction after oncological operations Oncology of the skin Congenital Abnormalities Laser applications Publications 1. «The 'reading man flap' for pressure sore reconstruction. » Indian Journal of Plastic Surgery, September-December 2011, Volume 44, Issue 3 2. «Use of Surgical Sponge with Running Sutures for Securing Full-Thickness Skin Grafts. » International Scholarly Research Network, ISRN Dermatology, Volume 2011, Article ID 470921 3. «Τhe wash-out technique in the management of delayed presentations of extravasation injuries. » Journal of Hand Surgery, European Volume 2011 Jan; 36(1):66-9. 4. «Surgical Management of Subcutaneous Hyaline Deposits in the Head Region. » Annals of Plastic Surgery, Volume 62(6), p. E52, Book of Abstracts, June 2009 5. «The wash-out technique in the management of extravasation injuries of the upper limb. » Journal Of Hand Surgery, European Volume, Volume 32, Supplement 1, June 2007, page 27 6. «The use of pedicle island axial flaps for covering soft tissue defects in diabetic feet. » Scientific Annals of Medicine, Aristotle University of Thessaloniki, June 2006. Greek Publications 1. \"The Contribution of the Negative Pressure Applying System (VAC) to the Treatment of Wounds and Chronic Deficits.\" Summary Book of the 24th North-Hellenic Conference of the Thessaloniki Medical Society, p. 35, 2009 2. \"Mammary gland remodeling by the technique of the total posterior pedicle: Indications and Results.\" Summary Book of the 24th Northland Congress of the Thessaloniki Medical Society, p. 84, 2009 He participated in the writing of a university paper entitled \"Basic Principles of Plastic Surgery\", Rotonda Publications, 2012) and in the creation of a Video Course \"Surgical Techniques of Stapling and Injury Treatment\" with ISBN 978-960-93 2393 AUTH and has presented a significant number of papers at medical conferences and participated in a large number of medical seminars and conferences. 1. \"Basic Principles of Plastic Surgery\", Demiri E., Rotonda Publications, 2012 2. Video Course \"Surgical Staple and Injury Techniques\" with ISBN 978-960-931223-3 Awards 1. Award from the organizing committee of the 24th North Hellenic Medical Congress and the Medical Society of Thessaloniki for its participation in the work of Mr. Dionysiou entitled \"The Effectiveness of Platelet Concentration Application by the Intra-traumatic Injury and Chronic Healing Injury: Clinical Study. \" Media 1. Glow Magazine, May 2011 Interview with Fani Mylona on \"Liposuction ... 5 in 1\". (p. 116) 2. Sunday Vitality Magazine of \"Sunday Messenger\", March 2011 Column F.A.Q. with answer to the question \"Short eyelashes, black circles, tired look. What does plastic surgery offer to these problems? \" 3.. Sunday Vitality Magazine of Sunday Messenger, January 2011 Column F.A.Q. with the answer to the question \"How can I erase pregnancy signs and what is the new fashion of mommy makeover?\" 4. Glow Magazine, January 2011 Interview with Fani Mylona on \"The New Lifting\" (p. 114) 5. Magazine \"Kerdos\" Scientific article on liposuction and fat transplantation. Expression of Interest Form Please complete all required fields! Name(*) Invalid Input Email(*) Invalid Input Phone number Invalid Input Message Invalid Input Send Find us on the mapAgias Sofias 16, 3rd floor ThessalonikiSend us an Emailinfo@chantes.grCall us+302310 250 715Find us on skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagramWeb design Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed(function(jQuery){ jQuery(document).ready(function() { // dropdown jQuery('.parent').addClass('dropdown'); jQuery('.parent > a').addClass('dropdown-toggle'); jQuery('.parent > a').attr('data-toggle', 'dropdown'); jQuery('.parent > a').append('<b class=\"caret\"></b>'); jQuery('.parent > ul').addClass('dropdown-menu'); jQuery('ul.dropdown-menu li.dropdown a.dropdown-toggle').hover( function () { jQuery('ul.dropdown-menu li.dropdown').removeClass('open'); jQuery(this).parent().addClass('open'); } ); }); })(jQuery); var dropdown = document.getElementsByClassName(\"dropdown-toggle\"); var i; for (i = 0; i < dropdown.length; i++) { dropdown[i].addEventListener(\"click\", function() { this.classList.toggle(\"babis\"); var dropdownContent = this.nextElementSibling; if (dropdownContent.style.display == \"flex\") { dropdownContent.style.display = \"none\"; } else { dropdownContent.style.display = \"flex\"; } }); } function openNav() { document.getElementById(\"mySidenav\").style.width = \"250px\"; } function closeNav() { document.getElementById(\"mySidenav\").style.width = \"0\"; } const card = document.querySelector('.card'), save_state = document.querySelector('.acymailing_form'), input = document.querySelector('.inputbox'), line2 = document.querySelector('.line2'); document.querySelector('.acy_form-custom').addEventListener('submit', function(e) { input.blur(); card.classList.add('saving'); save_state.classList.add('saving'); e.preventDefault(); }); line2.addEventListener('animationend', function(e) { setTimeout(() => { card.classList.add('done'); save_state.classList.add('done'); }, 1000); });AOS.init();window.onscroll = function() { scrollFunction() }; function scrollFunction() { if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) { document.getElementById(\"myBtn\").style.display = \"block\"; } else { document.getElementById(\"myBtn\").style.display = \"none\"; } } function topFunction() { document.body.scrollTop = 0; document.documentElement.scrollTop = 0; } πλαστικοσ χειρουργοσ",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/chantes.gr-home-a26d8f6b/about-en-about-us-cv-e6367d99.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/chantes.gr-home-a26d8f6b/about-en-about-us-cv-e6367d99.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.chantes.gr/hexabit/img/achilles_chantes-logo.webp",
+          "alt": "achilles chantes plastic doctor",
+          "sourcePageUrl": "https://www.chantes.gr/en/about-us/cv",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/en/about-us/cv",
+              "retrievedAt": "2026-03-31T13:16:59.736Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/media/mod_languages/images/el_gr.gif",
+          "alt": "Greek (Greece)",
+          "sourcePageUrl": "https://www.chantes.gr/en/about-us/cv",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/en/about-us/cv",
+              "retrievedAt": "2026-03-31T13:16:59.736Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/Xantes_011_AS.jpg",
+          "alt": "plastic doctor achilles chantes",
+          "sourcePageUrl": "https://www.chantes.gr/en/about-us/cv",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/en/about-us/cv",
+              "retrievedAt": "2026-03-31T13:16:59.736Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/point.webp",
+          "alt": "plastic doctor surgeon thessaloniki",
+          "sourcePageUrl": "https://www.chantes.gr/en/about-us/cv",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/en/about-us/cv",
+              "retrievedAt": "2026-03-31T13:16:59.736Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/mail.webp",
+          "alt": "plastic doctor surgeon thessaloniki email",
+          "sourcePageUrl": "https://www.chantes.gr/en/about-us/cv",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/en/about-us/cv",
+              "retrievedAt": "2026-03-31T13:16:59.736Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/phone.webp",
+          "alt": "plastic doctor surgeon thessaloniki phone",
+          "sourcePageUrl": "https://www.chantes.gr/en/about-us/cv",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/en/about-us/cv",
+              "retrievedAt": "2026-03-31T13:16:59.736Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/skype.webp",
+          "alt": "plastic doctor surgeon thessaloniki contact",
+          "sourcePageUrl": "https://www.chantes.gr/en/about-us/cv",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/en/about-us/cv",
+              "retrievedAt": "2026-03-31T13:16:59.736Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page fetch",
+          "uri": "https://www.chantes.gr/en/about-us/cv",
+          "retrievedAt": "2026-03-31T13:16:59.737Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "https://www.chantes.gr/en/procedures/face",
+      "finalUrl": "https://www.chantes.gr/en/procedures/face",
+      "fetchedAt": "2026-03-31T13:17:02.713Z",
+      "metadata": {
+        "title": "Face - Αχιλλέας Χαντές Πλαστικός Χειρουργός",
+        "canonicalUrl": "https://www.chantes.gr/en/procedures/face",
+        "language": "en-gb",
+        "openGraphTitle": "Face - Αχιλλέας Χαντές Πλαστικός Χειρουργός"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Face"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.chantes.gr/"
+        },
+        {
+          "href": "https://www.chantes.gr/en/",
+          "label": "Achilles Chantes"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo/rinoplastiki",
+          "label": "Procedures"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/face",
+          "label": "Face"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/face/rhinoplasty",
+          "label": "Rhinoplasty"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/face/forehead-lifting",
+          "label": "Forehead Lifting"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/face/mini-face-lifting",
+          "label": "Mini Face Lifting"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/face/chin-surgery",
+          "label": "Chin Surgery"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/face/fat-grafting",
+          "label": "Fat Grafting"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/face/otoplasty",
+          "label": "Otoplasty"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/face/blepharoplasty",
+          "label": "Blepharoplasty"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast",
+          "label": "Breast"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/breast-augmentation",
+          "label": "Breast Augmentation"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/breast-reconstruction",
+          "label": "Breast Reconstruction"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/breast-lift",
+          "label": "Breast Lift"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/poland-syndrome",
+          "label": "Poland Syndrome"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/breast-reduction",
+          "label": "Breast Reduction"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/nipple-correction",
+          "label": "Nipple Correction"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/gynecomastia",
+          "label": "Gynecomastia"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/tuberous-breast",
+          "label": "Tuberous Breast"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/breast/breast-asymmetry",
+          "label": "Breast Asymmetry"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/body",
+          "label": "Body"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/body/abdominoplasty",
+          "label": "Abdominoplasty"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/body/bariplastic-surgery",
+          "label": "Bariplastic Surgery"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/body/mini-abdominoplasty",
+          "label": "Mini Abdominoplasty"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/body/vaginoplasty",
+          "label": "Vaginoplasty"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/body/liposuction-liposculpture",
+          "label": "Liposuction-Liposculpture"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/body/emslim",
+          "label": "EmSlim"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin",
+          "label": "Skin"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/laser-peeling-fraxel",
+          "label": "Laser Peeling-Fraxel"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/cellulite-treatment",
+          "label": "Cellulite Treatment"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/acne-scars",
+          "label": "Acne Scars"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/liquid-lifting",
+          "label": "Liquid Lifting"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/hyaluronic-acid-ha",
+          "label": "Hyaluronic acid (HA)"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/stretch-marks",
+          "label": "Stretch marks"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/hypertrophic-scars-keloid",
+          "label": "Hypertrophic Scars - Keloid"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/botox",
+          "label": "Botox"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/laser-mikrodermoapoksesi",
+          "label": "Laser microdermabrasion"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/chemical-peeling",
+          "label": "Chemical Peeling"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/mesotherapy",
+          "label": "Mesotherapy"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/polylactic-acid-sculptra",
+          "label": "Polylactic Acid - Sculptra"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/laser-apotrixosi",
+          "label": "Laser Hair Removal"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/removal-of-benign-skin-lesions",
+          "label": "Removal of Benign Skin Lesions"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/stem-cells",
+          "label": "Stem cells"
+        },
+        {
+          "href": "https://www.chantes.gr/en/procedures/skin/tattoo-removal",
+          "label": "Tattoo Removal"
+        },
+        {
+          "href": "https://www.chantes.gr/en/about-us/cv",
+          "label": "About Us"
+        },
+        {
+          "href": "https://www.chantes.gr/en/about-us/dimosieyseis",
+          "label": "Publications"
+        },
+        {
+          "href": "https://www.chantes.gr/en/about-us/mass-media",
+          "label": "Mass Media"
+        },
+        {
+          "href": "https://www.chantes.gr/en/faqs-en",
+          "label": "FAQs"
+        },
+        {
+          "href": "https://www.chantes.gr/online/online-diagnosi-prosopou",
+          "label": "OnlIne Diagnosis"
+        },
+        {
+          "href": "https://www.chantes.gr/en/online-diagnosis/online-face-diagnosis",
+          "label": "OnlIne Face Diagnosis"
+        },
+        {
+          "href": "https://www.chantes.gr/en/online-diagnosis/online-breast-diagnosis",
+          "label": "OnlIne Breast Diagnosis"
+        },
+        {
+          "href": "https://www.chantes.gr/en/online-diagnosis/online-body-diagnosis",
+          "label": "OnlIne Body Diagnosis"
+        },
+        {
+          "href": "https://www.chantes.gr/en/contact",
+          "label": "Contact"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "1137763946338856",
+          "+302310 250 715",
+          "+30231020715"
+        ],
+        "emails": [
+          "info@chantes.gr",
+          "info@plastic-doctor.gr"
+        ],
+        "addresses": [
+          "Find us on the mapAgias Sofias 16, 3rd floor ThessalonikiSend us an Emailinfo@chantes.grCall us+302310 250 715Find us on skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagramWeb design Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/%CE%A0%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CF%8C%CF%82-%CE%A7%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CF%8C%CF%82-%CE%91%CF%87%CE%B9%CE%BB%CE%BB%CE%AD%CE%B1%CF%82-%CE%A7%CE%B1%CE%BD%CF%84%CE%AD%CF%82-565417580149926/",
+            "label": "facebook"
+          },
+          {
+            "href": "https://www.instagram.com/dr.chantes.plasticsurgeon",
+            "label": "instagram"
+          },
+          {
+            "href": "https://twitter.com/PlasticDoctorGr",
+            "label": "twitter"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "Find us on the mapAgias Sofias 16, 3rd floor ThessalonikiSend us an Emailinfo@chantes.grCall us+302310 250 715Find us on skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagramWeb design Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed",
+      "textContent": "<img height=\"1\" width=\"1\" alt=\"facebook\" style=\"display:none\" src=\"https://www.facebook.com/tr?id=1137763946338856&ev=PageView&noscript=1\">πλαστικός χειρουργός ΘεσσαλονίκηAchilles ChantesProceduresFaceRhinoplastyForehead Lifting Mini Face LiftingChin SurgeryFat GraftingOtoplastyBlepharoplastyBreastBreast AugmentationBreast ReconstructionBreast LiftPoland SyndromeBreast ReductionNipple CorrectionGynecomastiaTuberous BreastBreast AsymmetryBodyAbdominoplasty Bariplastic SurgeryMini Abdominoplasty VaginoplastyLiposuction-LiposculptureEmSlimSkinLaser Peeling-Fraxel Cellulite Treatment Acne ScarsLiquid LiftingHyaluronic acid (HA)Stretch marksHypertrophic Scars - Keloid Botox Laser microdermabrasionChemical PeelingMesotherapyPolylactic Acid - SculptraLaser Hair RemovalRemoval of Benign Skin LesionsStem cellsTattoo RemovalAbout UsCVPublicationsMass MediaFAQsOnlIne DiagnosisOnlIne Face DiagnosisOnlIne Breast DiagnosisOnlIne Body DiagnosisContactfacebook instagram twitterclose button×Achilles ChantesProceduresFaceRhinoplastyForehead Lifting Mini Face LiftingChin SurgeryFat GraftingOtoplastyBlepharoplastyBreastBreast AugmentationBreast ReconstructionBreast LiftPoland SyndromeBreast ReductionNipple CorrectionGynecomastiaTuberous BreastBreast AsymmetryBodyAbdominoplasty Bariplastic SurgeryMini Abdominoplasty VaginoplastyLiposuction-LiposculptureEmSlimSkinLaser Peeling-Fraxel Cellulite Treatment Acne ScarsLiquid LiftingHyaluronic acid (HA)Stretch marksHypertrophic Scars - Keloid Botox Laser microdermabrasionChemical PeelingMesotherapyPolylactic Acid - SculptraLaser Hair RemovalRemoval of Benign Skin LesionsStem cellsTattoo RemovalAbout UsCVPublicationsMass MediaFAQsOnlIne DiagnosisOnlIne Face DiagnosisOnlIne Breast DiagnosisOnlIne Body DiagnosisContactfacebook instagram twitter Face Find us on the mapAgias Sofias 16, 3rd floor ThessalonikiSend us an Emailinfo@chantes.grCall us+302310 250 715Find us on skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagramWeb design Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed(function(jQuery){ jQuery(document).ready(function() { // dropdown jQuery('.parent').addClass('dropdown'); jQuery('.parent > a').addClass('dropdown-toggle'); jQuery('.parent > a').attr('data-toggle', 'dropdown'); jQuery('.parent > a').append('<b class=\"caret\"></b>'); jQuery('.parent > ul').addClass('dropdown-menu'); jQuery('ul.dropdown-menu li.dropdown a.dropdown-toggle').hover( function () { jQuery('ul.dropdown-menu li.dropdown').removeClass('open'); jQuery(this).parent().addClass('open'); } ); }); })(jQuery); var dropdown = document.getElementsByClassName(\"dropdown-toggle\"); var i; for (i = 0; i < dropdown.length; i++) { dropdown[i].addEventListener(\"click\", function() { this.classList.toggle(\"babis\"); var dropdownContent = this.nextElementSibling; if (dropdownContent.style.display == \"flex\") { dropdownContent.style.display = \"none\"; } else { dropdownContent.style.display = \"flex\"; } }); } function openNav() { document.getElementById(\"mySidenav\").style.width = \"250px\"; } function closeNav() { document.getElementById(\"mySidenav\").style.width = \"0\"; } const card = document.querySelector('.card'), save_state = document.querySelector('.acymailing_form'), input = document.querySelector('.inputbox'), line2 = document.querySelector('.line2'); document.querySelector('.acy_form-custom').addEventListener('submit', function(e) { input.blur(); card.classList.add('saving'); save_state.classList.add('saving'); e.preventDefault(); }); line2.addEventListener('animationend', function(e) { setTimeout(() => { card.classList.add('done'); save_state.classList.add('done'); }, 1000); });AOS.init();window.onscroll = function() { scrollFunction() }; function scrollFunction() { if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) { document.getElementById(\"myBtn\").style.display = \"block\"; } else { document.getElementById(\"myBtn\").style.display = \"none\"; } } function topFunction() { document.body.scrollTop = 0; document.documentElement.scrollTop = 0; } πλαστικοσ χειρουργοσ",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/chantes.gr-home-a26d8f6b/services-en-procedures-face-39a12de6.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/chantes.gr-home-a26d8f6b/services-en-procedures-face-39a12de6.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.chantes.gr/hexabit/img/achilles_chantes-logo.webp",
+          "alt": "achilles chantes plastic doctor",
+          "sourcePageUrl": "https://www.chantes.gr/en/procedures/face",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/en/procedures/face",
+              "retrievedAt": "2026-03-31T13:17:02.711Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/media/mod_languages/images/el_gr.gif",
+          "alt": "Greek (Greece)",
+          "sourcePageUrl": "https://www.chantes.gr/en/procedures/face",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/en/procedures/face",
+              "retrievedAt": "2026-03-31T13:17:02.711Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/point.webp",
+          "alt": "plastic doctor surgeon thessaloniki",
+          "sourcePageUrl": "https://www.chantes.gr/en/procedures/face",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/en/procedures/face",
+              "retrievedAt": "2026-03-31T13:17:02.711Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/mail.webp",
+          "alt": "plastic doctor surgeon thessaloniki email",
+          "sourcePageUrl": "https://www.chantes.gr/en/procedures/face",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/en/procedures/face",
+              "retrievedAt": "2026-03-31T13:17:02.711Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/phone.webp",
+          "alt": "plastic doctor surgeon thessaloniki phone",
+          "sourcePageUrl": "https://www.chantes.gr/en/procedures/face",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/en/procedures/face",
+              "retrievedAt": "2026-03-31T13:17:02.711Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/skype.webp",
+          "alt": "plastic doctor surgeon thessaloniki contact",
+          "sourcePageUrl": "https://www.chantes.gr/en/procedures/face",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/en/procedures/face",
+              "retrievedAt": "2026-03-31T13:17:02.711Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://www.chantes.gr/en/procedures/face",
+          "retrievedAt": "2026-03-31T13:17:02.713Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "faq": {
+      "pageType": "faq",
+      "requestedUrl": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+      "finalUrl": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+      "fetchedAt": "2026-03-31T13:16:56.701Z",
+      "metadata": {
+        "title": "Σύσφιγξη δέρματος με Ραδιοσυχνότητες RF - Αχιλλέας Χαντές Πλαστικός Χειρουργός",
+        "canonicalUrl": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+        "language": "el-gr",
+        "openGraphTitle": "Σύσφιγξη δέρματος με Ραδιοσυχνότητες RF - Αχιλλέας Χαντές Πλαστικός Χειρουργός"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Σύσφιγξη δέρματος με Ραδιοσυχνότητες RF"
+        },
+        {
+          "level": "h2",
+          "text": "Ενδείξεις"
+        },
+        {
+          "level": "h2",
+          "text": "Πως λειτουργεί η τεχνολογία των ραδιοσυχνοτήτων;"
+        },
+        {
+          "level": "h2",
+          "text": "Είναι καθόλου επώδυνη διαδικασία;"
+        },
+        {
+          "level": "h2",
+          "text": "Πότε είναι τα αποτελέσματα εμφανή;"
+        },
+        {
+          "level": "h2",
+          "text": "Πόσο διαρκεί η εφαρμογή;"
+        },
+        {
+          "level": "h2",
+          "text": "Πως θα είναι το δέρμα μου μετά τη θεραπεία;"
+        },
+        {
+          "level": "h2",
+          "text": "Πόση διάρκεια έχουν τα αποτελέσματα;"
+        },
+        {
+          "level": "h2",
+          "text": "Ποια είναι η διάρκεια της αποθεραπείας;"
+        },
+        {
+          "level": "h2",
+          "text": "Φόρμα Εκδήλωσης Ενδιαφέροντος"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.chantes.gr/"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo/rinoplastiki",
+          "label": "Επεμβάσεις"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo",
+          "label": "Πρόσωπο"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo/metopiaio-liftingk",
+          "label": "Μετωπιαίο Λίφτινγκ"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo/mini-liftingk-prosopou",
+          "label": "Mini Λίφτινγκ Προσώπου"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo/pogonoplastiki",
+          "label": "Πωγωνοπλαστική"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo/metamosxefsi-lipous",
+          "label": "Μεταμόσχευση Λίπους"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo/otoplastiki",
+          "label": "Ωτοπλαστική"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/prosopo/vlefaroplastiki",
+          "label": "Βλεφαροπλαστική"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos",
+          "label": "Στήθος"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/afksitiki-stithous",
+          "label": "Αυξητική Στήθους"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/apokatastasi-mastoy-mastektomi",
+          "label": "Αποκατάσταση Μαστού-Μαστεκτομή"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/anorthosi-stithous",
+          "label": "Ανόρθωση Στήθους"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/syndromo-poland",
+          "label": "Σύνδρομο Poland"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/meiotiki-stithous",
+          "label": "Μειωτική Στήθους"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/anomalies-thilis",
+          "label": "Ανωμαλίες θηλής"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/gynaikomastia",
+          "label": "Γυναικομαστία"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/solinotoi-mastoi",
+          "label": "Σωληνωτοί Μαστοί"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/stithos/anisomastia",
+          "label": "Ανισομαστία"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma",
+          "label": "Σώμα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/koilioplastiki",
+          "label": "Κοιλιοπλαστική"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/apoleia-varous-apokatastasi",
+          "label": "Απώλεια Βάρους-Αποκατάσταση"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/mini-koilioplastiki",
+          "label": "Μίνι Κοιλιοπλαστική"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/plastiki-aidoiou",
+          "label": "Πλαστική Αιδοίου"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/lipoanarrofisi-lipoglyptiki",
+          "label": "Λιποαναρρόφηση-Λιπογλυπτική"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/vraxionoplastiki",
+          "label": "Βραχιονοπλαστική"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/anorthosi-liftingk-glouton",
+          "label": "Ανόρθωση (Λίφτινγκ) Γλουτών"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/anorthosi-liftingk-miron",
+          "label": "Ανόρθωση (Λίφτινγκ) Μηρών"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/soma/emslim",
+          "label": "EmSlim"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma",
+          "label": "Δέρμα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/laser-peeling-fraxel",
+          "label": "Laser Peeling-Fraxel"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/therapeia-kyttaritidas",
+          "label": "Θεραπεία Κυτταρίτιδας"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/oules-akmis",
+          "label": "Ουλές Ακμής"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/ygro-liftingk",
+          "label": "Υγρό Λίφτινγκ"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/yalouroniko-oksy-ia",
+          "label": "Fillers"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/ragades",
+          "label": "Ραγάδες"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/ypertrofikes-oules-xiloeidi",
+          "label": "Υπερτροφικές Ουλές - Χηλοειδή"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/yperidrosia-masxalon-pelmaton",
+          "label": "Υπεριδρωσία Μασχαλών-Πελμάτων"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/votouliniki-toksini",
+          "label": "Βοτουλινική τοξίνη"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+          "label": "Σύσφιγξη δέρματος με Ραδιοσυχνότητες RF"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/laser-mikrodermoapoksesi",
+          "label": "Laser-Μικροδερμοαπόξεση"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/ximika-peeling",
+          "label": "Χημικά Peeling"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/mesotherapeia",
+          "label": "Μεσοθεραπεία"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/diegersi-kollagonou-microneedling",
+          "label": "Διέγερση Κολλαγόνου – Microneedling"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/polygalaktik-sculptra",
+          "label": "Πολυγαλακτικό - Sculptra"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/laser-apotrixosi",
+          "label": "Laser Αποτρίχωση"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/afairesi-ogkidion-spiloi-elies-ktl",
+          "label": "Αφαίρεση Ογκιδίων (σπίλοι-«ελιές» κτλ.)"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/vlastokyttara",
+          "label": "Βλαστοκύτταρα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/derma/afairesi-tatouaz-pico-laser",
+          "label": "Αφαίρεση Τατουάζ - PICO laser"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki",
+          "label": "Επανορθωτική Χειρουργική"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/nosos-dupuytren",
+          "label": "Νόσος Dupuytren"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/lipomata",
+          "label": "Λιπώματα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/thlastika-traymata",
+          "label": "Θλαστικά Τραύματα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/syndromo-karpiaiou-solina",
+          "label": "Σύνδρομο Καρπιαίου Σωλήνα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/kakoitheis-ogkoi-dermatos-melanoma",
+          "label": "Κακοήθεις Όγκοι Δέρματος-Μελάνωμα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/katakliseis-xronia-elki",
+          "label": "Κατακλίσεις-Χρόνια Έλκη"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/ektinassomenos-daktylos-trigger-finger",
+          "label": "Εκτινασσόμενος Δάκτυλος-Trigger Finger"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/kaloitheis-ogkoi-dermatos",
+          "label": "Καλοήθεις Όγκοι Δέρματος"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/kysti-kokkyga",
+          "label": "Κύστη Κόκκυγα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/stenotiki-tenontoelytritida-de-quervain",
+          "label": "Στενωτική Τενοντοελυτρίτιδα De Quervain"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/eisfrysi-onyxa",
+          "label": "Είσφρυση Όνυχα"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/kakoseis-tenonton",
+          "label": "Κακώσεις Τενόντων"
+        },
+        {
+          "href": "https://www.chantes.gr/epemvaseis/epanorthotiki-xeirourgiki/egkavma-metegkavmatikes-oules",
+          "label": "Έγκαυμα-Μετεγκαυματικές Ουλές"
+        },
+        {
+          "href": "https://www.chantes.gr/sxetika-me-emas/viografiko",
+          "label": "Σχετικά με εμάς"
+        },
+        {
+          "href": "https://www.chantes.gr/sxetika-me-emas/dimosieyseis",
+          "label": "Δημοσιεύσεις"
+        },
+        {
+          "href": "https://www.chantes.gr/sxetika-me-emas/mme",
+          "label": "ΜΜΕ"
+        },
+        {
+          "href": "https://www.chantes.gr/faqs",
+          "label": "FAQs"
+        },
+        {
+          "href": "https://www.chantes.gr/online/online-diagnosi-prosopou",
+          "label": "Online Διάγνωση"
+        },
+        {
+          "href": "https://www.chantes.gr/online/online-diagnosi-stithous",
+          "label": "Online Διάγνωση στήθους"
+        },
+        {
+          "href": "https://www.chantes.gr/online/online-diagnosi-somatos",
+          "label": "Online Διάγνωση σώματος"
+        },
+        {
+          "href": "https://www.chantes.gr/epikoinonia",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.chantes.gr/en/"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+          "method": "post",
+          "purposeHint": "contact",
+          "fieldNames": [
+            "form[inner_Name]",
+            "form[inner_Email]",
+            "form[inner_PhoneNumber]",
+            "form[inner_Message]",
+            "form[formId]",
+            "3acd3adce6cdf58c7c9414edcb1acc79"
+          ],
+          "submitLabels": [
+            "Send"
+          ],
+          "fields": [
+            {
+              "name": "form[inner_Name]",
+              "type": "text",
+              "label": "Name(*)",
+              "required": true
+            },
+            {
+              "name": "form[inner_Email]",
+              "type": "email",
+              "label": "Email(*)",
+              "required": true
+            },
+            {
+              "name": "form[inner_PhoneNumber]",
+              "type": "tel",
+              "label": "Phone number",
+              "required": false
+            },
+            {
+              "name": "form[inner_Message]",
+              "type": "textarea",
+              "label": "Message",
+              "required": false
+            },
+            {
+              "name": "form[formId]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "3acd3adce6cdf58c7c9414edcb1acc79",
+              "type": "hidden",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "1137763946338856",
+          "2310 250 715",
+          "2310250715"
+        ],
+        "emails": [
+          "info@chantes.gr",
+          "info@plastic-doctor.gr"
+        ],
+        "addresses": [
+          "Στείλτε μας Emailinfo@chantes.grΚαλέστε μας2310 250 715Βρείτε μας στο skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagram Κατασκευή ιστοσελίδων Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/%CE%A0%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CF%8C%CF%82-%CE%A7%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CF%8C%CF%82-%CE%91%CF%87%CE%B9%CE%BB%CE%BB%CE%AD%CE%B1%CF%82-%CE%A7%CE%B1%CE%BD%CF%84%CE%AD%CF%82-565417580149926/",
+            "label": "facebook"
+          },
+          {
+            "href": "https://www.instagram.com/dr.chantes.plasticsurgeon",
+            "label": "instagram"
+          },
+          {
+            "href": "https://twitter.com/PlasticDoctorGr",
+            "label": "twitter"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+            "method": "post",
+            "purposeHint": "contact",
+            "fieldNames": [
+              "form[inner_Name]",
+              "form[inner_Email]",
+              "form[inner_PhoneNumber]",
+              "form[inner_Message]",
+              "form[formId]",
+              "3acd3adce6cdf58c7c9414edcb1acc79"
+            ],
+            "submitLabels": [
+              "Send"
+            ],
+            "fields": [
+              {
+                "name": "form[inner_Name]",
+                "type": "text",
+                "label": "Name(*)",
+                "required": true
+              },
+              {
+                "name": "form[inner_Email]",
+                "type": "email",
+                "label": "Email(*)",
+                "required": true
+              },
+              {
+                "name": "form[inner_PhoneNumber]",
+                "type": "tel",
+                "label": "Phone number",
+                "required": false
+              },
+              {
+                "name": "form[inner_Message]",
+                "type": "textarea",
+                "label": "Message",
+                "required": false
+              },
+              {
+                "name": "form[formId]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "3acd3adce6cdf58c7c9414edcb1acc79",
+                "type": "hidden",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Στείλτε μας Emailinfo@chantes.grΚαλέστε μας2310 250 715Βρείτε μας στο skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagram Κατασκευή ιστοσελίδων Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed",
+      "textContent": "<img height=\"1\" width=\"1\" alt=\"facebook\" style=\"display:none\" src=\"https://www.facebook.com/tr?id=1137763946338856&ev=PageView&noscript=1\">πλαστικός χειρουργός ΘεσσαλονίκηΑχιλλέας ΧαντέςΕπεμβάσειςΠρόσωποΡινοπλαστικήΜετωπιαίο ΛίφτινγκMini Λίφτινγκ ΠροσώπουΠωγωνοπλαστικήΜεταμόσχευση ΛίπουςΩτοπλαστικήΒλεφαροπλαστικήΣτήθοςΑυξητική ΣτήθουςΑποκατάσταση Μαστού-ΜαστεκτομήΑνόρθωση ΣτήθουςΣύνδρομο PolandΜειωτική ΣτήθουςΑνωμαλίες θηλήςΓυναικομαστίαΣωληνωτοί ΜαστοίΑνισομαστίαΣώμαΚοιλιοπλαστικήΑπώλεια Βάρους-ΑποκατάστασηΜίνι ΚοιλιοπλαστικήΠλαστική ΑιδοίουΛιποαναρρόφηση-ΛιπογλυπτικήΒραχιονοπλαστικήΑνόρθωση (Λίφτινγκ) ΓλουτώνΑνόρθωση (Λίφτινγκ) ΜηρώνEmSlimΔέρμαLaser Peeling-FraxelΘεραπεία ΚυτταρίτιδαςΟυλές ΑκμήςΥγρό ΛίφτινγκFillersΡαγάδεςΥπερτροφικές Ουλές - ΧηλοειδήΥπεριδρωσία Μασχαλών-ΠελμάτωνΒοτουλινική τοξίνηΣύσφιγξη δέρματος με Ραδιοσυχνότητες RFLaser-ΜικροδερμοαπόξεσηΧημικά PeelingΜεσοθεραπείαΔιέγερση Κολλαγόνου – MicroneedlingΠολυγαλακτικό - SculptraLaser ΑποτρίχωσηΑφαίρεση Ογκιδίων (σπίλοι-«ελιές» κτλ.)ΒλαστοκύτταραΑφαίρεση Τατουάζ - PICO laserΕπανορθωτική ΧειρουργικήΝόσος DupuytrenΛιπώματαΘλαστικά ΤραύματαΣύνδρομο Καρπιαίου ΣωλήναΚακοήθεις Όγκοι Δέρματος-ΜελάνωμαΚατακλίσεις-Χρόνια ΈλκηΕκτινασσόμενος Δάκτυλος-Trigger FingerΚαλοήθεις Όγκοι ΔέρματοςΚύστη ΚόκκυγαΣτενωτική Τενοντοελυτρίτιδα De QuervainΕίσφρυση ΌνυχαΚακώσεις ΤενόντωνΈγκαυμα-Μετεγκαυματικές ΟυλέςΣχετικά με εμάςΒιογραφικόΔημοσιεύσειςΜΜΕFAQsOnline ΔιάγνωσηOnline Διάγνωση προσώπουOnline Διάγνωση στήθουςOnline Διάγνωση σώματοςΕπικοινωνίαfacebook instagram twitterclose button×Αχιλλέας ΧαντέςΕπεμβάσειςΠρόσωποΡινοπλαστικήΜετωπιαίο ΛίφτινγκMini Λίφτινγκ ΠροσώπουΠωγωνοπλαστικήΜεταμόσχευση ΛίπουςΩτοπλαστικήΒλεφαροπλαστικήΣτήθοςΑυξητική ΣτήθουςΑποκατάσταση Μαστού-ΜαστεκτομήΑνόρθωση ΣτήθουςΣύνδρομο PolandΜειωτική ΣτήθουςΑνωμαλίες θηλήςΓυναικομαστίαΣωληνωτοί ΜαστοίΑνισομαστίαΣώμαΚοιλιοπλαστικήΑπώλεια Βάρους-ΑποκατάστασηΜίνι ΚοιλιοπλαστικήΠλαστική ΑιδοίουΛιποαναρρόφηση-ΛιπογλυπτικήΒραχιονοπλαστικήΑνόρθωση (Λίφτινγκ) ΓλουτώνΑνόρθωση (Λίφτινγκ) ΜηρώνEmSlimΔέρμαLaser Peeling-FraxelΘεραπεία ΚυτταρίτιδαςΟυλές ΑκμήςΥγρό ΛίφτινγκFillersΡαγάδεςΥπερτροφικές Ουλές - ΧηλοειδήΥπεριδρωσία Μασχαλών-ΠελμάτωνΒοτουλινική τοξίνηΣύσφιγξη δέρματος με Ραδιοσυχνότητες RFLaser-ΜικροδερμοαπόξεσηΧημικά PeelingΜεσοθεραπείαΔιέγερση Κολλαγόνου – MicroneedlingΠολυγαλακτικό - SculptraLaser ΑποτρίχωσηΑφαίρεση Ογκιδίων (σπίλοι-«ελιές» κτλ.)ΒλαστοκύτταραΑφαίρεση Τατουάζ - PICO laserΕπανορθωτική ΧειρουργικήΝόσος DupuytrenΛιπώματαΘλαστικά ΤραύματαΣύνδρομο Καρπιαίου ΣωλήναΚακοήθεις Όγκοι Δέρματος-ΜελάνωμαΚατακλίσεις-Χρόνια ΈλκηΕκτινασσόμενος Δάκτυλος-Trigger FingerΚαλοήθεις Όγκοι ΔέρματοςΚύστη ΚόκκυγαΣτενωτική Τενοντοελυτρίτιδα De QuervainΕίσφρυση ΌνυχαΚακώσεις ΤενόντωνΈγκαυμα-Μετεγκαυματικές ΟυλέςΣχετικά με εμάςΒιογραφικόΔημοσιεύσειςΜΜΕFAQsOnline ΔιάγνωσηOnline Διάγνωση προσώπουOnline Διάγνωση στήθουςOnline Διάγνωση σώματοςΕπικοινωνίαfacebook instagram twitter Σύσφιγξη δέρματος με Ραδιοσυχνότητες RF Ενδείξεις Η μέθοδος των ραδιοσυχνοτήτων (τύπου Thermage, Accent, Pollogen) είναι η μόνη μη επεμβατική θεραπεία η οποία επιτυγχάνει σύσφιξη του δέρματος και ανανέωση του περιγράμματος του προσώπου και του σώματος σε λίγες μόνο θεραπείες (περίπου 2-3). Έχει αποδειχθεί κλινικά ότι η σύσφιγξη και το ελαφρύ \"τράβηγμα\" του δέρματος έχει σαν αποτέλεσμα τη βελτίωση των ρυτίδων και την ανανέωση του περιγράμματος του προσώπου ή του σώματος (ιδανικό για τη χαλάρωση βραχιόνων-μπράτσων, των μηρών και της κοιλιάς). Η αναίμακτη αυτή μέθοδος είναι σχετικά γρήγορη, ανώδυνη και δεν απαιτεί αποχή από τις καθημερινές μας δραστηριότητες. Πως λειτουργεί η τεχνολογία των ραδιοσυχνοτήτων; Με κάθε επαφή στο δέρμα η κεφαλή των ραδιοσυχνοτήτων θερμαίνει ομοιόμορφα τα βαθύτερα στρώματα του δέρματος και τον υποδόριο ιστό ενώ ταυτόχρονα προστατεύει την επιδερμίδα με ψύξη. Αυτή η ενέργεια βαθιάς και ομοιογενούς θέρμανσης διεγείρει τους ινοβλάστες να παράγουν κολλαγόνο και προκαλεί την άμεση σύσφιγξη του δέρματος. Με το πέρασμα του χρόνου, το νέο και αναδομημένο κολλαγόνο που παράγεται συνεχώς, έχει ως αποτέλεσμα ένα υγιέστερο, πιο λείο και λαμπερό δέρμα με μια πιο νεανική εμφάνιση! Είναι καθόλου επώδυνη διαδικασία; Με κάθε άγγιγμα της κεφαλής θα νιώσετε μια στιγμιαία αίσθηση θερμότητας καθώς η ενέργεια ραδιοσυχνοτήτων RF διοχετεύεται στο δέρμα σας και στον υποδόριο ιστό. Αυτή η αίσθηση θερμότητας αποτελεί την ένδειξη ότι η συσκευή είναι αποτελεσματική, γιατί με αυτόν τον τρόπο το κολλαγόνο συρρικνώνεται και έτσι έχουμε σύσφιγξη του δέρματος. Το κεφαλή των ραδιοσυχνοτήτων ψύχεται πριν, κατά τη διάρκεια και μετά τη θέρμανση, προστατεύοντας την επιδερμίδα και κάνοντας τη θεραπεία πιο άνετη. Για να είναι η θεραπεία πιο αποτελεσματική και ανώδυνη μπορεί να χρησιμοποιηθεί τοπική αναισθητική κρέμα 30 λεπτά πριν την εφαρμογή. Πότε είναι τα αποτελέσματα εμφανή; Τα αποτελέσματα εμφανίζονται σταδιακά σε 2-6 μήνες μετά τη θεραπεία. Πολλοί όμως ασθενείς βλέπουν ορατά αποτελέσματα ακόμη και άμεσα. Πόσο διαρκεί η εφαρμογή; Η θεραπεία των ραδιοσυχνοτήτων διαρκεί συνήθως μέχρι 1 ώρα, αναλόγως του μεγέθους της περιοχής στην οποία εφαρμόζεται. Πως θα είναι το δέρμα μου μετά τη θεραπεία; Αμέσως μετά τη θεραπεία, θα νιώσετε το δέρμα σας πιο σφιχτό, πιο λείο και πιο νεανικό. Με το πέρασμα του χρόνου θα παρατηρήσετε επιπλέον σύσφιξη. Οι ραδιοσυχνότητες βοηθάνε στη λείανση και σμίλευση του χαλαρωμένου ή ζαρωμένου δέρματος σε οποιοδήποτε σημείο του σώματος. Η θεραπεία αυτή μπορεί να σας βοηθήσει να αποκτήσετε ένα επίπεδο στομάχι, να λεπτύνετε του γοφούς και τους μηρούς σας και να τονίσετε / συσφίγξετε τα άνω άκρα σας. Πολλοί ασθενείς εμπιστεύονται επιτυχώς τις ραδιοσυχνότητες για να βελτιώσουν την εμφάνιση του δέρματός τους μετεγχειρητικά ή μετά από την περίοδο της κύησης. Οι ραδιοσυχνότητες μπορεί, επίσης, να συσφίγξουν το δέρμα του προσώπου και του λαιμού απολύτως ακίνδυνα και αποτελεσματικά. Πόση διάρκεια έχουν τα αποτελέσματα; Η θεραπεία των ραδιοσυχνοτήτων προκαλεί άμεση σύσφιξη του κολλαγόνου, με επιπρόσθετη σταδιακή σύσφιξη του δέρματος μέρα με τη μέρα. Τα αποτελέσματα μπορεί να διαρκέσουν 2-5 περίπου. Κρίνεται απαραίτητο να γίνεται μια επαναληπτική θεραπεία κάθε 1-2 χρόνια για τη διατήρηση του αποτελέσματος. Ποια είναι η διάρκεια της αποθεραπείας; Οι περισσότεροι ασθενείς επιστρέφουν στις καθημερινές τους δραστηριότητες αμέσως μετά τη θεραπεία. Κάποιοι αντιμετωπίζουν ήπια ερυθρότητα (σαν κοκκίνισμα από ηλιοθεραπεία) αλλά συνήθως φεύγει πολύ γρήγορα. Καμία ιδιαίτερη φροντίδα δεν απαιτείται. Φόρμα Εκδήλωσης Ενδιαφέροντος Please complete all required fields! Name(*) Invalid Input Email(*) Invalid Input Phone number Invalid Input Message Invalid Input Send Στείλτε μας Emailinfo@chantes.grΚαλέστε μας2310 250 715Βρείτε μας στο skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagram Κατασκευή ιστοσελίδων Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed(function(jQuery){ jQuery(document).ready(function() { // dropdown jQuery('.parent').addClass('dropdown'); jQuery('.parent > a').addClass('dropdown-toggle'); jQuery('.parent > a').attr('data-toggle', 'dropdown'); jQuery('.parent > a').append('<b class=\"caret\"></b>'); jQuery('.parent > ul').addClass('dropdown-menu'); jQuery('ul.dropdown-menu li.dropdown a.dropdown-toggle').hover( function () { jQuery('ul.dropdown-menu li.dropdown').removeClass('open'); jQuery(this).parent().addClass('open'); } ); }); })(jQuery); var dropdown = document.getElementsByClassName(\"dropdown-toggle\"); var i; for (i = 0; i < dropdown.length; i++) { dropdown[i].addEventListener(\"click\", function() { this.classList.toggle(\"babis\"); var dropdownContent = this.nextElementSibling; if (dropdownContent.style.display == \"flex\") { dropdownContent.style.display = \"none\"; } else { dropdownContent.style.display = \"flex\"; } }); } function openNav() { document.getElementById(\"mySidenav\").style.width = \"250px\"; } function closeNav() { document.getElementById(\"mySidenav\").style.width = \"0\"; } const card = document.querySelector('.card'), save_state = document.querySelector('.acymailing_form'), input = document.querySelector('.inputbox'), line2 = document.querySelector('.line2'); document.querySelector('.acy_form-custom').addEventListener('submit', function(e) { input.blur(); card.classList.add('saving'); save_state.classList.add('saving'); e.preventDefault(); }); line2.addEventListener('animationend', function(e) { setTimeout(() => { card.classList.add('done'); save_state.classList.add('done'); }, 1000); });AOS.init();window.onscroll = function() { scrollFunction() }; function scrollFunction() { if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) { document.getElementById(\"myBtn\").style.display = \"block\"; } else { document.getElementById(\"myBtn\").style.display = \"none\"; } } function topFunction() { document.body.scrollTop = 0; document.documentElement.scrollTop = 0; } πλαστικοσ χειρουργοσ",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/chantes.gr-home-a26d8f6b/faq-epemvaseis-derma-sysfigksi-dermatos-me-radiosyxnotites-rf-5675c28d.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/chantes.gr-home-a26d8f6b/faq-epemvaseis-derma-sysfigksi-dermatos-me-radiosyxnotites-rf-5675c28d.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.chantes.gr/hexabit/img/achilles_chantes-logo.webp",
+          "alt": "achilles chantes plastic doctor",
+          "sourcePageUrl": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+              "retrievedAt": "2026-03-31T13:16:56.699Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/media/mod_languages/images/en_gb.gif",
+          "alt": "English (United Kingdom)",
+          "sourcePageUrl": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+              "retrievedAt": "2026-03-31T13:16:56.699Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/articles/%CE%A3%CF%8D%CF%83%CF%86%CE%B9%CE%B3%CE%BE%CE%B7%20%CE%B4%CE%AD%CF%81%CE%BC%CE%B1%CF%84%CE%BF%CF%82%20%CE%BC%CE%B5%20%CE%A1%CE%B1%CE%B4%CE%B9%CE%BF%CF%83%CF%85%CF%87%CE%BD%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82%20RF.jpg",
+          "sourcePageUrl": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+              "retrievedAt": "2026-03-31T13:16:56.699Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/mail.webp",
+          "alt": "plastic doctor surgeon thessaloniki email",
+          "sourcePageUrl": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+              "retrievedAt": "2026-03-31T13:16:56.699Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/phone.webp",
+          "alt": "plastic doctor surgeon thessaloniki phone",
+          "sourcePageUrl": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+              "retrievedAt": "2026-03-31T13:16:56.699Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.chantes.gr/hexabit/img/skype.webp",
+          "alt": "plastic doctor surgeon thessaloniki contact",
+          "sourcePageUrl": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+              "retrievedAt": "2026-03-31T13:16:56.699Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "faq page fetch",
+          "uri": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+          "retrievedAt": "2026-03-31T13:16:56.701Z"
+        }
+      ],
+      "statusCode": 200
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "1137763946338856",
+      "2114.186.348",
+      "2310.250.715",
+      "+357.253.14080",
+      "23310.23.330",
+      "23814.00.401",
+      "2411.810.030",
+      "23844.010.20",
+      "2310 250 715",
+      "2310250715",
+      "470921 3",
+      "978-960-931223-3",
+      "978-960-93 2393",
+      "+302310 250 715",
+      "+30231020715"
+    ],
+    "emails": [
+      "info@chantes.gr",
+      "info@plastic-doctor.gr"
+    ],
+    "addresses": [
+      "ΑθήναΛ. Βασιλίσσης Σοφίας 57, 11521T: 2114.186.348ΘεσσαλονίκηΑγίας Σοφίας 16, 3ος όροφοςT: 2310.250.715ΛεμεσόςComing soonT: +357.253.14080ΒέροιαΕλιάς 7, 59132T: 23310.23.330ΈδεσσαΔημοκρατίας 5, 58200T: 23814.00.401ΛάρισαComing soonT: 2411.810.030ΑριδαίαT: 23844.010.20Στείλτε μας Emailinfo@chantes.grΚαλέστε μας2310 250 715Βρείτε μας στο skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagram Κατασκευή ιστοσελίδων Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed",
+      "Στείλτε μας Emailinfo@chantes.grΚαλέστε μας2310 250 715Βρείτε μας στο skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagram Κατασκευή ιστοσελίδων Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed",
+      "Find us on the mapAgias Sofias 16, 3rd floor ThessalonikiSend us an Emailinfo@chantes.grCall us+302310 250 715Find us on skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagramWeb design Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/%CE%A0%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CF%8C%CF%82-%CE%A7%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CF%8C%CF%82-%CE%91%CF%87%CE%B9%CE%BB%CE%BB%CE%AD%CE%B1%CF%82-%CE%A7%CE%B1%CE%BD%CF%84%CE%AD%CF%82-565417580149926/",
+        "label": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/dr.chantes.plasticsurgeon",
+        "label": "instagram"
+      },
+      {
+        "href": "https://twitter.com/PlasticDoctorGr",
+        "label": "twitter"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+        "method": "post",
+        "purposeHint": "contact",
+        "fieldNames": [
+          "form[inner_Name]",
+          "form[inner_Email]",
+          "form[inner_PhoneNumber]",
+          "form[inner_Message]",
+          "form[formId]",
+          "3acd3adce6cdf58c7c9414edcb1acc79"
+        ],
+        "submitLabels": [
+          "Send"
+        ],
+        "fields": [
+          {
+            "name": "form[inner_Name]",
+            "type": "text",
+            "label": "Name(*)",
+            "required": true
+          },
+          {
+            "name": "form[inner_Email]",
+            "type": "email",
+            "label": "Email(*)",
+            "required": true
+          },
+          {
+            "name": "form[inner_PhoneNumber]",
+            "type": "tel",
+            "label": "Phone number",
+            "required": false
+          },
+          {
+            "name": "form[inner_Message]",
+            "type": "textarea",
+            "label": "Message",
+            "required": false
+          },
+          {
+            "name": "form[formId]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "3acd3adce6cdf58c7c9414edcb1acc79",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.plasticdoctor.gr/en/about-us/cv",
+        "method": "post",
+        "purposeHint": "contact",
+        "fieldNames": [
+          "form[inner_Name]",
+          "form[inner_Email]",
+          "form[inner_PhoneNumber]",
+          "form[inner_Message]",
+          "form[formId]",
+          "3e5de46ffd4677aceae11c0cec98629a"
+        ],
+        "submitLabels": [
+          "Send"
+        ],
+        "fields": [
+          {
+            "name": "form[inner_Name]",
+            "type": "text",
+            "label": "Name(*)",
+            "required": true
+          },
+          {
+            "name": "form[inner_Email]",
+            "type": "email",
+            "label": "Email(*)",
+            "required": true
+          },
+          {
+            "name": "form[inner_PhoneNumber]",
+            "type": "tel",
+            "label": "Phone number",
+            "required": false
+          },
+          {
+            "name": "form[inner_Message]",
+            "type": "textarea",
+            "label": "Message",
+            "required": false
+          },
+          {
+            "name": "form[formId]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "3e5de46ffd4677aceae11c0cec98629a",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.chantes.gr/en/procedures/skin/cellulite-treatment",
+        "method": "post",
+        "purposeHint": "contact",
+        "fieldNames": [
+          "form[inner_Name]",
+          "form[inner_Email]",
+          "form[inner_PhoneNumber]",
+          "form[inner_Message]",
+          "form[formId]",
+          "aa3669b9a7224bae910f1f2678842d0f"
+        ],
+        "submitLabels": [
+          "Send"
+        ],
+        "fields": [
+          {
+            "name": "form[inner_Name]",
+            "type": "text",
+            "label": "Name(*)",
+            "required": true
+          },
+          {
+            "name": "form[inner_Email]",
+            "type": "email",
+            "label": "Email(*)",
+            "required": true
+          },
+          {
+            "name": "form[inner_PhoneNumber]",
+            "type": "tel",
+            "label": "Phone number",
+            "required": false
+          },
+          {
+            "name": "form[inner_Message]",
+            "type": "textarea",
+            "label": "Message",
+            "required": false
+          },
+          {
+            "name": "form[formId]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "aa3669b9a7224bae910f1f2678842d0f",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Πλαστική Χειρουργική Θεσσαλονίκη - Αχιλλέας Χαντές Πλαστικός Χειρουργός",
+    "metaDescription": "Πλαστικός Χειρουργός στη Θεσσαλονίκη Αχιλλέας Χαντές. Πλαστική Χειρουργική Σώματος, Στήθους, Προσώπου & μη Επεμβατικές Θεραπείες.",
+    "canonicalUrl": "https://www.chantes.gr/",
+    "language": "el-gr",
+    "openGraphTitle": "Πλαστική Χειρουργική Θεσσαλονίκη - Αχιλλέας Χαντές Πλαστικός Χειρουργός",
+    "openGraphDescription": "Πλαστικός Χειρουργός στη Θεσσαλονίκη Αχιλλέας Χαντές. Πλαστική Χειρουργική Σώματος, Στήθους, Προσώπου & μη Επεμβατικές Θεραπείες."
+  },
+  "imageReferences": [
+    {
+      "url": "https://www.chantes.gr/hexabit/img/achilles_chantes-logo.webp",
+      "alt": "achilles chantes plastic doctor",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/media/mod_languages/images/en_gb.gif",
+      "alt": "English (United Kingdom)",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/hexabit/img/espa.webp",
+      "alt": "espa banner",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/hexabit/img/arrow-down.png",
+      "alt": "chantes achilles plastic doctor",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/hexabit/img/big-logo.webp",
+      "alt": "plastic surgeon doctor",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/hexabit/img/hip-plastic-surgery.webp",
+      "alt": "anorthosi glouton chantes achileas",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/hexabit/img/body-plastic-surgery.webp",
+      "alt": "plastiki swmatos hantes ahileas",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/hexabit/img/chest-plastic-surgery.webp",
+      "alt": "plastiki stithous achilles chantes",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/hexabit/img/face-plastic-surgery.webp",
+      "alt": "plastiki proswpou axileas chantes",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/hexabit/img/plastic_doctor_achilles_chantes.webp",
+      "alt": "plastic surgeon chantes thessaloniki",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/hexabit/img/small-logo-left.webp",
+      "alt": "plastic surgeon achileas chantes",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/hexabit/img/signature.webp",
+      "alt": "plastic-surgeon",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/hexabit/img/articles/%CE%A3%CF%8D%CF%83%CF%86%CE%B9%CE%B3%CE%BE%CE%B7%20%CE%B4%CE%AD%CF%81%CE%BC%CE%B1%CF%84%CE%BF%CF%82%20%CE%BC%CE%B5%20%CE%A1%CE%B1%CE%B4%CE%B9%CE%BF%CF%83%CF%85%CF%87%CE%BD%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82%20RF.jpg",
+      "sourcePageUrl": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+      "pageType": "faq",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+          "retrievedAt": "2026-03-31T13:16:56.699Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/hexabit/img/mail.webp",
+      "alt": "plastic doctor surgeon thessaloniki email",
+      "sourcePageUrl": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+      "pageType": "faq",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+          "retrievedAt": "2026-03-31T13:16:56.699Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/hexabit/img/phone.webp",
+      "alt": "plastic doctor surgeon thessaloniki phone",
+      "sourcePageUrl": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+      "pageType": "faq",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+          "retrievedAt": "2026-03-31T13:16:56.699Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/hexabit/img/skype.webp",
+      "alt": "plastic doctor surgeon thessaloniki contact",
+      "sourcePageUrl": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+      "pageType": "faq",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+          "retrievedAt": "2026-03-31T13:16:56.699Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/hexabit/img/Xantes_011_AS.jpg",
+      "alt": "plastic doctor achilles chantes",
+      "sourcePageUrl": "https://www.chantes.gr/sxetika-me-emas/viografiko",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/sxetika-me-emas/viografiko",
+          "retrievedAt": "2026-03-31T13:16:58.239Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/media/mod_languages/images/el_gr.gif",
+      "alt": "Greek (Greece)",
+      "sourcePageUrl": "https://www.chantes.gr/en/about-us/cv",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/en/about-us/cv",
+          "retrievedAt": "2026-03-31T13:16:59.736Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/hexabit/img/point.webp",
+      "alt": "plastic doctor surgeon thessaloniki",
+      "sourcePageUrl": "https://www.chantes.gr/en/about-us/cv",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/en/about-us/cv",
+          "retrievedAt": "2026-03-31T13:16:59.736Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chantes.gr/hexabit/img/articles/%CE%98%CE%B5%CF%81%CE%B1%CF%80%CE%B5%CE%AF%CE%B1%20%CE%9A%CF%85%CF%84%CF%84%CE%B1%CF%81%CE%AF%CF%84%CE%B9%CE%B4%CE%B1%CF%82.jpg",
+      "sourcePageUrl": "https://www.chantes.gr/en/procedures/skin/cellulite-treatment",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.chantes.gr/en/procedures/skin/cellulite-treatment",
+          "retrievedAt": "2026-03-31T13:17:01.163Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "1137763946338856",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2114.186.348",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2310.250.715",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+357.253.14080",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "23310.23.330",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "23814.00.401",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2411.810.030",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "23844.010.20",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2310 250 715",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2310250715",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@chantes.gr",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@plastic-doctor.gr",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "ΑθήναΛ. Βασιλίσσης Σοφίας 57, 11521T: 2114.186.348ΘεσσαλονίκηΑγίας Σοφίας 16, 3ος όροφοςT: 2310.250.715ΛεμεσόςComing soonT: +357.253.14080ΒέροιαΕλιάς 7, 59132T: 23310.23.330ΈδεσσαΔημοκρατίας 5, 58200T: 23814.00.401ΛάρισαComing soonT: 2411.810.030ΑριδαίαT: 23844.010.20Στείλτε μας Emailinfo@chantes.grΚαλέστε μας2310 250 715Βρείτε μας στο skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagram Κατασκευή ιστοσελίδων Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed",
+      "sourcePageUrl": "https://www.chantes.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.chantes.gr/",
+          "retrievedAt": "2026-03-31T13:16:55.230Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Στείλτε μας Emailinfo@chantes.grΚαλέστε μας2310 250 715Βρείτε μας στο skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagram Κατασκευή ιστοσελίδων Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed",
+      "sourcePageUrl": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+      "pageType": "faq",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "faq page",
+          "uri": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+          "retrievedAt": "2026-03-31T13:16:56.699Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+      "sourcePageUrl": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+      "pageType": "faq",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "faq page",
+          "uri": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+          "retrievedAt": "2026-03-31T13:16:56.699Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "470921 3",
+      "sourcePageUrl": "https://www.chantes.gr/sxetika-me-emas/viografiko",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.chantes.gr/sxetika-me-emas/viografiko",
+          "retrievedAt": "2026-03-31T13:16:58.239Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "978-960-931223-3",
+      "sourcePageUrl": "https://www.chantes.gr/sxetika-me-emas/viografiko",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.chantes.gr/sxetika-me-emas/viografiko",
+          "retrievedAt": "2026-03-31T13:16:58.239Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "978-960-93 2393",
+      "sourcePageUrl": "https://www.chantes.gr/en/about-us/cv",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.chantes.gr/en/about-us/cv",
+          "retrievedAt": "2026-03-31T13:16:59.736Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+302310 250 715",
+      "sourcePageUrl": "https://www.chantes.gr/en/about-us/cv",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.chantes.gr/en/about-us/cv",
+          "retrievedAt": "2026-03-31T13:16:59.736Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30231020715",
+      "sourcePageUrl": "https://www.chantes.gr/en/about-us/cv",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.chantes.gr/en/about-us/cv",
+          "retrievedAt": "2026-03-31T13:16:59.736Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Find us on the mapAgias Sofias 16, 3rd floor ThessalonikiSend us an Emailinfo@chantes.grCall us+302310 250 715Find us on skypeAchilles_Chantesfacebookχαντές twitterπλαστικός instagramWeb design Hexabit Copyright © 2020 - W3C - AChecker - Wave.webaim - Pagespeed",
+      "sourcePageUrl": "https://www.chantes.gr/en/about-us/cv",
+      "pageType": "about",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.chantes.gr/en/about-us/cv",
+          "retrievedAt": "2026-03-31T13:16:59.736Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.chantes.gr/en/about-us/cv",
+      "sourcePageUrl": "https://www.chantes.gr/en/about-us/cv",
+      "pageType": "about",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.chantes.gr/en/about-us/cv",
+          "retrievedAt": "2026-03-31T13:16:59.736Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.chantes.gr/en/procedures/skin/cellulite-treatment",
+      "sourcePageUrl": "https://www.chantes.gr/en/procedures/skin/cellulite-treatment",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.chantes.gr/en/procedures/skin/cellulite-treatment",
+          "retrievedAt": "2026-03-31T13:17:01.163Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://www.chantes.gr/",
+    "finalOrigin": "https://www.chantes.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://www.chantes.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:16:54.726Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [],
+      "disallowRules": [
+        "/administrator/",
+        "/bin/",
+        "/cache/",
+        "/cli/",
+        "/components/",
+        "/includes/",
+        "/installation/",
+        "/language/",
+        "/layouts/",
+        "/libraries/",
+        "/logs/",
+        "/modules/",
+        "/plugins/",
+        "/tmp/"
+      ],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://www.chantes.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:16:54.479Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://www.chantes.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+        "action": "queued",
+        "pageTypeHint": "faq",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/sxetika-me-emas/viografiko",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epikoinonia",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/prosopo/rinoplastiki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/prosopo",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/prosopo/metopiaio-liftingk",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/prosopo/mini-liftingk-prosopou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/prosopo/pogonoplastiki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/prosopo/metamosxefsi-lipous",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/prosopo/otoplastiki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/prosopo/vlefaroplastiki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/stithos",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/stithos/afksitiki-stithous",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/stithos/apokatastasi-mastoy-mastektomi",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/stithos/anorthosi-stithous",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/stithos/syndromo-poland",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/stithos/meiotiki-stithous",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/stithos/anomalies-thilis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:55.233Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+        "action": "fetched",
+        "pageTypeHint": "faq",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:56.701Z"
+      },
+      {
+        "url": "https://www.chantes.gr/epemvaseis/stithos/gynaikomastia",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.chantes.gr/epemvaseis/derma/sysfigksi-dermatos-me-radiosyxnotites-rf",
+        "timestamp": "2026-03-31T13:16:56.702Z"
+      },
+      {
+        "url": "https://www.chantes.gr/sxetika-me-emas/viografiko",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.chantes.gr/",
+        "timestamp": "2026-03-31T13:16:58.241Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/about-us/cv",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.chantes.gr/sxetika-me-emas/viografiko",
+        "timestamp": "2026-03-31T13:16:58.242Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/about-us/cv",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.chantes.gr/sxetika-me-emas/viografiko",
+        "timestamp": "2026-03-31T13:16:59.737Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/skin/cellulite-treatment",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/face",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/face/rhinoplasty",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/face/forehead-lifting",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/face/mini-face-lifting",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/face/chin-surgery",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/face/fat-grafting",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/face/otoplasty",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/face/blepharoplasty",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/breast",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/breast/breast-augmentation",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/breast/breast-reconstruction",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/breast/breast-lift",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/breast/poland-syndrome",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/breast/breast-reduction",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/breast/nipple-correction",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/breast/gynecomastia",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/breast/tuberous-breast",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:16:59.738Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/skin/cellulite-treatment",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:17:01.164Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/breast/breast-asymmetry",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/procedures/skin/cellulite-treatment",
+        "timestamp": "2026-03-31T13:17:01.164Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/face",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.chantes.gr/en/about-us/cv",
+        "timestamp": "2026-03-31T13:17:02.713Z"
+      },
+      {
+        "url": "https://www.chantes.gr/en/procedures/body",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.chantes.gr/en/procedures/face",
+        "timestamp": "2026-03-31T13:17:02.713Z"
+      },
+      {
+        "url": "https://www.chantes.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:17:05.034Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

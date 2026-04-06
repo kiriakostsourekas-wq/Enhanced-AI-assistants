@@ -14,7 +14,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL("https://northlineai.demo"),
   title: {
-    default: `${siteConfig.brandName} | AI Booking Assistants for SMBs`,
+    default: `${siteConfig.brandName} | Quality Websites With Integrated Chat`,
     template: `%s | ${siteConfig.brandName}`,
   },
   description: siteConfig.description,

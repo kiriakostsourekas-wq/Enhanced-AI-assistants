@@ -1,0 +1,2407 @@
+{
+  "domain": "orlathensclinic.gr",
+  "collectedAt": "2026-03-31T13:16:19.813Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orlathensclinic.gr-home-5fe2b216",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://orlathensclinic.gr/",
+      "finalUrl": "https://orlathensclinic.gr/",
+      "fetchedAt": "2026-03-31T13:16:03.773Z",
+      "metadata": {
+        "title": "ORL Athens Clinic - ΩΡΛ ΧΕΙΡΟΥΡΓΙΚΗ ΚΛΙΝΙΚΗ ΑΘΗΝΩΝ",
+        "metaDescription": "Καλωσήρθατε στην ιστοσελίδα της ωτορινολαρυγγολογικής κλινικής ORL Athens Clinic. Η Ωτορινολαρυγγολογική κλινική Θ.Καρράς ιδρύθηκε το 1974 από τον αείμνηστο Θεμιστοκλή Καρρά και μια ομάδα καταξιωμένων χειρουργών ωτορινολαρυγγολόγων με όραμα τη δημιουργία μιας πρότυπης ΩΡΛ κλινικής, με σκοπό να προσφέρει υπηρεσίες υψηλών απαιτήσεων σε ασθενείς με προβλήματα κεφαλής και τραχήλου. Η αποκλειστική ενασχόληση της κλινικής με τη σύγχρονη ωτορινολαρυγγολογία την καθιστά μοναδική στην Ελλάδα. Η συνεργασία με καταξιωμένους χειρουργούς ωτορινολαρυγγολόγους και αναισθησιολόγους, καθώς και το εξειδικευμένο νοσηλευτικό προσωπικό διασφαλίζει το καλύτερο αποτέλεσμα σε όλες τις διενεργούμενες επεμβάσεις. Το ανθρωποκεντρικό πρόσωπο της κλινικής Καρράς είναι γνωστό ανάμεσα στους συναδέλφους ΩΡΛ , αφού ήταν και συνεχίζει να είναι ένα νοσηλευτικό ίδρυμα που βοήθησε και ακόμη βοηθά ασθενείς σε όλες τις δύσκολες κοινωνικές συγκυρίες στην πάροδο των χρόνων.",
+        "language": "en",
+        "openGraphImage": "https://www.ourglobalidea.com/rep//files/smewebsites/163016/logo-header-orl-athens-clinic.png"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "OGIBiz Website"
+        },
+        {
+          "level": "h2",
+          "text": "Καλωσήρθατε στην ιστοσελίδα της Ωτορινολαρυγγολογικής ΚλινικήςORL Athens Clinic"
+        },
+        {
+          "level": "h2",
+          "text": "ORL Athens Clinic_____"
+        },
+        {
+          "level": "h2",
+          "text": "ORL Athens Clinic"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://orlathensclinic.gr/el"
+        },
+        {
+          "href": "https://orlathensclinic.gr/",
+          "label": "ΑΡΧΙΚΗ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/kliniki/el/",
+          "label": "ΚΛΙΝΙΚΗ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/exoplismos/el/",
+          "label": "ΙΑΤΡΙΚΟΣ ΕΞΟΠΛΙΣΜΟΣ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/arthra/el/",
+          "label": "ΑΡΘΡΑ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/synergates-p1/el/",
+          "label": "ΣΥΝΕΡΓΑΤΕΣ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/syhnes-erotiseis/el/",
+          "label": "ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/epikoinonia/el/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/synergates/el/",
+          "label": "Διαβάστε περισσότερα"
+        },
+        {
+          "href": "https://orlathensclinic.gr/timokatalogos/el/",
+          "label": "ΤΙΜΟΚΑΤΑΛΟΓΟΣ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/oikonomika-stoixeia/el/",
+          "label": "ΟΙΚΟΝΟΜΙΚΑ ΣΤΟΙΧΕΙΑ"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "20/04/2016",
+          "07/03/2019",
+          "15/12/2016",
+          "210 5234432",
+          "210 5238405",
+          "1974-2023",
+          "008384601000",
+          "00302105234432",
+          "00302105238405"
+        ],
+        "emails": [
+          "karrasclinic@gmail.com"
+        ],
+        "addresses": [],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/orlathensclinic/"
+          }
+        ],
+        "forms": []
+      },
+      "textContent": "body{ background-color: rgba(240,87,82,1) } OGIBiz Website × Password protected area.Please input the correct password and press the OK button Password: OK $(document).on(\"click\", \".allow-notification\", function() { localStorage.setItem(\"onesignalEnable\", '1'); localStorage.setItem(\"onesignalEnableClick\", '1'); location.reload(); }) $(document).on(\"click\", \".close-pop-up\", function() { $(\".allow-notification\").hide(); }) × Main Description2904765 Menu2904350 .navbar-fixed-right{ z-index: 999999 !important; } .navbar-fixed-right .navbar-collapse.collapse { width: 100%; align-items: center; justify-content: center; display: block !important; right: auto; left: -300px; position: fixed; top: 0; bottom: 0; height: 100vh; max-height: initial; z-index: 999; padding-top: 50px; } .navbar-fixed-right .navbar-collapse.collapse > ul{ display: flex; flex-direction: column; max-height: 95vh; overflow: auto; } .navbar-fixed-right .navbar-collapse.menu_Open { position: fixed; top: 0; right: auto !important; left: 0 !important; width: 300px; transition: all linear 0.5s; height: 100vh!important; max-height: initial; } .navbar-fixed-right .navbar-collapse { height: 100vh!important; transition: all linear 0.5s; position: fixed; top: 82px; left: -300px!important; display: block; max-width: 300px; } .navbar-inverse.navbar-fixed-right .navbar-toggle{ margin-top: 13px; width: 44px; height: 34px; top: 17px; display: block !important; opacity: 1; position: absolute; right: 0; top: -25px; left: auto; z-index: 99999; } @media screen and (max-width: 767px) { .navbar-inverse.navbar-fixed-right .navbar-toggle{ top: -75px; } } .navbar-inverse.navbar-fixed-right .available_langulage_li{ position: relative !important; right: auto; top: auto; float: none !important; } .navbar-inverse.navbar-fixed-right ul.nav li.dropdown ul{ position: relative !important; left: auto !important; right: auto !important; width: 100%; } .navbar-inverse.navbar-fixed-right .dropdown ul li a { display: block !important; } .navbar-inverse.navbar-fixed-right .dropdown ul li a:hover{ } .navbar-inverse.navbar-fixed-right .navbar-toggle.close_menu .icon-bar:nth-child(2) { transform: rotate(45deg); transition: all linear 0.5s; position: relative; top: 6px; } .navbar-inverse.navbar-fixed-right .navbar-toggle.close_menu .icon-bar:nth-child(3) { display: none; transition: all linear 0.5s; } .navbar-inverse.navbar-fixed-right .navbar-toggle.close_menu .icon-bar:nth-child(4) { transform: rotate(126deg); margin-top: 4px; transition: all linear 0.5s; } .navbar-inverse.navbar-fixed-right .navbar-nav.navbar-right{ margin-right: 0; } .main_contentarea.manuleft_slide.menu-right{ margin-left: 0 !important; } .navbar-fixed-right ul.nav li.dropdown ul{ display: none;} .navbar-fixed-right ul.nav li.dropdown:hover ul{ display: none; height:auto!important;} .navbar-fixed-right .mob-dropdown-toggle{width:19px; height:19px; position:absolute; top:5px; right:10px; display:block; background:rgba(0, 0, 0, 0.7);} .navbar-fixed-right .mob-dropdown-toggle:after{content:\"\"; position: absolute;left: 4px;top: 49%;width: 12px;height: 2px;margin-top: -1px;background:#fff;} .navbar-fixed-right .mob-dropdown-toggle:before{content:\"\"; position: absolute;left: 50%;top: 3px;width: 2px;height: 12px;margin-left: -1px;background:#fff;} .navbar-fixed-right .mob-dropdown-toggle.minus:before{display:none;} @media screen and (max-width: 767px) { .mobile-menu { margin-top: -25px; } .mobile-menu.mobile-menu-open{ margin-top: 0 !important; } } .custom-menu li a {font-size:medium !important;}.custom-menu li a {font-family: !important;}.custom-menu li a {font-style: normal !important}.dropdown ul li a {font-size:medium !important;}.dropdown ul li a {font-family: !important;}.dropdown ul li a {font-style: normal !important}.dropdown ul li a {color:#000000 !important;}.dropdown ul li a {background-color:#FFFFFF !important;}.menu-v-align {display:flex !important; align-items: center !important;margin-top:5px} .dropdown-menu li { width: 100%; background-color: #FFFFFF; } .dropdown-menu li { width: 100%; background-color: #000000; } .custom-menu li a:hover, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a{background:#000000 !important;}.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus{background:#000000 !important;}.custom-menu li a:hover, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a {color:#FFFFFF !important;}.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {color:#FFFFFF !important;}.custom-menu li a {color:#000000 !important;} .custom-header{background-color: #fff; border: none; position: absolute; min-height: 55px; position: relative;} .custom-header .navbar-brand{ margin-top: 10px; padding-left:0; position: absolute; } .custom-menu{padding-top: 10px;} .navbar-brand {padding-top: 0px; max-width: 300px;} .navbar-brand img {max-width:100%; max-height: 70px; } .custom-header .menu-v-align .navbar-brand{position: static;} .menu-v-align .custom-menu{ margin-left:0;} .custom-menu{padding-top:5px; } .navbar-collapse.collapse{width: 100%; align-items: center; justify-content: center;} .available_langulage_li{top:5px;} #corporateBiz2{min-height:inherit!important; margin-top:0!important;} .sticky{ position: fixed !important; left: 0px; top: 0px; width: 100%; z-index: 999; } @media (max-width: 800px) { .navbar-brand{ max-width: 245px !important; } } .navbar-fixed-right .navbar-collapse.collapse {background:rgba(240,87,82,1) !important;} Toggle navigation ΑΡΧΙΚΗΚΛΙΝΙΚΗΙΑΤΡΙΚΟΣ ΕΞΟΠΛΙΣΜΟΣΑΡΘΡΑΣΥΝΕΡΓΑΤΕΣΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣΕΠΙΚΟΙΝΩΝΙΑ #flagstrap-drop-down-1 { background-color : transparent; border-color:transparent; } #flagstrap-drop-down-1-list { min-width: 10px; } .flagstrap-icon{ } .available_langulage_li{ } const cookieKey = \"Cart_items\"; const existingcartprod = (localStorage.getItem(cookieKey) != null) ? JSON.parse(localStorage.getItem(cookieKey)) : []; existingcartprod.filter((product, key) => { this.total_cart_product_count = Number(this.total_cart_product_count) + Number(product.quantity); }); jQuery('#crt_c').html(existingcartprod.length); Banner2904352 Main Description2904359 Καλωσήρθατε στην ιστοσελίδα της Ωτορινολαρυγγολογικής ΚλινικήςORL Athens Clinic Horizontal Image Area2904360 ORL Athens Clinic_____ ΩΡΛ ΧΕΙΡΟΥΡΓΙΚΗ ΚΛΙΝΙΚΗ ΑΘΗΝΩΝ Σε αυτή τη σελίδα μπορείτε να βρείτε χρήσιμα στοιχεία για την κλινική, τους συνεργάτες, τον εξοπλισμό, τις επεμβάσεις, να απευθύνετε ερωτήσεις στους συνεργάτες ιατρούς καθώς και να ενημερωθείτε για ενδιαφέροντα θέματα και εξελίξεις της ΩΡΛ ειδικότητας. Καλέστε μας Main Description2904353 ORL Athens Clinic Η Ωτορινολαρυγγολογική κλινική Θ.Καρράς ιδρύθηκε το 1974 από τον αείμνηστο Θεμιστοκλή Καρρά και μια ομάδα καταξιωμένων χειρουργών ωτορινολαρυγγολόγων με όραμα τη δημιουργία μιας πρότυπης ΩΡΛ κλινικής, με σκοπό να προσφέρει υπηρεσίες υψηλών απαιτήσεων σε ασθενείς με προβλήματα κεφαλής και τραχήλου. Η αποκλειστική ενασχόληση της κλινικής με τη σύγχρονη ωτορινολαρυγγολογία την καθιστά μοναδική στην Ελλάδα. Η συνεργασία με καταξιωμένους χειρουργούς ωτορινολαρυγγολόγους και αναισθησιολόγους, καθώς και το εξειδικευμένο νοσηλευτικό προσωπικό διασφαλίζει το καλύτερο αποτέλεσμα σε όλες τις διενεργούμενες επεμβάσεις. Το ανθρωποκεντρικό πρόσωπο της κλινικής Καρράς είναι γνωστό ανάμεσα στους συναδέλφους ΩΡΛ , αφού ήταν και συνεχίζει να είναι ένα νοσηλευτικό ίδρυμα που βοήθησε και ακόμη βοηθά ασθενείς σε όλες τις δύσκολες κοινωνικές συγκυρίες στην πάροδο των χρόνων. Vertical Image Area2904361 .columnblock_2904361 .veritems { box-shadow: 7px 7px 4px -5px rgba(0, 0, 0, 0.75); padding : 10px; background-color: rgba(255,255,255,1); } .videoblk{ z-index: 1; position: relative; } ΤΜΗΜΑΤΑ & ΥΠΗΡΕΣΙΕΣ______ Όλος ο απαραίτητος προεγχειρητικός έλεγχος γίνεται στην κλινική μας. Διαβάστε περισσότερα ΙΑΤΡΙΚΟΣ ΕΞΟΠΛΙΣΜΟΣ______ Η κλινική εξοπλισμένο με τον πλέον σύγχρονο ιατρικό εξοπλισμό. Διαβάστε περισσότερα ΣΥΝΕΡΓΑΤΕΣ______ Υπηρεσίες υγείας υψηλού επιπέδου στο πλήρες φάσμα της ΩΡΛ χειρουργικής. Διαβάστε περισσότερα ΤΑΜΕΙΑ______ Η ORL ATHENS CLINIC συνεργάζεται με ιδιωτικούς και δημόσιους φορείς Διαβάστε περισσότερα Vertical Image Area2904362 .columnblock_2904362 .veritems { box-shadow: 7px 7px 4px -5px rgba(0, 0, 0, 0.75); padding : 10px; background-color: rgba(255,255,255,1); } .videoblk{ z-index: 1; position: relative; } ΧΕΙΡΟΥΡΓΙΚΕΣ ΕΠΕΜΒΑΣΕΙΣ______ Χειρουργική αντιμετώπιση των προβλημάτων των ασθενών καθημερινά:08:00 – 15:00 ΕΞΕΤΑΣΕΙΣ______ Όλος ο απαραίτητος προεγχειρητικός έλεγχος γίνεται στην κλινική μας. Horizontal Image Area2904363 ORL Athens Clinic_____ Με γνώμονα την προσφορά μας στον ασθενή , συνεχίζουμε να γράφουμε ιστορία από μια νέα σκοπιά και θεώρηση.Η ανθρωποκεντρική φιλοσοφία της κλινικής είναι η πυξίδα μας. Τα νέα κοινωνικοοικονομικά δεδομένα μας ωθούν να στραφούμε μπροστά. Νέες τεχνικές, νέες θεραπείες, νέοι εξειδικευμένοι συνάδελφοι, αλλά συγχρόνως μια μεγάλη παρέα ιατρών. Ίσως σε κανένα άλλο χώρο τόσοι πολλοί, γνωστοί καταξιωμένοι επιστημονικά λαρυγγολόγοι δεν βρίσκονται καθημερινά στον ίδιο χώρο. Αυτή η μεγάλη ομάδα ιατρών είναι ικανή να παράσχει υψηλής ποιότητας υπηρεσίες σε χαμηλό κόστος για τον ασθενή. Ασθενείς ασφαλισμένοι στο δημόσιο (ΕΟΠΥΥ), σε ιδιωτικό φορέα ή ακόμα και χωρίς καμμία κάλυψη, μπορούν με τα οικονομικά πακέτα που έχουν διαμορφωθεί, να λύσουν οποιοδήποτε πρόβλημα κεφαλής και τραχήλου.Η κλινική των ωτορινολαρυγγολόγων, η ORL ATHENS CLINIC, σας προσκαλεί να συνεχίσετε να μας εμπιστεύεστε το πολυτιμότερο αγαθό σας, την υγεία σας.Nίκος Λαμπαδίτης, Αντιπρόεδρος Διευθυντής Αναισθησιολογικού Τμήματος Testimonial2904364 .testimonial_block_container { border: 2px solid #ccc; background-color: #eee; border-radius: 5px; padding: 16px; margin: 16px 0; } /* Clear floats after containers */ .testimonial_block_container::after { content: \"\"; clear: both; display: table; } /* Float images inside the container to the left. Add a right margin, and style the image as a circle */ .testimonial_block_container img { float: left; margin-right: 20px; border-radius: 50%; height: 90px; width:90px; } /* Increase the font-size of a span element */ .testimonial_block_container span { font-size: 20px; margin-right: 15px; } /* Add media queries for responsiveness. This will center both the text and the image inside the container */ @media (max-width: 500px) { .testimonial_block_container { text-align: center; } .testimonial_block_container img { margin: auto; float: none; display: block; } } /* =================================== horizontal ====================================*/ .slideshow-container { position: relative; background: #f1f1f1f1; } /* Slides */ .slideshow-container .mySlides { display: none; padding: 37px; text-align: center; } .slideshow-container .mySlides img{ border-radius: 50%; height: 90px; width: 90px; } /* Next & previous buttons */ .slideshow-container .prev, .slideshow-container .next { cursor: pointer; position: absolute; top: 50%; width: auto; margin-top: -30px; padding: 16px; color: #888; font-weight: bold; font-size: 20px; border-radius: 0 3px 3px 0; user-select: none; } /* Position the \"next button\" to the right */ .slideshow-container .next { position: absolute; right: 0; border-radius: 3px 0 0 3px; } /* On hover, add a black background color with a little bit see-through */ .slideshow-container .prev:hover, .slideshow-container .next:hover { background-color: rgba(0,0,0,0.8); color: white; } /* The dot/bullet/indicator container */ .dot-container { text-align: center; padding: 20px; background: #ddd; } /* The dots/bullets/indicators */ .dot { cursor: pointer; height: 15px; width: 15px; margin: 0 2px; background-color: #bbb; border-radius: 50%; display: inline-block; transition: background-color 0.6s ease; } /* Add a background color to the active dot/circle */ .dot-container .active, .dot:hover { background-color: #717171; } /* Add an italic font style to all quotes */ .slideshow-container q {font-style: italic;} /* Add a blue color to the author */ .slideshow-container .author {color: cornflowerblue;} $(document).ready(function () { var slideIndex = 1; showSlides(slideIndex); }); function plusSlides(n, blockid = '') { showSlides(slideIndex += n, blockid); } function currentSlide(n) { showSlides(slideIndex = n); } function showSlides(n, blockid = '') { var i; var selectedClass = 'slideshow-container'; if (blockid != ''){ selectedClass = 'slideshow-container-' + blockid; } $('.' + selectedClass).each(function () { var slidesContainer = $(this); var slides = $(this).find('.mySlides'); var dots = document.getElementsByClassName(\"dot\"); if (n > slides.length || n == 1) { slideIndex = 1 } if (n < 1) { slideIndex = slides.length } for (i = 0; i < slides.length; i++) { slides[i].style.display = \"none\"; } slides[slideIndex - 1].style.display = \"block\"; dots[slideIndex - 1].className += \" active\"; }); } \"Μείναμε απόλυτα ικανοποιημένοι από την εξυπηρέτηση, την ευγένεια και την φροντίδα όλου του προσωπικού\" - Δέσποινα Κ. - 20/04/2016 \"Ήταν όλα άψογα, σας ευχαριστούμε πολύ. Όσο για το προσωπικό, τέλειο!\" - Ανώνυμος - 07/03/2019 \"Είμαι πολύ ευχαριστημένη, δεν έχω λόγια άλλα\" - Ανώνυμη - 15/12/2016 ❮ ❯ Space2904365 Main Description2904366 Footer2904356 .videoblk{ z-index: 1; position: relative; } ORL ATHENS CLINICΩΡΛ ΧΕΙΡΟΥΡΓΙΚΗ ΚΛΙΝΙΚΗ ΑΘΗΝΩΝ Μαραθώνος 1, Αθήνα - 10475Τηλ.: 210 5234432Fax.: 210 5238405Email: karrasclinic@gmail.comFollow : © 1974-2023 ORL ATHENS CLINIC MENU ΑΡΧΙΚΗ ΚΛΙΝΙΚΗ ΕΞΟΠΛΙΣΜΟΣ ΣΥΝΕΡΓΑΤΕΣ ΕΠΙΚΟΙΝΩΝΙΑ ΠΛΗΡΟΦΟΡΙΕΣ ΤΙΜΟΚΑΤΑΛΟΓΟΣ ΟΙΚΟΝΟΜΙΚΑ ΣΤΟΙΧΕΙΑ ΑΡ. ΓΕΜΗ: 008384601000 ΩΡΛ ΧΕΙΡΟΥΡΓΙΚΗ ΚΛΙΝΙΚΗ ΑΘΗΝΩΝ Το ανθρωποκεντρικό πρόσωπο της κλινικής Καρράς ORL ATHENS CLINIC είναι γνωστό ανάμεσα στους συναδέλφους ΩΡΛ , αφού ήταν και συνεχίζει να είναι ένα νοσηλευτικό ίδρυμα που βοήθησε και ακόμη βοηθά ασθενείς σε όλες τις δύσκολες κοινωνικές συγκυρίες στην πάροδο των χρόνων.",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orlathensclinic.gr-home-5fe2b216/homepage--5fe2b216.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orlathensclinic.gr-home-5fe2b216/homepage--5fe2b216.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.ourglobalidea.com/rep//files/smewebsites/163016/logo-header-orl-athens-clinic.png",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://orlathensclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://orlathensclinic.gr/",
+              "retrievedAt": "2026-03-31T13:16:03.771Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/163016/1bannerallETPA2.jpg",
+          "alt": "espa",
+          "sourcePageUrl": "https://orlathensclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/",
+              "retrievedAt": "2026-03-31T13:16:03.771Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/163016/e-banner-%CE%9F%CE%A0%CE%A3-4898.jpg",
+          "sourcePageUrl": "https://orlathensclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/",
+              "retrievedAt": "2026-03-31T13:16:03.771Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orlathensclinic.gr/files/smewebsites/163016/logo-header-orl-athens-clinic2.png",
+          "alt": "business logo",
+          "sourcePageUrl": "https://orlathensclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/",
+              "retrievedAt": "2026-03-31T13:16:03.771Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orlathensclinic.gr/files/smewebsites/163016/new2.jpg",
+          "alt": "Banner image",
+          "sourcePageUrl": "https://orlathensclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/",
+              "retrievedAt": "2026-03-31T13:16:03.771Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orlathensclinic.gr/files/smewebsites/120154/orl_athens_clinic__001_.gif",
+          "sourcePageUrl": "https://orlathensclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/",
+              "retrievedAt": "2026-03-31T13:16:03.771Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/120154/orl_athens_clinic_xeirourgikes_epemvaseis.png",
+          "sourcePageUrl": "https://orlathensclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/",
+              "retrievedAt": "2026-03-31T13:16:03.771Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/120154/freegifmaker_me_2iFfP.gif",
+          "sourcePageUrl": "https://orlathensclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/",
+              "retrievedAt": "2026-03-31T13:16:03.771Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/120154/orl_athens_clinic_exetaseis.png",
+          "sourcePageUrl": "https://orlathensclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/",
+              "retrievedAt": "2026-03-31T13:16:03.771Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orlathensclinic.gr/files/smewebsites/120154/ORL_ATHENS_CLINIC_017.jpg",
+          "sourcePageUrl": "https://orlathensclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/",
+              "retrievedAt": "2026-03-31T13:16:03.771Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orlathensclinic.gr/files/smewebsites/120154/femail_testimonial_pic-modified.png",
+          "alt": "Avatar",
+          "sourcePageUrl": "https://orlathensclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/",
+              "retrievedAt": "2026-03-31T13:16:03.771Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orlathensclinic.gr/files/smewebsites/120154/mail_testimonial_pic-modified.png",
+          "alt": "Avatar",
+          "sourcePageUrl": "https://orlathensclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/",
+              "retrievedAt": "2026-03-31T13:16:03.771Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.773Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orlathensclinic.gr-home-5fe2b216/homepage-page-5fe2b216.png"
+    },
+    "about": {
+      "pageType": "about",
+      "requestedUrl": "https://orlathensclinic.gr/el",
+      "finalUrl": "https://orlathensclinic.gr/el",
+      "fetchedAt": "2026-03-31T13:16:09.817Z",
+      "metadata": {
+        "title": "ORL Athens Clinic - ΩΡΛ ΧΕΙΡΟΥΡΓΙΚΗ ΚΛΙΝΙΚΗ ΑΘΗΝΩΝ",
+        "metaDescription": "Καλωσήρθατε στην ιστοσελίδα της ωτορινολαρυγγολογικής κλινικής ORL Athens Clinic. Η Ωτορινολαρυγγολογική κλινική Θ.Καρράς ιδρύθηκε το 1974 από τον αείμνηστο Θεμιστοκλή Καρρά και μια ομάδα καταξιωμένων χειρουργών ωτορινολαρυγγολόγων με όραμα τη δημιουργία μιας πρότυπης ΩΡΛ κλινικής, με σκοπό να προσφέρει υπηρεσίες υψηλών απαιτήσεων σε ασθενείς με προβλήματα κεφαλής και τραχήλου. Η αποκλειστική ενασχόληση της κλινικής με τη σύγχρονη ωτορινολαρυγγολογία την καθιστά μοναδική στην Ελλάδα. Η συνεργασία με καταξιωμένους χειρουργούς ωτορινολαρυγγολόγους και αναισθησιολόγους, καθώς και το εξειδικευμένο νοσηλευτικό προσωπικό διασφαλίζει το καλύτερο αποτέλεσμα σε όλες τις διενεργούμενες επεμβάσεις. Το ανθρωποκεντρικό πρόσωπο της κλινικής Καρράς είναι γνωστό ανάμεσα στους συναδέλφους ΩΡΛ , αφού ήταν και συνεχίζει να είναι ένα νοσηλευτικό ίδρυμα που βοήθησε και ακόμη βοηθά ασθενείς σε όλες τις δύσκολες κοινωνικές συγκυρίες στην πάροδο των χρόνων.",
+        "language": "en",
+        "openGraphImage": "https://www.ourglobalidea.com/rep//files/smewebsites/163016/logo-header-orl-athens-clinic.png"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "OGIBiz Website"
+        },
+        {
+          "level": "h2",
+          "text": "Καλωσήρθατε στην ιστοσελίδα της Ωτορινολαρυγγολογικής ΚλινικήςORL Athens Clinic"
+        },
+        {
+          "level": "h2",
+          "text": "ORL Athens Clinic_____"
+        },
+        {
+          "level": "h2",
+          "text": "ORL Athens Clinic"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://orlathensclinic.gr/el"
+        },
+        {
+          "href": "https://orlathensclinic.gr/",
+          "label": "ΑΡΧΙΚΗ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/kliniki/el/",
+          "label": "ΚΛΙΝΙΚΗ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/exoplismos/el/",
+          "label": "ΙΑΤΡΙΚΟΣ ΕΞΟΠΛΙΣΜΟΣ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/arthra/el/",
+          "label": "ΑΡΘΡΑ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/synergates-p1/el/",
+          "label": "ΣΥΝΕΡΓΑΤΕΣ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/syhnes-erotiseis/el/",
+          "label": "ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/epikoinonia/el/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/synergates/el/",
+          "label": "Διαβάστε περισσότερα"
+        },
+        {
+          "href": "https://orlathensclinic.gr/timokatalogos/el/",
+          "label": "ΤΙΜΟΚΑΤΑΛΟΓΟΣ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/oikonomika-stoixeia/el/",
+          "label": "ΟΙΚΟΝΟΜΙΚΑ ΣΤΟΙΧΕΙΑ"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "20/04/2016",
+          "07/03/2019",
+          "15/12/2016",
+          "210 5234432",
+          "210 5238405",
+          "1974-2023",
+          "008384601000",
+          "00302105234432",
+          "00302105238405"
+        ],
+        "emails": [
+          "karrasclinic@gmail.com"
+        ],
+        "addresses": [],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/orlathensclinic/"
+          }
+        ],
+        "forms": []
+      },
+      "textContent": "body{ background-color: rgba(240,87,82,1) } OGIBiz Website × Password protected area.Please input the correct password and press the OK button Password: OK $(document).on(\"click\", \".allow-notification\", function() { localStorage.setItem(\"onesignalEnable\", '1'); localStorage.setItem(\"onesignalEnableClick\", '1'); location.reload(); }) $(document).on(\"click\", \".close-pop-up\", function() { $(\".allow-notification\").hide(); }) × Main Description2904765 Menu2904350 .navbar-fixed-right{ z-index: 999999 !important; } .navbar-fixed-right .navbar-collapse.collapse { width: 100%; align-items: center; justify-content: center; display: block !important; right: auto; left: -300px; position: fixed; top: 0; bottom: 0; height: 100vh; max-height: initial; z-index: 999; padding-top: 50px; } .navbar-fixed-right .navbar-collapse.collapse > ul{ display: flex; flex-direction: column; max-height: 95vh; overflow: auto; } .navbar-fixed-right .navbar-collapse.menu_Open { position: fixed; top: 0; right: auto !important; left: 0 !important; width: 300px; transition: all linear 0.5s; height: 100vh!important; max-height: initial; } .navbar-fixed-right .navbar-collapse { height: 100vh!important; transition: all linear 0.5s; position: fixed; top: 82px; left: -300px!important; display: block; max-width: 300px; } .navbar-inverse.navbar-fixed-right .navbar-toggle{ margin-top: 13px; width: 44px; height: 34px; top: 17px; display: block !important; opacity: 1; position: absolute; right: 0; top: -25px; left: auto; z-index: 99999; } @media screen and (max-width: 767px) { .navbar-inverse.navbar-fixed-right .navbar-toggle{ top: -75px; } } .navbar-inverse.navbar-fixed-right .available_langulage_li{ position: relative !important; right: auto; top: auto; float: none !important; } .navbar-inverse.navbar-fixed-right ul.nav li.dropdown ul{ position: relative !important; left: auto !important; right: auto !important; width: 100%; } .navbar-inverse.navbar-fixed-right .dropdown ul li a { display: block !important; } .navbar-inverse.navbar-fixed-right .dropdown ul li a:hover{ } .navbar-inverse.navbar-fixed-right .navbar-toggle.close_menu .icon-bar:nth-child(2) { transform: rotate(45deg); transition: all linear 0.5s; position: relative; top: 6px; } .navbar-inverse.navbar-fixed-right .navbar-toggle.close_menu .icon-bar:nth-child(3) { display: none; transition: all linear 0.5s; } .navbar-inverse.navbar-fixed-right .navbar-toggle.close_menu .icon-bar:nth-child(4) { transform: rotate(126deg); margin-top: 4px; transition: all linear 0.5s; } .navbar-inverse.navbar-fixed-right .navbar-nav.navbar-right{ margin-right: 0; } .main_contentarea.manuleft_slide.menu-right{ margin-left: 0 !important; } .navbar-fixed-right ul.nav li.dropdown ul{ display: none;} .navbar-fixed-right ul.nav li.dropdown:hover ul{ display: none; height:auto!important;} .navbar-fixed-right .mob-dropdown-toggle{width:19px; height:19px; position:absolute; top:5px; right:10px; display:block; background:rgba(0, 0, 0, 0.7);} .navbar-fixed-right .mob-dropdown-toggle:after{content:\"\"; position: absolute;left: 4px;top: 49%;width: 12px;height: 2px;margin-top: -1px;background:#fff;} .navbar-fixed-right .mob-dropdown-toggle:before{content:\"\"; position: absolute;left: 50%;top: 3px;width: 2px;height: 12px;margin-left: -1px;background:#fff;} .navbar-fixed-right .mob-dropdown-toggle.minus:before{display:none;} @media screen and (max-width: 767px) { .mobile-menu { margin-top: -25px; } .mobile-menu.mobile-menu-open{ margin-top: 0 !important; } } .custom-menu li a {font-size:medium !important;}.custom-menu li a {font-family: !important;}.custom-menu li a {font-style: normal !important}.dropdown ul li a {font-size:medium !important;}.dropdown ul li a {font-family: !important;}.dropdown ul li a {font-style: normal !important}.dropdown ul li a {color:#000000 !important;}.dropdown ul li a {background-color:#FFFFFF !important;}.menu-v-align {display:flex !important; align-items: center !important;margin-top:5px} .dropdown-menu li { width: 100%; background-color: #FFFFFF; } .dropdown-menu li { width: 100%; background-color: #000000; } .custom-menu li a:hover, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a{background:#000000 !important;}.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus{background:#000000 !important;}.custom-menu li a:hover, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a {color:#FFFFFF !important;}.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {color:#FFFFFF !important;}.custom-menu li a {color:#000000 !important;} .custom-header{background-color: #fff; border: none; position: absolute; min-height: 55px; position: relative;} .custom-header .navbar-brand{ margin-top: 10px; padding-left:0; position: absolute; } .custom-menu{padding-top: 10px;} .navbar-brand {padding-top: 0px; max-width: 300px;} .navbar-brand img {max-width:100%; max-height: 70px; } .custom-header .menu-v-align .navbar-brand{position: static;} .menu-v-align .custom-menu{ margin-left:0;} .custom-menu{padding-top:5px; } .navbar-collapse.collapse{width: 100%; align-items: center; justify-content: center;} .available_langulage_li{top:5px;} #corporateBiz2{min-height:inherit!important; margin-top:0!important;} .sticky{ position: fixed !important; left: 0px; top: 0px; width: 100%; z-index: 999; } @media (max-width: 800px) { .navbar-brand{ max-width: 245px !important; } } .navbar-fixed-right .navbar-collapse.collapse {background:rgba(240,87,82,1) !important;} Toggle navigation ΑΡΧΙΚΗΚΛΙΝΙΚΗΙΑΤΡΙΚΟΣ ΕΞΟΠΛΙΣΜΟΣΑΡΘΡΑΣΥΝΕΡΓΑΤΕΣΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣΕΠΙΚΟΙΝΩΝΙΑ #flagstrap-drop-down-1 { background-color : transparent; border-color:transparent; } #flagstrap-drop-down-1-list { min-width: 10px; } .flagstrap-icon{ } .available_langulage_li{ } const cookieKey = \"Cart_items\"; const existingcartprod = (localStorage.getItem(cookieKey) != null) ? JSON.parse(localStorage.getItem(cookieKey)) : []; existingcartprod.filter((product, key) => { this.total_cart_product_count = Number(this.total_cart_product_count) + Number(product.quantity); }); jQuery('#crt_c').html(existingcartprod.length); Banner2904352 Main Description2904359 Καλωσήρθατε στην ιστοσελίδα της Ωτορινολαρυγγολογικής ΚλινικήςORL Athens Clinic Horizontal Image Area2904360 ORL Athens Clinic_____ ΩΡΛ ΧΕΙΡΟΥΡΓΙΚΗ ΚΛΙΝΙΚΗ ΑΘΗΝΩΝ Σε αυτή τη σελίδα μπορείτε να βρείτε χρήσιμα στοιχεία για την κλινική, τους συνεργάτες, τον εξοπλισμό, τις επεμβάσεις, να απευθύνετε ερωτήσεις στους συνεργάτες ιατρούς καθώς και να ενημερωθείτε για ενδιαφέροντα θέματα και εξελίξεις της ΩΡΛ ειδικότητας. Καλέστε μας Main Description2904353 ORL Athens Clinic Η Ωτορινολαρυγγολογική κλινική Θ.Καρράς ιδρύθηκε το 1974 από τον αείμνηστο Θεμιστοκλή Καρρά και μια ομάδα καταξιωμένων χειρουργών ωτορινολαρυγγολόγων με όραμα τη δημιουργία μιας πρότυπης ΩΡΛ κλινικής, με σκοπό να προσφέρει υπηρεσίες υψηλών απαιτήσεων σε ασθενείς με προβλήματα κεφαλής και τραχήλου. Η αποκλειστική ενασχόληση της κλινικής με τη σύγχρονη ωτορινολαρυγγολογία την καθιστά μοναδική στην Ελλάδα. Η συνεργασία με καταξιωμένους χειρουργούς ωτορινολαρυγγολόγους και αναισθησιολόγους, καθώς και το εξειδικευμένο νοσηλευτικό προσωπικό διασφαλίζει το καλύτερο αποτέλεσμα σε όλες τις διενεργούμενες επεμβάσεις. Το ανθρωποκεντρικό πρόσωπο της κλινικής Καρράς είναι γνωστό ανάμεσα στους συναδέλφους ΩΡΛ , αφού ήταν και συνεχίζει να είναι ένα νοσηλευτικό ίδρυμα που βοήθησε και ακόμη βοηθά ασθενείς σε όλες τις δύσκολες κοινωνικές συγκυρίες στην πάροδο των χρόνων. Vertical Image Area2904361 .columnblock_2904361 .veritems { box-shadow: 7px 7px 4px -5px rgba(0, 0, 0, 0.75); padding : 10px; background-color: rgba(255,255,255,1); } .videoblk{ z-index: 1; position: relative; } ΤΜΗΜΑΤΑ & ΥΠΗΡΕΣΙΕΣ______ Όλος ο απαραίτητος προεγχειρητικός έλεγχος γίνεται στην κλινική μας. Διαβάστε περισσότερα ΙΑΤΡΙΚΟΣ ΕΞΟΠΛΙΣΜΟΣ______ Η κλινική εξοπλισμένο με τον πλέον σύγχρονο ιατρικό εξοπλισμό. Διαβάστε περισσότερα ΣΥΝΕΡΓΑΤΕΣ______ Υπηρεσίες υγείας υψηλού επιπέδου στο πλήρες φάσμα της ΩΡΛ χειρουργικής. Διαβάστε περισσότερα ΤΑΜΕΙΑ______ Η ORL ATHENS CLINIC συνεργάζεται με ιδιωτικούς και δημόσιους φορείς Διαβάστε περισσότερα Vertical Image Area2904362 .columnblock_2904362 .veritems { box-shadow: 7px 7px 4px -5px rgba(0, 0, 0, 0.75); padding : 10px; background-color: rgba(255,255,255,1); } .videoblk{ z-index: 1; position: relative; } ΧΕΙΡΟΥΡΓΙΚΕΣ ΕΠΕΜΒΑΣΕΙΣ______ Χειρουργική αντιμετώπιση των προβλημάτων των ασθενών καθημερινά:08:00 – 15:00 ΕΞΕΤΑΣΕΙΣ______ Όλος ο απαραίτητος προεγχειρητικός έλεγχος γίνεται στην κλινική μας. Horizontal Image Area2904363 ORL Athens Clinic_____ Με γνώμονα την προσφορά μας στον ασθενή , συνεχίζουμε να γράφουμε ιστορία από μια νέα σκοπιά και θεώρηση.Η ανθρωποκεντρική φιλοσοφία της κλινικής είναι η πυξίδα μας. Τα νέα κοινωνικοοικονομικά δεδομένα μας ωθούν να στραφούμε μπροστά. Νέες τεχνικές, νέες θεραπείες, νέοι εξειδικευμένοι συνάδελφοι, αλλά συγχρόνως μια μεγάλη παρέα ιατρών. Ίσως σε κανένα άλλο χώρο τόσοι πολλοί, γνωστοί καταξιωμένοι επιστημονικά λαρυγγολόγοι δεν βρίσκονται καθημερινά στον ίδιο χώρο. Αυτή η μεγάλη ομάδα ιατρών είναι ικανή να παράσχει υψηλής ποιότητας υπηρεσίες σε χαμηλό κόστος για τον ασθενή. Ασθενείς ασφαλισμένοι στο δημόσιο (ΕΟΠΥΥ), σε ιδιωτικό φορέα ή ακόμα και χωρίς καμμία κάλυψη, μπορούν με τα οικονομικά πακέτα που έχουν διαμορφωθεί, να λύσουν οποιοδήποτε πρόβλημα κεφαλής και τραχήλου.Η κλινική των ωτορινολαρυγγολόγων, η ORL ATHENS CLINIC, σας προσκαλεί να συνεχίσετε να μας εμπιστεύεστε το πολυτιμότερο αγαθό σας, την υγεία σας.Nίκος Λαμπαδίτης, Αντιπρόεδρος Διευθυντής Αναισθησιολογικού Τμήματος Testimonial2904364 .testimonial_block_container { border: 2px solid #ccc; background-color: #eee; border-radius: 5px; padding: 16px; margin: 16px 0; } /* Clear floats after containers */ .testimonial_block_container::after { content: \"\"; clear: both; display: table; } /* Float images inside the container to the left. Add a right margin, and style the image as a circle */ .testimonial_block_container img { float: left; margin-right: 20px; border-radius: 50%; height: 90px; width:90px; } /* Increase the font-size of a span element */ .testimonial_block_container span { font-size: 20px; margin-right: 15px; } /* Add media queries for responsiveness. This will center both the text and the image inside the container */ @media (max-width: 500px) { .testimonial_block_container { text-align: center; } .testimonial_block_container img { margin: auto; float: none; display: block; } } /* =================================== horizontal ====================================*/ .slideshow-container { position: relative; background: #f1f1f1f1; } /* Slides */ .slideshow-container .mySlides { display: none; padding: 37px; text-align: center; } .slideshow-container .mySlides img{ border-radius: 50%; height: 90px; width: 90px; } /* Next & previous buttons */ .slideshow-container .prev, .slideshow-container .next { cursor: pointer; position: absolute; top: 50%; width: auto; margin-top: -30px; padding: 16px; color: #888; font-weight: bold; font-size: 20px; border-radius: 0 3px 3px 0; user-select: none; } /* Position the \"next button\" to the right */ .slideshow-container .next { position: absolute; right: 0; border-radius: 3px 0 0 3px; } /* On hover, add a black background color with a little bit see-through */ .slideshow-container .prev:hover, .slideshow-container .next:hover { background-color: rgba(0,0,0,0.8); color: white; } /* The dot/bullet/indicator container */ .dot-container { text-align: center; padding: 20px; background: #ddd; } /* The dots/bullets/indicators */ .dot { cursor: pointer; height: 15px; width: 15px; margin: 0 2px; background-color: #bbb; border-radius: 50%; display: inline-block; transition: background-color 0.6s ease; } /* Add a background color to the active dot/circle */ .dot-container .active, .dot:hover { background-color: #717171; } /* Add an italic font style to all quotes */ .slideshow-container q {font-style: italic;} /* Add a blue color to the author */ .slideshow-container .author {color: cornflowerblue;} $(document).ready(function () { var slideIndex = 1; showSlides(slideIndex); }); function plusSlides(n, blockid = '') { showSlides(slideIndex += n, blockid); } function currentSlide(n) { showSlides(slideIndex = n); } function showSlides(n, blockid = '') { var i; var selectedClass = 'slideshow-container'; if (blockid != ''){ selectedClass = 'slideshow-container-' + blockid; } $('.' + selectedClass).each(function () { var slidesContainer = $(this); var slides = $(this).find('.mySlides'); var dots = document.getElementsByClassName(\"dot\"); if (n > slides.length || n == 1) { slideIndex = 1 } if (n < 1) { slideIndex = slides.length } for (i = 0; i < slides.length; i++) { slides[i].style.display = \"none\"; } slides[slideIndex - 1].style.display = \"block\"; dots[slideIndex - 1].className += \" active\"; }); } \"Μείναμε απόλυτα ικανοποιημένοι από την εξυπηρέτηση, την ευγένεια και την φροντίδα όλου του προσωπικού\" - Δέσποινα Κ. - 20/04/2016 \"Ήταν όλα άψογα, σας ευχαριστούμε πολύ. Όσο για το προσωπικό, τέλειο!\" - Ανώνυμος - 07/03/2019 \"Είμαι πολύ ευχαριστημένη, δεν έχω λόγια άλλα\" - Ανώνυμη - 15/12/2016 ❮ ❯ Space2904365 Main Description2904366 Footer2904356 .videoblk{ z-index: 1; position: relative; } ORL ATHENS CLINICΩΡΛ ΧΕΙΡΟΥΡΓΙΚΗ ΚΛΙΝΙΚΗ ΑΘΗΝΩΝ Μαραθώνος 1, Αθήνα - 10475Τηλ.: 210 5234432Fax.: 210 5238405Email: karrasclinic@gmail.comFollow : © 1974-2023 ORL ATHENS CLINIC MENU ΑΡΧΙΚΗ ΚΛΙΝΙΚΗ ΕΞΟΠΛΙΣΜΟΣ ΣΥΝΕΡΓΑΤΕΣ ΕΠΙΚΟΙΝΩΝΙΑ ΠΛΗΡΟΦΟΡΙΕΣ ΤΙΜΟΚΑΤΑΛΟΓΟΣ ΟΙΚΟΝΟΜΙΚΑ ΣΤΟΙΧΕΙΑ ΑΡ. ΓΕΜΗ: 008384601000 ΩΡΛ ΧΕΙΡΟΥΡΓΙΚΗ ΚΛΙΝΙΚΗ ΑΘΗΝΩΝ Το ανθρωποκεντρικό πρόσωπο της κλινικής Καρράς ORL ATHENS CLINIC είναι γνωστό ανάμεσα στους συναδέλφους ΩΡΛ , αφού ήταν και συνεχίζει να είναι ένα νοσηλευτικό ίδρυμα που βοήθησε και ακόμη βοηθά ασθενείς σε όλες τις δύσκολες κοινωνικές συγκυρίες στην πάροδο των χρόνων.",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orlathensclinic.gr-home-5fe2b216/about-el-b0662748.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orlathensclinic.gr-home-5fe2b216/about-el-b0662748.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.ourglobalidea.com/rep//files/smewebsites/163016/logo-header-orl-athens-clinic.png",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://orlathensclinic.gr/el",
+          "pageType": "about",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://orlathensclinic.gr/el",
+              "retrievedAt": "2026-03-31T13:16:09.815Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/163016/1bannerallETPA2.jpg",
+          "alt": "espa",
+          "sourcePageUrl": "https://orlathensclinic.gr/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/el",
+              "retrievedAt": "2026-03-31T13:16:09.815Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/163016/e-banner-%CE%9F%CE%A0%CE%A3-4898.jpg",
+          "sourcePageUrl": "https://orlathensclinic.gr/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/el",
+              "retrievedAt": "2026-03-31T13:16:09.815Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orlathensclinic.gr/files/smewebsites/163016/logo-header-orl-athens-clinic2.png",
+          "alt": "business logo",
+          "sourcePageUrl": "https://orlathensclinic.gr/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/el",
+              "retrievedAt": "2026-03-31T13:16:09.815Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orlathensclinic.gr/files/smewebsites/163016/new2.jpg",
+          "alt": "Banner image",
+          "sourcePageUrl": "https://orlathensclinic.gr/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/el",
+              "retrievedAt": "2026-03-31T13:16:09.815Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orlathensclinic.gr/files/smewebsites/120154/orl_athens_clinic__001_.gif",
+          "sourcePageUrl": "https://orlathensclinic.gr/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/el",
+              "retrievedAt": "2026-03-31T13:16:09.815Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/120154/orl_athens_clinic_xeirourgikes_epemvaseis.png",
+          "sourcePageUrl": "https://orlathensclinic.gr/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/el",
+              "retrievedAt": "2026-03-31T13:16:09.815Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/120154/freegifmaker_me_2iFfP.gif",
+          "sourcePageUrl": "https://orlathensclinic.gr/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/el",
+              "retrievedAt": "2026-03-31T13:16:09.815Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/120154/orl_athens_clinic_exetaseis.png",
+          "sourcePageUrl": "https://orlathensclinic.gr/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/el",
+              "retrievedAt": "2026-03-31T13:16:09.815Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orlathensclinic.gr/files/smewebsites/120154/ORL_ATHENS_CLINIC_017.jpg",
+          "sourcePageUrl": "https://orlathensclinic.gr/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/el",
+              "retrievedAt": "2026-03-31T13:16:09.815Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orlathensclinic.gr/files/smewebsites/120154/femail_testimonial_pic-modified.png",
+          "alt": "Avatar",
+          "sourcePageUrl": "https://orlathensclinic.gr/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/el",
+              "retrievedAt": "2026-03-31T13:16:09.815Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orlathensclinic.gr/files/smewebsites/120154/mail_testimonial_pic-modified.png",
+          "alt": "Avatar",
+          "sourcePageUrl": "https://orlathensclinic.gr/el",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/el",
+              "retrievedAt": "2026-03-31T13:16:09.815Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.55,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page fetch",
+          "uri": "https://orlathensclinic.gr/el",
+          "retrievedAt": "2026-03-31T13:16:09.817Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://orlathensclinic.gr/epikoinonia/el",
+      "finalUrl": "https://orlathensclinic.gr/epikoinonia/el",
+      "fetchedAt": "2026-03-31T13:16:07.681Z",
+      "metadata": {
+        "title": "ORL Athens Clinic - ΩΡΛ ΧΕΙΡΟΥΡΓΙΚΗ ΚΛΙΝΙΚΗ ΑΘΗΝΩΝ",
+        "metaDescription": "Ωράριο λειτουργίας: Όλο το 24ωρο Ώρες εξετάσεων: Χειρουργική αντιμετώπιση των προβλημάτων των ασθενών καθημερινά 8:00 – 15:00. Πρόσβαση: Μετρό, στάσεις: Ομόνοια (Κόκκινη γραμμή), Κεραμεικός (Μπλε γραμμή).",
+        "language": "en",
+        "openGraphImage": "https://www.ourglobalidea.com/rep//files/smewebsites/163016/logo-header-orl-athens-clinic.png"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "OGIBiz Website"
+        },
+        {
+          "level": "h2",
+          "text": "Ε Π Ι Κ Ο Ι Ν Ω Ν Ι Α"
+        },
+        {
+          "level": "h2",
+          "text": "Π Λ Η Ρ Ο Φ Ο Ρ Ι Ε Σ"
+        },
+        {
+          "level": "h2",
+          "text": "Φ Ο Ρ Μ Α Ε Π Ι Κ Ο Ι Ν Ω Ν Ι Α Σ"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://orlathensclinic.gr/el"
+        },
+        {
+          "href": "https://orlathensclinic.gr/",
+          "label": "ΑΡΧΙΚΗ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/kliniki/el/",
+          "label": "ΚΛΙΝΙΚΗ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/exoplismos/el/",
+          "label": "ΙΑΤΡΙΚΟΣ ΕΞΟΠΛΙΣΜΟΣ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/arthra/el/",
+          "label": "ΑΡΘΡΑ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/synergates-p1/el/",
+          "label": "ΣΥΝΕΡΓΑΤΕΣ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/syhnes-erotiseis/el/",
+          "label": "ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/epikoinonia/el/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/timokatalogos/el/",
+          "label": "ΤΙΜΟΚΑΤΑΛΟΓΟΣ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/oikonomika-stoixeia/el/",
+          "label": "ΟΙΚΟΝΟΜΙΚΑ ΣΤΟΙΧΕΙΑ"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://orlathensclinic.gr/smewebsites/website",
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "_method",
+            "data[ContactUsFrontEndForm][UserInfo]",
+            "data[ContactUsFrontEndForm][emailToSend]",
+            "data[ContactUsFrontEndForm][totalFields]",
+            "data[ContactUsFrontEndForm][pageUrl]",
+            "data[ContactUsFrontEndForm][itemName_1]",
+            "data[ContactUsFrontEndForm][fieldname_1]",
+            "data[ContactUsFrontEndForm][itemName_2]",
+            "data[ContactUsFrontEndForm][fieldname_2]",
+            "data[ContactUsFrontEndForm][itemName_3]",
+            "data[ContactUsFrontEndForm][fieldname_3]",
+            "data[ContactUsFrontEndForm][itemName_4]",
+            "data[ContactUsFrontEndForm][fieldname_4]"
+          ],
+          "submitLabels": [
+            "Αποστολή"
+          ],
+          "fields": [
+            {
+              "name": "_method",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "data[ContactUsFrontEndForm][UserInfo]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "data[ContactUsFrontEndForm][emailToSend]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "data[ContactUsFrontEndForm][totalFields]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "data[ContactUsFrontEndForm][pageUrl]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "data[ContactUsFrontEndForm][itemName_1]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "data[ContactUsFrontEndForm][fieldname_1]",
+              "type": "text",
+              "label": "Ονοματεπώνυμο",
+              "required": true
+            },
+            {
+              "name": "data[ContactUsFrontEndForm][itemName_2]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "data[ContactUsFrontEndForm][fieldname_2]",
+              "type": "email",
+              "label": "Email",
+              "required": true
+            },
+            {
+              "name": "data[ContactUsFrontEndForm][itemName_3]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "data[ContactUsFrontEndForm][fieldname_3]",
+              "type": "text",
+              "label": "Θέμα",
+              "required": true
+            },
+            {
+              "name": "data[ContactUsFrontEndForm][itemName_4]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "data[ContactUsFrontEndForm][fieldname_4]",
+              "type": "textarea",
+              "label": "Μήνυμα",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "210 5234432",
+          "210 5238405",
+          "1974-2023",
+          "008384601000",
+          "00302105234432",
+          "00302105238405"
+        ],
+        "emails": [
+          "karrasclinic@gmail.com"
+        ],
+        "addresses": [],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/orlathensclinic/"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://orlathensclinic.gr/smewebsites/website",
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "_method",
+              "data[ContactUsFrontEndForm][UserInfo]",
+              "data[ContactUsFrontEndForm][emailToSend]",
+              "data[ContactUsFrontEndForm][totalFields]",
+              "data[ContactUsFrontEndForm][pageUrl]",
+              "data[ContactUsFrontEndForm][itemName_1]",
+              "data[ContactUsFrontEndForm][fieldname_1]",
+              "data[ContactUsFrontEndForm][itemName_2]",
+              "data[ContactUsFrontEndForm][fieldname_2]",
+              "data[ContactUsFrontEndForm][itemName_3]",
+              "data[ContactUsFrontEndForm][fieldname_3]",
+              "data[ContactUsFrontEndForm][itemName_4]",
+              "data[ContactUsFrontEndForm][fieldname_4]"
+            ],
+            "submitLabels": [
+              "Αποστολή"
+            ],
+            "fields": [
+              {
+                "name": "_method",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "data[ContactUsFrontEndForm][UserInfo]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "data[ContactUsFrontEndForm][emailToSend]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "data[ContactUsFrontEndForm][totalFields]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "data[ContactUsFrontEndForm][pageUrl]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "data[ContactUsFrontEndForm][itemName_1]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "data[ContactUsFrontEndForm][fieldname_1]",
+                "type": "text",
+                "label": "Ονοματεπώνυμο",
+                "required": true
+              },
+              {
+                "name": "data[ContactUsFrontEndForm][itemName_2]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "data[ContactUsFrontEndForm][fieldname_2]",
+                "type": "email",
+                "label": "Email",
+                "required": true
+              },
+              {
+                "name": "data[ContactUsFrontEndForm][itemName_3]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "data[ContactUsFrontEndForm][fieldname_3]",
+                "type": "text",
+                "label": "Θέμα",
+                "required": true
+              },
+              {
+                "name": "data[ContactUsFrontEndForm][itemName_4]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "data[ContactUsFrontEndForm][fieldname_4]",
+                "type": "textarea",
+                "label": "Μήνυμα",
+                "required": true
+              }
+            ]
+          }
+        ]
+      },
+      "textContent": "body{ background-color: rgba(240,87,82,1) } OGIBiz Website × Password protected area.Please input the correct password and press the OK button Password: OK $(document).on(\"click\", \".allow-notification\", function() { localStorage.setItem(\"onesignalEnable\", '1'); localStorage.setItem(\"onesignalEnableClick\", '1'); location.reload(); }) $(document).on(\"click\", \".close-pop-up\", function() { $(\".allow-notification\").hide(); }) × Main Description2904765 Menu2904350 .navbar-fixed-right{ z-index: 999999 !important; } .navbar-fixed-right .navbar-collapse.collapse { width: 100%; align-items: center; justify-content: center; display: block !important; right: auto; left: -300px; position: fixed; top: 0; bottom: 0; height: 100vh; max-height: initial; z-index: 999; padding-top: 50px; } .navbar-fixed-right .navbar-collapse.collapse > ul{ display: flex; flex-direction: column; max-height: 95vh; overflow: auto; } .navbar-fixed-right .navbar-collapse.menu_Open { position: fixed; top: 0; right: auto !important; left: 0 !important; width: 300px; transition: all linear 0.5s; height: 100vh!important; max-height: initial; } .navbar-fixed-right .navbar-collapse { height: 100vh!important; transition: all linear 0.5s; position: fixed; top: 82px; left: -300px!important; display: block; max-width: 300px; } .navbar-inverse.navbar-fixed-right .navbar-toggle{ margin-top: 13px; width: 44px; height: 34px; top: 17px; display: block !important; opacity: 1; position: absolute; right: 0; top: -25px; left: auto; z-index: 99999; } @media screen and (max-width: 767px) { .navbar-inverse.navbar-fixed-right .navbar-toggle{ top: -75px; } } .navbar-inverse.navbar-fixed-right .available_langulage_li{ position: relative !important; right: auto; top: auto; float: none !important; } .navbar-inverse.navbar-fixed-right ul.nav li.dropdown ul{ position: relative !important; left: auto !important; right: auto !important; width: 100%; } .navbar-inverse.navbar-fixed-right .dropdown ul li a { display: block !important; } .navbar-inverse.navbar-fixed-right .dropdown ul li a:hover{ } .navbar-inverse.navbar-fixed-right .navbar-toggle.close_menu .icon-bar:nth-child(2) { transform: rotate(45deg); transition: all linear 0.5s; position: relative; top: 6px; } .navbar-inverse.navbar-fixed-right .navbar-toggle.close_menu .icon-bar:nth-child(3) { display: none; transition: all linear 0.5s; } .navbar-inverse.navbar-fixed-right .navbar-toggle.close_menu .icon-bar:nth-child(4) { transform: rotate(126deg); margin-top: 4px; transition: all linear 0.5s; } .navbar-inverse.navbar-fixed-right .navbar-nav.navbar-right{ margin-right: 0; } .main_contentarea.manuleft_slide.menu-right{ margin-left: 0 !important; } .navbar-fixed-right ul.nav li.dropdown ul{ display: none;} .navbar-fixed-right ul.nav li.dropdown:hover ul{ display: none; height:auto!important;} .navbar-fixed-right .mob-dropdown-toggle{width:19px; height:19px; position:absolute; top:5px; right:10px; display:block; background:rgba(0, 0, 0, 0.7);} .navbar-fixed-right .mob-dropdown-toggle:after{content:\"\"; position: absolute;left: 4px;top: 49%;width: 12px;height: 2px;margin-top: -1px;background:#fff;} .navbar-fixed-right .mob-dropdown-toggle:before{content:\"\"; position: absolute;left: 50%;top: 3px;width: 2px;height: 12px;margin-left: -1px;background:#fff;} .navbar-fixed-right .mob-dropdown-toggle.minus:before{display:none;} @media screen and (max-width: 767px) { .mobile-menu { margin-top: -25px; } .mobile-menu.mobile-menu-open{ margin-top: 0 !important; } } .custom-menu li a {font-size:medium !important;}.custom-menu li a {font-family: !important;}.custom-menu li a {font-style: normal !important}.dropdown ul li a {font-size:medium !important;}.dropdown ul li a {font-family: !important;}.dropdown ul li a {font-style: normal !important}.dropdown ul li a {color:#000000 !important;}.dropdown ul li a {background-color:#FFFFFF !important;}.menu-v-align {display:flex !important; align-items: center !important;margin-top:5px} .dropdown-menu li { width: 100%; background-color: #FFFFFF; } .dropdown-menu li { width: 100%; background-color: #000000; } .custom-menu li a:hover, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a{background:#000000 !important;}.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus{background:#000000 !important;}.custom-menu li a:hover, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a {color:#FFFFFF !important;}.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {color:#FFFFFF !important;}.custom-menu li a {color:#000000 !important;} .custom-header{background-color: #fff; border: none; position: absolute; min-height: 55px; position: relative;} .custom-header .navbar-brand{ margin-top: 10px; padding-left:0; position: absolute; } .custom-menu{padding-top: 10px;} .navbar-brand {padding-top: 0px; max-width: 300px;} .navbar-brand img {max-width:100%; max-height: 70px; } .custom-header .menu-v-align .navbar-brand{position: static;} .menu-v-align .custom-menu{ margin-left:0;} .custom-menu{padding-top:5px; } .navbar-collapse.collapse{width: 100%; align-items: center; justify-content: center;} .available_langulage_li{top:5px;} #corporateBiz2{min-height:inherit!important; margin-top:0!important;} .sticky{ position: fixed !important; left: 0px; top: 0px; width: 100%; z-index: 999; } @media (max-width: 800px) { .navbar-brand{ max-width: 245px !important; } } .navbar-fixed-right .navbar-collapse.collapse {background:rgba(240,87,82,1) !important;} Toggle navigation ΑΡΧΙΚΗΚΛΙΝΙΚΗΙΑΤΡΙΚΟΣ ΕΞΟΠΛΙΣΜΟΣΑΡΘΡΑΣΥΝΕΡΓΑΤΕΣΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣΕΠΙΚΟΙΝΩΝΙΑ #flagstrap-drop-down-1 { background-color : transparent; border-color:transparent; } #flagstrap-drop-down-1-list { min-width: 10px; } .flagstrap-icon{ } .available_langulage_li{ } const cookieKey = \"Cart_items\"; const existingcartprod = (localStorage.getItem(cookieKey) != null) ? JSON.parse(localStorage.getItem(cookieKey)) : []; existingcartprod.filter((product, key) => { this.total_cart_product_count = Number(this.total_cart_product_count) + Number(product.quantity); }); jQuery('#crt_c').html(existingcartprod.length); Main Description2905267 Ε Π Ι Κ Ο Ι Ν Ω Ν Ι Α Vertical Image Area2904751 .videoblk{ z-index: 1; position: relative; } Π Λ Η Ρ Ο Φ Ο Ρ Ι Ε Σ ORL ATHENS CLINIC Mαραθώνος 1, Αθήνα, ΤΚ 10435 Τηλ: 210 5234432 Fax: 210 5238405 Email: karrasclinic@gmail.com Ωράριο λειτουργίας: Όλο το 24ωρο Ώρες εξετάσεων: Χειρουργική αντιμετώπιση των προβλημάτων των ασθενών καθημερινά 8:00 – 15:00. Πρόσβαση: Μετρό, στάσεις: Ομόνοια (Κόκκινη γραμμή), Κεραμεικός (Μπλε γραμμή). Main Description2904760 Φ Ο Ρ Μ Α Ε Π Ι Κ Ο Ι Ν Ω Ν Ι Α Σ Contact Us2904752 .blk_2904752 { padding-bottom : 0px !important; } ΟνοματεπώνυμοEmailΘέμαΜήνυμαΑποστολή Footer2904356 .videoblk{ z-index: 1; position: relative; } ORL ATHENS CLINICΩΡΛ ΧΕΙΡΟΥΡΓΙΚΗ ΚΛΙΝΙΚΗ ΑΘΗΝΩΝ Μαραθώνος 1, Αθήνα - 10475Τηλ.: 210 5234432Fax.: 210 5238405Email: karrasclinic@gmail.comFollow : © 1974-2023 ORL ATHENS CLINIC MENU ΑΡΧΙΚΗ ΚΛΙΝΙΚΗ ΕΞΟΠΛΙΣΜΟΣ ΣΥΝΕΡΓΑΤΕΣ ΕΠΙΚΟΙΝΩΝΙΑ ΠΛΗΡΟΦΟΡΙΕΣ ΤΙΜΟΚΑΤΑΛΟΓΟΣ ΟΙΚΟΝΟΜΙΚΑ ΣΤΟΙΧΕΙΑ ΑΡ. ΓΕΜΗ: 008384601000 ΩΡΛ ΧΕΙΡΟΥΡΓΙΚΗ ΚΛΙΝΙΚΗ ΑΘΗΝΩΝ Το ανθρωποκεντρικό πρόσωπο της κλινικής Καρράς ORL ATHENS CLINIC είναι γνωστό ανάμεσα στους συναδέλφους ΩΡΛ , αφού ήταν και συνεχίζει να είναι ένα νοσηλευτικό ίδρυμα που βοήθησε και ακόμη βοηθά ασθενείς σε όλες τις δύσκολες κοινωνικές συγκυρίες στην πάροδο των χρόνων.",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orlathensclinic.gr-home-5fe2b216/contact-epikoinonia-el-26db5b79.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orlathensclinic.gr-home-5fe2b216/contact-epikoinonia-el-26db5b79.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.ourglobalidea.com/rep//files/smewebsites/163016/logo-header-orl-athens-clinic.png",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://orlathensclinic.gr/epikoinonia/el",
+          "pageType": "contact",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://orlathensclinic.gr/epikoinonia/el",
+              "retrievedAt": "2026-03-31T13:16:07.679Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/163016/1bannerallETPA2.jpg",
+          "alt": "espa",
+          "sourcePageUrl": "https://orlathensclinic.gr/epikoinonia/el",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/epikoinonia/el",
+              "retrievedAt": "2026-03-31T13:16:07.679Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/163016/e-banner-%CE%9F%CE%A0%CE%A3-4898.jpg",
+          "sourcePageUrl": "https://orlathensclinic.gr/epikoinonia/el",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/epikoinonia/el",
+              "retrievedAt": "2026-03-31T13:16:07.679Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orlathensclinic.gr/files/smewebsites/163016/logo-header-orl-athens-clinic2.png",
+          "alt": "business logo",
+          "sourcePageUrl": "https://orlathensclinic.gr/epikoinonia/el",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/epikoinonia/el",
+              "retrievedAt": "2026-03-31T13:16:07.679Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orlathensclinic.gr/assets/images/others/olympicidea_loader_big.GIF",
+          "sourcePageUrl": "https://orlathensclinic.gr/epikoinonia/el",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/epikoinonia/el",
+              "retrievedAt": "2026-03-31T13:16:07.679Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/163016/facebook-icon-white-png-transparent-1_50x50.png",
+          "sourcePageUrl": "https://orlathensclinic.gr/epikoinonia/el",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/epikoinonia/el",
+              "retrievedAt": "2026-03-31T13:16:07.679Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://orlathensclinic.gr/epikoinonia/el",
+          "retrievedAt": "2026-03-31T13:16:07.681Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orlathensclinic.gr-home-5fe2b216/contact-epikoinonia-el-26db5b79.png"
+    },
+    "faq": {
+      "pageType": "faq",
+      "requestedUrl": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+      "finalUrl": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+      "fetchedAt": "2026-03-31T13:16:06.230Z",
+      "metadata": {
+        "title": "ORL Athens Clinic - ΩΡΛ ΧΕΙΡΟΥΡΓΙΚΗ ΚΛΙΝΙΚΗ ΑΘΗΝΩΝ",
+        "metaDescription": "Ερωτήσεις και απαντήσεις",
+        "language": "en",
+        "openGraphImage": "https://www.ourglobalidea.com/rep//files/smewebsites/163016/logo-header-orl-athens-clinic.png"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "OGIBiz Website"
+        },
+        {
+          "level": "h2",
+          "text": "ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ"
+        },
+        {
+          "level": "h2",
+          "text": "ORL Athens Clinic_____"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://orlathensclinic.gr/el"
+        },
+        {
+          "href": "https://orlathensclinic.gr/",
+          "label": "ΑΡΧΙΚΗ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/kliniki/el/",
+          "label": "ΚΛΙΝΙΚΗ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/exoplismos/el/",
+          "label": "ΙΑΤΡΙΚΟΣ ΕΞΟΠΛΙΣΜΟΣ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/arthra/el/",
+          "label": "ΑΡΘΡΑ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/synergates-p1/el/",
+          "label": "ΣΥΝΕΡΓΑΤΕΣ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/syhnes-erotiseis/el/",
+          "label": "ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/epikoinonia/el/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "http://www.orlathensclinic.gr/%CE%AC%CF%81%CE%B8%CF%81%CE%B1/%CE%B8%CF%85%CF%81%CE%B5%CE%BF%CE%B5%CE%B9%CE%B4%CE%B5%CE%BA%CF%84%CE%BF%CE%BC%CE%AE.html",
+          "label": "άρθρα"
+        },
+        {
+          "href": "http://www.orlathensclinic.gr/%CE%95%CE%BD%CE%B4%CE%BF%CF%83%CE%BA%CE%BF%CF%80%CE%B9%CE%BA%CE%AE%20%CF%87%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CE%AE%20%CF%81%CE%B9%CE%BD%CF%8C%CF%82%20%CE%BA%CE%B1%CE%B9%20%CF%80%CE%B1%CF%81%CE%B1%CF%81%CF%81%CE%B9%CE%BD%CE%AF%CF%89%CE%BD%20(FESS)",
+          "label": "ενότητα"
+        },
+        {
+          "href": "https://orlathensclinic.gr/timokatalogos/el/",
+          "label": "ΤΙΜΟΚΑΤΑΛΟΓΟΣ"
+        },
+        {
+          "href": "https://orlathensclinic.gr/oikonomika-stoixeia/el/",
+          "label": "ΟΙΚΟΝΟΜΙΚΑ ΣΤΟΙΧΕΙΑ"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "210-5234239",
+          "8/04/2016",
+          "21/12/2016",
+          "31/01/2019",
+          "210 5234432",
+          "210 5238405",
+          "1974-2023",
+          "008384601000",
+          "00302105234432",
+          "00302105238405"
+        ],
+        "emails": [
+          "karrasclinic@gmail.com"
+        ],
+        "addresses": [],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/orlathensclinic/"
+          }
+        ],
+        "forms": []
+      },
+      "textContent": "body{ background-color: rgba(240,87,82,1) } OGIBiz Website × Password protected area.Please input the correct password and press the OK button Password: OK $(document).on(\"click\", \".allow-notification\", function() { localStorage.setItem(\"onesignalEnable\", '1'); localStorage.setItem(\"onesignalEnableClick\", '1'); location.reload(); }) $(document).on(\"click\", \".close-pop-up\", function() { $(\".allow-notification\").hide(); }) × Main Description2904765 Menu2904350 .navbar-fixed-right{ z-index: 999999 !important; } .navbar-fixed-right .navbar-collapse.collapse { width: 100%; align-items: center; justify-content: center; display: block !important; right: auto; left: -300px; position: fixed; top: 0; bottom: 0; height: 100vh; max-height: initial; z-index: 999; padding-top: 50px; } .navbar-fixed-right .navbar-collapse.collapse > ul{ display: flex; flex-direction: column; max-height: 95vh; overflow: auto; } .navbar-fixed-right .navbar-collapse.menu_Open { position: fixed; top: 0; right: auto !important; left: 0 !important; width: 300px; transition: all linear 0.5s; height: 100vh!important; max-height: initial; } .navbar-fixed-right .navbar-collapse { height: 100vh!important; transition: all linear 0.5s; position: fixed; top: 82px; left: -300px!important; display: block; max-width: 300px; } .navbar-inverse.navbar-fixed-right .navbar-toggle{ margin-top: 13px; width: 44px; height: 34px; top: 17px; display: block !important; opacity: 1; position: absolute; right: 0; top: -25px; left: auto; z-index: 99999; } @media screen and (max-width: 767px) { .navbar-inverse.navbar-fixed-right .navbar-toggle{ top: -75px; } } .navbar-inverse.navbar-fixed-right .available_langulage_li{ position: relative !important; right: auto; top: auto; float: none !important; } .navbar-inverse.navbar-fixed-right ul.nav li.dropdown ul{ position: relative !important; left: auto !important; right: auto !important; width: 100%; } .navbar-inverse.navbar-fixed-right .dropdown ul li a { display: block !important; } .navbar-inverse.navbar-fixed-right .dropdown ul li a:hover{ } .navbar-inverse.navbar-fixed-right .navbar-toggle.close_menu .icon-bar:nth-child(2) { transform: rotate(45deg); transition: all linear 0.5s; position: relative; top: 6px; } .navbar-inverse.navbar-fixed-right .navbar-toggle.close_menu .icon-bar:nth-child(3) { display: none; transition: all linear 0.5s; } .navbar-inverse.navbar-fixed-right .navbar-toggle.close_menu .icon-bar:nth-child(4) { transform: rotate(126deg); margin-top: 4px; transition: all linear 0.5s; } .navbar-inverse.navbar-fixed-right .navbar-nav.navbar-right{ margin-right: 0; } .main_contentarea.manuleft_slide.menu-right{ margin-left: 0 !important; } .navbar-fixed-right ul.nav li.dropdown ul{ display: none;} .navbar-fixed-right ul.nav li.dropdown:hover ul{ display: none; height:auto!important;} .navbar-fixed-right .mob-dropdown-toggle{width:19px; height:19px; position:absolute; top:5px; right:10px; display:block; background:rgba(0, 0, 0, 0.7);} .navbar-fixed-right .mob-dropdown-toggle:after{content:\"\"; position: absolute;left: 4px;top: 49%;width: 12px;height: 2px;margin-top: -1px;background:#fff;} .navbar-fixed-right .mob-dropdown-toggle:before{content:\"\"; position: absolute;left: 50%;top: 3px;width: 2px;height: 12px;margin-left: -1px;background:#fff;} .navbar-fixed-right .mob-dropdown-toggle.minus:before{display:none;} @media screen and (max-width: 767px) { .mobile-menu { margin-top: -25px; } .mobile-menu.mobile-menu-open{ margin-top: 0 !important; } } .custom-menu li a {font-size:medium !important;}.custom-menu li a {font-family: !important;}.custom-menu li a {font-style: normal !important}.dropdown ul li a {font-size:medium !important;}.dropdown ul li a {font-family: !important;}.dropdown ul li a {font-style: normal !important}.dropdown ul li a {color:#000000 !important;}.dropdown ul li a {background-color:#FFFFFF !important;}.menu-v-align {display:flex !important; align-items: center !important;margin-top:5px} .dropdown-menu li { width: 100%; background-color: #FFFFFF; } .dropdown-menu li { width: 100%; background-color: #000000; } .custom-menu li a:hover, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a{background:#000000 !important;}.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus{background:#000000 !important;}.custom-menu li a:hover, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a {color:#FFFFFF !important;}.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {color:#FFFFFF !important;}.custom-menu li a {color:#000000 !important;} .custom-header{background-color: #fff; border: none; position: absolute; min-height: 55px; position: relative;} .custom-header .navbar-brand{ margin-top: 10px; padding-left:0; position: absolute; } .custom-menu{padding-top: 10px;} .navbar-brand {padding-top: 0px; max-width: 300px;} .navbar-brand img {max-width:100%; max-height: 70px; } .custom-header .menu-v-align .navbar-brand{position: static;} .menu-v-align .custom-menu{ margin-left:0;} .custom-menu{padding-top:5px; } .navbar-collapse.collapse{width: 100%; align-items: center; justify-content: center;} .available_langulage_li{top:5px;} #corporateBiz2{min-height:inherit!important; margin-top:0!important;} .sticky{ position: fixed !important; left: 0px; top: 0px; width: 100%; z-index: 999; } @media (max-width: 800px) { .navbar-brand{ max-width: 245px !important; } } .navbar-fixed-right .navbar-collapse.collapse {background:rgba(240,87,82,1) !important;} Toggle navigation ΑΡΧΙΚΗΚΛΙΝΙΚΗΙΑΤΡΙΚΟΣ ΕΞΟΠΛΙΣΜΟΣΑΡΘΡΑΣΥΝΕΡΓΑΤΕΣΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣΕΠΙΚΟΙΝΩΝΙΑ #flagstrap-drop-down-1 { background-color : transparent; border-color:transparent; } #flagstrap-drop-down-1-list { min-width: 10px; } .flagstrap-icon{ } .available_langulage_li{ } const cookieKey = \"Cart_items\"; const existingcartprod = (localStorage.getItem(cookieKey) != null) ? JSON.parse(localStorage.getItem(cookieKey)) : []; existingcartprod.filter((product, key) => { this.total_cart_product_count = Number(this.total_cart_product_count) + Number(product.quantity); }); jQuery('#crt_c').html(existingcartprod.length); Main Description2905265 ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ Horizontal Image Area2904727 ORL Athens Clinic_____ ΩΡΛ ΧΕΙΡΟΥΡΓΙΚΗ ΚΛΙΝΙΚΗ ΑΘΗΝΩΝ Ερωτήσεις και απαντήσεις Space2904728 Accordion2904729 Μου λένε ότι ροχαλίζω συχνά, μπορώ να κάνω κάτι γι’ αυτό; Σε αυτή την περίπτωση είναι απαραίτητος ο γενικός έλεγχος για να γίνει σωστή διάγνωση. ‘Ύστερα θα χρειαστεί να γίνει και το τεστ ύπνου. Μετά από το τεστ μπορούμε να αποφασίσουμε για τον τρόπο επίλυσης του προβλήματος. Μπορεί να είναι απαραίτητη η αλλαγή του τρόπου ζωής, η απώλεια βάρους, η χειρουργική θεραπεία ή η εφαρμογή της συσκευής CPAP. Επικοινωνήστε μαζί μας για περισσότερες λεπτομέρειες ή κλείστε ένα ραντεβού για να μας επισκεφτείτε. Accordion2904725 Δεν αναπνέω καλά εδώ και 10 χρόνια, έχω συχνούς πονοκεφάλους. Τι μπορώ να κάνω; Θα πρέπει να γίνει σωστή διάγνωση της αιτίας που μπορεί να προκαλεί το συγκεκριμένο πρόβλημα. Μερικές από τις αιτίες που μπορεί να προκαλούν το πρόβλημα είναι: Στραβό ρινικό διάφραγμα Oξεία και χρόνια ρινίτιδα Pινικοί πολύποδες Mετατραυματικές αλλοιώσεις της εξωτερικής μύτης. Στις περισσότερες περιπτώσεις το χειρουργείο είναι η μοναδική λύση. Πραγματοποιείται υπό γενική αναισθησία και είναι απλή όσον αφορά τον βαθμό δυσκολίας επέμβαση. Επικοινωνήστε μαζί μας για να μάθετε περισσότερα. Accordion2904731 Στο παιδί μου πολύ συχνά εμφανίζεται ωτίτιδα, τι μπορεί να γίνει στην συγκεκριμένη περίπτωση; Είναι ένα αρκετά συχνό πρόβλημα στα βρέφη και τα μικρά παιδιά. Εκδηλώνεται σε πολύ νεαρή ηλικία και συνήθως υποχωρεί μετά την ηλικία των έξι ετών. Συνιστάται η θεραπεία αντιβίωσης, όμως, η βασική και πιο αποτελεσματική θεραπεία είναι η αδενοτομή και η τοποθέτηση σωληνίσκων αερισμού. Accordion2904738 Το παιδί μου έχει υπερτροφικές αμυγδαλές – πρέπει να αφαιρεθούν; Στις περιπτώσεις, τις οποίες τα προβλήματα που δημιουργούν οι αμυγδαλές είναι σημαντικότερα από τα οφέλη που προσφέρουν στον οργανισμό του παιδιού, πρέπει να εξετάζεται η πιθανότητα της αφαίρεσης. Η αφαίρεση είναι απαραίτητη όταν: Όταν οι αμυγδαλές δημιουργούν προβλήματα λόγω του μεγέθους τους. Το παιδί παρουσιάζει συχνές αμυγδαλίτιδες (έως και 6 φορές το χρόνο) με πυρετό, οι οποίες χρειάζονται αγωγή με αντιβίωση για να υποχωρήσουν. Επικοινωνήστε μαζί μας για να σας συμβουλέψουμε σχετικά. Accordion2904739 Το παιδί μας έχει εμφανίσει κάποιο όγκο στο μπροστινό μέρος του λαιμού – τι μπορούμε να κάνουμε; Είναι απαραίτητος ο γενικός ΩΡΛ έλεγχος – για να γίνει σωστή διάγνωση θα πρέπει να αναφέρετε πότε εμφανίστηκε ο όγκος, εάν έχει αυξηθεί σε μέγεθος, εάν είχε εγκρίσεις οποιουδήποτε είδους κλπ. Επίσης είναι απαραίτητος ο έλεγχος με εύκαμπτο ρινολαρυγγοσκόπιο, εξετάσεις αίματος, υπέρηχος ή αξονική τομογραφία και η FNA παρακέντηση με λεπτή βελόνα για κυτταρολογική εξέταση. Η επιλογή της θεραπείας γίνεται μετά την ολοκλήρωση όλων των εξετάσεων. Accordion2904740 Ο γιός μου (12 χρονών) αιμορραγεί πολύ συχνά από τη μύτη, τι μπορούμε να κάνουμε; Σε περιπτώσεις επαναλαμβανόμενων αιμορραγιών μπορεί να χρειαστεί λεπτομερής εξέταση από ιατρό ΩΡΛ (πρόσθια και οπίσθια ρινοσκόπηση). Μερικές φορές ίσως χρειαστεί να γίνει καυτηρίαση στο αγγείο που τείνει συχνά να αιμορραγεί. Μετά από σοβαρές επαναλαμβανόμενες ρινορραγίες (ειδικά στα αγόρια) το παιδί οπωσδήποτε πρέπει να υποβληθεί σε ενδοσκοπικό έλεγχο με εύκαμπτο βίντεο-ρινολαρυγγοσκόπιο για να αποκλειστεί το ενδεχόμενο του νεανικού ρινοφαρυγγικού αγγειοϊνωματος (ρινοϊνωμα). Επίσης σε ειδικές περιπτώσεις έντονων αιμορραγιών, ιδιαίτερα αν συνυπάρχουν με αιμορραγίες σε άλλα μέρη του σώματος, χρειάζεται αιματολογικός έλεγχος για την πηκτικότητα του αίματος. Accordion2904742 Η κόρη μας είναι 3 ετών και έχει πεταχτά αφτιά, ανησυχούμε να μην την κοροϊδεύουν τα άλλα παιδιά όταν ξεκινήσει το σχολείο. Μπορεί να υποβληθεί σε χειρουργική επέμβαση τώρα; Από τα τρία του χρόνια και μετά το παιδί μπορεί να υποβληθεί σε επέμβαση χωρίς κανένα πρόβλημα. Η συγκεκριμένη επέμβαση συγκαταλέγεται στο πεδίο της αισθητικής του προσώπου και συνιστάται να γίνεται πρώτου ξεκινήσει το παιδί σχολείο προκείμενου να αποφύγει την απόκτηση ψυχολογικού τραύματος. Η επέμβαση γίνεται με τοπική αναισθησία χωρίς κάποιες επιπλοκές και δυσκολίες (στα παιδιά μόνο με γενική αναισθησία). Η επούλωση είναι πολύ καλή, ταχεία και άμεση. Ο χόνδρος του αφτιού παίρνει πολύ ωραίο σχήμα και διαμορφώνεται έτσι ώστε τα ώτα να μην επανέλθουν στην αρχική τους μορφή. Διαβάστε περισσότερα στην σχετική ενότητα. Accordion2904743 Γίνεται να υποβληθεί ένα παιδί σε αδενοτομή υπό την τοπική αναισθησία; Παλαιότερα πολλές επεμβάσεις γίνονταν υπό την τοπική αναισθησία, πλέον όμως τέτοιες επεμβάσεις διεξάγονται μόνο με ολική αναισθησία με εξαίρεση τις περιπτώσεις που η ολική αναισθησία δεν ενδείκνυται. Αφενός , μια τέτοια διαδικασία μπορεί να αφήσει ψυχολογικό τραύμα στο παιδί σας αφετέρου περιορίζει τον ιατρό σας κατά την εκτέλεση της επέμβασης και το σημαντικότερο εμποδίζει τη σωστή αιμόσταση γιατί με την τοπική αναισθησία είναι πρακτικά αδύνατον να γίνει η διακοπή της αιμορραγίας. Accordion2904745 Υποφέρω πολύ συχνά από αλλεργική ρινίτιδα, χρησιμοποιώ τα αποσυμφορητικά σπρέι και τα αντισταμινικά , τι άλλο μπορώ να κάνω;; Με την ανοσοθεραπεία τα αποτελέσματα είναι ορατά κιόλας από τον πρώτο χρόνο της θεραπείας. Αυτή η θεραπεία αλλάζει τον τρόπο που το ανοσοποιητικό του ανθρώπου αντιμετωπίζει το αλλεργιογόνο. Η ανοσοθεραπεία είναι ενέσιμη ή υπογλώσσια και διαρκεί συνήθως τρία με πέντε χρόνια. Με αυτήν την θεραπεία αναστέλλεται η εξέλιξη της αλλεργικής ρινίτιδας σε βρογχικό άσθμα. Accordion2904748 Πόσο επικίνδυνη είναι για τα παιδιά η ολική νάρκωση; Η χορήγηση της τοπικής αναισθησίας είναι πολύ συχνά επώδυνη και τρομακτική για ένα παιδί. Η αυτοσυγκράτηση μπορεί να μην είναι δυνατή για παράδειγμα κατά την τοποθέτηση των σωληνίσκων στο αυτί, όπου ακόμα και η μικρότερη κίνηση μπορεί να οδηγήσει σε μόνιμη βλάβη. Γι’ αυτό τον λόγο η ολική αναισθησία είναι η καλύτερη λύση σε τέτοιες περιπτώσεις. Η κλινική μας ειδικεύεται στην παιδική ωτορινολαρυγγική αναισθησία και μπορούμε να σας εγγυηθούμε το καλύτερο δυνατό αποτέλεσμα. Επίσης μπορείτε να καλέσετε στο 210-5234239 και να συζητήσετε με τους παιδιατρικούς αναισθησιολόγους της κλινικής για το θέμα που σας απασχολεί. Η κλινική ORL ATHENS CLINIC (ΚΑΡΡΑΣ) διαθέτει ίσως την μεγαλύτερη πείρα στη διαχείριση των παιδιών εντός της περιφέρειας της Αττικής. Accordion2904747 Μου βρήκαν πολύποδες στη μύτη, τι να κάνω; Μπορείτε να ακολουθήσετε φαρμακευτική αγωγή η οποία θα βοηθήσει στην προσωρινή υποχώρηση τους. Θα συνιστούσαμε όμως και χειρουργική επέμβαση σε τέτοιες περιπτώσεις, η οποία μπορεί να επιφέρει καλύτερα αποτελέσματα. Επικοινωνήστε μαζί μας για περισσότερες πληροφορίες. Accordion2904746 Το παιδί μου κοιμάται με ανοιχτό στόμα. Τι μπορεί να σημαίνει αυτό; Μια από τις αιτίες είναι τα κρεατάκια αλλά χρειάζεται απαραίτητα γενικός έλεγχος και η σωστή διάγνωση. Το ανοιχτό στόμα μπορεί να οδηγήσει σε λανθασμένη ανάπτυξη της κάτω γνάθου και σε καθυστέρηση ανάπτυξης γενικότερα. Accordion2904741 Το παιδί μας παρουσιάζει πολύ συχνά οξεία αμυγδαλίτιδα. Ο ΩΡΛ ιατρός μας προτείνει την αφαίρεση αμυγδαλών, ενώ ο παιδίατρος έχει αντίθετη γνώμη. Θέλουμε να μάθουμε ποιος έχει δίκαιο. Υπάρχουν κάποιες ενδείξεις; Υπάρχουν οι απόλυτες ενδείξεις για αμυγδαλεκτομή και οι σχετικές ενδείξεις για αμυγδαλεκτομή όπου η απόφαση εξατομικεύεται και παίρνεται σε συνεργασία ιατρών και γονιών. Οι απόλυτες ενδείξεις για αμυγδαλεκτομή: Όταν οι αμυγδαλές είναι τόσο μεγάλες που δυσκολεύουν την αναπνοή του παιδιού και όταν το παιδί παρουσιάζει έντονο ροχαλητό. Όταν οι αμυγδαλές είναι τόσο μεγάλες που δυσκολεύουν την κατάποση. Όταν υπάρχει υποψία για κακοήθη όγκο στις αμυγδαλές. Όταν η αιμορραγία από τις αμυγδαλές δεν ελέγχεται εύκολα. Οι σχετικές ενδείξεις για αμυγδαλεκτομή: Όταν το παιδί παρουσιάζει επανειλημμένες αμυγδαλίτιδες (πάνω από 6 το χρόνο). Όταν υπάρχει το περιαμυγδαλικό απόστημα (Συλλογή πύου γύρω από τις αμυγδαλές). Η χρόνια αμυγδαλίτιδα που δεν ανταποκρίνεται στην αντιμικροβιακή θεραπεία. Όταν η απόφραξη από τις αμυγδαλές αλλάζει την ποιότητα φωνής. Όταν υπάρχει έντονη δυσοσμία του στόματος. Σύνδρομο PFAPA (Σύνδρομο περιοδικών πυρετών, αφθώδης στοματίτιδα, φαρυγγίτιδα, και τραχηλικής λεμφαδενίτιδας) που δεν ανταποκρίνονται στη συντηρητική θεραπεία. Χρόνια φορεία με β-αιμολυτικό στρεπτόκοκκο της ομάδας Α, εάν ο φορέας είναι σε στενή επαφή με ένα άτομο που έχει ρευματικό πυρετό ή ζει σε νοικοκυριό στο οποίο η μόλυνση εμφανίζεται συχνά και η εξάλειψης του μικροβίου είναι ανθεκτική σε άλλα μέτρα. Συμβουλευτείτε μας για την σωστή αντιμετώπιση του περιστατικού. Accordion2904730 Έχουμε ακούσει για την αφαίρεση αμυγδαλών με laser. Μπορεί αυτό να γίνει στην κλινική σας; Ναι, βέβαια, στην κλινική μας διαθέτουμε CO2 laser τελευταίας τεχνολογίας και εκτελούνται οι επεμβάσεις τέτοιου είδους. Στις μέρες μας όμως οι περισσότεροι χειρούργοι χρησιμοποιούν νεότερες μεθόδους, όπως είναι οι ραδισυχνότητες και το μηχάνημα Coblation. Accordion2904733 Ο ΩΡΛ ιατρός συμβουλεύει να βάλουμε στον γιό μας σωληνίσκους αερισμού – θα μπορεί να κάνει μπάνιο χωρίς πρόβλημα; Για κολύμπι σε πισίνα κοντά στην επιφάνεια τα παιδιά δεν χρειάζονται ωτοασπίδες (ακόμα και αν τα παιδιά βάζουν τα πρόσωπά τους κάτω από το νερό). Το κανονικό μπάνιο ή ντους δεν απαιτεί την προστασία των αυτιών. Πρέπει να αποφύγετε όμως την απευθείας ρήξη του νερού μέσα στο κανάλι του αυτιού, όπως και το υπερβολικό σαπούνισμα. Εάν τα παιδιά με τοποθετημένους σωληνίσκους κάνουν αρκετά βαθιές (βαθύτερες των 30 εκατοστών) βουτιές, κατά διάρκεια της κολύμβησης πρέπει να φορούν ωτοασπίδες. Απαγορεύεται η βαθιά κατάδυση (πάνω από 3-4 μέτρα υποβρύχια), ακόμη και με ωτοασπίδες. Accordion2904734 Είχα ένα τροχαίο πριν από μερικά χρόνια και τώρα δεν μπορώ να αναπνεύσω καλά και η μύτη έχει στραβώσει. Μπορώ να διορθώσω τα συγκεκριμένα προβλήματα με μία μόνο επέμβαση; Ναι, και βέβαια μπορείτε. Πολύ συχνά η διαφραγμοπλαστική συνδυάζεται με ρινοπλαστική επέμβαση. Η παραμονή σας στην κλινική διαρκεί 24 ώρες και θα χρειαστεί να φοράτε νάρθηκα για 7 συνεχόμενες ημέρες μετά την επέμβαση. Accordion2904735 Μετά από ένα τραυματισμό όταν ήμουν παιδί έχω μια οπή στο τύμπανο και κάθε καλοκαίρι υποφέρω από ωτίτιδες. Πόσο επικίνδυνη είναι η επέμβαση τυμπανοπλαστικής; Η επέμβαση δεν είναι επικίνδυνη. Αντιθέτως είναι απαραίτητη σε περιπτώσεις χρόνιας ωτίτιδας. Κατά την τυμπανοπλαστική αφαιρείται ο τυχόν παθολογικός ιστός από την περιοχή του αυτιού πίσω από το τύμπανο, δηλαδή οι πολύποδες, σαρκία και πιθανό χολοστεάτωμα, ενώ παράλληλα τοποθετείται και μόσχευμα από περιτονία ή χόνδρο του ίδιου του ασθενούς στην θέση του ρήγματος το οποίο και καλύπτεται πλήρως. Η τυμπανοπλαστική δεν αφήνει κανένα ορατό σημάδι επειδή η τομή γίνεται πίσω από το αυτί. Η επέμβαση διαρκεί από 45 λεπτά έως 3 ώρες και γίνεται με γενική αναισθησία. Μετά την επέμβαση ο ασθενής δεν βιώνει καθόλου πόνο και δεν χρειάζονται καθόλου αναλγητικά ενώ παραμένει στην κλινική για δύο ημέρες. Accordion2904744 Πάσχω από πολυοζώδης βρογχοκήλη και ο ενδοκρινολόγος μου επιμένει να κάνω θυρεοειδεκτομή, είναι απαραίτητο να την κάνω; Η μερική θυρεοειδεκτομή δεν είναι η καλύτερη μέθοδος αντιμετώπισης παρόλο που κάποιοι χειρουργοί την υποστηρίζουν. Η ολική θυρεοειδεκτομή υπερτερεί έναντι της μερικής λόγω της καλύτερης μετεγχειρητικής παρακολούθησης και ορμονικής ρύθμισης του ασθενούς, έτσι καθίσταται ως πιο αξιόπιστος ορμονολογικός και βιοχημικός έλεγχος για ανίχνευση πιθανών μεταστάσεων, η αφαίρεση συχνής πιθανόν δεύτερης υποκλινικής εστίας καρκίνου. Καλέστε μας για να μάθετε περισσότερα. Accordion2904737 Πρέπει να κάνω θυρεοειδεκτομή, όμως διάβασα στο διαδίκτυο ότι έχει πολλές επιπλοκές, υπάρχουν κάποιοι τρόποι να τις αποφύγω; Κατά την αφαίρεση του θυρεοειδούς αδένα καθώς και κατά τις λοιπές επεμβάσεις μπορούν να εμφανιστούν επιπλοκές και κανείς δεν μπορεί να σας εγγυηθεί ότι θα τις αποφύγετε. Όμως στις μέρες μας έχουν μειωθεί σημαντικά οι πιθανότητες εμφάνισης των επιπλοκών, αυτό οφείλεται στην βελτίωση των χειρουργικών τεχνικών του ίδιου του ιατρού αλλά και στην τεχνολογική εξέλιξη. Η ORL Athens Clinic διαθέτει όλο τον απαραίτητο εξοπλισμό, εργαλεία και μηχανήματα προκειμένου να μειώσει αυτό το ρίσκο στο ελάχιστο. Διαβάστε τα παρακάτω άρθρα. Accordion2904736 Έχω ακούσει πως γίνονται πολλές επεμβάσεις χωρίς τομές, διεξάγετε τέτοιου είδους επεμβάσεις στην κλινική σας; Ναι, στις μέρες μας η ενδοσκοπική ιατρική έχει εξελιχθεί πολύ καθώς τέτοιου είδους επεμβάσεις πραγματοποιούνται μέσω της ρινικής κοιλότητας καθώς με αυτόν τον τρόπο επιτρέπεται πρόσβαση στα σημεία που παλαιότερα ήταν πολύ δύσκολη. Οι παλαιότερες μέθοδοι απαιτούσαν τομή στο πρόσωπο για άμεση πρόσβαση στον παθολογικό ιστό. Πιο αναλυτικά για την συγκριμένη μέθοδο διαβάστε στην σχετική ενότητα. Accordion2904749 Πάσχω από ωτοσκλήρυνση, διεξάγετε τέτοιου είδους επεμβάσεις; Ναι, βεβαίως στην κλινική μας πραγματοποιούνται τέτοιου είδους επεμβάσεις καθώς διαθέτουμε όλον τον απαραίτητο εξοπλισμό για διεξαγωγή χειρουργικών επεμβάσεων αυτού του τύπου. Accordion2904732 Η μία παρωτίδα μου έχει διογκωθεί πάρα πολύ, τι πρέπει να κάνω; Η διόγκωση της παρωτίδας επί των πλείστων είναι μια παθολογική κατάσταση γι’ αυτόν τον λόγω απαιτείται πιο διεξοδική μελέτη όχι μόνο του ίδιου του αδένα αλλά και του ίδιου του οργανισμού του ασθενούς προκειμένου να εξαιρεθεί η συστηματική παθολογία. Από την πλευρά του αδένα απαιτείται να γίνει υπέρηχος, FNA (Παρακέντηση για βιοψία με λεπτή βελόνα), περεταίρω μπορεί να χρειαστεί να γίνει αξονική ή μαγνητική τομογραφία και μαζί με τον θεράπων Ωτορινολαρυγγολόγο σας θα αποφασίσετε για την μέθοδο θεραπείας Space2904758 Testimonial2904757 .testimonial_block_container { border: 2px solid #ccc; background-color: #eee; border-radius: 5px; padding: 16px; margin: 16px 0; } /* Clear floats after containers */ .testimonial_block_container::after { content: \"\"; clear: both; display: table; } /* Float images inside the container to the left. Add a right margin, and style the image as a circle */ .testimonial_block_container img { float: left; margin-right: 20px; border-radius: 50%; height: 90px; width:90px; } /* Increase the font-size of a span element */ .testimonial_block_container span { font-size: 20px; margin-right: 15px; } /* Add media queries for responsiveness. This will center both the text and the image inside the container */ @media (max-width: 500px) { .testimonial_block_container { text-align: center; } .testimonial_block_container img { margin: auto; float: none; display: block; } } /* =================================== horizontal ====================================*/ .slideshow-container { position: relative; background: #f1f1f1f1; } /* Slides */ .slideshow-container .mySlides { display: none; padding: 37px; text-align: center; } .slideshow-container .mySlides img{ border-radius: 50%; height: 90px; width: 90px; } /* Next & previous buttons */ .slideshow-container .prev, .slideshow-container .next { cursor: pointer; position: absolute; top: 50%; width: auto; margin-top: -30px; padding: 16px; color: #888; font-weight: bold; font-size: 20px; border-radius: 0 3px 3px 0; user-select: none; } /* Position the \"next button\" to the right */ .slideshow-container .next { position: absolute; right: 0; border-radius: 3px 0 0 3px; } /* On hover, add a black background color with a little bit see-through */ .slideshow-container .prev:hover, .slideshow-container .next:hover { background-color: rgba(0,0,0,0.8); color: white; } /* The dot/bullet/indicator container */ .dot-container { text-align: center; padding: 20px; background: #ddd; } /* The dots/bullets/indicators */ .dot { cursor: pointer; height: 15px; width: 15px; margin: 0 2px; background-color: #bbb; border-radius: 50%; display: inline-block; transition: background-color 0.6s ease; } /* Add a background color to the active dot/circle */ .dot-container .active, .dot:hover { background-color: #717171; } /* Add an italic font style to all quotes */ .slideshow-container q {font-style: italic;} /* Add a blue color to the author */ .slideshow-container .author {color: cornflowerblue;} $(document).ready(function () { var slideIndex = 1; showSlides(slideIndex); }); function plusSlides(n, blockid = '') { showSlides(slideIndex += n, blockid); } function currentSlide(n) { showSlides(slideIndex = n); } function showSlides(n, blockid = '') { var i; var selectedClass = 'slideshow-container'; if (blockid != ''){ selectedClass = 'slideshow-container-' + blockid; } $('.' + selectedClass).each(function () { var slidesContainer = $(this); var slides = $(this).find('.mySlides'); var dots = document.getElementsByClassName(\"dot\"); if (n > slides.length || n == 1) { slideIndex = 1 } if (n < 1) { slideIndex = slides.length } for (i = 0; i < slides.length; i++) { slides[i].style.display = \"none\"; } slides[slideIndex - 1].style.display = \"block\"; dots[slideIndex - 1].className += \" active\"; }); } \"ΟΛΟ ΤΟ ΠΡΟΣΩΠΙΚΟ ΣΟΥΠΕΡ, ΤΗΝ ΚΑΛΥΤΕΡΗ ΕΞΥΠΗΡΕΤΗΣΗ ΣΥΓΧΑΡΗΤΗΡΙΑ ΠΟΛΛΑ\" - Μιχάλης Λ.. - 8/04/2016 \"Η κλινική είναι άριστη, το δωμάτιο μας 102 ήταμ ολοκαίνουριο, το προσωπικό και διοικητικό και νοσηλευτικό εξαίρετο\" - Ευστράτιος Φ. - 21/12/2016 \"Δεν υπάρχουν λόγια για να σας ευχαριστήσω...\" - Φώτης Τ. - 31/01/2019 ❮ ❯ Space2904750 Footer2904356 .videoblk{ z-index: 1; position: relative; } ORL ATHENS CLINICΩΡΛ ΧΕΙΡΟΥΡΓΙΚΗ ΚΛΙΝΙΚΗ ΑΘΗΝΩΝ Μαραθώνος 1, Αθήνα - 10475Τηλ.: 210 5234432Fax.: 210 5238405Email: karrasclinic@gmail.comFollow : © 1974-2023 ORL ATHENS CLINIC MENU ΑΡΧΙΚΗ ΚΛΙΝΙΚΗ ΕΞΟΠΛΙΣΜΟΣ ΣΥΝΕΡΓΑΤΕΣ ΕΠΙΚΟΙΝΩΝΙΑ ΠΛΗΡΟΦΟΡΙΕΣ ΤΙΜΟΚΑΤΑΛΟΓΟΣ ΟΙΚΟΝΟΜΙΚΑ ΣΤΟΙΧΕΙΑ ΑΡ. ΓΕΜΗ: 008384601000 ΩΡΛ ΧΕΙΡΟΥΡΓΙΚΗ ΚΛΙΝΙΚΗ ΑΘΗΝΩΝ Το ανθρωποκεντρικό πρόσωπο της κλινικής Καρράς ORL ATHENS CLINIC είναι γνωστό ανάμεσα στους συναδέλφους ΩΡΛ , αφού ήταν και συνεχίζει να είναι ένα νοσηλευτικό ίδρυμα που βοήθησε και ακόμη βοηθά ασθενείς σε όλες τις δύσκολες κοινωνικές συγκυρίες στην πάροδο των χρόνων.",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orlathensclinic.gr-home-5fe2b216/faq-syhnes-erotiseis-el-d683725a.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orlathensclinic.gr-home-5fe2b216/faq-syhnes-erotiseis-el-d683725a.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.ourglobalidea.com/rep//files/smewebsites/163016/logo-header-orl-athens-clinic.png",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+          "pageType": "faq",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+              "retrievedAt": "2026-03-31T13:16:06.228Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/163016/1bannerallETPA2.jpg",
+          "alt": "espa",
+          "sourcePageUrl": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+              "retrievedAt": "2026-03-31T13:16:06.228Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/163016/e-banner-%CE%9F%CE%A0%CE%A3-4898.jpg",
+          "sourcePageUrl": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+              "retrievedAt": "2026-03-31T13:16:06.228Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orlathensclinic.gr/files/smewebsites/163016/logo-header-orl-athens-clinic2.png",
+          "alt": "business logo",
+          "sourcePageUrl": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+              "retrievedAt": "2026-03-31T13:16:06.228Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orlathensclinic.gr/files/smewebsites/163016/25CE25B525CF258125CF258925CF258425CE25B725CF258325CE25B525CE25B925CF2582.png",
+          "sourcePageUrl": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+              "retrievedAt": "2026-03-31T13:16:06.228Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orlathensclinic.gr/files/smewebsites/163016/mail_testimonial_pic-modified.png",
+          "alt": "Avatar",
+          "sourcePageUrl": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+              "retrievedAt": "2026-03-31T13:16:06.228Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/163016/facebook-icon-white-png-transparent-1_50x50.png",
+          "sourcePageUrl": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+              "retrievedAt": "2026-03-31T13:16:06.228Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "faq page fetch",
+          "uri": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+          "retrievedAt": "2026-03-31T13:16:06.230Z"
+        }
+      ],
+      "statusCode": 200
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "20/04/2016",
+      "07/03/2019",
+      "15/12/2016",
+      "210 5234432",
+      "210 5238405",
+      "1974-2023",
+      "008384601000",
+      "00302105234432",
+      "00302105238405",
+      "210-5234239",
+      "8/04/2016",
+      "21/12/2016",
+      "31/01/2019",
+      "30/12/2016",
+      "01/10/2018"
+    ],
+    "emails": [
+      "karrasclinic@gmail.com"
+    ],
+    "addresses": [],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/orlathensclinic/"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://orlathensclinic.gr/smewebsites/website",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "_method",
+          "data[ContactUsFrontEndForm][UserInfo]",
+          "data[ContactUsFrontEndForm][emailToSend]",
+          "data[ContactUsFrontEndForm][totalFields]",
+          "data[ContactUsFrontEndForm][pageUrl]",
+          "data[ContactUsFrontEndForm][itemName_1]",
+          "data[ContactUsFrontEndForm][fieldname_1]",
+          "data[ContactUsFrontEndForm][itemName_2]",
+          "data[ContactUsFrontEndForm][fieldname_2]",
+          "data[ContactUsFrontEndForm][itemName_3]",
+          "data[ContactUsFrontEndForm][fieldname_3]",
+          "data[ContactUsFrontEndForm][itemName_4]",
+          "data[ContactUsFrontEndForm][fieldname_4]"
+        ],
+        "submitLabels": [
+          "Αποστολή"
+        ],
+        "fields": [
+          {
+            "name": "_method",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "data[ContactUsFrontEndForm][UserInfo]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "data[ContactUsFrontEndForm][emailToSend]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "data[ContactUsFrontEndForm][totalFields]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "data[ContactUsFrontEndForm][pageUrl]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "data[ContactUsFrontEndForm][itemName_1]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "data[ContactUsFrontEndForm][fieldname_1]",
+            "type": "text",
+            "label": "Ονοματεπώνυμο",
+            "required": true
+          },
+          {
+            "name": "data[ContactUsFrontEndForm][itemName_2]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "data[ContactUsFrontEndForm][fieldname_2]",
+            "type": "email",
+            "label": "Email",
+            "required": true
+          },
+          {
+            "name": "data[ContactUsFrontEndForm][itemName_3]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "data[ContactUsFrontEndForm][fieldname_3]",
+            "type": "text",
+            "label": "Θέμα",
+            "required": true
+          },
+          {
+            "name": "data[ContactUsFrontEndForm][itemName_4]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "data[ContactUsFrontEndForm][fieldname_4]",
+            "type": "textarea",
+            "label": "Μήνυμα",
+            "required": true
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "ORL Athens Clinic - ΩΡΛ ΧΕΙΡΟΥΡΓΙΚΗ ΚΛΙΝΙΚΗ ΑΘΗΝΩΝ",
+    "metaDescription": "Καλωσήρθατε στην ιστοσελίδα της ωτορινολαρυγγολογικής κλινικής ORL Athens Clinic. Η Ωτορινολαρυγγολογική κλινική Θ.Καρράς ιδρύθηκε το 1974 από τον αείμνηστο Θεμιστοκλή Καρρά και μια ομάδα καταξιωμένων χειρουργών ωτορινολαρυγγολόγων με όραμα τη δημιουργία μιας πρότυπης ΩΡΛ κλινικής, με σκοπό να προσφέρει υπηρεσίες υψηλών απαιτήσεων σε ασθενείς με προβλήματα κεφαλής και τραχήλου. Η αποκλειστική ενασχόληση της κλινικής με τη σύγχρονη ωτορινολαρυγγολογία την καθιστά μοναδική στην Ελλάδα. Η συνεργασία με καταξιωμένους χειρουργούς ωτορινολαρυγγολόγους και αναισθησιολόγους, καθώς και το εξειδικευμένο νοσηλευτικό προσωπικό διασφαλίζει το καλύτερο αποτέλεσμα σε όλες τις διενεργούμενες επεμβάσεις. Το ανθρωποκεντρικό πρόσωπο της κλινικής Καρράς είναι γνωστό ανάμεσα στους συναδέλφους ΩΡΛ , αφού ήταν και συνεχίζει να είναι ένα νοσηλευτικό ίδρυμα που βοήθησε και ακόμη βοηθά ασθενείς σε όλες τις δύσκολες κοινωνικές συγκυρίες στην πάροδο των χρόνων.",
+    "language": "en",
+    "openGraphImage": "https://www.ourglobalidea.com/rep//files/smewebsites/163016/logo-header-orl-athens-clinic.png"
+  },
+  "imageReferences": [
+    {
+      "url": "https://www.ourglobalidea.com/rep//files/smewebsites/163016/logo-header-orl-athens-clinic.png",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/163016/1bannerallETPA2.jpg",
+      "alt": "espa",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/163016/e-banner-%CE%9F%CE%A0%CE%A3-4898.jpg",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/logo-header-orl-athens-clinic2.png",
+      "alt": "business logo",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/new2.jpg",
+      "alt": "Banner image",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/120154/orl_athens_clinic__001_.gif",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/120154/orl_athens_clinic_xeirourgikes_epemvaseis.png",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/120154/freegifmaker_me_2iFfP.gif",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/120154/orl_athens_clinic_exetaseis.png",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/120154/ORL_ATHENS_CLINIC_017.jpg",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/120154/femail_testimonial_pic-modified.png",
+      "alt": "Avatar",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/120154/mail_testimonial_pic-modified.png",
+      "alt": "Avatar",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/25CE25B525CF258125CF258925CF258425CE25B725CF258325CE25B525CE25B925CF2582.png",
+      "sourcePageUrl": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+      "pageType": "faq",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+          "retrievedAt": "2026-03-31T13:16:06.228Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/mail_testimonial_pic-modified.png",
+      "alt": "Avatar",
+      "sourcePageUrl": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+      "pageType": "faq",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+          "retrievedAt": "2026-03-31T13:16:06.228Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/163016/facebook-icon-white-png-transparent-1_50x50.png",
+      "sourcePageUrl": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+      "pageType": "faq",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+          "retrievedAt": "2026-03-31T13:16:06.228Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/assets/images/others/olympicidea_loader_big.GIF",
+      "sourcePageUrl": "https://orlathensclinic.gr/epikoinonia/el",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/epikoinonia/el",
+          "retrievedAt": "2026-03-31T13:16:07.679Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/ORL-ATHENS-CLINIC-KLINIKI-01-1.jpg",
+      "sourcePageUrl": "https://orlathensclinic.gr/kliniki/el",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/kliniki/el",
+          "retrievedAt": "2026-03-31T13:16:11.801Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/orl_athens_clinic-01slide.gif",
+      "sourcePageUrl": "https://orlathensclinic.gr/kliniki/el",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/kliniki/el",
+          "retrievedAt": "2026-03-31T13:16:11.801Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/orl_athens_clinic_domatia-01.gif",
+      "sourcePageUrl": "https://orlathensclinic.gr/kliniki/el",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/kliniki/el",
+          "retrievedAt": "2026-03-31T13:16:11.801Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/ORL-ATHENS-CLINIC-KLINIKI-TMHMATA-ENDOSKOPIKO.jpg",
+      "sourcePageUrl": "https://orlathensclinic.gr/kliniki/el",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/kliniki/el",
+          "retrievedAt": "2026-03-31T13:16:11.801Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/ORL-ATHENS-CLINIC-KLINIKI-TMHMATA-AKTINOLOGIKO-MIKROVIOLOGIKO.jpg",
+      "sourcePageUrl": "https://orlathensclinic.gr/kliniki/el",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/kliniki/el",
+          "retrievedAt": "2026-03-31T13:16:11.801Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/ORL-ATHENS-CLINIC-KLINIKI-tmimata-xeirourgikis-thyroeidous.jpg",
+      "sourcePageUrl": "https://orlathensclinic.gr/kliniki/el",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/kliniki/el",
+          "retrievedAt": "2026-03-31T13:16:11.801Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/ORL-ATHENS-CLINIC-KLINIKI-tmimata-tmima-_epigonton-peristatikon.jpg",
+      "sourcePageUrl": "https://orlathensclinic.gr/kliniki/el",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/kliniki/el",
+          "retrievedAt": "2026-03-31T13:16:11.801Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/ORL-ATHENS-CLINIC-KLINIKI-nevrologiko-otologiko-ergastirio.jpg",
+      "sourcePageUrl": "https://orlathensclinic.gr/kliniki/el",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/kliniki/el",
+          "retrievedAt": "2026-03-31T13:16:11.801Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/120154/ORL_ATHENS_CLINK_IATRIKOS_EXOPLISMOS_000.jpg",
+      "sourcePageUrl": "https://orlathensclinic.gr/exoplismos/el",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/exoplismos/el",
+          "retrievedAt": "2026-03-31T13:16:13.241Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/ORL_ATHENS_CLINK_IATRIKOS_EXOPLISMOS_drill_.jpg",
+      "sourcePageUrl": "https://orlathensclinic.gr/exoplismos/el",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/exoplismos/el",
+          "retrievedAt": "2026-03-31T13:16:13.241Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/ORL_ATHENS_CLINK_IATRIKOS_EXOPLISMOS_Celon__Olympus_.jpg",
+      "sourcePageUrl": "https://orlathensclinic.gr/exoplismos/el",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/exoplismos/el",
+          "retrievedAt": "2026-03-31T13:16:13.241Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/ORL_ATHENS_CLINK_IATRIKOS_EXOPLISMOS__Nu_avigator_.jpg",
+      "sourcePageUrl": "https://orlathensclinic.gr/exoplismos/el",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/exoplismos/el",
+          "retrievedAt": "2026-03-31T13:16:13.241Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/ORL_ATHENS_CLINK_IATRIKOS_EXOPLISMOS_LASER_CO2.jpg",
+      "sourcePageUrl": "https://orlathensclinic.gr/exoplismos/el",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/exoplismos/el",
+          "retrievedAt": "2026-03-31T13:16:13.241Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/ORL_ATHENS_CLINK_IATRIKOS_EXOPLISMOS_MIKROSKOPIO_ORL.jpg",
+      "sourcePageUrl": "https://orlathensclinic.gr/exoplismos/el",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/exoplismos/el",
+          "retrievedAt": "2026-03-31T13:16:13.241Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/ORL_ATHENS_CLINK_IATRIKOS_EXOPLISMOS_nevroviegertis.jpg",
+      "sourcePageUrl": "https://orlathensclinic.gr/exoplismos/el",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/exoplismos/el",
+          "retrievedAt": "2026-03-31T13:16:13.241Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orlathensclinic.gr/files/smewebsites/163016/ORL_ATHENS_CLINK_IATRIKOS_EXOPLISMOS_siskevi_mikroektomis_Shaver.jpg",
+      "sourcePageUrl": "https://orlathensclinic.gr/exoplismos/el",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orlathensclinic.gr/exoplismos/el",
+          "retrievedAt": "2026-03-31T13:16:13.241Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "20/04/2016",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "07/03/2019",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "15/12/2016",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 5234432",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 5238405",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1974-2023",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "008384601000",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "00302105234432",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "00302105238405",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "karrasclinic@gmail.com",
+      "sourcePageUrl": "https://orlathensclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://orlathensclinic.gr/",
+          "retrievedAt": "2026-03-31T13:16:03.771Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210-5234239",
+      "sourcePageUrl": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+      "pageType": "faq",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "faq page",
+          "uri": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+          "retrievedAt": "2026-03-31T13:16:06.228Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "8/04/2016",
+      "sourcePageUrl": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+      "pageType": "faq",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "faq page",
+          "uri": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+          "retrievedAt": "2026-03-31T13:16:06.228Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "21/12/2016",
+      "sourcePageUrl": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+      "pageType": "faq",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "faq page",
+          "uri": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+          "retrievedAt": "2026-03-31T13:16:06.228Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "31/01/2019",
+      "sourcePageUrl": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+      "pageType": "faq",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "faq page",
+          "uri": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+          "retrievedAt": "2026-03-31T13:16:06.228Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://orlathensclinic.gr/epikoinonia/el",
+      "sourcePageUrl": "https://orlathensclinic.gr/epikoinonia/el",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://orlathensclinic.gr/epikoinonia/el",
+          "retrievedAt": "2026-03-31T13:16:07.679Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://orlathensclinic.gr/epikoinonia/el",
+      "sourcePageUrl": "https://orlathensclinic.gr/epikoinonia/el",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://orlathensclinic.gr/epikoinonia/el",
+          "retrievedAt": "2026-03-31T13:16:07.679Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "30/12/2016",
+      "sourcePageUrl": "https://orlathensclinic.gr/kliniki/el",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://orlathensclinic.gr/kliniki/el",
+          "retrievedAt": "2026-03-31T13:16:11.800Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "01/10/2018",
+      "sourcePageUrl": "https://orlathensclinic.gr/kliniki/el",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://orlathensclinic.gr/kliniki/el",
+          "retrievedAt": "2026-03-31T13:16:11.800Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://orlathensclinic.gr/",
+    "finalOrigin": "https://orlathensclinic.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://orlathensclinic.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:16:00.763Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [],
+      "disallowRules": [],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://orlathensclinic.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:15:59.292Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://orlathensclinic.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://orlathensclinic.gr/",
+        "timestamp": "2026-03-31T13:16:03.773Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+        "action": "queued",
+        "pageTypeHint": "faq",
+        "reason": "Discovered from https://orlathensclinic.gr/",
+        "timestamp": "2026-03-31T13:16:03.773Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/epikoinonia/el",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://orlathensclinic.gr/",
+        "timestamp": "2026-03-31T13:16:03.773Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/",
+        "timestamp": "2026-03-31T13:16:03.773Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/kliniki/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/",
+        "timestamp": "2026-03-31T13:16:03.773Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/exoplismos/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/",
+        "timestamp": "2026-03-31T13:16:03.773Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/arthra/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/",
+        "timestamp": "2026-03-31T13:16:03.773Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/synergates-p1/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/",
+        "timestamp": "2026-03-31T13:16:03.773Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/synergates/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/",
+        "timestamp": "2026-03-31T13:16:03.773Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/timokatalogos/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/",
+        "timestamp": "2026-03-31T13:16:03.773Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/oikonomika-stoixeia/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/",
+        "timestamp": "2026-03-31T13:16:03.773Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/syhnes-erotiseis/el",
+        "action": "fetched",
+        "pageTypeHint": "faq",
+        "statusCode": 200,
+        "reason": "Fetched from https://orlathensclinic.gr/",
+        "timestamp": "2026-03-31T13:16:06.230Z"
+      },
+      {
+        "url": "http://www.orlathensclinic.gr/%CE%AC%CF%81%CE%B8%CF%81%CE%B1/%CE%B8%CF%85%CF%81%CE%B5%CE%BF%CE%B5%CE%B9%CE%B4%CE%B5%CE%BA%CF%84%CE%BF%CE%BC%CE%AE.html",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/syhnes-erotiseis/el",
+        "timestamp": "2026-03-31T13:16:06.230Z"
+      },
+      {
+        "url": "http://www.orlathensclinic.gr/%CE%95%CE%BD%CE%B4%CE%BF%CF%83%CE%BA%CE%BF%CF%80%CE%B9%CE%BA%CE%AE%20%CF%87%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CE%B9%CE%BA%CE%AE%20%CF%81%CE%B9%CE%BD%CF%8C%CF%82%20%CE%BA%CE%B1%CE%B9%20%CF%80%CE%B1%CF%81%CE%B1%CF%81%CF%81%CE%B9%CE%BD%CE%AF%CF%89%CE%BD%20(FESS)",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/syhnes-erotiseis/el",
+        "timestamp": "2026-03-31T13:16:06.230Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/epikoinonia/el",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://orlathensclinic.gr/",
+        "timestamp": "2026-03-31T13:16:07.681Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/el",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://orlathensclinic.gr/",
+        "timestamp": "2026-03-31T13:16:09.817Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/kliniki/el",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://orlathensclinic.gr/",
+        "timestamp": "2026-03-31T13:16:11.802Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/endoskopiko-tmima/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/kliniki/el",
+        "timestamp": "2026-03-31T13:16:11.803Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/aktinologiko-mikroviologiko-ergastireio/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/kliniki/el",
+        "timestamp": "2026-03-31T13:16:11.803Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/tmima-xeiroyrgikis-thyroeidous-adena/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/kliniki/el",
+        "timestamp": "2026-03-31T13:16:11.803Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/tmima-epeigonton-peristatikon/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/kliniki/el",
+        "timestamp": "2026-03-31T13:16:11.803Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/nevro-otologiko-ergastirio/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/kliniki/el",
+        "timestamp": "2026-03-31T13:16:11.803Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/anaisthiologiko-tmima/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/kliniki/el",
+        "timestamp": "2026-03-31T13:16:11.803Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/paidoxeirourgiko-tmima/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/kliniki/el",
+        "timestamp": "2026-03-31T13:16:11.803Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/tmima-plastikis-xeirourgikis/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/kliniki/el",
+        "timestamp": "2026-03-31T13:16:11.803Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/tmima-otoxeirourgikis/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/kliniki/el",
+        "timestamp": "2026-03-31T13:16:11.803Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/iatreia-a-kai-b/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/kliniki/el",
+        "timestamp": "2026-03-31T13:16:11.803Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/tmima-eleghou-akois-gia-vrefi-kai-mikra-paidia/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/kliniki/el",
+        "timestamp": "2026-03-31T13:16:11.803Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/exoplismos/el",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://orlathensclinic.gr/",
+        "timestamp": "2026-03-31T13:16:13.242Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/drill/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/exoplismos/el",
+        "timestamp": "2026-03-31T13:16:13.243Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/Systima-Celon-Olympus/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/exoplismos/el",
+        "timestamp": "2026-03-31T13:16:13.243Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/diegxeiritiki-ploigisi-navigator/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/exoplismos/el",
+        "timestamp": "2026-03-31T13:16:13.243Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/laser-co2/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/exoplismos/el",
+        "timestamp": "2026-03-31T13:16:13.243Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/mikroskopio-orl/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/exoplismos/el",
+        "timestamp": "2026-03-31T13:16:13.243Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/nevrodiegertis/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/exoplismos/el",
+        "timestamp": "2026-03-31T13:16:13.243Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/syskevi-mikroektomis-Shaver/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/exoplismos/el",
+        "timestamp": "2026-03-31T13:16:13.243Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/Acclarent-Cyclops-Multi-Angle-Endoscope/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/exoplismos/el",
+        "timestamp": "2026-03-31T13:16:13.243Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/Coblation/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/exoplismos/el",
+        "timestamp": "2026-03-31T13:16:13.243Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/akoographos/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/exoplismos/el",
+        "timestamp": "2026-03-31T13:16:13.243Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/tympanographos/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/exoplismos/el",
+        "timestamp": "2026-03-31T13:16:13.243Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/nystagmographos/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/exoplismos/el",
+        "timestamp": "2026-03-31T13:16:13.243Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/akoustika-proklita-dynamika-statheris-katastasis-assr/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/exoplismos/el",
+        "timestamp": "2026-03-31T13:16:13.243Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/akoustika-proklita-dynamika-egefalikou-stelehous-abr/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/exoplismos/el",
+        "timestamp": "2026-03-31T13:16:13.243Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/proklites-otoakoustikes-ekpompes-oae/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/exoplismos/el",
+        "timestamp": "2026-03-31T13:16:13.243Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/piezohlektriko-systima-piezotome-rimoplastiki/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orlathensclinic.gr/exoplismos/el",
+        "timestamp": "2026-03-31T13:16:13.243Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:16:17.292Z"
+      },
+      {
+        "url": "https://orlathensclinic.gr/epikoinonia/el",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:16:19.791Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

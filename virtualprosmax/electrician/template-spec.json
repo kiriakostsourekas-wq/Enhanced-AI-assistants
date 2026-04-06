@@ -1,0 +1,244 @@
+{
+  "slug": "electrician",
+  "source_url": "https://electrician.virtualpros.com/",
+  "fetched_at_utc": "2026-04-06T11:43:51.842796+00:00",
+  "title": "",
+  "meta_description": "",
+  "hero": {
+    "heading": "We're located in the heart of North Richland Hills, Texas",
+    "subheading": "We're located in the heart of North Richland Hills, Texas",
+    "primary_cta": "Contact Us"
+  },
+  "sections": [
+    "Powering Your Home and Business Safely and Efficiently",
+    "Our Services",
+    "Residential & Commercial",
+    "Repairs and Upgrades",
+    "New Home Builds",
+    "Emergency Services",
+    "Generator Installation & Maintenance",
+    "EV Charger Installation"
+  ],
+  "ctas": [
+    "Home",
+    "About",
+    "Services",
+    "Contact Us",
+    "Virtual Pros.",
+    "Talk to Our AI Agent+1 (469) 529-0132",
+    "Get a Quote",
+    "Learn more",
+    "Book a Consultation",
+    "More about us"
+  ],
+  "nav_labels": [
+    "Home",
+    "About",
+    "Services",
+    "Contact Us",
+    "Virtual Pros.",
+    "Learn more"
+  ],
+  "paragraph_samples": [
+    "We're located in the heart of North Richland Hills, Texas",
+    "From installations to maintenance and safety checks, our licensed electricians ensure your space meets all electrical standards.",
+    "Whether you need urgent repairs, system upgrades, or routine maintenance, we're here to help ensure your home\u2019s electrical system is modern, compliant, and safe.",
+    "We provide expert wiring, lighting, and smart home integration to make your new house safe and energy-efficient from the start.",
+    "Available 24/7 for emergency electrical services. Quick response times to address urgent issues, preventing potential hazards and minimizing downtime.",
+    "Ideal for residential and commercial properties that require backup power solutions to safeguard against unexpected power outages.",
+    "We provide both residential and commercial installation solutions that are compatible with all leading electric vehicle models.",
+    "Harness the power of the sun with our solar installation services. We offer design, installation, and maintenance of solar panels for homes and businesses looking to reduce energy costs."
+  ],
+  "fonts": [
+    "Lato",
+    "Open Sans",
+    "Montserrat",
+    "Roboto",
+    "Manrope",
+    "Inter",
+    "var(--headlinefont)",
+    "var(--contentfont)"
+  ],
+  "palette": {
+    "css_variables": [
+      {
+        "name": "primary",
+        "value": "#37CA37"
+      },
+      {
+        "name": "secondary",
+        "value": "#188BF6"
+      },
+      {
+        "name": "white",
+        "value": "#FFFFFF"
+      },
+      {
+        "name": "gray",
+        "value": "#CBD5E0"
+      },
+      {
+        "name": "black",
+        "value": "#000000"
+      },
+      {
+        "name": "red",
+        "value": "#E93D3D"
+      },
+      {
+        "name": "orange",
+        "value": "#F6AD55"
+      },
+      {
+        "name": "yellow",
+        "value": "#FAF089"
+      },
+      {
+        "name": "green",
+        "value": "#9AE6B4"
+      },
+      {
+        "name": "teal",
+        "value": "#81E6D9"
+      },
+      {
+        "name": "malibu",
+        "value": "#63B3ED"
+      },
+      {
+        "name": "indigo",
+        "value": "#757BBD"
+      },
+      {
+        "name": "purple",
+        "value": "#D6BCFA"
+      },
+      {
+        "name": "pink",
+        "value": "#FBB6CE"
+      },
+      {
+        "name": "overlay",
+        "value": "rgba(0,0,0,0.5)"
+      },
+      {
+        "name": "color-lzca4r07",
+        "value": "#C8C8C8"
+      },
+      {
+        "name": "color-lzbtj2by",
+        "value": "#FFF6E4"
+      },
+      {
+        "name": "cobalt",
+        "value": "#155EEF"
+      },
+      {
+        "name": "smoke",
+        "value": "#F5F5F5"
+      },
+      {
+        "name": "brandboards-new_color_7704",
+        "value": "#87FF1BFF"
+      }
+    ],
+    "dominant_colors": [
+      {
+        "value": "#000000",
+        "count": 14
+      },
+      {
+        "value": "#FFFFFF",
+        "count": 9
+      },
+      {
+        "value": "#DDDDDDFF",
+        "count": 9
+      },
+      {
+        "value": "#188BF6",
+        "count": 7
+      },
+      {
+        "value": "#CBD5E0",
+        "count": 5
+      },
+      {
+        "value": "#C8C8C8",
+        "count": 5
+      },
+      {
+        "value": "#155EEF",
+        "count": 3
+      },
+      {
+        "value": "#37CA37",
+        "count": 2
+      },
+      {
+        "value": "#F6AD55",
+        "count": 2
+      },
+      {
+        "value": "#9AE6B4",
+        "count": 2
+      },
+      {
+        "value": "#CACACA",
+        "count": 2
+      },
+      {
+        "value": "rgb(24,139,246)",
+        "count": 2
+      },
+      {
+        "value": "rgb(255,255,255)",
+        "count": 2
+      },
+      {
+        "value": "#E93D3D",
+        "count": 1
+      },
+      {
+        "value": "#FAF089",
+        "count": 1
+      },
+      {
+        "value": "#81E6D9",
+        "count": 1
+      }
+    ],
+    "theme": {
+      "primary": "#188BF6",
+      "secondary": "#F6AD55",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#F6AD55"
+    }
+  },
+  "assets": {
+    "images": [
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/6998ce695ba498c3b410044e.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/d46d6761-eda1-4636-82e7-e1ebeaf55a43.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/e1e90763-336f-433b-a19c-84605b0e74ed.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/0dac793f-04de-4221-8ac5-487a7265ba36.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/8f829c61-e9b4-4e20-8b80-aaf6552ee54f.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/0af75cdd-0812-4f1c-862d-132fcfff7eba.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/c1586aa9-a0e2-4695-9d37-39f8fbd4895c.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/fc87b910-dae0-48a9-a9af-15d9f48e1b03.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/4ef64467-990c-4bbc-80ac-eba3aac04652.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/b9eaadd8-2b06-4c1d-a2aa-c6342a3f6423.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_768/u_https://assets.cdn.filesafe.space/n4lLPqZ3Dv19TQTebcB6/media/667f5e9d61f34b05f7d90ed7.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_900/u_https://assets.cdn.filesafe.space/n4lLPqZ3Dv19TQTebcB6/media/667f5e9d61f34b05f7d90ed7.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/n4lLPqZ3Dv19TQTebcB6/media/667f5e9d61f34b05f7d90ed7.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_768/u_https://assets.cdn.filesafe.space/n4lLPqZ3Dv19TQTebcB6/media/66ac6e028f484e4783652e0e.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_900/u_https://assets.cdn.filesafe.space/n4lLPqZ3Dv19TQTebcB6/media/66ac6e028f484e4783652e0e.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/n4lLPqZ3Dv19TQTebcB6/media/66ac6e028f484e4783652e0e.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_768/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/8d09a2b4-6c05-47fc-87de-aa77e1909c4c.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_900/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/8d09a2b4-6c05-47fc-87de-aa77e1909c4c.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/8d09a2b4-6c05-47fc-87de-aa77e1909c4c.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_900/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/6998ce695ba498c3b410044e.png"
+    ]
+  }
+}

@@ -1,0 +1,2192 @@
+{
+  "domain": "tsiachris.gr",
+  "collectedAt": "2026-03-31T13:08:40.077Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/tsiachris.gr-home-629dad1c",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://www.tsiachris.gr/",
+      "finalUrl": "https://www.tsiachris.gr/",
+      "fetchedAt": "2026-03-31T13:08:26.459Z",
+      "metadata": {
+        "title": "Home - Tsiachris",
+        "canonicalUrl": "https://www.tsiachris.gr/",
+        "language": "en",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Home - Tsiachris"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Καινοτομίες του Athens Heart Center"
+        },
+        {
+          "level": "h3",
+          "text": "Βηματοδότηση χωρίς καλώδια"
+        },
+        {
+          "level": "h3",
+          "text": "Κατάλυση κολπικής μαρμαρυγής"
+        },
+        {
+          "level": "h3",
+          "text": "Κατάλυση κοιλιακών αρρυθμιών"
+        },
+        {
+          "level": "h3",
+          "text": "Τοποθεσία Ιατρείου"
+        },
+        {
+          "level": "h3",
+          "text": "Επικοινωνία"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.tsiachris.gr/"
+        },
+        {
+          "href": "https://www.tsiachris.gr/athensheartcenter-2/",
+          "label": "Ποιοι Είμαστε"
+        },
+        {
+          "href": "https://www.tsiachris.gr/pages/typography/",
+          "label": "Δημήτρης Τσιαχρής"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b1%ce%bd%cf%84%cf%89%ce%bd%ce%b9%ce%bf%cf%85-%cf%87%cf%81%ce%b7%cf%83%cf%84%ce%bf%cf%82/",
+          "label": "Χρήστος Κωνσταντίνος Αντωνίου"
+        },
+        {
+          "href": "https://www.tsiachris.gr/2742-2/",
+          "label": "Δεληγιάννης Γεώργιος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%bf%cf%81%ce%b4%ce%b1%ce%bb%ce%b7%cf%83-%ce%b1%ce%b8%ce%b1%ce%bd%ce%b1%cf%83%ce%b9%ce%bf%cf%83/",
+          "label": "Κορδαλής Αθανάσιος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%bf%cf%85%ce%bd%ce%b4%ce%bf%cf%85%ce%bb%ce%b1%ce%ba%ce%b7%cf%83-%ce%b9%cf%89%ce%b1%ce%bd%ce%bd%ce%b7%cf%83/",
+          "label": "Δουνδουλάκης Ιωάννης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf%cf%82-%ce%bb%ce%b1%ce%b6%ce%b1%cf%81%ce%b9%ce%b4%ce%b7%cf%82/",
+          "label": "Λαζαρίδης Κυριάκος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%83%cf%80%ce%b1%ce%bd%cf%8c%cf%82-%ce%b1%ce%bd%ce%b1%cf%83%cf%84%ce%ac%cf%83%ce%b9%ce%bf%cf%82/",
+          "label": "Σπανός Αναστάσιος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%bd%ce%af%ce%ba%ce%bf%cf%82-%ce%b1%cf%81%ce%b3%cf%85%cf%81%ce%af%ce%bf%cf%85/",
+          "label": "Νίκος Αργυρίου"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%cf%89%cf%84%ce%bf%cf%8d%ce%bb%ce%b1%cf%82-%cf%83%cf%89%cf%84%ce%ae%cf%81%ce%b7%cf%83/",
+          "label": "Κωτούλας Σωτήρης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%bc%cf%80%cf%8c%cf%84%ce%b7%cf%82-%ce%bc%ce%b9%cf%87%ce%ac%ce%bb%ce%b7%cf%82/",
+          "label": "Μπότης Μιχάλης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%bd%ce%bf%cf%83%ce%b7%ce%bc%ce%b1%cf%84%ce%b1-2/",
+          "label": "Νοσήματα"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%bf%ce%bb%cf%80%ce%b9%ce%ba%ce%b7-%ce%bc%ce%b1%cf%81%ce%bc%ce%b1%cf%81%cf%85%ce%b3%ce%b7/",
+          "label": "Κολπική Μαρμαρυγή"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%83%cf%85%ce%b3%ce%ba%ce%bf%cf%80%ce%b7-%ce%b1%ce%b9%cf%86%ce%bd%ce%b9%ce%b4%ce%b9%ce%bf%cf%83-%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%b1%ce%ba%ce%bf%cf%83-%ce%b8%ce%b1%ce%bd%ce%b1%cf%84%ce%bf%cf%83/",
+          "label": "Συγκοπή – Αιφνίδιος Καρδιακός Θάνατος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%83%cf%8d%ce%bd%ce%b4%cf%81%ce%bf%ce%bc%ce%bf-brugada/",
+          "label": "Συγκοπή"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b1%ce%b9%cf%86%ce%bd%ce%b9%ce%b4%ce%b9%ce%bf%cf%82_%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%b1%ce%ba%cf%8c%cf%82_%ce%b8%ce%ac%ce%bd%ce%b1%cf%84%ce%bf%cf%82/",
+          "label": "Αιφνίδιος καρδιακός θάνατος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%85%cf%80%ce%b5%cf%81%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%ce%b5%cf%83-%ce%b1%cf%81%cf%81%cf%85%ce%b8%ce%bc%ce%b9%ce%b5%cf%83/%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%ce%b5%cf%83-%ce%b1%cf%81%cf%81%cf%85%ce%b8%ce%bc%ce%b9%ce%b5%cf%83/",
+          "label": "Κοιλιακές Αρρυθμίες"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%85%cf%80%ce%b5%cf%81%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%ce%b5%cf%83-%ce%b1%cf%81%cf%81%cf%85%ce%b8%ce%bc%ce%b9%ce%b5%cf%83/",
+          "label": "Υπερκοιλιακές Αρρυθμίες"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%b9%ce%b1%ce%b3%ce%bd%cf%89%cf%83%cf%84%ce%b9%ce%ba%ce%b5%cf%83-%ce%b5%ce%be%ce%b5%cf%84%ce%b1%cf%83%ce%b5%ce%b9%cf%83/",
+          "label": "Διαγνωστικές Εξετάσεις"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%cf%80%ce%b5%ce%bc%ce%b2%ce%b1%cf%84%ce%b9%ce%ba%ce%b5%cf%83/",
+          "label": "Επεμβατικές"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b7%ce%bb%ce%b5%ce%ba%cf%84%cf%81%ce%bf%cf%86%cf%85%cf%83%ce%b9%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%ba%ce%b7-%ce%bc%ce%b5%ce%bb%ce%b5%cf%84%ce%b7/",
+          "label": "Ηλεκτροφυσιολογική Μελέτη"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%85%cf%83%ce%b7-%ce%bc%ce%b1%ce%ba%cf%81%ce%bf%cf%87%cf%81%ce%bf%ce%bd%ce%b9%cf%89%ce%bd-%ce%ba%ce%b1%cf%84%ce%b1%ce%b3%cf%81%ce%b1%cf%86%ce%b5%cf%89%ce%bd-loop/",
+          "label": "Εμφύτευση Μακροχρόνιων Καταγραφέων (Loop Recorders)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%bc%ce%b7-%ce%b5%cf%80%ce%b5%ce%bc%ce%b2%ce%b1%cf%84%ce%b9%ce%ba%ce%b5%cf%83/",
+          "label": "Μη Επεμβατικές"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%b9%ce%b1%ce%b8%cf%89%cf%81%ce%b1%ce%ba%ce%b9%ce%ba%ce%bf-%cf%85%cf%80%ce%b5%cf%81%ce%b7%cf%87%ce%bf%ce%ba%cf%81%ce%b1%ce%b4%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b7%ce%bc%ce%b1-triplex/",
+          "label": "Διαθωρακικό Υπερηχοκαρδιογράφημα (triplex καρδιάς)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%b9%ce%bf%ce%b9%cf%83%ce%bf%cf%86%ce%b1%ce%b3%ce%b5%ce%b9%ce%bf-%cf%85%cf%80%ce%b5%cf%81%ce%b7%cf%87%ce%bf%ce%ba%cf%81%ce%b1%ce%b4%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b7%ce%bc%ce%b1/",
+          "label": "Διοισοφάγειο Υπερηχοκαρδιογράφημα"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%cf%85%ce%bd%ce%b1%ce%bc%ce%b9%ce%ba%ce%b7-%cf%85%cf%80%ce%b5%cf%81%ce%b7%cf%87%ce%bf%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%b1-stress-echo/",
+          "label": "Δυναμική Υπερηχοκαρδιογραφία (Stress Echo)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%bf%ce%ba%ce%b9%ce%bc%ce%b1%cf%83%ce%b9%ce%b1-%ce%ba%ce%bf%cf%80%cf%89%cf%83%ce%b7%cf%83/",
+          "label": "Δοκιμασία Κόπωσης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/holter-%cf%80%ce%b9%ce%b5%cf%83%ce%b7%cf%83/",
+          "label": "Holter Πίεσης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/holter-%cf%81%cf%85%ce%b8%ce%bc%ce%bf%cf%85/",
+          "label": "Holter Ρυθμού"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%bf%ce%ba%ce%b9%ce%bc%ce%b1%cf%83%ce%b9%ce%b1-%ce%b1%ce%bd%ce%b1%ce%ba%ce%bb%ce%b9%cf%83%ce%b7%cf%83-tilt-test/",
+          "label": "Δοκιμασία Ανάκλισης (Tilt test)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bb%ce%b5%ce%b3%cf%87%ce%bf%cf%82_%ce%b2%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%ce%b4%cf%8c%cf%84%ce%b7/",
+          "label": "‘Ελεγχος Βηματοδοτών"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b2%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%ce%b4%ce%bf%cf%84%ce%b5%cf%83-%ce%b1%cf%80%ce%b9%ce%bd%ce%b9%ce%b4%cf%89%cf%84%ce%b5%cf%83/",
+          "label": "Βηματοδότες-Απινιδωτές"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%85%cf%83%ce%b7-%cf%83%cf%85%ce%bc%ce%b2%ce%b1%cf%84%ce%b9%ce%ba%ce%bf%cf%85-%ce%b2%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%ce%b4%ce%bf%cf%84%ce%b7/",
+          "label": "Εμφύτευση Συμβατικού Βηματοδότη"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%85%cf%83%ce%b7-%ce%b2%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%ce%b4%ce%bf%cf%84%ce%b7-%cf%87%cf%89%cf%81%ce%b9%cf%83-%ce%ba%ce%b1%ce%bb%cf%89%ce%b4%ce%b9%ce%b1/",
+          "label": "Εμφύτευση Βηματοδότη Χωρίς Καλώδια"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%80%ce%b9%ce%bd%ce%b9%ce%b4%cf%89%cf%84%ce%b7/",
+          "label": "Εμφύτευση Απινιδωτή"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%af%ce%b1-%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%b1%ce%ba%ce%bf%cf%8d-%ce%b5%cf%80%ce%b1%ce%bd%ce%b1%cf%83%cf%85%ce%b3%cf%87%cf%81%ce%bf%ce%bd%ce%b9%cf%83%ce%bc%ce%bf/",
+          "label": "Θεραπεία Καρδιακού Επανασυγχρονισμού (Εμφύτευση Αμφικοιλιακού Βηματοδότη)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%b1%ce%bb%cf%8d%cf%83%ce%b5%ce%b9%cf%82-ablation/",
+          "label": "Καταλύσεις – Ablation"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%b1%ce%bb%cf%85%cf%83%ce%b7-%ce%ba%ce%bf%ce%bb%cf%80%ce%b9%ce%ba%ce%b7%cf%83-%ce%bc%ce%b1%cf%81%ce%bc%ce%b1%cf%81%cf%85%ce%b3%ce%b7%cf%83/",
+          "label": "Κατάλυση Κολπικής Μαρμαρυγής"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%ac%ce%bb%cf%85%cf%83%ce%b7-%cf%85%cf%80%ce%b5%cf%81%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%cf%8e%ce%bd-%cf%84%ce%b1%cf%87%cf%85%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%cf%8e%ce%bd/",
+          "label": "Κατάλυση Υπερκοιλιακών Ταχυκαρδιών"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%ac%ce%bb%cf%85%cf%83%ce%b7-%ce%ba%ce%bf%ce%bb%cf%80%ce%b9%ce%ba%ce%bf%cf%8d-%cf%80%cf%84%ce%b5%cf%81%cf%85%ce%b3%ce%b9%cf%83%ce%bc%ce%bf%cf%8d/",
+          "label": "Κατάλυση Κολπικού Πτερυγισμού"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%ac%ce%bb%cf%85%cf%83%ce%b7-%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%cf%8e%ce%bd-%cf%84%ce%b1%cf%87%cf%85%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%cf%8e%ce%bd/",
+          "label": "Κατάλυση Κοιλιακών Ταχυκαρδιών"
+        },
+        {
+          "href": "https://www.tsiachris.gr/contact/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.tsiachris.gr/privacy-policy/",
+          "label": "Privacy Policy"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "2106926002",
+          "23000000",
+          "+210-6926002",
+          "31536000000"
+        ],
+        "emails": [
+          "dtsiachris@yahoo.com",
+          "dtsiachris@yahoo,com"
+        ],
+        "addresses": [
+          "Τοποθεσία ΙατρείουΕπικοινωνία No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα Τηλέφωνο : +210-6926002 Email : dtsiachris@yahoo.com Web : facebook.com Copyright © 2019 Soulmedic Theme All Rights Reserved | Design Themes",
+          "No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/athensheartcenter.gr/?ref=aymt_homepage_panel&eid=ARBGtY-9FOcjQS96XGR8M0V0bgTFoix_CdLuYiwSL0GLOrSYuJAkcUwNcHPeaxOpZ84rhCWcokcsVSTN"
+          },
+          {
+            "href": "https://gr.linkedin.com/in/dimitris-tsiachris-ba481738"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UCaP4Dl-76Mf5vdkQ9tovuPQ?fbclid=IwAR0uj12Iu4tpoPvI4jWHXl_IUWO19qvx_okj0Py6Dpi60h7kWx0kfO64IAg"
+          },
+          {
+            "href": "https://www.youtube.com/watch?v=hMsxbhsl8Kg&ab_channel=%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82%CE%A4%CF%83%CE%B9%CE%B1%CF%87%CF%81%CE%AE%CF%82",
+            "label": "ΠΕΡΙΣΣΟΤΕΡΑ"
+          },
+          {
+            "href": "https://www.youtube.com/watch?v=w9O4smkdvJM",
+            "label": "ΠΕΡΙΣΣΟΤΕΡΑ"
+          },
+          {
+            "href": "https://www.youtube.com/watch?v=o6tNdm-foOs",
+            "label": "Βηματοδότηση χωρίς καλώδια"
+          },
+          {
+            "href": "https://www.youtube.com/watch?v=UybdvoYNLks",
+            "label": "Κατάλυση κολπικής μαρμαρυγής"
+          },
+          {
+            "href": "https://www.youtube.com/watch?v=SfD5xfImOJY",
+            "label": "Κατάλυση κοιλιακών αρρυθμιών"
+          },
+          {
+            "href": "https://www.facebook.com/athensheartcenter.gr/?eid=ARBCJHfw0y6vE5nBjAwa9yPPlck8kzjw2WUFlEIEBGXV82oO-Uaur6jAljavuqQOh7oZIfrGfOU-wQNC",
+            "label": "facebook.com"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "Τοποθεσία ΙατρείουΕπικοινωνία No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα Τηλέφωνο : +210-6926002 Email : dtsiachris@yahoo.com Web : facebook.com Copyright © 2019 Soulmedic Theme All Rights Reserved | Design Themes",
+      "textContent": "Εργαστήριο Ηλεκτροφυσιολογίας & Βηματοδότησης 2106926002 dtsiachris@yahoo.com Ποιοι Είμαστε Δημήτρης Τσιαχρής Χρήστος Κωνσταντίνος Αντωνίου Δεληγιάννης Γεώργιος Κορδαλής Αθανάσιος Δουνδουλάκης Ιωάννης Λαζαρίδης Κυριάκος Σπανός Αναστάσιος Νίκος Αργυρίου Κωτούλας Σωτήρης Μπότης Μιχάλης Νοσήματα Κολπική Μαρμαρυγή Συγκοπή – Αιφνίδιος Καρδιακός Θάνατος Συγκοπή Αιφνίδιος καρδιακός θάνατος Κοιλιακές Αρρυθμίες Υπερκοιλιακές Αρρυθμίες Διαγνωστικές Εξετάσεις Επεμβατικές Ηλεκτροφυσιολογική Μελέτη Εμφύτευση Μακροχρόνιων Καταγραφέων (Loop Recorders) Μη Επεμβατικές Διαθωρακικό Υπερηχοκαρδιογράφημα (triplex καρδιάς) Διοισοφάγειο Υπερηχοκαρδιογράφημα Δυναμική Υπερηχοκαρδιογραφία (Stress Echo) Δοκιμασία Κόπωσης Holter Πίεσης Holter Ρυθμού Δοκιμασία Ανάκλισης (Tilt test) ‘Ελεγχος Βηματοδοτών Βηματοδότες-Απινιδωτές Εμφύτευση Συμβατικού Βηματοδότη Εμφύτευση Βηματοδότη Χωρίς Καλώδια Εμφύτευση Απινιδωτή Θεραπεία Καρδιακού Επανασυγχρονισμού (Εμφύτευση Αμφικοιλιακού Βηματοδότη) Καταλύσεις – Ablation Κατάλυση Κολπικής Μαρμαρυγής Κατάλυση Υπερκοιλιακών Ταχυκαρδιών Κατάλυση Κολπικού Πτερυγισμού Κατάλυση Κοιλιακών Ταχυκαρδιών Επικοινωνία Menu Κοιλιακες Αρρυθμιες Ενημερωθείτε για όλες τιςδιαθέσιμες πρωτοποριακές θεραπείες κοιλιακών αρρυθμιών ΠΕΡΙΣΣΟΤΕΡΑ Τι ειναι Κολπικη μαρμαρυγη? Είναι η πιο συχνή καρδιακή αρρυθμία και ταυτόχρονα μια νόσος που απαιτεί ολιστική αντιμετώπιση ΠΕΡΙΣΣΟΤΕΡΑ Κατάλυση κοιλιακών αρρυθμιών με χρήση μόνο ηλεκτροανατομικής χαρτογράφησης ΠΕΡΙΣΣΟΤΕΡΑ Επεμβάσεις χωρίς ακτινοβολία FORTUNE TALKS Δημήτρης Τσιαχρής: Μαθαίνω τούς ασθενείς μου να ακούνε την καρδιά τους. ΠΕΡΙΣΣΟΤΕΡΑ 7o Πανελλὴνιο αρρυθμιολογικό συνὲδριο Αναλύοντας την εμπειρία μετά 8 χρόνια και 1000 περιστατικά κρυοκατάλυσης ΠΕΡΙΣΣΟΤΕΡΑ setREVStartSize({c: 'rev_slider_4_1',rl:[1240,1024,768,480],el:[750],gw:[2100],gh:[750],layout:'fullwidth',mh:\"0\"}); var revapi4, tpj; jQuery(function() { tpj = jQuery; if(tpj(\"#rev_slider_4_1\").revolution == undefined){ revslider_showDoubleJqueryError(\"#rev_slider_4_1\"); }else{ revapi4 = tpj(\"#rev_slider_4_1\").show().revolution({ jsFileLocation:\"//www.tsiachris.gr/wp-content/plugins/revslider/public/assets/js/\", visibilityLevels:\"1240,1024,768,480\", gridwidth:2100, gridheight:750, lazyType:\"smart\", spinner:\"spinner0\", editorheight:\"750,366,960,591.992\", responsiveLevels:\"1240,1024,768,480\", disableProgressBar:\"on\", navigation: { keyboardNavigation:true, mouseScrollNavigation:false, touch: { touchenabled:true, touchOnDesktop:true }, arrows: { enable:true, style:\"hesperiden\", hide_onmobile:true, hide_under:\"767px\", hide_onleave:true, left: { }, right: { } } }, fallbacks: { allowHTML5AutoPlayOnAndroid:true }, }); } }); var htmlDivCss = unescape(\"%23rev_slider_4_1_wrapper%20.hesperiden.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A40px%3B%0A%09height%3A40px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A1000%3B%0A%20%20%20%20border-radius%3A%2050%25%3B%0A%7D%0A%23rev_slider_4_1_wrapper%20.hesperiden.tparrows%3Ahover%20%7B%0A%09background%3A%23000000%3B%0A%7D%0A%23rev_slider_4_1_wrapper%20.hesperiden.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%27revicons%27%3B%0A%09font-size%3A20px%3B%0A%09color%3A%23ffffff%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%2040px%3B%0A%09text-align%3A%20center%3B%0A%7D%0A%23rev_slider_4_1_wrapper%20.hesperiden.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%27%5Ce82c%27%3B%0A%20%20%20%20margin-left%3A-3px%3B%0A%7D%0A%23rev_slider_4_1_wrapper%20.hesperiden.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%27%5Ce82d%27%3B%0A%20%20%20%20margin-right%3A-3px%3B%0A%7D%0A\"); var htmlDiv = document.getElementById('rs-plugin-settings-inline-css'); if(htmlDiv) { htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss; }else{ var htmlDiv = document.createElement('div'); htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>'; document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]); } var htmlDivCss = unescape(\"%0A%0A%0A%0A%0A%0A%0A\"); var htmlDiv = document.getElementById('rs-plugin-settings-inline-css'); if(htmlDiv) { htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss; }else{ var htmlDiv = document.createElement('div'); htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>'; document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]); } Βηματοδότηση χωρίς καλώδιαΠρώτη εμφύτευση μικροσκοπικού βηματοδότη χωρίς καλώδια τύπου Micra σε ασθενή με διάγνωση του αιτίου της συγκοπής από το μικροσκοπικό εμφυτεύσιμο LinqΚατάλυση κολπικής μαρμαρυγήςΠαρακολουθείστε ζωντανή μετάδοση κατάλυσης κολπικής μαρμαρυγής με την μέθοδο της κρυοπηξίας στο νέο υβριδικό εργαστήριο του Athens Heart Center.Κατάλυση κοιλιακών αρρυθμιώνΖωντανή μετάδοση κατάλυσης σύμπλοκων κοιλιακών αρρυθμιών με την χρήση του συστήματος ηλεκτροανατομικής χαρτογράφησης CARTO Καινοτομίες του Athens Heart Center > 500 επεμβάσεις άνα έτος σε 3 σύγχρονες πλήρως εξοπλισμένες αίθουσες ηλεκτροφυσιολογίας Μεγαλύτερη εμπειρία στην Ελλάδα σε επεμβάσεις κατάλυσης κολπικής μαρμαρυγής με τη χρήση κρυοπηξίας (>1000) – εκπαίδευση σε 10 κέντρα στην Ελλάδα και σε 5 χώρες της Ευρώπης Πρωτοπόροι στις εμφυτεύσεις βηματοδότων χωρίς καλώδια και στις καταλύσεις κοιλιακών και υπερκοιλιακών αρρυθμιών χωρίς ακτινοσκόπηση Μοναδική εξειδίκευση στις καταλύσεις σύμπλοκων κοιλιακών αρρυθμίων Τοποθεσία ΙατρείουΕπικοινωνία No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα Τηλέφωνο : +210-6926002 Email : dtsiachris@yahoo.com Web : facebook.com Copyright © 2019 Soulmedic Theme All Rights Reserved | Design Themes This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.CloseModalPrivacy Cookie and Privacy Settings How we use cookiesEssential Website CookiesOther external servicesPrivacy Policy We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.These cookies are strictly necessary to provide you with services available through our website and to use some of its features. Because these cookies are strictly necessary to deliver the website, you cannot refuse them without impacting how our site functions. You can block or delete them by changing your browser settings and force blocking all cookies on this website.We also use different external services like Google Webfonts, Google Maps and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page. Google Webfont Settings: Click to enable/disable google webfonts. Google Map Settings: Click to enable/disable google maps. Vimeo and Youtube video embeds: Click to enable/disable video embeds.You can read about our cookies and privacy settings in detail on our Privacy Policy Page. Privacy Policy {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"\\/*\"},{\"not\":{\"href_matches\":[\"\\/wp-*.php\",\"\\/wp-admin\\/*\",\"\\/wp-content\\/uploads\\/*\",\"\\/wp-content\\/*\",\"\\/wp-content\\/plugins\\/*\",\"\\/wp-content\\/themes\\/bbpress\\/..\\/*\",\"\\/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} if(typeof revslider_showDoubleJqueryError === \"undefined\") { function revslider_showDoubleJqueryError(sliderID) { var err = \"<div class='rs_error_message_box'>\"; err += \"<div class='rs_error_message_oops'>Oops...</div>\"; err += \"<div class='rs_error_message_content'>\"; err += \"You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>\"; err += \"To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on\"; err += \"<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it\"; err += \"</div>\"; err += \"</div>\"; jQuery(sliderID).show().html(err); } } /* <![CDATA[ */ var dttheme_urls = {\"theme_base_url\":\"https:\\/\\/www.tsiachris.gr\\/wp-content\\/themes\\/bbpress\\/..\",\"framework_base_url\":\"https:\\/\\/www.tsiachris.gr\\/wp-content\\/themes\\/bbpress\\/..\\/framework\\/\",\"ajaxurl\":\"https:\\/\\/www.tsiachris.gr\\/wp-admin\\/admin-ajax.php\",\"url\":\"https:\\/\\/www.tsiachris.gr\",\"isRTL\":\"\",\"loadingbar\":\"disable\",\"advOptions\":\"Show Advanced Options\",\"wpnonce\":\"d8ea7c3e2e\",\"enable_ajax_addtocart\":\"\",\"enable_totop\":\"1\",\"nice_scroll\":\"disable\"}; /* ]]> */ /* <![CDATA[ */ function dt_privacy_cookie_setter( cookie_name ) { var toggle = jQuery('.' + cookie_name); toggle.each(function() { if(document.cookie.match(cookie_name)) this.checked = false; }); jQuery('.' + 'dt-switch-' + cookie_name).each(function() { this.className += ' active '; }); toggle.on('click', function() { if(this.checked) { document.cookie = cookie_name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;'; } else { var theDate = new Date(); var oneYearLater = new Date( theDate.getTime() + 31536000000 ); document.cookie = cookie_name + '=true; Path=/; Expires='+oneYearLater.toGMTString()+';'; } }); }; dt_privacy_cookie_setter('dtPrivacyGoogleTrackingDisabled'); dt_privacy_cookie_setter('dtPrivacyGoogleWebfontsDisabled'); dt_privacy_cookie_setter('dtPrivacyGoogleMapsDisabled'); dt_privacy_cookie_setter('dtPrivacyVideoEmbedsDisabled'); /* ]]> */ /* <![CDATA[ */ var dtportfoliofrontendobject = {\"ajaxurl\":\"https:\\/\\/www.tsiachris.gr\\/wp-admin\\/admin-ajax.php\",\"page_builder\":\"visual-composer\",\"elementor_preview_mode\":\"\"}; /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/tsiachris.gr-home-629dad1c/homepage--629dad1c.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/tsiachris.gr-home-629dad1c/homepage--629dad1c.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.tsiachris.gr/wp-content/uploads/2020/04/Athens-Heart-Center.jpeg",
+          "sourcePageUrl": "https://www.tsiachris.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.tsiachris.gr/",
+              "retrievedAt": "2026-03-31T13:08:26.457Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.tsiachris.gr/wp-content/plugins/revslider/public/assets/assets/dummy.png",
+          "sourcePageUrl": "https://www.tsiachris.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.tsiachris.gr/",
+              "retrievedAt": "2026-03-31T13:08:26.457Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.tsiachris.gr/wp-content/uploads/2020/04/Figure-e1588500853327.jpg",
+          "sourcePageUrl": "https://www.tsiachris.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.tsiachris.gr/",
+              "retrievedAt": "2026-03-31T13:08:26.457Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.tsiachris.gr/wp-content/uploads/2020/04/Cryo-part-I.jpg",
+          "sourcePageUrl": "https://www.tsiachris.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.tsiachris.gr/",
+              "retrievedAt": "2026-03-31T13:08:26.457Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.tsiachris.gr/wp-content/uploads/2020/04/cs-dis-e1588501266326.jpg",
+          "sourcePageUrl": "https://www.tsiachris.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.tsiachris.gr/",
+              "retrievedAt": "2026-03-31T13:08:26.457Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://www.tsiachris.gr/",
+          "retrievedAt": "2026-03-31T13:08:26.459Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/tsiachris.gr-home-629dad1c/homepage-page-629dad1c.png"
+    },
+    "about": {
+      "pageType": "about",
+      "requestedUrl": "https://www.tsiachris.gr/2742-2",
+      "finalUrl": "https://www.tsiachris.gr/2742-2",
+      "fetchedAt": "2026-03-31T13:08:34.359Z",
+      "metadata": {
+        "title": "ΔΕΛΗΓΙΑΝΝΗΣ ΓΕΩΡΓΙΟΣ - Tsiachris",
+        "canonicalUrl": "https://www.tsiachris.gr/2742-2/",
+        "language": "en",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "ΔΕΛΗΓΙΑΝΝΗΣ ΓΕΩΡΓΙΟΣ - Tsiachris"
+      },
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Τοποθεσία Ιατρείου"
+        },
+        {
+          "level": "h3",
+          "text": "Επικοινωνία"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.tsiachris.gr/"
+        },
+        {
+          "href": "https://www.tsiachris.gr/athensheartcenter-2/",
+          "label": "Ποιοι Είμαστε"
+        },
+        {
+          "href": "https://www.tsiachris.gr/pages/typography/",
+          "label": "Δημήτρης Τσιαχρής"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b1%ce%bd%cf%84%cf%89%ce%bd%ce%b9%ce%bf%cf%85-%cf%87%cf%81%ce%b7%cf%83%cf%84%ce%bf%cf%82/",
+          "label": "Χρήστος Κωνσταντίνος Αντωνίου"
+        },
+        {
+          "href": "https://www.tsiachris.gr/2742-2/",
+          "label": "Δεληγιάννης Γεώργιος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%bf%cf%81%ce%b4%ce%b1%ce%bb%ce%b7%cf%83-%ce%b1%ce%b8%ce%b1%ce%bd%ce%b1%cf%83%ce%b9%ce%bf%cf%83/",
+          "label": "Κορδαλής Αθανάσιος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%bf%cf%85%ce%bd%ce%b4%ce%bf%cf%85%ce%bb%ce%b1%ce%ba%ce%b7%cf%83-%ce%b9%cf%89%ce%b1%ce%bd%ce%bd%ce%b7%cf%83/",
+          "label": "Δουνδουλάκης Ιωάννης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf%cf%82-%ce%bb%ce%b1%ce%b6%ce%b1%cf%81%ce%b9%ce%b4%ce%b7%cf%82/",
+          "label": "Λαζαρίδης Κυριάκος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%83%cf%80%ce%b1%ce%bd%cf%8c%cf%82-%ce%b1%ce%bd%ce%b1%cf%83%cf%84%ce%ac%cf%83%ce%b9%ce%bf%cf%82/",
+          "label": "Σπανός Αναστάσιος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%bd%ce%af%ce%ba%ce%bf%cf%82-%ce%b1%cf%81%ce%b3%cf%85%cf%81%ce%af%ce%bf%cf%85/",
+          "label": "Νίκος Αργυρίου"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%cf%89%cf%84%ce%bf%cf%8d%ce%bb%ce%b1%cf%82-%cf%83%cf%89%cf%84%ce%ae%cf%81%ce%b7%cf%83/",
+          "label": "Κωτούλας Σωτήρης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%bc%cf%80%cf%8c%cf%84%ce%b7%cf%82-%ce%bc%ce%b9%cf%87%ce%ac%ce%bb%ce%b7%cf%82/",
+          "label": "Μπότης Μιχάλης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%bd%ce%bf%cf%83%ce%b7%ce%bc%ce%b1%cf%84%ce%b1-2/",
+          "label": "Νοσήματα"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%bf%ce%bb%cf%80%ce%b9%ce%ba%ce%b7-%ce%bc%ce%b1%cf%81%ce%bc%ce%b1%cf%81%cf%85%ce%b3%ce%b7/",
+          "label": "Κολπική Μαρμαρυγή"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%83%cf%85%ce%b3%ce%ba%ce%bf%cf%80%ce%b7-%ce%b1%ce%b9%cf%86%ce%bd%ce%b9%ce%b4%ce%b9%ce%bf%cf%83-%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%b1%ce%ba%ce%bf%cf%83-%ce%b8%ce%b1%ce%bd%ce%b1%cf%84%ce%bf%cf%83/",
+          "label": "Συγκοπή – Αιφνίδιος Καρδιακός Θάνατος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%83%cf%8d%ce%bd%ce%b4%cf%81%ce%bf%ce%bc%ce%bf-brugada/",
+          "label": "Συγκοπή"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b1%ce%b9%cf%86%ce%bd%ce%b9%ce%b4%ce%b9%ce%bf%cf%82_%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%b1%ce%ba%cf%8c%cf%82_%ce%b8%ce%ac%ce%bd%ce%b1%cf%84%ce%bf%cf%82/",
+          "label": "Αιφνίδιος καρδιακός θάνατος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%85%cf%80%ce%b5%cf%81%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%ce%b5%cf%83-%ce%b1%cf%81%cf%81%cf%85%ce%b8%ce%bc%ce%b9%ce%b5%cf%83/%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%ce%b5%cf%83-%ce%b1%cf%81%cf%81%cf%85%ce%b8%ce%bc%ce%b9%ce%b5%cf%83/",
+          "label": "Κοιλιακές Αρρυθμίες"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%85%cf%80%ce%b5%cf%81%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%ce%b5%cf%83-%ce%b1%cf%81%cf%81%cf%85%ce%b8%ce%bc%ce%b9%ce%b5%cf%83/",
+          "label": "Υπερκοιλιακές Αρρυθμίες"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%b9%ce%b1%ce%b3%ce%bd%cf%89%cf%83%cf%84%ce%b9%ce%ba%ce%b5%cf%83-%ce%b5%ce%be%ce%b5%cf%84%ce%b1%cf%83%ce%b5%ce%b9%cf%83/",
+          "label": "Διαγνωστικές Εξετάσεις"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%cf%80%ce%b5%ce%bc%ce%b2%ce%b1%cf%84%ce%b9%ce%ba%ce%b5%cf%83/",
+          "label": "Επεμβατικές"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b7%ce%bb%ce%b5%ce%ba%cf%84%cf%81%ce%bf%cf%86%cf%85%cf%83%ce%b9%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%ba%ce%b7-%ce%bc%ce%b5%ce%bb%ce%b5%cf%84%ce%b7/",
+          "label": "Ηλεκτροφυσιολογική Μελέτη"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%85%cf%83%ce%b7-%ce%bc%ce%b1%ce%ba%cf%81%ce%bf%cf%87%cf%81%ce%bf%ce%bd%ce%b9%cf%89%ce%bd-%ce%ba%ce%b1%cf%84%ce%b1%ce%b3%cf%81%ce%b1%cf%86%ce%b5%cf%89%ce%bd-loop/",
+          "label": "Εμφύτευση Μακροχρόνιων Καταγραφέων (Loop Recorders)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%bc%ce%b7-%ce%b5%cf%80%ce%b5%ce%bc%ce%b2%ce%b1%cf%84%ce%b9%ce%ba%ce%b5%cf%83/",
+          "label": "Μη Επεμβατικές"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%b9%ce%b1%ce%b8%cf%89%cf%81%ce%b1%ce%ba%ce%b9%ce%ba%ce%bf-%cf%85%cf%80%ce%b5%cf%81%ce%b7%cf%87%ce%bf%ce%ba%cf%81%ce%b1%ce%b4%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b7%ce%bc%ce%b1-triplex/",
+          "label": "Διαθωρακικό Υπερηχοκαρδιογράφημα (triplex καρδιάς)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%b9%ce%bf%ce%b9%cf%83%ce%bf%cf%86%ce%b1%ce%b3%ce%b5%ce%b9%ce%bf-%cf%85%cf%80%ce%b5%cf%81%ce%b7%cf%87%ce%bf%ce%ba%cf%81%ce%b1%ce%b4%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b7%ce%bc%ce%b1/",
+          "label": "Διοισοφάγειο Υπερηχοκαρδιογράφημα"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%cf%85%ce%bd%ce%b1%ce%bc%ce%b9%ce%ba%ce%b7-%cf%85%cf%80%ce%b5%cf%81%ce%b7%cf%87%ce%bf%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%b1-stress-echo/",
+          "label": "Δυναμική Υπερηχοκαρδιογραφία (Stress Echo)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%bf%ce%ba%ce%b9%ce%bc%ce%b1%cf%83%ce%b9%ce%b1-%ce%ba%ce%bf%cf%80%cf%89%cf%83%ce%b7%cf%83/",
+          "label": "Δοκιμασία Κόπωσης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/holter-%cf%80%ce%b9%ce%b5%cf%83%ce%b7%cf%83/",
+          "label": "Holter Πίεσης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/holter-%cf%81%cf%85%ce%b8%ce%bc%ce%bf%cf%85/",
+          "label": "Holter Ρυθμού"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%bf%ce%ba%ce%b9%ce%bc%ce%b1%cf%83%ce%b9%ce%b1-%ce%b1%ce%bd%ce%b1%ce%ba%ce%bb%ce%b9%cf%83%ce%b7%cf%83-tilt-test/",
+          "label": "Δοκιμασία Ανάκλισης (Tilt test)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bb%ce%b5%ce%b3%cf%87%ce%bf%cf%82_%ce%b2%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%ce%b4%cf%8c%cf%84%ce%b7/",
+          "label": "‘Ελεγχος Βηματοδοτών"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b2%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%ce%b4%ce%bf%cf%84%ce%b5%cf%83-%ce%b1%cf%80%ce%b9%ce%bd%ce%b9%ce%b4%cf%89%cf%84%ce%b5%cf%83/",
+          "label": "Βηματοδότες-Απινιδωτές"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%85%cf%83%ce%b7-%cf%83%cf%85%ce%bc%ce%b2%ce%b1%cf%84%ce%b9%ce%ba%ce%bf%cf%85-%ce%b2%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%ce%b4%ce%bf%cf%84%ce%b7/",
+          "label": "Εμφύτευση Συμβατικού Βηματοδότη"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%85%cf%83%ce%b7-%ce%b2%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%ce%b4%ce%bf%cf%84%ce%b7-%cf%87%cf%89%cf%81%ce%b9%cf%83-%ce%ba%ce%b1%ce%bb%cf%89%ce%b4%ce%b9%ce%b1/",
+          "label": "Εμφύτευση Βηματοδότη Χωρίς Καλώδια"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%80%ce%b9%ce%bd%ce%b9%ce%b4%cf%89%cf%84%ce%b7/",
+          "label": "Εμφύτευση Απινιδωτή"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%af%ce%b1-%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%b1%ce%ba%ce%bf%cf%8d-%ce%b5%cf%80%ce%b1%ce%bd%ce%b1%cf%83%cf%85%ce%b3%cf%87%cf%81%ce%bf%ce%bd%ce%b9%cf%83%ce%bc%ce%bf/",
+          "label": "Θεραπεία Καρδιακού Επανασυγχρονισμού (Εμφύτευση Αμφικοιλιακού Βηματοδότη)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%b1%ce%bb%cf%8d%cf%83%ce%b5%ce%b9%cf%82-ablation/",
+          "label": "Καταλύσεις – Ablation"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%b1%ce%bb%cf%85%cf%83%ce%b7-%ce%ba%ce%bf%ce%bb%cf%80%ce%b9%ce%ba%ce%b7%cf%83-%ce%bc%ce%b1%cf%81%ce%bc%ce%b1%cf%81%cf%85%ce%b3%ce%b7%cf%83/",
+          "label": "Κατάλυση Κολπικής Μαρμαρυγής"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%ac%ce%bb%cf%85%cf%83%ce%b7-%cf%85%cf%80%ce%b5%cf%81%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%cf%8e%ce%bd-%cf%84%ce%b1%cf%87%cf%85%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%cf%8e%ce%bd/",
+          "label": "Κατάλυση Υπερκοιλιακών Ταχυκαρδιών"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%ac%ce%bb%cf%85%cf%83%ce%b7-%ce%ba%ce%bf%ce%bb%cf%80%ce%b9%ce%ba%ce%bf%cf%8d-%cf%80%cf%84%ce%b5%cf%81%cf%85%ce%b3%ce%b9%cf%83%ce%bc%ce%bf%cf%8d/",
+          "label": "Κατάλυση Κολπικού Πτερυγισμού"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%ac%ce%bb%cf%85%cf%83%ce%b7-%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%cf%8e%ce%bd-%cf%84%ce%b1%cf%87%cf%85%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%cf%8e%ce%bd/",
+          "label": "Κατάλυση Κοιλιακών Ταχυκαρδιών"
+        },
+        {
+          "href": "https://www.tsiachris.gr/contact/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.tsiachris.gr/privacy-policy/",
+          "label": "Privacy Policy"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "2106926002",
+          "2022-2025 2021-2022",
+          "2013-2021",
+          "2018-2019",
+          "2011-2012",
+          "2022-2025 2023- 2024 2021",
+          "2017-2018",
+          "2004-2011",
+          "+210-6926002",
+          "31536000000"
+        ],
+        "emails": [
+          "dtsiachris@yahoo.com",
+          "dtsiachris@yahoo,com"
+        ],
+        "addresses": [
+          "Τοποθεσία ΙατρείουΕπικοινωνία No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα Τηλέφωνο : +210-6926002 Email : dtsiachris@yahoo.com Web : facebook.com Copyright © 2019 Soulmedic Theme All Rights Reserved | Design Themes",
+          "No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/athensheartcenter.gr/?ref=aymt_homepage_panel&eid=ARBGtY-9FOcjQS96XGR8M0V0bgTFoix_CdLuYiwSL0GLOrSYuJAkcUwNcHPeaxOpZ84rhCWcokcsVSTN"
+          },
+          {
+            "href": "https://gr.linkedin.com/in/dimitris-tsiachris-ba481738"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UCaP4Dl-76Mf5vdkQ9tovuPQ?fbclid=IwAR0uj12Iu4tpoPvI4jWHXl_IUWO19qvx_okj0Py6Dpi60h7kWx0kfO64IAg"
+          },
+          {
+            "href": "https://www.facebook.com/athensheartcenter.gr/?eid=ARBCJHfw0y6vE5nBjAwa9yPPlck8kzjw2WUFlEIEBGXV82oO-Uaur6jAljavuqQOh7oZIfrGfOU-wQNC",
+            "label": "facebook.com"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "Τοποθεσία ΙατρείουΕπικοινωνία No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα Τηλέφωνο : +210-6926002 Email : dtsiachris@yahoo.com Web : facebook.com Copyright © 2019 Soulmedic Theme All Rights Reserved | Design Themes",
+      "textContent": "Εργαστήριο Ηλεκτροφυσιολογίας & Βηματοδότησης 2106926002 dtsiachris@yahoo.com Ποιοι Είμαστε Δημήτρης Τσιαχρής Χρήστος Κωνσταντίνος Αντωνίου Δεληγιάννης Γεώργιος Κορδαλής Αθανάσιος Δουνδουλάκης Ιωάννης Λαζαρίδης Κυριάκος Σπανός Αναστάσιος Νίκος Αργυρίου Κωτούλας Σωτήρης Μπότης Μιχάλης Νοσήματα Κολπική Μαρμαρυγή Συγκοπή – Αιφνίδιος Καρδιακός Θάνατος Συγκοπή Αιφνίδιος καρδιακός θάνατος Κοιλιακές Αρρυθμίες Υπερκοιλιακές Αρρυθμίες Διαγνωστικές Εξετάσεις Επεμβατικές Ηλεκτροφυσιολογική Μελέτη Εμφύτευση Μακροχρόνιων Καταγραφέων (Loop Recorders) Μη Επεμβατικές Διαθωρακικό Υπερηχοκαρδιογράφημα (triplex καρδιάς) Διοισοφάγειο Υπερηχοκαρδιογράφημα Δυναμική Υπερηχοκαρδιογραφία (Stress Echo) Δοκιμασία Κόπωσης Holter Πίεσης Holter Ρυθμού Δοκιμασία Ανάκλισης (Tilt test) ‘Ελεγχος Βηματοδοτών Βηματοδότες-Απινιδωτές Εμφύτευση Συμβατικού Βηματοδότη Εμφύτευση Βηματοδότη Χωρίς Καλώδια Εμφύτευση Απινιδωτή Θεραπεία Καρδιακού Επανασυγχρονισμού (Εμφύτευση Αμφικοιλιακού Βηματοδότη) Καταλύσεις – Ablation Κατάλυση Κολπικής Μαρμαρυγής Κατάλυση Υπερκοιλιακών Ταχυκαρδιών Κατάλυση Κολπικού Πτερυγισμού Κατάλυση Κοιλιακών Ταχυκαρδιών Επικοινωνία Menu ΔΕΛΗΓΙΑΝΝΗΣ ΓΕΩΡΓΙΟΣ ΚΑΡΔΙΟΛΟΓΟΣ ΣΥΝΤΟΜΟ ΒΙΟΓΡΑΦΙΚΟ ΚΛΙΝΙΚΗ/ΤΜΗΜΑ ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΜΠΕΙΡΙΑ ΕΚΠΑΙΔΕΥΣΗ ΣΥΜΜΕΤΟΧΕΣ ΣΕ ΣΥΝΕΔΡΙΑ ΚΛΙΝΙΚΟ & ΕΡΕΥΝΗΤΙΚΟΕΝΔΙΑΦΕΡΟΝ ΔΙΑΚΡΙΣΕΙΣ-ΒΡΑΒΕΙΑ ΔΗΜΟΣΙΕΥΣΕΙΣ-ΑΝΑΚΟΙΝΩΣΕΙΣ ΕΠΙΚΟΙΝΩΝΙΑ ΤΗΛΕΦΩΝΟ Κλινική: ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ Τμήμα: Athens Heart Center Καρδιολογικό 2022-2025 2021-2022 Έμμισθη θέση Καρδιολόγου – Α’ Καρδιολογική Κλινική Ιατρικό Κέντρο Αθηνών Παράταση χρόνου παραμονής για ένα (1) έτος στην Α’ Πανεπιστημιακή Καρδιολογική Κλινική του Νοσοκομείου ΑΧΕΠΑ 2013-2021 Άσκηση ειδικότητας Καρδιολογίας Α’ Πανεπιστημιακή Καρδιολογική Κλινική του Νοσοκομείου ΑΧΕΠΑ 2018-2019 Εκπλήρωση της Υπηρεσίας Υπαίθρου Π.Ι. Καρίτσας-Δολόπων του ΠΕΔΥ-Κ.Υ. Μουζακίου 2011-2012 Εκπλήρωση στρατιωτικής θητείας ΣΜΤΗΣ Υγειονομικός Ιατρός στην 110 Πτέρυγα Μάχης (110 ΠΜ) 2011 Απόκτηση άδειας ασκήσεως Ιατρικού Επαγγέλματος 2022-2025 2023- 2024 2021 Εκπαίδευση στην Ηλεκτροφυσιολογία/Βηματοδότηση Α’ Καρδιολογική Κλινική – Τμήμα Καρδιάς και Αγγείων Ιατρικό Κέντρο Αθηνών Εκπαίδευση στις νεώτερες/εξειδικευμένες τεχνικές υπερήχων καρδιάς TOE, Stress echo, 3D, Contrast echo, TDI/Speckle Tracking Ηχωκαρδιογραφικό εργαστήριο Κοργιαλένειο-Μπενάκειο Ε.Ε.Σ Απόκτηση Τίτλου Ειδικότητας Καρδιολογίας 2017-2018 Μεταπτυχιακό Δίπλωμα Ειδίκευσης ΔΠΜΣ: «Υπερηχογραφική λειτουργική απεικόνιση για την πρόληψη και την διάγνωση των αγγειακών παθήσεων» Πανεπιστήμιο Θεσσαλίας – Τμήμα Ιατρικής 2004-2011 Πτυχίο Ιατρικής Σχολής Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης 2022 Ιατρικός Σύλλογος Αθηνών Ελληνική Καρδιολογική Εταιρία (12/05/22) Ομάδες Εργασίας Νέων Καρδιολόγων Βαλβιδοπαθειών Μυοκαρδιοπαθειών, Βασικής έρευνας και Κληρονομικών παθήσεων 2022 3rd Stress Echo course ΕΛΕΜΕΚΑΝ 1-4/12/22 Αθήνα Certificate of attendance of ATHENSCMR LEVEL 1-2 Certification of Attendance of the Seminar ‘’Hands on TEE Simulation Training. Center Echocardiography Simulation Training’’. Asclepeion Hospital Athens Certificate of Attendance EACVI TOE SIMULATOR 2021 Κάτοχος Ευρωπαϊκού Διπλώματος Καρδιολογίας European Examination in Core Cardiology (EECC 15 JUNE 2021) Εκπαίδευση στο Παιδοκαρδιολογικό Τμήμα της Β Πανεπιστημιακής Παιδιατρικής Κλινικής του Π.Γ.Ν.Θ. ΑΧΕΠΑ ΣΥΝΤΟΜΟ ΒΙΟΓΡΑΦΙΚΟ ΚΛΙΝΙΚΗ/ΤΜΗΜΑ Κλινική: ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ Τμήμα: Athens Heart Center Καρδιολογικό ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΜΠΕΙΡΙΑ 2022-2025 2021-2022 Έμμισθη θέση Καρδιολόγου – Α’ Καρδιολογική Κλινική Ιατρικό Κέντρο Αθηνών Παράταση χρόνου παραμονής για ένα (1) έτος στην Α’ Πανεπιστημιακή Καρδιολογική Κλινική του Νοσοκομείου ΑΧΕΠΑ 2013-2021 Άσκηση ειδικότητας Καρδιολογίας Α’ Πανεπιστημιακή Καρδιολογική Κλινική του Νοσοκομείου ΑΧΕΠΑ 2018-2019 Εκπλήρωση της Υπηρεσίας Υπαίθρου Π.Ι. Καρίτσας-Δολόπων του ΠΕΔΥ-Κ.Υ. Μουζακίου 2011-2012 Εκπλήρωση στρατιωτικής θητείας ΣΜΤΗΣ Υγειονομικός Ιατρός στην 110 Πτέρυγα Μάχης (110 ΠΜ) 2011 Απόκτηση άδειας ασκήσεως Ιατρικού Επαγγέλματος ΕΚΠΑΙΔΕΥΣΗ 2022-2025 2023- 2024 2021 Εκπαίδευση στην Ηλεκτροφυσιολογία/Βηματοδότηση Α’ Καρδιολογική Κλινική – Τμήμα Καρδιάς και Αγγείων Ιατρικό Κέντρο Αθηνών Εκπαίδευση στις νεώτερες/εξειδικευμένες τεχνικές υπερήχων καρδιάς TOE, Stress echo, 3D, Contrast echo, TDI/Speckle Tracking Ηχωκαρδιογραφικό εργαστήριο Κοργιαλένειο-Μπενάκειο Ε.Ε.Σ Απόκτηση Τίτλου Ειδικότητας Καρδιολογίας 2017-2018 Μεταπτυχιακό Δίπλωμα Ειδίκευσης ΔΠΜΣ: «Υπερηχογραφική λειτουργική απεικόνιση για την πρόληψη και την διάγνωση των αγγειακών παθήσεων» Πανεπιστήμιο Θεσσαλίας – Τμήμα Ιατρικής 2004-2011 Πτυχίο Ιατρικής Σχολής Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης ΣΥΜΜΕΤΟΧΕΣ ΣΕ ΣΥΝΕΔΡΙΑ 2022 Ιατρικός Σύλλογος Αθηνών Ελληνική Καρδιολογική Εταιρία (12/05/22) Ομάδες Εργασίας Νέων Καρδιολόγων Βαλβιδοπαθειών Μυοκαρδιοπαθειών, Βασικής έρευνας και Κληρονομικών παθήσεων ΚΛΙΝΙΚΟ & ΕΡΕΥΝΗΤΙΚΟΕΝΔΙΑΦΕΡΟΝ ΔΙΑΚΡΙΣΕΙΣ-ΒΡΑΒΕΙΑ 2022 3rd Stress Echo course ΕΛΕΜΕΚΑΝ 1-4/12/22 Αθήνα Certificate of attendance of ATHENSCMR LEVEL 1-2 Certification of Attendance of the Seminar ‘’Hands on TEE Simulation Training. Center Echocardiography Simulation Training’’. Asclepeion Hospital Athens Certificate of Attendance EACVI TOE SIMULATOR 2021 Κάτοχος Ευρωπαϊκού Διπλώματος Καρδιολογίας European Examination in Core Cardiology (EECC 15 JUNE 2021) Εκπαίδευση στο Παιδοκαρδιολογικό Τμήμα της Β Πανεπιστημιακής Παιδιατρικής Κλινικής του Π.Γ.Ν.Θ. ΑΧΕΠΑ ΔΗΜΟΣΙΕΥΣΕΙΣ-ΑΝΑΚΟΙΝΩΣΕΙΣ ΕΠΙΚΟΙΝΩΝΙΑ ΤΗΛΕΦΩΝΟ Τοποθεσία ΙατρείουΕπικοινωνία No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα Τηλέφωνο : +210-6926002 Email : dtsiachris@yahoo.com Web : facebook.com Copyright © 2019 Soulmedic Theme All Rights Reserved | Design Themes This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.CloseModalPrivacy Cookie and Privacy Settings How we use cookiesEssential Website CookiesOther external servicesPrivacy Policy We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.These cookies are strictly necessary to provide you with services available through our website and to use some of its features. Because these cookies are strictly necessary to deliver the website, you cannot refuse them without impacting how our site functions. You can block or delete them by changing your browser settings and force blocking all cookies on this website.We also use different external services like Google Webfonts, Google Maps and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page. Google Webfont Settings: Click to enable/disable google webfonts. Google Map Settings: Click to enable/disable google maps. Vimeo and Youtube video embeds: Click to enable/disable video embeds.You can read about our cookies and privacy settings in detail on our Privacy Policy Page. Privacy Policy {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"\\/*\"},{\"not\":{\"href_matches\":[\"\\/wp-*.php\",\"\\/wp-admin\\/*\",\"\\/wp-content\\/uploads\\/*\",\"\\/wp-content\\/*\",\"\\/wp-content\\/plugins\\/*\",\"\\/wp-content\\/themes\\/bbpress\\/..\\/*\",\"\\/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} /* <![CDATA[ */ var dttheme_urls = {\"theme_base_url\":\"https:\\/\\/www.tsiachris.gr\\/wp-content\\/themes\\/bbpress\\/..\",\"framework_base_url\":\"https:\\/\\/www.tsiachris.gr\\/wp-content\\/themes\\/bbpress\\/..\\/framework\\/\",\"ajaxurl\":\"https:\\/\\/www.tsiachris.gr\\/wp-admin\\/admin-ajax.php\",\"url\":\"https:\\/\\/www.tsiachris.gr\",\"isRTL\":\"\",\"loadingbar\":\"disable\",\"advOptions\":\"Show Advanced Options\",\"wpnonce\":\"d8ea7c3e2e\",\"enable_ajax_addtocart\":\"\",\"enable_totop\":\"1\",\"nice_scroll\":\"disable\"}; /* ]]> */ /* <![CDATA[ */ function dt_privacy_cookie_setter( cookie_name ) { var toggle = jQuery('.' + cookie_name); toggle.each(function() { if(document.cookie.match(cookie_name)) this.checked = false; }); jQuery('.' + 'dt-switch-' + cookie_name).each(function() { this.className += ' active '; }); toggle.on('click', function() { if(this.checked) { document.cookie = cookie_name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;'; } else { var theDate = new Date(); var oneYearLater = new Date( theDate.getTime() + 31536000000 ); document.cookie = cookie_name + '=true; Path=/; Expires='+oneYearLater.toGMTString()+';'; } }); }; dt_privacy_cookie_setter('dtPrivacyGoogleTrackingDisabled'); dt_privacy_cookie_setter('dtPrivacyGoogleWebfontsDisabled'); dt_privacy_cookie_setter('dtPrivacyGoogleMapsDisabled'); dt_privacy_cookie_setter('dtPrivacyVideoEmbedsDisabled'); /* ]]> */ /* <![CDATA[ */ var dtportfoliofrontendobject = {\"ajaxurl\":\"https:\\/\\/www.tsiachris.gr\\/wp-admin\\/admin-ajax.php\",\"page_builder\":\"visual-composer\",\"elementor_preview_mode\":\"\"}; /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/tsiachris.gr-home-629dad1c/about-2742-2-56020e09.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/tsiachris.gr-home-629dad1c/about-2742-2-56020e09.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.tsiachris.gr/wp-content/uploads/2020/04/Athens-Heart-Center.jpeg",
+          "sourcePageUrl": "https://www.tsiachris.gr/2742-2",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.tsiachris.gr/2742-2",
+              "retrievedAt": "2026-03-31T13:08:34.356Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.tsiachris.gr/wp-content/plugins/js_composer/assets/vc/no_image.png",
+          "sourcePageUrl": "https://www.tsiachris.gr/2742-2",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.tsiachris.gr/2742-2",
+              "retrievedAt": "2026-03-31T13:08:34.356Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.55,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page fetch",
+          "uri": "https://www.tsiachris.gr/2742-2",
+          "retrievedAt": "2026-03-31T13:08:34.359Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "https://www.tsiachris.gr/athensheartcenter-2",
+      "finalUrl": "https://www.tsiachris.gr/athensheartcenter-2",
+      "fetchedAt": "2026-03-31T13:08:29.897Z",
+      "metadata": {
+        "title": "Ποιοι Είμαστε - Tsiachris",
+        "canonicalUrl": "https://www.tsiachris.gr/athensheartcenter-2/",
+        "language": "en",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Ποιοι Είμαστε - Tsiachris",
+        "openGraphDescription": "r"
+      },
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Τοποθεσία Ιατρείου"
+        },
+        {
+          "level": "h3",
+          "text": "Επικοινωνία"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.tsiachris.gr/"
+        },
+        {
+          "href": "https://www.tsiachris.gr/athensheartcenter-2/",
+          "label": "Ποιοι Είμαστε"
+        },
+        {
+          "href": "https://www.tsiachris.gr/pages/typography/",
+          "label": "Δημήτρης Τσιαχρής"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b1%ce%bd%cf%84%cf%89%ce%bd%ce%b9%ce%bf%cf%85-%cf%87%cf%81%ce%b7%cf%83%cf%84%ce%bf%cf%82/",
+          "label": "Χρήστος Κωνσταντίνος Αντωνίου"
+        },
+        {
+          "href": "https://www.tsiachris.gr/2742-2/",
+          "label": "Δεληγιάννης Γεώργιος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%bf%cf%81%ce%b4%ce%b1%ce%bb%ce%b7%cf%83-%ce%b1%ce%b8%ce%b1%ce%bd%ce%b1%cf%83%ce%b9%ce%bf%cf%83/",
+          "label": "Κορδαλής Αθανάσιος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%bf%cf%85%ce%bd%ce%b4%ce%bf%cf%85%ce%bb%ce%b1%ce%ba%ce%b7%cf%83-%ce%b9%cf%89%ce%b1%ce%bd%ce%bd%ce%b7%cf%83/",
+          "label": "Δουνδουλάκης Ιωάννης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf%cf%82-%ce%bb%ce%b1%ce%b6%ce%b1%cf%81%ce%b9%ce%b4%ce%b7%cf%82/",
+          "label": "Λαζαρίδης Κυριάκος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%83%cf%80%ce%b1%ce%bd%cf%8c%cf%82-%ce%b1%ce%bd%ce%b1%cf%83%cf%84%ce%ac%cf%83%ce%b9%ce%bf%cf%82/",
+          "label": "Σπανός Αναστάσιος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%bd%ce%af%ce%ba%ce%bf%cf%82-%ce%b1%cf%81%ce%b3%cf%85%cf%81%ce%af%ce%bf%cf%85/",
+          "label": "Νίκος Αργυρίου"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%cf%89%cf%84%ce%bf%cf%8d%ce%bb%ce%b1%cf%82-%cf%83%cf%89%cf%84%ce%ae%cf%81%ce%b7%cf%83/",
+          "label": "Κωτούλας Σωτήρης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%bc%cf%80%cf%8c%cf%84%ce%b7%cf%82-%ce%bc%ce%b9%cf%87%ce%ac%ce%bb%ce%b7%cf%82/",
+          "label": "Μπότης Μιχάλης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%bd%ce%bf%cf%83%ce%b7%ce%bc%ce%b1%cf%84%ce%b1-2/",
+          "label": "Νοσήματα"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%bf%ce%bb%cf%80%ce%b9%ce%ba%ce%b7-%ce%bc%ce%b1%cf%81%ce%bc%ce%b1%cf%81%cf%85%ce%b3%ce%b7/",
+          "label": "Κολπική Μαρμαρυγή"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%83%cf%85%ce%b3%ce%ba%ce%bf%cf%80%ce%b7-%ce%b1%ce%b9%cf%86%ce%bd%ce%b9%ce%b4%ce%b9%ce%bf%cf%83-%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%b1%ce%ba%ce%bf%cf%83-%ce%b8%ce%b1%ce%bd%ce%b1%cf%84%ce%bf%cf%83/",
+          "label": "Συγκοπή – Αιφνίδιος Καρδιακός Θάνατος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%83%cf%8d%ce%bd%ce%b4%cf%81%ce%bf%ce%bc%ce%bf-brugada/",
+          "label": "Συγκοπή"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b1%ce%b9%cf%86%ce%bd%ce%b9%ce%b4%ce%b9%ce%bf%cf%82_%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%b1%ce%ba%cf%8c%cf%82_%ce%b8%ce%ac%ce%bd%ce%b1%cf%84%ce%bf%cf%82/",
+          "label": "Αιφνίδιος καρδιακός θάνατος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%85%cf%80%ce%b5%cf%81%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%ce%b5%cf%83-%ce%b1%cf%81%cf%81%cf%85%ce%b8%ce%bc%ce%b9%ce%b5%cf%83/%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%ce%b5%cf%83-%ce%b1%cf%81%cf%81%cf%85%ce%b8%ce%bc%ce%b9%ce%b5%cf%83/",
+          "label": "Κοιλιακές Αρρυθμίες"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%85%cf%80%ce%b5%cf%81%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%ce%b5%cf%83-%ce%b1%cf%81%cf%81%cf%85%ce%b8%ce%bc%ce%b9%ce%b5%cf%83/",
+          "label": "Υπερκοιλιακές Αρρυθμίες"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%b9%ce%b1%ce%b3%ce%bd%cf%89%cf%83%cf%84%ce%b9%ce%ba%ce%b5%cf%83-%ce%b5%ce%be%ce%b5%cf%84%ce%b1%cf%83%ce%b5%ce%b9%cf%83/",
+          "label": "Διαγνωστικές Εξετάσεις"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%cf%80%ce%b5%ce%bc%ce%b2%ce%b1%cf%84%ce%b9%ce%ba%ce%b5%cf%83/",
+          "label": "Επεμβατικές"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b7%ce%bb%ce%b5%ce%ba%cf%84%cf%81%ce%bf%cf%86%cf%85%cf%83%ce%b9%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%ba%ce%b7-%ce%bc%ce%b5%ce%bb%ce%b5%cf%84%ce%b7/",
+          "label": "Ηλεκτροφυσιολογική Μελέτη"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%85%cf%83%ce%b7-%ce%bc%ce%b1%ce%ba%cf%81%ce%bf%cf%87%cf%81%ce%bf%ce%bd%ce%b9%cf%89%ce%bd-%ce%ba%ce%b1%cf%84%ce%b1%ce%b3%cf%81%ce%b1%cf%86%ce%b5%cf%89%ce%bd-loop/",
+          "label": "Εμφύτευση Μακροχρόνιων Καταγραφέων (Loop Recorders)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%bc%ce%b7-%ce%b5%cf%80%ce%b5%ce%bc%ce%b2%ce%b1%cf%84%ce%b9%ce%ba%ce%b5%cf%83/",
+          "label": "Μη Επεμβατικές"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%b9%ce%b1%ce%b8%cf%89%cf%81%ce%b1%ce%ba%ce%b9%ce%ba%ce%bf-%cf%85%cf%80%ce%b5%cf%81%ce%b7%cf%87%ce%bf%ce%ba%cf%81%ce%b1%ce%b4%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b7%ce%bc%ce%b1-triplex/",
+          "label": "Διαθωρακικό Υπερηχοκαρδιογράφημα (triplex καρδιάς)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%b9%ce%bf%ce%b9%cf%83%ce%bf%cf%86%ce%b1%ce%b3%ce%b5%ce%b9%ce%bf-%cf%85%cf%80%ce%b5%cf%81%ce%b7%cf%87%ce%bf%ce%ba%cf%81%ce%b1%ce%b4%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b7%ce%bc%ce%b1/",
+          "label": "Διοισοφάγειο Υπερηχοκαρδιογράφημα"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%cf%85%ce%bd%ce%b1%ce%bc%ce%b9%ce%ba%ce%b7-%cf%85%cf%80%ce%b5%cf%81%ce%b7%cf%87%ce%bf%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%b1-stress-echo/",
+          "label": "Δυναμική Υπερηχοκαρδιογραφία (Stress Echo)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%bf%ce%ba%ce%b9%ce%bc%ce%b1%cf%83%ce%b9%ce%b1-%ce%ba%ce%bf%cf%80%cf%89%cf%83%ce%b7%cf%83/",
+          "label": "Δοκιμασία Κόπωσης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/holter-%cf%80%ce%b9%ce%b5%cf%83%ce%b7%cf%83/",
+          "label": "Holter Πίεσης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/holter-%cf%81%cf%85%ce%b8%ce%bc%ce%bf%cf%85/",
+          "label": "Holter Ρυθμού"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%bf%ce%ba%ce%b9%ce%bc%ce%b1%cf%83%ce%b9%ce%b1-%ce%b1%ce%bd%ce%b1%ce%ba%ce%bb%ce%b9%cf%83%ce%b7%cf%83-tilt-test/",
+          "label": "Δοκιμασία Ανάκλισης (Tilt test)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bb%ce%b5%ce%b3%cf%87%ce%bf%cf%82_%ce%b2%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%ce%b4%cf%8c%cf%84%ce%b7/",
+          "label": "‘Ελεγχος Βηματοδοτών"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b2%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%ce%b4%ce%bf%cf%84%ce%b5%cf%83-%ce%b1%cf%80%ce%b9%ce%bd%ce%b9%ce%b4%cf%89%cf%84%ce%b5%cf%83/",
+          "label": "Βηματοδότες-Απινιδωτές"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%85%cf%83%ce%b7-%cf%83%cf%85%ce%bc%ce%b2%ce%b1%cf%84%ce%b9%ce%ba%ce%bf%cf%85-%ce%b2%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%ce%b4%ce%bf%cf%84%ce%b7/",
+          "label": "Εμφύτευση Συμβατικού Βηματοδότη"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%85%cf%83%ce%b7-%ce%b2%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%ce%b4%ce%bf%cf%84%ce%b7-%cf%87%cf%89%cf%81%ce%b9%cf%83-%ce%ba%ce%b1%ce%bb%cf%89%ce%b4%ce%b9%ce%b1/",
+          "label": "Εμφύτευση Βηματοδότη Χωρίς Καλώδια"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%80%ce%b9%ce%bd%ce%b9%ce%b4%cf%89%cf%84%ce%b7/",
+          "label": "Εμφύτευση Απινιδωτή"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%af%ce%b1-%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%b1%ce%ba%ce%bf%cf%8d-%ce%b5%cf%80%ce%b1%ce%bd%ce%b1%cf%83%cf%85%ce%b3%cf%87%cf%81%ce%bf%ce%bd%ce%b9%cf%83%ce%bc%ce%bf/",
+          "label": "Θεραπεία Καρδιακού Επανασυγχρονισμού (Εμφύτευση Αμφικοιλιακού Βηματοδότη)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%b1%ce%bb%cf%8d%cf%83%ce%b5%ce%b9%cf%82-ablation/",
+          "label": "Καταλύσεις – Ablation"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%b1%ce%bb%cf%85%cf%83%ce%b7-%ce%ba%ce%bf%ce%bb%cf%80%ce%b9%ce%ba%ce%b7%cf%83-%ce%bc%ce%b1%cf%81%ce%bc%ce%b1%cf%81%cf%85%ce%b3%ce%b7%cf%83/",
+          "label": "Κατάλυση Κολπικής Μαρμαρυγής"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%ac%ce%bb%cf%85%cf%83%ce%b7-%cf%85%cf%80%ce%b5%cf%81%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%cf%8e%ce%bd-%cf%84%ce%b1%cf%87%cf%85%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%cf%8e%ce%bd/",
+          "label": "Κατάλυση Υπερκοιλιακών Ταχυκαρδιών"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%ac%ce%bb%cf%85%cf%83%ce%b7-%ce%ba%ce%bf%ce%bb%cf%80%ce%b9%ce%ba%ce%bf%cf%8d-%cf%80%cf%84%ce%b5%cf%81%cf%85%ce%b3%ce%b9%cf%83%ce%bc%ce%bf%cf%8d/",
+          "label": "Κατάλυση Κολπικού Πτερυγισμού"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%ac%ce%bb%cf%85%cf%83%ce%b7-%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%cf%8e%ce%bd-%cf%84%ce%b1%cf%87%cf%85%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%cf%8e%ce%bd/",
+          "label": "Κατάλυση Κοιλιακών Ταχυκαρδιών"
+        },
+        {
+          "href": "https://www.tsiachris.gr/contact/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.tsiachris.gr/privacy-policy/",
+          "label": "Privacy Policy"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "2106926002",
+          "140 90 24",
+          "125-130 80",
+          "130-135 85",
+          "+210-6926002",
+          "31536000000"
+        ],
+        "emails": [
+          "dtsiachris@yahoo.com",
+          "dtsiachris@yahoo,com"
+        ],
+        "addresses": [
+          "Τοποθεσία ΙατρείουΕπικοινωνία No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα Τηλέφωνο : +210-6926002 Email : dtsiachris@yahoo.com Web : facebook.com Copyright © 2019 Soulmedic Theme All Rights Reserved | Design Themes",
+          "No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/athensheartcenter.gr/?ref=aymt_homepage_panel&eid=ARBGtY-9FOcjQS96XGR8M0V0bgTFoix_CdLuYiwSL0GLOrSYuJAkcUwNcHPeaxOpZ84rhCWcokcsVSTN"
+          },
+          {
+            "href": "https://gr.linkedin.com/in/dimitris-tsiachris-ba481738"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UCaP4Dl-76Mf5vdkQ9tovuPQ?fbclid=IwAR0uj12Iu4tpoPvI4jWHXl_IUWO19qvx_okj0Py6Dpi60h7kWx0kfO64IAg"
+          },
+          {
+            "href": "https://www.facebook.com/athensheartcenter.gr/?eid=ARBCJHfw0y6vE5nBjAwa9yPPlck8kzjw2WUFlEIEBGXV82oO-Uaur6jAljavuqQOh7oZIfrGfOU-wQNC",
+            "label": "facebook.com"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "Τοποθεσία ΙατρείουΕπικοινωνία No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα Τηλέφωνο : +210-6926002 Email : dtsiachris@yahoo.com Web : facebook.com Copyright © 2019 Soulmedic Theme All Rights Reserved | Design Themes",
+      "textContent": "Εργαστήριο Ηλεκτροφυσιολογίας & Βηματοδότησης 2106926002 dtsiachris@yahoo.com Ποιοι Είμαστε Δημήτρης Τσιαχρής Χρήστος Κωνσταντίνος Αντωνίου Δεληγιάννης Γεώργιος Κορδαλής Αθανάσιος Δουνδουλάκης Ιωάννης Λαζαρίδης Κυριάκος Σπανός Αναστάσιος Νίκος Αργυρίου Κωτούλας Σωτήρης Μπότης Μιχάλης Νοσήματα Κολπική Μαρμαρυγή Συγκοπή – Αιφνίδιος Καρδιακός Θάνατος Συγκοπή Αιφνίδιος καρδιακός θάνατος Κοιλιακές Αρρυθμίες Υπερκοιλιακές Αρρυθμίες Διαγνωστικές Εξετάσεις Επεμβατικές Ηλεκτροφυσιολογική Μελέτη Εμφύτευση Μακροχρόνιων Καταγραφέων (Loop Recorders) Μη Επεμβατικές Διαθωρακικό Υπερηχοκαρδιογράφημα (triplex καρδιάς) Διοισοφάγειο Υπερηχοκαρδιογράφημα Δυναμική Υπερηχοκαρδιογραφία (Stress Echo) Δοκιμασία Κόπωσης Holter Πίεσης Holter Ρυθμού Δοκιμασία Ανάκλισης (Tilt test) ‘Ελεγχος Βηματοδοτών Βηματοδότες-Απινιδωτές Εμφύτευση Συμβατικού Βηματοδότη Εμφύτευση Βηματοδότη Χωρίς Καλώδια Εμφύτευση Απινιδωτή Θεραπεία Καρδιακού Επανασυγχρονισμού (Εμφύτευση Αμφικοιλιακού Βηματοδότη) Καταλύσεις – Ablation Κατάλυση Κολπικής Μαρμαρυγής Κατάλυση Υπερκοιλιακών Ταχυκαρδιών Κατάλυση Κολπικού Πτερυγισμού Κατάλυση Κοιλιακών Ταχυκαρδιών Επικοινωνία Menu r Athens Heart CenterΕργαστήριο Επεμβατικής Ηλεκτροφυσιολογίας και Βηματοδότησης ΕΙΣΑΓΩΓΗΙΑΤΡΙΚΕΣ ΥΠΗΡΕΣΙΕΣΠΑΘΗΣΕΙΣΓΙΑΤΙ ΕΜΑΣΕΙΣΑΓΩΓΗ ΕΙΣΑΓΩΓΗ Το Ιατρικό Κέντρο Αθηνών διαθέτει μία πλήρως εξοπλισμένη και οργανωμένη καρδιολογική κλινική με άριστο επιστημονικό και νοσηλευτικό προσωπικό και προηγμένης τεχνολογίας εξοπλισμό που είναι ανά πάσα στιγμή στη διάθεση των αρρώστων, έτοιμο να αντιμετωπίσει, με υποδειγματική πληρότητα, κάθε οξύ ή χρόνιο καρδιολογικό περιστατικό όλο το 24ώρο. Διευθυντής του πρότυπου καρδιολογικού Κέντρου Καρδιάς και Αγγείων, «Athens Heart Center», είναι ο Καθηγητής Καρδιολογίας, κ. Χριστόδουλος Στεφανάδης, πρωτοπόρος παγκοσμίως στην επεμβατική καρδιολογία και από τους πιο διακεκριμένους καρδιολόγους επιστήμονες στον κόσμο. ΙΑΤΡΙΚΕΣ ΥΠΗΡΕΣΙΕΣ Βασικοί άξονες του «Athens Heart Center» είναι: η Καρδιολογική Κλινική. το Αιμοδυναμικό Εργαστήριο, το Εργαστήριο Ηλεκτροφυσιολογίας – Βηματοδότησης και τα αναβαθμισμένα, καινοτόμα Διαγνωστικά Εργαστήρια και Μονάδες, τα οποία καλύπτουν όλο το φάσμα της καρδιολογίας με την πλέον σύγχρονη προσέγγιση. Καρδιολογική Κλινική Η Καρδιολογική Κλινική του Athens Heart Center πλαισιώνεται από διακεκριμένους καρδιολόγους διευθυντές με πλούσια κλινική εμπειρία και επιστημονικό κύρος, ενώ οι καρδιολογικοί ασθενείς τυγχάνουν τη ς αρτιότερης παρακολούθησης μέσω των συστημάτων τηλεμετρίας. Αιμοδυναμικό Εργαστήριο Το Εργαστήριο Επεμβατικής Καρδιολογίας του Athens Heart Center διαθέτει δύο σύγχρονες αίθουσες αιμοδυναμικού εργαστηρίου, όπου αντιμετωπίζεται σε καθημερινή βάση και σε όλη τη διάρκεια του 24/ώρου όλο το φάσμα της στεφανιαίας νόσου, της περιφερικής αγγειακής νόσου αλλά και των δομικών – συγγενών καρδιοπαθειών τόσο διαγνωστικά όσο και θεραπευτικά. Διαβάστε περισσότερα. Εργαστήριο Ηλεκτροφυσιολογίας και Βηματοδότησης Το Εργαστήριο Ηλεκτροφυσιολογίας και Βηματοδότησης του Athens Heart Center είναι από τα ελάχιστα στην Ελλάδα όπου πραγματοποιείται όλο το φάσμα των επεμβάσεων ηλεκτροφυσιολογίας και βηματοδότησης, όπως: επεμβάσεις κατάλυσης κολπικής μαρμαρυγής και με την σύγχρονη μέθοδο της κρυοπηξίας και με την βοήθεια των πιο σύγχρονων συστημάτων ηλεκτροανατομικής χαρτογράφησης, καταλύσεις ενδοκαρδιακές και επικαρδιακές κοιλιακών ταχυκαρδιών με την βοήθεια των πιο σύγχρονων συστημάτων ηλεκτροανατομικής χαρτογράφησης, καταλύσεις κολπικού πτερυγισμού με την βοήθεια των πιο σύγχρονων συστημάτων ηλεκτροανατομικής χαρτογράφησης, καταλύσεις υπερκοιλιακών αρρυθμιών, εμφυτεύσεις των νέων μικροσκοπικών βηματοδοτών χωρίς καλώδια, διαδερμικές συγκλείσεις ωτίου αριστερού κόλπου σε ασθενείς με κολπική μαρμαρυγή και υψηλό θρομβοεμβολικό και αιμορραγικό κίνδυνο. Παράλληλα, και στις δύο αίθουσες του Αιμοδυναμικού Εργαστηρίου διενεργούνται πλήρεις ηλεκτροφυσιολογικοί έλεγχοι και πραγματοποιούνται εμφυτεύσεις αμφικοιλιακών βηματοδοτικών και απινιδωτικών συστημάτων (συμβατά με μαγνητική τομογραφία όταν υπάρχει η ιατρική ένδειξη), όπως και εμφυτεύσεις και αντικαταστάσεις τυπικών βηματοδοτικών συστημάτων με περιορισμένο χρόνο νοσηλείας.Διαγνωστικά ΕργαστήριαΣτο Εργαστήριο Ηχοκαρδιολογίας του Athens Heart Center διενεργούνται οι καρδιολογικές εξετάσεις με τη βοήθεια υψηλής τεχνολογίας διαγνωστικών μέσων, όπως: Διαθωρακικό υπερηχογράφημα – triplex καρδιάς: Απεικόνιση των δομών και της λειτουργίας της καρδιάς και καταγραφή των ροών με τη μέθοδο Doppler. Επιπλέον μελετάται η τμηματική και συνολική παραμόρφωση (strain) του μυοκαρδίου, που αποτελεί πρώιμο και πολύ ευαίσθητο δείκτη, με εφαρμογή σε πληθώρα καρδιοπαθειών. Η ανιούσα αορτή και το αορτικό τόξο απεικονίζονται και ελέγχονται ως προς τη μορφολογία τους και τη λειτουργικότητά τους. Διοισοφάγειο ηχοκαρδιογράφημα: Εξέταση που συμβάλλει στη διερεύνηση καρδιολογικών αιτιών εγκεφαλικών επεισοδίων, απεικόνιση θρόμβων, όγκων, επικοινωνιών, βαλβιδοπαθειών. Stress echo με δοβουταμίνη (Δυναμική Υπερηχοκαρδιογραφική Μελέτη): Εξέταση γρήγορη και αποτελεσματική, η οποία αξιοποιεί τους υπερήχους για τον έλεγχο της καρδιακής λειτουργίας σε συνθήκες φόρτισης-κόπωσης. Μας δίνει σημαντικές πληροφορίες τόσο για τη συνολική όσο και για την τμηματική λειτουργία του μυοκαρδίου, ελέγχοντας τόσο την κίνηση όσο και την πάχυνση αυτού. Stress echo με εργομετρικό ποδήλατο: Εξέταση που γίνεται για διαγνωστικούς σκοπούς για διερεύνηση Βαλβιδοπαθειών και Υπερτροφικής Μυοκαρδιοπάθειας, για έλεγχο Βιωσιμότητας του μυοκαρδίου, αλλά και για την πρόγνωση των ασθενών με καρδιακές παθήσεις. Τρισδιάστατο Ηχοκαρδιογράφημα: Εξέταση που προσφέρει σε συγκεκριμένες περιπτώσεις τη δυνατότητα ευκρινέστερης ανατομικής διερεύνησης, αλλά και συνολική εκτίμηση της λειτουργικότητας της αριστερής καρδιακής κοιλίας. Στο Εργαστήριο Κοπώσεων, Ελέγχου Αρρυθμιών και Καταγραφών Πίεσης του Athens Heart Center διενεργείται όλο το φάσμα των διαγνωστικών εξετάσεων με τη βοήθεια υψηλής τεχνολογίας διαγνωστικών μέσων, όπως: Δοκιμασία κοπώσεως σε κυλιόμενο τάπητα (test κοπώσεως) με σύγχρονο μηχάνημα με δυνατότητα manual και πρωτοκόλλων κόπωσης, Καρδιοαναπνευστική δοκιμασία κοπώσεως σε εργομετρικό ποδήλατο με σύγχρονο μηχάνημα για την εκτίμηση του λειτουργικού σταδίου ασθενών με καρδιακή ανεπάρκεια και μυοκαρδιοπάθειες από εξειδικευμένους, 24ωρη καταγραφή ηλεκτροκαρδιογραφήματος (holter ρυθμού) με δυνατότητα εκτίμησης του κινδύνου αιφνίδιου θανάτου σε περιπτώσεις ασθενών με δομική καρδιοπάθεια, 24ωρη καταγραφή αρτηριακής πιέσεως (holter πιέσεως) σε σύνδεση με τη Μονάδα Υπέρτασης, Έλεγχοι και ρυθμίσεις βηματοδοτικών και απινιδωτικών συστημάτων, Δοκιμασία ανάκλισης για διερεύνηση συγκοπής με σύγχρονα πρωτόκολλα. Μονάδες του Athens Heart Center Οι Μονάδες του Athens Heart Center έχουν σκοπό τη συστηματική ολιστική και σύγχρονη αντιμετώπιση όλου του φάσματος των καρδιολογικών νοσημάτων από τους αντίστοιχα πλέον εξειδικευμένους καρδιολόγους. Ειδικότερα: Στη Μονάδα Υπέρτασης διενεργείται πλήρης διαγνωστικός και εργαστηριακός έλεγχος (24ώρη καταγραφή αρτηριακής πίεσης, ΗΚΓ, υπερηχοκαρδιογράφημα, μέτρηση αλβουμινουρίας, εκτίμηση περιφερικών αγγείων). Έμφαση δίνεται στη διερεύνηση της δευτεροπαθούς υπέρτασης και θα επιλέγονται ασθενείς για αγγειοπλαστική νεφρικών αρτηριών, αφαίρεση ενδοκρινικών όγκων και θεραπεία υπνικής άπνοιας. Παράλληλα, στη Μονάδα Υπέρτασης διερευνώνται επισταμένως οι περιπτώσεις ανθεκτικής υπέρτασης και επιλέγονται ασθενείς για απονεύρωση νεφρικών αρτηριών. Στη Μονάδα Αρρυθμιολογίας – Ηλεκτροφυσιολογίας δίνεται έμφαση στην αντιμετώπιση της κολπικής μαρμαρυγής, κοιλιακών και υπερκοιλιακών αρρυθμιών και στη διερεύνηση συγκοπής. Στόχος στους ασθενείς με κολπική μαρμαρυγή είναι αφενός η εκτίμηση του θρομβοεμβολικού και αιμορραγικού κινδύνου της νόσου και αφετέρου η επιλογή των ασθενών που είναι κατάλληλοι για τη διενέργεια κατάλυσης με τις πλέον σύγχρονες μεθόδους, από την εξειδικευμένη ομάδα ηλεκτροφυσιολόγων του Καρδιολογικού Εργαστηρίου. Στη Μονάδα Αρρυθμιολογίας παρακολουθούνται ασθενείς με υπερκοιλιακές και κοιλιακές αρρυθμίες, εκτιμάται η πρόγνωση των ασθενών και επιλέγονται οι ασθενείς που είναι κατάλληλοι για τη διενέργεια κατάλυσης. Στη Μονάδα Αρρυθμιολογίας επίσης πραγματοποιείται η κατάλληλη διαγνωστική προσέγγιση με Holter ρυθμού, Triplex Καρδιάς, Δοκιμασία Ανάκλισης και εμφύτευση loop recorders, εκτιμάται η πρόγνωση των ασθενών και επιλέγονται οι ασθενείς που είναι κατάλληλοι για την εμφύτευση βηματοδοτικών και απινιδωτικών συστημάτων. Στη Μονάδα Μυοκαρδιοπαθειών και Κληρονομικών Νοσημάτων παρακολουθούνται: Ασθενείς με διάγνωση κληρονομικού καρδιαγγειακού νοσήματος, Οικογένειες που έχουν μέλη με διάγνωση κληρονομικού καρδιαγγειακού νοσήματος, Οικογένειες που έχουν πληγεί από αιφνίδιο καρδιακό θάνατο μελών τους, Επίσης, στη Μονάδα Μυοκαρδιοπαθειών και Κληρονομικών Νοσημάτων διενεργείται προαγωνιστικός και προαθλητικός έλεγχος. Η Μονάδα αναλαμβάνει τον προαθλητικό έλεγχο επαγγελματικών ομάδων και πρωταθλητών σε συνεργασία με το Εργαστήριο Ηλεκτροφυσιολογίας και τους αθλητιάτρους του Ομίλου. Στη Μονάδα Στεφανιαίας Νόσου πραγματοποιείται η κατάλληλη διαγνωστική προσέγγιση της νόσου σε συνεργασία με το εξειδικευμένο εργαστήριο Ηχοκαρδιολογίας και τη διενέργεια stress echo, ενώ προτείνεται η αντίστοιχη βέλτιστη επεμβατική και μη θεραπευτική αντιμετώπιση ΠΑΘΗΣΕΙΣΑρτηριακή υπέρτασηΙστορική ανασκόπηση – Επιδημιολογικά στοιχεία Η αρτηριακή υπέρταση (ΑΥ) προσβάλλει το 25% του ενήλικου πληθυσμού παγκοσμίως και ο επιπολασμός της αναμένεται να αυξηθεί κατά 60% έως το 2025 προσβάλλοντας συνολικά 1,5 δισεκατομμύριο ανθρώπους! Το ετήσιο κόστος στις ΗΠΑ για το έτος 2007 από άμεσες και έμμεσες δράσεις της υψηλής αρτηριακής πίεσης (ΑΠ) υπολογίζεται σε 67 δισ. δολάρια. Μέχρι την ηλικία των 45 ετών οι άντρες εμφανίζουν υψηλή αρτηριακή πίεση συχνότερα σε σχέση με τις γυναίκες. Στις ηλικίες 45-54 ετών τα ποσοστά αντρών και γυναικών εξομοιώνονται και μετά την ηλικία αυτή οι γυναίκες πάσχουν από αρτηριακή υπέρταση πιο συχνά συγκριτικά με τους άνδρες. Όσον αφορά στις φυλετικές διαφορές, οι μαύροι πληθυσμοί ξεπερνούν τα όρια της αρτηριακής πίεσης σε μικρότερη ηλικία και πάντα σε μεγαλύτερο βαθμό σε σχέση με τους λευκούς πληθυσμούς. Ορισμός – Ταξινόμηση αρτηριακής υπέρτασης Ο ορισμός της αρτηριακής υπέρτασης έχει σημαντικές δυσκολίες και ίσως είναι αυθαίρετος διότι οι τιμές της αρτηριακής πίεσης στον πληθυσμό ακολουθούν το πρότυπο μιας συνεχούς κανονικής κατανομής και δεν είναι δυνατό να καθοριστεί ένα όριο το οποίο με ακρίβεια να διαχωρίζει τον καρδιαγγειακό κίνδυνο. Για πρακτικούς λόγους, οι περισσότερες επιστημονικές εταιρείες (WHO, AHA, ISH, ASH, ESH, ESC) θεωρούν την τιμή αρτηριακής πίεσης μεγαλύτερη ή ίση με 140/90mmHg ως το όριο για τον ορισμό της αρτηριακής υπέρτασης. Επισημαίνεται, ότι το όριο αυτό είναι «ελαστικό» τοποθετούμενο χαμηλότερα αν ο υπολογιζόμενος ολικός καρδιαγγειακός κίνδυνος ενός δεδομένου ατόμου είναι πολύ υψηλός. Σε άτομα ηλικίας κάτω των 55 ετών, η αυξημένη συστολική και η διαστολική αρτηριακή πίεση έχουν την ίδια δυσμενή προγνωστική σημασία για αγγειακά εγκεφαλικά επεισόδια (ΑΕΕ) και για στεφανιαία θνησιμότητα. Σε ηλικιωμένα, όμως, άτομα για δεδομένη τιμή συστολικής αρτηριακής πίεσης ο καρδιαγγειακός κίνδυνος ήταν αντίστροφα ανάλογος με τα επίπεδα της διαστολικής ΑΠ, τονίζοντας έτσι την ισχυρή προγνωστική σημασία της πίεσης σφυγμού (συστολική αρτηριακή πίεση – διαστολική αρτηριακή πίεση) στα άτομα μεγάλης ηλικίας. Η ταξινόμηση της αρτηριακής πίεσης από όλες τις επίσημες επιστημονικές Εταιρείες (συμπεριλαμβανομένων και των τελευταίων οδηγιών της ESC/ESH) βασίζονται στις τιμές της συστολικής και διαστολικής αρτηριακής πίεσης, ενώ η πίεση σφυγμού μπορεί να χρησιμοποιηθεί για την αναγνώριση των ηλικιωμένων ατόμων με συστολική ΑΥ που είναι σε αυξημένο κίνδυνο (Πίνακας 1). Παθογένεια – Αίτια της αρτηριακής υπέρτασης Στις περισσότερες περιπτώσεις αρτηριακής υπέρτασης (περίπου 95%) δεν αναγνωρίζεται σαφές αίτιο, οπότε η κατάσταση αυτή έχει οριστεί ως πρωτοπαθής ή ιδιοπαθής αρτηριακή υπέρταση. Συγκεκριμένη αιτία αύξησης της αρτηριακής πίεσης μπορεί να αναγνωρισθεί σε ένα μικρό ποσοστό (περίπου 5%) των ενηλίκων υπερτασικών ασθενών. Οι αιτίες αυτές μπορούν να διερευνηθούν αρχικά με βάση στοιχεία από το ιστορικό, τη φυσική εξέταση και τις εργαστηριακές εξετάσεις ρουτίνας. Την ύπαρξη δευτεροπαθούς αιτίου αρτηριακής υπέρτασης υποπτευόμαστε σε σοβαρή αύξηση της αρτηριακής πίεσης, σε ξαφνική επιδείνωση της αρτηριακής υπέρτασης και σε φτωχή ανταπόκριση στη φαρμακευτική θεραπεία, οπότε και ενδείκνυται και η πραγματοποίηση εξειδικευμένου ελέγχου. Συχνότερα αίτια είναι η νεφροπαρεγχυματική νόσος, η νεφραγγειακή υπέρταση, ο πρωτοπαθής αλδοστερονισμός, το φαιοχρωμοκύτωμα, το σύνδρομο Cushing, η στένωση του ισθμού της αορτής και η χρήση φαρμάκων (κορτικοστεροειδή, μη στερινοειδή αντιφλεγμονώδη φάρμακα, κυκλοσπορίνη, κοκαΐνη και ερυθροποιητίνη). Κλινικές επιπτώσεις της αρτηριακής υπέρτασης Η ΑΥ είναι κατά βάση αγγειακή νόσος και όσο υψηλότερο το επίπεδο της αρτηριακής πίεσης τόσο πιο πρόωρα θα εμφανισθούν οι καρδιαγγειακές επιπτώσεις της ΑΥ κυρίως μέσω επιταχύνσεως της αθηροσκληρωτικής διεργασίας. Αν δεν αντιμετωπισθεί η ΑΥ, το 50% των υπερτασικών θα πεθάνουν από στεφανιαία νόσο ή καρδιακή ανεπάρκεια, το 33% από αγγειακό εγκεφαλικό επεισόδιο (ΑΕΕ) (αφορά κυρίως αυτούς με βαριά ανθεκτική αρτηριακή υπέρταση) και το 10-15% από νεφρική ανεπάρκεια. Περίπου το 69% των ασθενών που παρουσιάζουν το πρώτο στεφανιαίο επεισόδιο, το 77% αυτών με το πρώτο αγγειακό εγκεφαλικό επεισόδιο και το 74% αυτών που πάσχουν από καρδιακή ανεπάρκεια είναι υπερτασικοί. Επίσης, στοιχεία από τη μελέτη του Framingham υποδεικνύουν ότι υπερτασικοί ηλικίας 50 ετών σε σχέση με νορμοτασικούς ζουν 5 χρόνια λιγότερο, έχουν μικρότερο προσδόκιμο ελεύθερο καρδιαγγειακών νοσημάτων κατά 7 χρόνια και 2 χρόνια ζωής περισσότερα με καρδιαγγειακή νόσο. Διαγνωστική προσέγγιση του υπερτασικού ασθενούς Η πλειοψηφία των υπερτασικών ασθενών είναι ασυμπτωματικοί και συνεπώς η αναγνώριση της αρτηριακής υπέρτασης μπορεί να γίνει μόνο με τη μέτρηση της αρτηριακής πίεσης. Ο εργαστηριακός-παρακλινικός έλεγχος του υπερτασικού ατόμου στοχεύει, πέραν του αποκλεισμού της δευτεροπαθούς υπέρτασης στην ανίχνευση των λοιπών παραγόντων καρδιαγγειακού κινδύνου και των υποκλινικών βλαβών των οργάνων στόχων. Η έκταση του ελέγχου πρέπει να εξατομικεύεται. Όσο νεαρότερος ο ασθενής, βαρύτερη η αρτηριακή υπέρταση και ταχύτερα εξελισσόμενη τόσο λεπτομερέστερος ο έλεγχος. Αν και δεν υπάρχει ομοφωνία για τις ελάχιστα επιβαλλόμενες διαγνωστικές εξετάσεις, κάθε νεοδιαγνωσμένος υπερτασικός ασθενής θα πρέπει να υποβάλλεται τουλάχιστον στις κάτωθι απλές εξετάσεις: Ηλεκτροκαρδιογράφημα, Αιμοληψία για προσδιορισμό αιμοσφαιρίνης και αιματοκρίτη, γλυκόζης νηστείας, λιπιδαιμικού προφίλ (ολική χοληστερόλη, HDL, LDL, τριγλυκερίδια), καλίου, ουρικού οξέος και κρεατινίνης, Πρωινό δείγμα ούρων για προσδιορισμό γενικής ούρων και μέτρηση του λόγου αλβουμίνης /κρεατινίνης, Η υπερηχοκαρδιογραφία αποτελεί πολύ πιο ευαίσθητη μέθοδο από το ΗΚΓ για τη διάγνωση της ΥΑΚ και την πρόγνωση του καρδιαγγειακού κινδύνου, Η εξέταση του αμφιβληστροειδούς μπορεί να δώσει σημαντικές πληροφορίες για τη διάρκεια και τη σοβαρότητα της αρτηριακή υπέρταση ή και τη αποτελεσματικότητα της θεραπείας. Θεραπευτική αντιμετώπιση αρτηριακής υπέρτασης Είναι σήμερα αναμφισβήτητο γεγονός ότι η αντιυπερτασική θεραπεία οδηγεί σε σημαντική μείωση της καρδιαγγειακής θνησιμότητας και νοσηρότητας, και ότι το όφελος της θεραπείας είναι το ίδιο σε άνδρες και γυναίκες όλων των ηλικιών συμπεριλαμβάνοντας και τα άτομα μεγαλύτερης ηλικίες με μεμονωμένη συστολική υπέρταση. Ειδικότερα η αντιυπερτασική θεραπεία συνδέεται με μεγάλη μείωση των θανατηφόρων ή μη αγγειακών εγκεφαλικών επεισοδίων (περίπου 30-40%) ενώ τα στεφανιαία σύνδρομα μειώνονται σε μικρότερο βαθμό (20%). Τέλος, η θεραπεία έχει συσχετιστεί με πολύ μεγάλη μείωση της επίπτωσης της καρδιακής ανεπάρκειας. Η απόφαση για το χρόνο έναρξης της αντιυπερτασικής θεραπείας πρέπει να βασίζεται σε δύο κριτήρια: το επίπεδο της συστολικής και της διαστολικής αρτηριακής πίεσης και το επίπεδο του συνολικού καρδιαγγειακού κινδύνου. Τα μετρά προσωπικής υγείας και δίαιτας, τα οποία ευρέως θεωρούνται ότι μειώνουν την αρτηριακή πίεση και τον καρδιαγγειακό κίνδυνο είναι (Πίνακας 2): Διακοπή καπνίσματος Μείωση σωματικού βάρους σε σταθερά χαμηλά επίπεδα Περιορισμός της περίσσειας κατανάλωσης αλκοόλ Φυσική άσκηση Μείωση του προσλαμβανόμενου άλατος Αύξηση της κατανάλωσης φρούτων και λαχανικών και μείωση του κεκορεσμένου και συνολικού λίπους Πίνακας 1. Φυσιολογικά όρια τιμών αρτηριακής πίεσης (mmHg) με βάση διαφορετικούς τρόπους μέτρησης Συστολική ΑΠ Διαστολική ΑΠ Μέτρηση ΑΠ στο Ιατρείο 140 90 24ωρη καταγραφή ΑΠ 125-130 80 Ημέρα 130-135 85 Νύχτα 120 70 Μέτρηση ΑΠ κατ’ οίκον 130-135 85 Πίνακας 2. Επίδραση των υγιεινοδιαιτητικών μεταβολών στην ΑΠ Μεταβολή τρόπου ζωής Μείωση της συστολικής ΑΠ Μείωση σωματικού βάρους κατά 10 κιλά 5-20mmHg Περιορισμός προσλαμβανόμενου άλατος (6 γραμ. χλωριούχου νατρίου την ημέρα) 2-8 mmHg Σωματική άσκηση 4-9 mmHg Περιορισμός αλκοόλ 2-4 mmHg Μεσογειακή δίαιτα 8-14 mmHg ΈμφραγμαΈμφραγμα είναι η νέκρωση ενός τμήματος της καρδιάς από απότομη διακοπή της αιμάτωσης του εξ’ αιτίας της ξαφνικής, πλήρους έμφραξης της στεφανιαίας αρτηρίας, που του δίνει αίμα. Το έμφραγμα αρχίζει τριάντα περίπου λεπτά μετά την πλήρη έμφραξη της αρτηρίας και ολοκληρώνεται αρκετές ώρες αργότερα. Η άμεση αποκατάσταση της ροής του αίματος στην υπεύθυνη στεφανιαία αρτηρία σώζει την καρδιά είτε επιτευχθεί με χορήγηση ειδικών φαρμάκων που διαλύουν το θρόμβο (θρομβολυτική θεραπεία) είτε με επείγουσα αγγειοπλαστική στην αποφραγμένη αρτηρία. Η θρομβολυτική θεραπεία έχει το πλεονέκτημα ότι μπορεί να γίνει σε οποιαδήποτε νοσηλευτική μονάδα, ενώ η επείγουσα ε μια γενική πτώση της πηκτικότητας του αίματος και προκαλεί συχνότερα αιμορραγίες, όπως γαστρορραγία ή εγκεφαλική αιμορραγία.χρειάζεται εξειδικευμένο κέντρο σε εικοσιτετράωρη ετοιμότητα. Το μειονέκτημα της θρομβολυτικής θεραπείας είναι ότι υστερεί στα ποσοστά διάνοιξης της αρτηρίας (70% περίπου σε σύγκριση με 95% στην αγγειοπλαστική), ενώ παράλληλα οδηγεί σΚαρδιακή ΑνεπάρκειαΗ συμφορητική καρδιακή ανεπάρκεια (ΣΚΑ) είναι μία πάθηση κατά την οποία η καρδιά αδυνατεί να τροφοδοτήσει τους ιστούς με την επαρκή ποσότητα αίματος, προκειμένου να καλυφθούν οι ανάγκες των οργάνων. Το κλινικό σύνδρομο της συμφορητικής καρδιακής ανεπάρκειας είναι η τελική κατάληξη πολλαπλών καρδιακών παθήσεων. Στις μέρες μας περίπου 6 εκατομμύρια Αμερικανοί πολίτες στις ΗΠΑ και 1% του πληθυσμού στο Ηνωμένο Βασίλειο πάσχουν από συμφορητική καρδιακή ανεπάρκεια. Η επίπτωση της νόσου είναι 10 άτομα ανά 1.000 σε ηλικίες μεγαλύτερες των 65 ετών. Η συμφορητική καρδιακή ανεπάρκεια είναι είτε οξεία, όταν τα συμπτώματα είναι πρόσφατα είτε χρόνια, όταν υπάρχει εξελισσόμενη πορεία. Τα συμπτώματα της συμφορητικής καρδιακής ανεπάρκειας είναι δύσπνοια (προσπάθειας ή ηρεμίας), αδυναμία, κόπωση, οίδημα κάτω άκρων, ταχυκαρδία ή αρρυθμία, μειωμένη αντοχή στην άσκηση, επίμονος βήχας ή συριγμός με λευκωπά ή ροδόχροα πτύελα, ασκιτική συλλογή, αύξηση σωματικού βάρους (λόγω κατ ακράτησης υγρών), ανορεξία ή ναυτία, δυσκολία στη συγκέντρωση ή μειωμένα αντανακλαστικά. Οι παράγοντες κινδύνου για εμφάνιση συμφορητικής καρδιακής ανεπάρκειας είναι πολλαπλοί. Η ύπαρξη ενός παράγοντα κινδύνου είναι ικανή για την εμφάνιση συμφορητικής καρδιακής ανεπάρκειας, αν και ο συνδυασμός πολλαπλών παραγόντων σίγουρα αυξάνει τον κίνδυνο εμφάνισης της νόσου. Οι κύριοι παράγοντες κινδύνου είναι: Η υψηλή αρτηριακή πίεση, λόγω της οποίας αυξάνεται το καρδιακό έργο, Η στεφανιαία νόσος, κατά την οποία οι στενωμένες αρτηρίες αδυνατούν να τροφοδοτήσουν την καρδιά με ικανοποιητική ποσότητα οξυγόνου και οδηγούν σε εξασθένηση του μυοκαρδικού ιστού, Το οξύ ισχαιμικό επεισόδιο, το οποίο προκαλεί οξεία βλάβη του μυοκαρδίου και δύναται να οδηγήσει σε μείωση της απόδοσης της καρδιακής αντλίας. Οι αρρυθμίες προκαλούν αρκετές φορές αύξηση του καρδιακού έργου και εξασθένηση του καρδιακού μυός. O διαβήτης μπορεί να οδηγήσει σε συμφορητική καρδιακή ανεπάρκεια, διότι αυξάνει τον κίνδυνο τόσο της στεφανιαίας νόσου όσο και της αρτηριακής υπέρτασης. Οι απνοϊκές κρίσεις κατά τη διάρκεια του ύπνου αποτελούν ένα επιπρόσθετο επιβαρυντικό παράγοντα, γιατί οδηγούν τόσο σε μείωση των επιπέδων του οξυγόνου στο αίμα όσο και σε αρρυθμίες – παράγοντες που και οι δυο αποδυναμώνουν τον καρδιακό μυ. Ιοί, κατάχρηση αλκοόλ και νεφρικές παθήσεις δύνανται να οδηγήσουν σε ΣΚΑ. Ένα μικρό ποσοστό των ασθενών με συμφορητική καρδιακή ανεπάρκεια έχει γεννηθεί με δομικά καρδιακά ελλείμματα. Τέλος, οι παραμελημένες βαλβιδοπάθειες μπορεί να είναι αιτία συμφορητικής καρδιακής ανεπάρκειας. Οι επιπλοκές είναι πολλαπλές. Η συμφορητική καρδιακή ανεπάρκεια δύναται να οδηγήσει σε νεφρική ανεπάρκεια (κυρίως σε παραμελημένες περιπτώσεις) λόγω μειωμένης παροχής αίματος στα νεφρά. Επίσης, η λειτουργία των καρδιακών βαλβίδων και του ήπατος μπορεί να επιδεινωθεί από την αυξημένη κατακράτηση υγρών. Η ροή μέσω της καρδιακής αντλίας είναι μειωμένη, γεγονός που συντελεί στην πιθανή ανάπτυξη θρόμβου και εμφάνιση καρδιακών ή/και εγκεφαλικών επεισοδίων. Στις μέρες μας η έγκαιρη αντιμετώπιση μπορεί να βελτιώσει σε ουσιαστικό βαθμό τα συμπτώματα και την ποιότητα ζωής των ασθενών. Παρά ταύτα η συμφορητική καρδιακή ανεπάρκεια συνεχίζει να είναι μία απειλητική για τη ζωή ασθένεια διότι δύναται να οδηγήσει σε αιφνίδιο θάνατο. Η διάγνωση της συμφορητικής καρδιακής ανεπάρκειας στηρίζεται στη λήψη του ιστορικού, στην κλινική εξέταση αλλά και σε μία σειρά παρακλινικών εξετάσεων που περιλαμβάνουν αιματολογικές εξετάσεις, συμπεριλαμβανομένου του νατριοουρητικού πεπτιδίου (NT – proBNP) που είναι αξιόπιστος προγνωστικός δείκτης, της ακτινογραφίας θώρακος, του ηλεκτροκαρδιογραφήματος και της δοκιμασίας κόπωσης ή του δυναμικού υπερηχογραφήματος με δοβουταμίνη. Σαφέστατα πρωταρχικό ρόλο στην εκτίμηση της καρδιακής λειτουργίας στην παρούσα νόσο αποτελεί το υπερηχοκαρδιογράφημα καρδιάς. Κατά τη διάρκεια αυτής της εξέτασης δίνεται η δυνατότητα υπολογισμού του κλάσματος εξώθησης που είναι αντικειμενικός δείκτης εκτίμησης της βαρύτητας της νόσου συμφορητικής καρδιακής ανεπάρκειας. Σε επιλεκτικές περιπτώσεις, πληροφορίες για τα αίτια της νόσου αλλά και τη βαρύτητα αυτής μπορεί να παρέχει και η μαγνητική τομογραφία καρδιάς. Τα αποτελέσματα των κλινικών και παρακλινικών εξετάσεων βοηθούν τον εκάστοτε καρδιολόγο στην ταξινόμηση της βαρύτητας του περιστατικού και στον καθορισμό της θεραπευτικής αντιμετώπισης. Ουσιαστικές τροποποιήσεις στον καθημερινό τρόπο ζωής μπορούν να προλάβουν την επιδείνωση της νόσου συμφορητικής καρδιακής ανεπάρκειας. Αρχικά η διακοπή του καπνίσματος προστατεύει τα στεφανιαία αγγεία, μειώνει την αρτηριακή πίεση και το καρδιακό έργο. Επιπλέον, η ρύθμιση του σωματικού βάρους (ΣΒ) ως επίσης και ο καθημερινός περιορισμός λήψης κορεσμένων λιπαρών οξέων και χοληστερόλης -ως επιβαρυντικοί παράγοντες για στεφανιαία νόσο- μειώνουν τις πιθανότητες εμφάνισης ΣΚΑ. Σαφής σύσταση δίνεται για περιορισμό κατανάλωσης αλκοόλ στις περιπτώσεις ΣΚΑ αφού, αφενός η χρήση του αλληλεπιδρά με την εκάστοτε φαρμακευτική αγωγή, αφετέρου αποδυναμώνει τον καρδιακό μυ και επίσης αυξάνει τον αρρυθμιολογικό κίνδυνο. Σε σοβαρές περιπτώσεις συμφορητικής καρδιακής ανεπάρκειας συνιστάται περιορισμός των υγρών και του άλατος, αφού έμμεσα οδηγεί σε κατακράτηση υγρών. Σε ασθενείς με ΣΚΑ η συνιστώμενη καθημερινή πρόσληψη άλατος δεν πρέπει να ξεπερνά τα 2 mg. Εάν συνυπάρχει αρτηριακή υπέρταση ή ο ασθενής είναι μεγαλύτερος από 50 ετών ο στόχος είναι 1,5 mg ημερήσια πρόσληψη άλατος. Η αεροβική άσκηση βοηθά ουσιαστικά στη μείωση των αναγκών του μυοκαρδιακού ιστού. Η αποφυγή έντονου συγκινησιακού φορτίου και στρεσογόνων παραγόντων οδηγεί ουσιαστικά στη μείωση του καρδιακού έργου, επομένως στη σταθεροποίηση και βελτίωση της νόσου. Τέλος, σε περιπτώσεις απνοϊκών κρίσεων κατά τη διάρκεια του ύπνου θα πρέπει να γίνει η σχετική μελέτη ύπνου και να δοθούν οι ανάλογες οδηγίες. Στην αντιμετώπιση της συμφορητικής καρδιακής ανεπάρκειας χρησιμοποιούνται αρκετές κατηγορίες φαρμάκων όπως οι β- αναστολείς, οι αναστολείς των υποδοχέων της αγγειοτενσίνης ΙΙ, η δακτυλίτιδα, τα διουρητικά, η σπιρονολακτόνη ή η επλερενόνη. Επίσης, πολλές φορές κρίνεται απαραίτητη βάσει ενδείξεων η αορτοστεφανίαια παράκαμψη ή η αντικατάσταση βαλβίδων. Σε περιπτώσεις καταγραφής επικίνδυνων (απειλητικών) αρρυθμιών υπάρχει η δυνατότητα εμφύτευσης απινιδωτή που αποκαθιστά το φυσιολογικό καρδιακό ρυθμό. Η εξέλιξη σε ερευνητικό επίπεδο συντέλεσε στην ταυτοποίηση της έννοιας του δυσυγχρονισμού που παρουσιάζει μερίδα των ασθενών με συμφορητική καρδιακή ανεπάρκεια και οφείλεται σε βλάβη του ηλεκτρικού συστήματος της καρδιάς τους. Στους συγκεκριμένους ασθενείς η εμφύτευση αμφικοιλιακού βηματοδότη–απινιδωτή και η εξισορρόπηση του συγχρονισμού των τμημάτων της καρδιάς οδηγεί σε θεαματικά αποτελέσματα. Τα τελευταία χρόνια στους ασθενείς με τελικό στάδιο συμφορητικής καρδιακής ανεπάρκειας εμφυτεύονται συσκευές μηχανικής υποβοήθησης της καρδιάς (LVADs) στην κοιλιακή ή προκάρδια χώρα. Ο αρχικός σχεδιασμός των συσκευών αυτών έγινε ως μία «γέφυρα» για μεταμόσχευση μίας και σε κάποιες περιπτώσεις η μεταμόσχευση δεν είναι εφικτή ή καθυστερεί πολύ η ανεύρεση μοσχεύματος. Οι τελευταίες μελέτες όμως έδειξαν ότι σε πλείστες των περιπτώσεων οι LVADs δύνανται να βελτιώσουν την καρδιακή λειτουργία και να υποκαταστήσουν τη μεταμόσχευση. Ωστόσο, οι παρούσες διαπιστώσεις βρίσκονται σε εξέλιξη. Οι ασθενείς που δεν ανταποκρίνονται σε καμία από τις προαναφερθείσες θεραπείες οδηγούνται σε μεταμόσχευση. Δυστυχώς τις περισσότερες φορές η αναμονή μπορεί να ξεπεράσει μήνες ή χρόνια ΓΙΑΤΙ ΕΜΑΣ Το Athens Heart Center διαθέτει πλήρως εξοπλισμένη και οργανωμένη καρδιολογική κλινική με άριστο επιστημονικό και νοσηλευτικό προσωπικό και προηγμένης τεχνολογίας εξοπλισμό που είναι ανά πάσα στιγμή στη διάθεση των αρρώστων, έτοιμο να αντιμετωπίσει, με υποδειγματική πληρότητα, κάθε οξύ ή χρόνιο καρδιολογικό περιστατικό όλο το 24ώρο. Διευθυντής του Athens Heart Center είναι ο Καθηγητής Καρδιολογίας, κ. Χριστόδουλος Στεφανάδης, πρωτοπόρος παγκοσμίως στην επεμβατική καρδιολογία και από τους πιο διακεκριμένους καρδιολόγους επιστήμονες στον κόσμο ανεξάρτητα από ιατρική ειδικότητα. Το Athens Heart Center διαθέτει αναβαθμισμένα, καινοτόμα Διαγνωστικά Εργαστήρια και Μονάδες, τα οποία καλύπτουν όλο το φάσμα της καρδιολογίας με την πλέον σύγχρονη προσέγγιση. Η Καρδιολογική Κλινική του Athens Heart Center πλαισιώνεται από διακεκριμένους καρδιολόγους διευθυντές με πλούσια κλινική εμπειρία και επιστημονικό κύρος, ενώ οι καρδιολογικοί ασθενείς τυγχάνουν της αρτιότερης παρακολούθησης μέσω των συστημάτων τηλεμετρίας. Το Εργαστήριο Επεμβατικής Καρδιολογίας του Athens Heart Center διαθέτει δύο σύγχρονες αίθουσες αιμοδυναμικού εργαστηρίου, όπου αντιμετωπίζεται σε καθημερινή βάση και σε όλη τη διάρκεια του 24/ώρου όλο το φάσμα της στεφανιαίας νόσου, της περιφερικής αγγειακής νόσου αλλά και των δομικών – συγγενών καρδιοπαθειών τόσο διαγνωστικά όσο και θεραπευτικά. Στο Εργαστήριο Ηλεκτροφυσιολογίας και Βηματοδότησης του Athens Heart Center πραγματοποιείται όλο το φάσμα των επεμβάσεων ηλεκτροφυσιολογίας και βηματοδότησης. Στο Εργαστήριο Ηχοκαρδιολογίας του Athens Heart Center διενεργούνται οι εξετάσεις με τη βοήθεια υψηλής τεχνολογίας διαγνωστικών μέσων, όπως διαθωρακικό υπερηχογράφημα – triplex καρδιάς, διοισοφάγειο ηχοκαρδιογράφημα, stress echo με δοβουταμίνη, stress echo με εργομετρικό ποδήλατο, τρισδιάστατο Ηχοκαρδιογράφημα. Στο Εργαστήριο Κοπώσεων, Ελέγχου Αρρυθμιών και Καταγραφών Πίεσης του Athens Heart Center διενεργείται όλο το φάσμα των διαγνωστικών εξετάσεων με τη βοήθεια υψηλής τεχνολογίας διαγνωστικών μέσων, όπως test κοπώσεως, καρδιοαναπνευστική δοκιμασία κοπώσεως σε εργομετρικό ποδήλατο, δοκιμασία ανάκλισης, holter ρυθμού, holter πιέσεως, έλεγχοι και ρυθμίσεις βηματοδοτικών και απινιδωτικών συστημάτων. Οι καρδιολογικές Μονάδες του Athens Heart Center έχουν σκοπό τη συστηματική ολιστική και σύγχρονη αντιμετώπιση όλου του φάσματος των καρδιολογικών νοσημάτων από τους αντίστοιχα πλέον εξειδικευμένους καρδιολόγους. Τοποθεσία ΙατρείουΕπικοινωνία No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα Τηλέφωνο : +210-6926002 Email : dtsiachris@yahoo.com Web : facebook.com Copyright © 2019 Soulmedic Theme All Rights Reserved | Design Themes This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.CloseModalPrivacy Cookie and Privacy Settings How we use cookiesEssential Website CookiesOther external servicesPrivacy Policy We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.These cookies are strictly necessary to provide you with services available through our website and to use some of its features. Because these cookies are strictly necessary to deliver the website, you cannot refuse them without impacting how our site functions. You can block or delete them by changing your browser settings and force blocking all cookies on this website.We also use different external services like Google Webfonts, Google Maps and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page. Google Webfont Settings: Click to enable/disable google webfonts. Google Map Settings: Click to enable/disable google maps. Vimeo and Youtube video embeds: Click to enable/disable video embeds.You can read about our cookies and privacy settings in detail on our Privacy Policy Page. Privacy Policy {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"\\/*\"},{\"not\":{\"href_matches\":[\"\\/wp-*.php\",\"\\/wp-admin\\/*\",\"\\/wp-content\\/uploads\\/*\",\"\\/wp-content\\/*\",\"\\/wp-content\\/plugins\\/*\",\"\\/wp-content\\/themes\\/bbpress\\/..\\/*\",\"\\/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} /* <![CDATA[ */ var dttheme_urls = {\"theme_base_url\":\"https:\\/\\/www.tsiachris.gr\\/wp-content\\/themes\\/bbpress\\/..\",\"framework_base_url\":\"https:\\/\\/www.tsiachris.gr\\/wp-content\\/themes\\/bbpress\\/..\\/framework\\/\",\"ajaxurl\":\"https:\\/\\/www.tsiachris.gr\\/wp-admin\\/admin-ajax.php\",\"url\":\"https:\\/\\/www.tsiachris.gr\",\"isRTL\":\"\",\"loadingbar\":\"disable\",\"advOptions\":\"Show Advanced Options\",\"wpnonce\":\"d8ea7c3e2e\",\"enable_ajax_addtocart\":\"\",\"enable_totop\":\"1\",\"nice_scroll\":\"disable\"}; /* ]]> */ /* <![CDATA[ */ function dt_privacy_cookie_setter( cookie_name ) { var toggle = jQuery('.' + cookie_name); toggle.each(function() { if(document.cookie.match(cookie_name)) this.checked = false; }); jQuery('.' + 'dt-switch-' + cookie_name).each(function() { this.className += ' active '; }); toggle.on('click', function() { if(this.checked) { document.cookie = cookie_name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;'; } else { var theDate = new Date(); var oneYearLater = new Date( theDate.getTime() + 31536000000 ); document.cookie = cookie_name + '=true; Path=/; Expires='+oneYearLater.toGMTString()+';'; } }); }; dt_privacy_cookie_setter('dtPrivacyGoogleTrackingDisabled'); dt_privacy_cookie_setter('dtPrivacyGoogleWebfontsDisabled'); dt_privacy_cookie_setter('dtPrivacyGoogleMapsDisabled'); dt_privacy_cookie_setter('dtPrivacyVideoEmbedsDisabled'); /* ]]> */ /* <![CDATA[ */ var dtportfoliofrontendobject = {\"ajaxurl\":\"https:\\/\\/www.tsiachris.gr\\/wp-admin\\/admin-ajax.php\",\"page_builder\":\"visual-composer\",\"elementor_preview_mode\":\"\"}; /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/tsiachris.gr-home-629dad1c/services-athensheartcenter-2-c35733f8.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/tsiachris.gr-home-629dad1c/services-athensheartcenter-2-c35733f8.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.tsiachris.gr/wp-content/uploads/2020/04/Athens-Heart-Center.jpeg",
+          "sourcePageUrl": "https://www.tsiachris.gr/athensheartcenter-2",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.tsiachris.gr/athensheartcenter-2",
+              "retrievedAt": "2026-03-31T13:08:29.896Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.55,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://www.tsiachris.gr/athensheartcenter-2",
+          "retrievedAt": "2026-03-31T13:08:29.897Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://www.tsiachris.gr/contact",
+      "finalUrl": "https://www.tsiachris.gr/contact",
+      "fetchedAt": "2026-03-31T13:08:28.511Z",
+      "metadata": {
+        "title": "ΕΠΙΚΟΙΝΩΝΙΑ - Tsiachris",
+        "canonicalUrl": "https://www.tsiachris.gr/contact/",
+        "language": "en",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "ΕΠΙΚΟΙΝΩΝΙΑ - Tsiachris"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Στοιχεία Επικοινωνίας"
+        },
+        {
+          "level": "h3",
+          "text": "Τοποθεσία Ιατρείου"
+        },
+        {
+          "level": "h3",
+          "text": "Επικοινωνία"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.tsiachris.gr/"
+        },
+        {
+          "href": "https://www.tsiachris.gr/athensheartcenter-2/",
+          "label": "Ποιοι Είμαστε"
+        },
+        {
+          "href": "https://www.tsiachris.gr/pages/typography/",
+          "label": "Δημήτρης Τσιαχρής"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b1%ce%bd%cf%84%cf%89%ce%bd%ce%b9%ce%bf%cf%85-%cf%87%cf%81%ce%b7%cf%83%cf%84%ce%bf%cf%82/",
+          "label": "Χρήστος Κωνσταντίνος Αντωνίου"
+        },
+        {
+          "href": "https://www.tsiachris.gr/2742-2/",
+          "label": "Δεληγιάννης Γεώργιος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%bf%cf%81%ce%b4%ce%b1%ce%bb%ce%b7%cf%83-%ce%b1%ce%b8%ce%b1%ce%bd%ce%b1%cf%83%ce%b9%ce%bf%cf%83/",
+          "label": "Κορδαλής Αθανάσιος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%bf%cf%85%ce%bd%ce%b4%ce%bf%cf%85%ce%bb%ce%b1%ce%ba%ce%b7%cf%83-%ce%b9%cf%89%ce%b1%ce%bd%ce%bd%ce%b7%cf%83/",
+          "label": "Δουνδουλάκης Ιωάννης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf%cf%82-%ce%bb%ce%b1%ce%b6%ce%b1%cf%81%ce%b9%ce%b4%ce%b7%cf%82/",
+          "label": "Λαζαρίδης Κυριάκος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%83%cf%80%ce%b1%ce%bd%cf%8c%cf%82-%ce%b1%ce%bd%ce%b1%cf%83%cf%84%ce%ac%cf%83%ce%b9%ce%bf%cf%82/",
+          "label": "Σπανός Αναστάσιος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%bd%ce%af%ce%ba%ce%bf%cf%82-%ce%b1%cf%81%ce%b3%cf%85%cf%81%ce%af%ce%bf%cf%85/",
+          "label": "Νίκος Αργυρίου"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%cf%89%cf%84%ce%bf%cf%8d%ce%bb%ce%b1%cf%82-%cf%83%cf%89%cf%84%ce%ae%cf%81%ce%b7%cf%83/",
+          "label": "Κωτούλας Σωτήρης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%bc%cf%80%cf%8c%cf%84%ce%b7%cf%82-%ce%bc%ce%b9%cf%87%ce%ac%ce%bb%ce%b7%cf%82/",
+          "label": "Μπότης Μιχάλης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%bd%ce%bf%cf%83%ce%b7%ce%bc%ce%b1%cf%84%ce%b1-2/",
+          "label": "Νοσήματα"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%bf%ce%bb%cf%80%ce%b9%ce%ba%ce%b7-%ce%bc%ce%b1%cf%81%ce%bc%ce%b1%cf%81%cf%85%ce%b3%ce%b7/",
+          "label": "Κολπική Μαρμαρυγή"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%83%cf%85%ce%b3%ce%ba%ce%bf%cf%80%ce%b7-%ce%b1%ce%b9%cf%86%ce%bd%ce%b9%ce%b4%ce%b9%ce%bf%cf%83-%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%b1%ce%ba%ce%bf%cf%83-%ce%b8%ce%b1%ce%bd%ce%b1%cf%84%ce%bf%cf%83/",
+          "label": "Συγκοπή – Αιφνίδιος Καρδιακός Θάνατος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%83%cf%8d%ce%bd%ce%b4%cf%81%ce%bf%ce%bc%ce%bf-brugada/",
+          "label": "Συγκοπή"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b1%ce%b9%cf%86%ce%bd%ce%b9%ce%b4%ce%b9%ce%bf%cf%82_%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%b1%ce%ba%cf%8c%cf%82_%ce%b8%ce%ac%ce%bd%ce%b1%cf%84%ce%bf%cf%82/",
+          "label": "Αιφνίδιος καρδιακός θάνατος"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%85%cf%80%ce%b5%cf%81%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%ce%b5%cf%83-%ce%b1%cf%81%cf%81%cf%85%ce%b8%ce%bc%ce%b9%ce%b5%cf%83/%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%ce%b5%cf%83-%ce%b1%cf%81%cf%81%cf%85%ce%b8%ce%bc%ce%b9%ce%b5%cf%83/",
+          "label": "Κοιλιακές Αρρυθμίες"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%cf%85%cf%80%ce%b5%cf%81%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%ce%b5%cf%83-%ce%b1%cf%81%cf%81%cf%85%ce%b8%ce%bc%ce%b9%ce%b5%cf%83/",
+          "label": "Υπερκοιλιακές Αρρυθμίες"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%b9%ce%b1%ce%b3%ce%bd%cf%89%cf%83%cf%84%ce%b9%ce%ba%ce%b5%cf%83-%ce%b5%ce%be%ce%b5%cf%84%ce%b1%cf%83%ce%b5%ce%b9%cf%83/",
+          "label": "Διαγνωστικές Εξετάσεις"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%cf%80%ce%b5%ce%bc%ce%b2%ce%b1%cf%84%ce%b9%ce%ba%ce%b5%cf%83/",
+          "label": "Επεμβατικές"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b7%ce%bb%ce%b5%ce%ba%cf%84%cf%81%ce%bf%cf%86%cf%85%cf%83%ce%b9%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%ba%ce%b7-%ce%bc%ce%b5%ce%bb%ce%b5%cf%84%ce%b7/",
+          "label": "Ηλεκτροφυσιολογική Μελέτη"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%85%cf%83%ce%b7-%ce%bc%ce%b1%ce%ba%cf%81%ce%bf%cf%87%cf%81%ce%bf%ce%bd%ce%b9%cf%89%ce%bd-%ce%ba%ce%b1%cf%84%ce%b1%ce%b3%cf%81%ce%b1%cf%86%ce%b5%cf%89%ce%bd-loop/",
+          "label": "Εμφύτευση Μακροχρόνιων Καταγραφέων (Loop Recorders)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%bc%ce%b7-%ce%b5%cf%80%ce%b5%ce%bc%ce%b2%ce%b1%cf%84%ce%b9%ce%ba%ce%b5%cf%83/",
+          "label": "Μη Επεμβατικές"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%b9%ce%b1%ce%b8%cf%89%cf%81%ce%b1%ce%ba%ce%b9%ce%ba%ce%bf-%cf%85%cf%80%ce%b5%cf%81%ce%b7%cf%87%ce%bf%ce%ba%cf%81%ce%b1%ce%b4%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b7%ce%bc%ce%b1-triplex/",
+          "label": "Διαθωρακικό Υπερηχοκαρδιογράφημα (triplex καρδιάς)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%b9%ce%bf%ce%b9%cf%83%ce%bf%cf%86%ce%b1%ce%b3%ce%b5%ce%b9%ce%bf-%cf%85%cf%80%ce%b5%cf%81%ce%b7%cf%87%ce%bf%ce%ba%cf%81%ce%b1%ce%b4%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b7%ce%bc%ce%b1/",
+          "label": "Διοισοφάγειο Υπερηχοκαρδιογράφημα"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%cf%85%ce%bd%ce%b1%ce%bc%ce%b9%ce%ba%ce%b7-%cf%85%cf%80%ce%b5%cf%81%ce%b7%cf%87%ce%bf%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%b1-stress-echo/",
+          "label": "Δυναμική Υπερηχοκαρδιογραφία (Stress Echo)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%bf%ce%ba%ce%b9%ce%bc%ce%b1%cf%83%ce%b9%ce%b1-%ce%ba%ce%bf%cf%80%cf%89%cf%83%ce%b7%cf%83/",
+          "label": "Δοκιμασία Κόπωσης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/holter-%cf%80%ce%b9%ce%b5%cf%83%ce%b7%cf%83/",
+          "label": "Holter Πίεσης"
+        },
+        {
+          "href": "https://www.tsiachris.gr/holter-%cf%81%cf%85%ce%b8%ce%bc%ce%bf%cf%85/",
+          "label": "Holter Ρυθμού"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b4%ce%bf%ce%ba%ce%b9%ce%bc%ce%b1%cf%83%ce%b9%ce%b1-%ce%b1%ce%bd%ce%b1%ce%ba%ce%bb%ce%b9%cf%83%ce%b7%cf%83-tilt-test/",
+          "label": "Δοκιμασία Ανάκλισης (Tilt test)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bb%ce%b5%ce%b3%cf%87%ce%bf%cf%82_%ce%b2%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%ce%b4%cf%8c%cf%84%ce%b7/",
+          "label": "‘Ελεγχος Βηματοδοτών"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b2%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%ce%b4%ce%bf%cf%84%ce%b5%cf%83-%ce%b1%cf%80%ce%b9%ce%bd%ce%b9%ce%b4%cf%89%cf%84%ce%b5%cf%83/",
+          "label": "Βηματοδότες-Απινιδωτές"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%85%cf%83%ce%b7-%cf%83%cf%85%ce%bc%ce%b2%ce%b1%cf%84%ce%b9%ce%ba%ce%bf%cf%85-%ce%b2%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%ce%b4%ce%bf%cf%84%ce%b7/",
+          "label": "Εμφύτευση Συμβατικού Βηματοδότη"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%85%cf%83%ce%b7-%ce%b2%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%ce%b4%ce%bf%cf%84%ce%b7-%cf%87%cf%89%cf%81%ce%b9%cf%83-%ce%ba%ce%b1%ce%bb%cf%89%ce%b4%ce%b9%ce%b1/",
+          "label": "Εμφύτευση Βηματοδότη Χωρίς Καλώδια"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%80%ce%b9%ce%bd%ce%b9%ce%b4%cf%89%cf%84%ce%b7/",
+          "label": "Εμφύτευση Απινιδωτή"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%af%ce%b1-%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%b1%ce%ba%ce%bf%cf%8d-%ce%b5%cf%80%ce%b1%ce%bd%ce%b1%cf%83%cf%85%ce%b3%cf%87%cf%81%ce%bf%ce%bd%ce%b9%cf%83%ce%bc%ce%bf/",
+          "label": "Θεραπεία Καρδιακού Επανασυγχρονισμού (Εμφύτευση Αμφικοιλιακού Βηματοδότη)"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%b1%ce%bb%cf%8d%cf%83%ce%b5%ce%b9%cf%82-ablation/",
+          "label": "Καταλύσεις – Ablation"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%b1%ce%bb%cf%85%cf%83%ce%b7-%ce%ba%ce%bf%ce%bb%cf%80%ce%b9%ce%ba%ce%b7%cf%83-%ce%bc%ce%b1%cf%81%ce%bc%ce%b1%cf%81%cf%85%ce%b3%ce%b7%cf%83/",
+          "label": "Κατάλυση Κολπικής Μαρμαρυγής"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%ac%ce%bb%cf%85%cf%83%ce%b7-%cf%85%cf%80%ce%b5%cf%81%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%cf%8e%ce%bd-%cf%84%ce%b1%cf%87%cf%85%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%cf%8e%ce%bd/",
+          "label": "Κατάλυση Υπερκοιλιακών Ταχυκαρδιών"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%ac%ce%bb%cf%85%cf%83%ce%b7-%ce%ba%ce%bf%ce%bb%cf%80%ce%b9%ce%ba%ce%bf%cf%8d-%cf%80%cf%84%ce%b5%cf%81%cf%85%ce%b3%ce%b9%cf%83%ce%bc%ce%bf%cf%8d/",
+          "label": "Κατάλυση Κολπικού Πτερυγισμού"
+        },
+        {
+          "href": "https://www.tsiachris.gr/%ce%ba%ce%b1%cf%84%ce%ac%ce%bb%cf%85%cf%83%ce%b7-%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%cf%8e%ce%bd-%cf%84%ce%b1%cf%87%cf%85%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%cf%8e%ce%bd/",
+          "label": "Κατάλυση Κοιλιακών Ταχυκαρδιών"
+        },
+        {
+          "href": "https://www.tsiachris.gr/contact/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.tsiachris.gr/dtsiachris@yahoo.com",
+          "label": "dtsiachris@yahoo.com"
+        },
+        {
+          "href": "https://www.tsiachris.gr/privacy-policy/",
+          "label": "Privacy Policy"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "2106926002",
+          "37.98394",
+          "23.760318",
+          "210-6826222",
+          "16.00-21.00",
+          "+210-6926002",
+          "31536000000"
+        ],
+        "emails": [
+          "dtsiachris@yahoo.com",
+          "dtsiachris@yahoo,com"
+        ],
+        "addresses": [
+          "Διευθυνση ΙατρειουΆγγελου Πυρρή 9, Αμπελόκηποι, Αθήνα",
+          "Τοποθεσία ΙατρείουΕπικοινωνία No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα Τηλέφωνο : +210-6926002 Email : dtsiachris@yahoo.com Web : facebook.com Copyright © 2019 Soulmedic Theme All Rights Reserved | Design Themes",
+          "No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/athensheartcenter.gr/?ref=aymt_homepage_panel&eid=ARBGtY-9FOcjQS96XGR8M0V0bgTFoix_CdLuYiwSL0GLOrSYuJAkcUwNcHPeaxOpZ84rhCWcokcsVSTN"
+          },
+          {
+            "href": "https://gr.linkedin.com/in/dimitris-tsiachris-ba481738"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UCaP4Dl-76Mf5vdkQ9tovuPQ?fbclid=IwAR0uj12Iu4tpoPvI4jWHXl_IUWO19qvx_okj0Py6Dpi60h7kWx0kfO64IAg"
+          },
+          {
+            "href": "https://www.facebook.com/athensheartcenter.gr/?eid=ARBCJHfw0y6vE5nBjAwa9yPPlck8kzjw2WUFlEIEBGXV82oO-Uaur6jAljavuqQOh7oZIfrGfOU-wQNC",
+            "label": "facebook.com"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "Τοποθεσία ΙατρείουΕπικοινωνία No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα Τηλέφωνο : +210-6926002 Email : dtsiachris@yahoo.com Web : facebook.com Copyright © 2019 Soulmedic Theme All Rights Reserved | Design Themes",
+      "textContent": "Εργαστήριο Ηλεκτροφυσιολογίας & Βηματοδότησης 2106926002 dtsiachris@yahoo.com Ποιοι Είμαστε Δημήτρης Τσιαχρής Χρήστος Κωνσταντίνος Αντωνίου Δεληγιάννης Γεώργιος Κορδαλής Αθανάσιος Δουνδουλάκης Ιωάννης Λαζαρίδης Κυριάκος Σπανός Αναστάσιος Νίκος Αργυρίου Κωτούλας Σωτήρης Μπότης Μιχάλης Νοσήματα Κολπική Μαρμαρυγή Συγκοπή – Αιφνίδιος Καρδιακός Θάνατος Συγκοπή Αιφνίδιος καρδιακός θάνατος Κοιλιακές Αρρυθμίες Υπερκοιλιακές Αρρυθμίες Διαγνωστικές Εξετάσεις Επεμβατικές Ηλεκτροφυσιολογική Μελέτη Εμφύτευση Μακροχρόνιων Καταγραφέων (Loop Recorders) Μη Επεμβατικές Διαθωρακικό Υπερηχοκαρδιογράφημα (triplex καρδιάς) Διοισοφάγειο Υπερηχοκαρδιογράφημα Δυναμική Υπερηχοκαρδιογραφία (Stress Echo) Δοκιμασία Κόπωσης Holter Πίεσης Holter Ρυθμού Δοκιμασία Ανάκλισης (Tilt test) ‘Ελεγχος Βηματοδοτών Βηματοδότες-Απινιδωτές Εμφύτευση Συμβατικού Βηματοδότη Εμφύτευση Βηματοδότη Χωρίς Καλώδια Εμφύτευση Απινιδωτή Θεραπεία Καρδιακού Επανασυγχρονισμού (Εμφύτευση Αμφικοιλιακού Βηματοδότη) Καταλύσεις – Ablation Κατάλυση Κολπικής Μαρμαρυγής Κατάλυση Υπερκοιλιακών Ταχυκαρδιών Κατάλυση Κολπικού Πτερυγισμού Κατάλυση Κοιλιακών Ταχυκαρδιών Επικοινωνία Menu (function($) { 'use strict'; var map_map_69cbc74c7da87 = null; var coordinate_map_69cbc74c7da87; var isDraggable = $(document).width() > 641 ? true : true; try { var map_map_69cbc74c7da87 = null; var coordinate_map_69cbc74c7da87; coordinate_map_69cbc74c7da87=new google.maps.LatLng(37.98394, 23.760318); var mapOptions= { zoom: 12, center: coordinate_map_69cbc74c7da87, scaleControl: true, streetViewControl: true, mapTypeControl: true, panControl: false, zoomControl: true, scrollwheel: true, draggable: isDraggable, zoomControlOptions: { position: google.maps.ControlPosition.RIGHT_BOTTOM },mapTypeId: google.maps.MapTypeId.ROADMAP,};var map_map_69cbc74c7da87 = new google.maps.Map(document.getElementById('map_69cbc74c7da87'),mapOptions); var x = 'infowindow_open_value'; var marker_map_69cbc74c7da87 = new google.maps.Marker({ position: new google.maps.LatLng(37.98394, 23.760318), animation: google.maps.Animation.DROP, map: map_map_69cbc74c7da87, icon: '' }); google.maps.event.addListener(marker_map_69cbc74c7da87, 'click', toggleBounce);var infowindow = new google.maps.InfoWindow(); infowindow.setContent('<div class=\"map_info_text\" style=\\'color:#000;\\'>AthensHeartCenter</div>');google.maps.event.addListener(marker_map_69cbc74c7da87, 'click', function() { infowindow.open(map_map_69cbc74c7da87,marker_map_69cbc74c7da87); });} catch(e){}; jQuery(document).ready(function($){ google.maps.event.trigger(map_map_69cbc74c7da87, 'resize'); $(window).resize(function(){ google.maps.event.trigger(map_map_69cbc74c7da87, 'resize'); if(map_map_69cbc74c7da87!=null) map_map_69cbc74c7da87.setCenter(coordinate_map_69cbc74c7da87); }); $('.ui-tabs').bind('tabsactivate', function(event, ui) { if($(this).find('.ultimate-map-wrapper').length > 0) { setTimeout(function(){ $(window).trigger('resize'); },200); } }); $('.ui-accordion').bind('accordionactivate', function(event, ui) { if($(this).find('.ultimate-map-wrapper').length > 0) { setTimeout(function(){ $(window).trigger('resize'); },200); } }); $(window).load(function(){ setTimeout(function(){ $(window).trigger('resize'); },200); }); $('.ult_exp_section').select(function(){ if($(map_map_69cbc74c7da87).parents('.ult_exp_section')) { setTimeout(function(){ $(window).trigger('resize'); },200); } }); $(document).on('onUVCModalPopupOpen', function(){ if($(map_map_69cbc74c7da87).parents('.ult_modal-content')) { setTimeout(function(){ $(window).trigger('resize'); },200); } }); $(document).on('click','.ult_tab_li',function(){ $(window).trigger('resize'); setTimeout(function(){ $(window).trigger('resize'); },200); }); }); function toggleBounce() { if (marker_map_69cbc74c7da87.getAnimation() != null) { marker_map_69cbc74c7da87.setAnimation(null); } else { marker_map_69cbc74c7da87.setAnimation(google.maps.Animation.BOUNCE); } } })(jQuery); Στοιχεία Επικοινωνίας ΤηλεφωνοΤηλ Ιατρείου: 2106926002 Τηλ Ιατρικού Κέντρου: 210-6826222 Emaildtsiachris@yahoo.com Διευθυνση ΙατρειουΆγγελου Πυρρή 9, Αμπελόκηποι, Αθήνα Ωραριο Λειτουργιας ΙατρειουΔευτέρα – Παρασκευή 16.00-21.00 Τοποθεσία ΙατρείουΕπικοινωνία No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα Τηλέφωνο : +210-6926002 Email : dtsiachris@yahoo.com Web : facebook.com Copyright © 2019 Soulmedic Theme All Rights Reserved | Design Themes This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.CloseModalPrivacy Cookie and Privacy Settings How we use cookiesEssential Website CookiesOther external servicesPrivacy Policy We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.These cookies are strictly necessary to provide you with services available through our website and to use some of its features. Because these cookies are strictly necessary to deliver the website, you cannot refuse them without impacting how our site functions. You can block or delete them by changing your browser settings and force blocking all cookies on this website.We also use different external services like Google Webfonts, Google Maps and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page. Google Webfont Settings: Click to enable/disable google webfonts. Google Map Settings: Click to enable/disable google maps. Vimeo and Youtube video embeds: Click to enable/disable video embeds.You can read about our cookies and privacy settings in detail on our Privacy Policy Page. Privacy Policy {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"\\/*\"},{\"not\":{\"href_matches\":[\"\\/wp-*.php\",\"\\/wp-admin\\/*\",\"\\/wp-content\\/uploads\\/*\",\"\\/wp-content\\/*\",\"\\/wp-content\\/plugins\\/*\",\"\\/wp-content\\/themes\\/bbpress\\/..\\/*\",\"\\/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} /* <![CDATA[ */ var dttheme_urls = {\"theme_base_url\":\"https:\\/\\/www.tsiachris.gr\\/wp-content\\/themes\\/bbpress\\/..\",\"framework_base_url\":\"https:\\/\\/www.tsiachris.gr\\/wp-content\\/themes\\/bbpress\\/..\\/framework\\/\",\"ajaxurl\":\"https:\\/\\/www.tsiachris.gr\\/wp-admin\\/admin-ajax.php\",\"url\":\"https:\\/\\/www.tsiachris.gr\",\"isRTL\":\"\",\"loadingbar\":\"disable\",\"advOptions\":\"Show Advanced Options\",\"wpnonce\":\"d8ea7c3e2e\",\"enable_ajax_addtocart\":\"\",\"enable_totop\":\"1\",\"nice_scroll\":\"disable\"}; /* ]]> */ /* <![CDATA[ */ function dt_privacy_cookie_setter( cookie_name ) { var toggle = jQuery('.' + cookie_name); toggle.each(function() { if(document.cookie.match(cookie_name)) this.checked = false; }); jQuery('.' + 'dt-switch-' + cookie_name).each(function() { this.className += ' active '; }); toggle.on('click', function() { if(this.checked) { document.cookie = cookie_name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;'; } else { var theDate = new Date(); var oneYearLater = new Date( theDate.getTime() + 31536000000 ); document.cookie = cookie_name + '=true; Path=/; Expires='+oneYearLater.toGMTString()+';'; } }); }; dt_privacy_cookie_setter('dtPrivacyGoogleTrackingDisabled'); dt_privacy_cookie_setter('dtPrivacyGoogleWebfontsDisabled'); dt_privacy_cookie_setter('dtPrivacyGoogleMapsDisabled'); dt_privacy_cookie_setter('dtPrivacyVideoEmbedsDisabled'); /* ]]> */ /* <![CDATA[ */ var dtportfoliofrontendobject = {\"ajaxurl\":\"https:\\/\\/www.tsiachris.gr\\/wp-admin\\/admin-ajax.php\",\"page_builder\":\"visual-composer\",\"elementor_preview_mode\":\"\"}; /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/tsiachris.gr-home-629dad1c/contact-contact-a6ef1cf6.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/tsiachris.gr-home-629dad1c/contact-contact-a6ef1cf6.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.tsiachris.gr/wp-content/uploads/2020/04/Athens-Heart-Center.jpeg",
+          "sourcePageUrl": "https://www.tsiachris.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.tsiachris.gr/contact",
+              "retrievedAt": "2026-03-31T13:08:28.509Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://www.tsiachris.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:28.511Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/tsiachris.gr-home-629dad1c/contact-contact-a6ef1cf6.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "2106926002",
+      "23000000",
+      "+210-6926002",
+      "31536000000",
+      "37.98394",
+      "23.760318",
+      "210-6826222",
+      "16.00-21.00",
+      "140 90 24",
+      "125-130 80",
+      "130-135 85",
+      "2011-2015",
+      "2013-2015",
+      "2012-2013",
+      "2007-2011",
+      "2004-2006",
+      "1995-2002",
+      "16/6/2014",
+      "1-4/11/2012",
+      "30-31/3/2012",
+      "2106862222",
+      "2106862630",
+      "2022-2025 2021-2022",
+      "2013-2021",
+      "2018-2019",
+      "2011-2012",
+      "2022-2025 2023- 2024 2021",
+      "2017-2018",
+      "2004-2011"
+    ],
+    "emails": [
+      "dtsiachris@yahoo.com",
+      "dtsiachris@yahoo,com"
+    ],
+    "addresses": [
+      "Τοποθεσία ΙατρείουΕπικοινωνία No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα Τηλέφωνο : +210-6926002 Email : dtsiachris@yahoo.com Web : facebook.com Copyright © 2019 Soulmedic Theme All Rights Reserved | Design Themes",
+      "No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα",
+      "Διευθυνση ΙατρειουΆγγελου Πυρρή 9, Αμπελόκηποι, Αθήνα"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/athensheartcenter.gr/?ref=aymt_homepage_panel&eid=ARBGtY-9FOcjQS96XGR8M0V0bgTFoix_CdLuYiwSL0GLOrSYuJAkcUwNcHPeaxOpZ84rhCWcokcsVSTN"
+      },
+      {
+        "href": "https://gr.linkedin.com/in/dimitris-tsiachris-ba481738"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCaP4Dl-76Mf5vdkQ9tovuPQ?fbclid=IwAR0uj12Iu4tpoPvI4jWHXl_IUWO19qvx_okj0Py6Dpi60h7kWx0kfO64IAg"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=hMsxbhsl8Kg&ab_channel=%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82%CE%A4%CF%83%CE%B9%CE%B1%CF%87%CF%81%CE%AE%CF%82",
+        "label": "ΠΕΡΙΣΣΟΤΕΡΑ"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=w9O4smkdvJM",
+        "label": "ΠΕΡΙΣΣΟΤΕΡΑ"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=o6tNdm-foOs",
+        "label": "Βηματοδότηση χωρίς καλώδια"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=UybdvoYNLks",
+        "label": "Κατάλυση κολπικής μαρμαρυγής"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=SfD5xfImOJY",
+        "label": "Κατάλυση κοιλιακών αρρυθμιών"
+      },
+      {
+        "href": "https://www.facebook.com/athensheartcenter.gr/?eid=ARBCJHfw0y6vE5nBjAwa9yPPlck8kzjw2WUFlEIEBGXV82oO-Uaur6jAljavuqQOh7oZIfrGfOU-wQNC",
+        "label": "facebook.com"
+      }
+    ],
+    "forms": []
+  },
+  "metadata": {
+    "title": "Home - Tsiachris",
+    "canonicalUrl": "https://www.tsiachris.gr/",
+    "language": "en",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "openGraphTitle": "Home - Tsiachris"
+  },
+  "imageReferences": [
+    {
+      "url": "https://www.tsiachris.gr/wp-content/uploads/2020/04/Athens-Heart-Center.jpeg",
+      "sourcePageUrl": "https://www.tsiachris.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.tsiachris.gr/",
+          "retrievedAt": "2026-03-31T13:08:26.457Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.tsiachris.gr/wp-content/plugins/revslider/public/assets/assets/dummy.png",
+      "sourcePageUrl": "https://www.tsiachris.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.tsiachris.gr/",
+          "retrievedAt": "2026-03-31T13:08:26.457Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.tsiachris.gr/wp-content/uploads/2020/04/Figure-e1588500853327.jpg",
+      "sourcePageUrl": "https://www.tsiachris.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.tsiachris.gr/",
+          "retrievedAt": "2026-03-31T13:08:26.457Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.tsiachris.gr/wp-content/uploads/2020/04/Cryo-part-I.jpg",
+      "sourcePageUrl": "https://www.tsiachris.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.tsiachris.gr/",
+          "retrievedAt": "2026-03-31T13:08:26.457Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.tsiachris.gr/wp-content/uploads/2020/04/cs-dis-e1588501266326.jpg",
+      "sourcePageUrl": "https://www.tsiachris.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.tsiachris.gr/",
+          "retrievedAt": "2026-03-31T13:08:26.457Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.tsiachris.gr/wp-content/uploads/2020/03/tsiachris-dimitrios-kardiologos_0.jpg",
+      "sourcePageUrl": "https://www.tsiachris.gr/pages/typography",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.tsiachris.gr/pages/typography",
+          "retrievedAt": "2026-03-31T13:08:31.874Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.tsiachris.gr/wp-content/uploads/2020/04/banner-01_57.jpg",
+      "sourcePageUrl": "https://www.tsiachris.gr/pages/typography",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.tsiachris.gr/pages/typography",
+          "retrievedAt": "2026-03-31T13:08:31.874Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.tsiachris.gr/wp-content/uploads/2020/04/pfo-banner.jpg",
+      "sourcePageUrl": "https://www.tsiachris.gr/pages/typography",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.tsiachris.gr/pages/typography",
+          "retrievedAt": "2026-03-31T13:08:31.874Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.tsiachris.gr/wp-content/uploads/2021/10/1606167531501.jpg",
+      "sourcePageUrl": "https://www.tsiachris.gr/%ce%b1%ce%bd%cf%84%cf%89%ce%bd%ce%b9%ce%bf%cf%85-%cf%87%cf%81%ce%b7%cf%83%cf%84%ce%bf%cf%82",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.tsiachris.gr/%ce%b1%ce%bd%cf%84%cf%89%ce%bd%ce%b9%ce%bf%cf%85-%cf%87%cf%81%ce%b7%cf%83%cf%84%ce%bf%cf%82",
+          "retrievedAt": "2026-03-31T13:08:32.970Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.tsiachris.gr/wp-content/plugins/js_composer/assets/vc/no_image.png",
+      "sourcePageUrl": "https://www.tsiachris.gr/2742-2",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.tsiachris.gr/2742-2",
+          "retrievedAt": "2026-03-31T13:08:34.356Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "2106926002",
+      "sourcePageUrl": "https://www.tsiachris.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.tsiachris.gr/",
+          "retrievedAt": "2026-03-31T13:08:26.457Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "23000000",
+      "sourcePageUrl": "https://www.tsiachris.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.tsiachris.gr/",
+          "retrievedAt": "2026-03-31T13:08:26.457Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+210-6926002",
+      "sourcePageUrl": "https://www.tsiachris.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.tsiachris.gr/",
+          "retrievedAt": "2026-03-31T13:08:26.457Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "31536000000",
+      "sourcePageUrl": "https://www.tsiachris.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.tsiachris.gr/",
+          "retrievedAt": "2026-03-31T13:08:26.457Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "dtsiachris@yahoo.com",
+      "sourcePageUrl": "https://www.tsiachris.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.tsiachris.gr/",
+          "retrievedAt": "2026-03-31T13:08:26.457Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "dtsiachris@yahoo,com",
+      "sourcePageUrl": "https://www.tsiachris.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.tsiachris.gr/",
+          "retrievedAt": "2026-03-31T13:08:26.457Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Τοποθεσία ΙατρείουΕπικοινωνία No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα Τηλέφωνο : +210-6926002 Email : dtsiachris@yahoo.com Web : facebook.com Copyright © 2019 Soulmedic Theme All Rights Reserved | Design Themes",
+      "sourcePageUrl": "https://www.tsiachris.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.tsiachris.gr/",
+          "retrievedAt": "2026-03-31T13:08:26.457Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα",
+      "sourcePageUrl": "https://www.tsiachris.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.tsiachris.gr/",
+          "retrievedAt": "2026-03-31T13:08:26.457Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "37.98394",
+      "sourcePageUrl": "https://www.tsiachris.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.tsiachris.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:28.509Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "23.760318",
+      "sourcePageUrl": "https://www.tsiachris.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.tsiachris.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:28.509Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210-6826222",
+      "sourcePageUrl": "https://www.tsiachris.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.tsiachris.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:28.509Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "16.00-21.00",
+      "sourcePageUrl": "https://www.tsiachris.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.tsiachris.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:28.509Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Διευθυνση ΙατρειουΆγγελου Πυρρή 9, Αμπελόκηποι, Αθήνα",
+      "sourcePageUrl": "https://www.tsiachris.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.tsiachris.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:28.509Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.tsiachris.gr/contact",
+      "sourcePageUrl": "https://www.tsiachris.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.tsiachris.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:28.509Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "140 90 24",
+      "sourcePageUrl": "https://www.tsiachris.gr/athensheartcenter-2",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.tsiachris.gr/athensheartcenter-2",
+          "retrievedAt": "2026-03-31T13:08:29.895Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "125-130 80",
+      "sourcePageUrl": "https://www.tsiachris.gr/athensheartcenter-2",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.tsiachris.gr/athensheartcenter-2",
+          "retrievedAt": "2026-03-31T13:08:29.895Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "130-135 85",
+      "sourcePageUrl": "https://www.tsiachris.gr/athensheartcenter-2",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.tsiachris.gr/athensheartcenter-2",
+          "retrievedAt": "2026-03-31T13:08:29.895Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2011-2015",
+      "sourcePageUrl": "https://www.tsiachris.gr/pages/typography",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.tsiachris.gr/pages/typography",
+          "retrievedAt": "2026-03-31T13:08:31.874Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2013-2015",
+      "sourcePageUrl": "https://www.tsiachris.gr/pages/typography",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.tsiachris.gr/pages/typography",
+          "retrievedAt": "2026-03-31T13:08:31.874Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2012-2013",
+      "sourcePageUrl": "https://www.tsiachris.gr/pages/typography",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.tsiachris.gr/pages/typography",
+          "retrievedAt": "2026-03-31T13:08:31.874Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2007-2011",
+      "sourcePageUrl": "https://www.tsiachris.gr/pages/typography",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.tsiachris.gr/pages/typography",
+          "retrievedAt": "2026-03-31T13:08:31.874Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2004-2006",
+      "sourcePageUrl": "https://www.tsiachris.gr/pages/typography",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.tsiachris.gr/pages/typography",
+          "retrievedAt": "2026-03-31T13:08:31.874Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1995-2002",
+      "sourcePageUrl": "https://www.tsiachris.gr/pages/typography",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.tsiachris.gr/pages/typography",
+          "retrievedAt": "2026-03-31T13:08:31.874Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "16/6/2014",
+      "sourcePageUrl": "https://www.tsiachris.gr/pages/typography",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.tsiachris.gr/pages/typography",
+          "retrievedAt": "2026-03-31T13:08:31.874Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1-4/11/2012",
+      "sourcePageUrl": "https://www.tsiachris.gr/pages/typography",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.tsiachris.gr/pages/typography",
+          "retrievedAt": "2026-03-31T13:08:31.874Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "30-31/3/2012",
+      "sourcePageUrl": "https://www.tsiachris.gr/pages/typography",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.tsiachris.gr/pages/typography",
+          "retrievedAt": "2026-03-31T13:08:31.874Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2106862222",
+      "sourcePageUrl": "https://www.tsiachris.gr/%ce%b1%ce%bd%cf%84%cf%89%ce%bd%ce%b9%ce%bf%cf%85-%cf%87%cf%81%ce%b7%cf%83%cf%84%ce%bf%cf%82",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.tsiachris.gr/%ce%b1%ce%bd%cf%84%cf%89%ce%bd%ce%b9%ce%bf%cf%85-%cf%87%cf%81%ce%b7%cf%83%cf%84%ce%bf%cf%82",
+          "retrievedAt": "2026-03-31T13:08:32.969Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2106862630",
+      "sourcePageUrl": "https://www.tsiachris.gr/%ce%b1%ce%bd%cf%84%cf%89%ce%bd%ce%b9%ce%bf%cf%85-%cf%87%cf%81%ce%b7%cf%83%cf%84%ce%bf%cf%82",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.tsiachris.gr/%ce%b1%ce%bd%cf%84%cf%89%ce%bd%ce%b9%ce%bf%cf%85-%cf%87%cf%81%ce%b7%cf%83%cf%84%ce%bf%cf%82",
+          "retrievedAt": "2026-03-31T13:08:32.969Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2022-2025 2021-2022",
+      "sourcePageUrl": "https://www.tsiachris.gr/2742-2",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.tsiachris.gr/2742-2",
+          "retrievedAt": "2026-03-31T13:08:34.356Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2013-2021",
+      "sourcePageUrl": "https://www.tsiachris.gr/2742-2",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.tsiachris.gr/2742-2",
+          "retrievedAt": "2026-03-31T13:08:34.356Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2018-2019",
+      "sourcePageUrl": "https://www.tsiachris.gr/2742-2",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.tsiachris.gr/2742-2",
+          "retrievedAt": "2026-03-31T13:08:34.356Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2011-2012",
+      "sourcePageUrl": "https://www.tsiachris.gr/2742-2",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.tsiachris.gr/2742-2",
+          "retrievedAt": "2026-03-31T13:08:34.356Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2022-2025 2023- 2024 2021",
+      "sourcePageUrl": "https://www.tsiachris.gr/2742-2",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.tsiachris.gr/2742-2",
+          "retrievedAt": "2026-03-31T13:08:34.356Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2017-2018",
+      "sourcePageUrl": "https://www.tsiachris.gr/2742-2",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.tsiachris.gr/2742-2",
+          "retrievedAt": "2026-03-31T13:08:34.356Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2004-2011",
+      "sourcePageUrl": "https://www.tsiachris.gr/2742-2",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.tsiachris.gr/2742-2",
+          "retrievedAt": "2026-03-31T13:08:34.356Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://www.tsiachris.gr/",
+    "finalOrigin": "https://www.tsiachris.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://www.tsiachris.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:08:25.999Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [],
+      "disallowRules": [],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://www.tsiachris.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:08:25.136Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://www.tsiachris.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.459Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/athensheartcenter-2",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/pages/typography",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%ce%b1%ce%bd%cf%84%cf%89%ce%bd%ce%b9%ce%bf%cf%85-%cf%87%cf%81%ce%b7%cf%83%cf%84%ce%bf%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/2742-2",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%ce%ba%ce%bf%cf%81%ce%b4%ce%b1%ce%bb%ce%b7%cf%83-%ce%b1%ce%b8%ce%b1%ce%bd%ce%b1%cf%83%ce%b9%ce%bf%cf%83",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%ce%b4%ce%bf%cf%85%ce%bd%ce%b4%ce%bf%cf%85%ce%bb%ce%b1%ce%ba%ce%b7%cf%83-%ce%b9%cf%89%ce%b1%ce%bd%ce%bd%ce%b7%cf%83",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf%cf%82-%ce%bb%ce%b1%ce%b6%ce%b1%cf%81%ce%b9%ce%b4%ce%b7%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%cf%83%cf%80%ce%b1%ce%bd%cf%8c%cf%82-%ce%b1%ce%bd%ce%b1%cf%83%cf%84%ce%ac%cf%83%ce%b9%ce%bf%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%ce%bd%ce%af%ce%ba%ce%bf%cf%82-%ce%b1%cf%81%ce%b3%cf%85%cf%81%ce%af%ce%bf%cf%85",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%ce%ba%cf%89%cf%84%ce%bf%cf%8d%ce%bb%ce%b1%cf%82-%cf%83%cf%89%cf%84%ce%ae%cf%81%ce%b7%cf%83",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%ce%bc%cf%80%cf%8c%cf%84%ce%b7%cf%82-%ce%bc%ce%b9%cf%87%ce%ac%ce%bb%ce%b7%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%ce%bd%ce%bf%cf%83%ce%b7%ce%bc%ce%b1%cf%84%ce%b1-2",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%ce%ba%ce%bf%ce%bb%cf%80%ce%b9%ce%ba%ce%b7-%ce%bc%ce%b1%cf%81%ce%bc%ce%b1%cf%81%cf%85%ce%b3%ce%b7",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%cf%83%cf%85%ce%b3%ce%ba%ce%bf%cf%80%ce%b7-%ce%b1%ce%b9%cf%86%ce%bd%ce%b9%ce%b4%ce%b9%ce%bf%cf%83-%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%b1%ce%ba%ce%bf%cf%83-%ce%b8%ce%b1%ce%bd%ce%b1%cf%84%ce%bf%cf%83",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%cf%83%cf%8d%ce%bd%ce%b4%cf%81%ce%bf%ce%bc%ce%bf-brugada",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%ce%b1%ce%b9%cf%86%ce%bd%ce%b9%ce%b4%ce%b9%ce%bf%cf%82_%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%ce%b1%ce%ba%cf%8c%cf%82_%ce%b8%ce%ac%ce%bd%ce%b1%cf%84%ce%bf%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%cf%85%cf%80%ce%b5%cf%81%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%ce%b5%cf%83-%ce%b1%cf%81%cf%81%cf%85%ce%b8%ce%bc%ce%b9%ce%b5%cf%83/%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%ce%b5%cf%83-%ce%b1%cf%81%cf%81%cf%85%ce%b8%ce%bc%ce%b9%ce%b5%cf%83",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:26.460Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/contact",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:28.511Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%cf%85%cf%80%ce%b5%cf%81%ce%ba%ce%bf%ce%b9%ce%bb%ce%b9%ce%b1%ce%ba%ce%b5%cf%83-%ce%b1%cf%81%cf%81%cf%85%ce%b8%ce%bc%ce%b9%ce%b5%cf%83",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/contact",
+        "timestamp": "2026-03-31T13:08:28.511Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/athensheartcenter-2",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:29.897Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%ce%b4%ce%b9%ce%b1%ce%b3%ce%bd%cf%89%cf%83%cf%84%ce%b9%ce%ba%ce%b5%cf%83-%ce%b5%ce%be%ce%b5%cf%84%ce%b1%cf%83%ce%b5%ce%b9%cf%83",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/athensheartcenter-2",
+        "timestamp": "2026-03-31T13:08:29.898Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/pages/typography",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:31.876Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%ce%b5%cf%80%ce%b5%ce%bc%ce%b2%ce%b1%cf%84%ce%b9%ce%ba%ce%b5%cf%83",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/pages/typography",
+        "timestamp": "2026-03-31T13:08:31.876Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%ce%b1%ce%bd%cf%84%cf%89%ce%bd%ce%b9%ce%bf%cf%85-%cf%87%cf%81%ce%b7%cf%83%cf%84%ce%bf%cf%82",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:32.976Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%ce%b7%ce%bb%ce%b5%ce%ba%cf%84%cf%81%ce%bf%cf%86%cf%85%cf%83%ce%b9%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%ba%ce%b7-%ce%bc%ce%b5%ce%bb%ce%b5%cf%84%ce%b7",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/%ce%b1%ce%bd%cf%84%cf%89%ce%bd%ce%b9%ce%bf%cf%85-%cf%87%cf%81%ce%b7%cf%83%cf%84%ce%bf%cf%82",
+        "timestamp": "2026-03-31T13:08:32.977Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/2742-2",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.tsiachris.gr/",
+        "timestamp": "2026-03-31T13:08:34.359Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%85%cf%83%ce%b7-%ce%bc%ce%b1%ce%ba%cf%81%ce%bf%cf%87%cf%81%ce%bf%ce%bd%ce%b9%cf%89%ce%bd-%ce%ba%ce%b1%cf%84%ce%b1%ce%b3%cf%81%ce%b1%cf%86%ce%b5%cf%89%ce%bd-loop",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.tsiachris.gr/2742-2",
+        "timestamp": "2026-03-31T13:08:34.359Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:08:38.045Z"
+      },
+      {
+        "url": "https://www.tsiachris.gr/contact",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:08:40.049Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

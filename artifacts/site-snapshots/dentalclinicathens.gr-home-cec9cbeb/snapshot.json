@@ -1,0 +1,134 @@
+{
+  "domain": "dentalclinicathens.gr",
+  "collectedAt": "2026-03-31T13:08:09.879Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/dentalclinicathens.gr-home-cec9cbeb",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://dentalclinicathens.gr/",
+      "finalUrl": "https://dentalclinicathens.gr/",
+      "fetchedAt": "2026-03-31T13:08:08.446Z",
+      "metadata": {
+        "title": "Dental Clinic Athens is under construction",
+        "language": "en"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Η σελίδας μας είναι υπό κατασκευή"
+        }
+      ],
+      "internalLinks": [],
+      "forms": [],
+      "visibleElements": {
+        "phones": [],
+        "emails": [],
+        "addresses": [],
+        "socialLinks": [],
+        "forms": []
+      },
+      "textContent": "Η σελίδας μας είναι υπό κατασκευή",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/dentalclinicathens.gr-home-cec9cbeb/homepage--cec9cbeb.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/dentalclinicathens.gr-home-cec9cbeb/homepage--cec9cbeb.txt",
+      "imageReferences": [
+        {
+          "url": "https://dentalclinicathens.gr/wp-content/plugins/under-construction-page/themes/under_construction_text/under_construction_text.png",
+          "alt": "Site is Under Construction",
+          "sourcePageUrl": "https://dentalclinicathens.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalclinicathens.gr/",
+              "retrievedAt": "2026-03-31T13:08:08.445Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://dentalclinicathens.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.446Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/dentalclinicathens.gr-home-cec9cbeb/homepage-page-cec9cbeb.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [],
+    "emails": [],
+    "addresses": [],
+    "socialLinks": [],
+    "forms": []
+  },
+  "metadata": {
+    "title": "Dental Clinic Athens is under construction",
+    "language": "en"
+  },
+  "imageReferences": [
+    {
+      "url": "https://dentalclinicathens.gr/wp-content/plugins/under-construction-page/themes/under_construction_text/under_construction_text.png",
+      "alt": "Site is Under Construction",
+      "sourcePageUrl": "https://dentalclinicathens.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalclinicathens.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.445Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [],
+  "crawlReport": {
+    "requestedUrl": "https://dentalclinicathens.gr/",
+    "finalOrigin": "https://dentalclinicathens.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://dentalclinicathens.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:08:08.230Z",
+      "status": "present",
+      "allowRules": [],
+      "disallowRules": [],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://dentalclinicathens.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:08:07.596Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 1,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://dentalclinicathens.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://dentalclinicathens.gr/",
+        "timestamp": "2026-03-31T13:08:08.446Z"
+      },
+      {
+        "url": "https://dentalclinicathens.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:08:09.830Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

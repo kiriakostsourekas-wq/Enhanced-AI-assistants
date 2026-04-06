@@ -1,0 +1,3045 @@
+{
+  "domain": "centralclinic.gr",
+  "collectedAt": "2026-03-31T13:18:53.735Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/centralclinic.gr-home-9d198671",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://www.centralclinic.gr/",
+      "finalUrl": "https://www.centralclinic.gr/",
+      "fetchedAt": "2026-03-31T13:18:43.484Z",
+      "metadata": {
+        "title": "Αρχική - Central Clinic",
+        "language": "en"
+      },
+      "headings": [],
+      "internalLinks": [
+        {
+          "href": "https://www.centralclinic.gr/cookie-settings",
+          "label": "Ρυθμίσεις Cookies"
+        },
+        {
+          "href": "https://www.centralclinic.gr/"
+        },
+        {
+          "href": "https://www.centralclinic.gr/en/"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/profile/",
+          "label": "Η Κλινική"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/covid/",
+          "label": "Covid-19"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/vision-values-goals/",
+          "label": "Όραμα, Αξίες, Στόχοι"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/organisation-chart/",
+          "label": "Οργανωτική Δομή"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/clinicenvironmentalpolicy/",
+          "label": "Περιβαλλοντική Πολιτική"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/quality-of-service/",
+          "label": "Ποιότητα Υπηρεσιών"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/politik/",
+          "label": "Πολιτική Απορρήτου"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/clinicfoodsafetypolicy/",
+          "label": "Πολιτική Ασφάλειας Τροφίμων"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/Policy/",
+          "label": "Πολιτική κατά της βίας και της παρενόχλησης"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/clinicqualitypolicy/",
+          "label": "Πολιτική Ποιότητας"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/news/",
+          "label": "Νέα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/balance/",
+          "label": "Οικονομικά Στοιχεία"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/photogallery/",
+          "label": "Photo Gallery"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/draseis/",
+          "label": "Εταιρική Κοινωνική Ευθύνη"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/timolatalogos/",
+          "label": "Τιμοκατάλογος"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/",
+          "label": "Ιατρικά Τμήματα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/doctors/by-specialty",
+          "label": "Ιατροί"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/doctors/by-specialty/",
+          "label": "Ανά ειδικότητα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/doctors/alphabetically/",
+          "label": "Αλφαβητικό Ευρετήριο"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/departments-and-clinics/",
+          "label": "Τμήματα & Κλινικές"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/departments-and-clinics/pathology/",
+          "label": "Παθολογικός Τομέας"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/departments-and-clinics/surgery/",
+          "label": "Χειρουργικός Τομέας"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/departments-and-clinics/orthopaedic/",
+          "label": "Ορθοπαιδικός Τομέας"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/outpatients/",
+          "label": "Εξωτερικά Ιατρεία"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/diagnostic-laboratories/",
+          "label": "Διαγνωστικά Εργαστήρια"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/special-units-departments/",
+          "label": "Ειδικές Μονάδες / Τμήματα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/telephone-numbers/",
+          "label": "Ραντεβού & Χρήσιμες Πληροφορίες"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/admission-procedure/",
+          "label": "Διαδικασία Εισαγωγής"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/social-security-organisations/",
+          "label": "Ασφαλιστικά Ταμεία"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/visiting-hours/",
+          "label": "Επισκεπτήριο"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/discharged-from-the-Clinic/",
+          "label": "Εξιτήρια"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/useful-telephone-numbers/",
+          "label": "Χρήσιμα Τηλέφωνα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/useful-forms/",
+          "label": "Χρήσιμα Έντυπα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/faq/",
+          "label": "Συχνές Ερωτήσεις"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/medical-records/",
+          "label": "Ιατρικός Φάκελος"
+        },
+        {
+          "href": "https://www.centralclinic.gr/symvaseis/insurance-companies/",
+          "label": "Συμβάσεις"
+        },
+        {
+          "href": "https://www.centralclinic.gr/symvaseis/eopyy/",
+          "label": "ΕΟΠΥΥ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/Testimonials/",
+          "label": "Σχόλια Ασθενών"
+        },
+        {
+          "href": "https://www.centralclinic.gr/accessibility/",
+          "label": "Πρόσβαση στην κλινική"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/diagnostic-laboratories/nuclear-medicine/",
+          "label": "ΠΥΡΗΝΙΚΗ ΙΑΤΡΙΚΗ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/diagnostic-laboratories/nuclear-medicine/tl-201/",
+          "label": "TL-201"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/diagnostic-laboratories/nuclear-medicine/radiotracers/",
+          "label": "TΕΧΝΗΤΙΟΠΑΡΑΓΩΓΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/diagnostic-laboratories/neurophysiology/",
+          "label": "ΝΕΥΡΟΦΥΣΙΟΛΟΓΙΚΟ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/orthopaedics",
+          "label": "ΕΠΙΣΤΗΜΟΝΙΚΗ ΒΙΒΛΙΟΘΗΚΗ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/orthopaedics/",
+          "label": "ΟΡΘΟΠΑΙΔΙΚΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/surgical-intervention/",
+          "label": "ΧΕΙΡΟΥΡΓΙΚΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/pulmonary-conditions/",
+          "label": "ΠΝΕΥΜΟΝΟΛΟΓΙΚΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/rheumatology/",
+          "label": "ΡΕΥΜΑΤΟΛΟΓΙΚΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/urology/",
+          "label": "ΟΥΡΟΛΟΓΙΚΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/plastic-surgery/",
+          "label": "ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/other-news-articles/",
+          "label": "ΛΟΙΠΑ ΘΕΜΑΤΑ / ΑΡΘΡΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/news/news-h-central-clinic-athens-paroysiazei-oloklhrwmena-prolhptika-check-up-gia-andres-kai-gynaikes",
+          "label": "Μάθετε περισσότερα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/news/news-h-central-clinic-athens-sto-1o-forum-ygioys-makrozwias",
+          "label": "Μάθετε περισσότερα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/urgent/"
+        },
+        {
+          "href": "https://www.centralclinic.gr/contactus/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/jobs/",
+          "label": "ΘΕΣΕΙΣ ΕΡΓΑΣΙΑΣ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/links/",
+          "label": "ΣΥΝΔΕΣΜΟΙ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/sitemap/",
+          "label": "SITEMAP"
+        },
+        {
+          "href": "https://www.centralclinic.gr/privacy-policy",
+          "label": "Πολιτική Απορρήτου"
+        },
+        {
+          "href": "https://www.centralclinic.gr/cookie-policy",
+          "label": "Πολιτική Cookies"
+        },
+        {
+          "href": "https://www.centralclinic.gr/accessibility-statement",
+          "label": "Δήλωση Προσβασιμότητας"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.centralclinic.gr/",
+          "method": "post",
+          "purposeHint": "booking",
+          "fieldNames": [
+            "__VIEWSTATE",
+            "__VIEWSTATEGENERATOR",
+            "__EVENTVALIDATION",
+            "ctl00$TopSection1$txtSearch",
+            "btnSeach",
+            "ctl00$TopSection1$txtSearchMobile",
+            "btnSeachmobile"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "__VIEWSTATE",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "__VIEWSTATEGENERATOR",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "__EVENTVALIDATION",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "ctl00$TopSection1$txtSearch",
+              "type": "text",
+              "required": false
+            },
+            {
+              "name": "btnSeach",
+              "type": "image",
+              "required": false
+            },
+            {
+              "name": "ctl00$TopSection1$txtSearchMobile",
+              "type": "text",
+              "required": false
+            },
+            {
+              "name": "btnSeachmobile",
+              "type": "image",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "210 3674043-2103674028",
+          "002829401000",
+          "210-3674041",
+          "26/01/2026",
+          "02/12/2025",
+          "+30 210 36 74 000",
+          "+30 210 36 74 063"
+        ],
+        "emails": [
+          "operationdept@centralclinic.gr",
+          "ccaa@centralclinic.gr"
+        ],
+        "addresses": [
+          "ΕΠΙΚΟΙΝΩΝΙΑ ΘΕΣΕΙΣ ΕΡΓΑΣΙΑΣ ΣΥΝΔΕΣΜΟΙ SITEMAP Ασκληπιού 31, Αθήνα 106 80 +30 210 36 74 000 +30 210 36 74 063 Αριθμός ΓΕΜΗ: 002829401000 ccaa@centralclinic.gr Follow us Πολιτική Απορρήτου Πολιτική Cookies Ρυθμίσεις cookies Δήλωση Προσβασιμότητας Copyright 2025 Central Clinic CREATED BY DOPE STUDIO",
+          "Ασκληπιού 31, Αθήνα 106 80"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.youtube.com/user/ATHENSCENTRALCLINIC"
+          },
+          {
+            "href": "https://www.linkedin.com/company/centralclinicathens/"
+          },
+          {
+            "href": "https://www.facebook.com/CentralClinicAthens",
+            "label": "Follow us"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.centralclinic.gr/",
+            "method": "post",
+            "purposeHint": "booking",
+            "fieldNames": [
+              "__VIEWSTATE",
+              "__VIEWSTATEGENERATOR",
+              "__EVENTVALIDATION",
+              "ctl00$TopSection1$txtSearch",
+              "btnSeach",
+              "ctl00$TopSection1$txtSearchMobile",
+              "btnSeachmobile"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "__VIEWSTATE",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "__VIEWSTATEGENERATOR",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "__EVENTVALIDATION",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "ctl00$TopSection1$txtSearch",
+                "type": "text",
+                "required": false
+              },
+              {
+                "name": "btnSeach",
+                "type": "image",
+                "required": false
+              },
+              {
+                "name": "ctl00$TopSection1$txtSearchMobile",
+                "type": "text",
+                "required": false
+              },
+              {
+                "name": "btnSeachmobile",
+                "type": "image",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "ΕΠΙΚΟΙΝΩΝΙΑ ΘΕΣΕΙΣ ΕΡΓΑΣΙΑΣ ΣΥΝΔΕΣΜΟΙ SITEMAP Ασκληπιού 31, Αθήνα 106 80 +30 210 36 74 000 +30 210 36 74 063 Αριθμός ΓΕΜΗ: 002829401000 ccaa@centralclinic.gr Follow us Πολιτική Απορρήτου Πολιτική Cookies Ρυθμίσεις cookies Δήλωση Προσβασιμότητας Copyright 2025 Central Clinic CREATED BY DOPE STUDIO",
+      "textContent": "Σεβόμαστε την ιδιωτικότητά σας Χρησιμοποιούμε cookies ώστε να κάνουμε ακόμα καλύτερη την εμπειρία σας στην ιστοσελίδα μας καθώς και για να διασφαλιστεί η αποτελεσματική λειτουργία της. Μπορείτε να κάνετε κλικ στο κουμπί «αποδοχή όλων» για να μπορέσουμε να προσαρμόσουμε το περιεχόμενο της ιστοσελίδας μας στις προτιμήσεις σας. Εναλλακτικά, μπορείτε να επιλέξετε τις κατηγορίες των cookies που επιθυμείτε , πατώντας στις Ρυθμίσεις Cookies. Αποδοχη ολων Δεν αποδεχομαι //<![CDATA[ $(function() { $('#showsearch').click(function() { $('.searchform').fadeToggle(\"slow\"); }); $('#ctl00_TopSection1_txtSearch').Watermark('Αναζήτηση', '#BEBEBE'); $('#ctl00_TopSection1_txtSearchMobile').Watermark('Αναζήτηση', '#BEBEBE'); $('#btnSeach').click(function(e) { e.preventDefault(); doSearch(); }); $('#btnSeachmobile').click(function(e) { e.preventDefault(); doSearchMobile(); }); $('#ctl00_TopSection1_txtSearch').keypress(function(e) { if (e.which == 13) { e.preventDefault(); doSearch(); } }); $('#ctl00_TopSection1_txtSearchMobile').keypress(function(e) { if (e.which == 13) { e.preventDefault(); doSearchMobile(); } }); }); function doSearch() { var txt = $('#ctl00_TopSection1_txtSearch').val(); if (($.trim(txt) != '') && (txt != 'Search')) { window.location = '/search/?terms=' + escape(txt); } } function doSearchMobile() { var txt = $('#ctl00_TopSection1_txtSearchMobile').val(); if (($.trim(txt) != '') && (txt != 'Search')) { window.location = '/search/?terms=' + escape(txt); } } //]]> Η ΚλινικήCovid-19 Προφίλ Όραμα, Αξίες, Στόχοι Οργανωτική Δομή Περιβαλλοντική Πολιτική Ποιότητα Υπηρεσιών Πολιτική Απορρήτου Πολιτική Ασφάλειας Τροφίμων Πολιτική κατά της βίας και της παρενόχλησης Πολιτική Ποιότητας Νέα Οικονομικά Στοιχεία Photo Gallery Εταιρική Κοινωνική Ευθύνη Τιμοκατάλογος Ιατρικά ΤμήματαΙατροί Ανά ειδικότητα Αλφαβητικό Ευρετήριο Τμήματα & Κλινικές Παθολογικός Τομέας Χειρουργικός Τομέας Ορθοπαιδικός Τομέας Εξωτερικά Ιατρεία Διαγνωστικά Εργαστήρια Ειδικές Μονάδες / Τμήματα Ραντεβού & Χρήσιμες ΠληροφορίεςΤηλέφωνα για Ραντεβού Διαδικασία Εισαγωγής Ασφαλιστικά Ταμεία Επισκεπτήριο Εξιτήρια Χρήσιμα Τηλέφωνα Χρήσιμα Έντυπα Συχνές Ερωτήσεις Ιατρικός Φάκελος ΣυμβάσειςΑσφαλιστικές Εταιρείες ΕΟΠΥΥ Σχόλια Ασθενών Πρόσβαση στην κλινική Η ΚΛΙΝΙΚΗCOVID-19ΠΡΟΦΙΛΟΡΑΜΑ, ΑΞΙΕΣ, ΣΤΟΧΟΙΟΡΓΑΝΩΤΙΚΗ ΔΟΜΗΠΕΡΙΒΑΛΛΟΝΤΙΚΗ ΠΟΛΙΤΙΚΗΠΟΙΟΤΗΤΑ ΥΠΗΡΕΣΙΩΝΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥΠΟΛΙΤΙΚΗ ΑΣΦΑΛΕΙΑΣ ΤΡΟΦΙΜΩΝΠΟΛΙΤΙΚΗ ΚΑΤΑ ΤΗΣ ΒΙΑΣ ΚΑΙ ΤΗΣ ΠΑΡΕΝΟΧΛΗΣΗΣΠΟΛΙΤΙΚΗ ΠΟΙΟΤΗΤΑΣΝΕΑΟΙΚΟΝΟΜΙΚΑ ΣΤΟΙΧΕΙΑPHOTO GALLERYΕΤΑΙΡΙΚΗ ΚΟΙΝΩΝΙΚΗ ΕΥΘΥΝΗΤΙΜΟΚΑΤΑΛΟΓΟΣ ΙΑΤΡΙΚΑ ΤΜΗΜΑΤΑΙΑΤΡΟΙΑΝΑ ΕΙΔΙΚΟΤΗΤΑΑΛΦΑΒΗΤΙΚΟ ΕΥΡΕΤΗΡΙΟΤΜΗΜΑΤΑ & ΚΛΙΝΙΚΕΣΠΑΘΟΛΟΓΙΚΟΣ ΤΟΜΕΑΣΧΕΙΡΟΥΡΓΙΚΟΣ ΤΟΜΕΑΣΟΡΘΟΠΑΙΔΙΚΟΣ ΤΟΜΕΑΣΕΞΩΤΕΡΙΚΑ ΙΑΤΡΕΙΑΔΙΑΓΝΩΣΤΙΚΑ ΕΡΓΑΣΤΗΡΙΑΠΥΡΗΝΙΚΗ ΙΑΤΡΙΚΗTL-201TΕΧΝΗΤΙΟΠΑΡΑΓΩΓΑΝΕΥΡΟΦΥΣΙΟΛΟΓΙΚΟΕΙΔΙΚΕΣ ΜΟΝΑΔΕΣ / ΤΜΗΜΑΤΑ ΡΑΝΤΕΒΟΥ & ΧΡΗΣΙΜΕΣ ΠΛΗΡΟΦΟΡΙΕΣΤΗΛΕΦΩΝΑ ΓΙΑ ΡΑΝΤΕΒΟΥΔΙΑΔΙΚΑΣΙΑ ΕΙΣΑΓΩΓΗΣΑΣΦΑΛΙΣΤΙΚΑ ΤΑΜΕΙΑΕΠΙΣΚΕΠΤΗΡΙΟΕΞΙΤΗΡΙΑΧΡΗΣΙΜΑ ΤΗΛΕΦΩΝΑΧΡΗΣΙΜΑ ΕΝΤΥΠΑΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣΙΑΤΡΙΚΟΣ ΦΑΚΕΛΟΣ ΣΥΜΒΑΣΕΙΣΑΣΦΑΛΙΣΤΙΚΕΣ ΕΤΑΙΡΕΙΕΣΕΟΠΥΥ ΣΧΟΛΙΑ ΑΣΘΕΝΩΝ ΠΡΟΣΒΑΣΗ ΣΤΗΝ ΚΛΙΝΙΚΗ ΕΠΙΣΤΗΜΟΝΙΚΗ ΒΙΒΛΙΟΘΗΚΗΟΡΘΟΠΑΙΔΙΚΑΧΕΙΡΟΥΡΓΙΚΑΠΝΕΥΜΟΝΟΛΟΓΙΚΑΡΕΥΜΑΤΟΛΟΓΙΚΑΟΥΡΟΛΟΓΙΚΑΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗΛΟΙΠΑ ΘΕΜΑΤΑ / ΑΡΘΡΑ jQuery(document).ready(function($) { sliderTopImages(); }); Φροντίζουμε τον άνθρωπο Φροντίζουμε τον άνθρωπο Φροντίζουμε τον άνθρωπο Φροντίζουμε τον άνθρωπο Φροντίζουμε τον άνθρωπο Φροντίζουμε τον άνθρωπο Συνεχής αναβάθμιση ιατροτεχνολογικού εξοπλισμού Αυστηρός εσωτερικός κανονισμός λειτουργίας Επίτευξη υψηλών ποσοστών επιτυχών επεμβάσεων ΚΑΛΩΣ ΗΡΘΑΤΕ Η Κεντρική Κλινική Αθηνών, παραμένει πάντα δίπλα στις ανάγκες των ασθενών. Έτσι και στις Άγιες αυτές ημέρες, θα εφημερεύει όλο το 24ώρο για τις βασικές ειδικότητες και με on call υπηρεσία για τις υπόλοιπες ειδικότητες. Καλό θα ήταν, να προηγηθεί ενημερωτικό τηλεφώνημα πριν την έλευση στην Κλινική. Ευχαριστούμε πολύ. The Central Clinic of Athens always remains close to the patients needs. Therefore, on these Holy days, we will be on duty 24 hours a day for the basic specialties and with an on-call service for any other specialty. It would be good to make an informative phone call before coming to the Clinic. Thank you very much. Συμμετέχουμε στο Νέο Πρόγραμμα του ΕΟΠΥΥ Η Κεντρική Κλινική Αθηνών συμμετέχει στο πρόγραμμα του Υπουργείου Υγείας για δωρεάν απογευματινά χειρουργεία. ✔️ Το πρόγραμμα αφορά ασθενείς που είναι στη λίστα αναμονής για χειρουργείο σε δημόσιο νοσοκομείο και περιμένουν πάνω από τέσσερις μήνες. Μέσα από αυτή τη δράση, οι ασθενείς μπορούν να κάνουν το χειρουργείο τους νωρίτερα σε συνεργαζόμενες ιδιωτικές κλινικές χωρίς κανένα κόστος. Το Υπουργείο παρέχει ένα ειδικό voucher για να καλύψει τα έξοδα της επέμβασης. ✔️ Στόχος είναι η ταχύτερη εξυπηρέτηση των ασθενών, μειώνοντας τους χρόνους αναμονής για τακτικά χειρουργεία. ΕΞΕΤΑΣΕΙΣ \"ΠΡΟΛΑΜΒΑΝΩ\" ΓΙΑ ΤΗΝ ΑΝΤΙΜΕΤΩΠΙΣΗ ΤΩΝ ΚΑΡΔΙΑΓΓΕΙΑΚΩΝ ΠΑΘΗΣΕΩΝ Η πρόληψη και πρώιμη διάγνωση αποτελούν βασικά στοιχεία της σύγχρονης ιατρικής προσέγγισης και αποτελούν βασικό κανόνα που ακολουθεί και η Κεντρική Κλινική Αθηνών. Έτσι και τώρα, ακολουθώντας το κάλεσμα του Υπουργείου Υγείας στο πλαίσιο του Εθνικού Προγράμματος Πρόληψης «Προλαμβάνω», προσφέρει δωρεάν προληπτικές εξετάσεις για την έγκαιρη διάγνωση και Αντιμετώπιση του Καρδιαγγειακού Κινδύνου Αφορά άνδρες και γυναίκες ηλικίας 30-70 ετών με ενεργό ΑΜΚΑ. Οι δωρεάν εξετάσεις περιλαμβάνουν: Αιματολογικές εξετάσεις για τον έλεγχο λιπιδαιμικού προφίλ (ολική χοληστερόλη, LDL, HDL, τριγλυκερίδια), σακχάρου αίματος και γενική αίματος. Εξέταση για καρδιολογικό έλεγχο στεφανιαίας νόσου (Σημ.: Η εξέταση αυτή παρέχεται μόνον εφόσον έχει προηγηθεί η αιματολογική εξέταση του λιπιδαιμικού προφίλ και μόνον εφόσον τα αποτελέσματα δείξουν ότι χρειάζεται να γίνει καρδιολογικός έλεγχος για παρουσία ή απουσία στεφανιαίας νόσου.) Σημείωση: Για τις εξετάσεις αυτές, του προγράμματος «Προλαμβάνω», δεν απαιτείται παραπεμπτικό από γιατρό. Το μόνο που χρειάζεστε είναι ο κωδικός παραπομπής που σας έχει αποσταλεί με SMS ή μέσω meil, εφόσον έχετε άυλη συνταγογράφηση. Σε περίπτωση που δεν υπάρχει άυλη συνταγογράφηση, μπορείτε να εξυπηρετηθείτε και μόνον με τον ΑΜΚΑ σας. Tα υπερσύγχρονα τμήματα της Κεντρικής Κλινικής Αθηνών προσφέρουν ολοκληρωμένες υπηρεσίες προληπτικών ελέγχων, σύγχρονες εγκαταστάσεις και εξοπλισμό τεχνολογίας αιχμής. Είναι στελεχωμένα με άριστα εκπαιδευμένο, εξειδικευμένο και έμπειρο ιατρικό και νοσηλευτικό προσωπικό. Έλεγχος Μαστού για το «Μήνα Μαστού» Οι κορυφαίοι επιστήμονες και το εξειδικευμένο προσωπικό της Κεντρικής Κλινικής Αθηνών είναι δίπλα σας για να σας προσφέρουν ολοκληρωμένες και προσωποποιημένες υπηρεσίες. Γνωρίστε το Κέντρο Μαστού της Κλινικής μας και τις υπηρεσίες που προσφέρει για τον Οκτώβριο – το Μήνα Μαστού. Αναλυτικά ο έλεγχος για όσες εξεταζόμενες δεν έχουν το αντίστοιχο παραπεμπτικό περιλαμβάνει: Ψηφιακή Μαστογραφία στην προνομιακή τιμή των 35€. Ψηφιακή Μαστογραφία & Τομοσύνθεση στην προνομιακή τιμή των 45€. Ψηφιακή Μαστογραφία και Υπερηχογράφημα Μαστών, στην προνομιακή τιμή των 50€. Ψηφιακή Μαστογραφία & Τομοσύνθεση και Υπερηχογράφημα Μαστών, στην προνομιακή τιμή των 65€. Δωρεάν Κλινική εξέταση από εξειδικευμένο Μαστολόγο του Κέντρου Μαστού μας καθημερινά 10:00-13:00. Οι εξετάσεις πραγματοποιούνται κατόπιν ραντεβού στο Ακτινολογικό Τμήμα της Κεντρικής Κλινικής στο ισόγειο Τηλ. Επικοινωνίας: 210 3674043-2103674028, Δευτέρα - Παρασκευή 08:00 - 17:00. Αρ. ΓΕΜΗ: 002829401000 Με βάση απόφαση του Υπουργού Ανάπτυξης, από 6/1/2022 και εξής, οι τιμές των εξετάσεων Covid-19, της Κεντρικής Κλινικής Αθηνών, διαμορφώνονται όπως παρακάτω: Τιμοκατάλογος εξετάσεων Covid-19 (εξέταση στην Κεντρική Κλινική Αθηνών) PCR test: 47€ Rapid Antigen Test: 10€ --- Following regulation imposed by the Greek Government, Covid-19 test prices adopted by CENTRAL CLINIC OF ATHENS, are as follows (6/1/2022 onwards): Covid-19 tests (Sample collection at Central Clinic of Athens) PCR test: 47€ Rapid Antigen Test: 10€ Covid-19 testing (PCR and Antigen Rapid tests) Walk in We are at your disposal, 7 days a week, from 7:30am – 8:00pm. (31, Asklipiou str., Athens) Book an appointment Please request an appointment through email (operationdept@centralclinic.gr) or through GOOGLE BUSINESS and we shall confirm ASAP. Sample collection at your place is also available, (within the area of Athens). Please call 210-3674041, 35 from 7:30am - 4:00pm. --- Εξέταση Covid-19 (PCR και Αντιγονικό Rapid test) Χωρίς RDV Είμαστε στην διάθεσή σας, 7 ημέρες την εβδομάδα, από 7:30πμ – 8:00μμ (Ασκληπιού 31 & Ναυαρίνου, Αθήνα) Με RDV Ζητείστε μας rdv μέσω email (operationdept@centralclinic.gr), είτε μέσω GOOGLE BUSINESS και εμείς θα επιβεβαιώσουμε άμεσα την διαθεσιμότητα. Είναι δυνατή και η εξέταση στον δικό σας χώρο, (βλ. περιοχή Αθηνών), κατόπιν προσυνεννόησης. Καλέστε 210-3674041, 35 από 7:30πμ – 4μμ. ΝΕΑ ΤΗΣ ΚΛΙΝΙΚΗΣ 26/01/2026 Η Central Clinic Athens παρουσιάζει ολοκληρωμένα προληπτικά check-up για άνδρες και γυναίκες Μάθετε περισσότερα 02/12/2025 Η Central Clinic Athens στο 1ο Forum Υγιούς Μακροζωίας Μάθετε περισσότερα Αερομεταφορά Ασθενών Θαλάσσια Διακομιδή PHOTO GALLERY Δείτε φωτογραφίες της Κλινικής μας ΠΡΟΣΒΑΣΗ ΣΤΗΝ ΚΛΙΝΙΚΗ Δείτε τον Χάρτη ΡΑΝΤΕΒΟΥ Δείτε τους τηλεφωνικούς αριθμούς των τμημάτων και κλείστε το ραντεβού σας. ΣΥΜΒΑΣΗ ΜΕ ΕΟΠΠΥ Συμβεβλημένη Κλινική με τον ΕΟΠΠΥ. ΕΠΙΣΤΗΜΟΝΙΚΗ ΒΙΒΛΙΟΘΗΚΗ Ενημέρωση για τα θέματα του ιατρικού κλάδου VIDEO Δείτε το βίντεο της κλινικής μας. PROFILE Το προφίλ της κλινικής μας στο LinkedIn. ΕΠΕΙΓΟΝΤΑ ΠΕΡΙΣΤΑΤΙΚΑ 24ωρη λειτουργία Κλινικής. Δύο ασθενοφόρα με πλήρη εξοπλισμό κινητής μονάδας. Πρόσβαση στην Κλινική Επείγοντα Περιστατικά Αερομεταφορά ασθενών Θαλάσσια διακομιδή Πολυιατρείο Σαντορίνης Συνεχής αναβάθμιση ιατροτεχνολογικού εξοπλισμού Αυστηρός εσωτερικός κανονισμός λειτουργίας Επίτευξη υψηλών ποσοστών επιτυχών επεμβάσεων $(document).ready(function() { var owl = $(\"#owl-demo\"); owl.owlCarousel({ pagination: true, paginationNumbers:true, items: 2, //10 items above 1000px browser width itemsDesktop: [1000, 2], //5 items between 1000px and 901px itemsDesktopSmall: [900, 1], // betweem 900px and 601px itemsTablet: [600, 1], //2 items between 600 and 0 itemsMobile: [480, 1] // itemsMobile disabled - inherit from itemsTablet option }); // Custom Navigation Events $(\".next\").click(function(e) { e.preventDefault(); owl.trigger('owl.next'); }); $(\".prev\").click(function(e) { e.preventDefault(); owl.trigger('owl.prev'); }); }); ΕΠΙΚΟΙΝΩΝΙΑ ΘΕΣΕΙΣ ΕΡΓΑΣΙΑΣ ΣΥΝΔΕΣΜΟΙ SITEMAP Ασκληπιού 31, Αθήνα 106 80 +30 210 36 74 000 +30 210 36 74 063 Αριθμός ΓΕΜΗ: 002829401000 ccaa@centralclinic.gr Follow us Πολιτική Απορρήτου Πολιτική Cookies Ρυθμίσεις cookies Δήλωση Προσβασιμότητας Copyright 2025 Central Clinic CREATED BY DOPE STUDIO",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/centralclinic.gr-home-9d198671/homepage--9d198671.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/centralclinic.gr-home-9d198671/homepage--9d198671.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.centralclinic.gr/images/el/central-clinic-athens.png",
+          "alt": "Central Clinic",
+          "sourcePageUrl": "https://www.centralclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/",
+              "retrievedAt": "2026-03-31T13:18:43.482Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/images/flag-el.png",
+          "sourcePageUrl": "https://www.centralclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/",
+              "retrievedAt": "2026-03-31T13:18:43.483Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/images/flag-en.png",
+          "sourcePageUrl": "https://www.centralclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/",
+              "retrievedAt": "2026-03-31T13:18:43.483Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/images/btn-search-mobile.png",
+          "sourcePageUrl": "https://www.centralclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/",
+              "retrievedAt": "2026-03-31T13:18:43.483Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/images/menu-mobile.png",
+          "alt": "mobile menu",
+          "sourcePageUrl": "https://www.centralclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/",
+              "retrievedAt": "2026-03-31T13:18:43.483Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/covid19-cca-banner-lp.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/",
+              "retrievedAt": "2026-03-31T13:18:43.483Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/ELASTOGRAFIA_MASTOU.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/",
+              "retrievedAt": "2026-03-31T13:18:43.483Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/img01_1.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/",
+              "retrievedAt": "2026-03-31T13:18:43.483Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/img02.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/",
+              "retrievedAt": "2026-03-31T13:18:43.483Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/magnet.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/",
+              "retrievedAt": "2026-03-31T13:18:43.483Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/img04.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/",
+              "retrievedAt": "2026-03-31T13:18:43.483Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/img05.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/",
+              "retrievedAt": "2026-03-31T13:18:43.483Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.484Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/centralclinic.gr-home-9d198671/homepage-page-9d198671.png"
+    },
+    "about": {
+      "pageType": "about",
+      "requestedUrl": "https://www.centralclinic.gr/clinic/profile",
+      "finalUrl": "https://www.centralclinic.gr/clinic/profile",
+      "fetchedAt": "2026-03-31T13:18:46.221Z",
+      "metadata": {
+        "title": "Προφίλ - Central Clinic",
+        "metaDescription": "Κεντρική Κλινική",
+        "language": "en"
+      },
+      "headings": [],
+      "internalLinks": [
+        {
+          "href": "https://www.centralclinic.gr/cookie-settings",
+          "label": "Ρυθμίσεις Cookies"
+        },
+        {
+          "href": "https://www.centralclinic.gr/"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/profile"
+        },
+        {
+          "href": "https://www.centralclinic.gr/en/clinic/profile"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/profile/",
+          "label": "Η Κλινική"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/covid/",
+          "label": "Covid-19"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/vision-values-goals/",
+          "label": "Όραμα, Αξίες, Στόχοι"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/organisation-chart/",
+          "label": "Οργανωτική Δομή"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/clinicenvironmentalpolicy/",
+          "label": "Περιβαλλοντική Πολιτική"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/quality-of-service/",
+          "label": "Ποιότητα Υπηρεσιών"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/politik/",
+          "label": "Πολιτική Απορρήτου"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/clinicfoodsafetypolicy/",
+          "label": "Πολιτική Ασφάλειας Τροφίμων"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/Policy/",
+          "label": "Πολιτική κατά της βίας και της παρενόχλησης"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/clinicqualitypolicy/",
+          "label": "Πολιτική Ποιότητας"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/news/",
+          "label": "Νέα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/balance/",
+          "label": "Οικονομικά Στοιχεία"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/photogallery/",
+          "label": "Photo Gallery"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/draseis/",
+          "label": "Εταιρική Κοινωνική Ευθύνη"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/timolatalogos/",
+          "label": "Τιμοκατάλογος"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/",
+          "label": "Ιατρικά Τμήματα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/doctors/by-specialty",
+          "label": "Ιατροί"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/doctors/by-specialty/",
+          "label": "Ανά ειδικότητα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/doctors/alphabetically/",
+          "label": "Αλφαβητικό Ευρετήριο"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/departments-and-clinics/",
+          "label": "Τμήματα & Κλινικές"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/departments-and-clinics/pathology/",
+          "label": "Παθολογικός Τομέας"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/departments-and-clinics/surgery/",
+          "label": "Χειρουργικός Τομέας"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/departments-and-clinics/orthopaedic/",
+          "label": "Ορθοπαιδικός Τομέας"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/outpatients/",
+          "label": "Εξωτερικά Ιατρεία"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/diagnostic-laboratories/",
+          "label": "Διαγνωστικά Εργαστήρια"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/special-units-departments/",
+          "label": "Ειδικές Μονάδες / Τμήματα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/telephone-numbers/",
+          "label": "Ραντεβού & Χρήσιμες Πληροφορίες"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/admission-procedure/",
+          "label": "Διαδικασία Εισαγωγής"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/social-security-organisations/",
+          "label": "Ασφαλιστικά Ταμεία"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/visiting-hours/",
+          "label": "Επισκεπτήριο"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/discharged-from-the-Clinic/",
+          "label": "Εξιτήρια"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/useful-telephone-numbers/",
+          "label": "Χρήσιμα Τηλέφωνα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/useful-forms/",
+          "label": "Χρήσιμα Έντυπα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/faq/",
+          "label": "Συχνές Ερωτήσεις"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/medical-records/",
+          "label": "Ιατρικός Φάκελος"
+        },
+        {
+          "href": "https://www.centralclinic.gr/symvaseis/insurance-companies/",
+          "label": "Συμβάσεις"
+        },
+        {
+          "href": "https://www.centralclinic.gr/symvaseis/eopyy/",
+          "label": "ΕΟΠΥΥ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/Testimonials/",
+          "label": "Σχόλια Ασθενών"
+        },
+        {
+          "href": "https://www.centralclinic.gr/accessibility/",
+          "label": "Πρόσβαση στην κλινική"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/diagnostic-laboratories/nuclear-medicine/",
+          "label": "ΠΥΡΗΝΙΚΗ ΙΑΤΡΙΚΗ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/diagnostic-laboratories/nuclear-medicine/tl-201/",
+          "label": "TL-201"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/diagnostic-laboratories/nuclear-medicine/radiotracers/",
+          "label": "TΕΧΝΗΤΙΟΠΑΡΑΓΩΓΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/diagnostic-laboratories/neurophysiology/",
+          "label": "ΝΕΥΡΟΦΥΣΙΟΛΟΓΙΚΟ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/orthopaedics",
+          "label": "ΕΠΙΣΤΗΜΟΝΙΚΗ ΒΙΒΛΙΟΘΗΚΗ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/orthopaedics/",
+          "label": "ΟΡΘΟΠΑΙΔΙΚΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/surgical-intervention/",
+          "label": "ΧΕΙΡΟΥΡΓΙΚΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/pulmonary-conditions/",
+          "label": "ΠΝΕΥΜΟΝΟΛΟΓΙΚΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/rheumatology/",
+          "label": "ΡΕΥΜΑΤΟΛΟΓΙΚΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/urology/",
+          "label": "ΟΥΡΟΛΟΓΙΚΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/plastic-surgery/",
+          "label": "ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/other-news-articles/",
+          "label": "ΛΟΙΠΑ ΘΕΜΑΤΑ / ΑΡΘΡΑ"
+        },
+        {
+          "href": "http://www.centralclinic.gr/",
+          "label": "Αρχική"
+        },
+        {
+          "href": "https://www.centralclinic.gr/contactus/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/jobs/",
+          "label": "ΘΕΣΕΙΣ ΕΡΓΑΣΙΑΣ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/links/",
+          "label": "ΣΥΝΔΕΣΜΟΙ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/sitemap/",
+          "label": "SITEMAP"
+        },
+        {
+          "href": "https://www.centralclinic.gr/privacy-policy",
+          "label": "Πολιτική Απορρήτου"
+        },
+        {
+          "href": "https://www.centralclinic.gr/cookie-policy",
+          "label": "Πολιτική Cookies"
+        },
+        {
+          "href": "https://www.centralclinic.gr/accessibility-statement",
+          "label": "Δήλωση Προσβασιμότητας"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.centralclinic.gr/clinic/profile",
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "__VIEWSTATE",
+            "__VIEWSTATEGENERATOR",
+            "__EVENTVALIDATION",
+            "ctl00$TopSection1$txtSearch",
+            "btnSeach",
+            "ctl00$TopSection1$txtSearchMobile",
+            "btnSeachmobile"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "__VIEWSTATE",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "__VIEWSTATEGENERATOR",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "__EVENTVALIDATION",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "ctl00$TopSection1$txtSearch",
+              "type": "text",
+              "required": false
+            },
+            {
+              "name": "btnSeach",
+              "type": "image",
+              "required": false
+            },
+            {
+              "name": "ctl00$TopSection1$txtSearchMobile",
+              "type": "text",
+              "required": false
+            },
+            {
+              "name": "btnSeachmobile",
+              "type": "image",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "+30 210 36 74 000",
+          "+30 210 36 74 063",
+          "002829401000"
+        ],
+        "emails": [
+          "ccaa@centralclinic.gr"
+        ],
+        "addresses": [
+          "ΕΠΙΚΟΙΝΩΝΙΑ ΘΕΣΕΙΣ ΕΡΓΑΣΙΑΣ ΣΥΝΔΕΣΜΟΙ SITEMAP Ασκληπιού 31, Αθήνα 106 80 +30 210 36 74 000 +30 210 36 74 063 Αριθμός ΓΕΜΗ: 002829401000 ccaa@centralclinic.gr Follow us Πολιτική Απορρήτου Πολιτική Cookies Ρυθμίσεις cookies Δήλωση Προσβασιμότητας Copyright 2025 Central Clinic CREATED BY DOPE STUDIO",
+          "Ασκληπιού 31, Αθήνα 106 80"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.youtube.com/user/ATHENSCENTRALCLINIC"
+          },
+          {
+            "href": "https://www.facebook.com/CentralClinicAthens",
+            "label": "Follow us"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.centralclinic.gr/clinic/profile",
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "__VIEWSTATE",
+              "__VIEWSTATEGENERATOR",
+              "__EVENTVALIDATION",
+              "ctl00$TopSection1$txtSearch",
+              "btnSeach",
+              "ctl00$TopSection1$txtSearchMobile",
+              "btnSeachmobile"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "__VIEWSTATE",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "__VIEWSTATEGENERATOR",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "__EVENTVALIDATION",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "ctl00$TopSection1$txtSearch",
+                "type": "text",
+                "required": false
+              },
+              {
+                "name": "btnSeach",
+                "type": "image",
+                "required": false
+              },
+              {
+                "name": "ctl00$TopSection1$txtSearchMobile",
+                "type": "text",
+                "required": false
+              },
+              {
+                "name": "btnSeachmobile",
+                "type": "image",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "ΕΠΙΚΟΙΝΩΝΙΑ ΘΕΣΕΙΣ ΕΡΓΑΣΙΑΣ ΣΥΝΔΕΣΜΟΙ SITEMAP Ασκληπιού 31, Αθήνα 106 80 +30 210 36 74 000 +30 210 36 74 063 Αριθμός ΓΕΜΗ: 002829401000 ccaa@centralclinic.gr Follow us Πολιτική Απορρήτου Πολιτική Cookies Ρυθμίσεις cookies Δήλωση Προσβασιμότητας Copyright 2025 Central Clinic CREATED BY DOPE STUDIO",
+      "textContent": "Σεβόμαστε την ιδιωτικότητά σας Χρησιμοποιούμε cookies ώστε να κάνουμε ακόμα καλύτερη την εμπειρία σας στην ιστοσελίδα μας καθώς και για να διασφαλιστεί η αποτελεσματική λειτουργία της. Μπορείτε να κάνετε κλικ στο κουμπί «αποδοχή όλων» για να μπορέσουμε να προσαρμόσουμε το περιεχόμενο της ιστοσελίδας μας στις προτιμήσεις σας. Εναλλακτικά, μπορείτε να επιλέξετε τις κατηγορίες των cookies που επιθυμείτε , πατώντας στις Ρυθμίσεις Cookies. Αποδοχη ολων Δεν αποδεχομαι //<![CDATA[ $(function() { $('#showsearch').click(function() { $('.searchform').fadeToggle(\"slow\"); }); $('#ctl00_TopSection1_txtSearch').Watermark('Αναζήτηση', '#BEBEBE'); $('#ctl00_TopSection1_txtSearchMobile').Watermark('Αναζήτηση', '#BEBEBE'); $('#btnSeach').click(function(e) { e.preventDefault(); doSearch(); }); $('#btnSeachmobile').click(function(e) { e.preventDefault(); doSearchMobile(); }); $('#ctl00_TopSection1_txtSearch').keypress(function(e) { if (e.which == 13) { e.preventDefault(); doSearch(); } }); $('#ctl00_TopSection1_txtSearchMobile').keypress(function(e) { if (e.which == 13) { e.preventDefault(); doSearchMobile(); } }); }); function doSearch() { var txt = $('#ctl00_TopSection1_txtSearch').val(); if (($.trim(txt) != '') && (txt != 'Search')) { window.location = '/search/?terms=' + escape(txt); } } function doSearchMobile() { var txt = $('#ctl00_TopSection1_txtSearchMobile').val(); if (($.trim(txt) != '') && (txt != 'Search')) { window.location = '/search/?terms=' + escape(txt); } } //]]> Η ΚλινικήCovid-19 Προφίλ Όραμα, Αξίες, Στόχοι Οργανωτική Δομή Περιβαλλοντική Πολιτική Ποιότητα Υπηρεσιών Πολιτική Απορρήτου Πολιτική Ασφάλειας Τροφίμων Πολιτική κατά της βίας και της παρενόχλησης Πολιτική Ποιότητας Νέα Οικονομικά Στοιχεία Photo Gallery Εταιρική Κοινωνική Ευθύνη Τιμοκατάλογος Ιατρικά ΤμήματαΙατροί Ανά ειδικότητα Αλφαβητικό Ευρετήριο Τμήματα & Κλινικές Παθολογικός Τομέας Χειρουργικός Τομέας Ορθοπαιδικός Τομέας Εξωτερικά Ιατρεία Διαγνωστικά Εργαστήρια Ειδικές Μονάδες / Τμήματα Ραντεβού & Χρήσιμες ΠληροφορίεςΤηλέφωνα για Ραντεβού Διαδικασία Εισαγωγής Ασφαλιστικά Ταμεία Επισκεπτήριο Εξιτήρια Χρήσιμα Τηλέφωνα Χρήσιμα Έντυπα Συχνές Ερωτήσεις Ιατρικός Φάκελος ΣυμβάσειςΑσφαλιστικές Εταιρείες ΕΟΠΥΥ Σχόλια Ασθενών Πρόσβαση στην κλινική Η ΚΛΙΝΙΚΗCOVID-19ΠΡΟΦΙΛΟΡΑΜΑ, ΑΞΙΕΣ, ΣΤΟΧΟΙΟΡΓΑΝΩΤΙΚΗ ΔΟΜΗΠΕΡΙΒΑΛΛΟΝΤΙΚΗ ΠΟΛΙΤΙΚΗΠΟΙΟΤΗΤΑ ΥΠΗΡΕΣΙΩΝΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥΠΟΛΙΤΙΚΗ ΑΣΦΑΛΕΙΑΣ ΤΡΟΦΙΜΩΝΠΟΛΙΤΙΚΗ ΚΑΤΑ ΤΗΣ ΒΙΑΣ ΚΑΙ ΤΗΣ ΠΑΡΕΝΟΧΛΗΣΗΣΠΟΛΙΤΙΚΗ ΠΟΙΟΤΗΤΑΣΝΕΑΟΙΚΟΝΟΜΙΚΑ ΣΤΟΙΧΕΙΑPHOTO GALLERYΕΤΑΙΡΙΚΗ ΚΟΙΝΩΝΙΚΗ ΕΥΘΥΝΗΤΙΜΟΚΑΤΑΛΟΓΟΣ ΙΑΤΡΙΚΑ ΤΜΗΜΑΤΑΙΑΤΡΟΙΑΝΑ ΕΙΔΙΚΟΤΗΤΑΑΛΦΑΒΗΤΙΚΟ ΕΥΡΕΤΗΡΙΟΤΜΗΜΑΤΑ & ΚΛΙΝΙΚΕΣΠΑΘΟΛΟΓΙΚΟΣ ΤΟΜΕΑΣΧΕΙΡΟΥΡΓΙΚΟΣ ΤΟΜΕΑΣΟΡΘΟΠΑΙΔΙΚΟΣ ΤΟΜΕΑΣΕΞΩΤΕΡΙΚΑ ΙΑΤΡΕΙΑΔΙΑΓΝΩΣΤΙΚΑ ΕΡΓΑΣΤΗΡΙΑΠΥΡΗΝΙΚΗ ΙΑΤΡΙΚΗTL-201TΕΧΝΗΤΙΟΠΑΡΑΓΩΓΑΝΕΥΡΟΦΥΣΙΟΛΟΓΙΚΟΕΙΔΙΚΕΣ ΜΟΝΑΔΕΣ / ΤΜΗΜΑΤΑ ΡΑΝΤΕΒΟΥ & ΧΡΗΣΙΜΕΣ ΠΛΗΡΟΦΟΡΙΕΣΤΗΛΕΦΩΝΑ ΓΙΑ ΡΑΝΤΕΒΟΥΔΙΑΔΙΚΑΣΙΑ ΕΙΣΑΓΩΓΗΣΑΣΦΑΛΙΣΤΙΚΑ ΤΑΜΕΙΑΕΠΙΣΚΕΠΤΗΡΙΟΕΞΙΤΗΡΙΑΧΡΗΣΙΜΑ ΤΗΛΕΦΩΝΑΧΡΗΣΙΜΑ ΕΝΤΥΠΑΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣΙΑΤΡΙΚΟΣ ΦΑΚΕΛΟΣ ΣΥΜΒΑΣΕΙΣΑΣΦΑΛΙΣΤΙΚΕΣ ΕΤΑΙΡΕΙΕΣΕΟΠΥΥ ΣΧΟΛΙΑ ΑΣΘΕΝΩΝ ΠΡΟΣΒΑΣΗ ΣΤΗΝ ΚΛΙΝΙΚΗ ΕΠΙΣΤΗΜΟΝΙΚΗ ΒΙΒΛΙΟΘΗΚΗΟΡΘΟΠΑΙΔΙΚΑΧΕΙΡΟΥΡΓΙΚΑΠΝΕΥΜΟΝΟΛΟΓΙΚΑΡΕΥΜΑΤΟΛΟΓΙΚΑΟΥΡΟΛΟΓΙΚΑΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗΛΟΙΠΑ ΘΕΜΑΤΑ / ΑΡΘΡΑ jQuery(document).ready(function($) { sliderTopImages(); }); Φροντίζουμε τον άνθρωπο Φροντίζουμε τον άνθρωπο Φροντίζουμε τον άνθρωπο Φροντίζουμε τον άνθρωπο Φροντίζουμε τον άνθρωπο Φροντίζουμε τον άνθρωπο Αρχική Η Κλινική Προφίλ ΠΡΟΦΙΛ Η Κεντρική Κλινική Αθηνών Α.Ε., ιδρύθηκε το 1997 από μια ομάδα καταξιωμένων Ιατρών με αντικείμενο την ίδρυση ενός Προτύπου Διαγνωστικού - Ερευνητικού και Θεραπευτικού Κέντρου και την παροχή υπηρεσιών υγείας υψηλής στάθμης. Η λειτουργία της Αθηνών ξεκίνησε το δεύτερο εξάμηνο του 2000 και από τότε μέχρι και σήμερα, έχει καταφέρει να καθιερωθεί ως ένα από τα πλέον αξιόπιστα νοσηλευτικά ιδρύματα της χώρας. Από το πρώτο χρόνο λειτουργίας της, η Κλινική παρουσιάζει εντυπωσιακούς ρυθμούς ανάπτυξης παρέχοντας υπηρεσίες υψηλού επιπέδου με χαμηλό κόστος για τους νοσηλευομένους της, αποτέλεσμα αφ’ ενός συστηματικού ελέγχου οικονομιών κλίμακας και αφετέρου των συνεργασιών της με όλα τα Ασφαλιστικά Ταμεία και Ιδιωτικές Ασφάλειες. Η κλινική στεγάζεται σε σύγχρονες κτιριακές, μηχανολογικές και ηλεκτρολογικές εγκαταστάσεις συνολικής επιφανείας 5000 τ.μ. στο κέντρο της Αθήνα και συγκεκριμένα επί της οδού Ασκληπιού στον αριθμό 31, ενώ είναι εξοπλισμένη με υπερσύγχρονα μηχανήματα υψηλής τεχνολογίας. Διαθέτει 140 νοσηλευτικές κλίνες οι οποίες διακρίνονται για τον πολυτελή ξενοδοχειακό τους εξοπλισμό. Οι χειρουργικές αίθουσες ανέρχονται σε 11 και είναι κατασκευασμένες με τις αυστηρότερες προδιαγραφές για την ελαχιστοποίηση των ενδονοσοκομειακών λοιμώξεων. Τα εξωτερικά Ιατρεία της κλινικής καλύπτουν όλες τις ειδικότητες παρέχοντας υψηλού επιπέδου ιατρικές υπηρεσίες σε εκατοντάδες ασθενείς καθημερινά. Λειτουργεί επίσης τμήμα επειγόντων περιστατικών σε 24ώρη βάση ενώ έχει αναπτυχθεί τμήμα κατ’ οίκον νοσηλείας για την πληρέστερη εξυπηρέτηση των ασθενών μας. Για την μετακίνηση των περιστατικών της κλινικής διατίθενται 2 ασθενοφόρα με πλήρη εξοπλισμό κινητής μονάδας. Η ΚλινικήCovid-19ΠροφίλΌραμα, Αξίες, ΣτόχοιΟργανωτική ΔομήΠεριβαλλοντική ΠολιτικήΠοιότητα ΥπηρεσιώνΠολιτική ΑπορρήτουΠολιτική Ασφάλειας ΤροφίμωνΠολιτική κατά της βίας και της παρενόχλησηςΠολιτική ΠοιότηταςΝέαΟικονομικά ΣτοιχείαPhoto GalleryΕταιρική Κοινωνική ΕυθύνηΤιμοκατάλογος Δείτε το video της Κλινικής μας ΕΠΙΚΟΙΝΩΝΙΑ ΘΕΣΕΙΣ ΕΡΓΑΣΙΑΣ ΣΥΝΔΕΣΜΟΙ SITEMAP Ασκληπιού 31, Αθήνα 106 80 +30 210 36 74 000 +30 210 36 74 063 Αριθμός ΓΕΜΗ: 002829401000 ccaa@centralclinic.gr Follow us Πολιτική Απορρήτου Πολιτική Cookies Ρυθμίσεις cookies Δήλωση Προσβασιμότητας Copyright 2025 Central Clinic CREATED BY DOPE STUDIO",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/centralclinic.gr-home-9d198671/about-clinic-profile-acb9a4ea.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/centralclinic.gr-home-9d198671/about-clinic-profile-acb9a4ea.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.centralclinic.gr/images/el/central-clinic-athens.png",
+          "alt": "Central Clinic",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/profile",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/profile",
+              "retrievedAt": "2026-03-31T13:18:46.220Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/images/flag-el.png",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/profile",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/profile",
+              "retrievedAt": "2026-03-31T13:18:46.220Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/images/flag-en.png",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/profile",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/profile",
+              "retrievedAt": "2026-03-31T13:18:46.220Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/images/btn-search-mobile.png",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/profile",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/profile",
+              "retrievedAt": "2026-03-31T13:18:46.220Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/images/menu-mobile.png",
+          "alt": "mobile menu",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/profile",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/profile",
+              "retrievedAt": "2026-03-31T13:18:46.220Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/covid19-cca-banner-lp.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/profile",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/profile",
+              "retrievedAt": "2026-03-31T13:18:46.220Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/ELASTOGRAFIA_MASTOU.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/profile",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/profile",
+              "retrievedAt": "2026-03-31T13:18:46.220Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/img01_1.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/profile",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/profile",
+              "retrievedAt": "2026-03-31T13:18:46.220Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/img02.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/profile",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/profile",
+              "retrievedAt": "2026-03-31T13:18:46.220Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/magnet.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/profile",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/profile",
+              "retrievedAt": "2026-03-31T13:18:46.220Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/img04.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/profile",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/profile",
+              "retrievedAt": "2026-03-31T13:18:46.220Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/img05.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/profile",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/profile",
+              "retrievedAt": "2026-03-31T13:18:46.220Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page fetch",
+          "uri": "https://www.centralclinic.gr/clinic/profile",
+          "retrievedAt": "2026-03-31T13:18:46.221Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "https://www.centralclinic.gr/clinic/quality-of-service",
+      "finalUrl": "https://www.centralclinic.gr/clinic/quality-of-service",
+      "fetchedAt": "2026-03-31T13:18:44.840Z",
+      "metadata": {
+        "title": "Ποιότητα Υπηρεσιών - Central Clinic",
+        "language": "en"
+      },
+      "headings": [],
+      "internalLinks": [
+        {
+          "href": "https://www.centralclinic.gr/cookie-settings",
+          "label": "Ρυθμίσεις Cookies"
+        },
+        {
+          "href": "https://www.centralclinic.gr/"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/quality-of-service"
+        },
+        {
+          "href": "https://www.centralclinic.gr/en/clinic/quality-of-service"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/profile/",
+          "label": "Η Κλινική"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/covid/",
+          "label": "Covid-19"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/vision-values-goals/",
+          "label": "Όραμα, Αξίες, Στόχοι"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/organisation-chart/",
+          "label": "Οργανωτική Δομή"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/clinicenvironmentalpolicy/",
+          "label": "Περιβαλλοντική Πολιτική"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/quality-of-service/",
+          "label": "Ποιότητα Υπηρεσιών"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/politik/",
+          "label": "Πολιτική Απορρήτου"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/clinicfoodsafetypolicy/",
+          "label": "Πολιτική Ασφάλειας Τροφίμων"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/Policy/",
+          "label": "Πολιτική κατά της βίας και της παρενόχλησης"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/clinicqualitypolicy/",
+          "label": "Πολιτική Ποιότητας"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/news/",
+          "label": "Νέα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/balance/",
+          "label": "Οικονομικά Στοιχεία"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/photogallery/",
+          "label": "Photo Gallery"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/draseis/",
+          "label": "Εταιρική Κοινωνική Ευθύνη"
+        },
+        {
+          "href": "https://www.centralclinic.gr/clinic/timolatalogos/",
+          "label": "Τιμοκατάλογος"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/",
+          "label": "Ιατρικά Τμήματα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/doctors/by-specialty",
+          "label": "Ιατροί"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/doctors/by-specialty/",
+          "label": "Ανά ειδικότητα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/doctors/alphabetically/",
+          "label": "Αλφαβητικό Ευρετήριο"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/departments-and-clinics/",
+          "label": "Τμήματα & Κλινικές"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/departments-and-clinics/pathology/",
+          "label": "Παθολογικός Τομέας"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/departments-and-clinics/surgery/",
+          "label": "Χειρουργικός Τομέας"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/departments-and-clinics/orthopaedic/",
+          "label": "Ορθοπαιδικός Τομέας"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/outpatients/",
+          "label": "Εξωτερικά Ιατρεία"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/diagnostic-laboratories/",
+          "label": "Διαγνωστικά Εργαστήρια"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/special-units-departments/",
+          "label": "Ειδικές Μονάδες / Τμήματα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/telephone-numbers/",
+          "label": "Ραντεβού & Χρήσιμες Πληροφορίες"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/admission-procedure/",
+          "label": "Διαδικασία Εισαγωγής"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/social-security-organisations/",
+          "label": "Ασφαλιστικά Ταμεία"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/visiting-hours/",
+          "label": "Επισκεπτήριο"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/discharged-from-the-Clinic/",
+          "label": "Εξιτήρια"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/useful-telephone-numbers/",
+          "label": "Χρήσιμα Τηλέφωνα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/useful-forms/",
+          "label": "Χρήσιμα Έντυπα"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/faq/",
+          "label": "Συχνές Ερωτήσεις"
+        },
+        {
+          "href": "https://www.centralclinic.gr/useful-information/medical-records/",
+          "label": "Ιατρικός Φάκελος"
+        },
+        {
+          "href": "https://www.centralclinic.gr/symvaseis/insurance-companies/",
+          "label": "Συμβάσεις"
+        },
+        {
+          "href": "https://www.centralclinic.gr/symvaseis/eopyy/",
+          "label": "ΕΟΠΥΥ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/Testimonials/",
+          "label": "Σχόλια Ασθενών"
+        },
+        {
+          "href": "https://www.centralclinic.gr/accessibility/",
+          "label": "Πρόσβαση στην κλινική"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/diagnostic-laboratories/nuclear-medicine/",
+          "label": "ΠΥΡΗΝΙΚΗ ΙΑΤΡΙΚΗ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/diagnostic-laboratories/nuclear-medicine/tl-201/",
+          "label": "TL-201"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/diagnostic-laboratories/nuclear-medicine/radiotracers/",
+          "label": "TΕΧΝΗΤΙΟΠΑΡΑΓΩΓΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-departments/diagnostic-laboratories/neurophysiology/",
+          "label": "ΝΕΥΡΟΦΥΣΙΟΛΟΓΙΚΟ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/orthopaedics",
+          "label": "ΕΠΙΣΤΗΜΟΝΙΚΗ ΒΙΒΛΙΟΘΗΚΗ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/orthopaedics/",
+          "label": "ΟΡΘΟΠΑΙΔΙΚΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/surgical-intervention/",
+          "label": "ΧΕΙΡΟΥΡΓΙΚΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/pulmonary-conditions/",
+          "label": "ΠΝΕΥΜΟΝΟΛΟΓΙΚΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/rheumatology/",
+          "label": "ΡΕΥΜΑΤΟΛΟΓΙΚΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/urology/",
+          "label": "ΟΥΡΟΛΟΓΙΚΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/plastic-surgery/",
+          "label": "ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/medical-library/other-news-articles/",
+          "label": "ΛΟΙΠΑ ΘΕΜΑΤΑ / ΑΡΘΡΑ"
+        },
+        {
+          "href": "http://www.centralclinic.gr/",
+          "label": "Αρχική"
+        },
+        {
+          "href": "https://www.centralclinic.gr/contactus/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/jobs/",
+          "label": "ΘΕΣΕΙΣ ΕΡΓΑΣΙΑΣ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/links/",
+          "label": "ΣΥΝΔΕΣΜΟΙ"
+        },
+        {
+          "href": "https://www.centralclinic.gr/sitemap/",
+          "label": "SITEMAP"
+        },
+        {
+          "href": "https://www.centralclinic.gr/privacy-policy",
+          "label": "Πολιτική Απορρήτου"
+        },
+        {
+          "href": "https://www.centralclinic.gr/cookie-policy",
+          "label": "Πολιτική Cookies"
+        },
+        {
+          "href": "https://www.centralclinic.gr/accessibility-statement",
+          "label": "Δήλωση Προσβασιμότητας"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.centralclinic.gr/clinic/quality-of-service",
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "__VIEWSTATE",
+            "__VIEWSTATEGENERATOR",
+            "__EVENTVALIDATION",
+            "ctl00$TopSection1$txtSearch",
+            "btnSeach",
+            "ctl00$TopSection1$txtSearchMobile",
+            "btnSeachmobile"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "__VIEWSTATE",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "__VIEWSTATEGENERATOR",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "__EVENTVALIDATION",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "ctl00$TopSection1$txtSearch",
+              "type": "text",
+              "required": false
+            },
+            {
+              "name": "btnSeach",
+              "type": "image",
+              "required": false
+            },
+            {
+              "name": "ctl00$TopSection1$txtSearchMobile",
+              "type": "text",
+              "required": false
+            },
+            {
+              "name": "btnSeachmobile",
+              "type": "image",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "+30 210 36 74 000",
+          "+30 210 36 74 063",
+          "002829401000"
+        ],
+        "emails": [
+          "ccaa@centralclinic.gr"
+        ],
+        "addresses": [
+          "ΕΠΙΚΟΙΝΩΝΙΑ ΘΕΣΕΙΣ ΕΡΓΑΣΙΑΣ ΣΥΝΔΕΣΜΟΙ SITEMAP Ασκληπιού 31, Αθήνα 106 80 +30 210 36 74 000 +30 210 36 74 063 Αριθμός ΓΕΜΗ: 002829401000 ccaa@centralclinic.gr Follow us Πολιτική Απορρήτου Πολιτική Cookies Ρυθμίσεις cookies Δήλωση Προσβασιμότητας Copyright 2025 Central Clinic CREATED BY DOPE STUDIO",
+          "Ασκληπιού 31, Αθήνα 106 80"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.youtube.com/user/ATHENSCENTRALCLINIC"
+          },
+          {
+            "href": "https://www.facebook.com/CentralClinicAthens",
+            "label": "Follow us"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.centralclinic.gr/clinic/quality-of-service",
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "__VIEWSTATE",
+              "__VIEWSTATEGENERATOR",
+              "__EVENTVALIDATION",
+              "ctl00$TopSection1$txtSearch",
+              "btnSeach",
+              "ctl00$TopSection1$txtSearchMobile",
+              "btnSeachmobile"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "__VIEWSTATE",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "__VIEWSTATEGENERATOR",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "__EVENTVALIDATION",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "ctl00$TopSection1$txtSearch",
+                "type": "text",
+                "required": false
+              },
+              {
+                "name": "btnSeach",
+                "type": "image",
+                "required": false
+              },
+              {
+                "name": "ctl00$TopSection1$txtSearchMobile",
+                "type": "text",
+                "required": false
+              },
+              {
+                "name": "btnSeachmobile",
+                "type": "image",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "ΕΠΙΚΟΙΝΩΝΙΑ ΘΕΣΕΙΣ ΕΡΓΑΣΙΑΣ ΣΥΝΔΕΣΜΟΙ SITEMAP Ασκληπιού 31, Αθήνα 106 80 +30 210 36 74 000 +30 210 36 74 063 Αριθμός ΓΕΜΗ: 002829401000 ccaa@centralclinic.gr Follow us Πολιτική Απορρήτου Πολιτική Cookies Ρυθμίσεις cookies Δήλωση Προσβασιμότητας Copyright 2025 Central Clinic CREATED BY DOPE STUDIO",
+      "textContent": "Σεβόμαστε την ιδιωτικότητά σας Χρησιμοποιούμε cookies ώστε να κάνουμε ακόμα καλύτερη την εμπειρία σας στην ιστοσελίδα μας καθώς και για να διασφαλιστεί η αποτελεσματική λειτουργία της. Μπορείτε να κάνετε κλικ στο κουμπί «αποδοχή όλων» για να μπορέσουμε να προσαρμόσουμε το περιεχόμενο της ιστοσελίδας μας στις προτιμήσεις σας. Εναλλακτικά, μπορείτε να επιλέξετε τις κατηγορίες των cookies που επιθυμείτε , πατώντας στις Ρυθμίσεις Cookies. Αποδοχη ολων Δεν αποδεχομαι //<![CDATA[ $(function() { $('#showsearch').click(function() { $('.searchform').fadeToggle(\"slow\"); }); $('#ctl00_TopSection1_txtSearch').Watermark('Αναζήτηση', '#BEBEBE'); $('#ctl00_TopSection1_txtSearchMobile').Watermark('Αναζήτηση', '#BEBEBE'); $('#btnSeach').click(function(e) { e.preventDefault(); doSearch(); }); $('#btnSeachmobile').click(function(e) { e.preventDefault(); doSearchMobile(); }); $('#ctl00_TopSection1_txtSearch').keypress(function(e) { if (e.which == 13) { e.preventDefault(); doSearch(); } }); $('#ctl00_TopSection1_txtSearchMobile').keypress(function(e) { if (e.which == 13) { e.preventDefault(); doSearchMobile(); } }); }); function doSearch() { var txt = $('#ctl00_TopSection1_txtSearch').val(); if (($.trim(txt) != '') && (txt != 'Search')) { window.location = '/search/?terms=' + escape(txt); } } function doSearchMobile() { var txt = $('#ctl00_TopSection1_txtSearchMobile').val(); if (($.trim(txt) != '') && (txt != 'Search')) { window.location = '/search/?terms=' + escape(txt); } } //]]> Η ΚλινικήCovid-19 Προφίλ Όραμα, Αξίες, Στόχοι Οργανωτική Δομή Περιβαλλοντική Πολιτική Ποιότητα Υπηρεσιών Πολιτική Απορρήτου Πολιτική Ασφάλειας Τροφίμων Πολιτική κατά της βίας και της παρενόχλησης Πολιτική Ποιότητας Νέα Οικονομικά Στοιχεία Photo Gallery Εταιρική Κοινωνική Ευθύνη Τιμοκατάλογος Ιατρικά ΤμήματαΙατροί Ανά ειδικότητα Αλφαβητικό Ευρετήριο Τμήματα & Κλινικές Παθολογικός Τομέας Χειρουργικός Τομέας Ορθοπαιδικός Τομέας Εξωτερικά Ιατρεία Διαγνωστικά Εργαστήρια Ειδικές Μονάδες / Τμήματα Ραντεβού & Χρήσιμες ΠληροφορίεςΤηλέφωνα για Ραντεβού Διαδικασία Εισαγωγής Ασφαλιστικά Ταμεία Επισκεπτήριο Εξιτήρια Χρήσιμα Τηλέφωνα Χρήσιμα Έντυπα Συχνές Ερωτήσεις Ιατρικός Φάκελος ΣυμβάσειςΑσφαλιστικές Εταιρείες ΕΟΠΥΥ Σχόλια Ασθενών Πρόσβαση στην κλινική Η ΚΛΙΝΙΚΗCOVID-19ΠΡΟΦΙΛΟΡΑΜΑ, ΑΞΙΕΣ, ΣΤΟΧΟΙΟΡΓΑΝΩΤΙΚΗ ΔΟΜΗΠΕΡΙΒΑΛΛΟΝΤΙΚΗ ΠΟΛΙΤΙΚΗΠΟΙΟΤΗΤΑ ΥΠΗΡΕΣΙΩΝΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥΠΟΛΙΤΙΚΗ ΑΣΦΑΛΕΙΑΣ ΤΡΟΦΙΜΩΝΠΟΛΙΤΙΚΗ ΚΑΤΑ ΤΗΣ ΒΙΑΣ ΚΑΙ ΤΗΣ ΠΑΡΕΝΟΧΛΗΣΗΣΠΟΛΙΤΙΚΗ ΠΟΙΟΤΗΤΑΣΝΕΑΟΙΚΟΝΟΜΙΚΑ ΣΤΟΙΧΕΙΑPHOTO GALLERYΕΤΑΙΡΙΚΗ ΚΟΙΝΩΝΙΚΗ ΕΥΘΥΝΗΤΙΜΟΚΑΤΑΛΟΓΟΣ ΙΑΤΡΙΚΑ ΤΜΗΜΑΤΑΙΑΤΡΟΙΑΝΑ ΕΙΔΙΚΟΤΗΤΑΑΛΦΑΒΗΤΙΚΟ ΕΥΡΕΤΗΡΙΟΤΜΗΜΑΤΑ & ΚΛΙΝΙΚΕΣΠΑΘΟΛΟΓΙΚΟΣ ΤΟΜΕΑΣΧΕΙΡΟΥΡΓΙΚΟΣ ΤΟΜΕΑΣΟΡΘΟΠΑΙΔΙΚΟΣ ΤΟΜΕΑΣΕΞΩΤΕΡΙΚΑ ΙΑΤΡΕΙΑΔΙΑΓΝΩΣΤΙΚΑ ΕΡΓΑΣΤΗΡΙΑΠΥΡΗΝΙΚΗ ΙΑΤΡΙΚΗTL-201TΕΧΝΗΤΙΟΠΑΡΑΓΩΓΑΝΕΥΡΟΦΥΣΙΟΛΟΓΙΚΟΕΙΔΙΚΕΣ ΜΟΝΑΔΕΣ / ΤΜΗΜΑΤΑ ΡΑΝΤΕΒΟΥ & ΧΡΗΣΙΜΕΣ ΠΛΗΡΟΦΟΡΙΕΣΤΗΛΕΦΩΝΑ ΓΙΑ ΡΑΝΤΕΒΟΥΔΙΑΔΙΚΑΣΙΑ ΕΙΣΑΓΩΓΗΣΑΣΦΑΛΙΣΤΙΚΑ ΤΑΜΕΙΑΕΠΙΣΚΕΠΤΗΡΙΟΕΞΙΤΗΡΙΑΧΡΗΣΙΜΑ ΤΗΛΕΦΩΝΑΧΡΗΣΙΜΑ ΕΝΤΥΠΑΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣΙΑΤΡΙΚΟΣ ΦΑΚΕΛΟΣ ΣΥΜΒΑΣΕΙΣΑΣΦΑΛΙΣΤΙΚΕΣ ΕΤΑΙΡΕΙΕΣΕΟΠΥΥ ΣΧΟΛΙΑ ΑΣΘΕΝΩΝ ΠΡΟΣΒΑΣΗ ΣΤΗΝ ΚΛΙΝΙΚΗ ΕΠΙΣΤΗΜΟΝΙΚΗ ΒΙΒΛΙΟΘΗΚΗΟΡΘΟΠΑΙΔΙΚΑΧΕΙΡΟΥΡΓΙΚΑΠΝΕΥΜΟΝΟΛΟΓΙΚΑΡΕΥΜΑΤΟΛΟΓΙΚΑΟΥΡΟΛΟΓΙΚΑΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗΛΟΙΠΑ ΘΕΜΑΤΑ / ΑΡΘΡΑ jQuery(document).ready(function($) { sliderTopImages(); }); Φροντίζουμε τον άνθρωπο Φροντίζουμε τον άνθρωπο Φροντίζουμε τον άνθρωπο Φροντίζουμε τον άνθρωπο Φροντίζουμε τον άνθρωπο Φροντίζουμε τον άνθρωπο Αρχική Η Κλινική Ποιότητα Υπηρεσιών ΠΟΙΟΤΗΤΑ ΥΠΗΡΕΣΙΩΝ Η Κεντρική Κλινική Αθηνών δίνοντας έμφαση στην διαδικασία συνεχούς βελτίωσης της ποιότητας των παρεχόμενων υπηρεσιών, προωθεί μια «πολιτική ποιότητας» που στηρίζεται στην εφαρμογή γραπτών διαδικασιών, στη δημιουργία κωδικοποιημένων εντύπων και την μέτρηση της ικανοποίησης των ασθενών. Η Ποιότητα μπορεί να εξασφαλιστεί μόνο με προγραμματισμό, θέση στόχων, συνεχή αξιολόγηση, βελτίωση και διαρκή έλεγχο. Στην Κεντρική Κλινική Αθηνών φροντίζουμε τον άνθρωπο γιατί είναι το επίκεντρό μας. Πιστεύουμε στην ενθάρρυνση και την ενίσχυση των εργαζομένων, επενδύουμε στη συνεχή εκπαίδευση και επιβράβευσή τους, υποστηρίζουμε την ομαδική εργασία, φροντίζουμε την οικοδόμηση ορθών διαπροσωπικών σχέσεων, δημιουργώντας με αυτό τον τρόπο τη βάση στην ποιότητα παροχής υπηρεσιών. Η Κεντρική Κλινική Αθηνών φέρει Πιστοποίηση Διαχείρισης Ποιότητας σύμφωνα με τα Πρότυπα ISO 9001 & ISO 22000. Στα πλαίσια των ανωτέρω Προτύπων, προβλέπεται η συνεπής εφαρμογή διαδικασιών και των οδηγιών εργασίας, η τήρηση των περιβαλλοντικών μας δεσμεύσεων, η λειτουργία ενός ολοκληρωμένου συστήματος υγιεινής και ασφάλειας και η εφαρμογή Ιατρικών Πρωτοκόλλων με τα οποία διασφαλίζονται βέλτιστες πρακτικές σύμφωνα με τα ισχύοντα διεθνή επιστημονικά πρότυπα. Μερικά από τα σχόλια των Επιθεωρητών : \"Εξαιρετική κλινική, εμπνευσμένη από το όραμα και τη δημιουργία των ιατρών της\". \"Πολύ καλή κατασκευή των χειρουργικών αιθουσών, δίνοντας μεγάλη έμφαση στην πρόληψη των ενδονοσοκομειακών λοιμώξεων με τεκμηριωμένους ελέγχους¨\" \"Τεχνογνωσία και εμπειρία ετών\" Η ΚλινικήCovid-19ΠροφίλΌραμα, Αξίες, ΣτόχοιΟργανωτική ΔομήΠεριβαλλοντική ΠολιτικήΠοιότητα ΥπηρεσιώνΠολιτική ΑπορρήτουΠολιτική Ασφάλειας ΤροφίμωνΠολιτική κατά της βίας και της παρενόχλησηςΠολιτική ΠοιότηταςΝέαΟικονομικά ΣτοιχείαPhoto GalleryΕταιρική Κοινωνική ΕυθύνηΤιμοκατάλογος Δείτε το video της Κλινικής μας ΕΠΙΚΟΙΝΩΝΙΑ ΘΕΣΕΙΣ ΕΡΓΑΣΙΑΣ ΣΥΝΔΕΣΜΟΙ SITEMAP Ασκληπιού 31, Αθήνα 106 80 +30 210 36 74 000 +30 210 36 74 063 Αριθμός ΓΕΜΗ: 002829401000 ccaa@centralclinic.gr Follow us Πολιτική Απορρήτου Πολιτική Cookies Ρυθμίσεις cookies Δήλωση Προσβασιμότητας Copyright 2025 Central Clinic CREATED BY DOPE STUDIO",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/centralclinic.gr-home-9d198671/services-clinic-quality-of-service-3e864d0c.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/centralclinic.gr-home-9d198671/services-clinic-quality-of-service-3e864d0c.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.centralclinic.gr/images/el/central-clinic-athens.png",
+          "alt": "Central Clinic",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/quality-of-service",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/quality-of-service",
+              "retrievedAt": "2026-03-31T13:18:44.838Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/images/flag-el.png",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/quality-of-service",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/quality-of-service",
+              "retrievedAt": "2026-03-31T13:18:44.838Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/images/flag-en.png",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/quality-of-service",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/quality-of-service",
+              "retrievedAt": "2026-03-31T13:18:44.838Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/images/btn-search-mobile.png",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/quality-of-service",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/quality-of-service",
+              "retrievedAt": "2026-03-31T13:18:44.838Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/images/menu-mobile.png",
+          "alt": "mobile menu",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/quality-of-service",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/quality-of-service",
+              "retrievedAt": "2026-03-31T13:18:44.838Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/covid19-cca-banner-lp.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/quality-of-service",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/quality-of-service",
+              "retrievedAt": "2026-03-31T13:18:44.838Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/ELASTOGRAFIA_MASTOU.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/quality-of-service",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/quality-of-service",
+              "retrievedAt": "2026-03-31T13:18:44.838Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/img01_1.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/quality-of-service",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/quality-of-service",
+              "retrievedAt": "2026-03-31T13:18:44.838Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/img02.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/quality-of-service",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/quality-of-service",
+              "retrievedAt": "2026-03-31T13:18:44.838Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/magnet.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/quality-of-service",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/quality-of-service",
+              "retrievedAt": "2026-03-31T13:18:44.838Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/img04.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/quality-of-service",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/quality-of-service",
+              "retrievedAt": "2026-03-31T13:18:44.838Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/img05.jpg",
+          "sourcePageUrl": "https://www.centralclinic.gr/clinic/quality-of-service",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.centralclinic.gr/clinic/quality-of-service",
+              "retrievedAt": "2026-03-31T13:18:44.838Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://www.centralclinic.gr/clinic/quality-of-service",
+          "retrievedAt": "2026-03-31T13:18:44.840Z"
+        }
+      ],
+      "statusCode": 200
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "210 3674043-2103674028",
+      "002829401000",
+      "210-3674041",
+      "26/01/2026",
+      "02/12/2025",
+      "+30 210 36 74 000",
+      "+30 210 36 74 063"
+    ],
+    "emails": [
+      "operationdept@centralclinic.gr",
+      "ccaa@centralclinic.gr"
+    ],
+    "addresses": [
+      "ΕΠΙΚΟΙΝΩΝΙΑ ΘΕΣΕΙΣ ΕΡΓΑΣΙΑΣ ΣΥΝΔΕΣΜΟΙ SITEMAP Ασκληπιού 31, Αθήνα 106 80 +30 210 36 74 000 +30 210 36 74 063 Αριθμός ΓΕΜΗ: 002829401000 ccaa@centralclinic.gr Follow us Πολιτική Απορρήτου Πολιτική Cookies Ρυθμίσεις cookies Δήλωση Προσβασιμότητας Copyright 2025 Central Clinic CREATED BY DOPE STUDIO",
+      "Ασκληπιού 31, Αθήνα 106 80",
+      "CONTACT US JOB OPENINGS LINKS SITEMAP Asklipiou 31, Athens, P.C. 106 80 +30 210 36 74 000 +30 210 36 74 063 Αριθμός ΓΕΜΗ: 002829401000 ccaa@centralclinic.gr Follow us Πολιτική Απορρήτου Πολιτική Cookies Ρυθμίσεις cookies Δήλωση Προσβασιμότητας Copyright 2025 Central Clinic CREATED BY DOPE STUDIO",
+      "Asklipiou 31, Athens, P.C. 106 80"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.youtube.com/user/ATHENSCENTRALCLINIC"
+      },
+      {
+        "href": "https://www.linkedin.com/company/centralclinicathens/"
+      },
+      {
+        "href": "https://www.facebook.com/CentralClinicAthens",
+        "label": "Follow us"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://www.centralclinic.gr/",
+        "method": "post",
+        "purposeHint": "booking",
+        "fieldNames": [
+          "__VIEWSTATE",
+          "__VIEWSTATEGENERATOR",
+          "__EVENTVALIDATION",
+          "ctl00$TopSection1$txtSearch",
+          "btnSeach",
+          "ctl00$TopSection1$txtSearchMobile",
+          "btnSeachmobile"
+        ],
+        "submitLabels": [],
+        "fields": [
+          {
+            "name": "__VIEWSTATE",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "__VIEWSTATEGENERATOR",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "__EVENTVALIDATION",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "ctl00$TopSection1$txtSearch",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "btnSeach",
+            "type": "image",
+            "required": false
+          },
+          {
+            "name": "ctl00$TopSection1$txtSearchMobile",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "btnSeachmobile",
+            "type": "image",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.centralclinic.gr/clinic/quality-of-service",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "__VIEWSTATE",
+          "__VIEWSTATEGENERATOR",
+          "__EVENTVALIDATION",
+          "ctl00$TopSection1$txtSearch",
+          "btnSeach",
+          "ctl00$TopSection1$txtSearchMobile",
+          "btnSeachmobile"
+        ],
+        "submitLabels": [],
+        "fields": [
+          {
+            "name": "__VIEWSTATE",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "__VIEWSTATEGENERATOR",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "__EVENTVALIDATION",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "ctl00$TopSection1$txtSearch",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "btnSeach",
+            "type": "image",
+            "required": false
+          },
+          {
+            "name": "ctl00$TopSection1$txtSearchMobile",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "btnSeachmobile",
+            "type": "image",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.centralclinic.gr/clinic/profile",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "__VIEWSTATE",
+          "__VIEWSTATEGENERATOR",
+          "__EVENTVALIDATION",
+          "ctl00$TopSection1$txtSearch",
+          "btnSeach",
+          "ctl00$TopSection1$txtSearchMobile",
+          "btnSeachmobile"
+        ],
+        "submitLabels": [],
+        "fields": [
+          {
+            "name": "__VIEWSTATE",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "__VIEWSTATEGENERATOR",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "__EVENTVALIDATION",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "ctl00$TopSection1$txtSearch",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "btnSeach",
+            "type": "image",
+            "required": false
+          },
+          {
+            "name": "ctl00$TopSection1$txtSearchMobile",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "btnSeachmobile",
+            "type": "image",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.centralclinic.gr/medical-departments/doctors/by-specialty",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "__VIEWSTATE",
+          "__VIEWSTATEGENERATOR",
+          "__EVENTVALIDATION",
+          "ctl00$TopSection1$txtSearch",
+          "btnSeach",
+          "ctl00$TopSection1$txtSearchMobile",
+          "btnSeachmobile"
+        ],
+        "submitLabels": [],
+        "fields": [
+          {
+            "name": "__VIEWSTATE",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "__VIEWSTATEGENERATOR",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "__EVENTVALIDATION",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "ctl00$TopSection1$txtSearch",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "btnSeach",
+            "type": "image",
+            "required": false
+          },
+          {
+            "name": "ctl00$TopSection1$txtSearchMobile",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "btnSeachmobile",
+            "type": "image",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.centralclinic.gr/useful-information/admission-procedure",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "__VIEWSTATE",
+          "__VIEWSTATEGENERATOR",
+          "__EVENTVALIDATION",
+          "ctl00$TopSection1$txtSearch",
+          "btnSeach",
+          "ctl00$TopSection1$txtSearchMobile",
+          "btnSeachmobile"
+        ],
+        "submitLabels": [],
+        "fields": [
+          {
+            "name": "__VIEWSTATE",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "__VIEWSTATEGENERATOR",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "__EVENTVALIDATION",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "ctl00$TopSection1$txtSearch",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "btnSeach",
+            "type": "image",
+            "required": false
+          },
+          {
+            "name": "ctl00$TopSection1$txtSearchMobile",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "btnSeachmobile",
+            "type": "image",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "method": "post",
+        "purposeHint": "contact",
+        "fieldNames": [
+          "__VIEWSTATE",
+          "__VIEWSTATEGENERATOR",
+          "__EVENTVALIDATION",
+          "ctl00$TopSection1$txtSearch",
+          "btnSeach",
+          "ctl00$TopSection1$txtSearchMobile",
+          "btnSeachmobile"
+        ],
+        "submitLabels": [],
+        "fields": [
+          {
+            "name": "__VIEWSTATE",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "__VIEWSTATEGENERATOR",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "__EVENTVALIDATION",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "ctl00$TopSection1$txtSearch",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "btnSeach",
+            "type": "image",
+            "required": false
+          },
+          {
+            "name": "ctl00$TopSection1$txtSearchMobile",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "btnSeachmobile",
+            "type": "image",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Αρχική - Central Clinic",
+    "language": "en"
+  },
+  "imageReferences": [
+    {
+      "url": "https://www.centralclinic.gr/images/el/central-clinic-athens.png",
+      "alt": "Central Clinic",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.482Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/images/flag-el.png",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.483Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/images/flag-en.png",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.483Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/images/btn-search-mobile.png",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.483Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/images/menu-mobile.png",
+      "alt": "mobile menu",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.483Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/covid19-cca-banner-lp.jpg",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.483Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/ELASTOGRAFIA_MASTOU.jpg",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.483Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/img01_1.jpg",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.483Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/img02.jpg",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.483Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/magnet.jpg",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.483Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/img04.jpg",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.483Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/img05.jpg",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.483Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/images/en/central-clinic-athens.png",
+      "alt": "Central Clinic",
+      "sourcePageUrl": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+          "retrievedAt": "2026-03-31T13:18:50.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/userfiles/11e3ebfa-92f9-4083-8c5b-a26d00fe9b3c/img03.jpg",
+      "sourcePageUrl": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+          "retrievedAt": "2026-03-31T13:18:50.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/handlers/ClickImpressions.ashx?action=impression&clt_id=50&bnr_id=0a7196ef-34f9-4d38-95d4-a48200e6643f&cmp_id=6ab3091e-18a5-4a6b-b1c1-a48200e78eb8&adv_id=00000000-0000-0000-0000-000000000000",
+      "sourcePageUrl": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+          "retrievedAt": "2026-03-31T13:18:50.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/userfiles/192fa5e5-ce90-4a0d-95f0-b6760344a2e1/Untitled.jpg",
+      "alt": "2η Πανελλήνια Ιατρική Συνάντηση",
+      "sourcePageUrl": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+          "retrievedAt": "2026-03-31T13:18:50.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/handlers/ClickImpressions.ashx?action=impression&clt_id=50&bnr_id=d85a5b04-103d-4d72-83d8-a48200e67f33&cmp_id=6ab3091e-18a5-4a6b-b1c1-a48200e78eb8&adv_id=00000000-0000-0000-0000-000000000000",
+      "sourcePageUrl": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+          "retrievedAt": "2026-03-31T13:18:50.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/userfiles/192fa5e5-ce90-4a0d-95f0-b6760344a2e1/banner-pricelist-EN.png",
+      "alt": "Timokatalogos",
+      "sourcePageUrl": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+          "retrievedAt": "2026-03-31T13:18:50.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/handlers/ClickImpressions.ashx?action=impression&clt_id=50&bnr_id=32cff26f-d6b9-4020-8df8-a48200e7153b&cmp_id=6ab3091e-18a5-4a6b-b1c1-a48200e78eb8&adv_id=00000000-0000-0000-0000-000000000000",
+      "sourcePageUrl": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+          "retrievedAt": "2026-03-31T13:18:50.771Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.centralclinic.gr/images/banner-video.png",
+      "sourcePageUrl": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+          "retrievedAt": "2026-03-31T13:18:50.771Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "210 3674043-2103674028",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.482Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "002829401000",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.482Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210-3674041",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.482Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "26/01/2026",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.482Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "02/12/2025",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.482Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 210 36 74 000",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.482Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 210 36 74 063",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.482Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "operationdept@centralclinic.gr",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.482Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "ccaa@centralclinic.gr",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.482Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "ΕΠΙΚΟΙΝΩΝΙΑ ΘΕΣΕΙΣ ΕΡΓΑΣΙΑΣ ΣΥΝΔΕΣΜΟΙ SITEMAP Ασκληπιού 31, Αθήνα 106 80 +30 210 36 74 000 +30 210 36 74 063 Αριθμός ΓΕΜΗ: 002829401000 ccaa@centralclinic.gr Follow us Πολιτική Απορρήτου Πολιτική Cookies Ρυθμίσεις cookies Δήλωση Προσβασιμότητας Copyright 2025 Central Clinic CREATED BY DOPE STUDIO",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.482Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Ασκληπιού 31, Αθήνα 106 80",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.482Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.centralclinic.gr/",
+      "sourcePageUrl": "https://www.centralclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.centralclinic.gr/",
+          "retrievedAt": "2026-03-31T13:18:43.482Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.centralclinic.gr/clinic/quality-of-service",
+      "sourcePageUrl": "https://www.centralclinic.gr/clinic/quality-of-service",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.centralclinic.gr/clinic/quality-of-service",
+          "retrievedAt": "2026-03-31T13:18:44.838Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.centralclinic.gr/clinic/profile",
+      "sourcePageUrl": "https://www.centralclinic.gr/clinic/profile",
+      "pageType": "about",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.centralclinic.gr/clinic/profile",
+          "retrievedAt": "2026-03-31T13:18:46.219Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.centralclinic.gr/medical-departments/doctors/by-specialty",
+      "sourcePageUrl": "https://www.centralclinic.gr/medical-departments/doctors/by-specialty",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.centralclinic.gr/medical-departments/doctors/by-specialty",
+          "retrievedAt": "2026-03-31T13:18:47.799Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.centralclinic.gr/useful-information/admission-procedure",
+      "sourcePageUrl": "https://www.centralclinic.gr/useful-information/admission-procedure",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.centralclinic.gr/useful-information/admission-procedure",
+          "retrievedAt": "2026-03-31T13:18:49.264Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "CONTACT US JOB OPENINGS LINKS SITEMAP Asklipiou 31, Athens, P.C. 106 80 +30 210 36 74 000 +30 210 36 74 063 Αριθμός ΓΕΜΗ: 002829401000 ccaa@centralclinic.gr Follow us Πολιτική Απορρήτου Πολιτική Cookies Ρυθμίσεις cookies Δήλωση Προσβασιμότητας Copyright 2025 Central Clinic CREATED BY DOPE STUDIO",
+      "sourcePageUrl": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+      "pageType": "services",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+          "retrievedAt": "2026-03-31T13:18:50.771Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Asklipiou 31, Athens, P.C. 106 80",
+      "sourcePageUrl": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+      "pageType": "services",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+          "retrievedAt": "2026-03-31T13:18:50.771Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+      "sourcePageUrl": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+          "retrievedAt": "2026-03-31T13:18:50.771Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://www.centralclinic.gr/",
+    "finalOrigin": "https://www.centralclinic.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://www.centralclinic.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:18:42.876Z",
+      "status": "missing",
+      "allowRules": [],
+      "disallowRules": [],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://www.centralclinic.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:18:42.684Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://www.centralclinic.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/clinic/quality-of-service",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/clinic/profile",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/medical-departments/doctors/by-specialty",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/useful-information/admission-procedure",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/clinic/covid",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/clinic/vision-values-goals",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/clinic/organisation-chart",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/clinic/clinicenvironmentalpolicy",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/clinic/politik",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/clinic/clinicfoodsafetypolicy",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/clinic/Policy",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/clinic/clinicqualitypolicy",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/clinic/news",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/clinic/balance",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/clinic/photogallery",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/clinic/draseis",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/clinic/timolatalogos",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/medical-departments/doctors/alphabetically",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:43.484Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/clinic/quality-of-service",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:44.840Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.centralclinic.gr/clinic/quality-of-service",
+        "timestamp": "2026-03-31T13:18:44.840Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/clinic/profile",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:46.221Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/clinic/profile",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/clinic/profile",
+        "timestamp": "2026-03-31T13:18:46.222Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/useful-information/discharged-from-the-Clinic",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/clinic/profile",
+        "timestamp": "2026-03-31T13:18:46.222Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/medical-departments/doctors/by-specialty",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:47.801Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/medical-departments/doctors/by-specialty",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.centralclinic.gr/medical-departments/doctors/by-specialty",
+        "timestamp": "2026-03-31T13:18:47.801Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/useful-information/faq",
+        "action": "queued",
+        "pageTypeHint": "faq",
+        "reason": "Discovered from https://www.centralclinic.gr/medical-departments/doctors/by-specialty",
+        "timestamp": "2026-03-31T13:18:47.801Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/useful-information/admission-procedure",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.centralclinic.gr/",
+        "timestamp": "2026-03-31T13:18:49.266Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/useful-information/admission-procedure",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.centralclinic.gr/useful-information/admission-procedure",
+        "timestamp": "2026-03-31T13:18:49.267Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/useful-information/telephone-numbers",
+        "action": "queued",
+        "pageTypeHint": "booking",
+        "reason": "Discovered from https://www.centralclinic.gr/useful-information/admission-procedure",
+        "timestamp": "2026-03-31T13:18:49.267Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.centralclinic.gr/clinic/quality-of-service",
+        "timestamp": "2026-03-31T13:18:50.773Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/clinic/covid",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "timestamp": "2026-03-31T13:18:50.773Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/clinic/vision-values-goals",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "timestamp": "2026-03-31T13:18:50.773Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/clinic/clinicenvironmentalpolicy",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "timestamp": "2026-03-31T13:18:50.773Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/clinic/politik",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "timestamp": "2026-03-31T13:18:50.773Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/clinic/clinicfoodsafetypolicy",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "timestamp": "2026-03-31T13:18:50.773Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/clinic/Policy",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "timestamp": "2026-03-31T13:18:50.773Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/clinic/clinicqualitypolicy",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "timestamp": "2026-03-31T13:18:50.773Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/clinic/news",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "timestamp": "2026-03-31T13:18:50.773Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/clinic/photogallery",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "timestamp": "2026-03-31T13:18:50.773Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/clinic/draseis",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "timestamp": "2026-03-31T13:18:50.773Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/clinic/timolatalogos",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "timestamp": "2026-03-31T13:18:50.773Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/medical-departments/doctors/alphabetically",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "timestamp": "2026-03-31T13:18:50.773Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/useful-information/discharged-from-the-Clinic",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "timestamp": "2026-03-31T13:18:50.773Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/useful-information/faq",
+        "action": "queued",
+        "pageTypeHint": "faq",
+        "reason": "Discovered from https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "timestamp": "2026-03-31T13:18:50.773Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/en/medical-departments/outpatients",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.centralclinic.gr/en/clinic/quality-of-service",
+        "timestamp": "2026-03-31T13:18:50.773Z"
+      },
+      {
+        "url": "https://www.centralclinic.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:18:53.709Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

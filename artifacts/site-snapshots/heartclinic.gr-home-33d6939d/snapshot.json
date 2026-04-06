@@ -1,0 +1,2961 @@
+{
+  "domain": "heartclinic.gr",
+  "collectedAt": "2026-03-31T13:09:20.275Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/heartclinic.gr-home-33d6939d",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://heartclinic.gr/",
+      "finalUrl": "https://heartclinic.gr/",
+      "fetchedAt": "2026-03-31T13:08:45.828Z",
+      "metadata": {
+        "title": "The Heart Clinic – ΔΗΜΗΤΡΙΟΣ Μ. ΚΛΕΤΤΑΣ",
+        "canonicalUrl": "https://heartclinic.gr/",
+        "language": "el"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "VIDEOS"
+        },
+        {
+          "level": "h2",
+          "text": "Οι Υπηρεσίες μας"
+        },
+        {
+          "level": "h2",
+          "text": "ΕΙΠΑΝ ΓΙΑ ΕΜΑΣ"
+        },
+        {
+          "level": "h3",
+          "text": "ΏΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "level": "h3",
+          "text": "ΡΑΝΤΕΒΟΥ"
+        },
+        {
+          "level": "h3",
+          "text": "Επικοινωνήστε μαζί μας"
+        },
+        {
+          "level": "h3",
+          "text": "Stress Echo"
+        },
+        {
+          "level": "h3",
+          "text": "Stress Echo Σε Εργομετρικό Ποδήλατο"
+        },
+        {
+          "level": "h3",
+          "text": "Holter Ρυθμού & Πίεσης (τώρα και κατ’οίκον)"
+        },
+        {
+          "level": "h3",
+          "text": "Βαλβιδικό Stress Echo"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://heartclinic.gr/wp-content/uploads/2023/03/Afisa_Psifiaka-Ergaleia_jpg-scaled.jpg"
+        },
+        {
+          "href": "https://heartclinic.gr/"
+        },
+        {
+          "href": "https://heartclinic.gr/dimitris-klettas/",
+          "label": "Το Ιατρείο"
+        },
+        {
+          "href": "https://heartclinic.gr/iatreio-eksoplismos/",
+          "label": "Ιατρείο – Εξοπλισμός"
+        },
+        {
+          "href": "https://heartclinic.gr/h-omada-mas/",
+          "label": "Η Ομάδα Μας"
+        },
+        {
+          "href": "https://heartclinic.gr/eipan-gia-emas/",
+          "label": "Είπαν για Εμάς"
+        },
+        {
+          "href": "https://heartclinic.gr/ypiresies/",
+          "label": "Υπηρεσίες"
+        },
+        {
+          "href": "https://heartclinic.gr/triplex-kardias/",
+          "label": "Triplex καρδιάς"
+        },
+        {
+          "href": "https://heartclinic.gr/holter-piesis/",
+          "label": "Holter Πίεσης"
+        },
+        {
+          "href": "https://heartclinic.gr/kardiologikos-elegxos/",
+          "label": "Πλήρης Καρδιολογικός Έλεγχος"
+        },
+        {
+          "href": "https://heartclinic.gr/holter-rithmou/",
+          "label": "Holter Ρυθμού (τώρα και κατ’οίκον)"
+        },
+        {
+          "href": "https://heartclinic.gr/stress-echo/",
+          "label": "Stress Echo"
+        },
+        {
+          "href": "https://heartclinic.gr/stress-echo-se-ergometriko-podilato/",
+          "label": "Stress Echo Σε Εργομετρικό Ποδήλατο"
+        },
+        {
+          "href": "https://heartclinic.gr/%ce%b2%ce%b1%ce%bb%ce%b2%ce%b9%ce%b4%ce%b9%ce%ba%cf%8c-stress-echo/",
+          "label": "Βαλβιδικό Stress Echo"
+        },
+        {
+          "href": "https://heartclinic.gr/apli-episkepsi/",
+          "label": "Απλή Επίσκεψη"
+        },
+        {
+          "href": "https://heartclinic.gr/kat-oikon-episkepsi/",
+          "label": "Κατ’ Οίκον Επίσκεψη"
+        },
+        {
+          "href": "https://heartclinic.gr/pistopoihtika/",
+          "label": "Πιστοποιητικά / Βεβαιώσεις"
+        },
+        {
+          "href": "https://heartclinic.gr/omilies/",
+          "label": "Ομιλίες"
+        },
+        {
+          "href": "https://heartclinic.gr/pathiseis/",
+          "label": "Παθήσεις"
+        },
+        {
+          "href": "https://heartclinic.gr/fotographies/",
+          "label": "Φωτογραφιες"
+        },
+        {
+          "href": "https://heartclinic.gr/contact/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://heartclinic.gr/en/"
+        },
+        {
+          "href": "https://heartclinic.gr/ypiresies",
+          "label": "Υπηρεσίες"
+        },
+        {
+          "href": "https://heartclinic.gr/wp-content/uploads/2020/04/%CE%9F%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82-%CE%B5%CE%BE%CE%B5%CF%84%CE%AC%CF%83%CE%B5%CF%89%CE%BD-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B7%CE%BD-%CE%BA%CE%B1%CE%BB%CE%AE-%CE%BB%CE%B5%CE%B9%CF%84%CE%BF%CF%85%CF%81%CE%B3%CE%AF%CE%B1-%CF%84%CE%B7%CF%82-%CE%BA%CE%B1%CF%81%CE%B4%CE%B9%CE%AC%CF%82.mp4",
+          "label": "https://heartclinic.gr/wp-content/uploads/2020/04/Οδηγίες-εξετάσεων-για-την-καλή-λειτουργία-της-καρδιάς.mp4"
+        },
+        {
+          "href": "https://heartclinic.gr/stress-echo-%cf%83%ce%b5-%ce%b5%cf%81%ce%b3%ce%bf%ce%bc%ce%b5%cf%84%cf%81%ce%b9%ce%ba%cf%8c-%cf%80%ce%bf%ce%b4%ce%ae%ce%bb%ce%b1%cf%84%ce%bf/",
+          "label": "Stress Echo Σε Εργομετρικό Ποδήλατο"
+        },
+        {
+          "href": "https://heartclinic.gr/%cf%85%cf%80%ce%b7%cf%81%ce%b5%cf%83%ce%af%ce%b5%cf%82/",
+          "label": "ΟΛΕΣ ΟΙ ΥΠΗΡΕΣΙΕΣ"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://heartclinic.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Search …",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "6973348722 - 2130909910",
+          "213 090 9910",
+          "2130909910",
+          "15.00-19.00",
+          "10.00-20.00",
+          "15.00-18.00",
+          "10.00-13.00",
+          "711598615",
+          "+2130909910"
+        ],
+        "emails": [
+          "info@heartclinic.gr"
+        ],
+        "addresses": [
+          "ΜενουΑρχική Υπηρεσίες Επικοινωνία Όροι Χρήσης Πολιτική Απορρήτου Επικοινωνία Σεμιτέλου 5, 11528 Μέγαρο Μουσικής 2130909910 info@heartclinic.gr Ώρες Λειτουργίας Δευτέρα: 15.00-19.00 Τρίτη: 10.00-20.00 Τετάρτη: 15.00-18.00 Πέμπτη : 10.00-20.00 Παρασκευή: 10.00-13.00 Ραντεβου στο Πολυδροσο κατοπιν τηλεφωνικης επικοινωνιας Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι info@heartclinic.gr κατασκευη ιστοσελιδας",
+          "Σεμιτέλου 5, 11528 Μέγαρο Μουσικής",
+          "Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι"
+        ],
+        "socialLinks": [],
+        "forms": [
+          {
+            "action": "https://heartclinic.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Search …",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "ΜενουΑρχική Υπηρεσίες Επικοινωνία Όροι Χρήσης Πολιτική Απορρήτου Επικοινωνία Σεμιτέλου 5, 11528 Μέγαρο Μουσικής 2130909910 info@heartclinic.gr Ώρες Λειτουργίας Δευτέρα: 15.00-19.00 Τρίτη: 10.00-20.00 Τετάρτη: 15.00-18.00 Πέμπτη : 10.00-20.00 Παρασκευή: 10.00-13.00 Ραντεβου στο Πολυδροσο κατοπιν τηλεφωνικης επικοινωνιας Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι info@heartclinic.gr κατασκευη ιστοσελιδας",
+      "textContent": "Heart ClinicΤο Ιατρείο Δημήτριος Κλέττας Ιατρείο – Εξοπλισμός Η Ομάδα Μας Είπαν για ΕμάςΥπηρεσίες Triplex καρδιάς Holter Πίεσης Πλήρης Καρδιολογικός Έλεγχος Holter Ρυθμού (τώρα και κατ’οίκον) Stress Echo Stress Echo Σε Εργομετρικό Ποδήλατο Βαλβιδικό Stress Echo Απλή Επίσκεψη Κατ’ Οίκον Επίσκεψη Πιστοποιητικά / ΒεβαιώσειςΟμιλίεςΠαθήσειςΦωτογραφιεςΕπικοινωνία 6973348722 - 2130909910 info@heartclinic.gr Heart ClinicΤο Ιατρείο Δημήτριος Κλέττας Ιατρείο – Εξοπλισμός Η Ομάδα Μας Είπαν για ΕμάςΥπηρεσίες Triplex καρδιάς Holter Πίεσης Πλήρης Καρδιολογικός Έλεγχος Holter Ρυθμού (τώρα και κατ’οίκον) Stress Echo Stress Echo Σε Εργομετρικό Ποδήλατο Βαλβιδικό Stress Echo Απλή Επίσκεψη Κατ’ Οίκον Επίσκεψη Πιστοποιητικά / ΒεβαιώσειςΟμιλίεςΠαθήσειςΦωτογραφιεςΕπικοινωνία HOLTER ( τώρα και κατ’ οίκον) Υπηρεσίες Stress Echo με ΕΟΠΥΥ var htmlDiv = document.getElementById(\"rs-plugin-settings-inline-css\"); var htmlDivCss=\"\"; if(htmlDiv) { htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss; }else{ var htmlDiv = document.createElement(\"div\"); htmlDiv.innerHTML = \"<style>\" + htmlDivCss + \"</style>\"; document.getElementsByTagName(\"head\")[0].appendChild(htmlDiv.childNodes[0]); } var htmlDiv = document.getElementById(\"rs-plugin-settings-inline-css\"); var htmlDivCss=\"\"; if(htmlDiv) { htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss; }else{ var htmlDiv = document.createElement(\"div\"); htmlDiv.innerHTML = \"<style>\" + htmlDivCss + \"</style>\"; document.getElementsByTagName(\"head\")[0].appendChild(htmlDiv.childNodes[0]); } if (setREVStartSize!==undefined) setREVStartSize( {c: '#rev_slider_4_1', responsiveLevels: [1240,1024,778,480], gridwidth: [1240,1024,778,480], gridheight: [568,428,510,460], sliderLayout: 'fullwidth'}); var revapi4, tpj; (function() { if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener(\"DOMContentLoaded\",onLoad); else onLoad(); function onLoad() { if (tpj===undefined) { tpj = jQuery; if(\"off\" == \"on\") tpj.noConflict();} if(tpj(\"#rev_slider_4_1\").revolution == undefined){ revslider_showDoubleJqueryError(\"#rev_slider_4_1\"); }else{ revapi4 = tpj(\"#rev_slider_4_1\").show().revolution({ sliderType:\"standard\", jsFileLocation:\"//heartclinic.gr/wp-content/plugins/revslider/public/assets/js/\", sliderLayout:\"fullwidth\", dottedOverlay:\"none\", delay:9000, navigation: { keyboardNavigation:\"off\", keyboard_direction: \"horizontal\", mouseScrollNavigation:\"off\", mouseScrollReverse:\"default\", onHoverStop:\"off\", arrows: { style:\"kallyas-ares\", enable:true, hide_onmobile:true, hide_under:767, hide_onleave:false, tmp:'', left: { h_align:\"left\", v_align:\"center\", h_offset:40, v_offset:0 }, right: { h_align:\"right\", v_align:\"center\", h_offset:40, v_offset:0 } } }, responsiveLevels:[1240,1024,778,480], visibilityLevels:[1240,1024,778,480], gridwidth:[1240,1024,778,480], gridheight:[568,428,510,460], lazyType:\"none\", shadow:0, spinner:\"spinner1\", stopLoop:\"off\", stopAfterLoops:-1, stopAtSlide:-1, shuffle:\"off\", autoHeight:\"off\", disableProgressBar:\"on\", hideThumbsOnMobile:\"off\", hideSliderAtLimit:0, hideCaptionAtLimit:0, hideAllCaptionAtLilmit:0, debugMode:false, fallbacks: { simplifyAll:\"off\", nextSlideOnWindowFocus:\"off\", disableFocusListener:false, } }); }; /* END OF revapi call */ }; /* END OF ON LOAD FUNCTION */ }()); /* END OF WRAPPING FUNCTION */ var htmlDivCss = ' #rev_slider_4_1_wrapper .tp-loader.spinner1{ background-color: #ffffff !important; } '; var htmlDiv = document.getElementById('rs-plugin-settings-inline-css'); if(htmlDiv) { htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss; } else{ var htmlDiv = document.createElement('div'); htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>'; document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]); } var htmlDivCss = unescape(\".kallyas-ares.tparrows%20%7B%0A%20%20width%3A50px%3B%0A%20%20height%3A50px%3B%0A%20%20background%3Atransparent%3B%0A%20%7D%0A%20.kallyas-ares.tparrows%3Abefore%20%7B%0A%20font-weight%3Anormal%3B%0A%20width%3A50px%3B%0A%20height%3A50px%3B%0A%20line-height%3A50px%3B%0A%20font-size%3A40px%3B%0A%20transition%3Aall%200.3s%3B%0A-webkit-transition%3Aall%200.3s%3B%0A%20%7D%0A%20%0A%20%20.kallyas-ares.tparrows%3Ahover%3Abefore%20%7B%0A%20%20%20%20opacity%3A0.75%3B%0A%20%20%7D%0A\"); var htmlDiv = document.getElementById('rs-plugin-settings-inline-css'); if(htmlDiv) { htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss; } else{ var htmlDiv = document.createElement('div'); htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>'; document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]); } ΏΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣΔευτέρα: 15:00 – 19:00 Τρίτη 10:00 – 20:00 Τετ. 15:00 – 18:00 Πεμ. 10:00 – 20:00 Παρ. 10:00 – 13:00 Ραντεβού στο Πολύδροσο κατόπιν τηλεφωνικής επικοινωνίας ΕΠΙΚΟΙΝΩΝΙΑ213 090 9910 (Μέγαρο Μουσικής) Επικοινωνήστε Μαζί μας ΡΑΝΤΕΒΟΥΕπικοινωνήστε μαζί μας ώστε να κλείσουμε ένα ραντεβού, τηλεφωνικά, μέσω της φόρμας επικοινωνίας, ή μέσω email. VIDEOS Ο Έλληνας καρδιολόγος που ειδικεύεται στο νέο τεστ κοπώσεως σε ποδήλατο Ο κύριος Δημήτριος Κλέττας στην εκπομπή του Μιχάλη Κεφαλογιάννη στον Alpha https://heartclinic.gr/wp-content/uploads/2020/04/Οδηγίες-εξετάσεων-για-την-καλή-λειτουργία-της-καρδιάς.mp4 Πέτρος Νιχογιαννόπουλος Καρδιολόγος Καθηγητής Καρδιολογίας στο Imperial College London Ομότιμος Καθηγητής Καρδιολογίας στο ΕΚΠΑ MD, FRCP, FESC, FACC, FAHA, Δημήτριος Μ. Κλέττας Καρδιολόγος Πανεπιστημιακός Συνεργάτης Α’ Πανεπιστημιακής Κλινικής Ιπποκρατείου Αθηνών Επιμελητής Καρδιολογίας NHS, UK Εξειδικευμένος στα King’s College Hospital και Hammersmith Hospital, Λονδίνο, UK Ευρωπαϊκή Πιστοποίηση Υπερηχοκαρδιογραφίας Καλωσήρθατε στη Heart Clinic Τ ο καρδιολογικό κέντρο The Heart Clinic ιδρύθηκε πρόσφατα με σκοπό να προσφέρει υπηρεσίες υψηλού ευρωπαϊκού επιπέδου σε όλα τα καρδιολογικά θέματα. Η δομή και η νοοτροπία του The Heart Clinic είναι βασισμένες στα στάνταρντ υψηλού επιπέδου ιδιωτικών κέντρων ιδίως του Ηνωμένου Βασιλείου και των Ηνωμένων Πολιτειών της Αμερικής. Το καρδιολογικό κέντρο Τhe Ηeart Clinic δύναται να παρέχει όλες τις καρδιολογικές υπηρεσίες για οποιαδήποτε καρδιακή νόσο τόσο μέσα στο ίδιο το κέντρο όσο και σε συνεργασία με τα μεγαλύτερα δημόσια και ιδιωτικά νοσοκομεία των Αθηνών και του Λονδίνου. Προτεραιότητά μας είναι η ασφάλεια με γρήγορη διάγνωση και κατάρτιση θεραπευτικού πλάνου το οποίο ο ασθενής παραλαμβάνει γραπτώς. Είμαστε υπεύθυνοι στη συνέχεια να οργανώσουμε κάθε βήμα της θεραπείας και παρακολούθησης του ασθενούς όπου κι αν χρειάζεται να γίνει αυτό, σε συνεχή επικοινωνία με τον ασθενή. Αξίζει να σημειωθεί ότι στο The Ηeart Clinic εφαρμόζονται σύγχρονα τεστ , νέα για τον ελληνικό χώρο, για ειδικές καρδιολογικές παθήσεις. Επικοινωνήστε μαζί μαςΕάν θέλετε να κλείσετε ένα ραντεβού επικοινωνήστε μαζί μας μέσω της φόρμας επικοινωνίας ή στα τηλέφωνα 2130909910. ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥΟι Υπηρεσίες μας Stress Echo Stress Echo Σε Εργομετρικό Ποδήλατο Holter Ρυθμού & Πίεσης (τώρα και κατ’οίκον) Βαλβιδικό Stress Echo ΟΛΕΣ ΟΙ ΥΠΗΡΕΣΙΕΣ ΕΙΠΑΝ ΓΙΑ ΕΜΑΣ “Άριστος επαγγελματίας και πολύ φιλικός. Ακόμα και για ένα απλό πιστοποιητικό μου έκανε όλες τις απαραίτητες εξετάσεις και εκτενή κουβέντα για σχετικά θέματα. Τον προτείνω ανεπιφύλακτα.” 10/10 - Γιάννης Κ.“Άψογος ο γιατρός πολύ καταρτισμένος, επεξηγηματικός, προσιτός και με κατανόηση. Χώρος χαλαρωτικός και πλήρως εξοπλισμένος. Το συστήνω ανεπιφύλακτα.” 10/10 - Ιωαννα Σ.“I’m really happy and satisfied with the fact I met this doctor because, first of all I didn’t have any problem with communication once he also speaks English. And then he explains everything with all the details and make you feel comfortable even if you are afraid of something that might be worrying you. He doesn’t rush the time, he listens and give you all the information you need. I highly recommend this doctor.” 10/10 - Fabio M“Ευγενέστατος, προσιτός και επεξηγηματικός, ακόμα και για μια απλή και προληπτικού χαρακτήρα εξέταση.” 9.8/10 - Απόστολος Χ“The doctor made me feel very comfortable. He showed particular interest in my problem and he was very scholastic.” 10/10 - Δημήτρης Γ ΜενουΑρχική Υπηρεσίες Επικοινωνία Όροι Χρήσης Πολιτική Απορρήτου Επικοινωνία Σεμιτέλου 5, 11528 Μέγαρο Μουσικής 2130909910 info@heartclinic.gr Ώρες Λειτουργίας Δευτέρα: 15.00-19.00 Τρίτη: 10.00-20.00 Τετάρτη: 15.00-18.00 Πέμπτη : 10.00-20.00 Παρασκευή: 10.00-13.00 Ραντεβου στο Πολυδροσο κατοπιν τηλεφωνικης επικοινωνιας Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι info@heartclinic.gr κατασκευη ιστοσελιδας .mpc-nav-preset--default .mpcslick-prev i {color:#333333;}.mpc-nav-preset--default .mpcslick-next i {color:#333333;}.mpc-row[data-row-id=\"mpc_row-4769cbc75d97570\"] > .mpc-overlay--first {opacity:1;background: #555555;}.mpc-callout[data-id=\"mpc_callout-6669cbc75d994ab\"] {background: #00b8dd;}.mpc-callout[data-id=\"mpc_callout-6669cbc75d994ab\"] .mpc-callout__heading {width: 100%;margin-top:-1px;color:#f7f7f7;font-size:20px;line-height:2;text-align:center;text-transform:uppercase;}.mpc-callout[data-id=\"mpc_callout-6669cbc75d994ab\"] .mpc-callout__description {width: 100%;color:#f7f7f7;font-size:17px;line-height:1.75;text-align:center;}.mpc-callout[data-id=\"mpc_callout-6669cbc75d994ab\"] .mpc-callout__icon {border-color:#ffffff;border-style:dashed;border-radius:100px;margin-bottom:0.4em;color:#ffffff;font-size:44px;}.mpc-callout[data-id=\"mpc_callout-5469cbc75d9ab5e\"] {background: #3ec3dd;}.mpc-callout[data-id=\"mpc_callout-5469cbc75d9ab5e\"] .mpc-callout__heading {width: 100%;margin-top:-1px;color:#f7f7f7;font-size:20px;line-height:2;text-align:center;text-transform:uppercase;}.mpc-callout[data-id=\"mpc_callout-5469cbc75d9ab5e\"] .mpc-callout__description {width: 100%;color:#f7f7f7;font-size:25px;line-height:1.75;text-align:center;}.mpc-callout[data-id=\"mpc_callout-5469cbc75d9ab5e\"] .mpc-callout__icon {border-color:#ffffff;border-style:dashed;border-radius:100px;margin-bottom:0.4em;color:#ffffff;font-size:44px;}.mpc-callout[data-id=\"mpc_callout-6769cbc75d9c39c\"] {padding:30px;background: #00b8dd;}.mpc-callout[data-id=\"mpc_callout-6769cbc75d9c39c\"] .mpc-callout__heading {width: 100%;margin-top:-1px;color:#f7f7f7;font-size:20px;line-height:2;text-align:center;text-transform:uppercase;}.mpc-callout[data-id=\"mpc_callout-6769cbc75d9c39c\"] .mpc-callout__description {width: 100%;color:#f7f7f7;font-size:17px;line-height:1.75;text-align:center;}.mpc-callout[data-id=\"mpc_callout-6769cbc75d9c39c\"] .mpc-callout__icon {border-width:3px;border-color:#ffffff;border-style:dashed;border-radius:100px;padding:10px;margin-bottom:0.4em;color:#ffffff;font-size:44px;}.mpc-column[data-column-id=\"mpc_column-1069cbc75da636f\"] {text-align: center;}.mpc-column[data-column-id=\"mpc_column-3869cbc75da8e20\"] {text-align: center;}.mpc-column[data-column-id=\"mpc_column-1069cbc75daaec4\"] {text-align: center;}.mpc-dropcap[id=\"mpc_dropcap-6069cbc75dba068\"] {border-top:0px;border-right:0px;border-bottom:3px;border-left:0px;border-color:#1f85bb;border-style:solid;border-radius:10px;padding-top:4px;padding-right:28px;padding-bottom:4px;padding-left:28px;margin-right:10px;color:#ffffff;font-size:48px;text-transform:uppercase;background: #2297d6;}.mpc-image[data-id=\"mpc_image-8069cbc75dbcfb3\"] .mpc-item img {opacity: 1;filter: alpha( opacity = 100 );}.mpc-image[data-id=\"mpc_image-8069cbc75dbcfb3\"] .mpc-item:hover img {opacity: 1;filter: alpha( opacity = 100 );}.mpc-image[data-id=\"mpc_image-8069cbc75dbcfb3\"] .mpc-type--external {color:#333333;}.mpc-image[data-id=\"mpc_image-8069cbc75dbcfb3\"] .mpc-type--lightbox {color:#333333;}.mpc-column[data-column-id=\"mpc_column-2569cbc75dbd2e8\"] {text-align: center;}.mpc-callout[data-id=\"mpc_callout-8469cbc75dbf52d\"] {padding-top:50px;padding-right:0px;padding-bottom:50px;padding-left:0px;}.mpc-callout[data-id=\"mpc_callout-8469cbc75dbf52d\"] .mpc-callout__heading {width: 65%;margin-top:0px;margin-bottom:8px;color:#ffffff;font-size:24px;line-height:1.3;text-align:left;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-8469cbc75dbf52d\"] .mpc-callout__description {width: 65%;margin-top:0px;margin-bottom:0px;color:#ffffff;font-size:14px;line-height:1.5;text-align:left;}.mpc-callout[data-id=\"mpc_callout-8469cbc75dbf52d\"] .mpc-callout__description a {color: #f7f7f7;}.mpc-callout[data-id=\"mpc_callout-8469cbc75dbf52d\"] .mpc-callout__description a:hover {color: #ffffff;}.mpc-callout[data-id=\"mpc_callout-8469cbc75dbf52d\"] .mpc-callout__icon {padding-right:30px;color:#ffffff;font-size:44px;}.mpc-button[data-id=\"mpc_button-4569cbc75dbf869\"] {border-width:2px;border-color:#ffffff;border-style:solid;border-radius:0px;color:#ffffff;font-size:18px;text-transform:none;}.mpc-button[data-id=\"mpc_button-4569cbc75dbf869\"] .mpc-button__icon {padding-top:12px;padding-right:35px;padding-bottom:12px;padding-left:35px;color:#333333;}.mpc-button[data-id=\"mpc_button-4569cbc75dbf869\"] .mpc-button__title {padding-top:12px;padding-right:35px;padding-bottom:12px;padding-left:35px;}.mpc-button[data-id=\"mpc_button-4569cbc75dbf869\"] .mpc-button__background {background: #ffffff;}.mpc-button[data-id=\"mpc_button-4569cbc75dbf869\"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-4569cbc75dbf869\"] .mpc-button__title,.mpc-active .mpc-button[data-id=\"mpc_button-4569cbc75dbf869\"] .mpc-button__title {color:#333333;}.mpc-row[data-row-id=\"mpc_row-3569cbc75dc0399\"] > .mpc-overlay--first {opacity:0.62;background: #00b8dd;}.mpc-row[data-row-id=\"mpc_row-3569cbc75dc0399\"] > .mpc-parallax-wrap .mpc-parallax:before {background-image:url(\"https://heartclinic.gr/wp-content/uploads/2017/02/bg-19.jpg\");background-size:cover;}.mpc-divider-wrap[data-id=\"mpc_divider-7369cbc75dc2774\"] .mpc-divider {width:30%;}.mpc-divider-wrap[data-id=\"mpc_divider-7369cbc75dc2774\"] .mpc-divider__content {font-size:24px;color:#888888;padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:10px;}.mpc-divider-wrap[data-id=\"mpc_divider-7369cbc75dc2774\"] .mpc-divider__line > span {border-top-style:solid;border-top-color:#888888;border-top-width:2px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-7369cbc75dc2774\"] .mpc-divider__line.mpc-side--left {width:50%;}.mpc-divider-wrap[data-id=\"mpc_divider-7369cbc75dc2774\"] .mpc-divider__line.mpc-side--right {width:50%;}.mpc-circle-icons .mpc-icon-column[data-id=\"mpc_icon_column-10069cbc75dc54f9\"] .mpc-icon-column__content-wrap,.mpc-icon-column[data-id=\"mpc_icon_column-10069cbc75dc54f9\"] {background: #ffffff;}.mpc-circle-icons .mpc-icon-column[data-id=\"mpc_icon_column-10069cbc75dc54f9\"]:hover .mpc-icon-column__content-wrap,.mpc-icon-column[data-id=\"mpc_icon_column-10069cbc75dc54f9\"]:hover {background: #f3f3f3;}.mpc-icon-column[data-id=\"mpc_icon_column-10069cbc75dc54f9\"] .mpc-icon-column__heading {line-height:2;}.mpc-icon-column[data-id=\"mpc_icon_column-10069cbc75dc54f9\"] .mpc-icon-column__description {color:#555555;}.mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-4069cbc75dc6a68\"]:hover,.mpc-parent-hover:hover .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-4069cbc75dc6a68\"],.mpc-active .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-4069cbc75dc6a68\"] {background: #f29760;}.mpc-divider-wrap[data-id=\"mpc_divider-1169cbc75dc6c01\"] .mpc-divider {width:100%;}.mpc-divider-wrap[data-id=\"mpc_divider-1169cbc75dc6c01\"] .mpc-divider__line > span {border-top-style:solid;border-top-width:1px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-1169cbc75dc6c01\"] .mpc-divider__line.mpc-side--left {width:50%;}.mpc-divider-wrap[data-id=\"mpc_divider-1169cbc75dc6c01\"] .mpc-divider__line.mpc-side--right {width:50%;}.mpc-circle-icons .mpc-icon-column[data-id=\"mpc_icon_column-2869cbc75dc7d49\"] .mpc-icon-column__content-wrap,.mpc-icon-column[data-id=\"mpc_icon_column-2869cbc75dc7d49\"] {background: #ffffff;}.mpc-circle-icons .mpc-icon-column[data-id=\"mpc_icon_column-2869cbc75dc7d49\"]:hover .mpc-icon-column__content-wrap,.mpc-icon-column[data-id=\"mpc_icon_column-2869cbc75dc7d49\"]:hover {background: #f3f3f3;}.mpc-icon-column[data-id=\"mpc_icon_column-2869cbc75dc7d49\"] .mpc-icon-column__heading {margin:5px;line-height:2;}.mpc-icon-column[data-id=\"mpc_icon_column-2869cbc75dc7d49\"] .mpc-icon-column__description {color:#555555;}.mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-4769cbc75dc918c\"]:hover,.mpc-parent-hover:hover .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-4769cbc75dc918c\"],.mpc-active .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-4769cbc75dc918c\"] {background: #f29760;}.mpc-divider-wrap[data-id=\"mpc_divider-1769cbc75dc937e\"] .mpc-divider {width:100%;}.mpc-divider-wrap[data-id=\"mpc_divider-1769cbc75dc937e\"] .mpc-divider__line > span {border-top-style:solid;border-top-width:1px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-1769cbc75dc937e\"] .mpc-divider__line.mpc-side--left {width:50%;}.mpc-divider-wrap[data-id=\"mpc_divider-1769cbc75dc937e\"] .mpc-divider__line.mpc-side--right {width:50%;}.mpc-circle-icons .mpc-icon-column[data-id=\"mpc_icon_column-4469cbc75dca459\"] .mpc-icon-column__content-wrap,.mpc-icon-column[data-id=\"mpc_icon_column-4469cbc75dca459\"] {background: #ffffff;}.mpc-circle-icons .mpc-icon-column[data-id=\"mpc_icon_column-4469cbc75dca459\"]:hover .mpc-icon-column__content-wrap,.mpc-icon-column[data-id=\"mpc_icon_column-4469cbc75dca459\"]:hover {background: #f3f3f3;}.mpc-icon-column[data-id=\"mpc_icon_column-4469cbc75dca459\"] .mpc-icon-column__heading {line-height:2;}.mpc-icon-column[data-id=\"mpc_icon_column-4469cbc75dca459\"] .mpc-icon-column__description {color:#555555;}.mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-5469cbc75dcb811\"]:hover,.mpc-parent-hover:hover .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-5469cbc75dcb811\"],.mpc-active .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-5469cbc75dcb811\"] {background: #f29760;}.mpc-divider-wrap[data-id=\"mpc_divider-469cbc75dcb989\"] .mpc-divider {width:100%;}.mpc-divider-wrap[data-id=\"mpc_divider-469cbc75dcb989\"] .mpc-divider__line > span {border-top-style:solid;border-top-width:1px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-469cbc75dcb989\"] .mpc-divider__line.mpc-side--left {width:50%;}.mpc-divider-wrap[data-id=\"mpc_divider-469cbc75dcb989\"] .mpc-divider__line.mpc-side--right {width:50%;}.mpc-circle-icons .mpc-icon-column[data-id=\"mpc_icon_column-3069cbc75dce06d\"] .mpc-icon-column__content-wrap,.mpc-icon-column[data-id=\"mpc_icon_column-3069cbc75dce06d\"] {background: #ffffff;}.mpc-circle-icons .mpc-icon-column[data-id=\"mpc_icon_column-3069cbc75dce06d\"]:hover .mpc-icon-column__content-wrap,.mpc-icon-column[data-id=\"mpc_icon_column-3069cbc75dce06d\"]:hover {background: #f3f3f3;}.mpc-icon-column[data-id=\"mpc_icon_column-3069cbc75dce06d\"] .mpc-icon-column__heading {margin:5px;line-height:2;}.mpc-icon-column[data-id=\"mpc_icon_column-3069cbc75dce06d\"] .mpc-icon-column__description {color:#555555;}.mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-969cbc75dcf695\"]:hover,.mpc-parent-hover:hover .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-969cbc75dcf695\"],.mpc-active .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-969cbc75dcf695\"] {background: #f29760;}.mpc-divider-wrap[data-id=\"mpc_divider-7569cbc75dcf81e\"] .mpc-divider {width:100%;}.mpc-divider-wrap[data-id=\"mpc_divider-7569cbc75dcf81e\"] .mpc-divider__line > span {border-top-style:solid;border-top-width:1px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-7569cbc75dcf81e\"] .mpc-divider__line.mpc-side--left {width:50%;}.mpc-divider-wrap[data-id=\"mpc_divider-7569cbc75dcf81e\"] .mpc-divider__line.mpc-side--right {width:50%;}.mpc-divider-wrap[data-id=\"mpc_divider-369cbc75dd84f8\"] .mpc-divider {width:30%;}.mpc-divider-wrap[data-id=\"mpc_divider-369cbc75dd84f8\"] .mpc-divider__content {font-size:24px;color:#ffffff;padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:10px;}.mpc-divider-wrap[data-id=\"mpc_divider-369cbc75dd84f8\"] .mpc-divider__line > span {border-top-style:solid;border-top-color:#ffffff;border-top-width:2px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-369cbc75dd84f8\"] .mpc-divider__line.mpc-side--left {width:50%;}.mpc-divider-wrap[data-id=\"mpc_divider-369cbc75dd84f8\"] .mpc-divider__line.mpc-side--right {width:50%;}.mpc-column[data-column-id=\"mpc_column-8969cbc75dd8a7b\"] {text-align: center;}.mpc-testimonial[data-id=\"mpc_testimonial-9769cbc75dd98d5\"] .mpc-testimonial__description {color:#ffffff;font-size:16px;line-height:1.6;}.mpc-testimonial[data-id=\"mpc_testimonial-9769cbc75dd98d5\"] .mpc-testimonial__signature {color:#ffffff;font-size:18px;text-align:center;text-transform:uppercase;}.mpc-testimonial[data-id=\"mpc_testimonial-5569cbc75dd9d23\"] .mpc-testimonial__description {color:#ffffff;font-size:16px;line-height:1.6;}.mpc-testimonial[data-id=\"mpc_testimonial-5569cbc75dd9d23\"] .mpc-testimonial__signature {color:#ffffff;font-size:18px;text-align:center;text-transform:uppercase;}.mpc-testimonial[data-id=\"mpc_testimonial-1869cbc75dda110\"] .mpc-testimonial__description {color:#ffffff;font-size:16px;line-height:1.6;}.mpc-testimonial[data-id=\"mpc_testimonial-1869cbc75dda110\"] .mpc-testimonial__signature {color:#ffffff;font-size:18px;text-align:center;text-transform:uppercase;}.mpc-testimonial[data-id=\"mpc_testimonial-9269cbc75dda51f\"] .mpc-testimonial__description {color:#ffffff;font-size:16px;line-height:1.6;}.mpc-testimonial[data-id=\"mpc_testimonial-9269cbc75dda51f\"] .mpc-testimonial__signature {color:#ffffff;font-size:18px;text-align:center;text-transform:uppercase;}.mpc-testimonial[data-id=\"mpc_testimonial-6669cbc75dda8f3\"] .mpc-testimonial__description {color:#ffffff;font-size:16px;line-height:1.6;}.mpc-testimonial[data-id=\"mpc_testimonial-6669cbc75dda8f3\"] .mpc-testimonial__signature {color:#ffffff;font-size:18px;text-align:center;text-transform:uppercase;}.mpc-row[data-row-id=\"mpc_row-369cbc75ddbdfc\"] > .mpc-overlay--first {opacity:0.37;background: #00b8dd;}.mpc-row[data-row-id=\"mpc_row-369cbc75ddbdfc\"] > .mpc-parallax-wrap .mpc-parallax:before {background-image:url(\"https://heartclinic.gr/wp-content/uploads/2017/10/bgbg.jpg\");background-size:cover;} document.addEventListener( 'wpcf7mailsent', function( event ) { if ( '27665' == event.detail.contactFormId ) { gtag('event', 'conversion', {'send_to': 'AW-711598615/NifoCO3Y9KkBEJfEqNMC'}); } }, false ); function revslider_showDoubleJqueryError(sliderID) { var errorMessage = \"Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.\"; errorMessage += \"<br> This includes make eliminates the revolution slider libraries, and make it not work.\"; errorMessage += \"<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option: <strong><b>Put JS Includes To Body</b></strong> option to true.\"; errorMessage += \"<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.\"; errorMessage = \"<span style='font-size:16px;color:#BC0C06;'>\" + errorMessage + \"</span>\"; jQuery(sliderID).show().html(errorMessage); } /* <![CDATA[ */ var wpcf7 = {\"apiSettings\":{\"root\":\"https:\\/\\/heartclinic.gr\\/wp-json\\/contact-form-7\\/v1\",\"namespace\":\"contact-form-7\\/v1\"},\"recaptcha\":{\"messages\":{\"empty\":\"\\u0395\\u03c0\\u03b9\\u03b2\\u03b5\\u03b2\\u03b1\\u03b9\\u03ce\\u03c3\\u03c4\\u03b5 \\u03cc\\u03c4\\u03b9 \\u03b4\\u03b5\\u03bd \\u03b5\\u03af\\u03c3\\u03c4\\u03b5 \\u03c1\\u03bf\\u03bc\\u03c0\\u03cc\\u03c4.\"}}}; /* ]]> */ /* <![CDATA[ */ var _mpc_ajax = \"https:\\/\\/heartclinic.gr\\/wp-admin\\/admin-ajax.php\"; var _mpc_animations = \"0\"; var _mpc_parallax = \"0\"; var _mpc_scroll_to_id = \"1\"; /* ]]> */ /* <![CDATA[ */ var tg_global_var = {\"url\":\"https:\\/\\/heartclinic.gr\\/wp-admin\\/admin-ajax.php\",\"nonce\":\"65472d6dd5\",\"is_mobile\":null,\"mediaelement\":\"\",\"mediaelement_ex\":null,\"lightbox_autoplay\":\"\",\"debounce\":\"\",\"meta_data\":null,\"main_query\":{\"error\":\"\",\"m\":\"\",\"p\":\"27519\",\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":\"27519\",\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":5,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}}; /* ]]> */ var mejsL10n = {\"language\":\"el\",\"strings\":{\"mejs.install-flash\":\"\\u03a7\\u03c1\\u03b7\\u03c3\\u03b9\\u03bc\\u03bf\\u03c0\\u03bf\\u03b9\\u03b5\\u03af\\u03c4\\u03b5 \\u03ad\\u03bd\\u03b1\\u03bd \\u03c0\\u03b5\\u03c1\\u03b9\\u03b7\\u03b3\\u03b7\\u03c4\\u03ae \\u03c0\\u03bf\\u03c5 \\u03b4\\u03b5\\u03bd \\u03ad\\u03c7\\u03b5\\u03b9 \\u03c4\\u03bf Flash player \\u03b5\\u03bd\\u03b5\\u03c1\\u03b3\\u03bf\\u03c0\\u03bf\\u03b9\\u03b7\\u03bc\\u03ad\\u03bd\\u03bf \\u03ae \\u03b5\\u03b3\\u03ba\\u03b1\\u03c4\\u03b5\\u03c3\\u03c4\\u03b7\\u03bc\\u03ad\\u03bd\\u03bf. \\u03a0\\u03b1\\u03c1\\u03b1\\u03ba\\u03b1\\u03bb\\u03bf\\u03cd\\u03bc\\u03b5 \\u03b5\\u03bd\\u03b5\\u03c1\\u03b3\\u03bf\\u03c0\\u03bf\\u03b9\\u03ae\\u03c3\\u03c4\\u03b5 \\u03c4\\u03bf \\u03c0\\u03c1\\u03cc\\u03c3\\u03b8\\u03b5\\u03c4\\u03bf \\u03c4\\u03bf\\u03c5 Flash player \\u03ae \\u03ba\\u03ac\\u03bd\\u03c4\\u03b5 \\u03bb\\u03ae\\u03c8\\u03b7 \\u03c4\\u03b7\\u03c2 \\u03c4\\u03b5\\u03bb\\u03b5\\u03c5\\u03c4\\u03b1\\u03af\\u03b1\\u03c2 \\u03ad\\u03ba\\u03b4\\u03bf\\u03c3\\u03b7\\u03c2 \\u03b1\\u03c0\\u03cc https:\\/\\/get.adobe.com\\/flashplayer\\/\",\"mejs.fullscreen-off\":\"\\u039a\\u03bb\\u03b5\\u03af\\u03c3\\u03b9\\u03bc\\u03bf \\u03c0\\u03bb\\u03ae\\u03c1\\u03bf\\u03c5\\u03c2 \\u03bf\\u03b8\\u03cc\\u03bd\\u03b7\\u03c2\",\"mejs.fullscreen-on\":\"\\u03a0\\u03bb\\u03ae\\u03c1\\u03b7\\u03c2 \\u03bf\\u03b8\\u03cc\\u03bd\\u03b7\",\"mejs.download-video\":\"\\u0391\\u03bd\\u03ac\\u03ba\\u03c4\\u03b7\\u03c3\\u03b7 \\u03b2\\u03af\\u03bd\\u03c4\\u03b5\\u03bf\",\"mejs.fullscreen\":\"\\u03a0\\u03bb\\u03ae\\u03c1\\u03b7\\u03c2 \\u03bf\\u03b8\\u03cc\\u03bd\\u03b7\",\"mejs.time-jump-forward\":[\"\\u039c\\u03b5\\u03c4\\u03ac\\u03b2\\u03b1\\u03c3\\u03b7 \\u03b5\\u03bc\\u03c0\\u03c1\\u03cc\\u03c2 1 \\u03b4\\u03b5\\u03c5\\u03c4\\u03b5\\u03c1\\u03cc\\u03bb\\u03b5\\u03c0\\u03c4\\u03bf\",\"\\u03a0\\u03ae\\u03b3\\u03b1\\u03b9\\u03bd\\u03b5 \\u03bc\\u03c0\\u03c1\\u03bf\\u03c3\\u03c4\\u03ac %1 \\u03b4\\u03b5\\u03c5\\u03c4\\u03b5\\u03c1\\u03cc\\u03bb\\u03b5\\u03c0\\u03c4\\u03b1\"],\"mejs.loop\":\"\\u0395\\u03bd\\u03b1\\u03bb\\u03bb\\u03b1\\u03b3\\u03ae \\u03c3\\u03c5\\u03bd\\u03b5\\u03c7\\u03bf\\u03cd\\u03c2 \\u03b1\\u03bd\\u03b1\\u03c0\\u03b1\\u03c1\\u03b1\\u03b3\\u03c9\\u03b3\\u03ae\\u03c2\",\"mejs.play\":\"\\u0391\\u03bd\\u03b1\\u03c0\\u03b1\\u03c1\\u03b1\\u03b3\\u03c9\\u03b3\\u03ae\",\"mejs.pause\":\"\\u03a0\\u03b1\\u03cd\\u03c3\\u03b7\",\"mejs.close\":\"\\u039a\\u03bb\\u03b5\\u03af\\u03c3\\u03b9\\u03bc\\u03bf\",\"mejs.time-slider\":\"\\u03a7\\u03c1\\u03cc\\u03bd\\u03bf\\u03c2 \\u03ba\\u03cd\\u03bb\\u03b9\\u03c3\\u03b7\\u03c2\",\"mejs.time-help-text\":\"\\u03a7\\u03c1\\u03b7\\u03c3\\u03b9\\u03bc\\u03bf\\u03c0\\u03bf\\u03b9\\u03ae\\u03c3\\u03c4\\u03b5 \\u03c4\\u03b1 \\u03c0\\u03bb\\u03ae\\u03ba\\u03c4\\u03c1\\u03b1 \\u0391\\u03c1\\u03b9\\u03c3\\u03c4\\u03b5\\u03c1\\u03cc\\/\\u0394\\u03b5\\u03be\\u03af \\u03b2\\u03ad\\u03bb\\u03bf\\u03c2 \\u03b3\\u03b9\\u03b1 \\u03bd\\u03b1 \\u03c0\\u03c1\\u03bf\\u03c7\\u03c9\\u03c1\\u03ae\\u03c3\\u03b5\\u03c4\\u03b5 \\u03ad\\u03bd\\u03b1 \\u03b4\\u03b5\\u03c5\\u03c4\\u03b5\\u03c1\\u03cc\\u03bb\\u03b5\\u03c0\\u03c4\\u03bf, \\u03a0\\u03ac\\u03bd\\u03c9\\/\\u039a\\u03ac\\u03c4\\u03c9 \\u03b2\\u03ad\\u03bb\\u03b7 \\u03b3\\u03b9\\u03b1 \\u03bd\\u03b1 \\u03c0\\u03c1\\u03bf\\u03c7\\u03c9\\u03c1\\u03ae\\u03c3\\u03b5\\u03c4\\u03b5 \\u03b4\\u03ad\\u03ba\\u03b1 \\u03b4\\u03b5\\u03c5\\u03c4\\u03b5\\u03c1\\u03cc\\u03bb\\u03b5\\u03c0\\u03c4\\u03b1.\",\"mejs.time-skip-back\":[\"\\u03a0\\u03af\\u03c3\\u03c9 1 \\u03b4\\u03b5\\u03c5\\u03c4\\u03b5\\u03c1\\u03cc\\u03bb\\u03b5\\u03c0\\u03c4\\u03bf\",\"\\u039c\\u03b5\\u03c4\\u03ac\\u03b2\\u03b1\\u03c3\\u03b7 \\u03c0\\u03af\\u03c3\\u03c9 %1 \\u03b4\\u03b5\\u03c5\\u03c4\\u03b5\\u03c1\\u03cc\\u03bb\\u03b5\\u03c0\\u03c4\\u03b1\"],\"mejs.captions-subtitles\":\"\\u039b\\u03b5\\u03b6\\u03ac\\u03bd\\u03c4\\u03b5\\u03c2\\/\\u03c5\\u03c0\\u03cc\\u03c4\\u03b9\\u03c4\\u03bb\\u03bf\\u03b9\",\"mejs.captions-chapters\":\"\\u039a\\u03b5\\u03c6\\u03ac\\u03bb\\u03b1\\u03b9\\u03b1\",\"mejs.none\":\"\\u039a\\u03b1\\u03bc\\u03af\\u03b1\",\"mejs.mute-toggle\":\"\\u03a3\\u03af\\u03b3\\u03b1\\u03c3\\u03b7\\/\\u03b1\\u03c0\\u03bf\\u03c3\\u03af\\u03b3\\u03b1\\u03c3\\u03b7\",\"mejs.volume-help-text\":\"\\u03a7\\u03c1\\u03b7\\u03c3\\u03b9\\u03bc\\u03bf\\u03c0\\u03bf\\u03b9\\u03b5\\u03af\\u03c3\\u03c4\\u03b5 \\u03c4\\u03b1 \\u03c0\\u03bb\\u03ae\\u03ba\\u03c4\\u03c1\\u03b1 \\u03a0\\u03ac\\u03bd\\u03c9\\/\\u039a\\u03ac\\u03c4\\u03c9 \\u03b2\\u03ad\\u03bb\\u03bf\\u03c2 \\u03b3\\u03b9\\u03b1 \\u03bd\\u03b1 \\u03b1\\u03c5\\u03be\\u03ae\\u03c3\\u03b5\\u03c4\\u03b5 \\u03ae \\u03bd\\u03b1 \\u03bc\\u03b5\\u03b9\\u03ce\\u03c3\\u03b5\\u03c4\\u03b5 \\u03ad\\u03bd\\u03c4\\u03b1\\u03c3\\u03b7.\",\"mejs.unmute\":\"\\u0391\\u03c0\\u03bf\\u03c3\\u03af\\u03b3\\u03b1\\u03c3\\u03b7\",\"mejs.mute\":\"\\u03a3\\u03af\\u03b3\\u03b1\\u03c3\\u03b7\",\"mejs.volume-slider\":\"\\u03a1\\u03c5\\u03b8\\u03bc\\u03b9\\u03c3\\u03c4\\u03b9\\u03ba\\u03cc \\u0388\\u03bd\\u03c4\\u03b1\\u03c3\\u03b7\\u03c2\",\"mejs.video-player\":\"\\u03a0\\u03c1\\u03cc\\u03b3\\u03c1\\u03b1\\u03bc\\u03bc\\u03b1 \\u0391\\u03bd\\u03b1\\u03c0\\u03b1\\u03c1\\u03b1\\u03b3\\u03c9\\u03b3\\u03ae\\u03c2 \\u0392\\u03af\\u03bd\\u03c4\\u03b5\\u03bf\",\"mejs.audio-player\":\"\\u03a0\\u03c1\\u03cc\\u03b3\\u03c1\\u03b1\\u03bc\\u03bc\\u03b1 \\u0391\\u03bd\\u03b1\\u03c0\\u03b1\\u03c1\\u03b1\\u03b3\\u03c9\\u03b3\\u03ae\\u03c2 \\u0389\\u03c7\\u03bf\\u03c5\",\"mejs.ad-skip\":\"\\u03a0\\u03b1\\u03c1\\u03ac\\u03b2\\u03bb\\u03b5\\u03c8\\u03b7 \\u03b4\\u03b9\\u03b1\\u03c6\\u03ae\\u03bc\\u03b9\\u03c3\\u03b7\\u03c2\",\"mejs.ad-skip-info\":[\"\\u03a0\\u03b1\\u03c1\\u03ac\\u03b2\\u03bb\\u03b5\\u03c8\\u03b7 \\u03c3\\u03b5 1 \\u03b4\\u03b5\\u03c5\\u03c4\\u03b5\\u03c1\\u03cc\\u03bb\\u03b5\\u03c0\\u03c4\\u03bf\",\"\\u03a0\\u03b1\\u03c1\\u03ac\\u03bb\\u03b5\\u03b9\\u03c8\\u03b7 \\u03c3\\u03b5 %1 \\u03b4\\u03b5\\u03c5\\u03c4\\u03b5\\u03c1\\u03cc\\u03bb\\u03b5\\u03c0\\u03c4\\u03b1\"],\"mejs.source-chooser\":\"\\u0395\\u03c0\\u03b9\\u03bb\\u03bf\\u03b3\\u03ad\\u03b1\\u03c2 \\u03c0\\u03b7\\u03b3\\u03ae\\u03c2\",\"mejs.stop\":\"\\u03a4\\u03b5\\u03c1\\u03bc\\u03b1\\u03c4\\u03b9\\u03c3\\u03bc\\u03cc\\u03c2\",\"mejs.speed-rate\":\"\\u03a4\\u03b1\\u03c7\\u03cd\\u03c4\\u03b7\\u03c4\\u03b1\",\"mejs.live-broadcast\":\"\\u0396\\u03c9\\u03bd\\u03c4\\u03b1\\u03bd\\u03ae \\u03bc\\u03b5\\u03c4\\u03ac\\u03b4\\u03bf\\u03c3\\u03b7\",\"mejs.afrikaans\":\"\\u0386\\u03c6\\u03c1\\u03b9\\u03ba\\u03b1\\u03b1\\u03bd\\u03c2\",\"mejs.albanian\":\"\\u0391\\u03bb\\u03b2\\u03b1\\u03bd\\u03b9\\u03ba\\u03ac\",\"mejs.arabic\":\"\\u0391\\u03c1\\u03b1\\u03b2\\u03b9\\u03ba\\u03ac\",\"mejs.belarusian\":\"\\u039b\\u03b5\\u03c5\\u03ba\\u03bf\\u03c1\\u03c9\\u03c3\\u03b9\\u03ba\\u03ac\",\"mejs.bulgarian\":\"\\u0392\\u03bf\\u03c5\\u03bb\\u03b3\\u03b1\\u03c1\\u03b9\\u03ba\\u03ac\",\"mejs.catalan\":\"\\u039a\\u03b1\\u03c4\\u03b1\\u03bb\\u03b1\\u03bd\\u03b9\\u03ba\\u03ac\",\"mejs.chinese\":\"\\u039a\\u03b9\\u03bd\\u03ad\\u03b6\\u03b9\\u03ba\\u03b1\",\"mejs.chinese-simplified\":\"\\u039a\\u03b9\\u03bd\\u03ad\\u03b6\\u03b9\\u03ba\\u03b1 (\\u0391\\u03c0\\u03bb\\u03bf\\u03c0\\u03bf\\u03b9\\u03b7\\u03bc\\u03ad\\u03bd\\u03b1)\",\"mejs.chinese-traditional\":\"\\u039a\\u03b9\\u03bd\\u03ad\\u03b6\\u03b9\\u03ba\\u03b1 (\\u03a0\\u03b1\\u03c1\\u03b1\\u03b4\\u03bf\\u03c3\\u03b9\\u03b1\\u03ba\\u03ac)\",\"mejs.croatian\":\"\\u039a\\u03c1\\u03bf\\u03b1\\u03c4\\u03b9\\u03ba\\u03ac\",\"mejs.czech\":\"\\u03a4\\u03c3\\u03ad\\u03c7\\u03b9\\u03ba\\u03b1\",\"mejs.danish\":\"\\u0394\\u03b1\\u03bd\\u03ad\\u03b6\\u03b9\\u03ba\\u03b1\",\"mejs.dutch\":\"\\u039f\\u03bb\\u03bb\\u03b1\\u03bd\\u03b4\\u03b9\\u03ba\\u03ac\",\"mejs.english\":\"\\u0391\\u03b3\\u03b3\\u03bb\\u03b9\\u03ba\\u03ac\",\"mejs.estonian\":\"\\u0395\\u03c3\\u03b8\\u03bf\\u03bd\\u03b9\\u03b1\\u03bd\\u03ac\",\"mejs.filipino\":\"\\u03a6\\u03b9\\u03bb\\u03b9\\u03c0\\u03c0\\u03b9\\u03bd\\u03ad\\u03b6\\u03b9\\u03ba\\u03b1\",\"mejs.finnish\":\"\\u039f\\u03bb\\u03bf\\u03ba\\u03bb\\u03ae\\u03c1\\u03c9\\u03c3\\u03b7\",\"mejs.french\":\"\\u0393\\u03b1\\u03bb\\u03bb\\u03b9\\u03ba\\u03ac\",\"mejs.galician\":\"\\u0393\\u03b1\\u03bb\\u03b9\\u03ba\\u03b9\\u03b1\\u03bd\\u03ac\",\"mejs.german\":\"\\u0393\\u03b5\\u03c1\\u03bc\\u03b1\\u03bd\\u03b9\\u03ba\\u03ac\",\"mejs.greek\":\"\\u0395\\u03bb\\u03bb\\u03b7\\u03bd\\u03b9\\u03ba\\u03ac\",\"mejs.haitian-creole\":\"\\u039a\\u03c1\\u03b5\\u03bf\\u03bb\\u03b9\\u03ba\\u03ac \\u0391\\u03ca\\u03c4\\u03ae\\u03c2\",\"mejs.hebrew\":\"\\u0395\\u03b2\\u03c1\\u03b1\\u03ca\\u03ba\\u03ac\",\"mejs.hindi\":\"\\u03a7\\u03af\\u03bd\\u03c4\\u03b9\",\"mejs.hungarian\":\"\\u039f\\u03c5\\u03b3\\u03b3\\u03c1\\u03b9\\u03ba\\u03ac\",\"mejs.icelandic\":\"\\u0399\\u03c3\\u03bb\\u03b1\\u03bd\\u03b4\\u03b9\\u03ba\\u03ac\",\"mejs.indonesian\":\"\\u0399\\u03bd\\u03b4\\u03bf\\u03bd\\u03b7\\u03c3\\u03b9\\u03b1\\u03ba\\u03ac\",\"mejs.irish\":\"\\u0399\\u03c1\\u03bb\\u03b1\\u03bd\\u03b4\\u03b9\\u03ba\\u03ac\",\"mejs.italian\":\"\\u0399\\u03c4\\u03b1\\u03bb\\u03b9\\u03ba\\u03ac\",\"mejs.japanese\":\"\\u0399\\u03b1\\u03c0\\u03c9\\u03bd\\u03b9\\u03ba\\u03ac\",\"mejs.korean\":\"\\u039a\\u03bf\\u03b5\\u03c1\\u03ac\\u03c4\\u03b9\\u03ba\\u03b1\",\"mejs.latvian\":\"\\u039b\\u03b5\\u03c4\\u03bf\\u03bd\\u03b9\\u03ba\\u03ac\",\"mejs.lithuanian\":\"\\u039b\\u03b9\\u03b8\\u03bf\\u03c5\\u03b1\\u03bd\\u03b9\\u03ba\\u03ac\",\"mejs.macedonian\":\"\\u03a3\\u03ba\\u03bf\\u03c0\\u03b9\\u03b1\\u03bd\\u03ac\",\"mejs.malay\":\"\\u039c\\u03b1\\u03bb\\u03b1\\u03b9\\u03c3\\u03b9\\u03b1\\u03bd\\u03ac\",\"mejs.maltese\":\"\\u039c\\u03b1\\u03bb\\u03c4\\u03ad\\u03b6\\u03b9\\u03ba\\u03b1\",\"mejs.norwegian\":\"\\u039d\\u03bf\\u03c1\\u03b2\\u03b7\\u03b3\\u03b9\\u03ba\\u03ac\",\"mejs.persian\":\"\\u03a0\\u03b5\\u03c1\\u03c3\\u03b9\\u03ba\\u03ac\",\"mejs.polish\":\"\\u03a0\\u03bf\\u03bb\\u03c9\\u03bd\\u03b9\\u03ba\\u03ac\",\"mejs.portuguese\":\"\\u03a0\\u03bf\\u03c1\\u03c4\\u03bf\\u03b3\\u03b1\\u03bb\\u03b9\\u03ba\\u03ac\",\"mejs.romanian\":\"\\u03a1\\u03bf\\u03c5\\u03bc\\u03b1\\u03bd\\u03b9\\u03ba\\u03ac\",\"mejs.russian\":\"\\u03a1\\u03c9\\u03c3\\u03b9\\u03ba\\u03ac\",\"mejs.serbian\":\"\\u03a3\\u03b5\\u03c1\\u03b2\\u03b9\\u03ba\\u03ac\",\"mejs.slovak\":\"\\u03a3\\u03bb\\u03bf\\u03b2\\u03b1\\u03ba\\u03b9\\u03ba\\u03ac\",\"mejs.slovenian\":\"\\u03a3\\u03bb\\u03bf\\u03b2\\u03b5\\u03bd\\u03b9\\u03ba\\u03ac\",\"mejs.spanish\":\"\\u0399\\u03c3\\u03c0\\u03b1\\u03bd\\u03b9\\u03ba\\u03ac\",\"mejs.swahili\":\"\\u03a3\\u03bf\\u03c5\\u03b1\\u03c7\\u03af\\u03bb\\u03b9\",\"mejs.swedish\":\"\\u03a3\\u03bf\\u03c5\\u03b7\\u03b4\\u03b9\\u03ba\\u03ac\",\"mejs.tagalog\":\"Tagalog\",\"mejs.thai\":\"\\u03a4\\u03b1\\u03ca\\u03bb\\u03b1\\u03bd\\u03b4\\u03ad\\u03b6\\u03b9\\u03ba\\u03b1\",\"mejs.turkish\":\"\\u03a4\\u03bf\\u03c5\\u03c1\\u03ba\\u03b9\\u03ba\\u03ac\",\"mejs.ukrainian\":\"\\u039f\\u03c5\\u03ba\\u03c1\\u03b1\\u03bd\\u03b9\\u03ba\\u03ac\",\"mejs.vietnamese\":\"\\u0392\\u03b9\\u03b5\\u03c4\\u03bd\\u03b1\\u03bc\\u03ad\\u03b6\\u03b9\\u03ba\\u03b1\",\"mejs.welsh\":\"\\u039f\\u03c5\\u03b1\\u03bb\\u03b9\\u03ba\\u03ac\",\"mejs.yiddish\":\"\\u0393\\u03af\\u03bd\\u03c4\\u03b9\\u03c2\"}}; /* <![CDATA[ */ var _wpmejsSettings = {\"pluginPath\":\"\\/wp-includes\\/js\\/mediaelement\\/\",\"classPrefix\":\"mejs-\",\"stretching\":\"responsive\"}; /* ]]> */ var to_like_post = {\"url\":\"https://heartclinic.gr/wp-admin/admin-ajax.php\",\"nonce\":\"7ceba8ae6e\"};!function(t){\"use strict\";t(document).ready(function(){t(document).on(\"click\",\".to-post-like:not('.to-post-like-unactive')\",function(e){e.preventDefault();var o=t(this),n=o.data(\"post-id\"),s=parseInt(o.find(\".to-like-count\").text());return o.addClass(\"heart-pulse\"),t.ajax({type:\"post\",url:to_like_post.url,data:{nonce:to_like_post.nonce,action:\"to_like_post\",post_id:n,like_nb:s},context:o,success:function(e){e&&((o=t(this)).attr(\"title\",e.title),o.find(\".to-like-count\").text(e.count),o.removeClass(e.remove_class+\" heart-pulse\").addClass(e.add_class))}}),!1})})}(jQuery);",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/heartclinic.gr-home-33d6939d/homepage--33d6939d.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/heartclinic.gr-home-33d6939d/homepage--33d6939d.txt",
+      "imageReferences": [
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2023/03/Banner_Psifiakos-Metasx_1.png",
+          "alt": "espa banner",
+          "sourcePageUrl": "https://heartclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.827Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2018/11/heart-clinic-logo-e1545047296213.png",
+          "sourcePageUrl": "https://heartclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.827Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png",
+          "alt": "en",
+          "sourcePageUrl": "https://heartclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.827Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.png",
+          "alt": "el",
+          "sourcePageUrl": "https://heartclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.827Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2018/12/heart-clinic-logo-300x84.png",
+          "sourcePageUrl": "https://heartclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.827Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2019/02/banner-002.jpg",
+          "sourcePageUrl": "https://heartclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.827Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2024/07/VP2_0011.jpg",
+          "sourcePageUrl": "https://heartclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.827Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2024/07/VP2_0030.jpg",
+          "sourcePageUrl": "https://heartclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.827Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2024/07/photo-petros-297x300.jpg",
+          "sourcePageUrl": "https://heartclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.827Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2024/07/photo-front-page-300x225.jpg",
+          "sourcePageUrl": "https://heartclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.827Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2024/07/VP2_0095-1024x682.jpg",
+          "sourcePageUrl": "https://heartclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.827Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2019/04/IMG_320%CF%87250.jpg",
+          "sourcePageUrl": "https://heartclinic.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/",
+              "retrievedAt": "2026-03-31T13:08:45.827Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.828Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/heartclinic.gr-home-33d6939d/homepage-page-33d6939d.png"
+    },
+    "about": {
+      "pageType": "about",
+      "requestedUrl": "https://heartclinic.gr/dimitris-klettas",
+      "finalUrl": "https://heartclinic.gr/dimitris-klettas",
+      "fetchedAt": "2026-03-31T13:08:57.236Z",
+      "metadata": {
+        "title": "Δημήτριος Κλέττας – The Heart Clinic",
+        "canonicalUrl": "https://heartclinic.gr/dimitris-klettas/",
+        "language": "el"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Δημήτριος Κλέττας"
+        },
+        {
+          "level": "h2",
+          "text": "Βιογραφικό Σημείωμα"
+        },
+        {
+          "level": "h3",
+          "text": "Δημήτριος Μ. Κλέττας"
+        },
+        {
+          "level": "h3",
+          "text": "Εξειδικεύσεις:"
+        },
+        {
+          "level": "h3",
+          "text": "ΚΛΙΝΙΚΗ ΕΜΠΕΙΡΙΑ"
+        },
+        {
+          "level": "h3",
+          "text": "Απρίλιος 2021 – Απρίλιος 2024:"
+        },
+        {
+          "level": "h3",
+          "text": "Ιανουάριος 2017 – σήμερα:"
+        },
+        {
+          "level": "h3",
+          "text": "Νοέμβριος 2015 – σήμερα:"
+        },
+        {
+          "level": "h3",
+          "text": "Αύγουστος 2015 – Οκτώβριος 2015:"
+        },
+        {
+          "level": "h3",
+          "text": "Σεπτέμβριος 2013- Αύγουστος 2015:"
+        },
+        {
+          "level": "h3",
+          "text": "Μάιος 2013 – Αύγουστος 2013:"
+        },
+        {
+          "level": "h3",
+          "text": "Απρίλιος 2012 – Μάιος 2013:"
+        },
+        {
+          "level": "h3",
+          "text": "Μάιος 2010 – Οκτώβριος 2011:"
+        },
+        {
+          "level": "h3",
+          "text": "Νοέμβριος 2009 – Μάιος 2010:"
+        },
+        {
+          "level": "h3",
+          "text": "Δεκέμβριος 2007 – Νοέμβριος 2009:"
+        },
+        {
+          "level": "h3",
+          "text": "Οκτώβριος 2007 – Δεκέμβριος 2007:"
+        },
+        {
+          "level": "h3",
+          "text": "Μάιος 2006 – Ιούλιος 2007:"
+        },
+        {
+          "level": "h3",
+          "text": "Μάρτιος 2005 – Απρίλιος 2006:"
+        },
+        {
+          "level": "h3",
+          "text": "Οκτώβριος 2003 – Φεβρουάριος 2005:"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΠΙΠΡΟΣΘΕΤΕΣ ΔΡΑΣΤΗΡΙΟΤΗΤΕΣ"
+        },
+        {
+          "level": "h3",
+          "text": "Ιούλιος 2009:"
+        },
+        {
+          "level": "h3",
+          "text": "Μάιος 2010:"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΚΠΑΙΔΕΥΣΗ - ΑΚΑΔΗΜΑΪΚΕΣ ΔΡΑΣΤΗΡΙΟΤΗΤΕΣ"
+        },
+        {
+          "level": "h3",
+          "text": "Δεκέμβριος 2016:"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://heartclinic.gr/wp-content/uploads/2023/03/Afisa_Psifiaka-Ergaleia_jpg-scaled.jpg"
+        },
+        {
+          "href": "https://heartclinic.gr/"
+        },
+        {
+          "href": "https://heartclinic.gr/dimitris-klettas/",
+          "label": "Το Ιατρείο"
+        },
+        {
+          "href": "https://heartclinic.gr/iatreio-eksoplismos/",
+          "label": "Ιατρείο – Εξοπλισμός"
+        },
+        {
+          "href": "https://heartclinic.gr/h-omada-mas/",
+          "label": "Η Ομάδα Μας"
+        },
+        {
+          "href": "https://heartclinic.gr/eipan-gia-emas/",
+          "label": "Είπαν για Εμάς"
+        },
+        {
+          "href": "https://heartclinic.gr/ypiresies/",
+          "label": "Υπηρεσίες"
+        },
+        {
+          "href": "https://heartclinic.gr/triplex-kardias/",
+          "label": "Triplex καρδιάς"
+        },
+        {
+          "href": "https://heartclinic.gr/holter-piesis/",
+          "label": "Holter Πίεσης"
+        },
+        {
+          "href": "https://heartclinic.gr/kardiologikos-elegxos/",
+          "label": "Πλήρης Καρδιολογικός Έλεγχος"
+        },
+        {
+          "href": "https://heartclinic.gr/holter-rithmou/",
+          "label": "Holter Ρυθμού (τώρα και κατ’οίκον)"
+        },
+        {
+          "href": "https://heartclinic.gr/stress-echo/",
+          "label": "Stress Echo"
+        },
+        {
+          "href": "https://heartclinic.gr/stress-echo-se-ergometriko-podilato/",
+          "label": "Stress Echo Σε Εργομετρικό Ποδήλατο"
+        },
+        {
+          "href": "https://heartclinic.gr/%ce%b2%ce%b1%ce%bb%ce%b2%ce%b9%ce%b4%ce%b9%ce%ba%cf%8c-stress-echo/",
+          "label": "Βαλβιδικό Stress Echo"
+        },
+        {
+          "href": "https://heartclinic.gr/apli-episkepsi/",
+          "label": "Απλή Επίσκεψη"
+        },
+        {
+          "href": "https://heartclinic.gr/kat-oikon-episkepsi/",
+          "label": "Κατ’ Οίκον Επίσκεψη"
+        },
+        {
+          "href": "https://heartclinic.gr/pistopoihtika/",
+          "label": "Πιστοποιητικά / Βεβαιώσεις"
+        },
+        {
+          "href": "https://heartclinic.gr/omilies/",
+          "label": "Ομιλίες"
+        },
+        {
+          "href": "https://heartclinic.gr/pathiseis/",
+          "label": "Παθήσεις"
+        },
+        {
+          "href": "https://heartclinic.gr/fotographies/",
+          "label": "Φωτογραφιες"
+        },
+        {
+          "href": "https://heartclinic.gr/contact/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://heartclinic.gr/en/dimitrios-klettas/"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://heartclinic.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Search …",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "6973348722 - 2130909910",
+          "+30 697 3348722",
+          "+30 2130909910",
+          "10.03.1978",
+          "00392-020-01741-7",
+          "32920662",
+          "2020.00097",
+          "32714942",
+          "1109-9666(20)30128-7",
+          "2020.06.005"
+        ],
+        "emails": [
+          "info@heartclinic.gr",
+          "dklettas@gmail.com"
+        ],
+        "addresses": [
+          "ΜενουΑρχική Υπηρεσίες Επικοινωνία Όροι Χρήσης Πολιτική Απορρήτου Επικοινωνία Σεμιτέλου 5, 11528 Μέγαρο Μουσικής 2130909910 info@heartclinic.gr Ώρες Λειτουργίας Δευτέρα: 15.00-19.00 Τρίτη: 10.00-20.00 Τετάρτη: 15.00-18.00 Πέμπτη : 10.00-20.00 Παρασκευή: 10.00-13.00 Ραντεβου στο Πολυδροσο κατοπιν τηλεφωνικης επικοινωνιας Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι info@heartclinic.gr κατασκευη ιστοσελιδας",
+          "Σεμιτέλου 5, 11528 Μέγαρο Μουσικής",
+          "Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι"
+        ],
+        "socialLinks": [],
+        "forms": [
+          {
+            "action": "https://heartclinic.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Search …",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "ΜενουΑρχική Υπηρεσίες Επικοινωνία Όροι Χρήσης Πολιτική Απορρήτου Επικοινωνία Σεμιτέλου 5, 11528 Μέγαρο Μουσικής 2130909910 info@heartclinic.gr Ώρες Λειτουργίας Δευτέρα: 15.00-19.00 Τρίτη: 10.00-20.00 Τετάρτη: 15.00-18.00 Πέμπτη : 10.00-20.00 Παρασκευή: 10.00-13.00 Ραντεβου στο Πολυδροσο κατοπιν τηλεφωνικης επικοινωνιας Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι info@heartclinic.gr κατασκευη ιστοσελιδας",
+      "textContent": "Heart ClinicΤο Ιατρείο Δημήτριος Κλέττας Ιατρείο – Εξοπλισμός Η Ομάδα Μας Είπαν για ΕμάςΥπηρεσίες Triplex καρδιάς Holter Πίεσης Πλήρης Καρδιολογικός Έλεγχος Holter Ρυθμού (τώρα και κατ’οίκον) Stress Echo Stress Echo Σε Εργομετρικό Ποδήλατο Βαλβιδικό Stress Echo Απλή Επίσκεψη Κατ’ Οίκον Επίσκεψη Πιστοποιητικά / ΒεβαιώσειςΟμιλίεςΠαθήσειςΦωτογραφιεςΕπικοινωνία 6973348722 - 2130909910 info@heartclinic.gr Heart ClinicΤο Ιατρείο Δημήτριος Κλέττας Ιατρείο – Εξοπλισμός Η Ομάδα Μας Είπαν για ΕμάςΥπηρεσίες Triplex καρδιάς Holter Πίεσης Πλήρης Καρδιολογικός Έλεγχος Holter Ρυθμού (τώρα και κατ’οίκον) Stress Echo Stress Echo Σε Εργομετρικό Ποδήλατο Βαλβιδικό Stress Echo Απλή Επίσκεψη Κατ’ Οίκον Επίσκεψη Πιστοποιητικά / ΒεβαιώσειςΟμιλίεςΠαθήσειςΦωτογραφιεςΕπικοινωνία Δημήτριος Κλέττας Πάντα εδώ. Πάντα δίπλα σας. HomeΔημήτριος Κλέττας Βιογραφικό Σημείωμα Δημήτριος Μ. Κλέττας Προσωπικές πληροφορίες : Διεύθυνση 1: Σεμιτέλου 5, Μέγαρο Μουσικής, 115 28, Αθήνα, Ελλάδα Διεύθυνση 2: Ακακίων 52, 151 25, Πολύδροσο, Χαλάνδρι Τηλέφωνο: +30 697 3348722, +30 2130909910 E-mail: dklettas@gmail.com Εθνικότητα: Έλληνας Ημερομηνία γέννησης: 10.03.1978 Ο Κλέττας Δημήτριος είναι καρδιολόγος της Πανεπιστημιακής Κλινικής του Ιπποκρατείου Αθηνών και επιμελητής του NHS στο Hνωμένο Βασίλειο. Κατέχει ευρωπαϊκό Πτυχίο Υπερηχοκαρδιογραφίας (Triplex), Μεταπτυχιακό και Διδακτορικό Τίτλο από την Ιατρική Σχολή Αθηνών και Πτυχίο από το ίδιο πανεπιστήμιο. Ο γιατρός έχει ιδιαίτερη εμπειρία και είναι εκπαιδευτής στο Stress Echo το οποίο πραγματοποιεί τόσο φαρμακευτικά (δοβουταμίνη ) όσο και με απλή άσκηση σε ύπτιο ποδήλατο. Είναι ειδικός σε θέματα βαλβιδοπαθειών και μυοκαρδιοπαθειών μετά απο μακρά εμπειρία ως επιμελητής του NHS του Ηνωμένου Βασιλείου. Currently I work in Hippokrateion Hospital (Medical School, University of Athens-Greece) and in Northampton General Hospital as Consultant Cardiologist , with main interest in Cardiac Imaging ( Dobutamine Stress Echo, Exercise Echo , Valve Stress Echo , TOE studies and CMR duties in the private sector (LEVEL III). I used to work as a permanent Consultant Cardiologist in Northamton General Hopsital , performing Cardiac MRI lists in Hammersmith Hospital and JR Hospital in Oxford. My previous experience includes two months in Sep/Oct 2015, in Royal Brompton and Hammersmith Hospital as a Cardiac MRI fellow with full time CMR duties . Previous to this, I was working in King’s College Hospital for more than two years, in the Cardiology Department with duties on General Cardiology, A&E, Heart failure team, Infective Endocarditis team and Inherited Cardiomyopathies and specialized in Advanced Cardiac Imaging (Cardiac MRI , Cardiac CT, Stress Echo, 3D Echo TOE imaging, Cardiac Structural Intervention imaging). I had previously worked for six months in in Papworth Hospital University of Cambridge developing my skills in coronary angiograms and in Hammersmith Hospital, Imperial College London for one year where I gained extensive training in Stress Echo ( Over 400 cases) and Transoesopangeal Echocardiography with European Accreditation. Added to this, I also hold MSc in Cardiac Coronary Unit . My working history includes 4month Honorary Cardiology Consultant job in National Naval Hospital of Athens. My working experience includes more than 500 DSEs, 150 TOEs, 100 VSEs, 350 CMRs annually. Εξειδικεύσεις: Διοισοφάγεια υπερηχογραφία με ευρωπαϊκή πιστοποίηση και μεγάλη εμπειρία στο τρισδιάστατο υπερηχοκαρδιογράφημα. Μεγάλη εμπειρία στο τεστ κοπώσεως με δοβουταμίνη σε πρωτόκολλα Μεγάλης Βρετανίας. Ανάλογη εμπειρία και σε τεστ κοπώσεως με συνδυασμό κυλιόμενου τάπητα και υπερηχοκαρδιογραφίας( Exercise Echo). Εξειδίκευση στο τεστ κοπώσεως με εργομετρικό ποδήλατο για την αποκάλυψη, διάγνωση και παρακολούθηση βαλβιδοπαθειών. Εμπειρία και εξειδίκευση σε δισδιάστατη και τρισδιάστατη υπερηχοκαρδιογραφία σε επεμβάσεις δομικές και καρδιακών βλαβών και TAVIs. Εμπειρία και ευρωπαϊκή πιστοποίηση στη μαγνητική τομογραφία καρδιάς επιπέδου 3 (το ανώτερο δυνατό). ΚΛΙΝΙΚΗ ΕΜΠΕΙΡΙΑΑπρίλιος 2021 – Απρίλιος 2024: Υποδιευθυντής Υπερηχογραφικού Καρδιολογικού τμήματος νοσοκομείου Metropolitan Φαλήρου Ιανουάριος 2017 – σήμερα: Πανεπιστημιακός συνεργάτης της Ά Πανεπιστημιακής Κλινικής του Ιπποκρατείου Νοσοκομείου Αθηνών με αρμοδιότητες γενικής υπερηχοκαρδιογραφίας (>1000/έτος , διοισοφάγειας υπερηχοκαρδιογραφίας(>200/έτος), Stress Echo (>500/έτος) και Valve Stress Echo(>100/έτος). Νοέμβριος 2015 – σήμερα: Επιμελητής Kαρδιολογίας (Permanent Cardiology Consultant) και Διευθυντής του τμήματος Καρδιακής Απεικόνισης ( Stress Echo, TOE, Valve stress Echo, GUCH Clinic, Heart failure Clinic, Valve Clinic) στο Northampton General Hospital με εβδομαδιαία συμμετοχή στη Μαγνητική τομογραφία καρδιάς στο Hammersmith Hospital ( R.Steiner’s Unit ) και στο OCMR Department στο JR Oxford Hospital (υπο τον Professor Dr Saul Myers). Αύγουστος 2015 – Οκτώβριος 2015: Συνεργάτης στο Royal Brompton University Hospital, London, στη Μαγνητική Τομογραφία Καρδιάς ( υπο τον Professor D. Pennell) Σεπτέμβριος 2013- Αύγουστος 2015: Κλινικός και ερευνητικός συνεργάτης (clinical and research fellow) στη διοισοφάγεια Υπεηχοκαρδιογραφια (3D και επεμβατική) και την Υπερηχοκαρδιογραφία φόρτισης (Stress Echo) , Valve Stress Echo , Ιατρείο Καρδιακής Ανεπάρκειας , Ιατρείο Μυοκαρδιοπαθειών , στο Echocardiography Department του King’s College Hospital , King’s College , London (υπο τον Prof M.Monaghan) και στην Μαγνητική τομογραφία καρδιάς (υπο τον Dr Dan Sado) Μάιος 2013 – Αύγουστος 2013: Μετεκπαίδευση σε θέματα Επεμβατικής Καρδιολογίας και Ηλεκτροφυσιολογίας (Interventional Cardiology and Electrophysiology) στο Papworth Hospital, Cambridge University, Cambridgeshire. Απρίλιος 2012 – Μάιος 2013: -Κλινικός και ερευνητικός συνεργάτης (clinical and research fellow) στην Υπεηχοκαρδιογραφία φόρτισης στο Echocardiography Department του Hammersmith Hospital , Imperial College, London (Υπο τον Prof. P. Nihoyannopoulos MD, PHD, FRCP, FESC) -Συνεργάτης στο Hammersmith Hospital and στο St Marys Hospital στη Μαγνητική Τομογραφία Καρδιάς ( υπο τον Dr Ben Ariff) Μάιος 2010 – Οκτώβριος 2011: Ειδικευόμενος Καρδιολογίας στην Ά Καρδιολογική Κλινική του Ναυτικού Νοσοκομείου Αθηνών (Διευθυντής Dr Αναστάσιος Σπανός) Νοέμβριος 2009 – Μάιος 2010: Ειδικευόμενος Καρδιολογίας στο τμήμα Υπερήχων Καρδιάς του Νοσοκομείου Hammersmith Hospital, Imperial College, London (Διευθυντής: Καθηγητής Petros Nihoyannopoulos MD,PHD,FRCP,FESC) Δεκέμβριος 2007 – Νοέμβριος 2009: Ειδικευόμενος Καρδιολογίας στην Ά Καρδιολογική Κλινική του Ναυτικού Νοσοκομείου Αθηνών (Διευθυντής Dr Αναστάσιος Σπανός) Οκτώβριος 2007 – Δεκέμβριος 2007: Ειδικευόμενος Καρδιολογίας του Γενικού Νομαρχιακού Νοσοκομείου Ρεθύμνης (Διευθυντής : κ. Φώτιος Χαροκόπος). Μάιος 2006 – Ιούλιος 2007: Ειδικευόμενος Παθολογίας του Γενικού Νομαρχιακού Νοσοκομείου «Αμαλία Φλέμιγκ» (Διευθυντής: Dr Μωυσής Λελέκης) Μάρτιος 2005 – Απρίλιος 2006: Στρατιωτική θητεία ως ιατρός του Καρδιολογικού τμήματος του Ναυτικού Νοσοκομείου Αθηνών και του Ναυτικού Νοσοκομείου Κρήτης Οκτώβριος 2003 – Φεβρουάριος 2005: Αγροτικός ιατρός στην Νομαρχιακή Περιφέρεια της Μεσσηνίας (Διευθυντής: κ. Σπυρίδων Ζόμπολος) ΕΠΙΠΡΟΣΘΕΤΕΣ ΔΡΑΣΤΗΡΙΟΤΗΤΕΣΙούλιος 2009: Εξωτερικός συνεργάτης του Αιμοδυναμικού Εργαστηρίου του Νοσοκομείου «ΝΕΟ-ΑΘΗΝΑΙΟΝ». Μάιος 2010: Μετάφραση της Ελληνικής έκδοσης του συγγράμματος: “Cardiac pacemakers and ICDs”, Kenneth A Ellenbogen (5th Edition) ΕΚΠΑΙΔΕΥΣΗ - ΑΚΑΔΗΜΑΪΚΕΣ ΔΡΑΣΤΗΡΙΟΤΗΤΕΣΔεκέμβριος 2016: Πιστοποίηση επιπέδου ΙΙΙ στην Μαγνητική Τομογραφία Καρδιάς (SCMR Level III) Μάιος 2015: Πιστοποίηση επιπέδου ΙΙ στην αξονική τομογραφία καρδιάς στο Ηνωμένο Βασίλειο Δεκέμβριος 2012: Ευρωπαϊκή πιστοποίηση στη Καρδιακή Διοισοφάγεια Υπερηχογραφία Ευρωπαϊκή και Αμερικανική πιστοποίηση στη Μαγνητική Τομογραφία Καρδιάς Echocardiography Association (EAE),European Society of Cardiology Μάιος 2012: Υποτροφία της Ελληνικής Καρδιολογικής εταιρείας για εξειδίκευση στην Καρδιακή Υπερηχογραφία για 12 μήνες στην Μεγάλη Βρετανία. Οκτώβριος 2010: Ευρωπαϊκή πιστοποίηση στη Καρδιακή Διαθωρακική Υπερηχογραφία Echocardiography Association (EAE) European Society of Cardiology Μάρτιος 2009 – σήμερα: Διδακτορική Διατριβή στην Ά Πανεπιστημιακή Καρδιολογική Κλινική του Πανεπιστημίου Αθηνών με τίτλο: «Κλινικοί και βιοχημικοί δείκτες της ανάπτυξης και εξέλιξης των μη ενόχων πλακών στις στεφανιαίες αρτηρίες» . (Διευθυντής :Καθηγητής Χριστόδουλος Στεφανάδης) Οκτώβριος 2006 – Νοέμβριος 2008 : Μεταπτυχιακές Σπουδές στην Καρδιολογική Μονάδα Εντατικής Θεραπείας (2 έτη). Ά Πανεπιστημιακή Καρδιολογική Κλινική – Ιατρική Σχολή Αθηνών. Απρίλιος 2003 : Αποφοίτηση από την Ιατρική Σχολή Αθηνών. Ξένες Γλώσσες: Αγγλικά , Γερμανικά, Γαλλικά. ΕΡΕΥΝΑ - ΑΝΑΚΟΙΝΩΣΕΙΣEchocardiography versus computed tomography and cardiac magnetic resonance for the detection of left heart thrombosis: a systematic review and meta analysis. Clin Res Cardiol. 2020 Sep 13. doi: 10.1007/s00392-020-01741-7. Online ahead of print. Review. PMID: 32920662 HYPERLINK ”https://pubmed.ncbi.nlm.nih.gov/32920662/” Aimo A, Kollia E, Ntritsos G, Barison A, Masci PG, Figliozzi S, Klettas D, Stamatelopoulos K, Delialis D, Emdin M, Georgiopoulos G. Multi-Modality Imaging in Dilated Cardiomyopathy: With a Focus on the Role of Cardiac Magnetic Resonance. Front Cardiovasc Med. 2020 Jul 2;7:97. doi: 10.3389/fcvm.2020.00097. eCollection 2020. Review. Free PMC Article. PMID: 32714942 HYPERLINK ”https://pubmed.ncbi.nlm.nih.gov/32714942/” Mitropoulou P, Georgiopoulos G, Figliozzi S, Klettas D, Nicoli F, Masci PG. Stress echocardiography: differences between practices in Greece. A survey of the Echocardiology Working Group of the Hellenic Society of Cardiology. Hellenic J Cardiol. 2020 Jun 30:S1109-9666(20)30128-7. doi: 10.1016/j.hjc.2020.06.005. Online ahead of print. Free article. No abstract available. PMID: 32619559 HYPERLINK ”https://pubmed.ncbi.nlm.nih.gov/32619559/” Keramida K, Maniotis C, Makavos G, Papadopoulos CH, Stefanidis A, Georgilas AT, Beldekos DJ, Kouris N; working group of Echocardiology of the Hellenic Society of Cardiology. Arrhythmic risk stratification in nonischemic dilated cardiomyopathy: The ReCONSIDER study design – A two-step, multifactorial, electrophysiology-inclusive approach. Hellenic J Cardiol. 2020 Apr 21:S1109-9666(20)30075-0. doi: 10.1016/j.hjc.2020.03.008. Online ahead of print. Free article. No abstract available. PMID: 32330568 HYPERLINK ”https://pubmed.ncbi.nlm.nih.gov/32330568/” Gatzoulis KA, Dilaveris P, Arsenos P, Tsiachris D, Antoniou CK, Sideris S, Kolettis T, Kanoupakis E, Sideris A, Flevari P, Vassilikos V, Kappos K, Maounis T, Katsivas A, Kotsakis A, Karvounis H, Kossyvakis C, Leventopoulos G, Kalpakos D, Tousoulis D; ReCONSIDER study Investigators. Enterococcus faecium purulent pericarditis with transient constriction. Hellenic J Cardiol. 2020 Apr 21:S1109-9666(20)30069-5. doi: 10.1016/j.hjc.2020.03.004. Online ahead of print. Free article. No abstract available. PMID: 32330567 HYPERLINK ”https://pubmed.ncbi.nlm.nih.gov/32330567/” Lazaros G, Kalos T, Georgakopoulos C, Laina A, Aznaouridis K, Klettas D, Latsios G, Antonopoulos AS, Vlachopoulos C, Tousoulis D. Noncardioembolic Stroke in Patients with Atrial Fibrillation. Angiology. 2019 Apr;70(4):299-304. doi: 10.1177/0003319718791711. Epub 2018 Jul 31. PMID: 30064257 HYPERLINK ”https://pubmed.ncbi.nlm.nih.gov/30064257/” Katsi V, Georgiopoulos G, Skafida A, Oikonomou D, Klettas D, Vemmos K, Tousoulis D. Echo Res Pract. 2016 Mar;3(1):R1-R11. Epub 2016 Mar 8. Review. PMID: 27249816 HYPERLINK “http://www.ncbi.nlm.nih.gov/pubmed/27249816″Clinical utility of speckle-tracking echocardiography in cardiac resynchronisation therapy. Khan SG, Klettas D, Kapetanakis S, Monaghan MJ. King’s College Hospital, London, UK. “Journal of the American College of Cardiology.” J Am Coll Cardiol. 2012 May 1;59(18):1645-53. First in vivo application of microwave radiometry in human carotids: a new noninvasive method for detection of local inflammatory activation. HYPERLINK Toutouzas K, Grassos C, Drakopoulou M, Synetos A, Tsiamis E, Aggeli C, Stathogiannis K, Klettas D, Kavantzas N, Agrogiannis G, Patsouris E, Klonaris C, Liasis N, Tousoulis D, Siores E, Stefanadis C. First Department of Cardiology, Hippokration Hospital, Athens, Greece. American Heart Association Annual Scientific Sessions Abstract 5337: “Morphological Characteristics of the Culprit Lesion Correlate With the Angiographic Flow Grade Following Thrombolysis in Myocardial Infarction. An Optical Coherence Tomography Study” Antonis Karanasos, Konstantinos Toutouzas, Maria Drakopoulou, Andreas Synetos, Maria Riga, Eleftherios Tsiamis, Dimitrios Klettas, Costas Tentolouris, Elli Stefanadi, and Christodoulos Stefanadis Circulation, Nov 2009; 120: S1087. European Society of Cardiology Annual Scientific Sessions Abstract 88849: “Polymorphism in the promoter of the CRP gene is associated with increased risk of acute coronary syndromes”. D. Klettas1, K. Toutouzas1, A. Synetos1, A. Karanasos1, CH. Patsa1, A. Spanos1, E. Tsiamis1, D. Tousoulis1, C. Stefanadis1 – (1) Hippokration Hospital, University of Athens, 1st Department of Cardiology, Athens, Greece 29ο Πανελλήνιο Καρδιολογικό Συνέδριο «Η IN VIVO ΘΕΡΜΙΚΗ ΕΤΕΡΟΓΕΝΕΙΑ ΤΗΣ ΑΟΡΤΙΚΗΣ ΒΑΛΒΙΔΟΣ ΣΕ ΑΘΕΝΕΙΣ ΜΕ ΜΗ ΡΕΥΜΑΤΙΚΗΣ ΑΙΤΙΟΛΟΓΙΑΣ ΣΤΕΝΩΣΗ,ΣΥΣΧΕΤΙΣΗ ΜΕ ΝΕΟΑΓΓΕΙΟΓΕΝΕΤΙΚΟΥΣ ΠΑΡΑΓΟΝΤΕΣ». Μ.ΔΡΑΚΟΠΟΥΛΟΥ,Κ.ΤΟΥΤΟΥΖΑΣ,Α.ΣΥΝΕΤΟΣ,Γ.ΑΓΡΟΓΙΑΝΝΗΣ….Δ.ΚΛΕΤΤΑΣ, Ε.ΠΑΤΣΟΥΡΗΣ,Χ.ΣΤΕΦΑΝΑΔΗΣ. (‘Α ΠΑΝΕΠΙΣΤΗΜΙΑΚΗ ΚΑΡΔΙΟΛΟΓΙΚΗ ΚΛΙΝΙΚΗ) «Η ΕΠΙΔΡΑΣΗ ΤΟΥ ΣΑΚΧΑΡΩΔΗ ΔΙΑΒΗΤΗ ΤΥΠΟΥ ΙΙ ΣΤΗ ΔΙΑΣΠΑΡΤΗ ΦΛΕΓΜΟΝΩΔΗ ΔΙΕΡΓΑΣΙΑ ΤΩΝ DE NOVO ΑΘΗΡΩΜΑΤΙΚΩΝ ΠΛΑΚΩΝ:Η ΕΜΠΛΟΚΗ ΤΗΣ ΣΥΣΤΗΜΑΤΙΚΗΣ ΦΛΕΓΜΟΝΗΣ». Κ.ΤΟΥΤΟΥΖΑΣ,Μ.ΔΕΑΚΟΠΟΥΛΟΥ,Ι.ΚΑΡΑΜΠΕΛΑΣ,Α.ΣΥΝΕΤΟΣ,Α.ΚΑΡΑΝΑΣΟΣ,Δ.ΚΛΕΤΤΑΣ,Χ.ΠΑΤΣΑ,Ε.ΣΤΕΦΑΝΑΔΗ,Χ.ΣΤΕΦΑΝΑΔΗΣ(‘Α ΠΑΝΕΠΙΣΤΗΜΙΑΚΗ ΚΑΡΔΙΟΛΟΓΙΚΗ ΚΛΙΝΙΚΗ). «ΝΕΑΣ ΓΕΝΙΑΣ ΦΑΡΜΑΚΟΕΚΛΥΟΝΤΑ STENT ΣΕ ΑΣΘΕΝΕΙΣ ΜΕ ΜΟΝΟΑΓΓΕΙΑΚΗ ΝΟΣΟ ΣΤΟ ΕΓΓΥΣ ΤΜΗΜΑ ΤΟΥ ΠΡΟΣΘΙΟΥ ΚΑΤΙΟΝΤΑ ΚΛΑΔΟΥ ΚΑΙ ΧΡΟΝΙΑ ΣΤΑΘΕΡΗ ΣΤΗΘΑΓΧΗ» Χ.ΠΑΤΣΑ,Κ.ΤΟΥΤΟΥΖΑΣ,Μ.ΔΡΑΚΟΠΟΥΛΟΥ,Ι.ΚΑΡΑΜΠΕΛΑΣ,Α.ΣΥΝΕΤΟΣ,Δ.ΚΛΕΤΤΑΣ,Μ.ΡΗΓΑ,Α.ΚΑΡΑΝΑΣΟΣ,Ε.ΤΣΙΑΜΗΣ,Α.ΣΠΑΝΟΣ…..Ε.ΒΑΒΟΥΡΑΝΑΚΗΣ,Χ.ΣΤΕΦΑΝΑΔΗΣ. (‘Α ΠΑΝΕΠΙΣΤΗΜΙΑΚΗ ΚΑΡΔΙΟΛΟΓΙΚΗ ΚΛΙΝΙΚΗ) «ΕΥΝΟΙΚΗ ΕΠΙΔΡΑΣΗ ΤΩΝ ΣΤΑΤΙΝΩΝ ΤΟΣΟ ΣΤΗΝ ΜΗ ΕΝΟΧΗ ΑΘΗΡΩΜΑΤΙΚΗ ΒΛΑΒΗ ΟΣΟ ΚΑΙ ΣΤΗΝ ΣΥΣΤΗΜΑΤΙΚΗ ΦΛΕΓΜΟΝΗ ΣΕ ΑΣΘΕΝΕΙΣ ΜΕ ΠΟΛΥΑΓΓΕΙΑΚΗ ΝΟΣΟ». Μ.ΔΡΑΚΟΠΟΥΛΟΥ,Κ.ΤΟΥΤΟΥΖΑΣ,Μ.ΡΗΓΑ,Χ.ΠΑΤΣΑ,Ι.ΚΑΡΑΜΠΕΛΑΣ,Α.ΣΥΝΕΤΟΣ,Α.ΚΑΡΑΝΑΣΟΣ, Δ.ΚΛΕΤΤΑΣ,Β.ΜΑΡΚΟΥ,Ε.ΤΣΙΑΜΗΣ,Δ.ΤΟΥΣΟΥΛΗΣ,Ε.ΣΤΕΦΑΝΑΔΗ,Χ.ΣΤΕΦΑΝΑΔΗΣ. (‘Α ΠΑΝΕΠΙΣΤΗΜΙΑΚΗ ΚΑΡΔΙΟΛΟΓΙΚΗ ΚΛΙΝΙΚΗ) «Η ΑΥΞΗΜΕΝΗ ΤΟΠΙΚΑ ΦΛΕΓΜΟΝΩΔΗΣ ΔΙΕΓΕΡΣΗ ΣΧΕΤΙΖΕΤΑΙ ΜΕ ΤΗΝ ΠΑΡΟΥΣΙΑ ΛΕΠΤΗΣ ΙΝΩΔΟΥΣ ΚΑΨΑΣ ΣΤΙΣ ΑΓΓΕΙΟΓΡΑΦΙΚΑ ΣΗΜΑΝΤΙΚΕΣ ΣΤΕΝΩΣΕΙΣ ΤΩΝ ΑΣΘΕΝΩΝ ΜΕ ΟΕΜ» Μ.ΡΗΓΑ,Κ.ΤΟΥΤΟΥΖΑΣ,Ε.ΤΣΙΑΜΗΣ,Α.ΚΑΡΑΝΑΣΟΣ,Α.ΣΥΝΕΤΟΣ,Β.ΜΑΡΚΟΥ,Χ.ΠΑΤΣΑ,Δ.ΚΛΕΤΤΑΣ, Κ.ΤΣΙΟΥΦΗΣ,Ε.ΣΤΕΦΑΝΑΔΗ,Ι.ΚΑΡΑΜΠΕΛΑΣ,Α.ΤΡΙΚΑΣ,Χ.ΣΤΕΦΑΝΑΔΗΣ. (‘Α ΠΑΝΕΠΙΣΤΗΜΙΑΚΗ ΚΑΡΔΙΟΛΟΓΙΚΗ ΚΛΙΝΙΚΗ) 30ο Πανελλήνιο Καρδιολογικό Συνέδριο «ΟΙ ΕΝΟΧΕΣ ΒΛΑΒΕΣ ΠΟΥ ΕΝΤΟΠΙΖΟΝΤΑΙ ΣΤΑ ΕΓΓΥΣ ΤΜΗΜΑΤΑ ΤΩΝ ΣΤΑΦΑΝΙΑΙΩΝ ΑΡΤΗΡΙΩΝ ΧΑΡΑΚΤΗΡΙΖΟΝΤΑΙ ΑΠΟ ΠΕΡΙΣΣΟΤΕΡΟ ΣΥΜΠΛΟΚΑ ΜΟΡΦΟΛΟΓΙΚΑ ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ.ΜΙΑ ΜΕΛΕΤΗ ΜΕ ΟΠΤΙΚΗ ΣΥΝΕΚΤΙΚΗ ΤΟΜΟΓΡΑΦΙΑ»(10 καλύτερες περιλήψεις) Κ.ΤΟΥΤΟΥΖΑΣ,Α.ΚΑΡΑΝΑΣΟΣ,Α.ΣΥΝΕΤΟΣ,Ε.ΤΣΙΑΜΗΣ,Μ.ΡΗΓΑ,Χ.ΠΑΤΣΑ,Δ.ΚΛΕΤΤΑΣ,Ι.ΝΤΑΡΛΑΔΗΜΑΣ,Χ.ΣΤΕΦΑΝΑΔΗΣ(‘Α ΠΑΝΕΠΙΣΤΗΜΙΑΚΗ ΚΑΡΔΙΟΛΟΓΙΚΗ ΚΛΙΝΙΚΗ) «Η ΕΞΕΛΙΞΗ ΤΗΣ ΜΗ ΕΝΟΧΗΣ ΒΛΑΒΗΣ ΣΤΟΥΣ ΑΣΘΕΝΕΙΣ ΜΕ ΟΞΥ ΕΜΦΡΑΓΜΑ ΤΟΥ ΜΥΟΚΑΡΔΙΟΥ,ΤΟ ΠΑΡΑΔΟΞΟ ΤΟΥ ΚΑΠΝΙΣΜΑΤΟΣ». Α.ΣΥΝΕΤΟΣ,Κ.ΤΟΥΤΟΥΖΑΣ,Δ.ΚΛΕΤΤΑΣ,Α.ΚΑΡΑΝΑΣΟΣ,Χ.ΠΑΤΣΑ,Ε.ΤΣΙΑΜΗΣ,Μ.ΔΡΑΚΟΠΟΥΛΟΥ,Δ.ΤΟΥΣΟΥΛΗΣ,Ε.ΣΤΕΦΑΝΑΔΗ,Χ.ΣΤΕΦΑΝΑΔΗΣ(‘Α ΠΑΝΕΠΙΣΤΗΜΙΑΚΗ ΚΑΡΔΙΟΛΟΓΙΚΗ ΚΛΙΝΙΚΗ) «ΝΕΑΣ ΓΕΝΙΑΣ DES ΣΕ ΑΣΘΕΝΕΙΣ ΜΕ ΣΥΜΠΛΟΚΗ ΒΛΑΒΗ ΣΤΟ ΕΓΓΥΣ ΤΜΗΜΑ ΤΟΥ ΠΡΟΣΘΙΟΥ ΚΑΤΙΟΝΤΑ ΚΛΑΔΟΥ» Χ.ΠΑΤΣΑ,Κ.ΤΟΥΤΟΥΖΑΣ,Ε.ΤΣΙΑΜΗΣ,Κ.ΤΣΙΟΥΦΗΣ,Α.ΣΠΑΝΟΣ,Α.ΣΥΝΕΤΟΣ,Α.ΚΑΡΑΝΑΣΟΣ,Ι.ΚΑΡΑΜΠΕΛΑΣ,Δ.ΚΛΕΤΤΑΣ,Ε.ΣΤΕΦΑΝΑΔΗ,Α.ΑΝΔΡΟΥΛΑΚΗΣ,Χ.ΛΙΑΣΙΔΗΣ,Δ.ΤΟΥΣΟΥΛΗΣ, Χ.ΣΤΕΦΑΝΑΔΗΣ (‘Α ΠΑΝΕΠΙΣΤΗΜΙΑΚΗ ΚΑΡΔΙΟΛΟΓΙΚΗ ΚΛΙΝΙΚΗ) «ΝΕΑΣ ΓΕΝΙΑΣ DES ΚΑΙ ΗΛΙΚΙΩΜΕΝΟΙ ΑΣΘΕΝΕΙΣ ΜΕ ΜΟΝΟΑΓΓΕΙΑΚΗ ΝΟΣΟ» Χ.ΠΑΤΣΑ,Κ.ΤΟΥΤΟΥΖΑΣ,Ε.ΤΣΙΑΜΗΣ,Α.ΣΠΑΝΟΣ,Κ.ΤΣΙΟΥΦΗΣ,Α.ΣΥΝΕΤΟΣ,Α.ΚΑΡΑΝΑΣΟΣ,Μ.ΔΡΑΚΟΠΟΥΛΟΥ,Ι.ΚΑΡΑΜΠΕΛΑΣ,Μ.ΡΗΓΑ,Δ.ΚΛΕΤΤΑΣ,Α.ΜΙΧΕΛΟΓΓΟΝΑ,Ε.ΣΤΕΦΑΝΑΔΗ,Ε.ΒΑΒΟΥΡΑΝΑΚΗΣ, Δ.ΤΟΥΣΟΥΛΗΣ,Χ.ΣΤΕΦΑΝΑΔΗΣ(‘Α ΠΑΝΕΠΙΣΤΗΜΙΑΚΗ ΚΑΡΔΙΟΛΟΓΙΚΗ ΚΛΙΝΙΚΗ) «Η ΑΠΟΤΕΛΕΣΜΑΤΙΚΟΤΗΤΑ ΚΑΙ Η ΑΣΦΑΛΕΙΑ ΤΩΝ ΝΕΑΣ ΓΕΝΙΑΣ DES ΣΕ ΑΣΘΕΝΕΙΣ ΜΕ ΜΟΝΟΑΓΓΕΙΑΚΗ ΝΟΣΟ ΚΑΙ ΧΡΟΝΙΑ ΝΕΦΡΙΚΗ ΑΝΕΠΑΡΚΕΙΑ» Χ.ΠΑΤΣΑ,Κ.ΤΟΥΤΟΥΖΑΣ,Ε.ΤΣΙΑΜΗΣ,Α.ΣΠΑΝΟΣ,Κ.ΤΣΙΟΥΦΗΣ,Α.ΣΥΝΕΤΟΣ,Α.ΚΑΡΑΝΑΣΟΣ,Μ.ΔΡΑΚΟΠΟΥΛΟΥ,Ι.ΚΑΡΑΜΠΕΛΑΣ,Δ.ΚΛΕΤΤΑΣ,Α.ΜΙΧΕΛΟΓΓΟΝΑ,Ε.ΣΤΕΦΑΝΑΔΗ,Ε.ΒΑΒΟΥΡΑΝΑΚΗΣ, Δ.ΤΟΥΣΟΥΛΗΣ,Χ.ΣΤΕΦΑΝΑΔΗΣ(‘Α ΠΑΝΕΠΙΣΤΗΜΙΑΚΗ ΚΑΡΔΙΟΛΟΓΙΚΗ ΚΛΙΝΙΚΗ) 31ο Πανελλήνιο Καρδιολογικό Συνέδριο «Η ΕΠΙΠΤΩΣΗ ΤΗΣ ΠΡΟΩΡΗΣ ΔΙΑΚΟΠΗΣ ΤΗΣ ΔΙΠΛΗΣ ΑΝΤΙΑΙΜΟΠΕΤΑΛΙΑΚΗΣ ΑΓΩΓΗΣ ΣΤΗΝ ΕΠΟΧΗ ΤΩΝ ΝΕΑΣ ΓΕΝΙΑΣ DES» Χ.ΠΑΤΣΑ,Κ.ΤΟΥΤΟΥΖΑΣ,Ε.ΤΣΙΑΜΗΣ,Α.ΣΠΑΝΟΣ,Κ.ΤΣΙΟΥΦΗΣ,Α.ΣΥΝΕΤΟΣ,Α.ΚΑΡΑΝΑΣΟΣ,Δ.ΚΛΕΤΤΑΣ,Ι.ΚΑΡΑΜΠΕΛΑΣ, Δ.ΤΟΥΣΟΥΛΗΣ,Χ.ΣΤΕΦΑΝΑΔΗΣ(‘Α ΠΑΝΕΠΙΣΤΗΜΙΑΚΗ ΚΑΡΔΙΟΛΟΓΙΚΗ ΚΛΙΝΙΚΗ) «Η ΣΥΧΝΟΤΗΤΑ ΤΗΣ ΘΡΟΜΒΩΣΗΣ ΤΩΝ ΝΕΑΣ ΓΕΝΙΑΣ DES ΣΕ ΠΑΧΥΣΑΡΚΟΥΣ ΑΣΘΕΝΕΙΣ.ΜΙΑ ΠΑΡΑΔΟΞΗ ΠΡΑΓΜΑΤΙΚΟΤΗΤΑ» Χ.ΠΑΤΣΑ,Κ.ΤΟΥΤΟΥΖΑΣ,Ε.ΤΣΙΑΜΗΣ,Α.ΣΠΑΝΟΣ,Κ.ΤΣΙΟΥΦΗΣ,Α.ΣΥΝΕΤΟΣ,Α.ΚΑΡΑΝΑΣΟΣ,Δ.ΚΛΕΤΤΑΣ,Ι.ΚΑΡΑΜΠΕΛΑΣ,Κ.ΤΣΙΟΥΦΗΣ,Δ.ΤΟΥΣΟΥΛΗΣ,Χ.ΣΤΕΦΑΝΑΔΗΣ(‘Α ΠΑΝΕΠΙΣΤΗΜΙΑΚΗ ΚΑΡΔΙΟΛΟΓΙΚΗ ΚΛΙΝΙΚΗ ΜενουΑρχική Υπηρεσίες Επικοινωνία Όροι Χρήσης Πολιτική Απορρήτου Επικοινωνία Σεμιτέλου 5, 11528 Μέγαρο Μουσικής 2130909910 info@heartclinic.gr Ώρες Λειτουργίας Δευτέρα: 15.00-19.00 Τρίτη: 10.00-20.00 Τετάρτη: 15.00-18.00 Πέμπτη : 10.00-20.00 Παρασκευή: 10.00-13.00 Ραντεβου στο Πολυδροσο κατοπιν τηλεφωνικης επικοινωνιας Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι info@heartclinic.gr κατασκευη ιστοσελιδας .mpc-textblock[id=\"mpc_textblock-9169cbc7692d707\"] {max-width:100%;}.mpc-image[data-id=\"mpc_image-9269cbc7693a786\"] .mpc-item img {opacity: 1;filter: alpha( opacity = 100 );}.mpc-image[data-id=\"mpc_image-9269cbc7693a786\"] .mpc-item:hover img {opacity: 1;filter: alpha( opacity = 100 );}.mpc-image[data-id=\"mpc_image-9269cbc7693a786\"] .mpc-type--external {color:#333333;}.mpc-image[data-id=\"mpc_image-9269cbc7693a786\"] .mpc-type--lightbox {color:#333333;}.mpc-column[data-column-id=\"mpc_column-6369cbc7693aa7b\"] {text-align: center;}.mpc-textblock[id=\"mpc_textblock-969cbc7693c1e4\"] {max-width:100%;}.mpc-quote[data-id=\"mpc_quote-2769cbc7693ca32\"] .mpc-quote__icon {font-size:#333333;}.mpc-textblock[id=\"mpc_textblock-9569cbc7693ce8a\"] {max-width:100%;}.mpc-icon[data-id=\"mpc_icon-9469cbc76940027\"] {padding:10px;}.mpc-icon[data-id=\"mpc_icon-9469cbc76940027\"] i {font-size:20px;color:#ffffff;}.mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-9469cbc76940027\"]:hover i,.mpc-parent-hover:hover .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-9469cbc76940027\"] i,.mpc-active .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-9469cbc76940027\"] i {color:#ffffff;}.mpc-accordion[id=\"mpc_accordion-469cbc76940164\"] .mpc-accordion-item__heading {padding-top:7px;padding-right:10px;padding-bottom:7px;padding-left:10px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;background: #00b8dd;color:#333333;font-size:16px;text-align:left;text-transform:uppercase;}.mpc-accordion[id=\"mpc_accordion-469cbc76940164\"] .mpc-accordion-item__wrapper {padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:20px;margin-right:30px;margin-bottom:20px;margin-left:20px;text-align:left;}.mpc-accordion[id=\"mpc_accordion-469cbc76940164\"] .mpc-accordion-item__heading:hover .mpc-icon i {color:#ffffff;}.mpc-accordion[id=\"mpc_accordion-469cbc76940164\"] .mpc-accordion-item__heading:hover,.mpc-accordion[id=\"mpc_accordion-469cbc76940164\"] .mpc-accordion-item__heading.mpc-active {color:#ffffff;background: #3ec3dd;}.mpc-textblock[id=\"mpc_textblock-9069cbc769408c3\"] {max-width:100%;}.mpc-textblock[id=\"mpc_textblock-2969cbc769413bc\"] {max-width:100%;}.mpc-icon[data-id=\"mpc_icon-7469cbc7694337a\"] {padding:10px;}.mpc-icon[data-id=\"mpc_icon-7469cbc7694337a\"] i {font-size:20px;color:#ffffff;}.mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-7469cbc7694337a\"]:hover i,.mpc-parent-hover:hover .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-7469cbc7694337a\"] i,.mpc-active .mpc-icon.mpc-icon-hover[data-id=\"mpc_icon-7469cbc7694337a\"] i {color:#ffffff;}.mpc-accordion[id=\"mpc_accordion-6169cbc7694349a\"] {margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}.mpc-accordion[id=\"mpc_accordion-6169cbc7694349a\"] .mpc-accordion-item__heading {padding-top:7px;padding-right:10px;padding-bottom:7px;padding-left:10px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;background: #00b8dd;color:#333333;font-size:16px;text-align:left;text-transform:uppercase;}.mpc-accordion[id=\"mpc_accordion-6169cbc7694349a\"] .mpc-accordion-item__wrapper {padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:20px;margin-right:30px;margin-bottom:20px;margin-left:20px;text-align:left;}.mpc-accordion[id=\"mpc_accordion-6169cbc7694349a\"] .mpc-accordion-item__heading:hover .mpc-icon i {color:#ffffff;}.mpc-accordion[id=\"mpc_accordion-6169cbc7694349a\"] .mpc-accordion-item__heading:hover,.mpc-accordion[id=\"mpc_accordion-6169cbc7694349a\"] .mpc-accordion-item__heading.mpc-active {color:#ffffff;background: #3ec3dd;}.mpc-textblock[id=\"mpc_textblock-3469cbc76943ce4\"] {max-width:100%;}.mpc-textblock[id=\"mpc_textblock-7369cbc769446bc\"] {max-width:100%;} document.addEventListener( 'wpcf7mailsent', function( event ) { if ( '27665' == event.detail.contactFormId ) { gtag('event', 'conversion', {'send_to': 'AW-711598615/NifoCO3Y9KkBEJfEqNMC'}); } }, false ); /* <![CDATA[ */ var wpcf7 = {\"apiSettings\":{\"root\":\"https:\\/\\/heartclinic.gr\\/wp-json\\/contact-form-7\\/v1\",\"namespace\":\"contact-form-7\\/v1\"},\"recaptcha\":{\"messages\":{\"empty\":\"\\u0395\\u03c0\\u03b9\\u03b2\\u03b5\\u03b2\\u03b1\\u03b9\\u03ce\\u03c3\\u03c4\\u03b5 \\u03cc\\u03c4\\u03b9 \\u03b4\\u03b5\\u03bd \\u03b5\\u03af\\u03c3\\u03c4\\u03b5 \\u03c1\\u03bf\\u03bc\\u03c0\\u03cc\\u03c4.\"}}}; /* ]]> */ /* <![CDATA[ */ var _mpc_ajax = \"https:\\/\\/heartclinic.gr\\/wp-admin\\/admin-ajax.php\"; var _mpc_animations = \"0\"; var _mpc_parallax = \"0\"; var _mpc_scroll_to_id = \"1\"; /* ]]> */ /* <![CDATA[ */ var tg_global_var = {\"url\":\"https:\\/\\/heartclinic.gr\\/wp-admin\\/admin-ajax.php\",\"nonce\":\"65472d6dd5\",\"is_mobile\":null,\"mediaelement\":\"\",\"mediaelement_ex\":null,\"lightbox_autoplay\":\"\",\"debounce\":\"\",\"meta_data\":null,\"main_query\":{\"page\":0,\"pagename\":\"dimitris-klettas\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"dimitris-klettas\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":5,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}}; /* ]]> */ var to_like_post = {\"url\":\"https://heartclinic.gr/wp-admin/admin-ajax.php\",\"nonce\":\"7ceba8ae6e\"};!function(t){\"use strict\";t(document).ready(function(){t(document).on(\"click\",\".to-post-like:not('.to-post-like-unactive')\",function(e){e.preventDefault();var o=t(this),n=o.data(\"post-id\"),s=parseInt(o.find(\".to-like-count\").text());return o.addClass(\"heart-pulse\"),t.ajax({type:\"post\",url:to_like_post.url,data:{nonce:to_like_post.nonce,action:\"to_like_post\",post_id:n,like_nb:s},context:o,success:function(e){e&&((o=t(this)).attr(\"title\",e.title),o.find(\".to-like-count\").text(e.count),o.removeClass(e.remove_class+\" heart-pulse\").addClass(e.add_class))}}),!1})})}(jQuery);",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/heartclinic.gr-home-33d6939d/about-dimitris-klettas-5ab76f92.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/heartclinic.gr-home-33d6939d/about-dimitris-klettas-5ab76f92.txt",
+      "imageReferences": [
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2023/03/Banner_Psifiakos-Metasx_1.png",
+          "alt": "espa banner",
+          "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/dimitris-klettas",
+              "retrievedAt": "2026-03-31T13:08:57.234Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2018/11/heart-clinic-logo-e1545047296213.png",
+          "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/dimitris-klettas",
+              "retrievedAt": "2026-03-31T13:08:57.234Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png",
+          "alt": "en",
+          "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/dimitris-klettas",
+              "retrievedAt": "2026-03-31T13:08:57.234Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.png",
+          "alt": "el",
+          "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/dimitris-klettas",
+              "retrievedAt": "2026-03-31T13:08:57.234Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2018/12/heart-clinic-logo-300x84.png",
+          "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/dimitris-klettas",
+              "retrievedAt": "2026-03-31T13:08:57.234Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2018/12/computer-desk-doctor-48604-1.jpg",
+          "alt": "Δημήτριος Κλέττας",
+          "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/dimitris-klettas",
+              "retrievedAt": "2026-03-31T13:08:57.234Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2019/05/klettas-bio.jpg",
+          "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/dimitris-klettas",
+              "retrievedAt": "2026-03-31T13:08:57.234Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2018/12/logo-aboutnet2.png",
+          "alt": "κατασκευη ιστοσελιδας",
+          "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/dimitris-klettas",
+              "retrievedAt": "2026-03-31T13:08:57.234Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page fetch",
+          "uri": "https://heartclinic.gr/dimitris-klettas",
+          "retrievedAt": "2026-03-31T13:08:57.236Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "https://heartclinic.gr/ypiresies",
+      "finalUrl": "https://heartclinic.gr/ypiresies",
+      "fetchedAt": "2026-03-31T13:08:51.918Z",
+      "metadata": {
+        "title": "Υπηρεσίες – The Heart Clinic",
+        "canonicalUrl": "https://heartclinic.gr/ypiresies/",
+        "language": "el"
+      },
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Triplex Καρδιάς"
+        },
+        {
+          "level": "h3",
+          "text": "Holter Πίεσης"
+        },
+        {
+          "level": "h3",
+          "text": "Πλήρης Καρδιολογικός Έλεγχος"
+        },
+        {
+          "level": "h3",
+          "text": "Holter Ρυθμού (τώρα και κατ’ οίκον)"
+        },
+        {
+          "level": "h3",
+          "text": "Stress Echo"
+        },
+        {
+          "level": "h3",
+          "text": "Stress Echo Σε Εργομετρικό Ποδήλατο"
+        },
+        {
+          "level": "h3",
+          "text": "Βαλβιδικό Stress Echo"
+        },
+        {
+          "level": "h3",
+          "text": "Πιστοποιητικά / Βεβαιώσεις"
+        },
+        {
+          "level": "h3",
+          "text": "Απλή Επίσκεψη"
+        },
+        {
+          "level": "h3",
+          "text": "Επικοινωνήστε Μαζί μας"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://heartclinic.gr/"
+        },
+        {
+          "href": "https://heartclinic.gr/dimitris-klettas/",
+          "label": "Το Ιατρείο"
+        },
+        {
+          "href": "https://heartclinic.gr/iatreio-eksoplismos/",
+          "label": "Ιατρείο – Εξοπλισμός"
+        },
+        {
+          "href": "https://heartclinic.gr/h-omada-mas/",
+          "label": "Η Ομάδα Μας"
+        },
+        {
+          "href": "https://heartclinic.gr/eipan-gia-emas/",
+          "label": "Είπαν για Εμάς"
+        },
+        {
+          "href": "https://heartclinic.gr/ypiresies/",
+          "label": "Υπηρεσίες"
+        },
+        {
+          "href": "https://heartclinic.gr/triplex-kardias/",
+          "label": "Triplex καρδιάς"
+        },
+        {
+          "href": "https://heartclinic.gr/holter-piesis/",
+          "label": "Holter Πίεσης"
+        },
+        {
+          "href": "https://heartclinic.gr/kardiologikos-elegxos/",
+          "label": "Πλήρης Καρδιολογικός Έλεγχος"
+        },
+        {
+          "href": "https://heartclinic.gr/holter-rithmou/",
+          "label": "Holter Ρυθμού (τώρα και κατ’οίκον)"
+        },
+        {
+          "href": "https://heartclinic.gr/stress-echo/",
+          "label": "Stress Echo"
+        },
+        {
+          "href": "https://heartclinic.gr/stress-echo-se-ergometriko-podilato/",
+          "label": "Stress Echo Σε Εργομετρικό Ποδήλατο"
+        },
+        {
+          "href": "https://heartclinic.gr/%ce%b2%ce%b1%ce%bb%ce%b2%ce%b9%ce%b4%ce%b9%ce%ba%cf%8c-stress-echo/",
+          "label": "Βαλβιδικό Stress Echo"
+        },
+        {
+          "href": "https://heartclinic.gr/apli-episkepsi/",
+          "label": "Απλή Επίσκεψη"
+        },
+        {
+          "href": "https://heartclinic.gr/kat-oikon-episkepsi/",
+          "label": "Κατ’ Οίκον Επίσκεψη"
+        },
+        {
+          "href": "https://heartclinic.gr/pistopoihtika/",
+          "label": "Πιστοποιητικά / Βεβαιώσεις"
+        },
+        {
+          "href": "https://heartclinic.gr/omilies/",
+          "label": "Ομιλίες"
+        },
+        {
+          "href": "https://heartclinic.gr/pathiseis/",
+          "label": "Παθήσεις"
+        },
+        {
+          "href": "https://heartclinic.gr/fotographies/",
+          "label": "Φωτογραφιες"
+        },
+        {
+          "href": "https://heartclinic.gr/contact/",
+          "label": "Επικοινωνία"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://heartclinic.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Search …",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "6973348722 - 2130909910",
+          "2130909910",
+          "15.00-19.00",
+          "10.00-20.00",
+          "15.00-18.00",
+          "10.00-13.00",
+          "76400100",
+          "76400555",
+          "76404236",
+          "711598615"
+        ],
+        "emails": [
+          "info@heartclinic.gr"
+        ],
+        "addresses": [
+          "ΜενουΑρχική Υπηρεσίες Επικοινωνία Όροι Χρήσης Πολιτική Απορρήτου Επικοινωνία Σεμιτέλου 5, 11528 Μέγαρο Μουσικής 2130909910 info@heartclinic.gr Ώρες Λειτουργίας Δευτέρα: 15.00-19.00 Τρίτη: 10.00-20.00 Τετάρτη: 15.00-18.00 Πέμπτη : 10.00-20.00 Παρασκευή: 10.00-13.00 Ραντεβου στο Πολυδροσο κατοπιν τηλεφωνικης επικοινωνιας Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι info@heartclinic.gr κατασκευη ιστοσελιδας",
+          "Σεμιτέλου 5, 11528 Μέγαρο Μουσικής",
+          "Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι"
+        ],
+        "socialLinks": [],
+        "forms": [
+          {
+            "action": "https://heartclinic.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Search …",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "ΜενουΑρχική Υπηρεσίες Επικοινωνία Όροι Χρήσης Πολιτική Απορρήτου Επικοινωνία Σεμιτέλου 5, 11528 Μέγαρο Μουσικής 2130909910 info@heartclinic.gr Ώρες Λειτουργίας Δευτέρα: 15.00-19.00 Τρίτη: 10.00-20.00 Τετάρτη: 15.00-18.00 Πέμπτη : 10.00-20.00 Παρασκευή: 10.00-13.00 Ραντεβου στο Πολυδροσο κατοπιν τηλεφωνικης επικοινωνιας Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι info@heartclinic.gr κατασκευη ιστοσελιδας",
+      "textContent": "Heart ClinicΤο Ιατρείο Δημήτριος Κλέττας Ιατρείο – Εξοπλισμός Η Ομάδα Μας Είπαν για ΕμάςΥπηρεσίες Triplex καρδιάς Holter Πίεσης Πλήρης Καρδιολογικός Έλεγχος Holter Ρυθμού (τώρα και κατ’οίκον) Stress Echo Stress Echo Σε Εργομετρικό Ποδήλατο Βαλβιδικό Stress Echo Απλή Επίσκεψη Κατ’ Οίκον Επίσκεψη Πιστοποιητικά / ΒεβαιώσειςΟμιλίεςΠαθήσειςΦωτογραφιεςΕπικοινωνία 6973348722 - 2130909910 info@heartclinic.gr Heart ClinicΤο Ιατρείο Δημήτριος Κλέττας Ιατρείο – Εξοπλισμός Η Ομάδα Μας Είπαν για ΕμάςΥπηρεσίες Triplex καρδιάς Holter Πίεσης Πλήρης Καρδιολογικός Έλεγχος Holter Ρυθμού (τώρα και κατ’οίκον) Stress Echo Stress Echo Σε Εργομετρικό Ποδήλατο Βαλβιδικό Stress Echo Απλή Επίσκεψη Κατ’ Οίκον Επίσκεψη Πιστοποιητικά / ΒεβαιώσειςΟμιλίεςΠαθήσειςΦωτογραφιεςΕπικοινωνία Triplex ΚαρδιάςΠΕΡΙΣΣΟΤΕΡΑHolter ΠίεσηςΠΕΡΙΣΣΟΤΕΡΑΠλήρης Καρδιολογικός ΈλεγχοςΠΕΡΙΣΣΟΤΕΡΑHolter Ρυθμού (τώρα και κατ’ οίκον)ΠΕΡΙΣΣΟΤΕΡΑStress EchoΠΕΡΙΣΣΟΤΕΡΑStress Echo Σε Εργομετρικό ΠοδήλατοΠΕΡΙΣΣΟΤΕΡΑΒαλβιδικό Stress EchoΠΕΡΙΣΣΟΤΕΡΑΠιστοποιητικά / ΒεβαιώσειςΠΕΡΙΣΣΟΤΕΡΑΑπλή ΕπίσκεψηΠΕΡΙΣΣΟΤΕΡΑΕπικοινωνήστε Μαζί μαςΕΠΙΚΟΙΝΩΝΙΑ ΜενουΑρχική Υπηρεσίες Επικοινωνία Όροι Χρήσης Πολιτική Απορρήτου Επικοινωνία Σεμιτέλου 5, 11528 Μέγαρο Μουσικής 2130909910 info@heartclinic.gr Ώρες Λειτουργίας Δευτέρα: 15.00-19.00 Τρίτη: 10.00-20.00 Τετάρτη: 15.00-18.00 Πέμπτη : 10.00-20.00 Παρασκευή: 10.00-13.00 Ραντεβου στο Πολυδροσο κατοπιν τηλεφωνικης επικοινωνιας Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι info@heartclinic.gr κατασκευη ιστοσελιδας .mpc-callout[data-id=\"mpc_callout-4869cbc763e246b\"] {padding-top:35px;padding-right:20px;padding-bottom:20px;padding-left:20px;background: #f9f9f9;}.mpc-callout[data-id=\"mpc_callout-4869cbc763e246b\"] .mpc-callout__heading {width: 100%;margin-top:18px;margin-bottom:13px;color:#555555;font-size:25px;line-height:1;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-4869cbc763e246b\"] .mpc-callout__description {width: 100%;color:#888888;font-size:13px;line-height:1.4;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-4869cbc763e246b\"] .mpc-callout__icon {border-top:3px;border-right:3px;border-bottom:3px;border-left:3px;border-color:#cfd1d0;}.mpc-button[data-id=\"mpc_button-5069cbc763e27a7\"] {border-width:2px;border-color:#75cdde;border-style:solid;border-radius:0px;margin-top:11px;color:#75cdde;font-size:16px;text-transform:uppercase;}.mpc-button[data-id=\"mpc_button-5069cbc763e27a7\"] .mpc-button__icon {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;color:#333333;}.mpc-button[data-id=\"mpc_button-5069cbc763e27a7\"] .mpc-button__title {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;}.mpc-button[data-id=\"mpc_button-5069cbc763e27a7\"] .mpc-button__background {background: #75cdde;}.mpc-button[data-id=\"mpc_button-5069cbc763e27a7\"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-5069cbc763e27a7\"] .mpc-button__title,.mpc-active .mpc-button[data-id=\"mpc_button-5069cbc763e27a7\"] .mpc-button__title {color:#ffffff;}.mpc-divider-wrap[data-id=\"mpc_divider-7069cbc763e2985\"] .mpc-divider {width:100%;}.mpc-divider-wrap[data-id=\"mpc_divider-7069cbc763e2985\"] .mpc-divider__line > span {border-top-style:solid;border-top-width:1px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-7069cbc763e2985\"] .mpc-divider__line.mpc-side--left {width:50%;}.mpc-divider-wrap[data-id=\"mpc_divider-7069cbc763e2985\"] .mpc-divider__line.mpc-side--right {width:50%;}.mpc-callout[data-id=\"mpc_callout-2969cbc763e4ba3\"] {padding-top:35px;padding-right:20px;padding-bottom:20px;padding-left:20px;background: #f9f9f9;}.mpc-callout[data-id=\"mpc_callout-2969cbc763e4ba3\"] .mpc-callout__heading {width: 100%;margin-top:18px;margin-bottom:13px;color:#555555;font-size:25px;line-height:1;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-2969cbc763e4ba3\"] .mpc-callout__description {width: 100%;color:#888888;font-size:13px;line-height:1.4;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-2969cbc763e4ba3\"] .mpc-callout__icon {border-top:3px;border-right:3px;border-bottom:3px;border-left:3px;border-color:#cfd1d0;}.mpc-button[data-id=\"mpc_button-4569cbc763e4dff\"] {border-width:2px;border-color:#75cdde;border-style:solid;border-radius:0px;margin-top:11px;color:#75cdde;font-size:16px;text-transform:uppercase;}.mpc-button[data-id=\"mpc_button-4569cbc763e4dff\"] .mpc-button__icon {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;color:#333333;}.mpc-button[data-id=\"mpc_button-4569cbc763e4dff\"] .mpc-button__title {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;}.mpc-button[data-id=\"mpc_button-4569cbc763e4dff\"] .mpc-button__background {background: #75cdde;}.mpc-button[data-id=\"mpc_button-4569cbc763e4dff\"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-4569cbc763e4dff\"] .mpc-button__title,.mpc-active .mpc-button[data-id=\"mpc_button-4569cbc763e4dff\"] .mpc-button__title {color:#ffffff;}.mpc-divider-wrap[data-id=\"mpc_divider-9469cbc763e4f9c\"] .mpc-divider {width:100%;}.mpc-divider-wrap[data-id=\"mpc_divider-9469cbc763e4f9c\"] .mpc-divider__line > span {border-top-style:solid;border-top-width:1px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-9469cbc763e4f9c\"] .mpc-divider__line.mpc-side--left {width:50%;}.mpc-divider-wrap[data-id=\"mpc_divider-9469cbc763e4f9c\"] .mpc-divider__line.mpc-side--right {width:50%;}.mpc-callout[data-id=\"mpc_callout-3369cbc763e7044\"] {padding-top:35px;padding-right:20px;padding-bottom:20px;padding-left:20px;background: #f9f9f9;}.mpc-callout[data-id=\"mpc_callout-3369cbc763e7044\"] .mpc-callout__heading {width: 100%;margin-top:18px;margin-bottom:13px;color:#555555;font-size:25px;line-height:1;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-3369cbc763e7044\"] .mpc-callout__description {width: 100%;color:#888888;font-size:13px;line-height:1.4;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-3369cbc763e7044\"] .mpc-callout__icon {border-top:3px;border-right:3px;border-bottom:3px;border-left:3px;border-color:#cfd1d0;}.mpc-button[data-id=\"mpc_button-2369cbc763e727b\"] {border-width:2px;border-color:#75cdde;border-style:solid;border-radius:0px;margin-top:11px;color:#75cdde;font-size:16px;text-transform:uppercase;}.mpc-button[data-id=\"mpc_button-2369cbc763e727b\"] .mpc-button__icon {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;color:#333333;}.mpc-button[data-id=\"mpc_button-2369cbc763e727b\"] .mpc-button__title {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;}.mpc-button[data-id=\"mpc_button-2369cbc763e727b\"] .mpc-button__background {background: #75cdde;}.mpc-button[data-id=\"mpc_button-2369cbc763e727b\"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-2369cbc763e727b\"] .mpc-button__title,.mpc-active .mpc-button[data-id=\"mpc_button-2369cbc763e727b\"] .mpc-button__title {color:#ffffff;}.mpc-divider-wrap[data-id=\"mpc_divider-4169cbc763e7410\"] .mpc-divider {width:100%;}.mpc-divider-wrap[data-id=\"mpc_divider-4169cbc763e7410\"] .mpc-divider__line > span {border-top-style:solid;border-top-width:1px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-4169cbc763e7410\"] .mpc-divider__line.mpc-side--left {width:50%;}.mpc-divider-wrap[data-id=\"mpc_divider-4169cbc763e7410\"] .mpc-divider__line.mpc-side--right {width:50%;}.mpc-callout[data-id=\"mpc_callout-8069cbc763ea7aa\"] {padding-top:35px;padding-right:20px;padding-bottom:20px;padding-left:20px;background: #f9f9f9;}.mpc-callout[data-id=\"mpc_callout-8069cbc763ea7aa\"] .mpc-callout__heading {width: 100%;margin-top:18px;margin-bottom:13px;color:#333333;font-size:25px;line-height:1;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-8069cbc763ea7aa\"] .mpc-callout__description {width: 100%;color:#888888;font-size:13px;line-height:1.4;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-8069cbc763ea7aa\"] .mpc-callout__icon {border-top:3px;border-right:3px;border-bottom:3px;border-left:3px;border-color:#cfd1d0;}.mpc-button[data-id=\"mpc_button-6569cbc763eaa2d\"] {border-color:#75cdde;border-style:solid;border-radius:0px;margin-top:11px;color:#75cdde;font-size:16px;text-transform:uppercase;}.mpc-button[data-id=\"mpc_button-6569cbc763eaa2d\"] .mpc-button__icon {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;color:#333333;}.mpc-button[data-id=\"mpc_button-6569cbc763eaa2d\"] .mpc-button__title {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;}.mpc-button[data-id=\"mpc_button-6569cbc763eaa2d\"] .mpc-button__background {background: #75cdde;}.mpc-button[data-id=\"mpc_button-6569cbc763eaa2d\"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-6569cbc763eaa2d\"] .mpc-button__title,.mpc-active .mpc-button[data-id=\"mpc_button-6569cbc763eaa2d\"] .mpc-button__title {color:#ffffff;}.mpc-divider-wrap[data-id=\"mpc_divider-4069cbc763eabdb\"] .mpc-divider {width:100%;}.mpc-divider-wrap[data-id=\"mpc_divider-4069cbc763eabdb\"] .mpc-divider__line > span {border-top-style:solid;border-top-width:1px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-4069cbc763eabdb\"] .mpc-divider__line.mpc-side--left {width:50%;}.mpc-divider-wrap[data-id=\"mpc_divider-4069cbc763eabdb\"] .mpc-divider__line.mpc-side--right {width:50%;}.mpc-callout[data-id=\"mpc_callout-2869cbc763ecba6\"] {padding-top:35px;padding-right:20px;padding-bottom:20px;padding-left:20px;background: #f9f9f9;}.mpc-callout[data-id=\"mpc_callout-2869cbc763ecba6\"] .mpc-callout__heading {width: 100%;margin-top:18px;margin-bottom:13px;color:#333333;font-size:25px;line-height:1;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-2869cbc763ecba6\"] .mpc-callout__description {width: 100%;color:#888888;font-size:13px;line-height:1.4;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-2869cbc763ecba6\"] .mpc-callout__icon {border-top:3px;border-right:3px;border-bottom:3px;border-left:3px;border-color:#cfd1d0;}.mpc-button[data-id=\"mpc_button-5569cbc763ecde7\"] {border-width:2px;border-color:#75cdde;border-style:solid;border-radius:0px;margin-top:11px;color:#75cdde;font-size:16px;text-transform:uppercase;}.mpc-button[data-id=\"mpc_button-5569cbc763ecde7\"] .mpc-button__icon {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;color:#333333;}.mpc-button[data-id=\"mpc_button-5569cbc763ecde7\"] .mpc-button__title {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;}.mpc-button[data-id=\"mpc_button-5569cbc763ecde7\"] .mpc-button__background {background: #75cdde;}.mpc-button[data-id=\"mpc_button-5569cbc763ecde7\"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-5569cbc763ecde7\"] .mpc-button__title,.mpc-active .mpc-button[data-id=\"mpc_button-5569cbc763ecde7\"] .mpc-button__title {color:#ffffff;}.mpc-divider-wrap[data-id=\"mpc_divider-3969cbc763ecf85\"] .mpc-divider {width:100%;}.mpc-divider-wrap[data-id=\"mpc_divider-3969cbc763ecf85\"] .mpc-divider__line > span {border-top-style:solid;border-top-width:1px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-3969cbc763ecf85\"] .mpc-divider__line.mpc-side--left {width:50%;}.mpc-divider-wrap[data-id=\"mpc_divider-3969cbc763ecf85\"] .mpc-divider__line.mpc-side--right {width:50%;}.mpc-callout[data-id=\"mpc_callout-8469cbc763eebbc\"] {padding-top:35px;padding-right:20px;padding-bottom:20px;padding-left:20px;background: #f9f9f9;}.mpc-callout[data-id=\"mpc_callout-8469cbc763eebbc\"] .mpc-callout__heading {width: 100%;margin-top:18px;margin-bottom:13px;color:#555555;font-size:25px;line-height:1;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-8469cbc763eebbc\"] .mpc-callout__description {width: 100%;color:#888888;font-size:13px;line-height:1.4;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-8469cbc763eebbc\"] .mpc-callout__icon {border-top:3px;border-right:3px;border-bottom:3px;border-left:3px;border-color:#cfd1d0;}.mpc-button[data-id=\"mpc_button-9869cbc763eee0e\"] {border-width:2px;border-color:#75cdde;border-style:solid;border-radius:0px;margin-top:11px;color:#75cdde;font-size:16px;text-transform:uppercase;}.mpc-button[data-id=\"mpc_button-9869cbc763eee0e\"] .mpc-button__icon {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;color:#333333;}.mpc-button[data-id=\"mpc_button-9869cbc763eee0e\"] .mpc-button__title {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;}.mpc-button[data-id=\"mpc_button-9869cbc763eee0e\"] .mpc-button__background {background: #75cdde;}.mpc-button[data-id=\"mpc_button-9869cbc763eee0e\"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-9869cbc763eee0e\"] .mpc-button__title,.mpc-active .mpc-button[data-id=\"mpc_button-9869cbc763eee0e\"] .mpc-button__title {color:#ffffff;}.mpc-divider-wrap[data-id=\"mpc_divider-9169cbc763eefa0\"] .mpc-divider {width:100%;}.mpc-divider-wrap[data-id=\"mpc_divider-9169cbc763eefa0\"] .mpc-divider__line > span {border-top-style:solid;border-top-width:1px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-9169cbc763eefa0\"] .mpc-divider__line.mpc-side--left {width:50%;}.mpc-divider-wrap[data-id=\"mpc_divider-9169cbc763eefa0\"] .mpc-divider__line.mpc-side--right {width:50%;}.mpc-callout[data-id=\"mpc_callout-1769cbc763f1b5f\"] {padding-top:35px;padding-right:20px;padding-bottom:20px;padding-left:20px;background: #f9f9f9;}.mpc-callout[data-id=\"mpc_callout-1769cbc763f1b5f\"] .mpc-callout__heading {width: 100%;margin-top:18px;margin-bottom:13px;color:#555555;font-size:25px;line-height:1;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-1769cbc763f1b5f\"] .mpc-callout__description {width: 100%;color:#888888;font-size:13px;line-height:1.4;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-1769cbc763f1b5f\"] .mpc-callout__icon {border-top:3px;border-right:3px;border-bottom:3px;border-left:3px;border-color:#cfd1d0;}.mpc-button[data-id=\"mpc_button-8669cbc763f1dce\"] {border-width:2px;border-color:#75cdde;border-style:solid;border-radius:0px;margin-top:11px;color:#75cdde;font-size:16px;text-transform:uppercase;}.mpc-button[data-id=\"mpc_button-8669cbc763f1dce\"] .mpc-button__icon {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;color:#333333;}.mpc-button[data-id=\"mpc_button-8669cbc763f1dce\"] .mpc-button__title {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;}.mpc-button[data-id=\"mpc_button-8669cbc763f1dce\"] .mpc-button__background {background: #75cdde;}.mpc-button[data-id=\"mpc_button-8669cbc763f1dce\"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-8669cbc763f1dce\"] .mpc-button__title,.mpc-active .mpc-button[data-id=\"mpc_button-8669cbc763f1dce\"] .mpc-button__title {color:#ffffff;}.mpc-divider-wrap[data-id=\"mpc_divider-1269cbc763f1f67\"] .mpc-divider {width:100%;}.mpc-divider-wrap[data-id=\"mpc_divider-1269cbc763f1f67\"] .mpc-divider__line > span {border-top-style:solid;border-top-width:1px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-1269cbc763f1f67\"] .mpc-divider__line.mpc-side--left {width:50%;}.mpc-divider-wrap[data-id=\"mpc_divider-1269cbc763f1f67\"] .mpc-divider__line.mpc-side--right {width:50%;}.mpc-callout[data-id=\"mpc_callout-2869cbc76400100\"] {padding-top:35px;padding-right:20px;padding-bottom:20px;padding-left:20px;background: #f9f9f9;}.mpc-callout[data-id=\"mpc_callout-2869cbc76400100\"] .mpc-callout__heading {width: 100%;margin-top:18px;margin-bottom:13px;color:#555555;font-size:25px;line-height:1;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-2869cbc76400100\"] .mpc-callout__description {width: 100%;color:#888888;font-size:13px;line-height:1.4;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-2869cbc76400100\"] .mpc-callout__icon {border-top:3px;border-right:3px;border-bottom:3px;border-left:3px;border-color:#cfd1d0;}.mpc-button[data-id=\"mpc_button-4569cbc76400555\"] {border-width:2px;border-color:#75cdde;border-style:solid;border-radius:0px;margin-top:11px;color:#75cdde;font-size:16px;text-transform:uppercase;}.mpc-button[data-id=\"mpc_button-4569cbc76400555\"] .mpc-button__icon {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;color:#333333;}.mpc-button[data-id=\"mpc_button-4569cbc76400555\"] .mpc-button__title {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;}.mpc-button[data-id=\"mpc_button-4569cbc76400555\"] .mpc-button__background {background: #75cdde;}.mpc-button[data-id=\"mpc_button-4569cbc76400555\"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-4569cbc76400555\"] .mpc-button__title,.mpc-active .mpc-button[data-id=\"mpc_button-4569cbc76400555\"] .mpc-button__title {color:#ffffff;}.mpc-divider-wrap[data-id=\"mpc_divider-3569cbc7640082b\"] .mpc-divider {width:100%;}.mpc-divider-wrap[data-id=\"mpc_divider-3569cbc7640082b\"] .mpc-divider__line > span {border-top-style:solid;border-top-width:1px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-3569cbc7640082b\"] .mpc-divider__line.mpc-side--left {width:50%;}.mpc-divider-wrap[data-id=\"mpc_divider-3569cbc7640082b\"] .mpc-divider__line.mpc-side--right {width:50%;}.mpc-callout[data-id=\"mpc_callout-2569cbc76403ac8\"] {padding-top:35px;padding-right:20px;padding-bottom:20px;padding-left:20px;background: #f9f9f9;}.mpc-callout[data-id=\"mpc_callout-2569cbc76403ac8\"] .mpc-callout__heading {width: 100%;margin-top:18px;margin-bottom:13px;color:#555555;font-size:25px;line-height:1;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-2569cbc76403ac8\"] .mpc-callout__description {width: 100%;color:#888888;font-size:13px;line-height:1.4;text-align:center;text-transform:none;}.mpc-callout[data-id=\"mpc_callout-2569cbc76403ac8\"] .mpc-callout__icon {border-top:3px;border-right:3px;border-bottom:3px;border-left:3px;border-color:#cfd1d0;}.mpc-button[data-id=\"mpc_button-10069cbc76403f4d\"] {border-width:2px;border-color:#75cdde;border-style:solid;border-radius:0px;margin-top:11px;color:#75cdde;font-size:16px;text-transform:uppercase;}.mpc-button[data-id=\"mpc_button-10069cbc76403f4d\"] .mpc-button__icon {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;color:#333333;}.mpc-button[data-id=\"mpc_button-10069cbc76403f4d\"] .mpc-button__title {padding-top:12px;padding-right:30px;padding-bottom:12px;padding-left:30px;}.mpc-button[data-id=\"mpc_button-10069cbc76403f4d\"] .mpc-button__background {background: #75cdde;}.mpc-button[data-id=\"mpc_button-10069cbc76403f4d\"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-10069cbc76403f4d\"] .mpc-button__title,.mpc-active .mpc-button[data-id=\"mpc_button-10069cbc76403f4d\"] .mpc-button__title {color:#ffffff;}.mpc-divider-wrap[data-id=\"mpc_divider-9369cbc76404236\"] .mpc-divider {width:100%;}.mpc-divider-wrap[data-id=\"mpc_divider-9369cbc76404236\"] .mpc-divider__line > span {border-top-style:solid;border-top-width:1px;margin-top:1px;}.mpc-divider-wrap[data-id=\"mpc_divider-9369cbc76404236\"] .mpc-divider__line.mpc-side--left {width:50%;}.mpc-divider-wrap[data-id=\"mpc_divider-9369cbc76404236\"] .mpc-divider__line.mpc-side--right {width:50%;}.mpc-callout[data-id=\"mpc_callout-1569cbc7640756d\"] {padding-top:35px;padding-right:0px;padding-bottom:35px;padding-left:0px;background-image: linear-gradient(90deg,#00457c 0%,#00457c 100%);}.mpc-callout[data-id=\"mpc_callout-1569cbc7640756d\"] .mpc-callout__heading {width: 72%;margin-top:0px;margin-bottom:5px;color:#ffffff;font-size:30px;line-height:1;text-align:left;text-transform:capitalize;}.mpc-callout[data-id=\"mpc_callout-1569cbc7640756d\"] .mpc-callout__description {width: 72%;margin-top:0px;margin-bottom:0px;color:#ffffff;font-size:14px;line-height:1.5;text-align:left;}.mpc-callout[data-id=\"mpc_callout-1569cbc7640756d\"] .mpc-callout__icon {padding-top:0px;padding-right:25px;color:#ffffff;font-size:48px;}.mpc-button[data-id=\"mpc_button-2469cbc7640786f\"] {border-width:2px;border-color:#ffffff;border-style:solid;border-radius:50px;color:#ffffff;font-size:14px;text-align:center;text-transform:uppercase;}.mpc-button[data-id=\"mpc_button-2469cbc7640786f\"] .mpc-button__icon {padding-top:6px;padding-right:40px;padding-bottom:6px;padding-left:40px;color:#333333;}.mpc-button[data-id=\"mpc_button-2469cbc7640786f\"] .mpc-button__title {padding-top:6px;padding-right:40px;padding-bottom:6px;padding-left:40px;}.mpc-button[data-id=\"mpc_button-2469cbc7640786f\"] .mpc-button__background {background: #ffffff;}.mpc-button[data-id=\"mpc_button-2469cbc7640786f\"]:hover .mpc-button__title,.mpc-parent-hover:hover .mpc-button[data-id=\"mpc_button-2469cbc7640786f\"] .mpc-button__title,.mpc-active .mpc-button[data-id=\"mpc_button-2469cbc7640786f\"] .mpc-button__title {color:#00457c;} document.addEventListener( 'wpcf7mailsent', function( event ) { if ( '27665' == event.detail.contactFormId ) { gtag('event', 'conversion', {'send_to': 'AW-711598615/NifoCO3Y9KkBEJfEqNMC'}); } }, false ); /* <![CDATA[ */ var wpcf7 = {\"apiSettings\":{\"root\":\"https:\\/\\/heartclinic.gr\\/wp-json\\/contact-form-7\\/v1\",\"namespace\":\"contact-form-7\\/v1\"},\"recaptcha\":{\"messages\":{\"empty\":\"\\u0395\\u03c0\\u03b9\\u03b2\\u03b5\\u03b2\\u03b1\\u03b9\\u03ce\\u03c3\\u03c4\\u03b5 \\u03cc\\u03c4\\u03b9 \\u03b4\\u03b5\\u03bd \\u03b5\\u03af\\u03c3\\u03c4\\u03b5 \\u03c1\\u03bf\\u03bc\\u03c0\\u03cc\\u03c4.\"}}}; /* ]]> */ /* <![CDATA[ */ var _mpc_ajax = \"https:\\/\\/heartclinic.gr\\/wp-admin\\/admin-ajax.php\"; var _mpc_animations = \"0\"; var _mpc_parallax = \"0\"; var _mpc_scroll_to_id = \"1\"; /* ]]> */ /* <![CDATA[ */ var tg_global_var = {\"url\":\"https:\\/\\/heartclinic.gr\\/wp-admin\\/admin-ajax.php\",\"nonce\":\"65472d6dd5\",\"is_mobile\":null,\"mediaelement\":\"\",\"mediaelement_ex\":null,\"lightbox_autoplay\":\"\",\"debounce\":\"\",\"meta_data\":null,\"main_query\":{\"page\":0,\"pagename\":\"ypiresies\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"ypiresies\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":5,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}}; /* ]]> */ var to_like_post = {\"url\":\"https://heartclinic.gr/wp-admin/admin-ajax.php\",\"nonce\":\"7ceba8ae6e\"};!function(t){\"use strict\";t(document).ready(function(){t(document).on(\"click\",\".to-post-like:not('.to-post-like-unactive')\",function(e){e.preventDefault();var o=t(this),n=o.data(\"post-id\"),s=parseInt(o.find(\".to-like-count\").text());return o.addClass(\"heart-pulse\"),t.ajax({type:\"post\",url:to_like_post.url,data:{nonce:to_like_post.nonce,action:\"to_like_post\",post_id:n,like_nb:s},context:o,success:function(e){e&&((o=t(this)).attr(\"title\",e.title),o.find(\".to-like-count\").text(e.count),o.removeClass(e.remove_class+\" heart-pulse\").addClass(e.add_class))}}),!1})})}(jQuery);",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/heartclinic.gr-home-33d6939d/services-ypiresies-7d5a648e.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/heartclinic.gr-home-33d6939d/services-ypiresies-7d5a648e.txt",
+      "imageReferences": [
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2018/11/heart-clinic-logo-e1545047296213.png",
+          "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:08:51.916Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.png",
+          "alt": "el",
+          "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:08:51.916Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2018/12/heart-clinic-logo-300x84.png",
+          "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:08:51.916Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2019/04/IM-320x200.jpg",
+          "alt": "IM-320x200",
+          "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:08:51.916Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2019/04/IMG_20190217_131714.jpg",
+          "alt": "IMG_20190217_131714",
+          "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:08:51.916Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2019/01/holter-rithmou-320x200.jpg",
+          "alt": "holter-rithmou",
+          "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:08:51.916Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2024/07/image_50412289-scaled-320x200.jpg",
+          "alt": "image_50412289",
+          "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:08:51.916Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2019/04/Stress-Echo.jpg",
+          "alt": "Stress-Echo",
+          "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:08:51.916Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2019/04/IMG_20190329_185242.jpg",
+          "alt": "IMG_20190329_185242",
+          "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:08:51.916Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2019/04/velve-stress-echo.jpg",
+          "alt": "velve-stress-echo",
+          "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:08:51.916Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2019/04/IMG_20.jpg",
+          "alt": "IMG_20",
+          "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:08:51.916Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2019/02/img-06.jpg",
+          "alt": "img-06",
+          "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/ypiresies",
+              "retrievedAt": "2026-03-31T13:08:51.916Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://heartclinic.gr/ypiresies",
+          "retrievedAt": "2026-03-31T13:08:51.918Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://heartclinic.gr/contact",
+      "finalUrl": "https://heartclinic.gr/contact",
+      "fetchedAt": "2026-03-31T13:08:48.952Z",
+      "metadata": {
+        "title": "Επικοινωνία – The Heart Clinic",
+        "canonicalUrl": "https://heartclinic.gr/contact/",
+        "language": "el"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Επικοινωνία"
+        },
+        {
+          "level": "h2",
+          "text": "Φόρμα Επικοινωνίας"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://heartclinic.gr/wp-content/uploads/2023/03/Afisa_Psifiaka-Ergaleia_jpg-scaled.jpg"
+        },
+        {
+          "href": "https://heartclinic.gr/"
+        },
+        {
+          "href": "https://heartclinic.gr/dimitris-klettas/",
+          "label": "Το Ιατρείο"
+        },
+        {
+          "href": "https://heartclinic.gr/iatreio-eksoplismos/",
+          "label": "Ιατρείο – Εξοπλισμός"
+        },
+        {
+          "href": "https://heartclinic.gr/h-omada-mas/",
+          "label": "Η Ομάδα Μας"
+        },
+        {
+          "href": "https://heartclinic.gr/eipan-gia-emas/",
+          "label": "Είπαν για Εμάς"
+        },
+        {
+          "href": "https://heartclinic.gr/ypiresies/",
+          "label": "Υπηρεσίες"
+        },
+        {
+          "href": "https://heartclinic.gr/triplex-kardias/",
+          "label": "Triplex καρδιάς"
+        },
+        {
+          "href": "https://heartclinic.gr/holter-piesis/",
+          "label": "Holter Πίεσης"
+        },
+        {
+          "href": "https://heartclinic.gr/kardiologikos-elegxos/",
+          "label": "Πλήρης Καρδιολογικός Έλεγχος"
+        },
+        {
+          "href": "https://heartclinic.gr/holter-rithmou/",
+          "label": "Holter Ρυθμού (τώρα και κατ’οίκον)"
+        },
+        {
+          "href": "https://heartclinic.gr/stress-echo/",
+          "label": "Stress Echo"
+        },
+        {
+          "href": "https://heartclinic.gr/stress-echo-se-ergometriko-podilato/",
+          "label": "Stress Echo Σε Εργομετρικό Ποδήλατο"
+        },
+        {
+          "href": "https://heartclinic.gr/%ce%b2%ce%b1%ce%bb%ce%b2%ce%b9%ce%b4%ce%b9%ce%ba%cf%8c-stress-echo/",
+          "label": "Βαλβιδικό Stress Echo"
+        },
+        {
+          "href": "https://heartclinic.gr/apli-episkepsi/",
+          "label": "Απλή Επίσκεψη"
+        },
+        {
+          "href": "https://heartclinic.gr/kat-oikon-episkepsi/",
+          "label": "Κατ’ Οίκον Επίσκεψη"
+        },
+        {
+          "href": "https://heartclinic.gr/pistopoihtika/",
+          "label": "Πιστοποιητικά / Βεβαιώσεις"
+        },
+        {
+          "href": "https://heartclinic.gr/omilies/",
+          "label": "Ομιλίες"
+        },
+        {
+          "href": "https://heartclinic.gr/pathiseis/",
+          "label": "Παθήσεις"
+        },
+        {
+          "href": "https://heartclinic.gr/fotographies/",
+          "label": "Φωτογραφιες"
+        },
+        {
+          "href": "https://heartclinic.gr/contact/",
+          "label": "Επικοινωνία"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://heartclinic.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Search …",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://heartclinic.gr/contact/#wpcf7-f27665-p30825-o1",
+          "method": "post",
+          "purposeHint": "contact",
+          "fieldNames": [
+            "_wpcf7",
+            "_wpcf7_version",
+            "_wpcf7_locale",
+            "_wpcf7_unit_tag",
+            "_wpcf7_container_post",
+            "your-name",
+            "your-email",
+            "your-subject",
+            "your-message",
+            "submit"
+          ],
+          "submitLabels": [
+            "Αποστολή"
+          ],
+          "fields": [
+            {
+              "name": "_wpcf7",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_version",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_locale",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_unit_tag",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_container_post",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "your-name",
+              "type": "text",
+              "label": "Ονοματεπώνυμο",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "type": "email",
+              "label": "Email",
+              "required": true
+            },
+            {
+              "name": "your-subject",
+              "type": "text",
+              "label": "Θέμα",
+              "required": false
+            },
+            {
+              "name": "your-message",
+              "type": "textarea",
+              "label": "Μήνυμα",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "6973348722 - 2130909910",
+          "213 0909910",
+          "6973348722",
+          "2130909910",
+          "15.00-19.00",
+          "10.00-20.00",
+          "15.00-18.00",
+          "10.00-13.00",
+          "711598615",
+          "+2130909910"
+        ],
+        "emails": [
+          "info@heartclinic.gr"
+        ],
+        "addresses": [
+          "ΜενουΑρχική Υπηρεσίες Επικοινωνία Όροι Χρήσης Πολιτική Απορρήτου Επικοινωνία Σεμιτέλου 5, 11528 Μέγαρο Μουσικής 2130909910 info@heartclinic.gr Ώρες Λειτουργίας Δευτέρα: 15.00-19.00 Τρίτη: 10.00-20.00 Τετάρτη: 15.00-18.00 Πέμπτη : 10.00-20.00 Παρασκευή: 10.00-13.00 Ραντεβου στο Πολυδροσο κατοπιν τηλεφωνικης επικοινωνιας Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι info@heartclinic.gr κατασκευη ιστοσελιδας",
+          "Σεμιτέλου 5, 11528 Μέγαρο Μουσικής",
+          "Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι"
+        ],
+        "socialLinks": [],
+        "forms": [
+          {
+            "action": "https://heartclinic.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Search …",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://heartclinic.gr/contact/#wpcf7-f27665-p30825-o1",
+            "method": "post",
+            "purposeHint": "contact",
+            "fieldNames": [
+              "_wpcf7",
+              "_wpcf7_version",
+              "_wpcf7_locale",
+              "_wpcf7_unit_tag",
+              "_wpcf7_container_post",
+              "your-name",
+              "your-email",
+              "your-subject",
+              "your-message",
+              "submit"
+            ],
+            "submitLabels": [
+              "Αποστολή"
+            ],
+            "fields": [
+              {
+                "name": "_wpcf7",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_version",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_locale",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_unit_tag",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_container_post",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "your-name",
+                "type": "text",
+                "label": "Ονοματεπώνυμο",
+                "required": true
+              },
+              {
+                "name": "your-email",
+                "type": "email",
+                "label": "Email",
+                "required": true
+              },
+              {
+                "name": "your-subject",
+                "type": "text",
+                "label": "Θέμα",
+                "required": false
+              },
+              {
+                "name": "your-message",
+                "type": "textarea",
+                "label": "Μήνυμα",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "ΜενουΑρχική Υπηρεσίες Επικοινωνία Όροι Χρήσης Πολιτική Απορρήτου Επικοινωνία Σεμιτέλου 5, 11528 Μέγαρο Μουσικής 2130909910 info@heartclinic.gr Ώρες Λειτουργίας Δευτέρα: 15.00-19.00 Τρίτη: 10.00-20.00 Τετάρτη: 15.00-18.00 Πέμπτη : 10.00-20.00 Παρασκευή: 10.00-13.00 Ραντεβου στο Πολυδροσο κατοπιν τηλεφωνικης επικοινωνιας Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι info@heartclinic.gr κατασκευη ιστοσελιδας",
+      "textContent": "Heart ClinicΤο Ιατρείο Δημήτριος Κλέττας Ιατρείο – Εξοπλισμός Η Ομάδα Μας Είπαν για ΕμάςΥπηρεσίες Triplex καρδιάς Holter Πίεσης Πλήρης Καρδιολογικός Έλεγχος Holter Ρυθμού (τώρα και κατ’οίκον) Stress Echo Stress Echo Σε Εργομετρικό Ποδήλατο Βαλβιδικό Stress Echo Απλή Επίσκεψη Κατ’ Οίκον Επίσκεψη Πιστοποιητικά / ΒεβαιώσειςΟμιλίεςΠαθήσειςΦωτογραφιεςΕπικοινωνία 6973348722 - 2130909910 info@heartclinic.gr Heart ClinicΤο Ιατρείο Δημήτριος Κλέττας Ιατρείο – Εξοπλισμός Η Ομάδα Μας Είπαν για ΕμάςΥπηρεσίες Triplex καρδιάς Holter Πίεσης Πλήρης Καρδιολογικός Έλεγχος Holter Ρυθμού (τώρα και κατ’οίκον) Stress Echo Stress Echo Σε Εργομετρικό Ποδήλατο Βαλβιδικό Stress Echo Απλή Επίσκεψη Κατ’ Οίκον Επίσκεψη Πιστοποιητικά / ΒεβαιώσειςΟμιλίεςΠαθήσειςΦωτογραφιεςΕπικοινωνία Επικοινωνία Διεθνής εμπειρία σε ελληνικό περιβάλλον HomeΕπικοινωνία Διεύθυνση: Σεμιτέλου 5, 11528 Μέγαρο Μουσικής Ραντεβού για Ιατρείο Μεγάρου Μουσικής: 213 0909910 Ώρες Λειτουργίας: Δευτέρα: 15:00 – 19:00, Τρίτη 10:00 – 20:00, Τετ. 15:00 – 18:00, Πεμ. 10:00 – 20:00, Παρ. 10:00 – 13:00 Διεύθυνση: Ακακιών 52, 15125 Πολύδροσο – Χαλάνδρι Email: info@heartclinic.gr Κινητό: 6973348722 (Ιατρού) Φόρμα Επικοινωνίας <div style=\"width: 302px; height: 422px;\"> <div style=\"width: 302px; height: 422px; position: relative;\"> <div style=\"width: 302px; height: 422px; position: absolute;\"> <iframe src=\"https://www.google.com/recaptcha/api/fallback?k=6Lf4EqUUAAAAAMZRnEZq3pWr36BLZC7Mzvh2KIWL\" frameborder=\"0\" scrolling=\"no\" style=\"width: 302px; height:422px; border-style: none;\"> </iframe> </div> <div style=\"width: 300px; height: 60px; border-style: none; bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px; background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;\"> <textarea id=\"g-recaptcha-response\" name=\"g-recaptcha-response\" class=\"g-recaptcha-response\" style=\"width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;\"> </textarea> </div> </div> </div> ΜενουΑρχική Υπηρεσίες Επικοινωνία Όροι Χρήσης Πολιτική Απορρήτου Επικοινωνία Σεμιτέλου 5, 11528 Μέγαρο Μουσικής 2130909910 info@heartclinic.gr Ώρες Λειτουργίας Δευτέρα: 15.00-19.00 Τρίτη: 10.00-20.00 Τετάρτη: 15.00-18.00 Πέμπτη : 10.00-20.00 Παρασκευή: 10.00-13.00 Ραντεβου στο Πολυδροσο κατοπιν τηλεφωνικης επικοινωνιας Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι info@heartclinic.gr κατασκευη ιστοσελιδας var recaptchaWidgets = []; var recaptchaCallback = function() { var forms = document.getElementsByTagName( 'form' ); var pattern = /(^|\\s)g-recaptcha(\\s|$)/; for ( var i = 0; i < forms.length; i++ ) { var divs = forms[ i ].getElementsByTagName( 'div' ); for ( var j = 0; j < divs.length; j++ ) { var sitekey = divs[ j ].getAttribute( 'data-sitekey' ); if ( divs[ j ].className && divs[ j ].className.match( pattern ) && sitekey ) { var params = { 'sitekey': sitekey, 'type': divs[ j ].getAttribute( 'data-type' ), 'size': divs[ j ].getAttribute( 'data-size' ), 'theme': divs[ j ].getAttribute( 'data-theme' ), 'badge': divs[ j ].getAttribute( 'data-badge' ), 'tabindex': divs[ j ].getAttribute( 'data-tabindex' ) }; var callback = divs[ j ].getAttribute( 'data-callback' ); if ( callback && 'function' == typeof window[ callback ] ) { params[ 'callback' ] = window[ callback ]; } var expired_callback = divs[ j ].getAttribute( 'data-expired-callback' ); if ( expired_callback && 'function' == typeof window[ expired_callback ] ) { params[ 'expired-callback' ] = window[ expired_callback ]; } var widget_id = grecaptcha.render( divs[ j ], params ); recaptchaWidgets.push( widget_id ); break; } } } }; document.addEventListener( 'wpcf7submit', function( event ) { switch ( event.detail.status ) { case 'spam': case 'mail_sent': case 'mail_failed': for ( var i = 0; i < recaptchaWidgets.length; i++ ) { grecaptcha.reset( recaptchaWidgets[ i ] ); } } }, false ); document.addEventListener( 'wpcf7mailsent', function( event ) { if ( '27665' == event.detail.contactFormId ) { gtag('event', 'conversion', {'send_to': 'AW-711598615/NifoCO3Y9KkBEJfEqNMC'}); } }, false ); /* <![CDATA[ */ var wpcf7 = {\"apiSettings\":{\"root\":\"https:\\/\\/heartclinic.gr\\/wp-json\\/contact-form-7\\/v1\",\"namespace\":\"contact-form-7\\/v1\"},\"recaptcha\":{\"messages\":{\"empty\":\"\\u0395\\u03c0\\u03b9\\u03b2\\u03b5\\u03b2\\u03b1\\u03b9\\u03ce\\u03c3\\u03c4\\u03b5 \\u03cc\\u03c4\\u03b9 \\u03b4\\u03b5\\u03bd \\u03b5\\u03af\\u03c3\\u03c4\\u03b5 \\u03c1\\u03bf\\u03bc\\u03c0\\u03cc\\u03c4.\"}}}; /* ]]> */ /* <![CDATA[ */ var _mpc_ajax = \"https:\\/\\/heartclinic.gr\\/wp-admin\\/admin-ajax.php\"; var _mpc_animations = \"0\"; var _mpc_parallax = \"0\"; var _mpc_scroll_to_id = \"1\"; /* ]]> */ /* <![CDATA[ */ var tg_global_var = {\"url\":\"https:\\/\\/heartclinic.gr\\/wp-admin\\/admin-ajax.php\",\"nonce\":\"65472d6dd5\",\"is_mobile\":null,\"mediaelement\":\"\",\"mediaelement_ex\":null,\"lightbox_autoplay\":\"\",\"debounce\":\"\",\"meta_data\":null,\"main_query\":{\"page\":0,\"pagename\":\"contact\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"contact\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":5,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}}; /* ]]> */ var to_like_post = {\"url\":\"https://heartclinic.gr/wp-admin/admin-ajax.php\",\"nonce\":\"7ceba8ae6e\"};!function(t){\"use strict\";t(document).ready(function(){t(document).on(\"click\",\".to-post-like:not('.to-post-like-unactive')\",function(e){e.preventDefault();var o=t(this),n=o.data(\"post-id\"),s=parseInt(o.find(\".to-like-count\").text());return o.addClass(\"heart-pulse\"),t.ajax({type:\"post\",url:to_like_post.url,data:{nonce:to_like_post.nonce,action:\"to_like_post\",post_id:n,like_nb:s},context:o,success:function(e){e&&((o=t(this)).attr(\"title\",e.title),o.find(\".to-like-count\").text(e.count),o.removeClass(e.remove_class+\" heart-pulse\").addClass(e.add_class))}}),!1})})}(jQuery);",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/heartclinic.gr-home-33d6939d/contact-contact-d8d9f59c.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/heartclinic.gr-home-33d6939d/contact-contact-d8d9f59c.txt",
+      "imageReferences": [
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2023/03/Banner_Psifiakos-Metasx_1.png",
+          "alt": "espa banner",
+          "sourcePageUrl": "https://heartclinic.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/contact",
+              "retrievedAt": "2026-03-31T13:08:48.951Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2018/11/heart-clinic-logo-e1545047296213.png",
+          "sourcePageUrl": "https://heartclinic.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/contact",
+              "retrievedAt": "2026-03-31T13:08:48.951Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.png",
+          "alt": "el",
+          "sourcePageUrl": "https://heartclinic.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/contact",
+              "retrievedAt": "2026-03-31T13:08:48.951Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2018/12/heart-clinic-logo-300x84.png",
+          "sourcePageUrl": "https://heartclinic.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/contact",
+              "retrievedAt": "2026-03-31T13:08:48.951Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2018/12/882.jpg",
+          "alt": "Επικοινωνία",
+          "sourcePageUrl": "https://heartclinic.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/contact",
+              "retrievedAt": "2026-03-31T13:08:48.951Z"
+            }
+          ]
+        },
+        {
+          "url": "https://heartclinic.gr/wp-content/uploads/2018/12/logo-aboutnet2.png",
+          "alt": "κατασκευη ιστοσελιδας",
+          "sourcePageUrl": "https://heartclinic.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://heartclinic.gr/contact",
+              "retrievedAt": "2026-03-31T13:08:48.951Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://heartclinic.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:48.952Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/heartclinic.gr-home-33d6939d/contact-contact-d8d9f59c.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "6973348722 - 2130909910",
+      "213 090 9910",
+      "2130909910",
+      "15.00-19.00",
+      "10.00-20.00",
+      "15.00-18.00",
+      "10.00-13.00",
+      "711598615",
+      "+2130909910",
+      "213 0909910",
+      "6973348722",
+      "76400100",
+      "76400555",
+      "76404236",
+      "+30 697 3348722",
+      "+30 2130909910",
+      "10.03.1978",
+      "00392-020-01741-7",
+      "32920662",
+      "2020.00097",
+      "32714942",
+      "1109-9666(20)30128-7",
+      "2020.06.005"
+    ],
+    "emails": [
+      "info@heartclinic.gr",
+      "dklettas@gmail.com"
+    ],
+    "addresses": [
+      "ΜενουΑρχική Υπηρεσίες Επικοινωνία Όροι Χρήσης Πολιτική Απορρήτου Επικοινωνία Σεμιτέλου 5, 11528 Μέγαρο Μουσικής 2130909910 info@heartclinic.gr Ώρες Λειτουργίας Δευτέρα: 15.00-19.00 Τρίτη: 10.00-20.00 Τετάρτη: 15.00-18.00 Πέμπτη : 10.00-20.00 Παρασκευή: 10.00-13.00 Ραντεβου στο Πολυδροσο κατοπιν τηλεφωνικης επικοινωνιας Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι info@heartclinic.gr κατασκευη ιστοσελιδας",
+      "Σεμιτέλου 5, 11528 Μέγαρο Μουσικής",
+      "Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι"
+    ],
+    "socialLinks": [],
+    "forms": [
+      {
+        "action": "https://heartclinic.gr/",
+        "method": "get",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "s"
+        ],
+        "submitLabels": [],
+        "fields": [
+          {
+            "name": "s",
+            "type": "search",
+            "label": "Search …",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://heartclinic.gr/contact/#wpcf7-f27665-p30825-o1",
+        "method": "post",
+        "purposeHint": "contact",
+        "fieldNames": [
+          "_wpcf7",
+          "_wpcf7_version",
+          "_wpcf7_locale",
+          "_wpcf7_unit_tag",
+          "_wpcf7_container_post",
+          "your-name",
+          "your-email",
+          "your-subject",
+          "your-message",
+          "submit"
+        ],
+        "submitLabels": [
+          "Αποστολή"
+        ],
+        "fields": [
+          {
+            "name": "_wpcf7",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_version",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_locale",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_unit_tag",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_container_post",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "your-name",
+            "type": "text",
+            "label": "Ονοματεπώνυμο",
+            "required": true
+          },
+          {
+            "name": "your-email",
+            "type": "email",
+            "label": "Email",
+            "required": true
+          },
+          {
+            "name": "your-subject",
+            "type": "text",
+            "label": "Θέμα",
+            "required": false
+          },
+          {
+            "name": "your-message",
+            "type": "textarea",
+            "label": "Μήνυμα",
+            "required": false
+          },
+          {
+            "type": "submit",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "The Heart Clinic – ΔΗΜΗΤΡΙΟΣ Μ. ΚΛΕΤΤΑΣ",
+    "canonicalUrl": "https://heartclinic.gr/",
+    "language": "el"
+  },
+  "imageReferences": [
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2023/03/Banner_Psifiakos-Metasx_1.png",
+      "alt": "espa banner",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2018/11/heart-clinic-logo-e1545047296213.png",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png",
+      "alt": "en",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.png",
+      "alt": "el",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2018/12/heart-clinic-logo-300x84.png",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2019/02/banner-002.jpg",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2024/07/VP2_0011.jpg",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2024/07/VP2_0030.jpg",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2024/07/photo-petros-297x300.jpg",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2024/07/photo-front-page-300x225.jpg",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2024/07/VP2_0095-1024x682.jpg",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2019/04/IMG_320%CF%87250.jpg",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2018/12/882.jpg",
+      "alt": "Επικοινωνία",
+      "sourcePageUrl": "https://heartclinic.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:48.951Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2018/12/logo-aboutnet2.png",
+      "alt": "κατασκευη ιστοσελιδας",
+      "sourcePageUrl": "https://heartclinic.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:48.951Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2019/04/IM-320x200.jpg",
+      "alt": "IM-320x200",
+      "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/ypiresies",
+          "retrievedAt": "2026-03-31T13:08:51.916Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2019/04/IMG_20190217_131714.jpg",
+      "alt": "IMG_20190217_131714",
+      "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/ypiresies",
+          "retrievedAt": "2026-03-31T13:08:51.916Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2019/01/holter-rithmou-320x200.jpg",
+      "alt": "holter-rithmou",
+      "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/ypiresies",
+          "retrievedAt": "2026-03-31T13:08:51.916Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2024/07/image_50412289-scaled-320x200.jpg",
+      "alt": "image_50412289",
+      "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/ypiresies",
+          "retrievedAt": "2026-03-31T13:08:51.916Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2019/04/Stress-Echo.jpg",
+      "alt": "Stress-Echo",
+      "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/ypiresies",
+          "retrievedAt": "2026-03-31T13:08:51.916Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2019/04/IMG_20190329_185242.jpg",
+      "alt": "IMG_20190329_185242",
+      "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/ypiresies",
+          "retrievedAt": "2026-03-31T13:08:51.916Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2019/04/velve-stress-echo.jpg",
+      "alt": "velve-stress-echo",
+      "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/ypiresies",
+          "retrievedAt": "2026-03-31T13:08:51.916Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2019/04/IMG_20.jpg",
+      "alt": "IMG_20",
+      "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/ypiresies",
+          "retrievedAt": "2026-03-31T13:08:51.916Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2019/02/img-06.jpg",
+      "alt": "img-06",
+      "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/ypiresies",
+          "retrievedAt": "2026-03-31T13:08:51.916Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2018/12/computer-desk-doctor-48604-1.jpg",
+      "alt": "Δημήτριος Κλέττας",
+      "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/dimitris-klettas",
+          "retrievedAt": "2026-03-31T13:08:57.234Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2019/05/klettas-bio.jpg",
+      "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/dimitris-klettas",
+          "retrievedAt": "2026-03-31T13:08:57.234Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2024/07/photo-alexa-400x400.jpg",
+      "alt": "photo alexa",
+      "sourcePageUrl": "https://heartclinic.gr/h-omada-mas",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/h-omada-mas",
+          "retrievedAt": "2026-03-31T13:09:02.966Z"
+        }
+      ]
+    },
+    {
+      "url": "https://heartclinic.gr/wp-content/uploads/2024/07/photo-katerina-400x400.jpg",
+      "alt": "photo katerina",
+      "sourcePageUrl": "https://heartclinic.gr/h-omada-mas",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://heartclinic.gr/h-omada-mas",
+          "retrievedAt": "2026-03-31T13:09:02.966Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "6973348722 - 2130909910",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213 090 9910",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2130909910",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "15.00-19.00",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "10.00-20.00",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "15.00-18.00",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "10.00-13.00",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "711598615",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+2130909910",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@heartclinic.gr",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "ΜενουΑρχική Υπηρεσίες Επικοινωνία Όροι Χρήσης Πολιτική Απορρήτου Επικοινωνία Σεμιτέλου 5, 11528 Μέγαρο Μουσικής 2130909910 info@heartclinic.gr Ώρες Λειτουργίας Δευτέρα: 15.00-19.00 Τρίτη: 10.00-20.00 Τετάρτη: 15.00-18.00 Πέμπτη : 10.00-20.00 Παρασκευή: 10.00-13.00 Ραντεβου στο Πολυδροσο κατοπιν τηλεφωνικης επικοινωνιας Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι info@heartclinic.gr κατασκευη ιστοσελιδας",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Σεμιτέλου 5, 11528 Μέγαρο Μουσικής",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://heartclinic.gr/",
+      "sourcePageUrl": "https://heartclinic.gr/",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://heartclinic.gr/",
+          "retrievedAt": "2026-03-31T13:08:45.827Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213 0909910",
+      "sourcePageUrl": "https://heartclinic.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://heartclinic.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:48.951Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "6973348722",
+      "sourcePageUrl": "https://heartclinic.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://heartclinic.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:48.951Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://heartclinic.gr/contact",
+      "sourcePageUrl": "https://heartclinic.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://heartclinic.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:48.951Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://heartclinic.gr/contact",
+      "sourcePageUrl": "https://heartclinic.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://heartclinic.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:48.951Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "76400100",
+      "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://heartclinic.gr/ypiresies",
+          "retrievedAt": "2026-03-31T13:08:51.916Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "76400555",
+      "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://heartclinic.gr/ypiresies",
+          "retrievedAt": "2026-03-31T13:08:51.916Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "76404236",
+      "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://heartclinic.gr/ypiresies",
+          "retrievedAt": "2026-03-31T13:08:51.916Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://heartclinic.gr/ypiresies",
+      "sourcePageUrl": "https://heartclinic.gr/ypiresies",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://heartclinic.gr/ypiresies",
+          "retrievedAt": "2026-03-31T13:08:51.916Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 697 3348722",
+      "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://heartclinic.gr/dimitris-klettas",
+          "retrievedAt": "2026-03-31T13:08:57.234Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 2130909910",
+      "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://heartclinic.gr/dimitris-klettas",
+          "retrievedAt": "2026-03-31T13:08:57.234Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "10.03.1978",
+      "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://heartclinic.gr/dimitris-klettas",
+          "retrievedAt": "2026-03-31T13:08:57.234Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "00392-020-01741-7",
+      "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://heartclinic.gr/dimitris-klettas",
+          "retrievedAt": "2026-03-31T13:08:57.234Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "32920662",
+      "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://heartclinic.gr/dimitris-klettas",
+          "retrievedAt": "2026-03-31T13:08:57.234Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2020.00097",
+      "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://heartclinic.gr/dimitris-klettas",
+          "retrievedAt": "2026-03-31T13:08:57.234Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "32714942",
+      "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://heartclinic.gr/dimitris-klettas",
+          "retrievedAt": "2026-03-31T13:08:57.234Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1109-9666(20)30128-7",
+      "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://heartclinic.gr/dimitris-klettas",
+          "retrievedAt": "2026-03-31T13:08:57.234Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2020.06.005",
+      "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://heartclinic.gr/dimitris-klettas",
+          "retrievedAt": "2026-03-31T13:08:57.234Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "dklettas@gmail.com",
+      "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+      "pageType": "about",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://heartclinic.gr/dimitris-klettas",
+          "retrievedAt": "2026-03-31T13:08:57.234Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://heartclinic.gr/dimitris-klettas",
+      "sourcePageUrl": "https://heartclinic.gr/dimitris-klettas",
+      "pageType": "about",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://heartclinic.gr/dimitris-klettas",
+          "retrievedAt": "2026-03-31T13:08:57.234Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://heartclinic.gr/iatreio-eksoplismos",
+      "sourcePageUrl": "https://heartclinic.gr/iatreio-eksoplismos",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://heartclinic.gr/iatreio-eksoplismos",
+          "retrievedAt": "2026-03-31T13:09:00.303Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://heartclinic.gr/iatreio-eksoplismos",
+      "sourcePageUrl": "https://heartclinic.gr/iatreio-eksoplismos",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://heartclinic.gr/iatreio-eksoplismos",
+          "retrievedAt": "2026-03-31T13:09:00.303Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://heartclinic.gr/h-omada-mas",
+      "sourcePageUrl": "https://heartclinic.gr/h-omada-mas",
+      "pageType": "about",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://heartclinic.gr/h-omada-mas",
+          "retrievedAt": "2026-03-31T13:09:02.966Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://heartclinic.gr/",
+    "finalOrigin": "https://heartclinic.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://heartclinic.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:08:43.546Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [
+        "/wp-admin/admin-ajax.php"
+      ],
+      "disallowRules": [
+        "/wp-admin/"
+      ],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://heartclinic.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:08:40.079Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 1,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://heartclinic.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/ypiresies",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/%cf%85%cf%80%ce%b7%cf%81%ce%b5%cf%83%ce%af%ce%b5%cf%82",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/dimitris-klettas",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/iatreio-eksoplismos",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/h-omada-mas",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/eipan-gia-emas",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/triplex-kardias",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/holter-piesis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/kardiologikos-elegxos",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/holter-rithmou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/stress-echo",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/stress-echo-se-ergometriko-podilato",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/%ce%b2%ce%b1%ce%bb%ce%b2%ce%b9%ce%b4%ce%b9%ce%ba%cf%8c-stress-echo",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/apli-episkepsi",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/kat-oikon-episkepsi",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/pistopoihtika",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/omilies",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:45.828Z"
+      },
+      {
+        "url": "https://heartclinic.gr/contact",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:48.952Z"
+      },
+      {
+        "url": "https://heartclinic.gr/pathiseis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/contact",
+        "timestamp": "2026-03-31T13:08:48.953Z"
+      },
+      {
+        "url": "https://heartclinic.gr/fotographies",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/contact",
+        "timestamp": "2026-03-31T13:08:48.953Z"
+      },
+      {
+        "url": "https://heartclinic.gr/ypiresies",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:51.918Z"
+      },
+      {
+        "url": "https://heartclinic.gr/%cf%85%cf%80%ce%b7%cf%81%ce%b5%cf%83%ce%af%ce%b5%cf%82",
+        "action": "error",
+        "reason": "HTTP 404",
+        "pageTypeHint": "services",
+        "statusCode": 404,
+        "timestamp": "2026-03-31T13:08:54.165Z"
+      },
+      {
+        "url": "https://heartclinic.gr/dimitris-klettas",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:08:57.236Z"
+      },
+      {
+        "url": "https://heartclinic.gr/en/dimitrios-klettas",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://heartclinic.gr/dimitris-klettas",
+        "timestamp": "2026-03-31T13:08:57.236Z"
+      },
+      {
+        "url": "https://heartclinic.gr/iatreio-eksoplismos",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:09:00.306Z"
+      },
+      {
+        "url": "https://heartclinic.gr/h-omada-mas",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://heartclinic.gr/",
+        "timestamp": "2026-03-31T13:09:02.968Z"
+      },
+      {
+        "url": "https://heartclinic.gr/en/our-team",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://heartclinic.gr/h-omada-mas",
+        "timestamp": "2026-03-31T13:09:02.968Z"
+      },
+      {
+        "url": "https://heartclinic.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:09:10.593Z"
+      },
+      {
+        "url": "https://heartclinic.gr/contact",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:09:15.650Z"
+      },
+      {
+        "url": "https://heartclinic.gr/iatreio-eksoplismos",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:09:20.252Z"
+      }
+    ],
+    "skippedUrls": [
+      {
+        "url": "https://heartclinic.gr/%cf%85%cf%80%ce%b7%cf%81%ce%b5%cf%83%ce%af%ce%b5%cf%82",
+        "action": "error",
+        "reason": "HTTP 404",
+        "pageTypeHint": "services",
+        "statusCode": 404,
+        "timestamp": "2026-03-31T13:08:54.165Z"
+      }
+    ]
+  }
+}

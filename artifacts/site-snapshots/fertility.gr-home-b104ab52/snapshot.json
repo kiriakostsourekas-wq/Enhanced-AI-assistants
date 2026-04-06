@@ -1,0 +1,2744 @@
+{
+  "domain": "fertility.gr",
+  "collectedAt": "2026-03-31T13:13:05.790Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/fertility.gr-home-b104ab52",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://www.fertility.gr/",
+      "finalUrl": "https://www.fertility.gr/",
+      "fetchedAt": "2026-03-31T13:12:53.768Z",
+      "metadata": {
+        "title": "Μονάδα Αναπαραγωγικής Ιατρικής",
+        "canonicalUrl": "https://www.fertility.gr/",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Μονάδα Αναπαραγωγικής Ιατρικής",
+        "openGraphDescription": "Καλώς ήλθατε στη Μονάδα Αναπαραγωγικής Ιατρικής. Για όλους εμάς που αποτελούμε τη Μονάδα προτεραιότητα μας είναι η έγκυρη και άμεση παροχή υπηρεσιών...Read More...",
+        "openGraphImage": "https://fertility.gr/wp-content/uploads/2023/03/service.svg"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Υπηρεσίες"
+        },
+        {
+          "level": "h2",
+          "text": "Τα νέα μας"
+        },
+        {
+          "level": "h2",
+          "text": "Επικοινωνήστε"
+        },
+        {
+          "level": "h2",
+          "text": "μαζί μας"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.fertility.gr/",
+          "label": "<img class=\"img-fluid wp-image-676\" src=\"https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP.png\" alt=\"\" width=\"412\" height=\"103\" srcset=\"https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP.png 412w, https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP-300x75.png 300w\" sizes=\"(max-width: 412px) 100vw, 412px\">"
+        },
+        {
+          "href": "https://www.fertility.gr/i-monada/",
+          "label": "Η Μονάδα"
+        },
+        {
+          "href": "https://www.fertility.gr/ipiresies/",
+          "label": "Υπηρεσίες"
+        },
+        {
+          "href": "https://www.fertility.gr/programmatismeni-epafi-parakolouthisi-kuklou/",
+          "label": "Προγραμματισμένη επαφή – Παρακολούθηση κύκλου"
+        },
+        {
+          "href": "https://www.fertility.gr/endomitriki-spermategxusi/",
+          "label": "Παρακολούθηση Κύκλου – Ενδομητρική Σπερματέγχυση (IUI)"
+        },
+        {
+          "href": "https://www.fertility.gr/endomitriki-spermategxusi-me-ipia-xorigisi-farmakon/",
+          "label": "Ενδομητρική Σπερματέγχυση (IUI) με ήπια χορήγηση φαρμάκων"
+        },
+        {
+          "href": "https://www.fertility.gr/exosomatiki-gonimopoihsh-se-fusiko-kuklo/",
+          "label": "Σε φυσικό κύκλο – ‘Ηπια διέγερση"
+        },
+        {
+          "href": "https://www.fertility.gr/exosomatiki-gonimopoihsh-me-xorigisi-farmakon/",
+          "label": "Με χορήγηση φαρμάκων"
+        },
+        {
+          "href": "https://www.fertility.gr/methodos-gonimopoihshs-oarion/",
+          "label": "Μέθοδος Γονιμοποίησης Ωαρίων"
+        },
+        {
+          "href": "https://www.fertility.gr/azoospermia/",
+          "label": "Αζωοσπερμία & Τεχνικές Λήψης σπέρματος"
+        },
+        {
+          "href": "https://www.fertility.gr/kalliergeia-vlastokustis/",
+          "label": "Καλλιέργεια Βλαστοκύστης"
+        },
+        {
+          "href": "https://www.fertility.gr/in-vitro-orimansi-oarion-ivm/",
+          "label": "In Vitro Ωρίμανση Ωαρίων (IVM)"
+        },
+        {
+          "href": "https://www.fertility.gr/nees-ergastiriakes-texnikes/",
+          "label": "Νέες Εργαστηριακές Τεχνικές"
+        },
+        {
+          "href": "https://www.fertility.gr/embruometafora/",
+          "label": "Εμβρυομεταφορά"
+        },
+        {
+          "href": "https://www.fertility.gr/time-lapse-imaging-embryoscope/",
+          "label": "Τεχνολογία συνεχούς παρακολούθησης εμβρύων (Time lapse imaging – Embryoscope ΤΜ)"
+        },
+        {
+          "href": "https://www.fertility.gr/analusi-xrwmoswmikou-profil-embruou/",
+          "label": "Ανάλυση χρωμοσωμικού προφίλ του εμβρύου"
+        },
+        {
+          "href": "https://www.fertility.gr/monogonidiaka-nosimata/",
+          "label": "Μονογονιδιακά νοσήματα"
+        },
+        {
+          "href": "https://www.fertility.gr/dwrea-spermatos/",
+          "label": "Δωρεά σπέρματος"
+        },
+        {
+          "href": "https://www.fertility.gr/dwrea-wariwn/",
+          "label": "Δωρεά ωαρίων"
+        },
+        {
+          "href": "https://www.fertility.gr/parentheti-mitra/",
+          "label": "Παρένθετη μήτρα"
+        },
+        {
+          "href": "https://www.fertility.gr/nea-methodos-kruosuntirisis-ualopoihsh/",
+          "label": "Νέα μέθοδος κρυοσυντήρησης: Υαλοποίηση"
+        },
+        {
+          "href": "https://www.fertility.gr/katapsiksi-wothikikou-istou/",
+          "label": "Κατάψυξη ωοθηκικού ιστού"
+        },
+        {
+          "href": "https://www.fertility.gr/katapsiksi-wariwn-fulaksi-gonimotitas/",
+          "label": "Κατάψυξη ωαρίων – Φύλαξη γονιμότητας"
+        },
+        {
+          "href": "https://www.fertility.gr/katapsiksi-spermatos/",
+          "label": "Κατάψυξη σπέρματος"
+        },
+        {
+          "href": "https://www.fertility.gr/katapsiksi-embruon/",
+          "label": "Κατάψυξη εμβρύων"
+        },
+        {
+          "href": "https://www.fertility.gr/katakermatismos-dna-spermatozwariwn/",
+          "label": "Κατακερματισμός DNA σπερματοζωαρίων"
+        },
+        {
+          "href": "https://www.fertility.gr/analusi-spermatos/",
+          "label": "Ανάλυση σπέρματος"
+        },
+        {
+          "href": "https://www.fertility.gr/energopoihsh-spermatos/",
+          "label": "Ενεργοποίηση σπέρματος για ενδομητρική σπερματέγχυση ή εξωσωματική γονιμοποίηση"
+        },
+        {
+          "href": "https://www.fertility.gr/kalliergeia-spermatos/",
+          "label": "Καλλιέργεια σπέρματος"
+        },
+        {
+          "href": "https://www.fertility.gr/metrisi-okseidwtikou-stress/",
+          "label": "Μέτρηση οξειδωτικού stress"
+        },
+        {
+          "href": "https://www.fertility.gr/siskeues-diaxwrismou-spermatos-zymot/",
+          "label": "Συσκευές διαχωρισμού σπέρματος Zymot"
+        },
+        {
+          "href": "https://www.fertility.gr/ta-nea-mas/",
+          "label": "Τα νέα μας"
+        },
+        {
+          "href": "https://www.fertility.gr/contact/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://fertility.gr/i-monada/",
+          "label": "Μάθετε περισσότερα"
+        },
+        {
+          "href": "https://fertility.gr/ipovoithoumeni-anaparagogi/",
+          "label": "Υποβοηθούμενη Αναπαραγωγή"
+        },
+        {
+          "href": "https://fertility.gr/programmatismeni-epafi-parakolouthisi-kuklou/",
+          "label": "Προγραμματισμένη επαφή - Παρακολούθηση κύκλου"
+        },
+        {
+          "href": "https://fertility.gr/endomitriki-spermategxusi/",
+          "label": "Παρακολούθηση Κύκλου - Ενδομητρική Σπερματέγχυση (IUI)"
+        },
+        {
+          "href": "https://fertility.gr/endomitriki-spermategxusi-me-ipia-xorigisi-farmakon/",
+          "label": "Ενδομητρική Σπερματέγχυση (IUI) με ήπια χορήγηση φαρμάκων"
+        },
+        {
+          "href": "https://fertility.gr/eksosomatiki-gonimopoihsh/",
+          "label": "Εξωσωματική Γονιμοποίηση"
+        },
+        {
+          "href": "https://fertility.gr/exosomatiki-gonimopoihsh-se-fusiko-kuklo/",
+          "label": "Σε φυσικό κύκλο - ήπια διέγερση"
+        },
+        {
+          "href": "https://fertility.gr/exosomatiki-gonimopoihsh-me-xorigisi-farmakon/",
+          "label": "Εξωσωματική γονιμοποίηση με ήπια χορήγηση φαρμάκων"
+        },
+        {
+          "href": "https://fertility.gr/methodos-gonimopoihshs-oarion/",
+          "label": "Μέθοδος γονιμοποίησης ωαρίων"
+        },
+        {
+          "href": "https://fertility.gr/azoospermia/",
+          "label": "Αζωοσπερμία και τεχνικές λήψης σπέρματος"
+        },
+        {
+          "href": "https://fertility.gr/kalliergeia-vlastokustis/",
+          "label": "Καλλιέργεια βλαστοκύστης"
+        },
+        {
+          "href": "https://fertility.gr/nees-ergastiriakes-texnikes/",
+          "label": "Νέες εργαστηριακές τεχνικές"
+        },
+        {
+          "href": "https://fertility.gr/in-vitro-orimansi-oarion-ivm/",
+          "label": "In Vitro Ωρίμανση ωαρίων"
+        },
+        {
+          "href": "https://fertility.gr/embruometafora/",
+          "label": "Εμβρυομεταφορά"
+        },
+        {
+          "href": "https://fertility.gr/time-lapse-imaging-embryoscope/",
+          "label": "Τεχνολογία συνεχούς παρακολούθησης εμβρύων (Time lapse imaging – Embryoscope ΤΜ)"
+        },
+        {
+          "href": "https://fertility.gr/proemfiteutikos-genetikos-elegxos/",
+          "label": "Προεμφυτευτικός Γενετικός Έλεγχος"
+        },
+        {
+          "href": "https://fertility.gr/analusi-xrwmoswmikou-profil-embruou/",
+          "label": "Ανάλυση χρωμοσωμικού προφίλ του εμβρύου"
+        },
+        {
+          "href": "https://fertility.gr/monogonidiaka-nosimata/",
+          "label": "Μονογονιδιακά νοσήματα"
+        },
+        {
+          "href": "https://fertility.gr/dorea-gennetikou-ilikou/",
+          "label": "Δωρεά Γεννητικού Υλικού"
+        },
+        {
+          "href": "https://fertility.gr/dwrea-spermatos/",
+          "label": "Δωρεά σπέρματος"
+        },
+        {
+          "href": "https://fertility.gr/dwrea-wariwn/",
+          "label": "Δωρεά ωαρίων"
+        },
+        {
+          "href": "https://fertility.gr/parentheti-mitra/",
+          "label": "Παρένθετη μήτρα"
+        },
+        {
+          "href": "https://fertility.gr/katapsiksi-vitrification/",
+          "label": "Κατάψυξη - Vitrification"
+        },
+        {
+          "href": "https://fertility.gr/katapsiksi-wothikikou-istou/",
+          "label": "Κατάψυξη ωοθηκικού ιστού"
+        },
+        {
+          "href": "https://fertility.gr/katapsiksi-wariwn-fulaksi-gonimotitas/",
+          "label": "Κατάψυξη ωαρίων - Φύλαξη γονιμότητας"
+        },
+        {
+          "href": "https://fertility.gr/katapsiksi-spermatos/",
+          "label": "Κατάψυξη σπέρματος"
+        },
+        {
+          "href": "https://fertility.gr/katapsiksi-embruon/",
+          "label": "Κατάψυξη εμβρύων"
+        },
+        {
+          "href": "https://fertility.gr/ergastirio-spermatos/",
+          "label": "Εργαστήριο Σπέρματος"
+        },
+        {
+          "href": "https://fertility.gr/katakermatismos-dna-spermatozwariwn/",
+          "label": "Κατακερματισμός DNA σπερματοζωαρίων"
+        },
+        {
+          "href": "https://fertility.gr/kalliergeia-spermatos/",
+          "label": "Καλλιέργεια σπέρματος"
+        },
+        {
+          "href": "https://fertility.gr/energopoihsh-spermatos/",
+          "label": "Ενεργοποίηση σπέρματος για ενδομητρική σπερματέγχυση ή εξωσωματική γονιμοποίηση"
+        },
+        {
+          "href": "https://fertility.gr/analusi-spermatos/",
+          "label": "Ανάλυση σπέρματος"
+        },
+        {
+          "href": "https://fertility.gr/metrisi-okseidwtikou-stress/",
+          "label": "Μέτρηση οξειδωτικού stress"
+        },
+        {
+          "href": "https://fertility.gr/siskeues-diaxwrismou-spermatos-zymot/",
+          "label": "Συσκευές διαχωρισμού σπέρματος Zymot"
+        },
+        {
+          "href": "https://www.fertility.gr/enimerosi/",
+          "label": "Μάθετε περισσότερα <img decoding=\"async\" src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-service.svg\">"
+        },
+        {
+          "href": "https://www.fertility.gr/egkimosini-deutero-trimino/",
+          "label": "Μάθετε περισσότερα <img decoding=\"async\" src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-service.svg\">"
+        },
+        {
+          "href": "https://www.fertility.gr/egkimosini-proto-trimino/",
+          "label": "Μάθετε περισσότερα <img decoding=\"async\" src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-service.svg\">"
+        },
+        {
+          "href": "https://fertility.gr/i-monada",
+          "label": "Η Μονάδα"
+        },
+        {
+          "href": "https://fertility.gr/ta-nea-mas",
+          "label": "Τα νέα μας"
+        },
+        {
+          "href": "https://fertility.gr/contact/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.fertility.gr/politiki-poiotitas/",
+          "label": "Πολιτική Ποιότητας"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.fertility.gr/",
+          "method": "post",
+          "purposeHint": "contact",
+          "fieldNames": [
+            "wpforms[fields][3]",
+            "wpforms[fields][4]",
+            "wpforms[fields][1]",
+            "wpforms[fields][2]",
+            "wpforms[id]",
+            "wpforms[author]",
+            "wpforms[post_id]"
+          ],
+          "submitLabels": [
+            "Αποστολή"
+          ],
+          "fields": [
+            {
+              "name": "wpforms[fields][3]",
+              "type": "text",
+              "label": "Ονοματεπώνυμο",
+              "required": true
+            },
+            {
+              "name": "wpforms[fields][4]",
+              "type": "text",
+              "label": "Τηλέφωνο",
+              "required": true
+            },
+            {
+              "name": "wpforms[fields][1]",
+              "type": "email",
+              "label": "Email",
+              "required": true
+            },
+            {
+              "name": "wpforms[fields][2]",
+              "type": "textarea",
+              "label": "Μήνυμα",
+              "required": false
+            },
+            {
+              "name": "wpforms[id]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "wpforms[author]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "wpforms[post_id]",
+              "type": "hidden",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://www.fertility.gr/",
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "wpforms[fields][2]",
+            "wpforms[id]",
+            "wpforms[author]",
+            "wpforms[post_id]"
+          ],
+          "submitLabels": [
+            "Αποστολή"
+          ],
+          "fields": [
+            {
+              "name": "wpforms[fields][2]",
+              "type": "email",
+              "label": "Your Email Address",
+              "required": true
+            },
+            {
+              "name": "wpforms[id]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "wpforms[author]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "wpforms[post_id]",
+              "type": "hidden",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "2106912900",
+          "2106910080",
+          "1995-1999",
+          "529087087",
+          "2117923835-2",
+          "210 6912900",
+          "210 6910080",
+          "1773566377"
+        ],
+        "emails": [
+          "info@fertility.gr"
+        ],
+        "addresses": [
+          "<img class=\"img-fluid wp-image-38\" alt=\"\" src=\"https://fertility.gr/wp-content/uploads/2023/03/Ferility-Logo-footer.svg\" style=\"max-height:10vh\" width=\"100%\" height=\"\" srcset=\"\" sizes=\"\"> Εξατομικεύουμε την αντιμετώπιση κάθε ζευγαριού. <img src=\"https://fertility.gr/wp-content/uploads/2023/03/phone-footer.svg\" loading=\"lazy\" class=\"wp-image-29\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> 210 6912900 | 210 6910080 <img src=\"https://fertility.gr/wp-content/uploads/2023/03/email-footer.svg\" loading=\"lazy\" class=\"wp-image-43\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> info@fertility.gr <img src=\"https://fertility.gr/wp-content/uploads/2023/03/pin-footer.svg\" loading=\"lazy\" class=\" wp-image-27\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> Γ. Αναστασίου 8, Αθήνα [όπισθεν Μαιευτηρίου ΛΗΤΩ] Μενού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Αρχική <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Η Μονάδα <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Τα νέα μας <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Επικοινωνία <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Πολιτική Ποιότητας Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υποβοηθούμενη Αναπαραγωγή <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εξωσωματική Γονιμοποίηση <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Προεμφυτευτικός Γενετικός Έλεγχος <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Δωρεά Γεννητικού Υλικού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Κατάψυξη - Vitrification <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εργαστήριο Σπέρματος Newsletter Please enable JavaScript in your browser to complete this form.Email *Αποστολή<img src=\"https://www.fertility.gr/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg\" class=\"wpforms-submit-spinner\" style=\"display: none;\" width=\"26\" height=\"26\" alt=\"Loading\"> <img class=\"img-fluid wp-image-40 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-32 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-20 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-17 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid me-2 wp-image-36\" src=\"https://fertility.gr/wp-content/uploads/2023/03/google-plus-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Forthright Copyright 2023"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/fertilitilito/",
+            "label": "<img class=\"img-fluid wp-image-39\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\">"
+          },
+          {
+            "href": "https://www.instagram.com/fertility_gr/",
+            "label": "<img class=\"img-fluid wp-image-30\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\">"
+          },
+          {
+            "href": "https://twitter.com/AthensFertility",
+            "label": "<img class=\"img-fluid wp-image-19\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\">"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UC7I7YLgllHvqQ4ybPnyDvaQ",
+            "label": "<img class=\"img-fluid wp-image-51\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\">"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.fertility.gr/",
+            "method": "post",
+            "purposeHint": "contact",
+            "fieldNames": [
+              "wpforms[fields][3]",
+              "wpforms[fields][4]",
+              "wpforms[fields][1]",
+              "wpforms[fields][2]",
+              "wpforms[id]",
+              "wpforms[author]",
+              "wpforms[post_id]"
+            ],
+            "submitLabels": [
+              "Αποστολή"
+            ],
+            "fields": [
+              {
+                "name": "wpforms[fields][3]",
+                "type": "text",
+                "label": "Ονοματεπώνυμο",
+                "required": true
+              },
+              {
+                "name": "wpforms[fields][4]",
+                "type": "text",
+                "label": "Τηλέφωνο",
+                "required": true
+              },
+              {
+                "name": "wpforms[fields][1]",
+                "type": "email",
+                "label": "Email",
+                "required": true
+              },
+              {
+                "name": "wpforms[fields][2]",
+                "type": "textarea",
+                "label": "Μήνυμα",
+                "required": false
+              },
+              {
+                "name": "wpforms[id]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "wpforms[author]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "wpforms[post_id]",
+                "type": "hidden",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://www.fertility.gr/",
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "wpforms[fields][2]",
+              "wpforms[id]",
+              "wpforms[author]",
+              "wpforms[post_id]"
+            ],
+            "submitLabels": [
+              "Αποστολή"
+            ],
+            "fields": [
+              {
+                "name": "wpforms[fields][2]",
+                "type": "email",
+                "label": "Your Email Address",
+                "required": true
+              },
+              {
+                "name": "wpforms[id]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "wpforms[author]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "wpforms[post_id]",
+                "type": "hidden",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "<img class=\"img-fluid wp-image-38\" alt=\"\" src=\"https://fertility.gr/wp-content/uploads/2023/03/Ferility-Logo-footer.svg\" style=\"max-height:10vh\" width=\"100%\" height=\"\" srcset=\"\" sizes=\"\"> Εξατομικεύουμε την αντιμετώπιση κάθε ζευγαριού. <img src=\"https://fertility.gr/wp-content/uploads/2023/03/phone-footer.svg\" loading=\"lazy\" class=\"wp-image-29\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> 210 6912900 | 210 6910080 <img src=\"https://fertility.gr/wp-content/uploads/2023/03/email-footer.svg\" loading=\"lazy\" class=\"wp-image-43\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> info@fertility.gr <img src=\"https://fertility.gr/wp-content/uploads/2023/03/pin-footer.svg\" loading=\"lazy\" class=\" wp-image-27\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> Γ. Αναστασίου 8, Αθήνα [όπισθεν Μαιευτηρίου ΛΗΤΩ] Μενού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Αρχική <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Η Μονάδα <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Τα νέα μας <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Επικοινωνία <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Πολιτική Ποιότητας Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υποβοηθούμενη Αναπαραγωγή <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εξωσωματική Γονιμοποίηση <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Προεμφυτευτικός Γενετικός Έλεγχος <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Δωρεά Γεννητικού Υλικού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Κατάψυξη - Vitrification <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εργαστήριο Σπέρματος Newsletter Please enable JavaScript in your browser to complete this form.Email *Αποστολή<img src=\"https://www.fertility.gr/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg\" class=\"wpforms-submit-spinner\" style=\"display: none;\" width=\"26\" height=\"26\" alt=\"Loading\"> <img class=\"img-fluid wp-image-40 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-32 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-20 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-17 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid me-2 wp-image-36\" src=\"https://fertility.gr/wp-content/uploads/2023/03/google-plus-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Forthright Copyright 2023",
+      "textContent": "<img class=\"img-fluid wp-image-28 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/phone-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> 2106912900 |2106910080 <img class=\"img-fluid wp-image-42 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/email-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> info@fertility.gr <img class=\"img-fluid wp-image-26 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/pin-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Γ. Αναστασίου 8 [όπισθεν Μαιευτηρίου ΛΗΤΩ] <img class=\"img-fluid wp-image-39\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-30\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-19\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-51\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-35\" src=\"https://fertility.gr/wp-content/uploads/2023/03/google-plus-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-676\" src=\"https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP.png\" alt=\"\" width=\"412\" height=\"103\" srcset=\"https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP.png 412w, https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP-300x75.png 300w\" sizes=\"(max-width: 412px) 100vw, 412px\"> Αρχική Η Μονάδα Υπηρεσίες Υποβοηθούμενη Αναπαραγωγή Προγραμματισμένη επαφή – Παρακολούθηση κύκλου Παρακολούθηση Κύκλου – Ενδομητρική Σπερματέγχυση (IUI) Ενδομητρική Σπερματέγχυση (IUI) με ήπια χορήγηση φαρμάκων Εξωσωματική Γονιμοποίηση Σε φυσικό κύκλο – ‘Ηπια διέγερση Με χορήγηση φαρμάκων Μέθοδος Γονιμοποίησης Ωαρίων Αζωοσπερμία & Τεχνικές Λήψης σπέρματος Καλλιέργεια Βλαστοκύστης In Vitro Ωρίμανση Ωαρίων (IVM) Νέες Εργαστηριακές Τεχνικές Εμβρυομεταφορά Τεχνολογία συνεχούς παρακολούθησης εμβρύων (Time lapse imaging – Embryoscope ΤΜ) Προεμφυτευτικός Γενετικός Ελέγχος Ανάλυση χρωμοσωμικού προφίλ του εμβρύου Μονογονιδιακά νοσήματα Δωρεά Γεννητικού Υλικού Δωρεά σπέρματος Δωρεά ωαρίων Παρένθετη μήτρα Κατάψυξη – Vitrification Νέα μέθοδος κρυοσυντήρησης: Υαλοποίηση Κατάψυξη ωοθηκικού ιστού Κατάψυξη ωαρίων – Φύλαξη γονιμότητας Κατάψυξη σπέρματος Κατάψυξη εμβρύων Εργαστήριο Σπέρματος Κατακερματισμός DNA σπερματοζωαρίων Ανάλυση σπέρματος Ενεργοποίηση σπέρματος για ενδομητρική σπερματέγχυση ή εξωσωματική γονιμοποίηση Καλλιέργεια σπέρματος Μέτρηση οξειδωτικού stress Συσκευές διαχωρισμού σπέρματος Zymot Τα νέα μας Επικοινωνία Κλείστε το ραντεβού σας Καλώς ήλθατε στη Μονάδα Αναπαραγωγικής Ιατρικής. Για όλους εμάς που αποτελούμε τη Μονάδα προτεραιότητα μας είναι η έγκυρη και άμεση παροχή υπηρεσιών που αφορούν την υπογονιμότητα και την φύλαξη γονιμότητας. Είμαστε περήφανοι γιατί η Μονάδα με συνεχείς προσθήκες τόσο υψηλής εξειδίκευσης ιατρικού προσωπικού όσο και με επενδύσεις σε ιατρικο-εργαστηριακό εξοπλισμό προσφέρει αδιάλειπτα από το 1999 υψηλού επιπέδου υπηρεσίες σε ειδικά διαμορφωμένους χώρους του μαιευτηρίου Λητώ. Μάθετε περισσότερα <img decoding=\"async\" src=\"https://fertility.gr/wp-content/uploads/2023/03/service.svg\" loading=\"lazy\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" class=\" wp-image-22\"> Υπηρεσίες Η πολύχρονη εμπειρία, η συνεχής επιμόρφωση του προσωπικού και η χρήση τελευταίας γενιάς εξοπλισμού κάνουν τη Μοναδα Αναπαραγωγικης Ιατρικής μια από τις πιο ανταγωνιστικες μονάδες υποβοηθουμενης αναπαραγωγής σε Ελλάδα και εξωτερικο. Το ιατρικό προσωπικό επιλέγει το καταλληλότερο και εξατομικευμένο πρωτόκολλο ενώ το προσωπικό της μονάδας διατηρεί στενή επαφή με κάθε ζευγάρι ξεχωριστά καθ’όλη τη διάρκεια της θεραπείας έτσι ώστε να απαντηθούν άμεσα πιθανές ερωτήσεις. Η άμεση επαφή των ζευγαριών με τον έμβρυολογο που έχει αναλάβει να φέρει εις πέρας τις εργαστηριακές διαδικασίες δημιουργεί ένα επιπλέον αίσθημα ασφαλείας. <img decoding=\"async\" src=\"https://fertility.gr/wp-content/uploads/2023/03/proswpiko-1.svg\" loading=\"lazy\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" class=\" wp-image-209\"> Εξειδικευμένο Προσωπικό Από το 1999 που ιδρύθηκε η Μοναδα Αναπαραγωγικής Ιατρικής, στην εμπειρία και βαθιά γνωση της Αναπαραγωγικης ενδοκρινολογιας και υποβοηθούμενης αναπαραγωγής των ιδρυτικών μελών Κου Ιωάννη Μιχαλοπούλου και Αθανασίου Καστόρα, προστέθηκαν νέα έμπειρα και καταξιωμένα στελέχη. Οι ιατροί, οι έμβρυολογοι και το πολύπειρο νοσηλευτικό προσωπικό εξασφαλίζουν ότι όλες οι διαδικασίες θα πραγματοποιηθούν με τρόπο που θα εξασφαλίζουν το καλύτερο δυνατό ποσοστό επιτυχίας με το μικρότερο δυνατό stress. <img decoding=\"async\" src=\"https://fertility.gr/wp-content/uploads/2023/03/Milioridis-Photo.png\"> Δρ. Γιάννης Μιχαλόπουλος Μαιευτήρας -Γυναικολόγος Ο Γιάννης Μιχαλόπουλος είναι Μαιευτήρας Γυναικολόγος, εξειδικευμένος στην υπογονιμότητα. Πήρε την ειδικότητά του από το Μαιευτήριο Αλεξάνδρα και εν συνεχεία εκπαιδεύτηκε στη Βοστώνη στο Faulkner Centre for Reproductive Medicine, Harvard Medical School. Είναι εξειδικευμένος στην υποβοηθούμενη αναπαραγωγή, εξωσωματική γονιμοποίηση τόσο στο κλινικό της κομμάτι όσο και στη Βιολογία της Αναπαραγωγής (Εργαστήριο Εξωσωματικής). Αποτελεί ιδρυτικό μέλος της Μονάδας Αναπαραγωγικής Ιατρικής με την οποία εργάστηκε ως υπεύθυνος στο Μητέρα (1995-1999) και στο Μαιευτήριο Λητώ, όπου δραστηριοποιείται μέχρι και σήμερα. Ο Γιάννης Μιχαλόπουλος διακατέχεται από το πνεύμα της “ανοιχτής μονάδας εξωσωματικής”, δίνοντας έτσι μαζί με το συνεργάτη του Αθ. Καστόρα, την ευκαιρία της προώθησης νέων συναδέλφων στο στίβο της υποβοηθούμενης αναπαραγωγής. Έχει λάβει μέρος σε πολλά συνέδρια και μελέτες, έχει παρουσιάσει ομιλίες και προεδρεύει σε συνέδρια που αφορούν στην υπογονιμότητα. Είναι διδάκτωρ του Πανεπιστημίου Αθηνών από το 1992. <img decoding=\"async\" src=\"https://fertility.gr/wp-content/uploads/2023/03/Milioridis-Photo.png\"> Δρ. Γιάννης Μιχαλόπουλος Μαιευτήρας -Γυναικολόγος Ο Γιάννης Μιχαλόπουλος είναι Μαιευτήρας Γυναικολόγος, εξειδικευμένος στην υπογονιμότητα. Πήρε την ειδικότητά του από το Μαιευτήριο Αλεξάνδρα και εν συνεχεία εκπαιδεύτηκε στη Βοστώνη στο Faulkner Centre for Reproductive Medicine, Harvard Medical School. Είναι εξειδικευμένος στην υποβοηθούμενη αναπαραγωγή, εξωσωματική γονιμοποίηση τόσο στο κλινικό της κομμάτι όσο και στη Βιολογία της Αναπαραγωγής (Εργαστήριο Εξωσωματικής). Αποτελεί ιδρυτικό μέλος της Μονάδας Αναπαραγωγικής Ιατρικής με την οποία εργάστηκε ως υπεύθυνος στο Μητέρα (1995-1999) και στο Μαιευτήριο Λητώ, όπου δραστηριοποιείται μέχρι και σήμερα. Ο Γιάννης Μιχαλόπουλος διακατέχεται από το πνεύμα της “ανοιχτής μονάδας εξωσωματικής”, δίνοντας έτσι μαζί με το συνεργάτη του Αθ. Καστόρα, την ευκαιρία της προώθησης νέων συναδέλφων στο στίβο της υποβοηθούμενης αναπαραγωγής. Έχει λάβει μέρος σε πολλά συνέδρια και μελέτες, έχει παρουσιάσει ομιλίες και προεδρεύει σε συνέδρια που αφορούν στην υπογονιμότητα. Είναι διδάκτωρ του Πανεπιστημίου Αθηνών από το 1992. Δρ. Αθανάσιος Καστόρας Μαιευτήρας -Γυναικολόγος Ο Δρ. Αθανάσιος Καστόρας είναι Μαιευτήρας - Γυναικολόγος και ιδρυτικό μέλος της «ΜΟΝΑΔΑΣ ΑΝΑΠΑΡΑΓΩΓΙΚΗΣ ΙΑΤΡΙΚΗΣ» του Μαιευτηρίου «ΛΗΤΩ».Το 1975 αποφοίτησε από την Ιατρική Σχολή του Εθνικού Καποδιστριακού Πανεπιστημίου Αθηνών και λίγο αργότερα ακολούθησε η Διδακτορική διατριβή του με θέμα «Συγγενείς ανωμαλίες της ορθοπρωκτικής χώρας στα κορίτσια».Έκτοτε έχει εργαστεί σε πολλά ιδιωτικά και δημόσια μαιευτήρια της χώρας, όπως στο «ΕΛΕΝΑ ΒΕΝΙΖΕΛΟΥ». Από το 1984, έχει αφοσιωθεί στην υπογονιμότητα, με απαρχή το κέντρο εξωσωματικής γονιμοποίησης του Μαιευτηρίου «ΑΘΗΝΩΝ», ενώ το 1995 εντάχθηκε στην «ΜΟΝΑΔΑ ΑΝΑΠΑΡΑΓΩΓΙΚΗΣ ΙΑΤΡΙΚΗΣ», δημιουργώντας το σύγχρονο κέντρο εξωσωματικής γονιμοποίησης της του Μαιευτηρίου «ΜΗΤΕΡΑ». Παράλληλα, αποτελεί μέλος του Ιατρικού Συλλόγου Αθηνών, της Ελληνικής Μαιευτικής και Γυναικολογικής εταιρείας, της Ελληνικής Εταιρείας Γυναικολογικής ενδοσκόπησης,της Ελληνικής εταιρείας Γυναικολογικής ενδοκρινολογίας, της Ένωσης Μαιευτήρων Γυναικολόγων Ελλάδος καθώς και της Ελληνικής εταιρείας Υπερήχων στην Μαιευτική και Γυναικολογία. Τέλος,έχει συμμετάσχει ως σύνεδρος ή οργανωτική επιτροπή συνεδρίων σε Ελληνικά και Διεθνή Συνέδρια Εξωσωματικής Γονιμοποίησης, Γυναικολογίας, Υπερήχων, Κολποσκοπήσεων, Υστεροσκοπικής και Λαπαροσκοπικής Χειρουργικής. <img fetchpriority=\"high\" decoding=\"async\" src=\"https://fertility.gr/wp-content/uploads/2023/03/kastoras.png\" width=\"386\" height=\"414\" srcset=\"https://fertility.gr/wp-content/uploads/2023/03/kastoras.png 386w, https://fertility.gr/wp-content/uploads/2023/03/kastoras-280x300.png 280w\" sizes=\"(max-width: 386px) 100vw, 386px\" alt=\"\" class=\" wp-image-191\"> <img decoding=\"async\" src=\"https://fertility.gr/wp-content/uploads/2023/03/kastoras.png\"> Δρ. Αθανάσιος Καστόρας Μαιευτήρας -Γυναικολόγος Ο Δρ. Αθανάσιος Καστόρας είναι Μαιευτήρας - Γυναικολόγος και ιδρυτικό μέλος της «ΜΟΝΑΔΑΣ ΑΝΑΠΑΡΑΓΩΓΙΚΗΣ ΙΑΤΡΙΚΗΣ» του Μαιευτηρίου «ΛΗΤΩ».Το 1975 αποφοίτησε από την Ιατρική Σχολή του Εθνικού Καποδιστριακού Πανεπιστημίου Αθηνών και λίγο αργότερα ακολούθησε η Διδακτορική διατριβή του με θέμα «Συγγενείς ανωμαλίες της ορθοπρωκτικής χώρας στα κορίτσια».Έκτοτε έχει εργαστεί σε πολλά ιδιωτικά και δημόσια μαιευτήρια της χώρας, όπως στο «ΕΛΕΝΑ ΒΕΝΙΖΕΛΟΥ». Από το 1984, έχει αφοσιωθεί στην υπογονιμότητα, με απαρχή το κέντρο εξωσωματικής γονιμοποίησης του Μαιευτηρίου «ΑΘΗΝΩΝ», ενώ το 1995 εντάχθηκε στην «ΜΟΝΑΔΑ ΑΝΑΠΑΡΑΓΩΓΙΚΗΣ ΙΑΤΡΙΚΗΣ», δημιουργώντας το σύγχρονο κέντρο εξωσωματικής γονιμοποίησης της του Μαιευτηρίου «ΜΗΤΕΡΑ». Παράλληλα, αποτελεί μέλος του Ιατρικού Συλλόγου Αθηνών, της Ελληνικής Μαιευτικής και Γυναικολογικής εταιρείας, της Ελληνικής Εταιρείας Γυναικολογικής ενδοσκόπησης,της Ελληνικής εταιρείας Γυναικολογικής ενδοκρινολογίας καθώς και της Ελληνικής εταιρείας Υπερήχων στην Μαιευτική και Γυναικολογία. Τέλος,έχει συμμετάσχει ως σύνεδρος ή οργανωτική επιτροπή συνεδρίων σε Ελληνικά και Διεθνή Συνέδρια Εξωσωματικής Γονιμοποίησης, Γυναικολογίας, Υπερήχων, Κολποσκοπήσεων, Υστεροσκοπικής και Λαπαροσκοπικής Χειρουργικής. <img decoding=\"async\" class=\"img-fluid wp-image-13\" src=\"https://fertility.gr/wp-content/uploads/2023/03/Group-300.png\" width=\"589\" height=\"660\" srcset=\"https://fertility.gr/wp-content/uploads/2023/03/Group-300.png 589w, https://fertility.gr/wp-content/uploads/2023/03/Group-300-268x300.png 268w\" sizes=\"(max-width: 589px) 100vw, 589px\" alt=\"\"> Ποιοι είμαστε Μερικές φορές, ορισμένα πράγματα στην ζωή είναι πολύ δύσκολα, αλλά πρέπει πάντα να θυμάστε ότι τίποτα δεν είναι ανέφικτο. Σε εμάς, στην Μονάδα Αναπαραγωγικής Ιατρικής του Μαιευτηρίου Λητώ, αυτή είναι η φιλοσοφία μας. Από το 1999 μέχρι σήμερα, βρισκόμαστε στο πλευρό κάθε ζευγαριού που θέλει να αποκτήσει το πολυτιμότερο δώρο, αλλά αντιμετωπίζει δυσκολίες, παρέχοντας εξειδικευμένες λύσεις. Είμαστε καθ’όλη τη διάρκεια της διαδικασίας, διαρκώς στο πλευρό σας μέχρι να γίνει το όνειρό σας πραγματικότητα. Η άμεση επαφή, το εξειδικευμένο προσωπικό και η πολυετής εμπειρία μας συμβάλλουν στην απαλλαγή σας από κάθε άγχος, ώστε να μείνετε προσηλωμένοι στον στόχο σας. <img decoding=\"async\" class=\"me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/check-poioi-eimaste.svg\">Πολύχρονη εμπειρία <img decoding=\"async\" class=\"me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/check-poioi-eimaste.svg\">Εξειδικευμένο προσωπικό <img decoding=\"async\" class=\"me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/check-poioi-eimaste.svg\">Εξοπλισμός τελευταίας τεχνολογίας Υπηρεσίες <img decoding=\"async\" class=\"img-fluid wp-image-18\" src=\"https://fertility.gr/wp-content/uploads/2023/03/upovoithoumeni-anaparagwgi.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Υποβοηθούμενη Αναπαραγωγή Προγραμματισμένη επαφή - Παρακολούθηση κύκλου Παρακολούθηση Κύκλου - Ενδομητρική Σπερματέγχυση (IUI) Ενδομητρική Σπερματέγχυση (IUI) με ήπια χορήγηση φαρμάκων <img decoding=\"async\" class=\"img-fluid wp-image-44\" src=\"https://fertility.gr/wp-content/uploads/2023/03/ekswswmatiki.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Εξωσωματική Γονιμοποίηση Σε φυσικό κύκλο - ήπια διέγερση Εξωσωματική γονιμοποίηση με ήπια χορήγηση φαρμάκων Μέθοδος γονιμοποίησης ωαρίων Αζωοσπερμία και τεχνικές λήψης σπέρματος Καλλιέργεια βλαστοκύστης Νέες εργαστηριακές τεχνικές In Vitro Ωρίμανση ωαρίων Εμβρυομεταφορά Τεχνολογία συνεχούς παρακολούθησης εμβρύων (Time lapse imaging – Embryoscope ΤΜ) <img decoding=\"async\" class=\"img-fluid wp-image-25\" src=\"https://fertility.gr/wp-content/uploads/2023/03/proemfyteutikos.svg\" width=\"88\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Προεμφυτευτικός Γενετικός Έλεγχος Ανάλυση χρωμοσωμικού προφίλ του εμβρύου Μονογονιδιακά νοσήματα <img decoding=\"async\" class=\"img-fluid wp-image-46\" src=\"https://fertility.gr/wp-content/uploads/2023/03/dwrea-gennhtikou-ilikou.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Δωρεά Γεννητικού Υλικού Δωρεά σπέρματος Δωρεά ωαρίων Παρένθετη μήτρα <img decoding=\"async\" class=\"img-fluid wp-image-31\" src=\"https://fertility.gr/wp-content/uploads/2023/03/katapsuksi.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Κατάψυξη - Vitrification Κατάψυξη ωοθηκικού ιστού Κατάψυξη ωαρίων - Φύλαξη γονιμότητας Κατάψυξη σπέρματος Κατάψυξη εμβρύων <img decoding=\"async\" class=\"img-fluid wp-image-41\" src=\"https://fertility.gr/wp-content/uploads/2023/03/ergasthrio-spermatos.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Εργαστήριο Σπέρματος Κατακερματισμός DNA σπερματοζωαρίων Καλλιέργεια σπέρματος Ενεργοποίηση σπέρματος για ενδομητρική σπερματέγχυση ή εξωσωματική γονιμοποίηση Ανάλυση σπέρματος Μέτρηση οξειδωτικού stress Συσκευές διαχωρισμού σπέρματος Zymot Γιατί να μας επιλέξετε; Διεθνής αναγνώριση και πιστοποίηση της επιστημονικής μας ομάδας. Η αριστεία των υπηρεσιών μας οφείλεται και στη συνεχή μας επένδυση στην εκπαίδευση του επιστημονικού μας προσωπικού σε νέες τεχνικές. Οι ιατροί και οι εμβρυολόγοι μας δημοσιεύουν σε αναγνωρισμένα επιστημονικά έντυπα του τομέα σε Ελλάδα και εξωτερικό. Μερικά από τα πρόσφατα επιστημονικά χειρόγραφα επικεντρώνονται στην ειδική χορήγηση ορμονών σε γυναίκες με κακή ανταπόκριση των ωοθηκών, στις τεχνικές επιλογής εμβρύων και στη μεταφορά εμβρύων. <img decoding=\"async\" class=\"me-3\" src=\"https://fertility.gr/wp-content/uploads/2023/03/asfaleia.svg\"> Ασφάλεια και ποιοτικός έλεγχος <img decoding=\"async\" class=\"me-3 wp-image-45\" src=\"https://fertility.gr/wp-content/uploads/2023/03/eksatomikeumenes.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Εξατομικευμένες υπηρεσίες για κάθε ζευγάρι <img decoding=\"async\" class=\"me-3 wp-image-23\" src=\"https://fertility.gr/wp-content/uploads/2023/03/psoosta.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Υψηλά Ποσοστά Επιτυχίας <img decoding=\"async\" class=\"me-3 wp-image-47\" src=\"https://fertility.gr/wp-content/uploads/2023/03/diethnis-anagnwrisi.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Διεθνής αναγνώριση και πιστοποίηση της επιστημονικής μας ομάδας Μάθετε περισσότερα <img decoding=\"async\" class=\"img-fluid wp-image-16\" src=\"https://fertility.gr/wp-content/uploads/2023/03/Group-298.png\" width=\"580\" height=\"658\" srcset=\"https://fertility.gr/wp-content/uploads/2023/03/Group-298.png 580w, https://fertility.gr/wp-content/uploads/2023/03/Group-298-264x300.png 264w\" sizes=\"(max-width: 580px) 100vw, 580px\" alt=\"\"> Τα νέα μας Lorem Ipsum is simply dummy text of the Printing and typesetting industry. <img width=\"1807\" height=\"644\" decoding=\"async\" class=\"img-fluid rounded\" style=\"height:150px;\" src=\"https://www.fertility.gr/wp-content/uploads/2025/11/Ανώνυμο-σχέδιο-35.png\"> Ενημέρωση\" Αγαπητοί μας φίλοι/ες, Θα θέλαμε να σας ενημερώνουμε, πως η... Μάθετε περισσότερα <img decoding=\"async\" src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-service.svg\"> <img width=\"1807\" height=\"644\" decoding=\"async\" class=\"img-fluid rounded\" style=\"height:150px;\" src=\"https://www.fertility.gr/wp-content/uploads/2023/09/shutterstock_529087087.jpg\"> Εγκυμοσύνη δεύτερο τρίμηνο: Συμπτώματα\" Πλέον βρίσκεστε ήδη στο δεύτερο τρίμηνο της εγκυμοσύνης σας και... Μάθετε περισσότερα <img decoding=\"async\" src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-service.svg\"> <img width=\"1807\" height=\"644\" decoding=\"async\" class=\"img-fluid rounded\" style=\"height:150px;\" src=\"https://www.fertility.gr/wp-content/uploads/2023/09/shutterstock_2117923835-2.jpg\"> Εγκυμοσύνη πρώτο τρίμηνο: Συμπτώματα\" Έμαθες πριν πολύ λίγο ότι είσαι έγκυος και ίσως να... Μάθετε περισσότερα <img decoding=\"async\" src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-service.svg\"> Μάθετε περισσότερα Επικοινωνήστε μαζί μας Please enable JavaScript in your browser to complete this form.Ονοματεπώνυμο *Τηλέφωνο *Email *Comment or MessageΑποστολή<img decoding=\"async\" src=\"https://www.fertility.gr/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg\" class=\"wpforms-submit-spinner\" style=\"display: none;\" width=\"26\" height=\"26\" alt=\"Loading\"> <iframe src=\"https://maps.google.com/maps?q=Reproductive%20Medicine%20Unit&amp;t=m&amp;z=18&amp;output=embed&amp;iwloc=near\"></iframe> <img class=\"img-fluid wp-image-38\" alt=\"\" src=\"https://fertility.gr/wp-content/uploads/2023/03/Ferility-Logo-footer.svg\" style=\"max-height:10vh\" width=\"100%\" height=\"\" srcset=\"\" sizes=\"\"> Εξατομικεύουμε την αντιμετώπιση κάθε ζευγαριού. <img src=\"https://fertility.gr/wp-content/uploads/2023/03/phone-footer.svg\" loading=\"lazy\" class=\"wp-image-29\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> 210 6912900 | 210 6910080 <img src=\"https://fertility.gr/wp-content/uploads/2023/03/email-footer.svg\" loading=\"lazy\" class=\"wp-image-43\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> info@fertility.gr <img src=\"https://fertility.gr/wp-content/uploads/2023/03/pin-footer.svg\" loading=\"lazy\" class=\" wp-image-27\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> Γ. Αναστασίου 8, Αθήνα [όπισθεν Μαιευτηρίου ΛΗΤΩ] Μενού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Αρχική <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Η Μονάδα <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Τα νέα μας <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Επικοινωνία <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Πολιτική Ποιότητας Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υποβοηθούμενη Αναπαραγωγή <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εξωσωματική Γονιμοποίηση <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Προεμφυτευτικός Γενετικός Έλεγχος <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Δωρεά Γεννητικού Υλικού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Κατάψυξη - Vitrification <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εργαστήριο Σπέρματος Newsletter Please enable JavaScript in your browser to complete this form.Email *Αποστολή<img src=\"https://www.fertility.gr/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg\" class=\"wpforms-submit-spinner\" style=\"display: none;\" width=\"26\" height=\"26\" alt=\"Loading\"> <img class=\"img-fluid wp-image-40 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-32 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-20 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-17 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid me-2 wp-image-36\" src=\"https://fertility.gr/wp-content/uploads/2023/03/google-plus-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Forthright Copyright 2023 {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/picostrap5-child-base/*\",\"/wp-content/themes/picostrap5/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} window.addEventListener('scroll', function(){ if(window.pageYOffset >= 1000) document.getElementById('backToTop').style.visibility=\"visible\"; else document.getElementById('backToTop').style.visibility=\"hidden\"; }, { capture: false, passive: true}); \"use strict\";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,\"value\"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError(\"Cannot call a class as a function\")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:\"_checkPassiveOption\",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener(\"test\",null,options),window.removeEventListener(\"test\",null,options)}catch(err){self.passiveSupported=!1}}},{key:\"initRequestIdleCallback\",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:\"isDataSaverModeOn\",value:function(){return\"connection\"in navigator&&!0===navigator.connection.saveData}},{key:\"supportsLinkPrefetch\",value:function(){var elem=document.createElement(\"link\");return elem.relList&&elem.relList.supports&&elem.relList.supports(\"prefetch\")&&window.IntersectionObserver&&\"isIntersecting\"in IntersectionObserverEntry.prototype}},{key:\"isSlowConnection\",value:function(){return\"connection\"in navigator&&\"effectiveType\"in navigator.connection&&(\"2g\"===navigator.connection.effectiveType||\"slow-2g\"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}(); //# sourceURL=rocket-browser-checker-js-after var RocketPreloadLinksConfig = {\"excludeUris\":\"/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|/(index.php/)?(.*)wp-json(/.*|$)|/refer/|/go/|/recommend/|/recommends/\",\"usesTrailingSlash\":\"1\",\"imageExt\":\"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php\",\"fileExt\":\"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm\",\"siteUrl\":\"https://www.fertility.gr\",\"onHoverDelay\":\"100\",\"rateThrottle\":\"3\"}; //# sourceURL=rocket-preload-links-js-extra (function() { \"use strict\";var r=\"function\"==typeof Symbol&&\"symbol\"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&\"function\"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?\"symbol\":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,\"value\"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError(\"Cannot call a class as a function\")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:\"init\",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,\"i\"),images:RegExp(\".(\"+this.config.imageExt+\")$\",\"i\"),fileExt:RegExp(\".(\"+this.config.fileExt+\")$\",\"i\")},this._initListeners(this))}},{key:\"_initListeners\",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener(\"mouseover\",e.listener.bind(e),e.listenerOptions),document.addEventListener(\"mousedown\",e.listener.bind(e),e.listenerOptions),document.addEventListener(\"touchstart\",e.listener.bind(e),e.listenerOptions)}},{key:\"listener\",value:function(e){var t=e.target.closest(\"a\"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case\"mousedown\":case\"touchstart\":this._addPrefetchLink(n);break;case\"mouseover\":this._earlyPrefetch(t,n,\"mouseout\")}}},{key:\"_earlyPrefetch\",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:\"_addPrefetchLink\",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement(\"link\");n.rel=\"prefetch\",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:\"_prepareUrl\",value:function(e){if(null===e||\"object\"!==(void 0===e?\"undefined\":r(e))||!1 in e||-1===[\"http:\",\"https:\"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:\"_getPathname\",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith(\"/\")||(n=\"/\"+n),this._shouldAddTrailingSlash(n)?n+\"/\":n}},{key:\"_shouldAddTrailingSlash\",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith(\"/\")&&!this.regex.fileExt.test(e)}},{key:\"_isLinkOk\",value:function(e){return null!==e&&\"object\"===(void 0===e?\"undefined\":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf(\"?\")&&-1===e.href.indexOf(\"#\")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:\"run\",value:function(){\"undefined\"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run(); }()); //# sourceURL=rocket-preload-links-js-after /* <![CDATA[ */ var wpforms_settings = {\"val_required\":\"This field is required.\",\"val_email\":\"Please enter a valid email address.\",\"val_email_suggestion\":\"Did you mean {suggestion}?\",\"val_email_suggestion_title\":\"Click to accept this suggestion.\",\"val_email_restricted\":\"This email address is not allowed.\",\"val_number\":\"Please enter a valid number.\",\"val_number_positive\":\"Please enter a valid positive number.\",\"val_confirm\":\"Field values do not match.\",\"val_checklimit\":\"You have exceeded the number of allowed selections: {#}.\",\"val_limit_characters\":\"{count} of {limit} max characters.\",\"val_limit_words\":\"{count} of {limit} max words.\",\"val_recaptcha_fail_msg\":\"Google reCAPTCHA verification failed, please try again later.\",\"val_turnstile_fail_msg\":\"Cloudflare Turnstile verification failed, please try again later.\",\"val_inputmask_incomplete\":\"Please fill out the field in required format.\",\"uuid_cookie\":\"\",\"locale\":\"en\",\"wpforms_plugin_url\":\"https:\\/\\/www.fertility.gr\\/wp-content\\/plugins\\/wpforms-lite\\/\",\"gdpr\":\"\",\"ajaxurl\":\"https:\\/\\/www.fertility.gr\\/wp-admin\\/admin-ajax.php\",\"mailcheck_enabled\":\"1\",\"mailcheck_domains\":[],\"mailcheck_toplevel_domains\":[\"dev\"],\"is_ssl\":\"1\",\"page_title\":\"\\u0391\\u03c1\\u03c7\\u03b9\\u03ba\\u03ae\",\"page_id\":\"62\",\"currency_code\":\"USD\",\"currency_thousands\":\",\",\"currency_decimals\":\"2\",\"currency_decimal\":\".\",\"currency_symbol\":\"$\",\"currency_symbol_pos\":\"left\"} /* ]]> */ //picostrap gLightbox integration window.onload = function() { //after all page els are loaded //find elements that need to be 'lightboxed' var matches = document.querySelectorAll('#container-content-single a:not(.nolightbox) img, #container-content-page a:not(.nolightbox) img, .autolightbox a:not(.nolightbox) img'); //iterate and add the class for (i=0; i<matches.length; i++) { matches[i].parentElement.classList.add(\"glightbox\"); } //run the lightbox const lightbox = GLightbox({}); } <link data-minify=\"1\" rel=\"stylesheet\" href=\"https://www.fertility.gr/wp-content/cache/min/1/npm/glightbox/dist/css/glightbox.min.css?ver=1773566377\"> window.lazyLoadOptions=[{elements_selector:\"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]\",data_src:\"lazy-src\",data_srcset:\"lazy-srcset\",data_sizes:\"lazy-sizes\",class_loading:\"lazyloading\",class_loaded:\"lazyloaded\",threshold:300,callback_loaded:function(element){if(element.tagName===\"IFRAME\"&&element.dataset.rocketLazyload==\"fitvidscompatible\"){if(element.classList.contains(\"lazyloaded\")){if(typeof window.jQuery!=\"undefined\"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:\".rocket-lazyload\",data_src:\"lazy-src\",data_srcset:\"lazy-srcset\",data_sizes:\"lazy-sizes\",class_loading:\"lazyloading\",class_loaded:\"lazyloaded\",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue} if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue} images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName==\"IMG\";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName==\"IFRAME\";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1} if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName(\"body\")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)function lazyLoadThumb(e,alt){var t='<img data-lazy-src=\"https://i.ytimg.com/vi/ID/hqdefault.jpg\" alt=\"\" width=\"480\" height=\"360\"><noscript><img src=\"https://i.ytimg.com/vi/ID/hqdefault.jpg\" alt=\"\" width=\"480\" height=\"360\"></noscript>',a='<button class=\"play\" aria-label=\"play Youtube video\"></button>';t=t.replace('alt=\"\"','alt=\"'+alt+'\"');return t.replace(\"ID\",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement(\"iframe\"),t=\"ID?autoplay=1\";t+=0===this.parentNode.dataset.query.length?'':'&'+this.parentNode.dataset.query;e.setAttribute(\"src\",t.replace(\"ID\",this.parentNode.dataset.src)),e.setAttribute(\"frameborder\",\"0\"),e.setAttribute(\"allowfullscreen\",\"1\"),e.setAttribute(\"allow\", \"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener(\"DOMContentLoaded\",function(){var e,t,p,a=document.getElementsByClassName(\"rll-youtube-player\");for(t=0;t<a.length;t++)e=document.createElement(\"div\"),e.setAttribute(\"data-id\",a[t].dataset.id),e.setAttribute(\"data-query\", a[t].dataset.query),e.setAttribute(\"data-src\", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id,a[t].dataset.alt),a[t].appendChild(e),p=e.querySelector('.play'),p.onclick=lazyLoadYoutubeIframe});",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/fertility.gr-home-b104ab52/homepage--b104ab52.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/fertility.gr-home-b104ab52/homepage--b104ab52.txt",
+      "imageReferences": [
+        {
+          "url": "https://fertility.gr/wp-content/uploads/2023/03/service.svg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.fertility.gr/",
+          "pageType": "homepage",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.fertility.gr/",
+              "retrievedAt": "2026-03-31T13:12:53.766Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+          "sourcePageUrl": "https://www.fertility.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.fertility.gr/",
+              "retrievedAt": "2026-03-31T13:12:53.766Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20412%20103'%3E%3C/svg%3E",
+          "sourcePageUrl": "https://www.fertility.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.fertility.gr/",
+              "retrievedAt": "2026-03-31T13:12:53.766Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20386%20414'%3E%3C/svg%3E",
+          "sourcePageUrl": "https://www.fertility.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.fertility.gr/",
+              "retrievedAt": "2026-03-31T13:12:53.766Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20589%20660'%3E%3C/svg%3E",
+          "sourcePageUrl": "https://www.fertility.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.fertility.gr/",
+              "retrievedAt": "2026-03-31T13:12:53.766Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2088%200'%3E%3C/svg%3E",
+          "sourcePageUrl": "https://www.fertility.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.fertility.gr/",
+              "retrievedAt": "2026-03-31T13:12:53.766Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20580%20658'%3E%3C/svg%3E",
+          "sourcePageUrl": "https://www.fertility.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.fertility.gr/",
+              "retrievedAt": "2026-03-31T13:12:53.767Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201807%20644'%3E%3C/svg%3E",
+          "sourcePageUrl": "https://www.fertility.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.fertility.gr/",
+              "retrievedAt": "2026-03-31T13:12:53.767Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2026%2026'%3E%3C/svg%3E",
+          "alt": "Loading",
+          "sourcePageUrl": "https://www.fertility.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.fertility.gr/",
+              "retrievedAt": "2026-03-31T13:12:53.767Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%200'%3E%3C/svg%3E",
+          "sourcePageUrl": "https://www.fertility.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.fertility.gr/",
+              "retrievedAt": "2026-03-31T13:12:53.767Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.768Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/fertility.gr-home-b104ab52/homepage-page-b104ab52.png"
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "https://www.fertility.gr/ipiresies",
+      "finalUrl": "https://www.fertility.gr/ipiresies",
+      "fetchedAt": "2026-03-31T13:12:58.159Z",
+      "metadata": {
+        "title": "Υπηρεσίες - Μονάδα Αναπαραγωγικής Ιατρικής",
+        "canonicalUrl": "https://www.fertility.gr/ipiresies/",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Υπηρεσίες - Μονάδα Αναπαραγωγικής Ιατρικής",
+        "openGraphDescription": "...Read More..."
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Υπηρεσίες"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.fertility.gr/",
+          "label": "<img class=\"img-fluid wp-image-676\" src=\"https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP.png\" alt=\"\" width=\"412\" height=\"103\" srcset=\"https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP.png 412w, https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP-300x75.png 300w\" sizes=\"(max-width: 412px) 100vw, 412px\">"
+        },
+        {
+          "href": "https://www.fertility.gr/i-monada/",
+          "label": "Η Μονάδα"
+        },
+        {
+          "href": "https://www.fertility.gr/ipiresies/",
+          "label": "Υπηρεσίες"
+        },
+        {
+          "href": "https://www.fertility.gr/programmatismeni-epafi-parakolouthisi-kuklou/",
+          "label": "Προγραμματισμένη επαφή – Παρακολούθηση κύκλου"
+        },
+        {
+          "href": "https://www.fertility.gr/endomitriki-spermategxusi/",
+          "label": "Παρακολούθηση Κύκλου – Ενδομητρική Σπερματέγχυση (IUI)"
+        },
+        {
+          "href": "https://www.fertility.gr/endomitriki-spermategxusi-me-ipia-xorigisi-farmakon/",
+          "label": "Ενδομητρική Σπερματέγχυση (IUI) με ήπια χορήγηση φαρμάκων"
+        },
+        {
+          "href": "https://www.fertility.gr/exosomatiki-gonimopoihsh-se-fusiko-kuklo/",
+          "label": "Σε φυσικό κύκλο – ‘Ηπια διέγερση"
+        },
+        {
+          "href": "https://www.fertility.gr/exosomatiki-gonimopoihsh-me-xorigisi-farmakon/",
+          "label": "Με χορήγηση φαρμάκων"
+        },
+        {
+          "href": "https://www.fertility.gr/methodos-gonimopoihshs-oarion/",
+          "label": "Μέθοδος Γονιμοποίησης Ωαρίων"
+        },
+        {
+          "href": "https://www.fertility.gr/azoospermia/",
+          "label": "Αζωοσπερμία & Τεχνικές Λήψης σπέρματος"
+        },
+        {
+          "href": "https://www.fertility.gr/kalliergeia-vlastokustis/",
+          "label": "Καλλιέργεια Βλαστοκύστης"
+        },
+        {
+          "href": "https://www.fertility.gr/in-vitro-orimansi-oarion-ivm/",
+          "label": "In Vitro Ωρίμανση Ωαρίων (IVM)"
+        },
+        {
+          "href": "https://www.fertility.gr/nees-ergastiriakes-texnikes/",
+          "label": "Νέες Εργαστηριακές Τεχνικές"
+        },
+        {
+          "href": "https://www.fertility.gr/embruometafora/",
+          "label": "Εμβρυομεταφορά"
+        },
+        {
+          "href": "https://www.fertility.gr/time-lapse-imaging-embryoscope/",
+          "label": "Τεχνολογία συνεχούς παρακολούθησης εμβρύων (Time lapse imaging – Embryoscope ΤΜ)"
+        },
+        {
+          "href": "https://www.fertility.gr/analusi-xrwmoswmikou-profil-embruou/",
+          "label": "Ανάλυση χρωμοσωμικού προφίλ του εμβρύου"
+        },
+        {
+          "href": "https://www.fertility.gr/monogonidiaka-nosimata/",
+          "label": "Μονογονιδιακά νοσήματα"
+        },
+        {
+          "href": "https://www.fertility.gr/dwrea-spermatos/",
+          "label": "Δωρεά σπέρματος"
+        },
+        {
+          "href": "https://www.fertility.gr/dwrea-wariwn/",
+          "label": "Δωρεά ωαρίων"
+        },
+        {
+          "href": "https://www.fertility.gr/parentheti-mitra/",
+          "label": "Παρένθετη μήτρα"
+        },
+        {
+          "href": "https://www.fertility.gr/nea-methodos-kruosuntirisis-ualopoihsh/",
+          "label": "Νέα μέθοδος κρυοσυντήρησης: Υαλοποίηση"
+        },
+        {
+          "href": "https://www.fertility.gr/katapsiksi-wothikikou-istou/",
+          "label": "Κατάψυξη ωοθηκικού ιστού"
+        },
+        {
+          "href": "https://www.fertility.gr/katapsiksi-wariwn-fulaksi-gonimotitas/",
+          "label": "Κατάψυξη ωαρίων – Φύλαξη γονιμότητας"
+        },
+        {
+          "href": "https://www.fertility.gr/katapsiksi-spermatos/",
+          "label": "Κατάψυξη σπέρματος"
+        },
+        {
+          "href": "https://www.fertility.gr/katapsiksi-embruon/",
+          "label": "Κατάψυξη εμβρύων"
+        },
+        {
+          "href": "https://www.fertility.gr/katakermatismos-dna-spermatozwariwn/",
+          "label": "Κατακερματισμός DNA σπερματοζωαρίων"
+        },
+        {
+          "href": "https://www.fertility.gr/analusi-spermatos/",
+          "label": "Ανάλυση σπέρματος"
+        },
+        {
+          "href": "https://www.fertility.gr/energopoihsh-spermatos/",
+          "label": "Ενεργοποίηση σπέρματος για ενδομητρική σπερματέγχυση ή εξωσωματική γονιμοποίηση"
+        },
+        {
+          "href": "https://www.fertility.gr/kalliergeia-spermatos/",
+          "label": "Καλλιέργεια σπέρματος"
+        },
+        {
+          "href": "https://www.fertility.gr/metrisi-okseidwtikou-stress/",
+          "label": "Μέτρηση οξειδωτικού stress"
+        },
+        {
+          "href": "https://www.fertility.gr/siskeues-diaxwrismou-spermatos-zymot/",
+          "label": "Συσκευές διαχωρισμού σπέρματος Zymot"
+        },
+        {
+          "href": "https://www.fertility.gr/ta-nea-mas/",
+          "label": "Τα νέα μας"
+        },
+        {
+          "href": "https://www.fertility.gr/contact/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://fertility.gr/i-monada",
+          "label": "Η Μονάδα"
+        },
+        {
+          "href": "https://fertility.gr/ta-nea-mas",
+          "label": "Τα νέα μας"
+        },
+        {
+          "href": "https://fertility.gr/contact/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.fertility.gr/politiki-poiotitas/",
+          "label": "Πολιτική Ποιότητας"
+        },
+        {
+          "href": "https://fertility.gr/ipovoithoumeni-anaparagogi/",
+          "label": "Υποβοηθούμενη Αναπαραγωγή"
+        },
+        {
+          "href": "https://fertility.gr/eksosomatiki-gonimopoihsh/",
+          "label": "Εξωσωματική Γονιμοποίηση"
+        },
+        {
+          "href": "https://fertility.gr/proemfiteutikos-genetikos-elegxos/",
+          "label": "Προεμφυτευτικός Γενετικός Έλεγχος"
+        },
+        {
+          "href": "https://fertility.gr/dorea-gennetikou-ilikou/",
+          "label": "Δωρεά Γεννητικού Υλικού"
+        },
+        {
+          "href": "https://fertility.gr/katapsiksi-vitrification/",
+          "label": "Κατάψυξη - Vitrification"
+        },
+        {
+          "href": "https://fertility.gr/ergastirio-spermatos/",
+          "label": "Εργαστήριο Σπέρματος"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.fertility.gr/ipiresies/",
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "wpforms[fields][2]",
+            "wpforms[id]",
+            "wpforms[author]",
+            "wpforms[post_id]"
+          ],
+          "submitLabels": [
+            "Αποστολή"
+          ],
+          "fields": [
+            {
+              "name": "wpforms[fields][2]",
+              "type": "email",
+              "label": "Your Email Address",
+              "required": true
+            },
+            {
+              "name": "wpforms[id]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "wpforms[author]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "wpforms[post_id]",
+              "type": "hidden",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "2106912900",
+          "2106910080",
+          "210 6912900",
+          "210 6910080",
+          "1773566377"
+        ],
+        "emails": [
+          "info@fertility.gr"
+        ],
+        "addresses": [
+          "<img class=\"img-fluid wp-image-38\" alt=\"\" src=\"https://fertility.gr/wp-content/uploads/2023/03/Ferility-Logo-footer.svg\" style=\"max-height:10vh\" width=\"100%\" height=\"\" srcset=\"\" sizes=\"\"> Εξατομικεύουμε την αντιμετώπιση κάθε ζευγαριού. <img src=\"https://fertility.gr/wp-content/uploads/2023/03/phone-footer.svg\" loading=\"lazy\" class=\"wp-image-29\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> 210 6912900 | 210 6910080 <img src=\"https://fertility.gr/wp-content/uploads/2023/03/email-footer.svg\" loading=\"lazy\" class=\"wp-image-43\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> info@fertility.gr <img src=\"https://fertility.gr/wp-content/uploads/2023/03/pin-footer.svg\" loading=\"lazy\" class=\" wp-image-27\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> Γ. Αναστασίου 8, Αθήνα [όπισθεν Μαιευτηρίου ΛΗΤΩ] Μενού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Αρχική <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Η Μονάδα <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Τα νέα μας <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Επικοινωνία <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Πολιτική Ποιότητας Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υποβοηθούμενη Αναπαραγωγή <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εξωσωματική Γονιμοποίηση <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Προεμφυτευτικός Γενετικός Έλεγχος <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Δωρεά Γεννητικού Υλικού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Κατάψυξη - Vitrification <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εργαστήριο Σπέρματος Newsletter Please enable JavaScript in your browser to complete this form.Email *Αποστολή<img src=\"https://www.fertility.gr/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg\" class=\"wpforms-submit-spinner\" style=\"display: none;\" width=\"26\" height=\"26\" alt=\"Loading\"> <img class=\"img-fluid wp-image-40 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-32 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-20 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-17 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid me-2 wp-image-36\" src=\"https://fertility.gr/wp-content/uploads/2023/03/google-plus-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Forthright Copyright 2023"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/fertilitilito/",
+            "label": "<img class=\"img-fluid wp-image-39\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\">"
+          },
+          {
+            "href": "https://www.instagram.com/fertility_gr/",
+            "label": "<img class=\"img-fluid wp-image-30\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\">"
+          },
+          {
+            "href": "https://twitter.com/AthensFertility",
+            "label": "<img class=\"img-fluid wp-image-19\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\">"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UC7I7YLgllHvqQ4ybPnyDvaQ",
+            "label": "<img class=\"img-fluid wp-image-51\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\">"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.fertility.gr/ipiresies/",
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "wpforms[fields][2]",
+              "wpforms[id]",
+              "wpforms[author]",
+              "wpforms[post_id]"
+            ],
+            "submitLabels": [
+              "Αποστολή"
+            ],
+            "fields": [
+              {
+                "name": "wpforms[fields][2]",
+                "type": "email",
+                "label": "Your Email Address",
+                "required": true
+              },
+              {
+                "name": "wpforms[id]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "wpforms[author]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "wpforms[post_id]",
+                "type": "hidden",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "<img class=\"img-fluid wp-image-38\" alt=\"\" src=\"https://fertility.gr/wp-content/uploads/2023/03/Ferility-Logo-footer.svg\" style=\"max-height:10vh\" width=\"100%\" height=\"\" srcset=\"\" sizes=\"\"> Εξατομικεύουμε την αντιμετώπιση κάθε ζευγαριού. <img src=\"https://fertility.gr/wp-content/uploads/2023/03/phone-footer.svg\" loading=\"lazy\" class=\"wp-image-29\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> 210 6912900 | 210 6910080 <img src=\"https://fertility.gr/wp-content/uploads/2023/03/email-footer.svg\" loading=\"lazy\" class=\"wp-image-43\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> info@fertility.gr <img src=\"https://fertility.gr/wp-content/uploads/2023/03/pin-footer.svg\" loading=\"lazy\" class=\" wp-image-27\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> Γ. Αναστασίου 8, Αθήνα [όπισθεν Μαιευτηρίου ΛΗΤΩ] Μενού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Αρχική <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Η Μονάδα <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Τα νέα μας <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Επικοινωνία <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Πολιτική Ποιότητας Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υποβοηθούμενη Αναπαραγωγή <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εξωσωματική Γονιμοποίηση <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Προεμφυτευτικός Γενετικός Έλεγχος <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Δωρεά Γεννητικού Υλικού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Κατάψυξη - Vitrification <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εργαστήριο Σπέρματος Newsletter Please enable JavaScript in your browser to complete this form.Email *Αποστολή<img src=\"https://www.fertility.gr/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg\" class=\"wpforms-submit-spinner\" style=\"display: none;\" width=\"26\" height=\"26\" alt=\"Loading\"> <img class=\"img-fluid wp-image-40 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-32 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-20 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-17 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid me-2 wp-image-36\" src=\"https://fertility.gr/wp-content/uploads/2023/03/google-plus-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Forthright Copyright 2023",
+      "textContent": "<img class=\"img-fluid wp-image-28 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/phone-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> 2106912900 |2106910080 <img class=\"img-fluid wp-image-42 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/email-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> info@fertility.gr <img class=\"img-fluid wp-image-26 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/pin-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Γ. Αναστασίου 8 [όπισθεν Μαιευτηρίου ΛΗΤΩ] <img class=\"img-fluid wp-image-39\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-30\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-19\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-51\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-35\" src=\"https://fertility.gr/wp-content/uploads/2023/03/google-plus-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-676\" src=\"https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP.png\" alt=\"\" width=\"412\" height=\"103\" srcset=\"https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP.png 412w, https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP-300x75.png 300w\" sizes=\"(max-width: 412px) 100vw, 412px\"> Αρχική Η Μονάδα Υπηρεσίες Υποβοηθούμενη Αναπαραγωγή Προγραμματισμένη επαφή – Παρακολούθηση κύκλου Παρακολούθηση Κύκλου – Ενδομητρική Σπερματέγχυση (IUI) Ενδομητρική Σπερματέγχυση (IUI) με ήπια χορήγηση φαρμάκων Εξωσωματική Γονιμοποίηση Σε φυσικό κύκλο – ‘Ηπια διέγερση Με χορήγηση φαρμάκων Μέθοδος Γονιμοποίησης Ωαρίων Αζωοσπερμία & Τεχνικές Λήψης σπέρματος Καλλιέργεια Βλαστοκύστης In Vitro Ωρίμανση Ωαρίων (IVM) Νέες Εργαστηριακές Τεχνικές Εμβρυομεταφορά Τεχνολογία συνεχούς παρακολούθησης εμβρύων (Time lapse imaging – Embryoscope ΤΜ) Προεμφυτευτικός Γενετικός Ελέγχος Ανάλυση χρωμοσωμικού προφίλ του εμβρύου Μονογονιδιακά νοσήματα Δωρεά Γεννητικού Υλικού Δωρεά σπέρματος Δωρεά ωαρίων Παρένθετη μήτρα Κατάψυξη – Vitrification Νέα μέθοδος κρυοσυντήρησης: Υαλοποίηση Κατάψυξη ωοθηκικού ιστού Κατάψυξη ωαρίων – Φύλαξη γονιμότητας Κατάψυξη σπέρματος Κατάψυξη εμβρύων Εργαστήριο Σπέρματος Κατακερματισμός DNA σπερματοζωαρίων Ανάλυση σπέρματος Ενεργοποίηση σπέρματος για ενδομητρική σπερματέγχυση ή εξωσωματική γονιμοποίηση Καλλιέργεια σπέρματος Μέτρηση οξειδωτικού stress Συσκευές διαχωρισμού σπέρματος Zymot Τα νέα μας Επικοινωνία Κλείστε το ραντεβού σας Υπηρεσίες <img class=\"desktopcontact\" src=\"https://fertility.gr/wp-content/uploads/2023/03/cta-desk.png\" alt=\"Εικοινωνία\"> <img class=\"mobilecontact\" src=\"https://fertility.gr/wp-content/uploads/2023/03/cta-mob.png\" alt=\"Εικοινωνία\"> <img class=\"img-fluid wp-image-38\" alt=\"\" src=\"https://fertility.gr/wp-content/uploads/2023/03/Ferility-Logo-footer.svg\" style=\"max-height:10vh\" width=\"100%\" height=\"\" srcset=\"\" sizes=\"\"> Εξατομικεύουμε την αντιμετώπιση κάθε ζευγαριού. <img src=\"https://fertility.gr/wp-content/uploads/2023/03/phone-footer.svg\" loading=\"lazy\" class=\"wp-image-29\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> 210 6912900 | 210 6910080 <img src=\"https://fertility.gr/wp-content/uploads/2023/03/email-footer.svg\" loading=\"lazy\" class=\"wp-image-43\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> info@fertility.gr <img src=\"https://fertility.gr/wp-content/uploads/2023/03/pin-footer.svg\" loading=\"lazy\" class=\" wp-image-27\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> Γ. Αναστασίου 8, Αθήνα [όπισθεν Μαιευτηρίου ΛΗΤΩ] Μενού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Αρχική <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Η Μονάδα <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Τα νέα μας <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Επικοινωνία <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Πολιτική Ποιότητας Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υποβοηθούμενη Αναπαραγωγή <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εξωσωματική Γονιμοποίηση <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Προεμφυτευτικός Γενετικός Έλεγχος <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Δωρεά Γεννητικού Υλικού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Κατάψυξη - Vitrification <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εργαστήριο Σπέρματος Newsletter Please enable JavaScript in your browser to complete this form.Email *Αποστολή<img src=\"https://www.fertility.gr/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg\" class=\"wpforms-submit-spinner\" style=\"display: none;\" width=\"26\" height=\"26\" alt=\"Loading\"> <img class=\"img-fluid wp-image-40 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-32 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-20 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-17 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid me-2 wp-image-36\" src=\"https://fertility.gr/wp-content/uploads/2023/03/google-plus-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Forthright Copyright 2023 {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/picostrap5-child-base/*\",\"/wp-content/themes/picostrap5/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} window.addEventListener('scroll', function(){ if(window.pageYOffset >= 1000) document.getElementById('backToTop').style.visibility=\"visible\"; else document.getElementById('backToTop').style.visibility=\"hidden\"; }, { capture: false, passive: true}); \"use strict\";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,\"value\"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError(\"Cannot call a class as a function\")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:\"_checkPassiveOption\",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener(\"test\",null,options),window.removeEventListener(\"test\",null,options)}catch(err){self.passiveSupported=!1}}},{key:\"initRequestIdleCallback\",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:\"isDataSaverModeOn\",value:function(){return\"connection\"in navigator&&!0===navigator.connection.saveData}},{key:\"supportsLinkPrefetch\",value:function(){var elem=document.createElement(\"link\");return elem.relList&&elem.relList.supports&&elem.relList.supports(\"prefetch\")&&window.IntersectionObserver&&\"isIntersecting\"in IntersectionObserverEntry.prototype}},{key:\"isSlowConnection\",value:function(){return\"connection\"in navigator&&\"effectiveType\"in navigator.connection&&(\"2g\"===navigator.connection.effectiveType||\"slow-2g\"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}(); //# sourceURL=rocket-browser-checker-js-after var RocketPreloadLinksConfig = {\"excludeUris\":\"/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|/(index.php/)?(.*)wp-json(/.*|$)|/refer/|/go/|/recommend/|/recommends/\",\"usesTrailingSlash\":\"1\",\"imageExt\":\"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php\",\"fileExt\":\"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm\",\"siteUrl\":\"https://www.fertility.gr\",\"onHoverDelay\":\"100\",\"rateThrottle\":\"3\"}; //# sourceURL=rocket-preload-links-js-extra (function() { \"use strict\";var r=\"function\"==typeof Symbol&&\"symbol\"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&\"function\"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?\"symbol\":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,\"value\"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError(\"Cannot call a class as a function\")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:\"init\",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,\"i\"),images:RegExp(\".(\"+this.config.imageExt+\")$\",\"i\"),fileExt:RegExp(\".(\"+this.config.fileExt+\")$\",\"i\")},this._initListeners(this))}},{key:\"_initListeners\",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener(\"mouseover\",e.listener.bind(e),e.listenerOptions),document.addEventListener(\"mousedown\",e.listener.bind(e),e.listenerOptions),document.addEventListener(\"touchstart\",e.listener.bind(e),e.listenerOptions)}},{key:\"listener\",value:function(e){var t=e.target.closest(\"a\"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case\"mousedown\":case\"touchstart\":this._addPrefetchLink(n);break;case\"mouseover\":this._earlyPrefetch(t,n,\"mouseout\")}}},{key:\"_earlyPrefetch\",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:\"_addPrefetchLink\",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement(\"link\");n.rel=\"prefetch\",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:\"_prepareUrl\",value:function(e){if(null===e||\"object\"!==(void 0===e?\"undefined\":r(e))||!1 in e||-1===[\"http:\",\"https:\"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:\"_getPathname\",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith(\"/\")||(n=\"/\"+n),this._shouldAddTrailingSlash(n)?n+\"/\":n}},{key:\"_shouldAddTrailingSlash\",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith(\"/\")&&!this.regex.fileExt.test(e)}},{key:\"_isLinkOk\",value:function(e){return null!==e&&\"object\"===(void 0===e?\"undefined\":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf(\"?\")&&-1===e.href.indexOf(\"#\")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:\"run\",value:function(){\"undefined\"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run(); }()); //# sourceURL=rocket-preload-links-js-after /* <![CDATA[ */ var wpforms_settings = {\"val_required\":\"This field is required.\",\"val_email\":\"Please enter a valid email address.\",\"val_email_suggestion\":\"Did you mean {suggestion}?\",\"val_email_suggestion_title\":\"Click to accept this suggestion.\",\"val_email_restricted\":\"This email address is not allowed.\",\"val_number\":\"Please enter a valid number.\",\"val_number_positive\":\"Please enter a valid positive number.\",\"val_confirm\":\"Field values do not match.\",\"val_checklimit\":\"You have exceeded the number of allowed selections: {#}.\",\"val_limit_characters\":\"{count} of {limit} max characters.\",\"val_limit_words\":\"{count} of {limit} max words.\",\"val_recaptcha_fail_msg\":\"Google reCAPTCHA verification failed, please try again later.\",\"val_turnstile_fail_msg\":\"Cloudflare Turnstile verification failed, please try again later.\",\"val_inputmask_incomplete\":\"Please fill out the field in required format.\",\"uuid_cookie\":\"\",\"locale\":\"en\",\"wpforms_plugin_url\":\"https:\\/\\/www.fertility.gr\\/wp-content\\/plugins\\/wpforms-lite\\/\",\"gdpr\":\"\",\"ajaxurl\":\"https:\\/\\/www.fertility.gr\\/wp-admin\\/admin-ajax.php\",\"mailcheck_enabled\":\"1\",\"mailcheck_domains\":[],\"mailcheck_toplevel_domains\":[\"dev\"],\"is_ssl\":\"1\",\"page_title\":\"\\u03a5\\u03c0\\u03b7\\u03c1\\u03b5\\u03c3\\u03af\\u03b5\\u03c2\",\"page_id\":\"66\",\"currency_code\":\"USD\",\"currency_thousands\":\",\",\"currency_decimals\":\"2\",\"currency_decimal\":\".\",\"currency_symbol\":\"$\",\"currency_symbol_pos\":\"left\"} /* ]]> */ //picostrap gLightbox integration window.onload = function() { //after all page els are loaded //find elements that need to be 'lightboxed' var matches = document.querySelectorAll('#container-content-single a:not(.nolightbox) img, #container-content-page a:not(.nolightbox) img, .autolightbox a:not(.nolightbox) img'); //iterate and add the class for (i=0; i<matches.length; i++) { matches[i].parentElement.classList.add(\"glightbox\"); } //run the lightbox const lightbox = GLightbox({}); } <link data-minify=\"1\" rel=\"stylesheet\" href=\"https://www.fertility.gr/wp-content/cache/min/1/npm/glightbox/dist/css/glightbox.min.css?ver=1773566377\"> window.lazyLoadOptions=[{elements_selector:\"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]\",data_src:\"lazy-src\",data_srcset:\"lazy-srcset\",data_sizes:\"lazy-sizes\",class_loading:\"lazyloading\",class_loaded:\"lazyloaded\",threshold:300,callback_loaded:function(element){if(element.tagName===\"IFRAME\"&&element.dataset.rocketLazyload==\"fitvidscompatible\"){if(element.classList.contains(\"lazyloaded\")){if(typeof window.jQuery!=\"undefined\"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:\".rocket-lazyload\",data_src:\"lazy-src\",data_srcset:\"lazy-srcset\",data_sizes:\"lazy-sizes\",class_loading:\"lazyloading\",class_loaded:\"lazyloaded\",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue} if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue} images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName==\"IMG\";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName==\"IFRAME\";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1} if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName(\"body\")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)function lazyLoadThumb(e,alt){var t='<img data-lazy-src=\"https://i.ytimg.com/vi/ID/hqdefault.jpg\" alt=\"\" width=\"480\" height=\"360\"><noscript><img src=\"https://i.ytimg.com/vi/ID/hqdefault.jpg\" alt=\"\" width=\"480\" height=\"360\"></noscript>',a='<button class=\"play\" aria-label=\"play Youtube video\"></button>';t=t.replace('alt=\"\"','alt=\"'+alt+'\"');return t.replace(\"ID\",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement(\"iframe\"),t=\"ID?autoplay=1\";t+=0===this.parentNode.dataset.query.length?'':'&'+this.parentNode.dataset.query;e.setAttribute(\"src\",t.replace(\"ID\",this.parentNode.dataset.src)),e.setAttribute(\"frameborder\",\"0\"),e.setAttribute(\"allowfullscreen\",\"1\"),e.setAttribute(\"allow\", \"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener(\"DOMContentLoaded\",function(){var e,t,p,a=document.getElementsByClassName(\"rll-youtube-player\");for(t=0;t<a.length;t++)e=document.createElement(\"div\"),e.setAttribute(\"data-id\",a[t].dataset.id),e.setAttribute(\"data-query\", a[t].dataset.query),e.setAttribute(\"data-src\", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id,a[t].dataset.alt),a[t].appendChild(e),p=e.querySelector('.play'),p.onclick=lazyLoadYoutubeIframe});",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/fertility.gr-home-b104ab52/services-ipiresies-02efa713.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/fertility.gr-home-b104ab52/services-ipiresies-02efa713.txt",
+      "imageReferences": [
+        {
+          "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+          "sourcePageUrl": "https://www.fertility.gr/ipiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.fertility.gr/ipiresies",
+              "retrievedAt": "2026-03-31T13:12:58.157Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20412%20103'%3E%3C/svg%3E",
+          "sourcePageUrl": "https://www.fertility.gr/ipiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.fertility.gr/ipiresies",
+              "retrievedAt": "2026-03-31T13:12:58.157Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%200'%3E%3C/svg%3E",
+          "sourcePageUrl": "https://www.fertility.gr/ipiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.fertility.gr/ipiresies",
+              "retrievedAt": "2026-03-31T13:12:58.157Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2026%2026'%3E%3C/svg%3E",
+          "alt": "Loading",
+          "sourcePageUrl": "https://www.fertility.gr/ipiresies",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.fertility.gr/ipiresies",
+              "retrievedAt": "2026-03-31T13:12:58.157Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://www.fertility.gr/ipiresies",
+          "retrievedAt": "2026-03-31T13:12:58.159Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://www.fertility.gr/contact",
+      "finalUrl": "https://www.fertility.gr/contact",
+      "fetchedAt": "2026-03-31T13:12:55.178Z",
+      "metadata": {
+        "title": "Επικοινωνία - Μονάδα Αναπαραγωγικής Ιατρικής",
+        "metaDescription": "Επικοινωνια Μονάδα Αναπαραγωγικής Ιατρικής",
+        "canonicalUrl": "https://www.fertility.gr/contact/",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Επικοινωνία - Μονάδα Αναπαραγωγικής Ιατρικής",
+        "openGraphDescription": "Επικοινωνια Μονάδα Αναπαραγωγικής Ιατρικής",
+        "openGraphImage": "https://fertility.gr/wp-content/uploads/2023/03/phone-map.svg"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Επικοινωνήστε μαζί μας"
+        },
+        {
+          "level": "h3",
+          "text": "Ακολουθήστε μας"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.fertility.gr/",
+          "label": "<img class=\"img-fluid wp-image-676\" src=\"https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP.png\" alt=\"\" width=\"412\" height=\"103\" srcset=\"https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP.png 412w, https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP-300x75.png 300w\" sizes=\"(max-width: 412px) 100vw, 412px\">"
+        },
+        {
+          "href": "https://www.fertility.gr/i-monada/",
+          "label": "Η Μονάδα"
+        },
+        {
+          "href": "https://www.fertility.gr/ipiresies/",
+          "label": "Υπηρεσίες"
+        },
+        {
+          "href": "https://www.fertility.gr/programmatismeni-epafi-parakolouthisi-kuklou/",
+          "label": "Προγραμματισμένη επαφή – Παρακολούθηση κύκλου"
+        },
+        {
+          "href": "https://www.fertility.gr/endomitriki-spermategxusi/",
+          "label": "Παρακολούθηση Κύκλου – Ενδομητρική Σπερματέγχυση (IUI)"
+        },
+        {
+          "href": "https://www.fertility.gr/endomitriki-spermategxusi-me-ipia-xorigisi-farmakon/",
+          "label": "Ενδομητρική Σπερματέγχυση (IUI) με ήπια χορήγηση φαρμάκων"
+        },
+        {
+          "href": "https://www.fertility.gr/exosomatiki-gonimopoihsh-se-fusiko-kuklo/",
+          "label": "Σε φυσικό κύκλο – ‘Ηπια διέγερση"
+        },
+        {
+          "href": "https://www.fertility.gr/exosomatiki-gonimopoihsh-me-xorigisi-farmakon/",
+          "label": "Με χορήγηση φαρμάκων"
+        },
+        {
+          "href": "https://www.fertility.gr/methodos-gonimopoihshs-oarion/",
+          "label": "Μέθοδος Γονιμοποίησης Ωαρίων"
+        },
+        {
+          "href": "https://www.fertility.gr/azoospermia/",
+          "label": "Αζωοσπερμία & Τεχνικές Λήψης σπέρματος"
+        },
+        {
+          "href": "https://www.fertility.gr/kalliergeia-vlastokustis/",
+          "label": "Καλλιέργεια Βλαστοκύστης"
+        },
+        {
+          "href": "https://www.fertility.gr/in-vitro-orimansi-oarion-ivm/",
+          "label": "In Vitro Ωρίμανση Ωαρίων (IVM)"
+        },
+        {
+          "href": "https://www.fertility.gr/nees-ergastiriakes-texnikes/",
+          "label": "Νέες Εργαστηριακές Τεχνικές"
+        },
+        {
+          "href": "https://www.fertility.gr/embruometafora/",
+          "label": "Εμβρυομεταφορά"
+        },
+        {
+          "href": "https://www.fertility.gr/time-lapse-imaging-embryoscope/",
+          "label": "Τεχνολογία συνεχούς παρακολούθησης εμβρύων (Time lapse imaging – Embryoscope ΤΜ)"
+        },
+        {
+          "href": "https://www.fertility.gr/analusi-xrwmoswmikou-profil-embruou/",
+          "label": "Ανάλυση χρωμοσωμικού προφίλ του εμβρύου"
+        },
+        {
+          "href": "https://www.fertility.gr/monogonidiaka-nosimata/",
+          "label": "Μονογονιδιακά νοσήματα"
+        },
+        {
+          "href": "https://www.fertility.gr/dwrea-spermatos/",
+          "label": "Δωρεά σπέρματος"
+        },
+        {
+          "href": "https://www.fertility.gr/dwrea-wariwn/",
+          "label": "Δωρεά ωαρίων"
+        },
+        {
+          "href": "https://www.fertility.gr/parentheti-mitra/",
+          "label": "Παρένθετη μήτρα"
+        },
+        {
+          "href": "https://www.fertility.gr/nea-methodos-kruosuntirisis-ualopoihsh/",
+          "label": "Νέα μέθοδος κρυοσυντήρησης: Υαλοποίηση"
+        },
+        {
+          "href": "https://www.fertility.gr/katapsiksi-wothikikou-istou/",
+          "label": "Κατάψυξη ωοθηκικού ιστού"
+        },
+        {
+          "href": "https://www.fertility.gr/katapsiksi-wariwn-fulaksi-gonimotitas/",
+          "label": "Κατάψυξη ωαρίων – Φύλαξη γονιμότητας"
+        },
+        {
+          "href": "https://www.fertility.gr/katapsiksi-spermatos/",
+          "label": "Κατάψυξη σπέρματος"
+        },
+        {
+          "href": "https://www.fertility.gr/katapsiksi-embruon/",
+          "label": "Κατάψυξη εμβρύων"
+        },
+        {
+          "href": "https://www.fertility.gr/katakermatismos-dna-spermatozwariwn/",
+          "label": "Κατακερματισμός DNA σπερματοζωαρίων"
+        },
+        {
+          "href": "https://www.fertility.gr/analusi-spermatos/",
+          "label": "Ανάλυση σπέρματος"
+        },
+        {
+          "href": "https://www.fertility.gr/energopoihsh-spermatos/",
+          "label": "Ενεργοποίηση σπέρματος για ενδομητρική σπερματέγχυση ή εξωσωματική γονιμοποίηση"
+        },
+        {
+          "href": "https://www.fertility.gr/kalliergeia-spermatos/",
+          "label": "Καλλιέργεια σπέρματος"
+        },
+        {
+          "href": "https://www.fertility.gr/metrisi-okseidwtikou-stress/",
+          "label": "Μέτρηση οξειδωτικού stress"
+        },
+        {
+          "href": "https://www.fertility.gr/siskeues-diaxwrismou-spermatos-zymot/",
+          "label": "Συσκευές διαχωρισμού σπέρματος Zymot"
+        },
+        {
+          "href": "https://www.fertility.gr/ta-nea-mas/",
+          "label": "Τα νέα μας"
+        },
+        {
+          "href": "https://www.fertility.gr/contact/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://fertility.gr/i-monada",
+          "label": "Η Μονάδα"
+        },
+        {
+          "href": "https://fertility.gr/ta-nea-mas",
+          "label": "Τα νέα μας"
+        },
+        {
+          "href": "https://fertility.gr/contact/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.fertility.gr/politiki-poiotitas/",
+          "label": "Πολιτική Ποιότητας"
+        },
+        {
+          "href": "https://fertility.gr/ipovoithoumeni-anaparagogi/",
+          "label": "Υποβοηθούμενη Αναπαραγωγή"
+        },
+        {
+          "href": "https://fertility.gr/eksosomatiki-gonimopoihsh/",
+          "label": "Εξωσωματική Γονιμοποίηση"
+        },
+        {
+          "href": "https://fertility.gr/proemfiteutikos-genetikos-elegxos/",
+          "label": "Προεμφυτευτικός Γενετικός Έλεγχος"
+        },
+        {
+          "href": "https://fertility.gr/dorea-gennetikou-ilikou/",
+          "label": "Δωρεά Γεννητικού Υλικού"
+        },
+        {
+          "href": "https://fertility.gr/katapsiksi-vitrification/",
+          "label": "Κατάψυξη - Vitrification"
+        },
+        {
+          "href": "https://fertility.gr/ergastirio-spermatos/",
+          "label": "Εργαστήριο Σπέρματος"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.fertility.gr/contact/",
+          "method": "post",
+          "purposeHint": "contact",
+          "fieldNames": [
+            "wpforms[fields][3]",
+            "wpforms[fields][1]",
+            "wpforms[fields][4]",
+            "wpforms[fields][2]",
+            "wpforms[id]",
+            "wpforms[author]",
+            "wpforms[post_id]"
+          ],
+          "submitLabels": [
+            "Αποστολή"
+          ],
+          "fields": [
+            {
+              "name": "wpforms[fields][3]",
+              "type": "text",
+              "label": "Ονοματεπώνυμο",
+              "required": true
+            },
+            {
+              "name": "wpforms[fields][1]",
+              "type": "email",
+              "label": "Email",
+              "required": true
+            },
+            {
+              "name": "wpforms[fields][4]",
+              "type": "text",
+              "label": "Θέμα",
+              "required": true
+            },
+            {
+              "name": "wpforms[fields][2]",
+              "type": "textarea",
+              "label": "Μήνυμα",
+              "required": false
+            },
+            {
+              "name": "wpforms[id]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "wpforms[author]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "wpforms[post_id]",
+              "type": "hidden",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://www.fertility.gr/contact/",
+          "method": "post",
+          "purposeHint": "contact",
+          "fieldNames": [
+            "wpforms[fields][2]",
+            "wpforms[id]",
+            "wpforms[author]",
+            "wpforms[post_id]"
+          ],
+          "submitLabels": [
+            "Αποστολή"
+          ],
+          "fields": [
+            {
+              "name": "wpforms[fields][2]",
+              "type": "email",
+              "label": "Your Email Address",
+              "required": true
+            },
+            {
+              "name": "wpforms[id]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "wpforms[author]",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "wpforms[post_id]",
+              "type": "hidden",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "2106912900",
+          "2106910080",
+          "210 6912900 210 6910080",
+          "210 6912900",
+          "210 6910080",
+          "1773566377"
+        ],
+        "emails": [
+          "info@fertility.gr"
+        ],
+        "addresses": [
+          "<img class=\"img-fluid wp-image-38\" alt=\"\" src=\"https://fertility.gr/wp-content/uploads/2023/03/Ferility-Logo-footer.svg\" style=\"max-height:10vh\" width=\"100%\" height=\"\" srcset=\"\" sizes=\"\"> Εξατομικεύουμε την αντιμετώπιση κάθε ζευγαριού. <img src=\"https://fertility.gr/wp-content/uploads/2023/03/phone-footer.svg\" loading=\"lazy\" class=\"wp-image-29\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> 210 6912900 | 210 6910080 <img src=\"https://fertility.gr/wp-content/uploads/2023/03/email-footer.svg\" loading=\"lazy\" class=\"wp-image-43\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> info@fertility.gr <img src=\"https://fertility.gr/wp-content/uploads/2023/03/pin-footer.svg\" loading=\"lazy\" class=\" wp-image-27\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> Γ. Αναστασίου 8, Αθήνα [όπισθεν Μαιευτηρίου ΛΗΤΩ] Μενού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Αρχική <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Η Μονάδα <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Τα νέα μας <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Επικοινωνία <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Πολιτική Ποιότητας Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υποβοηθούμενη Αναπαραγωγή <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εξωσωματική Γονιμοποίηση <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Προεμφυτευτικός Γενετικός Έλεγχος <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Δωρεά Γεννητικού Υλικού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Κατάψυξη - Vitrification <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εργαστήριο Σπέρματος Newsletter Please enable JavaScript in your browser to complete this form.Email *Αποστολή<img src=\"https://www.fertility.gr/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg\" class=\"wpforms-submit-spinner\" style=\"display: none;\" width=\"26\" height=\"26\" alt=\"Loading\"> <img class=\"img-fluid wp-image-40 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-32 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-20 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-17 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid me-2 wp-image-36\" src=\"https://fertility.gr/wp-content/uploads/2023/03/google-plus-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Forthright Copyright 2023"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/fertilitilito/",
+            "label": "<img class=\"img-fluid wp-image-39\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\">"
+          },
+          {
+            "href": "https://www.instagram.com/fertility_gr/",
+            "label": "<img class=\"img-fluid wp-image-30\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\">"
+          },
+          {
+            "href": "https://twitter.com/AthensFertility",
+            "label": "<img class=\"img-fluid wp-image-19\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\">"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UC7I7YLgllHvqQ4ybPnyDvaQ",
+            "label": "<img class=\"img-fluid wp-image-51\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\">"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.fertility.gr/contact/",
+            "method": "post",
+            "purposeHint": "contact",
+            "fieldNames": [
+              "wpforms[fields][3]",
+              "wpforms[fields][1]",
+              "wpforms[fields][4]",
+              "wpforms[fields][2]",
+              "wpforms[id]",
+              "wpforms[author]",
+              "wpforms[post_id]"
+            ],
+            "submitLabels": [
+              "Αποστολή"
+            ],
+            "fields": [
+              {
+                "name": "wpforms[fields][3]",
+                "type": "text",
+                "label": "Ονοματεπώνυμο",
+                "required": true
+              },
+              {
+                "name": "wpforms[fields][1]",
+                "type": "email",
+                "label": "Email",
+                "required": true
+              },
+              {
+                "name": "wpforms[fields][4]",
+                "type": "text",
+                "label": "Θέμα",
+                "required": true
+              },
+              {
+                "name": "wpforms[fields][2]",
+                "type": "textarea",
+                "label": "Μήνυμα",
+                "required": false
+              },
+              {
+                "name": "wpforms[id]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "wpforms[author]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "wpforms[post_id]",
+                "type": "hidden",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://www.fertility.gr/contact/",
+            "method": "post",
+            "purposeHint": "contact",
+            "fieldNames": [
+              "wpforms[fields][2]",
+              "wpforms[id]",
+              "wpforms[author]",
+              "wpforms[post_id]"
+            ],
+            "submitLabels": [
+              "Αποστολή"
+            ],
+            "fields": [
+              {
+                "name": "wpforms[fields][2]",
+                "type": "email",
+                "label": "Your Email Address",
+                "required": true
+              },
+              {
+                "name": "wpforms[id]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "wpforms[author]",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "wpforms[post_id]",
+                "type": "hidden",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "<img class=\"img-fluid wp-image-38\" alt=\"\" src=\"https://fertility.gr/wp-content/uploads/2023/03/Ferility-Logo-footer.svg\" style=\"max-height:10vh\" width=\"100%\" height=\"\" srcset=\"\" sizes=\"\"> Εξατομικεύουμε την αντιμετώπιση κάθε ζευγαριού. <img src=\"https://fertility.gr/wp-content/uploads/2023/03/phone-footer.svg\" loading=\"lazy\" class=\"wp-image-29\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> 210 6912900 | 210 6910080 <img src=\"https://fertility.gr/wp-content/uploads/2023/03/email-footer.svg\" loading=\"lazy\" class=\"wp-image-43\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> info@fertility.gr <img src=\"https://fertility.gr/wp-content/uploads/2023/03/pin-footer.svg\" loading=\"lazy\" class=\" wp-image-27\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> Γ. Αναστασίου 8, Αθήνα [όπισθεν Μαιευτηρίου ΛΗΤΩ] Μενού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Αρχική <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Η Μονάδα <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Τα νέα μας <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Επικοινωνία <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Πολιτική Ποιότητας Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υποβοηθούμενη Αναπαραγωγή <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εξωσωματική Γονιμοποίηση <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Προεμφυτευτικός Γενετικός Έλεγχος <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Δωρεά Γεννητικού Υλικού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Κατάψυξη - Vitrification <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εργαστήριο Σπέρματος Newsletter Please enable JavaScript in your browser to complete this form.Email *Αποστολή<img src=\"https://www.fertility.gr/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg\" class=\"wpforms-submit-spinner\" style=\"display: none;\" width=\"26\" height=\"26\" alt=\"Loading\"> <img class=\"img-fluid wp-image-40 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-32 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-20 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-17 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid me-2 wp-image-36\" src=\"https://fertility.gr/wp-content/uploads/2023/03/google-plus-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Forthright Copyright 2023",
+      "textContent": "<img class=\"img-fluid wp-image-28 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/phone-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> 2106912900 |2106910080 <img class=\"img-fluid wp-image-42 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/email-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> info@fertility.gr <img class=\"img-fluid wp-image-26 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/pin-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Γ. Αναστασίου 8 [όπισθεν Μαιευτηρίου ΛΗΤΩ] <img class=\"img-fluid wp-image-39\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-30\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-19\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-51\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-35\" src=\"https://fertility.gr/wp-content/uploads/2023/03/google-plus-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-676\" src=\"https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP.png\" alt=\"\" width=\"412\" height=\"103\" srcset=\"https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP.png 412w, https://fertility.gr/wp-content/uploads/2023/04/Fertility-Logo-TOP-300x75.png 300w\" sizes=\"(max-width: 412px) 100vw, 412px\"> Αρχική Η Μονάδα Υπηρεσίες Υποβοηθούμενη Αναπαραγωγή Προγραμματισμένη επαφή – Παρακολούθηση κύκλου Παρακολούθηση Κύκλου – Ενδομητρική Σπερματέγχυση (IUI) Ενδομητρική Σπερματέγχυση (IUI) με ήπια χορήγηση φαρμάκων Εξωσωματική Γονιμοποίηση Σε φυσικό κύκλο – ‘Ηπια διέγερση Με χορήγηση φαρμάκων Μέθοδος Γονιμοποίησης Ωαρίων Αζωοσπερμία & Τεχνικές Λήψης σπέρματος Καλλιέργεια Βλαστοκύστης In Vitro Ωρίμανση Ωαρίων (IVM) Νέες Εργαστηριακές Τεχνικές Εμβρυομεταφορά Τεχνολογία συνεχούς παρακολούθησης εμβρύων (Time lapse imaging – Embryoscope ΤΜ) Προεμφυτευτικός Γενετικός Ελέγχος Ανάλυση χρωμοσωμικού προφίλ του εμβρύου Μονογονιδιακά νοσήματα Δωρεά Γεννητικού Υλικού Δωρεά σπέρματος Δωρεά ωαρίων Παρένθετη μήτρα Κατάψυξη – Vitrification Νέα μέθοδος κρυοσυντήρησης: Υαλοποίηση Κατάψυξη ωοθηκικού ιστού Κατάψυξη ωαρίων – Φύλαξη γονιμότητας Κατάψυξη σπέρματος Κατάψυξη εμβρύων Εργαστήριο Σπέρματος Κατακερματισμός DNA σπερματοζωαρίων Ανάλυση σπέρματος Ενεργοποίηση σπέρματος για ενδομητρική σπερματέγχυση ή εξωσωματική γονιμοποίηση Καλλιέργεια σπέρματος Μέτρηση οξειδωτικού stress Συσκευές διαχωρισμού σπέρματος Zymot Τα νέα μας Επικοινωνία Κλείστε το ραντεβού σας Επικοινωνήστε μαζί μας Επικοινωνήστε μαζί μας <img decoding=\"async\" class=\"img-fluid wp-image-178\" src=\"https://fertility.gr/wp-content/uploads/2023/03/phone-map.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> ΤΗΛΕΦΩΝΟ ΕΠΙΚΟΙΝΩΝΙΑΣ 210 6912900 210 6910080 <img decoding=\"async\" class=\"img-fluid wp-image-179\" src=\"https://fertility.gr/wp-content/uploads/2023/03/email-map.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> EMAIL info@fertility.gr <img decoding=\"async\" class=\"img-fluid wp-image-180\" src=\"https://fertility.gr/wp-content/uploads/2023/03/pin-map.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> ΔΙΕΥΘΥΝΣΗ Γ. Αναστασίου 8, Αθήνα [όπισθεν Μαιευτηρίου ΛΗΤΩ] <img decoding=\"async\" class=\"img-fluid wp-image-181\" src=\"https://fertility.gr/wp-content/uploads/2023/03/appointment-map.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> ΚΛΕΙΣΤΕ ΤΟ ΡΑΝΤΕΒΟΥ ΣΑΣ Ακολουθήστε μας <img decoding=\"async\" class=\"img-fluid wp-image-182\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img decoding=\"async\" class=\"img-fluid ms-2 wp-image-183\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Κλείστε ραντεβού Please enable JavaScript in your browser to complete this form.Ονοματεπώνυμο *Email *Θέμα *ΜήνυμαΑποστολή<img decoding=\"async\" src=\"https://www.fertility.gr/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg\" class=\"wpforms-submit-spinner\" style=\"display: none;\" width=\"26\" height=\"26\" alt=\"Loading\"> <iframe src=\"https://maps.google.com/maps?q=%CE%BC%CE%BF%CE%BD%CE%AC%CE%B4%CE%B1%20%CE%B1%CE%BD%CE%B1%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CF%89%CE%B3%CE%B9%CE%BA%CE%AE%CF%82&amp;t=m&amp;z=15&amp;output=embed&amp;iwloc=near\"></iframe> <img class=\"img-fluid wp-image-38\" alt=\"\" src=\"https://fertility.gr/wp-content/uploads/2023/03/Ferility-Logo-footer.svg\" style=\"max-height:10vh\" width=\"100%\" height=\"\" srcset=\"\" sizes=\"\"> Εξατομικεύουμε την αντιμετώπιση κάθε ζευγαριού. <img src=\"https://fertility.gr/wp-content/uploads/2023/03/phone-footer.svg\" loading=\"lazy\" class=\"wp-image-29\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> 210 6912900 | 210 6910080 <img src=\"https://fertility.gr/wp-content/uploads/2023/03/email-footer.svg\" loading=\"lazy\" class=\"wp-image-43\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> info@fertility.gr <img src=\"https://fertility.gr/wp-content/uploads/2023/03/pin-footer.svg\" loading=\"lazy\" class=\" wp-image-27\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> Γ. Αναστασίου 8, Αθήνα [όπισθεν Μαιευτηρίου ΛΗΤΩ] Μενού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Αρχική <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Η Μονάδα <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Τα νέα μας <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Επικοινωνία <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Πολιτική Ποιότητας Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υποβοηθούμενη Αναπαραγωγή <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εξωσωματική Γονιμοποίηση <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Προεμφυτευτικός Γενετικός Έλεγχος <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Δωρεά Γεννητικού Υλικού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Κατάψυξη - Vitrification <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εργαστήριο Σπέρματος Newsletter Please enable JavaScript in your browser to complete this form.Email *Αποστολή<img src=\"https://www.fertility.gr/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg\" class=\"wpforms-submit-spinner\" style=\"display: none;\" width=\"26\" height=\"26\" alt=\"Loading\"> <img class=\"img-fluid wp-image-40 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-32 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-20 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-17 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid me-2 wp-image-36\" src=\"https://fertility.gr/wp-content/uploads/2023/03/google-plus-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Forthright Copyright 2023 {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/picostrap5-child-base/*\",\"/wp-content/themes/picostrap5/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} window.addEventListener('scroll', function(){ if(window.pageYOffset >= 1000) document.getElementById('backToTop').style.visibility=\"visible\"; else document.getElementById('backToTop').style.visibility=\"hidden\"; }, { capture: false, passive: true}); \"use strict\";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,\"value\"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError(\"Cannot call a class as a function\")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:\"_checkPassiveOption\",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener(\"test\",null,options),window.removeEventListener(\"test\",null,options)}catch(err){self.passiveSupported=!1}}},{key:\"initRequestIdleCallback\",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:\"isDataSaverModeOn\",value:function(){return\"connection\"in navigator&&!0===navigator.connection.saveData}},{key:\"supportsLinkPrefetch\",value:function(){var elem=document.createElement(\"link\");return elem.relList&&elem.relList.supports&&elem.relList.supports(\"prefetch\")&&window.IntersectionObserver&&\"isIntersecting\"in IntersectionObserverEntry.prototype}},{key:\"isSlowConnection\",value:function(){return\"connection\"in navigator&&\"effectiveType\"in navigator.connection&&(\"2g\"===navigator.connection.effectiveType||\"slow-2g\"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}(); //# sourceURL=rocket-browser-checker-js-after var RocketPreloadLinksConfig = {\"excludeUris\":\"/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|/(index.php/)?(.*)wp-json(/.*|$)|/refer/|/go/|/recommend/|/recommends/\",\"usesTrailingSlash\":\"1\",\"imageExt\":\"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php\",\"fileExt\":\"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm\",\"siteUrl\":\"https://www.fertility.gr\",\"onHoverDelay\":\"100\",\"rateThrottle\":\"3\"}; //# sourceURL=rocket-preload-links-js-extra (function() { \"use strict\";var r=\"function\"==typeof Symbol&&\"symbol\"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&\"function\"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?\"symbol\":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,\"value\"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError(\"Cannot call a class as a function\")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:\"init\",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,\"i\"),images:RegExp(\".(\"+this.config.imageExt+\")$\",\"i\"),fileExt:RegExp(\".(\"+this.config.fileExt+\")$\",\"i\")},this._initListeners(this))}},{key:\"_initListeners\",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener(\"mouseover\",e.listener.bind(e),e.listenerOptions),document.addEventListener(\"mousedown\",e.listener.bind(e),e.listenerOptions),document.addEventListener(\"touchstart\",e.listener.bind(e),e.listenerOptions)}},{key:\"listener\",value:function(e){var t=e.target.closest(\"a\"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case\"mousedown\":case\"touchstart\":this._addPrefetchLink(n);break;case\"mouseover\":this._earlyPrefetch(t,n,\"mouseout\")}}},{key:\"_earlyPrefetch\",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:\"_addPrefetchLink\",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement(\"link\");n.rel=\"prefetch\",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:\"_prepareUrl\",value:function(e){if(null===e||\"object\"!==(void 0===e?\"undefined\":r(e))||!1 in e||-1===[\"http:\",\"https:\"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:\"_getPathname\",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith(\"/\")||(n=\"/\"+n),this._shouldAddTrailingSlash(n)?n+\"/\":n}},{key:\"_shouldAddTrailingSlash\",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith(\"/\")&&!this.regex.fileExt.test(e)}},{key:\"_isLinkOk\",value:function(e){return null!==e&&\"object\"===(void 0===e?\"undefined\":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf(\"?\")&&-1===e.href.indexOf(\"#\")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:\"run\",value:function(){\"undefined\"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run(); }()); //# sourceURL=rocket-preload-links-js-after /* <![CDATA[ */ var wpforms_settings = {\"val_required\":\"This field is required.\",\"val_email\":\"Please enter a valid email address.\",\"val_email_suggestion\":\"Did you mean {suggestion}?\",\"val_email_suggestion_title\":\"Click to accept this suggestion.\",\"val_email_restricted\":\"This email address is not allowed.\",\"val_number\":\"Please enter a valid number.\",\"val_number_positive\":\"Please enter a valid positive number.\",\"val_confirm\":\"Field values do not match.\",\"val_checklimit\":\"You have exceeded the number of allowed selections: {#}.\",\"val_limit_characters\":\"{count} of {limit} max characters.\",\"val_limit_words\":\"{count} of {limit} max words.\",\"val_recaptcha_fail_msg\":\"Google reCAPTCHA verification failed, please try again later.\",\"val_turnstile_fail_msg\":\"Cloudflare Turnstile verification failed, please try again later.\",\"val_inputmask_incomplete\":\"Please fill out the field in required format.\",\"uuid_cookie\":\"\",\"locale\":\"en\",\"wpforms_plugin_url\":\"https:\\/\\/www.fertility.gr\\/wp-content\\/plugins\\/wpforms-lite\\/\",\"gdpr\":\"\",\"ajaxurl\":\"https:\\/\\/www.fertility.gr\\/wp-admin\\/admin-ajax.php\",\"mailcheck_enabled\":\"1\",\"mailcheck_domains\":[],\"mailcheck_toplevel_domains\":[\"dev\"],\"is_ssl\":\"1\",\"page_title\":\"\\u0395\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03af\\u03b1\",\"page_id\":\"70\",\"currency_code\":\"USD\",\"currency_thousands\":\",\",\"currency_decimals\":\"2\",\"currency_decimal\":\".\",\"currency_symbol\":\"$\",\"currency_symbol_pos\":\"left\"} /* ]]> */ //picostrap gLightbox integration window.onload = function() { //after all page els are loaded //find elements that need to be 'lightboxed' var matches = document.querySelectorAll('#container-content-single a:not(.nolightbox) img, #container-content-page a:not(.nolightbox) img, .autolightbox a:not(.nolightbox) img'); //iterate and add the class for (i=0; i<matches.length; i++) { matches[i].parentElement.classList.add(\"glightbox\"); } //run the lightbox const lightbox = GLightbox({}); } <link data-minify=\"1\" rel=\"stylesheet\" href=\"https://www.fertility.gr/wp-content/cache/min/1/npm/glightbox/dist/css/glightbox.min.css?ver=1773566377\"> window.lazyLoadOptions=[{elements_selector:\"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]\",data_src:\"lazy-src\",data_srcset:\"lazy-srcset\",data_sizes:\"lazy-sizes\",class_loading:\"lazyloading\",class_loaded:\"lazyloaded\",threshold:300,callback_loaded:function(element){if(element.tagName===\"IFRAME\"&&element.dataset.rocketLazyload==\"fitvidscompatible\"){if(element.classList.contains(\"lazyloaded\")){if(typeof window.jQuery!=\"undefined\"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:\".rocket-lazyload\",data_src:\"lazy-src\",data_srcset:\"lazy-srcset\",data_sizes:\"lazy-sizes\",class_loading:\"lazyloading\",class_loaded:\"lazyloaded\",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue} if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue} images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName==\"IMG\";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName==\"IFRAME\";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1} if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName(\"body\")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)function lazyLoadThumb(e,alt){var t='<img data-lazy-src=\"https://i.ytimg.com/vi/ID/hqdefault.jpg\" alt=\"\" width=\"480\" height=\"360\"><noscript><img src=\"https://i.ytimg.com/vi/ID/hqdefault.jpg\" alt=\"\" width=\"480\" height=\"360\"></noscript>',a='<button class=\"play\" aria-label=\"play Youtube video\"></button>';t=t.replace('alt=\"\"','alt=\"'+alt+'\"');return t.replace(\"ID\",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement(\"iframe\"),t=\"ID?autoplay=1\";t+=0===this.parentNode.dataset.query.length?'':'&'+this.parentNode.dataset.query;e.setAttribute(\"src\",t.replace(\"ID\",this.parentNode.dataset.src)),e.setAttribute(\"frameborder\",\"0\"),e.setAttribute(\"allowfullscreen\",\"1\"),e.setAttribute(\"allow\", \"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener(\"DOMContentLoaded\",function(){var e,t,p,a=document.getElementsByClassName(\"rll-youtube-player\");for(t=0;t<a.length;t++)e=document.createElement(\"div\"),e.setAttribute(\"data-id\",a[t].dataset.id),e.setAttribute(\"data-query\", a[t].dataset.query),e.setAttribute(\"data-src\", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id,a[t].dataset.alt),a[t].appendChild(e),p=e.querySelector('.play'),p.onclick=lazyLoadYoutubeIframe});",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/fertility.gr-home-b104ab52/contact-contact-9373d340.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/fertility.gr-home-b104ab52/contact-contact-9373d340.txt",
+      "imageReferences": [
+        {
+          "url": "https://fertility.gr/wp-content/uploads/2023/03/phone-map.svg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.fertility.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.fertility.gr/contact",
+              "retrievedAt": "2026-03-31T13:12:55.176Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+          "sourcePageUrl": "https://www.fertility.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.fertility.gr/contact",
+              "retrievedAt": "2026-03-31T13:12:55.176Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20412%20103'%3E%3C/svg%3E",
+          "sourcePageUrl": "https://www.fertility.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.fertility.gr/contact",
+              "retrievedAt": "2026-03-31T13:12:55.176Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2026%2026'%3E%3C/svg%3E",
+          "alt": "Loading",
+          "sourcePageUrl": "https://www.fertility.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.fertility.gr/contact",
+              "retrievedAt": "2026-03-31T13:12:55.176Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%200'%3E%3C/svg%3E",
+          "sourcePageUrl": "https://www.fertility.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.fertility.gr/contact",
+              "retrievedAt": "2026-03-31T13:12:55.176Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://www.fertility.gr/contact",
+          "retrievedAt": "2026-03-31T13:12:55.178Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/fertility.gr-home-b104ab52/contact-contact-9373d340.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "2106912900",
+      "2106910080",
+      "1995-1999",
+      "529087087",
+      "2117923835-2",
+      "210 6912900",
+      "210 6910080",
+      "1773566377",
+      "210 6912900 210 6910080",
+      "26.11.2025",
+      "6944568636",
+      "6979794194",
+      "6979541051"
+    ],
+    "emails": [
+      "info@fertility.gr"
+    ],
+    "addresses": [
+      "<img class=\"img-fluid wp-image-38\" alt=\"\" src=\"https://fertility.gr/wp-content/uploads/2023/03/Ferility-Logo-footer.svg\" style=\"max-height:10vh\" width=\"100%\" height=\"\" srcset=\"\" sizes=\"\"> Εξατομικεύουμε την αντιμετώπιση κάθε ζευγαριού. <img src=\"https://fertility.gr/wp-content/uploads/2023/03/phone-footer.svg\" loading=\"lazy\" class=\"wp-image-29\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> 210 6912900 | 210 6910080 <img src=\"https://fertility.gr/wp-content/uploads/2023/03/email-footer.svg\" loading=\"lazy\" class=\"wp-image-43\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> info@fertility.gr <img src=\"https://fertility.gr/wp-content/uploads/2023/03/pin-footer.svg\" loading=\"lazy\" class=\" wp-image-27\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> Γ. Αναστασίου 8, Αθήνα [όπισθεν Μαιευτηρίου ΛΗΤΩ] Μενού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Αρχική <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Η Μονάδα <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Τα νέα μας <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Επικοινωνία <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Πολιτική Ποιότητας Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υποβοηθούμενη Αναπαραγωγή <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εξωσωματική Γονιμοποίηση <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Προεμφυτευτικός Γενετικός Έλεγχος <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Δωρεά Γεννητικού Υλικού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Κατάψυξη - Vitrification <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εργαστήριο Σπέρματος Newsletter Please enable JavaScript in your browser to complete this form.Email *Αποστολή<img src=\"https://www.fertility.gr/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg\" class=\"wpforms-submit-spinner\" style=\"display: none;\" width=\"26\" height=\"26\" alt=\"Loading\"> <img class=\"img-fluid wp-image-40 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-32 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-20 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-17 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid me-2 wp-image-36\" src=\"https://fertility.gr/wp-content/uploads/2023/03/google-plus-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Forthright Copyright 2023"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/fertilitilito/",
+        "label": "<img class=\"img-fluid wp-image-39\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\">"
+      },
+      {
+        "href": "https://www.instagram.com/fertility_gr/",
+        "label": "<img class=\"img-fluid wp-image-30\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-top-bar.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\">"
+      },
+      {
+        "href": "https://twitter.com/AthensFertility",
+        "label": "<img class=\"img-fluid wp-image-19\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\">"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UC7I7YLgllHvqQ4ybPnyDvaQ",
+        "label": "<img class=\"img-fluid wp-image-51\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-top.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\">"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://www.fertility.gr/",
+        "method": "post",
+        "purposeHint": "contact",
+        "fieldNames": [
+          "wpforms[fields][3]",
+          "wpforms[fields][4]",
+          "wpforms[fields][1]",
+          "wpforms[fields][2]",
+          "wpforms[id]",
+          "wpforms[author]",
+          "wpforms[post_id]"
+        ],
+        "submitLabels": [
+          "Αποστολή"
+        ],
+        "fields": [
+          {
+            "name": "wpforms[fields][3]",
+            "type": "text",
+            "label": "Ονοματεπώνυμο",
+            "required": true
+          },
+          {
+            "name": "wpforms[fields][4]",
+            "type": "text",
+            "label": "Τηλέφωνο",
+            "required": true
+          },
+          {
+            "name": "wpforms[fields][1]",
+            "type": "email",
+            "label": "Email",
+            "required": true
+          },
+          {
+            "name": "wpforms[fields][2]",
+            "type": "textarea",
+            "label": "Μήνυμα",
+            "required": false
+          },
+          {
+            "name": "wpforms[id]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[author]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[post_id]",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.fertility.gr/",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "wpforms[fields][2]",
+          "wpforms[id]",
+          "wpforms[author]",
+          "wpforms[post_id]"
+        ],
+        "submitLabels": [
+          "Αποστολή"
+        ],
+        "fields": [
+          {
+            "name": "wpforms[fields][2]",
+            "type": "email",
+            "label": "Your Email Address",
+            "required": true
+          },
+          {
+            "name": "wpforms[id]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[author]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[post_id]",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.fertility.gr/contact/",
+        "method": "post",
+        "purposeHint": "contact",
+        "fieldNames": [
+          "wpforms[fields][3]",
+          "wpforms[fields][1]",
+          "wpforms[fields][4]",
+          "wpforms[fields][2]",
+          "wpforms[id]",
+          "wpforms[author]",
+          "wpforms[post_id]"
+        ],
+        "submitLabels": [
+          "Αποστολή"
+        ],
+        "fields": [
+          {
+            "name": "wpforms[fields][3]",
+            "type": "text",
+            "label": "Ονοματεπώνυμο",
+            "required": true
+          },
+          {
+            "name": "wpforms[fields][1]",
+            "type": "email",
+            "label": "Email",
+            "required": true
+          },
+          {
+            "name": "wpforms[fields][4]",
+            "type": "text",
+            "label": "Θέμα",
+            "required": true
+          },
+          {
+            "name": "wpforms[fields][2]",
+            "type": "textarea",
+            "label": "Μήνυμα",
+            "required": false
+          },
+          {
+            "name": "wpforms[id]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[author]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[post_id]",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.fertility.gr/contact/",
+        "method": "post",
+        "purposeHint": "contact",
+        "fieldNames": [
+          "wpforms[fields][2]",
+          "wpforms[id]",
+          "wpforms[author]",
+          "wpforms[post_id]"
+        ],
+        "submitLabels": [
+          "Αποστολή"
+        ],
+        "fields": [
+          {
+            "name": "wpforms[fields][2]",
+            "type": "email",
+            "label": "Your Email Address",
+            "required": true
+          },
+          {
+            "name": "wpforms[id]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[author]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[post_id]",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.fertility.gr/ipiresies/",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "wpforms[fields][2]",
+          "wpforms[id]",
+          "wpforms[author]",
+          "wpforms[post_id]"
+        ],
+        "submitLabels": [
+          "Αποστολή"
+        ],
+        "fields": [
+          {
+            "name": "wpforms[fields][2]",
+            "type": "email",
+            "label": "Your Email Address",
+            "required": true
+          },
+          {
+            "name": "wpforms[id]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[author]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[post_id]",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.fertility.gr/enimerosi/",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "wpforms[fields][2]",
+          "wpforms[id]",
+          "wpforms[author]",
+          "wpforms[post_id]"
+        ],
+        "submitLabels": [
+          "Αποστολή"
+        ],
+        "fields": [
+          {
+            "name": "wpforms[fields][2]",
+            "type": "email",
+            "label": "Your Email Address",
+            "required": true
+          },
+          {
+            "name": "wpforms[id]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[author]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[post_id]",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.fertility.gr/egkimosini-deutero-trimino/",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "wpforms[fields][2]",
+          "wpforms[id]",
+          "wpforms[author]",
+          "wpforms[post_id]"
+        ],
+        "submitLabels": [
+          "Αποστολή"
+        ],
+        "fields": [
+          {
+            "name": "wpforms[fields][2]",
+            "type": "email",
+            "label": "Your Email Address",
+            "required": true
+          },
+          {
+            "name": "wpforms[id]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[author]",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "wpforms[post_id]",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Μονάδα Αναπαραγωγικής Ιατρικής",
+    "canonicalUrl": "https://www.fertility.gr/",
+    "language": "en-US",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "openGraphTitle": "Μονάδα Αναπαραγωγικής Ιατρικής",
+    "openGraphDescription": "Καλώς ήλθατε στη Μονάδα Αναπαραγωγικής Ιατρικής. Για όλους εμάς που αποτελούμε τη Μονάδα προτεραιότητα μας είναι η έγκυρη και άμεση παροχή υπηρεσιών...Read More...",
+    "openGraphImage": "https://fertility.gr/wp-content/uploads/2023/03/service.svg"
+  },
+  "imageReferences": [
+    {
+      "url": "https://fertility.gr/wp-content/uploads/2023/03/service.svg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.766Z"
+        }
+      ]
+    },
+    {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.766Z"
+        }
+      ]
+    },
+    {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20412%20103'%3E%3C/svg%3E",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.766Z"
+        }
+      ]
+    },
+    {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20386%20414'%3E%3C/svg%3E",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.766Z"
+        }
+      ]
+    },
+    {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20589%20660'%3E%3C/svg%3E",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.766Z"
+        }
+      ]
+    },
+    {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2088%200'%3E%3C/svg%3E",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.766Z"
+        }
+      ]
+    },
+    {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20580%20658'%3E%3C/svg%3E",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.767Z"
+        }
+      ]
+    },
+    {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201807%20644'%3E%3C/svg%3E",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.767Z"
+        }
+      ]
+    },
+    {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2026%2026'%3E%3C/svg%3E",
+      "alt": "Loading",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.767Z"
+        }
+      ]
+    },
+    {
+      "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%200'%3E%3C/svg%3E",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.767Z"
+        }
+      ]
+    },
+    {
+      "url": "https://fertility.gr/wp-content/uploads/2023/03/phone-map.svg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.fertility.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.fertility.gr/contact",
+          "retrievedAt": "2026-03-31T13:12:55.176Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.fertility.gr/wp-content/uploads/2025/11/%CE%91%CE%BD%CF%8E%CE%BD%CF%85%CE%BC%CE%BF-%CF%83%CF%87%CE%AD%CE%B4%CE%B9%CE%BF-35.png",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.fertility.gr/enimerosi",
+      "pageType": "services",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.fertility.gr/enimerosi",
+          "retrievedAt": "2026-03-31T13:12:59.679Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.fertility.gr/wp-content/uploads/2023/09/shutterstock_529087087.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.fertility.gr/egkimosini-deutero-trimino",
+      "pageType": "services",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.fertility.gr/egkimosini-deutero-trimino",
+          "retrievedAt": "2026-03-31T13:13:01.323Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "2106912900",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.766Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2106910080",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.766Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1995-1999",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.766Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "529087087",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.766Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2117923835-2",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.766Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 6912900",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.766Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 6910080",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.766Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1773566377",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.766Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@fertility.gr",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.766Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "<img class=\"img-fluid wp-image-38\" alt=\"\" src=\"https://fertility.gr/wp-content/uploads/2023/03/Ferility-Logo-footer.svg\" style=\"max-height:10vh\" width=\"100%\" height=\"\" srcset=\"\" sizes=\"\"> Εξατομικεύουμε την αντιμετώπιση κάθε ζευγαριού. <img src=\"https://fertility.gr/wp-content/uploads/2023/03/phone-footer.svg\" loading=\"lazy\" class=\"wp-image-29\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> 210 6912900 | 210 6910080 <img src=\"https://fertility.gr/wp-content/uploads/2023/03/email-footer.svg\" loading=\"lazy\" class=\"wp-image-43\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> info@fertility.gr <img src=\"https://fertility.gr/wp-content/uploads/2023/03/pin-footer.svg\" loading=\"lazy\" class=\" wp-image-27\" alt=\"\" width=\"\" height=\"\" srcset=\"\" sizes=\"\"> Γ. Αναστασίου 8, Αθήνα [όπισθεν Μαιευτηρίου ΛΗΤΩ] Μενού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Αρχική <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Η Μονάδα <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Τα νέα μας <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Επικοινωνία <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Πολιτική Ποιότητας Υπηρεσίες <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Υποβοηθούμενη Αναπαραγωγή <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εξωσωματική Γονιμοποίηση <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Προεμφυτευτικός Γενετικός Έλεγχος <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Δωρεά Γεννητικού Υλικού <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Κατάψυξη - Vitrification <img src=\"https://fertility.gr/wp-content/uploads/2023/03/arrow-footer.svg\" class=\"me-2\">Εργαστήριο Σπέρματος Newsletter Please enable JavaScript in your browser to complete this form.Email *Αποστολή<img src=\"https://www.fertility.gr/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg\" class=\"wpforms-submit-spinner\" style=\"display: none;\" width=\"26\" height=\"26\" alt=\"Loading\"> <img class=\"img-fluid wp-image-40 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/fb-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-32 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/insta-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-20 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/twitter-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid wp-image-17 me-2\" src=\"https://fertility.gr/wp-content/uploads/2023/03/youtube-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> <img class=\"img-fluid me-2 wp-image-36\" src=\"https://fertility.gr/wp-content/uploads/2023/03/google-plus-footer.svg\" width=\"\" height=\"\" srcset=\"\" sizes=\"\" alt=\"\"> Forthright Copyright 2023",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.766Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.fertility.gr/",
+      "sourcePageUrl": "https://www.fertility.gr/",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.fertility.gr/",
+          "retrievedAt": "2026-03-31T13:12:53.766Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 6912900 210 6910080",
+      "sourcePageUrl": "https://www.fertility.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.fertility.gr/contact",
+          "retrievedAt": "2026-03-31T13:12:55.176Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.fertility.gr/contact",
+      "sourcePageUrl": "https://www.fertility.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.fertility.gr/contact",
+          "retrievedAt": "2026-03-31T13:12:55.176Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.fertility.gr/contact",
+      "sourcePageUrl": "https://www.fertility.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.fertility.gr/contact",
+          "retrievedAt": "2026-03-31T13:12:55.176Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.fertility.gr/ipiresies",
+      "sourcePageUrl": "https://www.fertility.gr/ipiresies",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.fertility.gr/ipiresies",
+          "retrievedAt": "2026-03-31T13:12:58.157Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "26.11.2025",
+      "sourcePageUrl": "https://www.fertility.gr/enimerosi",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.fertility.gr/enimerosi",
+          "retrievedAt": "2026-03-31T13:12:59.679Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "6944568636",
+      "sourcePageUrl": "https://www.fertility.gr/enimerosi",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.fertility.gr/enimerosi",
+          "retrievedAt": "2026-03-31T13:12:59.679Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "6979794194",
+      "sourcePageUrl": "https://www.fertility.gr/enimerosi",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.fertility.gr/enimerosi",
+          "retrievedAt": "2026-03-31T13:12:59.679Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "6979541051",
+      "sourcePageUrl": "https://www.fertility.gr/enimerosi",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.fertility.gr/enimerosi",
+          "retrievedAt": "2026-03-31T13:12:59.679Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.fertility.gr/enimerosi",
+      "sourcePageUrl": "https://www.fertility.gr/enimerosi",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.fertility.gr/enimerosi",
+          "retrievedAt": "2026-03-31T13:12:59.679Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.fertility.gr/egkimosini-deutero-trimino",
+      "sourcePageUrl": "https://www.fertility.gr/egkimosini-deutero-trimino",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.fertility.gr/egkimosini-deutero-trimino",
+          "retrievedAt": "2026-03-31T13:13:01.323Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://www.fertility.gr/",
+    "finalOrigin": "https://www.fertility.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://www.fertility.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:12:53.550Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [],
+      "disallowRules": [],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://www.fertility.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:12:52.389Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://www.fertility.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.768Z"
+      },
+      {
+        "url": "https://www.fertility.gr/contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://fertility.gr/contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://www.fertility.gr/ipiresies",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://www.fertility.gr/enimerosi",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://www.fertility.gr/egkimosini-deutero-trimino",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://www.fertility.gr/egkimosini-proto-trimino",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://www.fertility.gr/i-monada",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://www.fertility.gr/programmatismeni-epafi-parakolouthisi-kuklou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://www.fertility.gr/endomitriki-spermategxusi",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://www.fertility.gr/endomitriki-spermategxusi-me-ipia-xorigisi-farmakon",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://www.fertility.gr/exosomatiki-gonimopoihsh-se-fusiko-kuklo",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://www.fertility.gr/exosomatiki-gonimopoihsh-me-xorigisi-farmakon",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://www.fertility.gr/methodos-gonimopoihshs-oarion",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://www.fertility.gr/azoospermia",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://www.fertility.gr/kalliergeia-vlastokustis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://www.fertility.gr/in-vitro-orimansi-oarion-ivm",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://www.fertility.gr/nees-ergastiriakes-texnikes",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://www.fertility.gr/embruometafora",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:53.769Z"
+      },
+      {
+        "url": "https://www.fertility.gr/contact",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:55.178Z"
+      },
+      {
+        "url": "https://www.fertility.gr/time-lapse-imaging-embryoscope",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/contact",
+        "timestamp": "2026-03-31T13:12:55.178Z"
+      },
+      {
+        "url": "https://www.fertility.gr/analusi-xrwmoswmikou-profil-embruou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/contact",
+        "timestamp": "2026-03-31T13:12:55.178Z"
+      },
+      {
+        "url": "https://www.fertility.gr/monogonidiaka-nosimata",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/contact",
+        "timestamp": "2026-03-31T13:12:55.178Z"
+      },
+      {
+        "url": "https://www.fertility.gr/dwrea-spermatos",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/contact",
+        "timestamp": "2026-03-31T13:12:55.178Z"
+      },
+      {
+        "url": "https://www.fertility.gr/contact",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:57.476Z"
+      },
+      {
+        "url": "https://www.fertility.gr/dwrea-wariwn",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/contact",
+        "timestamp": "2026-03-31T13:12:57.476Z"
+      },
+      {
+        "url": "https://www.fertility.gr/ipiresies",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:58.159Z"
+      },
+      {
+        "url": "https://www.fertility.gr/parentheti-mitra",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.fertility.gr/ipiresies",
+        "timestamp": "2026-03-31T13:12:58.159Z"
+      },
+      {
+        "url": "https://www.fertility.gr/enimerosi",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:12:59.681Z"
+      },
+      {
+        "url": "https://www.fertility.gr/egkimosini-deutero-trimino",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.fertility.gr/",
+        "timestamp": "2026-03-31T13:13:01.325Z"
+      },
+      {
+        "url": "https://www.fertility.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:13:03.129Z"
+      },
+      {
+        "url": "https://www.fertility.gr/contact",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:13:04.506Z"
+      },
+      {
+        "url": "https://www.fertility.gr/contact",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:13:05.767Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

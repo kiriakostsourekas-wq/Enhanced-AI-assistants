@@ -1,0 +1,2667 @@
+{
+  "domain": "ypapanti.com",
+  "collectedAt": "2026-03-31T13:17:31.836Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ypapanti.com-home-a17f54d0",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://www.ypapanti.com/",
+      "finalUrl": "https://www.ypapanti.com/",
+      "fetchedAt": "2026-03-31T13:17:14.381Z",
+      "metadata": {
+        "title": "Οφθαλμολογική Κλινική Υπαπαντή | Καταρράκτης ματιών επέμβαση | Laser ματιων για Μυωπία σε Αθήνα, Κόρινθο, Ναύπλιο, Άργος, Τρίπολη, Χαλκίδα, Πάτρα, Λάμια, Λειβαδειά, Αίγινα, Πειραιάς, Μέγαρα.",
+        "metaDescription": "Η Οφθαλμολογική Κλινική Υπαπαντή ιδρύθηκε το 1979 και διαθέτει έμπειρο και εξειδικευμένο προσωπικό στην επέμβαση για καταρράκτη ματιών. Laser Μυωπίας.",
+        "canonicalUrl": "https://www.ypapanti.com/",
+        "language": "el",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Οφθαλμολογική Κλινική Υπαπαντή | Καταρράκτης ματιών επέμβαση | Laser ματιων για Μυωπία σε Αθήνα, Κόρινθο, Ναύπλιο, Άργος, Τρίπολη, Χαλκίδα, Πάτρα, Λάμια, Λειβαδειά, Αίγινα, Πειραιάς, Μέγαρα.",
+        "openGraphDescription": "Η Οφθαλμολογική Κλινική Υπαπαντή ιδρύθηκε το 1979 και διαθέτει έμπειρο και εξειδικευμένο προσωπικό στην επέμβαση για καταρράκτη ματιών. Laser Μυωπίας.",
+        "openGraphImage": "https://www.ypapanti.com/wp-content/uploads/2023/04/imagetothetop-minn.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Σύγχρονες Υπηρεσίες"
+        },
+        {
+          "level": "h2",
+          "text": "ΠΡΟΤΥΠΟΣ ΟΦΘΑΛΜΟΛΟΓΙΚΗ ΚΛΙΝΙΚΗ"
+        },
+        {
+          "level": "h2",
+          "text": "Επεμβάσεις Laser"
+        },
+        {
+          "level": "h2",
+          "text": "Νέα & Άρθρα"
+        },
+        {
+          "level": "h3",
+          "text": "ΔΙΑΓΝΩΣΤΙΚΑ ΤΜΗΜΑΤΑ"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΠΕΜΒΑΣΕΙΣ LASER"
+        },
+        {
+          "level": "h3",
+          "text": "ΔΙΑΔΙΚΑΣΙΑ LASER"
+        },
+        {
+          "level": "h3",
+          "text": "ΧΕΙΡΟΥΡΓΙΚΑ ΤΜΗΜΑΤΑ"
+        },
+        {
+          "level": "h3",
+          "text": "LASIK"
+        },
+        {
+          "level": "h3",
+          "text": "PRK/LASEK"
+        },
+        {
+          "level": "h3",
+          "text": "LASER ΚΕΡΑΤΟΠΛΑΣΤΙΚΗ"
+        },
+        {
+          "level": "h3",
+          "text": "Newsletter"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.ypapanti.com/"
+        },
+        {
+          "href": "https://www.ypapanti.com/poioi-eimaste/",
+          "label": "ΠΟΙΟΙ ΕΙΜΑΣΤΕ"
+        },
+        {
+          "href": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1/",
+          "label": "ΑΡΘΡΑ"
+        },
+        {
+          "href": "https://www.ypapanti.com/pathiseis/",
+          "label": "ΠΑΘΗΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/tmimata/",
+          "label": "ΤΜΗΜΑΤΑ"
+        },
+        {
+          "href": "https://www.ypapanti.com/diadikasia-epemvasis/",
+          "label": "ΔΙΑΔΙΚΑΣΙΑ ΕΠΕΜΒΑΣΗΣ LASER"
+        },
+        {
+          "href": "https://www.ypapanti.com/laser/",
+          "label": "ΕΠΕΜΒΑΣΕΙΣ LASER"
+        },
+        {
+          "href": "https://www.ypapanti.com/%ce%b4%ce%b9%ce%b1%ce%b8%ce%bb%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%ad%cf%82-%ce%b1%ce%bd%cf%89%ce%bc%ce%b1%ce%bb%ce%af%ce%b5%cf%82-%ce%bc%cf%85%cf%89%cf%80%ce%af%ce%b1-%cf%85%cf%80%ce%b5%cf%81%ce%bc/",
+          "label": "ΔΙΑΘΛΑΣΤΙΚΕΣ ΑΝΩΜΑΛΙΕΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/exoplismos/",
+          "label": "ΕΞΟΠΛΙΣΜΟΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/%ce%b5%ce%be%ce%b5%cf%84%ce%b1%cf%83%ce%b5%ce%b9%cf%83/",
+          "label": "ΕΞΕΤΑΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/paroxes-egkatastaseis/",
+          "label": "ΕΓΚΑΤΑΣΤΑΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/epikoinonia/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://www.ypapanti.com/sinergates/",
+          "label": "ΣΥΝΕΡΓΑΤΕΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/en/"
+        },
+        {
+          "href": "https://www.ypapanti.com/politiki-aporritou",
+          "label": "Πολιτική Απορρήτου"
+        },
+        {
+          "href": "https://www.ypapanti.com/oroi-xrisis",
+          "label": "Όρους Χρήσης"
+        },
+        {
+          "href": "https://www.ypapanti.com/%ce%bc%ce%b7%ce%bd-%ce%b1%cf%86%ce%ae%cf%83%ce%b5%cf%84%ce%b5-%cf%84%ce%bf-%ce%b3%ce%bb%ce%b1%cf%8d%ce%ba%cf%89%ce%bc%ce%b1-%ce%bd%ce%b1-%cf%83%ce%b1%cf%82-%cf%83%cf%84%ce%b5%cf%81%ce%ae%cf%83%ce%b5/"
+        },
+        {
+          "href": "https://www.ypapanti.com/%ce%ba%ce%b1%cf%84%ce%b1%cf%81%cf%81%ce%ac%ce%ba%cf%84%ce%b7%cf%82-%ce%bc%ce%b1%cf%84%ce%b9%cf%8e%ce%bd-%cf%80%cf%8c%cf%84%ce%b5-%ce%b5%ce%af%ce%bd%ce%b1%ce%b9-%ce%b1%cf%80%ce%b1%cf%81%ce%b1%ce%af/"
+        },
+        {
+          "href": "https://www.ypapanti.com/politiki-aporritou/",
+          "label": "Πολιτική Προστασίας Προσωπικών Δεδομένων"
+        },
+        {
+          "href": "https://www.ypapanti.com/cookies-policy/",
+          "label": "Χρήση Cookies"
+        },
+        {
+          "href": "https://www.ypapanti.com/oroi-xrisis/",
+          "label": "Όροι Χρήσης"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.ypapanti.com/#wpcf7-f330-p1266-o1",
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "_wpcf7",
+            "_wpcf7_version",
+            "_wpcf7_locale",
+            "_wpcf7_unit_tag",
+            "_wpcf7_container_post",
+            "_wpcf7_posted_data_hash",
+            "your-name",
+            "your-email",
+            "your-subject",
+            "your-message",
+            "acceptance-963",
+            "hcaptcha-widget-id",
+            "_wpnonce",
+            "_wp_http_referer",
+            "submit"
+          ],
+          "submitLabels": [
+            "Υποβολή"
+          ],
+          "fields": [
+            {
+              "name": "_wpcf7",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_version",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_locale",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_unit_tag",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_container_post",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_posted_data_hash",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "type": "email",
+              "required": true
+            },
+            {
+              "name": "your-subject",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-message",
+              "type": "textarea",
+              "required": false
+            },
+            {
+              "name": "acceptance-963",
+              "type": "checkbox",
+              "required": false
+            },
+            {
+              "name": "hcaptcha-widget-id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpnonce",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wp_http_referer",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        },
+        {
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "post_id",
+            "form_id",
+            "referer_title",
+            "queried_id",
+            "form_fields[email]"
+          ],
+          "submitLabels": [
+            "Sign Up"
+          ],
+          "fields": [
+            {
+              "name": "post_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "form_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "referer_title",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "queried_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "form_fields[email]",
+              "type": "email",
+              "label": "Enter your email",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "210 330 1380",
+          "2024-08-02 09",
+          "+302103301380"
+        ],
+        "emails": [
+          "info@ypapanti.com"
+        ],
+        "addresses": [
+          "Newsletter Sign up our newsletter to get update information, news or article about medical. Enter your email Sign Up Επικοινωνία Σόλωνος 129, Αθήνα, 10677 info@ypapanti.com 210 330 1380 Social Media Facebook Youtube Πολιτική Προστασίας Προσωπικών Δεδομένων Χρήση Cookies Όροι Χρήσης Copyright © 2023 Υπαπαντή. All rights reserved | Designed & Developed with ♥ by JIT"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/ocypapanti/?fref=ts",
+            "label": "Facebook"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UCCTdhYlg_knWchajwogqUFw",
+            "label": "Youtube"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.ypapanti.com/#wpcf7-f330-p1266-o1",
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "_wpcf7",
+              "_wpcf7_version",
+              "_wpcf7_locale",
+              "_wpcf7_unit_tag",
+              "_wpcf7_container_post",
+              "_wpcf7_posted_data_hash",
+              "your-name",
+              "your-email",
+              "your-subject",
+              "your-message",
+              "acceptance-963",
+              "hcaptcha-widget-id",
+              "_wpnonce",
+              "_wp_http_referer",
+              "submit"
+            ],
+            "submitLabels": [
+              "Υποβολή"
+            ],
+            "fields": [
+              {
+                "name": "_wpcf7",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_version",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_locale",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_unit_tag",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_container_post",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_posted_data_hash",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "your-name",
+                "type": "text",
+                "required": true
+              },
+              {
+                "name": "your-email",
+                "type": "email",
+                "required": true
+              },
+              {
+                "name": "your-subject",
+                "type": "text",
+                "required": true
+              },
+              {
+                "name": "your-message",
+                "type": "textarea",
+                "required": false
+              },
+              {
+                "name": "acceptance-963",
+                "type": "checkbox",
+                "required": false
+              },
+              {
+                "name": "hcaptcha-widget-id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpnonce",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wp_http_referer",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          },
+          {
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "post_id",
+              "form_id",
+              "referer_title",
+              "queried_id",
+              "form_fields[email]"
+            ],
+            "submitLabels": [
+              "Sign Up"
+            ],
+            "fields": [
+              {
+                "name": "post_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "form_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "referer_title",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "queried_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "form_fields[email]",
+                "type": "email",
+                "label": "Enter your email",
+                "required": true
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Newsletter Sign up our newsletter to get update information, news or article about medical. Enter your email Sign Up Επικοινωνία Σόλωνος 129, Αθήνα, 10677 info@ypapanti.com 210 330 1380 Social Media Facebook Youtube Πολιτική Προστασίας Προσωπικών Δεδομένων Χρήση Cookies Όροι Χρήσης Copyright © 2023 Υπαπαντή. All rights reserved | Designed & Developed with ♥ by JIT",
+      "textContent": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-NJC73J5\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Μετάβαση στο περιεχόμενο ΑΡΧΙΚΗ ΠΟΙΟΙ ΕΙΜΑΣΤΕ ΑΡΘΡΑ ΠΑΘΗΣΕΙΣ ΤΜΗΜΑΤΑ LASER ΔΙΑΔΙΚΑΣΙΑ ΕΠΕΜΒΑΣΗΣ LASER ΕΠΕΜΒΑΣΕΙΣ LASER ΔΙΑΘΛΑΣΤΙΚΕΣ ΑΝΩΜΑΛΙΕΣ ΔΙΑΓΝΩΣΤΙΚΟΣ ΕΛΕΓΧΟΣ ΕΞΟΠΛΙΣΜΟΣ ΕΞΕΤΑΣΕΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΕΠΙΚΟΙΝΩΝΙΑ ΣΥΝΕΡΓΑΤΕΣ ΑΡΧΙΚΗ ΠΟΙΟΙ ΕΙΜΑΣΤΕ ΑΡΘΡΑ ΠΑΘΗΣΕΙΣ ΤΜΗΜΑΤΑ LASER ΔΙΑΔΙΚΑΣΙΑ ΕΠΕΜΒΑΣΗΣ LASER ΕΠΕΜΒΑΣΕΙΣ LASER ΔΙΑΘΛΑΣΤΙΚΕΣ ΑΝΩΜΑΛΙΕΣ ΔΙΑΓΝΩΣΤΙΚΟΣ ΕΛΕΓΧΟΣ ΕΞΟΠΛΙΣΜΟΣ ΕΞΕΤΑΣΕΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΕΠΙΚΟΙΝΩΝΙΑ ΣΥΝΕΡΓΑΤΕΣ Φροντίζουμε τα Μάτια σας Σύγχρονες Υπηρεσίες Η οφθαλμολογική μας κλινική διαθέτει εξειδίκευση σε κάθε τομέα της Οφθαλμολογίας. Διαβάστε Περισσότερα Ονοματεπώνυμο * E-mail * Θέμα * Μήνυμα Αποδέχομαι την Πολιτική Απορρήτου και τους Όρους Χρήσης ΔΙΑΓΝΩΣΤΙΚΑ ΤΜΗΜΑΤΑ Περισσότερα... ΕΠΕΜΒΑΣΕΙΣ LASER Περισσότερα... ΔΙΑΔΙΚΑΣΙΑ LASER Περισσότερα... ΧΕΙΡΟΥΡΓΙΚΑ ΤΜΗΜΑΤΑ Περισσότερα... Σχετικά με Εμάς ΠΡΟΤΥΠΟΣ ΟΦΘΑΛΜΟΛΟΓΙΚΗ ΚΛΙΝΙΚΗ Η οφθαλμολογική κλινική ΥΠΑΠΑΝΤΗ από το 1979, είναι στη διάθεση των οφθαλμιάτρων, παρέχοντας εξοπλισμό και υποστήριξη για τη συστηματική και αποτελεσματική θεραπεία των ασθενών τους. Με τη γνώση ότι μόνο η εξειδίκευση μπορεί να προσφέρει υπηρεσίες υψηλών απαιτήσεων, η ΥΠΑΠΑΝΤΗ, έχει αποκλειστική ενασχόληση την οφθαλμολογία, τόσο όσον αφορά τις εγκαταστάσεις της όσο και το επιστημονικό και το βοηθητικό προσωπικό της.Η οφθαλμολογική κλινική ΥΠΑΠΑΝΤΗ ακολουθώντας τις εξελίξεις στον τομέα της, ανακαινίσθηκε και εξοπλίστηκε με μηχανήματα τελευταίας τεχνολογίας, όπως θα παρατηρήσετε στις επόμενες σελίδες, δημιουργώντας ένα μοναδικό χώρο που είναι έτοιμος να υποδεχτεί εσάς και τους ασθενείς σας. Είμαστε στη διάθεσή σας για να προσφέρουμε άριστες υπηρεσίες με στόχο να σας διευκολύνουμε στο σημαντικό και πολύτιμο έργο σας. Περισσότερα... Τι Προσφέρουμε Επεμβάσεις Laser Η Οφθαλμολογική Κλινική Υπαπαντή διαθέτει εξειδικευμένο οφθαλμολογικό τμήμα διαθλαστικών ανωμαλιών που στελεχώνεται από πλήρως εκπαιδευμένους και έμπειρους ιατρούς και επιστημονικό προσωπικό που ενημερώνεται ανελλιπώς για τις τελευταίες εξελίξεις στην οφθαλμολογία και συγκεκριμένα τις διαθλαστικές ανωμαλίες. LASIK Συγκερασμό δύο διαφορετικών τεχνολογιών Laser, του Femtosecond και του Excimer. LASIK Αποτελεί το συγκερασμό δύο διαφορετικών τεχνολογιών Laser, του Femtosecond και του Excimer, δίχως να περιλαμβάνει τη χρησιμοποίηση νυστεριού. Περισσότερα PRK/LASEK Ευρέως γνωστές και ως επιφανειακές φωτοεκτομές. PRK/LASEK Αυτές οι τεχνικές, που είναι ευρέως γνωστές και ως επιφανειακές φωτοεκτομές, έχουν λιγότερο επεμβατικό χαρακτήρα και δεν προβλέπουν τη δημιουργία flap. Περισσότερα LASER ΚΕΡΑΤΟΠΛΑΣΤΙΚΗ Χειρουργική αντικατάσταση του κερατοειδούς που πάσχει με έναν υγιή. LASER ΚΕΡΑΤΟΠΛΑΣΤΙΚΗ Η μεταμόσχευση κερατοειδούς (κερατοπλαστική) είναι η χειρουργική αντικατάσταση του κερατοειδούς που πάσχει με έναν υγιή που προέρχεται από πτωματικό δότη. Περισσότερα Νέα & Άρθρα Άρθρα Μην αφήσετε το γλαύκωμα να σας στερήσει την όραση Το γλαύκωμα θεωρείται «κλέφτης» της όρασης γιατί εξελίσσεται σιωπηλά, χωρίς να δίνει προειδοποιητικά συμπτώματα. Για να ευαισθητοποιήσει τον κόσμο σχετικά με αυτήν τη νόσο που Περισσότερα » Άρθρα Καταρράκτης Ματιών: Πότε είναι απαραίτητη η επέμβαση Ο καταρράκτης ματιών είναι μια οφθαλμική πάθηση η οποία προκαλείται από φθορά στο φακό του ματιού. Μπορεί να οφείλεται σε τραυματισμό στην περιοχή των ματιών Περισσότερα » Newsletter Sign up our newsletter to get update information, news or article about medical. Enter your email Sign Up Επικοινωνία Σόλωνος 129, Αθήνα, 10677 info@ypapanti.com 210 330 1380 Social Media Facebook Youtube Πολιτική Προστασίας Προσωπικών Δεδομένων Χρήση Cookies Όροι Χρήσης Copyright © 2023 Υπαπαντή. All rights reserved | Designed & Developed with ♥ by JIT {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/hello-theme-child/*\",\"/wp-content/themes/hello-elementor/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} const lazyloadRunObserver = () => { const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` ); const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => { entries.forEach( ( entry ) => { if ( entry.isIntersecting ) { let lazyloadBackground = entry.target; if( lazyloadBackground ) { lazyloadBackground.classList.add( 'e-lazyloaded' ); } lazyloadBackgroundObserver.unobserve( entry.target ); } }); }, { rootMargin: '200px 0px 200px 0px' } ); lazyloadBackgrounds.forEach( ( lazyloadBackground ) => { lazyloadBackgroundObserver.observe( lazyloadBackground ); } ); }; const events = [ 'DOMContentLoaded', 'elementor/lazyload/observe', ]; events.forEach( ( event ) => { document.addEventListener( event, lazyloadRunObserver ); } ); (()=>{'use strict';let loaded=!1,scrolled=!1,timerId;function load(){if(loaded){return} loaded=!0;clearTimeout(timerId);window.removeEventListener('touchstart',load);document.body.removeEventListener('mouseenter',load);document.body.removeEventListener('click',load);window.removeEventListener('keydown',load);window.removeEventListener('scroll',scrollHandler);const t=document.getElementsByTagName('script')[0];const s=document.createElement('script');s.type='text/javascript';s.id='hcaptcha-api';s.src='https://js.hcaptcha.com/1/api.js?onload=hCaptchaOnLoad&render=explicit';s.async=!0;t.parentNode.insertBefore(s,t)} function scrollHandler(){if(!scrolled){scrolled=!0;return} load()} document.addEventListener('hCaptchaBeforeAPI',function(){const delay=-100;if(delay>=0){timerId=setTimeout(load,delay)} const options={passive:!0};window.addEventListener('touchstart',load,options);document.body.addEventListener('mouseenter',load);document.body.addEventListener('click',load);window.addEventListener('keydown',load);window.addEventListener('scroll',scrollHandler,options)})})() wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); //# sourceURL=wp-i18n-js-after ( function( domain, translations ) { var localeData = translations.locale_data[ domain ] || translations.locale_data.messages; localeData[\"\"].domain = domain; wp.i18n.setLocaleData( localeData, domain ); } )( \"contact-form-7\", {\"translation-revision-date\":\"2024-08-02 09:16:28+0000\",\"generator\":\"GlotPress\\/4.0.1\",\"domain\":\"messages\",\"locale_data\":{\"messages\":{\"\":{\"domain\":\"messages\",\"plural-forms\":\"nplurals=2; plural=n != 1;\",\"lang\":\"el_GR\"},\"This contact form is placed in the wrong place.\":[\"\\u0397 \\u03c6\\u03cc\\u03c1\\u03bc\\u03b1 \\u03b5\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03af\\u03b1\\u03c2 \\u03b5\\u03af\\u03bd\\u03b1\\u03b9 \\u03c3\\u03b5 \\u03bb\\u03ac\\u03b8\\u03bf\\u03c2 \\u03b8\\u03ad\\u03c3\\u03b7.\"],\"Error:\":[\"\\u03a3\\u03c6\\u03ac\\u03bb\\u03bc\\u03b1:\"]}},\"comment\":{\"reference\":\"includes\\/js\\/index.js\"}} ); //# sourceURL=contact-form-7-js-translations var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.ypapanti.com\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; //# sourceURL=contact-form-7-js-before var PremiumSettings = {\"ajaxurl\":\"https://www.ypapanti.com/wp-admin/admin-ajax.php\",\"nonce\":\"66bc22a6fd\"}; var EAELImageMaskingConfig = {\"svg_dir_url\":\"https://www.ypapanti.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/img/image-masking/svg-shapes/\"}; //# sourceURL=elementor-frontend-js-extra var elementorFrontendConfig = {\"environmentMode\":{\"edit\":false,\"wpPreview\":false,\"isScriptDebug\":false},\"i18n\":{\"shareOnFacebook\":\"M\\u03bf\\u03b9\\u03c1\\u03b1\\u03c3\\u03c4\\u03b5\\u03af\\u03c4\\u03b5 \\u03c3\\u03c4\\u03bf Facebook\",\"shareOnTwitter\":\"\\u039c\\u03bf\\u03b9\\u03c1\\u03b1\\u03c3\\u03c4\\u03b5\\u03af\\u03c4\\u03b5 \\u03c3\\u03c4\\u03bf Twitter\",\"pinIt\":\"\\u039a\\u03b1\\u03c1\\u03c6\\u03af\\u03c4\\u03c3\\u03c9\\u03bc\\u03b1\",\"download\":\"\\u039b\\u03ae\\u03c8\\u03b7\",\"downloadImage\":\"\\u039a\\u03b1\\u03c4\\u03ad\\u03b2\\u03b1\\u03c3\\u03bc\\u03b1 \\u03b5\\u03b9\\u03ba\\u03cc\\u03bd\\u03b1\\u03c2\",\"fullscreen\":\"\\u03a0\\u03bb\\u03ae\\u03c1\\u03b7\\u03c2 \\u03bf\\u03b8\\u03cc\\u03bd\\u03b7\",\"zoom\":\"\\u039c\\u03b5\\u03b3\\u03ad\\u03bd\\u03b8\\u03c5\\u03bd\\u03c3\\u03b7\",\"share\":\"\\u039a\\u03bf\\u03b9\\u03bd\\u03ae \\u03c7\\u03c1\\u03ae\\u03c3\\u03b7\",\"playVideo\":\"\\u0391\\u03bd\\u03b1\\u03c0\\u03b1\\u03c1\\u03b1\\u03b3\\u03c9\\u03b3\\u03ae \\u0392\\u03af\\u03bd\\u03c4\\u03b5\\u03bf\",\"previous\":\"\\u03a0\\u03c1\\u03bf\\u03b7\\u03b3\\u03bf\\u03cd\\u03bc\\u03b5\\u03bd\\u03bf\",\"next\":\"\\u0395\\u03c0\\u03cc\\u03bc\\u03b5\\u03bd\\u03bf\",\"close\":\"\\u039a\\u03bb\\u03b5\\u03af\\u03c3\\u03b9\\u03bc\\u03bf\",\"a11yCarouselPrevSlideMessage\":\"Previous slide\",\"a11yCarouselNextSlideMessage\":\"Next slide\",\"a11yCarouselFirstSlideMessage\":\"This is the first slide\",\"a11yCarouselLastSlideMessage\":\"This is the last slide\",\"a11yCarouselPaginationBulletMessage\":\"Go to slide\"},\"is_rtl\":false,\"breakpoints\":{\"xs\":0,\"sm\":480,\"md\":768,\"lg\":1025,\"xl\":1440,\"xxl\":1600},\"responsive\":{\"breakpoints\":{\"mobile\":{\"label\":\"\\u039a\\u03b1\\u03c4\\u03b1\\u03ba\\u03cc\\u03c1\\u03c5\\u03c6\\u03b7 \\u039a\\u03b9\\u03bd\\u03b7\\u03c4\\u03ae \\u03a3\\u03c5\\u03c3\\u03ba\\u03b5\\u03c5\\u03ae\",\"value\":767,\"default_value\":767,\"direction\":\"max\",\"is_enabled\":true},\"mobile_extra\":{\"label\":\"\\u039f\\u03c1\\u03b9\\u03b6\\u03cc\\u03bd\\u03c4\\u03b9\\u03b1 \\u039a\\u03b9\\u03bd\\u03b7\\u03c4\\u03ae \\u03a3\\u03c5\\u03c3\\u03ba\\u03b5\\u03c5\\u03ae\",\"value\":880,\"default_value\":880,\"direction\":\"max\",\"is_enabled\":false},\"tablet\":{\"label\":\"Tablet Portrait\",\"value\":1024,\"default_value\":1024,\"direction\":\"max\",\"is_enabled\":true},\"tablet_extra\":{\"label\":\"Tablet Landscape\",\"value\":1200,\"default_value\":1200,\"direction\":\"max\",\"is_enabled\":false},\"laptop\":{\"label\":\"\\u03a6\\u03bf\\u03c1\\u03b7\\u03c4\\u03cc\\u03c2 \\u03c5\\u03c0\\u03bf\\u03bb\\u03bf\\u03b3\\u03b9\\u03c3\\u03c4\\u03ae\\u03c2\",\"value\":1366,\"default_value\":1366,\"direction\":\"max\",\"is_enabled\":false},\"widescreen\":{\"label\":\"Widescreen\",\"value\":2400,\"default_value\":2400,\"direction\":\"min\",\"is_enabled\":false}},\"hasCustomBreakpoints\":false},\"version\":\"3.35.9\",\"is_static\":false,\"experimentalFeatures\":{\"additional_custom_breakpoints\":true,\"theme_builder_v2\":true,\"hello-theme-header-footer\":true,\"home_screen\":true,\"global_classes_should_enforce_capabilities\":true,\"e_variables\":true,\"cloud-library\":true,\"e_opt_in_v4_page\":true,\"e_components\":true,\"e_interactions\":true,\"e_editor_one\":true,\"import-export-customization\":true,\"e_pro_variables\":true},\"urls\":{\"assets\":\"https:\\/\\/www.ypapanti.com\\/wp-content\\/plugins\\/elementor\\/assets\\/\",\"ajaxurl\":\"https:\\/\\/www.ypapanti.com\\/wp-admin\\/admin-ajax.php\",\"uploadUrl\":\"https:\\/\\/www.ypapanti.com\\/wp-content\\/uploads\"},\"nonces\":{\"floatingButtonsClickTracking\":\"d844ff8f46\"},\"swiperClass\":\"swiper\",\"settings\":{\"page\":[],\"editorPreferences\":[]},\"kit\":{\"hello_header_logo_type\":\"logo\",\"active_breakpoints\":[\"viewport_mobile\",\"viewport_tablet\"],\"global_image_lightbox\":\"yes\",\"lightbox_enable_counter\":\"yes\",\"lightbox_enable_fullscreen\":\"yes\",\"lightbox_enable_zoom\":\"yes\",\"lightbox_enable_share\":\"yes\",\"lightbox_title_src\":\"title\",\"lightbox_description_src\":\"description\",\"hello_header_menu_layout\":\"horizontal\",\"hello_footer_logo_type\":\"logo\"},\"post\":{\"id\":1266,\"title\":\"%CE%9F%CF%86%CE%B8%CE%B1%CE%BB%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE%20%CE%9A%CE%BB%CE%B9%CE%BD%CE%B9%CE%BA%CE%AE%20%CE%A5%CF%80%CE%B1%CF%80%CE%B1%CE%BD%CF%84%CE%AE%20%7C%20%CE%9A%CE%B1%CF%84%CE%B1%CF%81%CF%81%CE%AC%CE%BA%CF%84%CE%B7%CF%82%20%CE%BC%CE%B1%CF%84%CE%B9%CF%8E%CE%BD%20%CE%B5%CF%80%CE%AD%CE%BC%CE%B2%CE%B1%CF%83%CE%B7%20%7C%20Laser%20%CE%BC%CE%B1%CF%84%CE%B9%CF%89%CE%BD%20%CE%B3%CE%B9%CE%B1%20%CE%9C%CF%85%CF%89%CF%80%CE%AF%CE%B1%20%CF%83%CE%B5%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1%2C%20%CE%9A%CF%8C%CF%81%CE%B9%CE%BD%CE%B8%CE%BF%2C%20%CE%9D%CE%B1%CF%8D%CF%80%CE%BB%CE%B9%CE%BF%2C%20%CE%86%CF%81%CE%B3%CE%BF%CF%82%2C%20%CE%A4%CF%81%CE%AF%CF%80%CE%BF%CE%BB%CE%B7%2C%20%CE%A7%CE%B1%CE%BB%CE%BA%CE%AF%CE%B4%CE%B1%2C%20%CE%A0%CE%AC%CF%84%CF%81%CE%B1%2C%20%CE%9B%CE%AC%CE%BC%CE%B9%CE%B1%2C%20%CE%9B%CE%B5%CE%B9%CE%B2%CE%B1%CE%B4%CE%B5%CE%B9%CE%AC%2C%20%CE%91%CE%AF%CE%B3%CE%B9%CE%BD%CE%B1%2C%20%CE%A0%CE%B5%CE%B9%CF%81%CE%B1%CE%B9%CE%AC%CF%82%2C%20%CE%9C%CE%AD%CE%B3%CE%B1%CF%81%CE%B1.\",\"excerpt\":\"\",\"featuredImage\":false}}; //# sourceURL=elementor-frontend-js-before var localize = {\"ajaxurl\":\"https://www.ypapanti.com/wp-admin/admin-ajax.php\",\"nonce\":\"247e951703\",\"i18n\":{\"added\":\"Added \",\"compare\":\"Compare\",\"loading\":\"Loading...\"},\"eael_translate_text\":{\"required_text\":\"is a required field\",\"invalid_text\":\"Invalid\",\"billing_text\":\"Billing\",\"shipping_text\":\"Shipping\",\"fg_mfp_counter_text\":\"of\"},\"page_permalink\":\"https://www.ypapanti.com/\",\"cart_redirectition\":\"\",\"cart_page_url\":\"\",\"el_breakpoints\":{\"mobile\":{\"label\":\"\\u039a\\u03b1\\u03c4\\u03b1\\u03ba\\u03cc\\u03c1\\u03c5\\u03c6\\u03b7 \\u039a\\u03b9\\u03bd\\u03b7\\u03c4\\u03ae \\u03a3\\u03c5\\u03c3\\u03ba\\u03b5\\u03c5\\u03ae\",\"value\":767,\"default_value\":767,\"direction\":\"max\",\"is_enabled\":true},\"mobile_extra\":{\"label\":\"\\u039f\\u03c1\\u03b9\\u03b6\\u03cc\\u03bd\\u03c4\\u03b9\\u03b1 \\u039a\\u03b9\\u03bd\\u03b7\\u03c4\\u03ae \\u03a3\\u03c5\\u03c3\\u03ba\\u03b5\\u03c5\\u03ae\",\"value\":880,\"default_value\":880,\"direction\":\"max\",\"is_enabled\":false},\"tablet\":{\"label\":\"Tablet Portrait\",\"value\":1024,\"default_value\":1024,\"direction\":\"max\",\"is_enabled\":true},\"tablet_extra\":{\"label\":\"Tablet Landscape\",\"value\":1200,\"default_value\":1200,\"direction\":\"max\",\"is_enabled\":false},\"laptop\":{\"label\":\"\\u03a6\\u03bf\\u03c1\\u03b7\\u03c4\\u03cc\\u03c2 \\u03c5\\u03c0\\u03bf\\u03bb\\u03bf\\u03b3\\u03b9\\u03c3\\u03c4\\u03ae\\u03c2\",\"value\":1366,\"default_value\":1366,\"direction\":\"max\",\"is_enabled\":false},\"widescreen\":{\"label\":\"Widescreen\",\"value\":2400,\"default_value\":2400,\"direction\":\"min\",\"is_enabled\":false}}}; //# sourceURL=eael-general-js-extra var element_pack_ajax_login_config = {\"ajaxurl\":\"https://www.ypapanti.com/wp-admin/admin-ajax.php\",\"language\":\"el\",\"loadingmessage\":\"Sending user info, please wait...\",\"unknownerror\":\"Unknown error, make sure access is correct!\"}; var ElementPackConfig = {\"ajaxurl\":\"https://www.ypapanti.com/wp-admin/admin-ajax.php\",\"nonce\":\"27f4e87e59\",\"data_table\":{\"language\":{\"lengthMenu\":\"Show _MENU_ Entries\",\"info\":\"Showing _START_ to _END_ of _TOTAL_ entries\",\"search\":\"Search :\",\"paginate\":{\"previous\":\"Previous\",\"next\":\"Next\"}}},\"contact_form\":{\"sending_msg\":\"Sending message please wait...\",\"captcha_nd\":\"Invisible captcha not defined!\",\"captcha_nr\":\"Could not get invisible captcha response!\"},\"mailchimp\":{\"subscribing\":\"Subscribing you please wait...\"},\"search\":{\"more_result\":\"More Results\",\"search_result\":\"SEARCH RESULT\",\"not_found\":\"not found\"},\"words_limit\":{\"read_more\":\"[read more]\",\"read_less\":\"[read less]\"},\"elements_data\":{\"sections\":[],\"columns\":[],\"widgets\":[]}}; //# sourceURL=bdt-uikit-js-extra var ElementorProFrontendConfig = {\"ajaxurl\":\"https:\\/\\/www.ypapanti.com\\/wp-admin\\/admin-ajax.php\",\"nonce\":\"63a7aa6a18\",\"urls\":{\"assets\":\"https:\\/\\/www.ypapanti.com\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/\",\"rest\":\"https:\\/\\/www.ypapanti.com\\/wp-json\\/\"},\"settings\":{\"lazy_load_background_images\":true},\"popup\":{\"hasPopUps\":false},\"shareButtonsNetworks\":{\"facebook\":{\"title\":\"Facebook\",\"has_counter\":true},\"twitter\":{\"title\":\"Twitter\"},\"linkedin\":{\"title\":\"LinkedIn\",\"has_counter\":true},\"pinterest\":{\"title\":\"Pinterest\",\"has_counter\":true},\"reddit\":{\"title\":\"Reddit\",\"has_counter\":true},\"vk\":{\"title\":\"VK\",\"has_counter\":true},\"odnoklassniki\":{\"title\":\"OK\",\"has_counter\":true},\"tumblr\":{\"title\":\"Tumblr\"},\"digg\":{\"title\":\"Digg\"},\"skype\":{\"title\":\"Skype\"},\"stumbleupon\":{\"title\":\"StumbleUpon\",\"has_counter\":true},\"mix\":{\"title\":\"Mix\"},\"telegram\":{\"title\":\"Telegram\"},\"pocket\":{\"title\":\"Pocket\",\"has_counter\":true},\"xing\":{\"title\":\"XING\",\"has_counter\":true},\"whatsapp\":{\"title\":\"WhatsApp\"},\"email\":{\"title\":\"Email\"},\"print\":{\"title\":\"Print\"},\"x-twitter\":{\"title\":\"X\"},\"threads\":{\"title\":\"Threads\"}},\"facebook_sdk\":{\"lang\":\"el\",\"app_id\":\"\"},\"lottie\":{\"defaultAnimationUrl\":\"https:\\/\\/www.ypapanti.com\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json\"}}; //# sourceURL=elementor-pro-frontend-js-before var ekit_config = {\"ajaxurl\":\"https://www.ypapanti.com/wp-admin/admin-ajax.php\",\"nonce\":\"8a51bf35a8\"}; //# sourceURL=elementskit-elementor-js-extra var HCaptchaMainObject = {\"params\":\"{\\\"sitekey\\\":\\\"533a0c0e-7ce7-4f19-86b8-b75e374f5eb7\\\",\\\"theme\\\":\\\"light\\\",\\\"size\\\":\\\"normal\\\",\\\"hl\\\":\\\"el\\\"}\"}; //# sourceURL=hcaptcha-js-extra {\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://www.ypapanti.com/wp-includes/js/wp-emoji-release.min.js?ver=3f42ddc33876eacc93686d8e191c09ed\"}} /*! This file is auto-generated */ const a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://www.ypapanti.com/wp-includes/js/wp-emoji-loader.min.js",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ypapanti.com-home-a17f54d0/homepage--a17f54d0.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ypapanti.com-home-a17f54d0/homepage--a17f54d0.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.ypapanti.com/wp-content/uploads/2023/04/imagetothetop-minn.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.ypapanti.com/",
+          "pageType": "homepage",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.ypapanti.com/",
+              "retrievedAt": "2026-03-31T13:17:14.379Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ypapanti.com/wp-content/uploads/elementor/thumbs/ypapanti-logo-q5dt0d0bcdr5jkf4nq3l9f1vqezfeb80e1dwvsshkw.png",
+          "alt": "ypapanti-logo",
+          "sourcePageUrl": "https://www.ypapanti.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/",
+              "retrievedAt": "2026-03-31T13:17:14.379Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ypapanti.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png",
+          "alt": "Αγγλικά",
+          "sourcePageUrl": "https://www.ypapanti.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/",
+              "retrievedAt": "2026-03-31T13:17:14.379Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ypapanti.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.png",
+          "alt": "Ελληνικά",
+          "sourcePageUrl": "https://www.ypapanti.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/",
+              "retrievedAt": "2026-03-31T13:17:14.379Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ypapanti.com/wp-content/uploads/2021/10/ypapanti-espa-2.jpg",
+          "sourcePageUrl": "https://www.ypapanti.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/",
+              "retrievedAt": "2026-03-31T13:17:14.379Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ypapanti.com/wp-content/uploads/2022/04/%CE%93%CE%9B%CE%91%CE%A5%CE%9A%CE%A9%CE%9C%CE%91.jpg",
+          "sourcePageUrl": "https://www.ypapanti.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/",
+              "retrievedAt": "2026-03-31T13:17:14.379Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ypapanti.com/wp-content/uploads/2021/03/eyes-5248678_1280.jpg",
+          "alt": "Καταρράκτης Ματιών Επέμβαση | Καταρράκτης ματιών επέμβαση Αθήνα | Καταρράκτης ματιών επέμβαση Λειβαδειά | Καταρράκτης ματιών επέμβαση Πάτρα |",
+          "sourcePageUrl": "https://www.ypapanti.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/",
+              "retrievedAt": "2026-03-31T13:17:14.379Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ypapanti.com/wp-content/uploads/elementor/thumbs/yp_logo_white-q4tq7o9al9e6ir1xhc3dfaja06puyiaq2x2kmmlips.png",
+          "alt": "yp_logo_white",
+          "sourcePageUrl": "https://www.ypapanti.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/",
+              "retrievedAt": "2026-03-31T13:17:14.379Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://www.ypapanti.com/",
+          "retrievedAt": "2026-03-31T13:17:14.381Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ypapanti.com-home-a17f54d0/homepage-page-a17f54d0.png"
+    },
+    "about": {
+      "pageType": "about",
+      "requestedUrl": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+      "finalUrl": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+      "fetchedAt": "2026-03-31T13:17:19.046Z",
+      "metadata": {
+        "title": "Άρθρα - Υπαπαντή",
+        "canonicalUrl": "https://www.ypapanti.com/%CE%B1%CF%81%CE%B8%CF%81%CE%B1/",
+        "language": "el",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Άρθρα - Υπαπαντή"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Άρθρα"
+        },
+        {
+          "level": "h3",
+          "text": "Μην αφήσετε το γλαύκωμα να σας στερήσει την όραση"
+        },
+        {
+          "level": "h3",
+          "text": "Καταρράκτης Ματιών: Πότε είναι απαραίτητη η επέμβαση"
+        },
+        {
+          "level": "h3",
+          "text": "Newsletter"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.ypapanti.com/"
+        },
+        {
+          "href": "https://www.ypapanti.com/poioi-eimaste/",
+          "label": "ΠΟΙΟΙ ΕΙΜΑΣΤΕ"
+        },
+        {
+          "href": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1/",
+          "label": "ΑΡΘΡΑ"
+        },
+        {
+          "href": "https://www.ypapanti.com/pathiseis/",
+          "label": "ΠΑΘΗΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/tmimata/",
+          "label": "ΤΜΗΜΑΤΑ"
+        },
+        {
+          "href": "https://www.ypapanti.com/diadikasia-epemvasis/",
+          "label": "ΔΙΑΔΙΚΑΣΙΑ ΕΠΕΜΒΑΣΗΣ LASER"
+        },
+        {
+          "href": "https://www.ypapanti.com/laser/",
+          "label": "ΕΠΕΜΒΑΣΕΙΣ LASER"
+        },
+        {
+          "href": "https://www.ypapanti.com/%ce%b4%ce%b9%ce%b1%ce%b8%ce%bb%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%ad%cf%82-%ce%b1%ce%bd%cf%89%ce%bc%ce%b1%ce%bb%ce%af%ce%b5%cf%82-%ce%bc%cf%85%cf%89%cf%80%ce%af%ce%b1-%cf%85%cf%80%ce%b5%cf%81%ce%bc/",
+          "label": "ΔΙΑΘΛΑΣΤΙΚΕΣ ΑΝΩΜΑΛΙΕΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/exoplismos/",
+          "label": "ΕΞΟΠΛΙΣΜΟΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/%ce%b5%ce%be%ce%b5%cf%84%ce%b1%cf%83%ce%b5%ce%b9%cf%83/",
+          "label": "ΕΞΕΤΑΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/paroxes-egkatastaseis/",
+          "label": "ΕΓΚΑΤΑΣΤΑΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/epikoinonia/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://www.ypapanti.com/sinergates/",
+          "label": "ΣΥΝΕΡΓΑΤΕΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/en/%ce%b1%cf%81%ce%b8%cf%81%ce%b1/"
+        },
+        {
+          "href": "https://www.ypapanti.com/%ce%bc%ce%b7%ce%bd-%ce%b1%cf%86%ce%ae%cf%83%ce%b5%cf%84%ce%b5-%cf%84%ce%bf-%ce%b3%ce%bb%ce%b1%cf%8d%ce%ba%cf%89%ce%bc%ce%b1-%ce%bd%ce%b1-%cf%83%ce%b1%cf%82-%cf%83%cf%84%ce%b5%cf%81%ce%ae%cf%83%ce%b5/"
+        },
+        {
+          "href": "https://www.ypapanti.com/%ce%ba%ce%b1%cf%84%ce%b1%cf%81%cf%81%ce%ac%ce%ba%cf%84%ce%b7%cf%82-%ce%bc%ce%b1%cf%84%ce%b9%cf%8e%ce%bd-%cf%80%cf%8c%cf%84%ce%b5-%ce%b5%ce%af%ce%bd%ce%b1%ce%b9-%ce%b1%cf%80%ce%b1%cf%81%ce%b1%ce%af/"
+        },
+        {
+          "href": "https://www.ypapanti.com/politiki-aporritou/",
+          "label": "Πολιτική Προστασίας Προσωπικών Δεδομένων"
+        },
+        {
+          "href": "https://www.ypapanti.com/cookies-policy/",
+          "label": "Χρήση Cookies"
+        },
+        {
+          "href": "https://www.ypapanti.com/oroi-xrisis/",
+          "label": "Όροι Χρήσης"
+        }
+      ],
+      "forms": [
+        {
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "post_id",
+            "form_id",
+            "referer_title",
+            "queried_id",
+            "form_fields[email]"
+          ],
+          "submitLabels": [
+            "Sign Up"
+          ],
+          "fields": [
+            {
+              "name": "post_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "form_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "referer_title",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "queried_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "form_fields[email]",
+              "type": "email",
+              "label": "Enter your email",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "14/04/2022",
+          "10/03/2021",
+          "210 330 1380",
+          "2024-08-02 09",
+          "+302103301380"
+        ],
+        "emails": [
+          "info@ypapanti.com"
+        ],
+        "addresses": [
+          "Newsletter Sign up our newsletter to get update information, news or article about medical. Enter your email Sign Up Επικοινωνία Σόλωνος 129, Αθήνα, 10677 info@ypapanti.com 210 330 1380 Social Media Facebook Youtube Πολιτική Προστασίας Προσωπικών Δεδομένων Χρήση Cookies Όροι Χρήσης Copyright © 2023 Υπαπαντή. All rights reserved | Designed & Developed with ♥ by JIT"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/ocypapanti/?fref=ts",
+            "label": "Facebook"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UCCTdhYlg_knWchajwogqUFw",
+            "label": "Youtube"
+          }
+        ],
+        "forms": [
+          {
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "post_id",
+              "form_id",
+              "referer_title",
+              "queried_id",
+              "form_fields[email]"
+            ],
+            "submitLabels": [
+              "Sign Up"
+            ],
+            "fields": [
+              {
+                "name": "post_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "form_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "referer_title",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "queried_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "form_fields[email]",
+                "type": "email",
+                "label": "Enter your email",
+                "required": true
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Newsletter Sign up our newsletter to get update information, news or article about medical. Enter your email Sign Up Επικοινωνία Σόλωνος 129, Αθήνα, 10677 info@ypapanti.com 210 330 1380 Social Media Facebook Youtube Πολιτική Προστασίας Προσωπικών Δεδομένων Χρήση Cookies Όροι Χρήσης Copyright © 2023 Υπαπαντή. All rights reserved | Designed & Developed with ♥ by JIT",
+      "textContent": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-NJC73J5\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Μετάβαση στο περιεχόμενο ΑΡΧΙΚΗ ΠΟΙΟΙ ΕΙΜΑΣΤΕ ΑΡΘΡΑ ΠΑΘΗΣΕΙΣ ΤΜΗΜΑΤΑ LASER ΔΙΑΔΙΚΑΣΙΑ ΕΠΕΜΒΑΣΗΣ LASER ΕΠΕΜΒΑΣΕΙΣ LASER ΔΙΑΘΛΑΣΤΙΚΕΣ ΑΝΩΜΑΛΙΕΣ ΔΙΑΓΝΩΣΤΙΚΟΣ ΕΛΕΓΧΟΣ ΕΞΟΠΛΙΣΜΟΣ ΕΞΕΤΑΣΕΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΕΠΙΚΟΙΝΩΝΙΑ ΣΥΝΕΡΓΑΤΕΣ ΑΡΧΙΚΗ ΠΟΙΟΙ ΕΙΜΑΣΤΕ ΑΡΘΡΑ ΠΑΘΗΣΕΙΣ ΤΜΗΜΑΤΑ LASER ΔΙΑΔΙΚΑΣΙΑ ΕΠΕΜΒΑΣΗΣ LASER ΕΠΕΜΒΑΣΕΙΣ LASER ΔΙΑΘΛΑΣΤΙΚΕΣ ΑΝΩΜΑΛΙΕΣ ΔΙΑΓΝΩΣΤΙΚΟΣ ΕΛΕΓΧΟΣ ΕΞΟΠΛΙΣΜΟΣ ΕΞΕΤΑΣΕΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΕΠΙΚΟΙΝΩΝΙΑ ΣΥΝΕΡΓΑΤΕΣ Άρθρα Μην αφήσετε το γλαύκωμα να σας στερήσει την όραση Το γλαύκωμα θεωρείται «κλέφτης» της όρασης γιατί εξελίσσεται σιωπηλά, χωρίς να δίνει προειδοποιητικά συμπτώματα. Για να ευαισθητοποιήσει τον κόσμο σχετικά με αυτήν τη νόσο που 14/04/2022 Καταρράκτης Ματιών: Πότε είναι απαραίτητη η επέμβαση Ο καταρράκτης ματιών είναι μια οφθαλμική πάθηση η οποία προκαλείται από φθορά στο φακό του ματιού. Μπορεί να οφείλεται σε τραυματισμό στην περιοχή των ματιών 10/03/2021 Newsletter Sign up our newsletter to get update information, news or article about medical. Enter your email Sign Up Επικοινωνία Σόλωνος 129, Αθήνα, 10677 info@ypapanti.com 210 330 1380 Social Media Facebook Youtube Πολιτική Προστασίας Προσωπικών Δεδομένων Χρήση Cookies Όροι Χρήσης Copyright © 2023 Υπαπαντή. All rights reserved | Designed & Developed with ♥ by JIT {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/hello-theme-child/*\",\"/wp-content/themes/hello-elementor/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} const lazyloadRunObserver = () => { const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` ); const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => { entries.forEach( ( entry ) => { if ( entry.isIntersecting ) { let lazyloadBackground = entry.target; if( lazyloadBackground ) { lazyloadBackground.classList.add( 'e-lazyloaded' ); } lazyloadBackgroundObserver.unobserve( entry.target ); } }); }, { rootMargin: '200px 0px 200px 0px' } ); lazyloadBackgrounds.forEach( ( lazyloadBackground ) => { lazyloadBackgroundObserver.observe( lazyloadBackground ); } ); }; const events = [ 'DOMContentLoaded', 'elementor/lazyload/observe', ]; events.forEach( ( event ) => { document.addEventListener( event, lazyloadRunObserver ); } ); wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); //# sourceURL=wp-i18n-js-after ( function( domain, translations ) { var localeData = translations.locale_data[ domain ] || translations.locale_data.messages; localeData[\"\"].domain = domain; wp.i18n.setLocaleData( localeData, domain ); } )( \"contact-form-7\", {\"translation-revision-date\":\"2024-08-02 09:16:28+0000\",\"generator\":\"GlotPress\\/4.0.1\",\"domain\":\"messages\",\"locale_data\":{\"messages\":{\"\":{\"domain\":\"messages\",\"plural-forms\":\"nplurals=2; plural=n != 1;\",\"lang\":\"el_GR\"},\"This contact form is placed in the wrong place.\":[\"\\u0397 \\u03c6\\u03cc\\u03c1\\u03bc\\u03b1 \\u03b5\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03af\\u03b1\\u03c2 \\u03b5\\u03af\\u03bd\\u03b1\\u03b9 \\u03c3\\u03b5 \\u03bb\\u03ac\\u03b8\\u03bf\\u03c2 \\u03b8\\u03ad\\u03c3\\u03b7.\"],\"Error:\":[\"\\u03a3\\u03c6\\u03ac\\u03bb\\u03bc\\u03b1:\"]}},\"comment\":{\"reference\":\"includes\\/js\\/index.js\"}} ); //# sourceURL=contact-form-7-js-translations var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.ypapanti.com\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; //# sourceURL=contact-form-7-js-before var PremiumSettings = {\"ajaxurl\":\"https://www.ypapanti.com/wp-admin/admin-ajax.php\",\"nonce\":\"66bc22a6fd\"}; var EAELImageMaskingConfig = {\"svg_dir_url\":\"https://www.ypapanti.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/img/image-masking/svg-shapes/\"}; //# sourceURL=elementor-frontend-js-extra var elementorFrontendConfig = {\"environmentMode\":{\"edit\":false,\"wpPreview\":false,\"isScriptDebug\":false},\"i18n\":{\"shareOnFacebook\":\"M\\u03bf\\u03b9\\u03c1\\u03b1\\u03c3\\u03c4\\u03b5\\u03af\\u03c4\\u03b5 \\u03c3\\u03c4\\u03bf Facebook\",\"shareOnTwitter\":\"\\u039c\\u03bf\\u03b9\\u03c1\\u03b1\\u03c3\\u03c4\\u03b5\\u03af\\u03c4\\u03b5 \\u03c3\\u03c4\\u03bf Twitter\",\"pinIt\":\"\\u039a\\u03b1\\u03c1\\u03c6\\u03af\\u03c4\\u03c3\\u03c9\\u03bc\\u03b1\",\"download\":\"\\u039b\\u03ae\\u03c8\\u03b7\",\"downloadImage\":\"\\u039a\\u03b1\\u03c4\\u03ad\\u03b2\\u03b1\\u03c3\\u03bc\\u03b1 \\u03b5\\u03b9\\u03ba\\u03cc\\u03bd\\u03b1\\u03c2\",\"fullscreen\":\"\\u03a0\\u03bb\\u03ae\\u03c1\\u03b7\\u03c2 \\u03bf\\u03b8\\u03cc\\u03bd\\u03b7\",\"zoom\":\"\\u039c\\u03b5\\u03b3\\u03ad\\u03bd\\u03b8\\u03c5\\u03bd\\u03c3\\u03b7\",\"share\":\"\\u039a\\u03bf\\u03b9\\u03bd\\u03ae \\u03c7\\u03c1\\u03ae\\u03c3\\u03b7\",\"playVideo\":\"\\u0391\\u03bd\\u03b1\\u03c0\\u03b1\\u03c1\\u03b1\\u03b3\\u03c9\\u03b3\\u03ae \\u0392\\u03af\\u03bd\\u03c4\\u03b5\\u03bf\",\"previous\":\"\\u03a0\\u03c1\\u03bf\\u03b7\\u03b3\\u03bf\\u03cd\\u03bc\\u03b5\\u03bd\\u03bf\",\"next\":\"\\u0395\\u03c0\\u03cc\\u03bc\\u03b5\\u03bd\\u03bf\",\"close\":\"\\u039a\\u03bb\\u03b5\\u03af\\u03c3\\u03b9\\u03bc\\u03bf\",\"a11yCarouselPrevSlideMessage\":\"Previous slide\",\"a11yCarouselNextSlideMessage\":\"Next slide\",\"a11yCarouselFirstSlideMessage\":\"This is the first slide\",\"a11yCarouselLastSlideMessage\":\"This is the last slide\",\"a11yCarouselPaginationBulletMessage\":\"Go to slide\"},\"is_rtl\":false,\"breakpoints\":{\"xs\":0,\"sm\":480,\"md\":768,\"lg\":1025,\"xl\":1440,\"xxl\":1600},\"responsive\":{\"breakpoints\":{\"mobile\":{\"label\":\"\\u039a\\u03b1\\u03c4\\u03b1\\u03ba\\u03cc\\u03c1\\u03c5\\u03c6\\u03b7 \\u039a\\u03b9\\u03bd\\u03b7\\u03c4\\u03ae \\u03a3\\u03c5\\u03c3\\u03ba\\u03b5\\u03c5\\u03ae\",\"value\":767,\"default_value\":767,\"direction\":\"max\",\"is_enabled\":true},\"mobile_extra\":{\"label\":\"\\u039f\\u03c1\\u03b9\\u03b6\\u03cc\\u03bd\\u03c4\\u03b9\\u03b1 \\u039a\\u03b9\\u03bd\\u03b7\\u03c4\\u03ae \\u03a3\\u03c5\\u03c3\\u03ba\\u03b5\\u03c5\\u03ae\",\"value\":880,\"default_value\":880,\"direction\":\"max\",\"is_enabled\":false},\"tablet\":{\"label\":\"Tablet Portrait\",\"value\":1024,\"default_value\":1024,\"direction\":\"max\",\"is_enabled\":true},\"tablet_extra\":{\"label\":\"Tablet Landscape\",\"value\":1200,\"default_value\":1200,\"direction\":\"max\",\"is_enabled\":false},\"laptop\":{\"label\":\"\\u03a6\\u03bf\\u03c1\\u03b7\\u03c4\\u03cc\\u03c2 \\u03c5\\u03c0\\u03bf\\u03bb\\u03bf\\u03b3\\u03b9\\u03c3\\u03c4\\u03ae\\u03c2\",\"value\":1366,\"default_value\":1366,\"direction\":\"max\",\"is_enabled\":false},\"widescreen\":{\"label\":\"Widescreen\",\"value\":2400,\"default_value\":2400,\"direction\":\"min\",\"is_enabled\":false}},\"hasCustomBreakpoints\":false},\"version\":\"3.35.9\",\"is_static\":false,\"experimentalFeatures\":{\"additional_custom_breakpoints\":true,\"theme_builder_v2\":true,\"hello-theme-header-footer\":true,\"home_screen\":true,\"global_classes_should_enforce_capabilities\":true,\"e_variables\":true,\"cloud-library\":true,\"e_opt_in_v4_page\":true,\"e_components\":true,\"e_interactions\":true,\"e_editor_one\":true,\"import-export-customization\":true,\"e_pro_variables\":true},\"urls\":{\"assets\":\"https:\\/\\/www.ypapanti.com\\/wp-content\\/plugins\\/elementor\\/assets\\/\",\"ajaxurl\":\"https:\\/\\/www.ypapanti.com\\/wp-admin\\/admin-ajax.php\",\"uploadUrl\":\"https:\\/\\/www.ypapanti.com\\/wp-content\\/uploads\"},\"nonces\":{\"floatingButtonsClickTracking\":\"d844ff8f46\"},\"swiperClass\":\"swiper\",\"settings\":{\"page\":[],\"editorPreferences\":[]},\"kit\":{\"hello_header_logo_type\":\"logo\",\"active_breakpoints\":[\"viewport_mobile\",\"viewport_tablet\"],\"global_image_lightbox\":\"yes\",\"lightbox_enable_counter\":\"yes\",\"lightbox_enable_fullscreen\":\"yes\",\"lightbox_enable_zoom\":\"yes\",\"lightbox_enable_share\":\"yes\",\"lightbox_title_src\":\"title\",\"lightbox_description_src\":\"description\",\"hello_header_menu_layout\":\"horizontal\",\"hello_footer_logo_type\":\"logo\"},\"post\":{\"id\":1035,\"title\":\"%CE%86%CF%81%CE%B8%CF%81%CE%B1%20-%20%CE%A5%CF%80%CE%B1%CF%80%CE%B1%CE%BD%CF%84%CE%AE\",\"excerpt\":\"\",\"featuredImage\":false}}; //# sourceURL=elementor-frontend-js-before var localize = {\"ajaxurl\":\"https://www.ypapanti.com/wp-admin/admin-ajax.php\",\"nonce\":\"247e951703\",\"i18n\":{\"added\":\"Added \",\"compare\":\"Compare\",\"loading\":\"Loading...\"},\"eael_translate_text\":{\"required_text\":\"is a required field\",\"invalid_text\":\"Invalid\",\"billing_text\":\"Billing\",\"shipping_text\":\"Shipping\",\"fg_mfp_counter_text\":\"of\"},\"page_permalink\":\"https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1/\",\"cart_redirectition\":\"\",\"cart_page_url\":\"\",\"el_breakpoints\":{\"mobile\":{\"label\":\"\\u039a\\u03b1\\u03c4\\u03b1\\u03ba\\u03cc\\u03c1\\u03c5\\u03c6\\u03b7 \\u039a\\u03b9\\u03bd\\u03b7\\u03c4\\u03ae \\u03a3\\u03c5\\u03c3\\u03ba\\u03b5\\u03c5\\u03ae\",\"value\":767,\"default_value\":767,\"direction\":\"max\",\"is_enabled\":true},\"mobile_extra\":{\"label\":\"\\u039f\\u03c1\\u03b9\\u03b6\\u03cc\\u03bd\\u03c4\\u03b9\\u03b1 \\u039a\\u03b9\\u03bd\\u03b7\\u03c4\\u03ae \\u03a3\\u03c5\\u03c3\\u03ba\\u03b5\\u03c5\\u03ae\",\"value\":880,\"default_value\":880,\"direction\":\"max\",\"is_enabled\":false},\"tablet\":{\"label\":\"Tablet Portrait\",\"value\":1024,\"default_value\":1024,\"direction\":\"max\",\"is_enabled\":true},\"tablet_extra\":{\"label\":\"Tablet Landscape\",\"value\":1200,\"default_value\":1200,\"direction\":\"max\",\"is_enabled\":false},\"laptop\":{\"label\":\"\\u03a6\\u03bf\\u03c1\\u03b7\\u03c4\\u03cc\\u03c2 \\u03c5\\u03c0\\u03bf\\u03bb\\u03bf\\u03b3\\u03b9\\u03c3\\u03c4\\u03ae\\u03c2\",\"value\":1366,\"default_value\":1366,\"direction\":\"max\",\"is_enabled\":false},\"widescreen\":{\"label\":\"Widescreen\",\"value\":2400,\"default_value\":2400,\"direction\":\"min\",\"is_enabled\":false}}}; //# sourceURL=eael-general-js-extra var element_pack_ajax_login_config = {\"ajaxurl\":\"https://www.ypapanti.com/wp-admin/admin-ajax.php\",\"language\":\"el\",\"loadingmessage\":\"Sending user info, please wait...\",\"unknownerror\":\"Unknown error, make sure access is correct!\"}; var ElementPackConfig = {\"ajaxurl\":\"https://www.ypapanti.com/wp-admin/admin-ajax.php\",\"nonce\":\"27f4e87e59\",\"data_table\":{\"language\":{\"lengthMenu\":\"Show _MENU_ Entries\",\"info\":\"Showing _START_ to _END_ of _TOTAL_ entries\",\"search\":\"Search :\",\"paginate\":{\"previous\":\"Previous\",\"next\":\"Next\"}}},\"contact_form\":{\"sending_msg\":\"Sending message please wait...\",\"captcha_nd\":\"Invisible captcha not defined!\",\"captcha_nr\":\"Could not get invisible captcha response!\"},\"mailchimp\":{\"subscribing\":\"Subscribing you please wait...\"},\"search\":{\"more_result\":\"More Results\",\"search_result\":\"SEARCH RESULT\",\"not_found\":\"not found\"},\"words_limit\":{\"read_more\":\"[read more]\",\"read_less\":\"[read less]\"},\"elements_data\":{\"sections\":[],\"columns\":[],\"widgets\":[]}}; //# sourceURL=bdt-uikit-js-extra var ElementorProFrontendConfig = {\"ajaxurl\":\"https:\\/\\/www.ypapanti.com\\/wp-admin\\/admin-ajax.php\",\"nonce\":\"63a7aa6a18\",\"urls\":{\"assets\":\"https:\\/\\/www.ypapanti.com\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/\",\"rest\":\"https:\\/\\/www.ypapanti.com\\/wp-json\\/\"},\"settings\":{\"lazy_load_background_images\":true},\"popup\":{\"hasPopUps\":false},\"shareButtonsNetworks\":{\"facebook\":{\"title\":\"Facebook\",\"has_counter\":true},\"twitter\":{\"title\":\"Twitter\"},\"linkedin\":{\"title\":\"LinkedIn\",\"has_counter\":true},\"pinterest\":{\"title\":\"Pinterest\",\"has_counter\":true},\"reddit\":{\"title\":\"Reddit\",\"has_counter\":true},\"vk\":{\"title\":\"VK\",\"has_counter\":true},\"odnoklassniki\":{\"title\":\"OK\",\"has_counter\":true},\"tumblr\":{\"title\":\"Tumblr\"},\"digg\":{\"title\":\"Digg\"},\"skype\":{\"title\":\"Skype\"},\"stumbleupon\":{\"title\":\"StumbleUpon\",\"has_counter\":true},\"mix\":{\"title\":\"Mix\"},\"telegram\":{\"title\":\"Telegram\"},\"pocket\":{\"title\":\"Pocket\",\"has_counter\":true},\"xing\":{\"title\":\"XING\",\"has_counter\":true},\"whatsapp\":{\"title\":\"WhatsApp\"},\"email\":{\"title\":\"Email\"},\"print\":{\"title\":\"Print\"},\"x-twitter\":{\"title\":\"X\"},\"threads\":{\"title\":\"Threads\"}},\"facebook_sdk\":{\"lang\":\"el\",\"app_id\":\"\"},\"lottie\":{\"defaultAnimationUrl\":\"https:\\/\\/www.ypapanti.com\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json\"}}; //# sourceURL=elementor-pro-frontend-js-before var ekit_config = {\"ajaxurl\":\"https://www.ypapanti.com/wp-admin/admin-ajax.php\",\"nonce\":\"8a51bf35a8\"}; //# sourceURL=elementskit-elementor-js-extra {\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://www.ypapanti.com/wp-includes/js/wp-emoji-release.min.js?ver=3f42ddc33876eacc93686d8e191c09ed\"}} /*! This file is auto-generated */ const a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://www.ypapanti.com/wp-includes/js/wp-emoji-loader.min.js",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ypapanti.com-home-a17f54d0/about-ce-b1-cf-81-ce-b8-cf-81-ce-b1-b90f63b6.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ypapanti.com-home-a17f54d0/about-ce-b1-cf-81-ce-b8-cf-81-ce-b1-b90f63b6.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.ypapanti.com/wp-content/uploads/elementor/thumbs/ypapanti-logo-q5dt0d0bcdr5jkf4nq3l9f1vqezfeb80e1dwvsshkw.png",
+          "alt": "ypapanti-logo",
+          "sourcePageUrl": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+              "retrievedAt": "2026-03-31T13:17:19.042Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ypapanti.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png",
+          "alt": "Αγγλικά",
+          "sourcePageUrl": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+              "retrievedAt": "2026-03-31T13:17:19.042Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ypapanti.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.png",
+          "alt": "Ελληνικά",
+          "sourcePageUrl": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+              "retrievedAt": "2026-03-31T13:17:19.042Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ypapanti.com/wp-content/uploads/2021/10/ypapanti-espa-2.jpg",
+          "sourcePageUrl": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+              "retrievedAt": "2026-03-31T13:17:19.042Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ypapanti.com/wp-content/uploads/2022/04/%CE%93%CE%9B%CE%91%CE%A5%CE%9A%CE%A9%CE%9C%CE%91-300x200.jpg",
+          "sourcePageUrl": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+              "retrievedAt": "2026-03-31T13:17:19.042Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ypapanti.com/wp-content/uploads/2021/03/eyes-5248678_1280-300x200.jpg",
+          "alt": "Καταρράκτης Ματιών Επέμβαση | Καταρράκτης ματιών επέμβαση Αθήνα | Καταρράκτης ματιών επέμβαση Λειβαδειά | Καταρράκτης ματιών επέμβαση Πάτρα |",
+          "sourcePageUrl": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+              "retrievedAt": "2026-03-31T13:17:19.042Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ypapanti.com/wp-content/uploads/elementor/thumbs/yp_logo_white-q4tq7o9al9e6ir1xhc3dfaja06puyiaq2x2kmmlips.png",
+          "alt": "yp_logo_white",
+          "sourcePageUrl": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+              "retrievedAt": "2026-03-31T13:17:19.042Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page fetch",
+          "uri": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+          "retrievedAt": "2026-03-31T13:17:19.046Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://www.ypapanti.com/epikoinonia",
+      "finalUrl": "https://www.ypapanti.com/epikoinonia",
+      "fetchedAt": "2026-03-31T13:17:16.256Z",
+      "metadata": {
+        "title": "Laser ματιών- μυωπίας και Καταρράκτη ματιών επέμβαση στην Αθήνα, Κόρινθο, Ναύπλιο, Τρίπολη, Χαλκίδα, Πάτρα, Λάμια, Λειβαδειά, Αίγινα, Πειραιάς, Μέγαρα.",
+        "metaDescription": "Οι εξειδικευμένοι Οφθαλμίατροι της Κλινικής μας εφαρμόζουν τις πλέον σύγχρονες θεραπευτικές μεθόδους.- Οριστική Θεραπεία - Γρήγορη Ανάρρωση.",
+        "canonicalUrl": "https://www.ypapanti.com/epikoinonia/",
+        "language": "el",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Laser ματιών- μυωπίας και Καταρράκτη ματιών επέμβαση στην Αθήνα, Κόρινθο, Ναύπλιο, Τρίπολη, Χαλκίδα, Πάτρα, Λάμια, Λειβαδειά, Αίγινα, Πειραιάς, Μέγαρα.",
+        "openGraphDescription": "Οι εξειδικευμένοι Οφθαλμίατροι της Κλινικής μας εφαρμόζουν τις πλέον σύγχρονες θεραπευτικές μεθόδους.- Οριστική Θεραπεία - Γρήγορη Ανάρρωση."
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Επικοινωνία"
+        },
+        {
+          "level": "h2",
+          "text": "Στείλτε μας μήνυμα"
+        },
+        {
+          "level": "h3",
+          "text": "Newsletter"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.ypapanti.com/"
+        },
+        {
+          "href": "https://www.ypapanti.com/poioi-eimaste/",
+          "label": "ΠΟΙΟΙ ΕΙΜΑΣΤΕ"
+        },
+        {
+          "href": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1/",
+          "label": "ΑΡΘΡΑ"
+        },
+        {
+          "href": "https://www.ypapanti.com/pathiseis/",
+          "label": "ΠΑΘΗΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/tmimata/",
+          "label": "ΤΜΗΜΑΤΑ"
+        },
+        {
+          "href": "https://www.ypapanti.com/diadikasia-epemvasis/",
+          "label": "ΔΙΑΔΙΚΑΣΙΑ ΕΠΕΜΒΑΣΗΣ LASER"
+        },
+        {
+          "href": "https://www.ypapanti.com/laser/",
+          "label": "ΕΠΕΜΒΑΣΕΙΣ LASER"
+        },
+        {
+          "href": "https://www.ypapanti.com/%ce%b4%ce%b9%ce%b1%ce%b8%ce%bb%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%ad%cf%82-%ce%b1%ce%bd%cf%89%ce%bc%ce%b1%ce%bb%ce%af%ce%b5%cf%82-%ce%bc%cf%85%cf%89%cf%80%ce%af%ce%b1-%cf%85%cf%80%ce%b5%cf%81%ce%bc/",
+          "label": "ΔΙΑΘΛΑΣΤΙΚΕΣ ΑΝΩΜΑΛΙΕΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/exoplismos/",
+          "label": "ΕΞΟΠΛΙΣΜΟΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/%ce%b5%ce%be%ce%b5%cf%84%ce%b1%cf%83%ce%b5%ce%b9%cf%83/",
+          "label": "ΕΞΕΤΑΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/paroxes-egkatastaseis/",
+          "label": "ΕΓΚΑΤΑΣΤΑΣΕΙΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/epikoinonia/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://www.ypapanti.com/sinergates/",
+          "label": "ΣΥΝΕΡΓΑΤΕΣ"
+        },
+        {
+          "href": "https://www.ypapanti.com/en/epikoinonia/"
+        },
+        {
+          "href": "https://www.ypapanti.com/politiki-aporritou",
+          "label": "Πολιτική Απορρήτου"
+        },
+        {
+          "href": "https://www.ypapanti.com/oroi-xrisis",
+          "label": "Όρους Χρήσης"
+        },
+        {
+          "href": "https://www.ypapanti.com/politiki-aporritou/",
+          "label": "Πολιτική Προστασίας Προσωπικών Δεδομένων"
+        },
+        {
+          "href": "https://www.ypapanti.com/cookies-policy/",
+          "label": "Χρήση Cookies"
+        },
+        {
+          "href": "https://www.ypapanti.com/oroi-xrisis/",
+          "label": "Όροι Χρήσης"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.ypapanti.com/epikoinonia/#wpcf7-f330-p68-o1",
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "_wpcf7",
+            "_wpcf7_version",
+            "_wpcf7_locale",
+            "_wpcf7_unit_tag",
+            "_wpcf7_container_post",
+            "_wpcf7_posted_data_hash",
+            "your-name",
+            "your-email",
+            "your-subject",
+            "your-message",
+            "acceptance-963",
+            "hcaptcha-widget-id",
+            "_wpnonce",
+            "_wp_http_referer",
+            "submit"
+          ],
+          "submitLabels": [
+            "Υποβολή"
+          ],
+          "fields": [
+            {
+              "name": "_wpcf7",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_version",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_locale",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_unit_tag",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_container_post",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_posted_data_hash",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "type": "email",
+              "required": true
+            },
+            {
+              "name": "your-subject",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-message",
+              "type": "textarea",
+              "required": false
+            },
+            {
+              "name": "acceptance-963",
+              "type": "checkbox",
+              "required": false
+            },
+            {
+              "name": "hcaptcha-widget-id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpnonce",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wp_http_referer",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        },
+        {
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "post_id",
+            "form_id",
+            "referer_title",
+            "queried_id",
+            "form_fields[email]"
+          ],
+          "submitLabels": [
+            "Sign Up"
+          ],
+          "fields": [
+            {
+              "name": "post_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "form_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "referer_title",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "queried_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "form_fields[email]",
+              "type": "email",
+              "label": "Enter your email",
+              "required": true
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "210 330 1380",
+          "2024-08-02 09",
+          "+302103301380"
+        ],
+        "emails": [
+          "info@ypapanti.com"
+        ],
+        "addresses": [
+          "Newsletter Sign up our newsletter to get update information, news or article about medical. Enter your email Sign Up Επικοινωνία Σόλωνος 129, Αθήνα, 10677 info@ypapanti.com 210 330 1380 Social Media Facebook Youtube Πολιτική Προστασίας Προσωπικών Δεδομένων Χρήση Cookies Όροι Χρήσης Copyright © 2023 Υπαπαντή. All rights reserved | Designed & Developed with ♥ by JIT"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/ocypapanti/?fref=ts",
+            "label": "Facebook"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UCCTdhYlg_knWchajwogqUFw",
+            "label": "Youtube"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.ypapanti.com/epikoinonia/#wpcf7-f330-p68-o1",
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "_wpcf7",
+              "_wpcf7_version",
+              "_wpcf7_locale",
+              "_wpcf7_unit_tag",
+              "_wpcf7_container_post",
+              "_wpcf7_posted_data_hash",
+              "your-name",
+              "your-email",
+              "your-subject",
+              "your-message",
+              "acceptance-963",
+              "hcaptcha-widget-id",
+              "_wpnonce",
+              "_wp_http_referer",
+              "submit"
+            ],
+            "submitLabels": [
+              "Υποβολή"
+            ],
+            "fields": [
+              {
+                "name": "_wpcf7",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_version",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_locale",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_unit_tag",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_container_post",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_posted_data_hash",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "your-name",
+                "type": "text",
+                "required": true
+              },
+              {
+                "name": "your-email",
+                "type": "email",
+                "required": true
+              },
+              {
+                "name": "your-subject",
+                "type": "text",
+                "required": true
+              },
+              {
+                "name": "your-message",
+                "type": "textarea",
+                "required": false
+              },
+              {
+                "name": "acceptance-963",
+                "type": "checkbox",
+                "required": false
+              },
+              {
+                "name": "hcaptcha-widget-id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpnonce",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wp_http_referer",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          },
+          {
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "post_id",
+              "form_id",
+              "referer_title",
+              "queried_id",
+              "form_fields[email]"
+            ],
+            "submitLabels": [
+              "Sign Up"
+            ],
+            "fields": [
+              {
+                "name": "post_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "form_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "referer_title",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "queried_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "form_fields[email]",
+                "type": "email",
+                "label": "Enter your email",
+                "required": true
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Newsletter Sign up our newsletter to get update information, news or article about medical. Enter your email Sign Up Επικοινωνία Σόλωνος 129, Αθήνα, 10677 info@ypapanti.com 210 330 1380 Social Media Facebook Youtube Πολιτική Προστασίας Προσωπικών Δεδομένων Χρήση Cookies Όροι Χρήσης Copyright © 2023 Υπαπαντή. All rights reserved | Designed & Developed with ♥ by JIT",
+      "textContent": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-NJC73J5\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Μετάβαση στο περιεχόμενο ΑΡΧΙΚΗ ΠΟΙΟΙ ΕΙΜΑΣΤΕ ΑΡΘΡΑ ΠΑΘΗΣΕΙΣ ΤΜΗΜΑΤΑ LASER ΔΙΑΔΙΚΑΣΙΑ ΕΠΕΜΒΑΣΗΣ LASER ΕΠΕΜΒΑΣΕΙΣ LASER ΔΙΑΘΛΑΣΤΙΚΕΣ ΑΝΩΜΑΛΙΕΣ ΔΙΑΓΝΩΣΤΙΚΟΣ ΕΛΕΓΧΟΣ ΕΞΟΠΛΙΣΜΟΣ ΕΞΕΤΑΣΕΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΕΠΙΚΟΙΝΩΝΙΑ ΣΥΝΕΡΓΑΤΕΣ ΑΡΧΙΚΗ ΠΟΙΟΙ ΕΙΜΑΣΤΕ ΑΡΘΡΑ ΠΑΘΗΣΕΙΣ ΤΜΗΜΑΤΑ LASER ΔΙΑΔΙΚΑΣΙΑ ΕΠΕΜΒΑΣΗΣ LASER ΕΠΕΜΒΑΣΕΙΣ LASER ΔΙΑΘΛΑΣΤΙΚΕΣ ΑΝΩΜΑΛΙΕΣ ΔΙΑΓΝΩΣΤΙΚΟΣ ΕΛΕΓΧΟΣ ΕΞΟΠΛΙΣΜΟΣ ΕΞΕΤΑΣΕΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΕΠΙΚΟΙΝΩΝΙΑ ΣΥΝΕΡΓΑΤΕΣ Επικοινωνία ΔΙΕΥΘΥΝΣΗ Σόλωνος 129, Αθήνα, 10677 EMAIL info@ypapanti.com ΤΗΛΕΦΩΝΟ 210 330 1380 Στείλτε μας μήνυμα Ονοματεπώνυμο * E-mail * Θέμα * Μήνυμα Αποδέχομαι την Πολιτική Απορρήτου και τους Όρους Χρήσης Newsletter Sign up our newsletter to get update information, news or article about medical. Enter your email Sign Up Επικοινωνία Σόλωνος 129, Αθήνα, 10677 info@ypapanti.com 210 330 1380 Social Media Facebook Youtube Πολιτική Προστασίας Προσωπικών Δεδομένων Χρήση Cookies Όροι Χρήσης Copyright © 2023 Υπαπαντή. All rights reserved | Designed & Developed with ♥ by JIT {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/hello-theme-child/*\",\"/wp-content/themes/hello-elementor/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} const lazyloadRunObserver = () => { const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` ); const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => { entries.forEach( ( entry ) => { if ( entry.isIntersecting ) { let lazyloadBackground = entry.target; if( lazyloadBackground ) { lazyloadBackground.classList.add( 'e-lazyloaded' ); } lazyloadBackgroundObserver.unobserve( entry.target ); } }); }, { rootMargin: '200px 0px 200px 0px' } ); lazyloadBackgrounds.forEach( ( lazyloadBackground ) => { lazyloadBackgroundObserver.observe( lazyloadBackground ); } ); }; const events = [ 'DOMContentLoaded', 'elementor/lazyload/observe', ]; events.forEach( ( event ) => { document.addEventListener( event, lazyloadRunObserver ); } ); (()=>{'use strict';let loaded=!1,scrolled=!1,timerId;function load(){if(loaded){return} loaded=!0;clearTimeout(timerId);window.removeEventListener('touchstart',load);document.body.removeEventListener('mouseenter',load);document.body.removeEventListener('click',load);window.removeEventListener('keydown',load);window.removeEventListener('scroll',scrollHandler);const t=document.getElementsByTagName('script')[0];const s=document.createElement('script');s.type='text/javascript';s.id='hcaptcha-api';s.src='https://js.hcaptcha.com/1/api.js?onload=hCaptchaOnLoad&render=explicit';s.async=!0;t.parentNode.insertBefore(s,t)} function scrollHandler(){if(!scrolled){scrolled=!0;return} load()} document.addEventListener('hCaptchaBeforeAPI',function(){const delay=-100;if(delay>=0){timerId=setTimeout(load,delay)} const options={passive:!0};window.addEventListener('touchstart',load,options);document.body.addEventListener('mouseenter',load);document.body.addEventListener('click',load);window.addEventListener('keydown',load);window.addEventListener('scroll',scrollHandler,options)})})() wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); //# sourceURL=wp-i18n-js-after ( function( domain, translations ) { var localeData = translations.locale_data[ domain ] || translations.locale_data.messages; localeData[\"\"].domain = domain; wp.i18n.setLocaleData( localeData, domain ); } )( \"contact-form-7\", {\"translation-revision-date\":\"2024-08-02 09:16:28+0000\",\"generator\":\"GlotPress\\/4.0.1\",\"domain\":\"messages\",\"locale_data\":{\"messages\":{\"\":{\"domain\":\"messages\",\"plural-forms\":\"nplurals=2; plural=n != 1;\",\"lang\":\"el_GR\"},\"This contact form is placed in the wrong place.\":[\"\\u0397 \\u03c6\\u03cc\\u03c1\\u03bc\\u03b1 \\u03b5\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03af\\u03b1\\u03c2 \\u03b5\\u03af\\u03bd\\u03b1\\u03b9 \\u03c3\\u03b5 \\u03bb\\u03ac\\u03b8\\u03bf\\u03c2 \\u03b8\\u03ad\\u03c3\\u03b7.\"],\"Error:\":[\"\\u03a3\\u03c6\\u03ac\\u03bb\\u03bc\\u03b1:\"]}},\"comment\":{\"reference\":\"includes\\/js\\/index.js\"}} ); //# sourceURL=contact-form-7-js-translations var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.ypapanti.com\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; //# sourceURL=contact-form-7-js-before var PremiumSettings = {\"ajaxurl\":\"https://www.ypapanti.com/wp-admin/admin-ajax.php\",\"nonce\":\"66bc22a6fd\"}; var EAELImageMaskingConfig = {\"svg_dir_url\":\"https://www.ypapanti.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/img/image-masking/svg-shapes/\"}; //# sourceURL=elementor-frontend-js-extra var elementorFrontendConfig = {\"environmentMode\":{\"edit\":false,\"wpPreview\":false,\"isScriptDebug\":false},\"i18n\":{\"shareOnFacebook\":\"M\\u03bf\\u03b9\\u03c1\\u03b1\\u03c3\\u03c4\\u03b5\\u03af\\u03c4\\u03b5 \\u03c3\\u03c4\\u03bf Facebook\",\"shareOnTwitter\":\"\\u039c\\u03bf\\u03b9\\u03c1\\u03b1\\u03c3\\u03c4\\u03b5\\u03af\\u03c4\\u03b5 \\u03c3\\u03c4\\u03bf Twitter\",\"pinIt\":\"\\u039a\\u03b1\\u03c1\\u03c6\\u03af\\u03c4\\u03c3\\u03c9\\u03bc\\u03b1\",\"download\":\"\\u039b\\u03ae\\u03c8\\u03b7\",\"downloadImage\":\"\\u039a\\u03b1\\u03c4\\u03ad\\u03b2\\u03b1\\u03c3\\u03bc\\u03b1 \\u03b5\\u03b9\\u03ba\\u03cc\\u03bd\\u03b1\\u03c2\",\"fullscreen\":\"\\u03a0\\u03bb\\u03ae\\u03c1\\u03b7\\u03c2 \\u03bf\\u03b8\\u03cc\\u03bd\\u03b7\",\"zoom\":\"\\u039c\\u03b5\\u03b3\\u03ad\\u03bd\\u03b8\\u03c5\\u03bd\\u03c3\\u03b7\",\"share\":\"\\u039a\\u03bf\\u03b9\\u03bd\\u03ae \\u03c7\\u03c1\\u03ae\\u03c3\\u03b7\",\"playVideo\":\"\\u0391\\u03bd\\u03b1\\u03c0\\u03b1\\u03c1\\u03b1\\u03b3\\u03c9\\u03b3\\u03ae \\u0392\\u03af\\u03bd\\u03c4\\u03b5\\u03bf\",\"previous\":\"\\u03a0\\u03c1\\u03bf\\u03b7\\u03b3\\u03bf\\u03cd\\u03bc\\u03b5\\u03bd\\u03bf\",\"next\":\"\\u0395\\u03c0\\u03cc\\u03bc\\u03b5\\u03bd\\u03bf\",\"close\":\"\\u039a\\u03bb\\u03b5\\u03af\\u03c3\\u03b9\\u03bc\\u03bf\",\"a11yCarouselPrevSlideMessage\":\"Previous slide\",\"a11yCarouselNextSlideMessage\":\"Next slide\",\"a11yCarouselFirstSlideMessage\":\"This is the first slide\",\"a11yCarouselLastSlideMessage\":\"This is the last slide\",\"a11yCarouselPaginationBulletMessage\":\"Go to slide\"},\"is_rtl\":false,\"breakpoints\":{\"xs\":0,\"sm\":480,\"md\":768,\"lg\":1025,\"xl\":1440,\"xxl\":1600},\"responsive\":{\"breakpoints\":{\"mobile\":{\"label\":\"\\u039a\\u03b1\\u03c4\\u03b1\\u03ba\\u03cc\\u03c1\\u03c5\\u03c6\\u03b7 \\u039a\\u03b9\\u03bd\\u03b7\\u03c4\\u03ae \\u03a3\\u03c5\\u03c3\\u03ba\\u03b5\\u03c5\\u03ae\",\"value\":767,\"default_value\":767,\"direction\":\"max\",\"is_enabled\":true},\"mobile_extra\":{\"label\":\"\\u039f\\u03c1\\u03b9\\u03b6\\u03cc\\u03bd\\u03c4\\u03b9\\u03b1 \\u039a\\u03b9\\u03bd\\u03b7\\u03c4\\u03ae \\u03a3\\u03c5\\u03c3\\u03ba\\u03b5\\u03c5\\u03ae\",\"value\":880,\"default_value\":880,\"direction\":\"max\",\"is_enabled\":false},\"tablet\":{\"label\":\"Tablet Portrait\",\"value\":1024,\"default_value\":1024,\"direction\":\"max\",\"is_enabled\":true},\"tablet_extra\":{\"label\":\"Tablet Landscape\",\"value\":1200,\"default_value\":1200,\"direction\":\"max\",\"is_enabled\":false},\"laptop\":{\"label\":\"\\u03a6\\u03bf\\u03c1\\u03b7\\u03c4\\u03cc\\u03c2 \\u03c5\\u03c0\\u03bf\\u03bb\\u03bf\\u03b3\\u03b9\\u03c3\\u03c4\\u03ae\\u03c2\",\"value\":1366,\"default_value\":1366,\"direction\":\"max\",\"is_enabled\":false},\"widescreen\":{\"label\":\"Widescreen\",\"value\":2400,\"default_value\":2400,\"direction\":\"min\",\"is_enabled\":false}},\"hasCustomBreakpoints\":false},\"version\":\"3.35.9\",\"is_static\":false,\"experimentalFeatures\":{\"additional_custom_breakpoints\":true,\"theme_builder_v2\":true,\"hello-theme-header-footer\":true,\"home_screen\":true,\"global_classes_should_enforce_capabilities\":true,\"e_variables\":true,\"cloud-library\":true,\"e_opt_in_v4_page\":true,\"e_components\":true,\"e_interactions\":true,\"e_editor_one\":true,\"import-export-customization\":true,\"e_pro_variables\":true},\"urls\":{\"assets\":\"https:\\/\\/www.ypapanti.com\\/wp-content\\/plugins\\/elementor\\/assets\\/\",\"ajaxurl\":\"https:\\/\\/www.ypapanti.com\\/wp-admin\\/admin-ajax.php\",\"uploadUrl\":\"https:\\/\\/www.ypapanti.com\\/wp-content\\/uploads\"},\"nonces\":{\"floatingButtonsClickTracking\":\"d844ff8f46\"},\"swiperClass\":\"swiper\",\"settings\":{\"page\":[],\"editorPreferences\":[]},\"kit\":{\"hello_header_logo_type\":\"logo\",\"active_breakpoints\":[\"viewport_mobile\",\"viewport_tablet\"],\"global_image_lightbox\":\"yes\",\"lightbox_enable_counter\":\"yes\",\"lightbox_enable_fullscreen\":\"yes\",\"lightbox_enable_zoom\":\"yes\",\"lightbox_enable_share\":\"yes\",\"lightbox_title_src\":\"title\",\"lightbox_description_src\":\"description\",\"hello_header_menu_layout\":\"horizontal\",\"hello_footer_logo_type\":\"logo\"},\"post\":{\"id\":68,\"title\":\"Laser%20%CE%BC%CE%B1%CF%84%CE%B9%CF%8E%CE%BD-%20%CE%BC%CF%85%CF%89%CF%80%CE%AF%CE%B1%CF%82%20%CE%BA%CE%B1%CE%B9%20%CE%9A%CE%B1%CF%84%CE%B1%CF%81%CF%81%CE%AC%CE%BA%CF%84%CE%B7%20%CE%BC%CE%B1%CF%84%CE%B9%CF%8E%CE%BD%20%CE%B5%CF%80%CE%AD%CE%BC%CE%B2%CE%B1%CF%83%CE%B7%20%CF%83%CF%84%CE%B7%CE%BD%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1%2C%20%CE%9A%CF%8C%CF%81%CE%B9%CE%BD%CE%B8%CE%BF%2C%20%CE%9D%CE%B1%CF%8D%CF%80%CE%BB%CE%B9%CE%BF%2C%20%CE%A4%CF%81%CE%AF%CF%80%CE%BF%CE%BB%CE%B7%2C%20%CE%A7%CE%B1%CE%BB%CE%BA%CE%AF%CE%B4%CE%B1%2C%20%CE%A0%CE%AC%CF%84%CF%81%CE%B1%2C%20%CE%9B%CE%AC%CE%BC%CE%B9%CE%B1%2C%20%CE%9B%CE%B5%CE%B9%CE%B2%CE%B1%CE%B4%CE%B5%CE%B9%CE%AC%2C%20%CE%91%CE%AF%CE%B3%CE%B9%CE%BD%CE%B1%2C%20%CE%A0%CE%B5%CE%B9%CF%81%CE%B1%CE%B9%CE%AC%CF%82%2C%20%CE%9C%CE%AD%CE%B3%CE%B1%CF%81%CE%B1.\",\"excerpt\":\"\",\"featuredImage\":false}}; //# sourceURL=elementor-frontend-js-before var localize = {\"ajaxurl\":\"https://www.ypapanti.com/wp-admin/admin-ajax.php\",\"nonce\":\"247e951703\",\"i18n\":{\"added\":\"Added \",\"compare\":\"Compare\",\"loading\":\"Loading...\"},\"eael_translate_text\":{\"required_text\":\"is a required field\",\"invalid_text\":\"Invalid\",\"billing_text\":\"Billing\",\"shipping_text\":\"Shipping\",\"fg_mfp_counter_text\":\"of\"},\"page_permalink\":\"https://www.ypapanti.com/epikoinonia/\",\"cart_redirectition\":\"\",\"cart_page_url\":\"\",\"el_breakpoints\":{\"mobile\":{\"label\":\"\\u039a\\u03b1\\u03c4\\u03b1\\u03ba\\u03cc\\u03c1\\u03c5\\u03c6\\u03b7 \\u039a\\u03b9\\u03bd\\u03b7\\u03c4\\u03ae \\u03a3\\u03c5\\u03c3\\u03ba\\u03b5\\u03c5\\u03ae\",\"value\":767,\"default_value\":767,\"direction\":\"max\",\"is_enabled\":true},\"mobile_extra\":{\"label\":\"\\u039f\\u03c1\\u03b9\\u03b6\\u03cc\\u03bd\\u03c4\\u03b9\\u03b1 \\u039a\\u03b9\\u03bd\\u03b7\\u03c4\\u03ae \\u03a3\\u03c5\\u03c3\\u03ba\\u03b5\\u03c5\\u03ae\",\"value\":880,\"default_value\":880,\"direction\":\"max\",\"is_enabled\":false},\"tablet\":{\"label\":\"Tablet Portrait\",\"value\":1024,\"default_value\":1024,\"direction\":\"max\",\"is_enabled\":true},\"tablet_extra\":{\"label\":\"Tablet Landscape\",\"value\":1200,\"default_value\":1200,\"direction\":\"max\",\"is_enabled\":false},\"laptop\":{\"label\":\"\\u03a6\\u03bf\\u03c1\\u03b7\\u03c4\\u03cc\\u03c2 \\u03c5\\u03c0\\u03bf\\u03bb\\u03bf\\u03b3\\u03b9\\u03c3\\u03c4\\u03ae\\u03c2\",\"value\":1366,\"default_value\":1366,\"direction\":\"max\",\"is_enabled\":false},\"widescreen\":{\"label\":\"Widescreen\",\"value\":2400,\"default_value\":2400,\"direction\":\"min\",\"is_enabled\":false}}}; //# sourceURL=eael-general-js-extra var element_pack_ajax_login_config = {\"ajaxurl\":\"https://www.ypapanti.com/wp-admin/admin-ajax.php\",\"language\":\"el\",\"loadingmessage\":\"Sending user info, please wait...\",\"unknownerror\":\"Unknown error, make sure access is correct!\"}; var ElementPackConfig = {\"ajaxurl\":\"https://www.ypapanti.com/wp-admin/admin-ajax.php\",\"nonce\":\"27f4e87e59\",\"data_table\":{\"language\":{\"lengthMenu\":\"Show _MENU_ Entries\",\"info\":\"Showing _START_ to _END_ of _TOTAL_ entries\",\"search\":\"Search :\",\"paginate\":{\"previous\":\"Previous\",\"next\":\"Next\"}}},\"contact_form\":{\"sending_msg\":\"Sending message please wait...\",\"captcha_nd\":\"Invisible captcha not defined!\",\"captcha_nr\":\"Could not get invisible captcha response!\"},\"mailchimp\":{\"subscribing\":\"Subscribing you please wait...\"},\"search\":{\"more_result\":\"More Results\",\"search_result\":\"SEARCH RESULT\",\"not_found\":\"not found\"},\"words_limit\":{\"read_more\":\"[read more]\",\"read_less\":\"[read less]\"},\"elements_data\":{\"sections\":[],\"columns\":[],\"widgets\":[]}}; //# sourceURL=bdt-uikit-js-extra var ElementorProFrontendConfig = {\"ajaxurl\":\"https:\\/\\/www.ypapanti.com\\/wp-admin\\/admin-ajax.php\",\"nonce\":\"63a7aa6a18\",\"urls\":{\"assets\":\"https:\\/\\/www.ypapanti.com\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/\",\"rest\":\"https:\\/\\/www.ypapanti.com\\/wp-json\\/\"},\"settings\":{\"lazy_load_background_images\":true},\"popup\":{\"hasPopUps\":false},\"shareButtonsNetworks\":{\"facebook\":{\"title\":\"Facebook\",\"has_counter\":true},\"twitter\":{\"title\":\"Twitter\"},\"linkedin\":{\"title\":\"LinkedIn\",\"has_counter\":true},\"pinterest\":{\"title\":\"Pinterest\",\"has_counter\":true},\"reddit\":{\"title\":\"Reddit\",\"has_counter\":true},\"vk\":{\"title\":\"VK\",\"has_counter\":true},\"odnoklassniki\":{\"title\":\"OK\",\"has_counter\":true},\"tumblr\":{\"title\":\"Tumblr\"},\"digg\":{\"title\":\"Digg\"},\"skype\":{\"title\":\"Skype\"},\"stumbleupon\":{\"title\":\"StumbleUpon\",\"has_counter\":true},\"mix\":{\"title\":\"Mix\"},\"telegram\":{\"title\":\"Telegram\"},\"pocket\":{\"title\":\"Pocket\",\"has_counter\":true},\"xing\":{\"title\":\"XING\",\"has_counter\":true},\"whatsapp\":{\"title\":\"WhatsApp\"},\"email\":{\"title\":\"Email\"},\"print\":{\"title\":\"Print\"},\"x-twitter\":{\"title\":\"X\"},\"threads\":{\"title\":\"Threads\"}},\"facebook_sdk\":{\"lang\":\"el\",\"app_id\":\"\"},\"lottie\":{\"defaultAnimationUrl\":\"https:\\/\\/www.ypapanti.com\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json\"}}; //# sourceURL=elementor-pro-frontend-js-before var ekit_config = {\"ajaxurl\":\"https://www.ypapanti.com/wp-admin/admin-ajax.php\",\"nonce\":\"8a51bf35a8\"}; //# sourceURL=elementskit-elementor-js-extra var HCaptchaMainObject = {\"params\":\"{\\\"sitekey\\\":\\\"533a0c0e-7ce7-4f19-86b8-b75e374f5eb7\\\",\\\"theme\\\":\\\"light\\\",\\\"size\\\":\\\"normal\\\",\\\"hl\\\":\\\"el\\\"}\"}; //# sourceURL=hcaptcha-js-extra {\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://www.ypapanti.com/wp-includes/js/wp-emoji-release.min.js?ver=3f42ddc33876eacc93686d8e191c09ed\"}} /*! This file is auto-generated */ const a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://www.ypapanti.com/wp-includes/js/wp-emoji-loader.min.js",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ypapanti.com-home-a17f54d0/contact-epikoinonia-13d66bae.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ypapanti.com-home-a17f54d0/contact-epikoinonia-13d66bae.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.ypapanti.com/wp-content/uploads/elementor/thumbs/ypapanti-logo-q5dt0d0bcdr5jkf4nq3l9f1vqezfeb80e1dwvsshkw.png",
+          "alt": "ypapanti-logo",
+          "sourcePageUrl": "https://www.ypapanti.com/epikoinonia",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/epikoinonia",
+              "retrievedAt": "2026-03-31T13:17:16.255Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ypapanti.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png",
+          "alt": "Αγγλικά",
+          "sourcePageUrl": "https://www.ypapanti.com/epikoinonia",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/epikoinonia",
+              "retrievedAt": "2026-03-31T13:17:16.255Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ypapanti.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.png",
+          "alt": "Ελληνικά",
+          "sourcePageUrl": "https://www.ypapanti.com/epikoinonia",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/epikoinonia",
+              "retrievedAt": "2026-03-31T13:17:16.255Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ypapanti.com/wp-content/uploads/2021/10/ypapanti-espa-2.jpg",
+          "sourcePageUrl": "https://www.ypapanti.com/epikoinonia",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/epikoinonia",
+              "retrievedAt": "2026-03-31T13:17:16.255Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.ypapanti.com/wp-content/uploads/elementor/thumbs/yp_logo_white-q4tq7o9al9e6ir1xhc3dfaja06puyiaq2x2kmmlips.png",
+          "alt": "yp_logo_white",
+          "sourcePageUrl": "https://www.ypapanti.com/epikoinonia",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.ypapanti.com/epikoinonia",
+              "retrievedAt": "2026-03-31T13:17:16.255Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://www.ypapanti.com/epikoinonia",
+          "retrievedAt": "2026-03-31T13:17:16.256Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/ypapanti.com-home-a17f54d0/contact-epikoinonia-13d66bae.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "210 330 1380",
+      "2024-08-02 09",
+      "+302103301380",
+      "14/04/2022",
+      "10/03/2021",
+      "01 02 03 04 05 06 07 08 09 10 11 11"
+    ],
+    "emails": [
+      "info@ypapanti.com"
+    ],
+    "addresses": [
+      "Newsletter Sign up our newsletter to get update information, news or article about medical. Enter your email Sign Up Επικοινωνία Σόλωνος 129, Αθήνα, 10677 info@ypapanti.com 210 330 1380 Social Media Facebook Youtube Πολιτική Προστασίας Προσωπικών Δεδομένων Χρήση Cookies Όροι Χρήσης Copyright © 2023 Υπαπαντή. All rights reserved | Designed & Developed with ♥ by JIT"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/ocypapanti/?fref=ts",
+        "label": "Facebook"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCCTdhYlg_knWchajwogqUFw",
+        "label": "Youtube"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://www.ypapanti.com/#wpcf7-f330-p1266-o1",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "_wpcf7",
+          "_wpcf7_version",
+          "_wpcf7_locale",
+          "_wpcf7_unit_tag",
+          "_wpcf7_container_post",
+          "_wpcf7_posted_data_hash",
+          "your-name",
+          "your-email",
+          "your-subject",
+          "your-message",
+          "acceptance-963",
+          "hcaptcha-widget-id",
+          "_wpnonce",
+          "_wp_http_referer",
+          "submit"
+        ],
+        "submitLabels": [
+          "Υποβολή"
+        ],
+        "fields": [
+          {
+            "name": "_wpcf7",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_version",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_locale",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_unit_tag",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_container_post",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_posted_data_hash",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "your-name",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "your-email",
+            "type": "email",
+            "required": true
+          },
+          {
+            "name": "your-subject",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "your-message",
+            "type": "textarea",
+            "required": false
+          },
+          {
+            "name": "acceptance-963",
+            "type": "checkbox",
+            "required": false
+          },
+          {
+            "name": "hcaptcha-widget-id",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpnonce",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wp_http_referer",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "type": "submit",
+            "required": false
+          }
+        ]
+      },
+      {
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "post_id",
+          "form_id",
+          "referer_title",
+          "queried_id",
+          "form_fields[email]"
+        ],
+        "submitLabels": [
+          "Sign Up"
+        ],
+        "fields": [
+          {
+            "name": "post_id",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "form_id",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "referer_title",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "queried_id",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "form_fields[email]",
+            "type": "email",
+            "label": "Enter your email",
+            "required": true
+          }
+        ]
+      },
+      {
+        "action": "https://www.ypapanti.com/epikoinonia/#wpcf7-f330-p68-o1",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "_wpcf7",
+          "_wpcf7_version",
+          "_wpcf7_locale",
+          "_wpcf7_unit_tag",
+          "_wpcf7_container_post",
+          "_wpcf7_posted_data_hash",
+          "your-name",
+          "your-email",
+          "your-subject",
+          "your-message",
+          "acceptance-963",
+          "hcaptcha-widget-id",
+          "_wpnonce",
+          "_wp_http_referer",
+          "submit"
+        ],
+        "submitLabels": [
+          "Υποβολή"
+        ],
+        "fields": [
+          {
+            "name": "_wpcf7",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_version",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_locale",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_unit_tag",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_container_post",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_posted_data_hash",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "your-name",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "your-email",
+            "type": "email",
+            "required": true
+          },
+          {
+            "name": "your-subject",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "your-message",
+            "type": "textarea",
+            "required": false
+          },
+          {
+            "name": "acceptance-963",
+            "type": "checkbox",
+            "required": false
+          },
+          {
+            "name": "hcaptcha-widget-id",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpnonce",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wp_http_referer",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "type": "submit",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Οφθαλμολογική Κλινική Υπαπαντή | Καταρράκτης ματιών επέμβαση | Laser ματιων για Μυωπία σε Αθήνα, Κόρινθο, Ναύπλιο, Άργος, Τρίπολη, Χαλκίδα, Πάτρα, Λάμια, Λειβαδειά, Αίγινα, Πειραιάς, Μέγαρα.",
+    "metaDescription": "Η Οφθαλμολογική Κλινική Υπαπαντή ιδρύθηκε το 1979 και διαθέτει έμπειρο και εξειδικευμένο προσωπικό στην επέμβαση για καταρράκτη ματιών. Laser Μυωπίας.",
+    "canonicalUrl": "https://www.ypapanti.com/",
+    "language": "el",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "openGraphTitle": "Οφθαλμολογική Κλινική Υπαπαντή | Καταρράκτης ματιών επέμβαση | Laser ματιων για Μυωπία σε Αθήνα, Κόρινθο, Ναύπλιο, Άργος, Τρίπολη, Χαλκίδα, Πάτρα, Λάμια, Λειβαδειά, Αίγινα, Πειραιάς, Μέγαρα.",
+    "openGraphDescription": "Η Οφθαλμολογική Κλινική Υπαπαντή ιδρύθηκε το 1979 και διαθέτει έμπειρο και εξειδικευμένο προσωπικό στην επέμβαση για καταρράκτη ματιών. Laser Μυωπίας.",
+    "openGraphImage": "https://www.ypapanti.com/wp-content/uploads/2023/04/imagetothetop-minn.jpg"
+  },
+  "imageReferences": [
+    {
+      "url": "https://www.ypapanti.com/wp-content/uploads/2023/04/imagetothetop-minn.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.ypapanti.com/",
+      "pageType": "homepage",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.ypapanti.com/",
+          "retrievedAt": "2026-03-31T13:17:14.379Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/uploads/elementor/thumbs/ypapanti-logo-q5dt0d0bcdr5jkf4nq3l9f1vqezfeb80e1dwvsshkw.png",
+      "alt": "ypapanti-logo",
+      "sourcePageUrl": "https://www.ypapanti.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ypapanti.com/",
+          "retrievedAt": "2026-03-31T13:17:14.379Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png",
+      "alt": "Αγγλικά",
+      "sourcePageUrl": "https://www.ypapanti.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ypapanti.com/",
+          "retrievedAt": "2026-03-31T13:17:14.379Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.png",
+      "alt": "Ελληνικά",
+      "sourcePageUrl": "https://www.ypapanti.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ypapanti.com/",
+          "retrievedAt": "2026-03-31T13:17:14.379Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/uploads/2021/10/ypapanti-espa-2.jpg",
+      "sourcePageUrl": "https://www.ypapanti.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ypapanti.com/",
+          "retrievedAt": "2026-03-31T13:17:14.379Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/uploads/2022/04/%CE%93%CE%9B%CE%91%CE%A5%CE%9A%CE%A9%CE%9C%CE%91.jpg",
+      "sourcePageUrl": "https://www.ypapanti.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ypapanti.com/",
+          "retrievedAt": "2026-03-31T13:17:14.379Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/uploads/2021/03/eyes-5248678_1280.jpg",
+      "alt": "Καταρράκτης Ματιών Επέμβαση | Καταρράκτης ματιών επέμβαση Αθήνα | Καταρράκτης ματιών επέμβαση Λειβαδειά | Καταρράκτης ματιών επέμβαση Πάτρα |",
+      "sourcePageUrl": "https://www.ypapanti.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ypapanti.com/",
+          "retrievedAt": "2026-03-31T13:17:14.379Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/uploads/elementor/thumbs/yp_logo_white-q4tq7o9al9e6ir1xhc3dfaja06puyiaq2x2kmmlips.png",
+      "alt": "yp_logo_white",
+      "sourcePageUrl": "https://www.ypapanti.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ypapanti.com/",
+          "retrievedAt": "2026-03-31T13:17:14.379Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/uploads/2023/04/poioieimaste.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.ypapanti.com/poioi-eimaste",
+      "pageType": "contact",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.ypapanti.com/poioi-eimaste",
+          "retrievedAt": "2026-03-31T13:17:17.513Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/uploads/2022/04/%CE%93%CE%9B%CE%91%CE%A5%CE%9A%CE%A9%CE%9C%CE%91-300x200.jpg",
+      "sourcePageUrl": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+          "retrievedAt": "2026-03-31T13:17:19.042Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/uploads/2021/03/eyes-5248678_1280-300x200.jpg",
+      "alt": "Καταρράκτης Ματιών Επέμβαση | Καταρράκτης ματιών επέμβαση Αθήνα | Καταρράκτης ματιών επέμβαση Λειβαδειά | Καταρράκτης ματιών επέμβαση Πάτρα |",
+      "sourcePageUrl": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+          "retrievedAt": "2026-03-31T13:17:19.042Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/uploads/2022/06/perchek-industrie-iXspFCVXoaw-unsplash-1.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.ypapanti.com/tmimata",
+      "pageType": "contact",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.ypapanti.com/tmimata",
+          "retrievedAt": "2026-03-31T13:17:22.050Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/uploads/2020/02/2020.png",
+      "alt": "Τμήμα Φλεγμονών",
+      "sourcePageUrl": "https://www.ypapanti.com/tmimata",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ypapanti.com/tmimata",
+          "retrievedAt": "2026-03-31T13:17:22.050Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/uploads/2016/12/123catarakt.jpg",
+      "alt": "Τμήμα Βλεφάρων, κόγχου και δακρυϊκού συστήματος",
+      "sourcePageUrl": "https://www.ypapanti.com/tmimata",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ypapanti.com/tmimata",
+          "retrievedAt": "2026-03-31T13:17:22.050Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/uploads/2016/11/glafkoma.jpg",
+      "alt": "Τμήμα γλαυκώματος – Οπτικά πεδία – H.R.T. – Παχυμετρία – Laser",
+      "sourcePageUrl": "https://www.ypapanti.com/tmimata",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ypapanti.com/tmimata",
+          "retrievedAt": "2026-03-31T13:17:22.050Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/uploads/2016/10/service1.jpg",
+      "alt": "Τμήμα διαθλαστικών ανωμαλιών (μυωπία, υπερμετρωπία…)",
+      "sourcePageUrl": "https://www.ypapanti.com/tmimata",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ypapanti.com/tmimata",
+          "retrievedAt": "2026-03-31T13:17:22.050Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/uploads/2016/10/kilida.jpg",
+      "alt": "Τμήμα αμφιβληστροειδούς – Ωχράς κηλίδας",
+      "sourcePageUrl": "https://www.ypapanti.com/tmimata",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ypapanti.com/tmimata",
+          "retrievedAt": "2026-03-31T13:17:22.050Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/uploads/2016/10/keratoidis.jpg",
+      "alt": "Τμήμα Κερατοειδούς – Μεταμόσχευση / Τοπογραφία",
+      "sourcePageUrl": "https://www.ypapanti.com/tmimata",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ypapanti.com/tmimata",
+          "retrievedAt": "2026-03-31T13:17:22.050Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ypapanti.com/wp-content/uploads/2016/10/catarakt.jpg",
+      "alt": "Τμήμα καταρράκτη",
+      "sourcePageUrl": "https://www.ypapanti.com/tmimata",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.ypapanti.com/tmimata",
+          "retrievedAt": "2026-03-31T13:17:22.050Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "210 330 1380",
+      "sourcePageUrl": "https://www.ypapanti.com/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ypapanti.com/",
+          "retrievedAt": "2026-03-31T13:17:14.379Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2024-08-02 09",
+      "sourcePageUrl": "https://www.ypapanti.com/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ypapanti.com/",
+          "retrievedAt": "2026-03-31T13:17:14.379Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+302103301380",
+      "sourcePageUrl": "https://www.ypapanti.com/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ypapanti.com/",
+          "retrievedAt": "2026-03-31T13:17:14.379Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@ypapanti.com",
+      "sourcePageUrl": "https://www.ypapanti.com/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ypapanti.com/",
+          "retrievedAt": "2026-03-31T13:17:14.379Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Newsletter Sign up our newsletter to get update information, news or article about medical. Enter your email Sign Up Επικοινωνία Σόλωνος 129, Αθήνα, 10677 info@ypapanti.com 210 330 1380 Social Media Facebook Youtube Πολιτική Προστασίας Προσωπικών Δεδομένων Χρήση Cookies Όροι Χρήσης Copyright © 2023 Υπαπαντή. All rights reserved | Designed & Developed with ♥ by JIT",
+      "sourcePageUrl": "https://www.ypapanti.com/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ypapanti.com/",
+          "retrievedAt": "2026-03-31T13:17:14.379Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.ypapanti.com/",
+      "sourcePageUrl": "https://www.ypapanti.com/",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.ypapanti.com/",
+          "retrievedAt": "2026-03-31T13:17:14.379Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.ypapanti.com/epikoinonia",
+      "sourcePageUrl": "https://www.ypapanti.com/epikoinonia",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ypapanti.com/epikoinonia",
+          "retrievedAt": "2026-03-31T13:17:16.255Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.ypapanti.com/epikoinonia",
+      "sourcePageUrl": "https://www.ypapanti.com/epikoinonia",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ypapanti.com/epikoinonia",
+          "retrievedAt": "2026-03-31T13:17:16.255Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.ypapanti.com/poioi-eimaste",
+      "sourcePageUrl": "https://www.ypapanti.com/poioi-eimaste",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ypapanti.com/poioi-eimaste",
+          "retrievedAt": "2026-03-31T13:17:17.513Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.ypapanti.com/poioi-eimaste",
+      "sourcePageUrl": "https://www.ypapanti.com/poioi-eimaste",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ypapanti.com/poioi-eimaste",
+          "retrievedAt": "2026-03-31T13:17:17.513Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "14/04/2022",
+      "sourcePageUrl": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+          "retrievedAt": "2026-03-31T13:17:19.042Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "10/03/2021",
+      "sourcePageUrl": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+          "retrievedAt": "2026-03-31T13:17:19.042Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+      "sourcePageUrl": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+      "pageType": "about",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+          "retrievedAt": "2026-03-31T13:17:19.042Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "01 02 03 04 05 06 07 08 09 10 11 11",
+      "sourcePageUrl": "https://www.ypapanti.com/pathiseis",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ypapanti.com/pathiseis",
+          "retrievedAt": "2026-03-31T13:17:20.644Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.ypapanti.com/pathiseis",
+      "sourcePageUrl": "https://www.ypapanti.com/pathiseis",
+      "pageType": "about",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.ypapanti.com/pathiseis",
+          "retrievedAt": "2026-03-31T13:17:20.644Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.ypapanti.com/tmimata",
+      "sourcePageUrl": "https://www.ypapanti.com/tmimata",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ypapanti.com/tmimata",
+          "retrievedAt": "2026-03-31T13:17:22.050Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.ypapanti.com/tmimata",
+      "sourcePageUrl": "https://www.ypapanti.com/tmimata",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.ypapanti.com/tmimata",
+          "retrievedAt": "2026-03-31T13:17:22.050Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://www.ypapanti.com/",
+    "finalOrigin": "https://www.ypapanti.com",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://www.ypapanti.com/robots.txt",
+      "fetchedAt": "2026-03-31T13:17:13.855Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [],
+      "disallowRules": [],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://www.ypapanti.com/robots.txt",
+          "retrievedAt": "2026-03-31T13:17:13.345Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://www.ypapanti.com/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/epikoinonia",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/poioi-eimaste",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/pathiseis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/tmimata",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/diadikasia-epemvasis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/laser",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%ce%b4%ce%b9%ce%b1%ce%b8%ce%bb%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%ad%cf%82-%ce%b1%ce%bd%cf%89%ce%bc%ce%b1%ce%bb%ce%af%ce%b5%cf%82-%ce%bc%cf%85%cf%89%cf%80%ce%af%ce%b1-%cf%85%cf%80%ce%b5%cf%81%ce%bc",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/exoplismos",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%ce%b5%ce%be%ce%b5%cf%84%ce%b1%cf%83%ce%b5%ce%b9%cf%83",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/paroxes-egkatastaseis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/sinergates",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/politiki-aporritou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/oroi-xrisis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%ce%bc%ce%b7%ce%bd-%ce%b1%cf%86%ce%ae%cf%83%ce%b5%cf%84%ce%b5-%cf%84%ce%bf-%ce%b3%ce%bb%ce%b1%cf%8d%ce%ba%cf%89%ce%bc%ce%b1-%ce%bd%ce%b1-%cf%83%ce%b1%cf%82-%cf%83%cf%84%ce%b5%cf%81%ce%ae%cf%83%ce%b5",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%ce%ba%ce%b1%cf%84%ce%b1%cf%81%cf%81%ce%ac%ce%ba%cf%84%ce%b7%cf%82-%ce%bc%ce%b1%cf%84%ce%b9%cf%8e%ce%bd-%cf%80%cf%8c%cf%84%ce%b5-%ce%b5%ce%af%ce%bd%ce%b1%ce%b9-%ce%b1%cf%80%ce%b1%cf%81%ce%b1%ce%af",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/cookies-policy",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:14.381Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/epikoinonia",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:16.256Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/en/epikoinonia",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/epikoinonia",
+        "timestamp": "2026-03-31T13:17:16.256Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/poioi-eimaste",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:17.515Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/en/poioi-eimaste",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/poioi-eimaste",
+        "timestamp": "2026-03-31T13:17:17.515Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:19.046Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/en/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+        "timestamp": "2026-03-31T13:17:19.046Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/pathiseis",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:20.645Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/en/pathiseis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/pathiseis",
+        "timestamp": "2026-03-31T13:17:20.645Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%ce%b3%ce%bb%ce%b1%cf%8d%ce%ba%cf%89%ce%bc%ce%b1-%cf%83%cf%85%ce%bc%cf%80%cf%84%cf%8e%ce%bc%ce%b1%cf%84%ce%b1-%ce%ba%ce%b1%ce%b9-%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%af%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/pathiseis",
+        "timestamp": "2026-03-31T13:17:20.646Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%ce%b1%ce%b9%cf%83%ce%b8%ce%b7%cf%84%ce%b9%ce%ba%ce%ae-%ce%bf%cf%86%ce%b8%ce%b1%ce%bb%ce%bc%ce%bf%ce%bb%ce%bf%ce%b3%ce%af%ce%b1-%ce%bf%cf%86%ce%b8%ce%b1%ce%bb%ce%bc%ce%bf%cf%80%ce%bb%ce%b1%cf%83",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/pathiseis",
+        "timestamp": "2026-03-31T13:17:20.646Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%cf%80%ce%b1%ce%b8%ce%ae%cf%83%ce%b5%ce%b9%cf%82-%cf%84%ce%bf%cf%85-%ce%ba%ce%b5%cf%81%ce%b1%cf%84%ce%bf%ce%b5%ce%b9%ce%b4%ce%bf%cf%8d%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/pathiseis",
+        "timestamp": "2026-03-31T13:17:20.646Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%cf%8c%ce%b3%ce%ba%ce%bf%ce%b9-%ce%ba%cf%8c%ce%b3%cf%87%ce%bf%cf%85-%ce%ba%ce%b1%ce%b9-%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%af%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/pathiseis",
+        "timestamp": "2026-03-31T13:17:20.646Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/katarrakths-matiwn-epembash",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/pathiseis",
+        "timestamp": "2026-03-31T13:17:20.646Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%ce%b5%ce%ba%cf%86%cf%8d%ce%bb%ce%b9%cf%83%ce%b7-%cf%84%ce%b7%cf%82-%cf%89%cf%87%cf%81%ce%ac%cf%82-%ce%ba%ce%b7%ce%bb%ce%af%ce%b4%ce%b1%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/pathiseis",
+        "timestamp": "2026-03-31T13:17:20.646Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%ce%b2%ce%bb%ce%b5%cf%86%ce%b1%cf%81%cf%8c%cf%80%cf%84%cf%89%cf%83%ce%b7-%ce%b1%ce%af%cf%84%ce%b9%ce%b1-%ce%ba%ce%b1%ce%b9-%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%af%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/pathiseis",
+        "timestamp": "2026-03-31T13:17:20.646Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%cf%80%ce%b1%ce%b8%ce%ae%cf%83%ce%b5%ce%b9%cf%82-%cf%8c%ce%b3%ce%ba%ce%bf%ce%b9-%ce%b2%ce%bb%ce%b5%cf%86%ce%ac%cf%81%cf%89%ce%bd-%ce%ba%ce%b1%ce%b9-%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%af%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/pathiseis",
+        "timestamp": "2026-03-31T13:17:20.646Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%ce%b4%ce%b1%ce%ba%cf%81%cf%8d%cf%81%cf%81%ce%bf%ce%b9%ce%b1-%ce%b4%ce%b1%ce%ba%cf%81%cf%85%cf%83%ce%bc%ce%ad%ce%bd%ce%bf-%ce%bc%ce%ac%cf%84%ce%b9-%ce%b1%ce%af%cf%84%ce%b9%ce%b1-%ce%ba%ce%b1%ce%b9",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/pathiseis",
+        "timestamp": "2026-03-31T13:17:20.646Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/tmimata",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.ypapanti.com/",
+        "timestamp": "2026-03-31T13:17:22.052Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/en/tmimata",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/tmimata",
+        "timestamp": "2026-03-31T13:17:22.052Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%cf%84%ce%bc%ce%ae%ce%bc%ce%b1-%ce%be%ce%b7%cf%81%ce%bf%cf%86%ce%b8%ce%b1%ce%bb%ce%bc%ce%af%ce%b1%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/tmimata",
+        "timestamp": "2026-03-31T13:17:22.052Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/tmhma-flegmonwn",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/tmimata",
+        "timestamp": "2026-03-31T13:17:22.052Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/tmimavlefarwn",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/tmimata",
+        "timestamp": "2026-03-31T13:17:22.052Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/h-r-t-laser-slt",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/tmimata",
+        "timestamp": "2026-03-31T13:17:22.052Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%cf%84%ce%bc%ce%ae%ce%bc%ce%b1-%ce%b4%ce%b9%ce%b1%ce%b8%ce%bb%ce%b1%cf%83%cf%84%ce%b9%ce%ba%cf%8e%ce%bd-%ce%b1%ce%bd%cf%89%ce%bc%ce%b1%ce%bb%ce%b9%cf%8e%ce%bd-%ce%bc%cf%85%cf%89%cf%80%ce%af%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/tmimata",
+        "timestamp": "2026-03-31T13:17:22.052Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%cf%84%ce%bc%ce%ae%ce%bc%ce%b1-%ce%b1%ce%bc%cf%86%ce%b9%ce%b2%ce%bb%ce%b7%cf%83%cf%84%cf%81%ce%bf%ce%b5%ce%b9%ce%b4%ce%bf%cf%8d%cf%82-%cf%89%cf%87%cf%81%ce%ac%cf%82-%ce%ba%ce%b7%ce%bb%ce%af%ce%b4",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/tmimata",
+        "timestamp": "2026-03-31T13:17:22.052Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%cf%84%ce%bc%ce%ae%ce%bc%ce%b1-%ce%ba%ce%b5%cf%81%ce%b1%cf%84%ce%bf%ce%b5%ce%b9%ce%b4%ce%bf%cf%8d%cf%82-%ce%bc%ce%b5%cf%84%ce%b1%ce%bc%cf%8c%cf%83%cf%87%ce%b5%cf%85%cf%83%ce%b7-%cf%84%ce%bf%cf%80",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/tmimata",
+        "timestamp": "2026-03-31T13:17:22.052Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%cf%84%ce%bc%ce%ae%ce%bc%ce%b1-%ce%b7%ce%bb%ce%b5%ce%ba%cf%84%cf%81%ce%bf%cf%86%cf%85%cf%83%ce%b9%ce%bf%ce%bb%ce%bf%ce%b3%ce%af%ce%b1%cf%82-%ce%b7%ce%b1%ce%b3-%ce%b4%ce%b9%ce%bb",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/tmimata",
+        "timestamp": "2026-03-31T13:17:22.052Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%cf%84%ce%bc%ce%ae%ce%bc%ce%b1-%ce%ba%ce%b1%cf%84%ce%b1%cf%81%cf%81%ce%ac%ce%ba%cf%84%ce%b7-%ce%ba%ce%b1%cf%84%ce%b1%cf%81%cf%81%ce%ac%ce%ba%cf%84%ce%b7%cf%82-%ce%bc%ce%b1%cf%84%ce%b9%cf%8e%ce%bd",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/tmimata",
+        "timestamp": "2026-03-31T13:17:22.052Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/%cf%84%ce%bc%ce%ae%ce%bc%ce%b1-%cf%87%ce%b5%ce%b9%cf%81%ce%bf%cf%85%cf%81%ce%b3%ce%b9%ce%ba%ce%ae%cf%82-%cf%85%ce%b1%ce%bb%ce%bf%ce%b5%ce%b9%ce%b4%ce%bf%cf%8d%cf%82-%ce%b1%ce%bc%cf%86%ce%b9",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.ypapanti.com/tmimata",
+        "timestamp": "2026-03-31T13:17:22.052Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:17:26.353Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/epikoinonia",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:17:28.121Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/poioi-eimaste",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:17:29.885Z"
+      },
+      {
+        "url": "https://www.ypapanti.com/tmimata",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:17:31.812Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

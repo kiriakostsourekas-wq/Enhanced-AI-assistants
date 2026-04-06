@@ -1,0 +1,2674 @@
+{
+  "domain": "athenseyehospital.gr",
+  "collectedAt": "2026-03-31T13:20:12.232Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athenseyehospital.gr-home-a17e187e",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://www.athenseyehospital.gr/",
+      "finalUrl": "https://www.athenseyehospital.gr/gr",
+      "fetchedAt": "2026-03-31T13:19:57.093Z",
+      "metadata": {
+        "title": "Athens Eye Hospital - Athens Eye Hospital",
+        "canonicalUrl": "https://www.athenseyehospital.gr/gr/",
+        "language": "el",
+        "openGraphTitle": "Athens Eye Hospital - Athens Eye Hospital"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Athens Eye Hospital."
+        },
+        {
+          "level": "h2",
+          "text": "Athens Eye Hospital Υπεροχή στην οφθαλμολογία"
+        },
+        {
+          "level": "h3",
+          "text": "Η ΚλινικήΥπεροχή στην οφθαλμολογία"
+        },
+        {
+          "level": "h3",
+          "text": "Για ΑσθενείςΠροτεραιότητα ο άνθρωπος"
+        },
+        {
+          "level": "h3",
+          "text": "Μοριακό Test για SARS-COV-2στο εξειδικευμένο εργαστήριο"
+        },
+        {
+          "level": "h3",
+          "text": "Στο Επίκεντρο."
+        },
+        {
+          "level": "h3",
+          "text": "Sponsored internship at the Athens Eye Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "Visit from the Vision6 team"
+        },
+        {
+          "level": "h3",
+          "text": "Harilaos Ginis invited speaker at the university of Murcia"
+        },
+        {
+          "level": "h3",
+          "text": "Τελευταία Νέα."
+        },
+        {
+          "level": "h3",
+          "text": "Η επιστημονική ομάδα του ΑΕΗ."
+        },
+        {
+          "level": "h3",
+          "text": "Νέα Tμήματα."
+        },
+        {
+          "level": "h3",
+          "text": "Επιστημονικά Νέα."
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/appointment.html",
+          "label": "Ζητήστε ραντεβού"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/efkairies-karieras/",
+          "label": "Ευκαιρίες Καριέρας"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/en/",
+          "label": "English"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/de/",
+          "label": "German"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/",
+          "label": "Η Κλινική"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/gia-astheneis/",
+          "label": "Για Ασθενείς"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/dimosiefseis/",
+          "label": "Δημοσιεύσεις"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/",
+          "label": "Νέα"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/symvaseis/",
+          "label": "Συμβάσεις"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/moriako-test-gia-sars-cov-2-sto-exeidikevmeno-ergastirio-toy-athens-eye-hospital/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/politiki-poiotitas/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/athens-eyebr-ofthalmologiko-kentro-dytikis-attikis/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/ta-matia-enos-paidioy/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/gia-astheneis/syxnes-erwtiseis-gia-ton-katarrakti/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/to-athens-eye-hospital-epekteinetai-p318.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/athens-eye-hospital-innovation-w-lens-project-p369.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/vravefsi-k-xaralampoy-rallatoy-apo-ton-syndesmo-antapokritwn-diethnwn-mme-ellados-p366.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/gerasimos-rallatos-p2.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/xaralampos-rallatos-p3.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/panagiwtis-zafeirakis-p4.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/xristina-kanaki-p5.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/despoina-tswli-p114.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/panagiwtis-matsis-p11.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/anastasios-anastasakis-p147.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/iwannis-mavrikakis-p152.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/theodwros-palaiologos-p156.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/maria-koyri-p324.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/mpaltatzis-stefanos-p126.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/gewrgios-terzis-p319.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/amalia-mpoyroy-p348.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/sofia-zwgana-p365.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/stelina-gaki-p379.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/zwi-kapsala-p383.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/gewrgios-saitakis-p394.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/",
+          "label": "Περισσότερα"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/gia-astheneis/tmima-erevnwn/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/gia-astheneis/tmima-ofthalmikoy-kogxoy/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/gia-astheneis/tmima-thyreoeidikis-ofthalmopatheias/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/gia-astheneis/tmima-apokatastasis-xamilis-orasis/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/epistimonika-nea/exatomikevmenoi-endofakoi-anaptyssontai-sto-athens-eye-hospital-p351.html",
+          "label": "Εξατομικευμένοι ενδοφακοί αναπτύσσονται στο Athens Eye Hospital"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/epistimonika-nea/i-xrisi-toy-femtosecond-laser-stin-xeiroyrgiki-toy-katarrakti-ekmidenizei-tin-pithanotita-epiplokwn-p314.html",
+          "label": "Η ΧΡΗΣΗ ΤΟΥ FEMTOSECOND LASER ΣΤΗΝ ΧΕΙΡΟΥΡΓΙΚΗ ΤΟΥ ΚΑΤΑΡΡΑΚΤΗ ΕΚΜΗΔΕΝΙΖΕΙ ΤΗΝ ΠΙΘΑΝΟΤΗΤΑ ΕΠΙΠΛΟΚΩΝ."
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/epistimonika-nea/vpo2018-p370.html",
+          "label": "VPO2018"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/epistimonika-nea/newteres-exelixeis-gia-tin-presvywpia-p172.html",
+          "label": "ΝΕΩΤΕΡΕΣ ΕΞΕΛΙΞΕΙΣ ΓΙΑ ΤΗΝ ΠΡΕΣΒΥΩΠΙΑ"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/epistimonika-nea/newtera-gia-ton-paidiatriko-katarrakti-p144.html",
+          "label": "ΝΕΩΤΕΡΑ ΓΙΑ ΤΟΝ ΠΑΙΔΙΑΤΡΙΚΟ ΚΑΤΑΡΡΑΚΤΗ"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/epistimonika-nea/",
+          "label": "Περισσότερα"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/cdn-cgi/l/email-protection#fd94939b92bd9c899598938e98849895928e8d94899c91d39a8f",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/cdn-cgi/l/email-protection#2b42454d446b4a5f434e45584e524e4344585b425f4a47054c59",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/pistopoiiseis/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/oroi-xrisis-dilosi-aporritou-p1.html",
+          "label": "Όροι Χρήσης - Δήλωση Απορρήτου"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/politiki-prostasias-dedomenwn-proswpikoy-xaraktira/",
+          "label": "Πολιτική Προστασίας Δεδομένων Προσωπικού Χαρακτήρα"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/gia-iatroys/",
+          "label": "Για Ιατρούς"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.athenseyehospital.gr/gr/results.html",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "q"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "q",
+              "type": "text",
+              "label": "Πληκτρολογήστε και πατήστε Enter...",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "45166 75",
+          "+30) 210 9697000",
+          "155 12134",
+          "+30) 210 5717711",
+          "25426929-1",
+          "2147483641",
+          "00302109697000",
+          "00302105717711"
+        ],
+        "emails": [],
+        "addresses": [
+          "Athens Eye Hospital Λεωφ. Βουλιαγμένης 45166 75 Γλυφάδα (+30) 210 9697000 [email protected] Athens Eye Οφθαλμολογικό Κέντρο Δυτικής Αττικής Λεωφ. Θηβών 155 12134 Περιστέρι, Αθήνα (+30) 210 5717711 [email protected] Πιστοποιήσεις Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Όροι Χρήσης - Δήλωση Απορρήτου | website by theratron Πολιτική Προστασίας Δεδομένων Προσωπικού Χαρακτήρα Αρχική|Η Κλινική|Για Ασθενείς|Για Ιατρούς|Νέα|Επικοινωνία"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.youtube.com/channel/UCmztKeVocSK-HhksdoMSh3g"
+          },
+          {
+            "href": "https://twitter.com/athenseye"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.athenseyehospital.gr/gr/results.html",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "q"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "q",
+                "type": "text",
+                "label": "Πληκτρολογήστε και πατήστε Enter...",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Athens Eye Hospital Λεωφ. Βουλιαγμένης 45166 75 Γλυφάδα (+30) 210 9697000 [email protected] Athens Eye Οφθαλμολογικό Κέντρο Δυτικής Αττικής Λεωφ. Θηβών 155 12134 Περιστέρι, Αθήνα (+30) 210 5717711 [email protected] Πιστοποιήσεις Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Όροι Χρήσης - Δήλωση Απορρήτου | website by theratron Πολιτική Προστασίας Δεδομένων Προσωπικού Χαρακτήρα Αρχική|Η Κλινική|Για Ασθενείς|Για Ιατρούς|Νέα|Επικοινωνία",
+      "textContent": "Επικοινωνία Ζητήστε ραντεβού Ευκαιρίες Καριέρας English German Επικοινωνία - Πρόσβαση Η ΚλινικήΓια ΑσθενείςΔημοσιεύσειςΝέαΤμήμα ΕρευνώνΣυμβάσεις Επικοινωνία Ζητήστε ραντεβού Ευκαιρίες Καριέρας Athens Eye Hospital. Μοναδική οφθαλμολογική Κλινική με τις πλέον σύγχρονες υποδομές και υπηρεσίες σε Ελλάδα και Νοτιοανατολική Ευρώπη. Η ΚλινικήΥπεροχή στην οφθαλμολογία Με σεβασμό & αφοσίωση στον άνθρωπο, με ουσιαστική & κορυφαία επιστημονική προσέγγιση, θέτουμε καθημερινά την επιστήμη & την τεχνολογία στην υπηρεσία της ανθρώπινης υγείας & της ποιότητας ζωής. Περισσότερα Για ΑσθενείςΠροτεραιότητα ο άνθρωπος Οι καινοτόμες σύγχρονες τεχνολογίες καθώς & το κορυφαίο επιστημονικό προσωπικό μας δίνουν τη δυνατότητα να αναπτύσσουμε πρωτοποριακές μεθόδους αντιμετώπισης ακόμα & των δυσκολότερων οφθαλμολογικών περιστατικών. Περισσότερα Μοριακό Test για SARS-COV-2στο εξειδικευμένο εργαστήριο Το Athens Eye Hospital διαθέτει τεχνική μοριακής βιολογίας εντός του εξειδικευμένου εργαστηρίου του στο οποίο πραγματοποιείται ασφαλής μοριακή διάγνωση με τεχνική RT-PCR Περισσότερα Πολιτική Ποιότητας Το «ATHENS EYE HOSPITAL» έχοντας την γνώση και την εμπειρία στον χώρο παροχής Οφθαλμολογικών υπηρεσιών, έχει πλέον την δυνατότητα υλοποίησης κάθε σχετικής οφθαλμολογικής εργασίας που μπορεί να του ανατεθεί. Περισσότερα Athens Eye Οφθαλμολογικό Κέντρο Δυτικής Αττικής Πρόκειται για υπερσύγχρονη μονάδα που διαθέτει τεχνολογία αιχμής και ειδικά τμήματα. Περισσότερα Τα μάτια ενός παιδιού Ένας πρακτικός οδηγός για παιδιάτρους, οικογενειακούς ιατρούς και ευαισθητοποιημένους γονείς. Περισσότερα Συχνές Ερωτήσεις για τον Καταρράκτη Η αντιμετώπιση του καταρράκτη είναι πάντα η ίδια και συνίσταται στην αφαίρεση του θολωμένου φακού και στην αντικατάσταση του από έναν τεχνητό. Περισσότερα Athens Eye Hospital Υπεροχή στην οφθαλμολογία Στο Επίκεντρο. Sponsored internship at the Athens Eye Hospital Visit from the Vision6 team Harilaos Ginis invited speaker at the university of Murcia Τελευταία Νέα. Το Athens Eye Hospital επεκτείνεται Τρίτη, 12 Μαρτίου 2019 Το Athens Eye Hospital επεκτείνεται... Athens Eye Hospital - Innovation: W-Lens project. Τετάρτη, 15 Αυγούστου 2018 Βράβευση κ. Χαράλαμπου Ραλλάτου από τον Σύνδεσμο Ανταποκριτών Διεθνών ΜΜΕ Ελλάδος. Δευτέρα, 15 Ιανουαρίου 2018 Περισσότερα Η επιστημονική ομάδα του ΑΕΗ. Εξειδικευμένοι οφθαλμίατροι συνεργαζόμενοι με ομάδα οπτικών, οπτομετρών, εξειδικευμένων για οφθαλμολογικά περιστατικά νοσηλευτών, όλοι μαζί προασπίζουν το θεϊκό δώρο της όρασης. Γεράσιμος ΡαλλάτοςΧειρουργός Οφθαλμίατρος Χαράλαμπος ΡαλλάτοςΧειρουργός Οφθαλμίατρος Παναγιώτης ΖαφειράκηςΧειρουργός Οφθαλμίατρος Χριστίνα ΚανάκηΧειρουργός Οφθαλμίατρος Δέσποινα ΤσώληΧειρουργός Οφθαλμίατρος Παναγιώτης ΜάτσηςΧειρουργός Οφθαλμίατρος Αναστάσιος ΑναστασάκηςΧειρουργός Οφθαλμίατρος Ιωάννης ΜαυρικάκηςΧειρουργός Οφθαλμίατρος Θεόδωρος ΠαλαιολόγοςΧειρουργός Οφθαλμίατρος Μαρία ΚουρήΧειρουργός Οφθαλμίατρος - Μπαλτατζής ΣτέφανοςΧειρουργός Οφθαλμίατρος Γεώργιος ΤερζήςΧειρουργός Οφθαλμίατρος Αμαλία ΜπούρουΧειρουργός Οφθαλμίατρος Σοφία ΖωγάναΧειρουργός Οφθαλμίατρος Στελίνα ΓάκηΧειρουργός Οφθαλμίατρος Ζωή ΚαψάλαΧειρουργός Οφθαλμίατρος Γεώργιος ΣαϊτάκηςΧειρουργός Οφθαλμίατρος Περισσότερα Νέα Tμήματα. Τμήμα Ερευνών Τμήμα Οφθαλμικού Κόγχου Τμήμα Θυρεοειδικής Οφθαλμοπάθειας Τμήμα Αποκατάστασης Χαμηλής Όρασης Επιστημονικά Νέα. Εξατομικευμένοι ενδοφακοί αναπτύσσονται στο Athens Eye Hospital Τετάρτη, 7 Ιουνίου 2017 Η ΧΡΗΣΗ ΤΟΥ FEMTOSECOND LASER ΣΤΗΝ ΧΕΙΡΟΥΡΓΙΚΗ ΤΟΥ ΚΑΤΑΡΡΑΚΤΗ ΕΚΜΗΔΕΝΙΖΕΙ ΤΗΝ ΠΙΘΑΝΟΤΗΤΑ ΕΠΙΠΛΟΚΩΝ. VPO2018 Πέμπτη, 16 Αυγούστου 2018 ΝΕΩΤΕΡΕΣ ΕΞΕΛΙΞΕΙΣ ΓΙΑ ΤΗΝ ΠΡΕΣΒΥΩΠΙΑ ΝΕΩΤΕΡΑ ΓΙΑ ΤΟΝ ΠΑΙΔΙΑΤΡΙΚΟ ΚΑΤΑΡΡΑΚΤΗ Περισσότερα Athens Eye Hospital Λεωφ. Βουλιαγμένης 45166 75 Γλυφάδα (+30) 210 9697000 [email protected] Athens Eye Οφθαλμολογικό Κέντρο Δυτικής Αττικής Λεωφ. Θηβών 155 12134 Περιστέρι, Αθήνα (+30) 210 5717711 [email protected] Πιστοποιήσεις Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Όροι Χρήσης - Δήλωση Απορρήτου | website by theratron Πολιτική Προστασίας Δεδομένων Προσωπικού Χαρακτήρα Αρχική|Η Κλινική|Για Ασθενείς|Για Ιατρούς|Νέα|Επικοινωνία /*WebFontConfig = {google: { families: [ 'Comfortaa:400,700&display=swap:latin,greek' ] }}; (function(d) { var wf = d.createElement('script'), s = d.scripts[0]; wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js'; wf.async = true; s.parentNode.insertBefore(wf, s); })(document);*/ window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-25426929-1'); gtag('config', 'G-3EJ976M8G1'); $(function () {$(\".lazy\").lazy();}); .espabtn {position: fixed;left: 0;bottom: 0;z-index: 2147483641;display: flex;flex-direction: row;align-items: baseline;} $(document).scroll(function () { var y = $(this).scrollTop(); if (y > 300) { $('.espabtn').css('position', 'relative'); } else { $('.espabtn').css('position', 'fixed'); } });",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athenseyehospital.gr-home-a17e187e/homepage-gr-ea451c3f.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athenseyehospital.gr-home-a17e187e/homepage-gr-ea451c3f.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/gr.svg",
+          "alt": "Ελληνικά",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr",
+              "retrievedAt": "2026-03-31T13:19:57.092Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/gb.svg",
+          "alt": "English",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr",
+              "retrievedAt": "2026-03-31T13:19:57.092Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/de.svg",
+          "alt": "German",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr",
+              "retrievedAt": "2026-03-31T13:19:57.092Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/aeh-logo.svg",
+          "alt": "Athens Eye Hospital",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr",
+              "retrievedAt": "2026-03-31T13:19:57.092Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+          "alt": "Το Athens Eye Hospital επεκτείνεται",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr",
+              "retrievedAt": "2026-03-31T13:19:57.092Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/certifications2015.png",
+          "alt": "Πιστοποιήσεις",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr",
+              "retrievedAt": "2026-03-31T13:19:57.092Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/espa2.jpg",
+          "alt": "ESPA",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr",
+              "retrievedAt": "2026-03-31T13:19:57.092Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.093Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athenseyehospital.gr-home-a17e187e/homepage-gr-ea451c3f.png"
+    },
+    "about": {
+      "pageType": "about",
+      "requestedUrl": "https://www.athenseyehospital.gr/en/the-clinic/career-opportunities",
+      "finalUrl": "https://www.athenseyehospital.gr/gr",
+      "fetchedAt": "2026-03-31T13:20:04.709Z",
+      "metadata": {
+        "title": "Athens Eye Hospital - Athens Eye Hospital",
+        "canonicalUrl": "https://www.athenseyehospital.gr/gr/",
+        "language": "el",
+        "openGraphTitle": "Athens Eye Hospital - Athens Eye Hospital"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Athens Eye Hospital."
+        },
+        {
+          "level": "h2",
+          "text": "Athens Eye Hospital Υπεροχή στην οφθαλμολογία"
+        },
+        {
+          "level": "h3",
+          "text": "Η ΚλινικήΥπεροχή στην οφθαλμολογία"
+        },
+        {
+          "level": "h3",
+          "text": "Για ΑσθενείςΠροτεραιότητα ο άνθρωπος"
+        },
+        {
+          "level": "h3",
+          "text": "Μοριακό Test για SARS-COV-2στο εξειδικευμένο εργαστήριο"
+        },
+        {
+          "level": "h3",
+          "text": "Στο Επίκεντρο."
+        },
+        {
+          "level": "h3",
+          "text": "Sponsored internship at the Athens Eye Hospital"
+        },
+        {
+          "level": "h3",
+          "text": "Visit from the Vision6 team"
+        },
+        {
+          "level": "h3",
+          "text": "Harilaos Ginis invited speaker at the university of Murcia"
+        },
+        {
+          "level": "h3",
+          "text": "Τελευταία Νέα."
+        },
+        {
+          "level": "h3",
+          "text": "Η επιστημονική ομάδα του ΑΕΗ."
+        },
+        {
+          "level": "h3",
+          "text": "Νέα Tμήματα."
+        },
+        {
+          "level": "h3",
+          "text": "Επιστημονικά Νέα."
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/appointment.html",
+          "label": "Ζητήστε ραντεβού"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/efkairies-karieras/",
+          "label": "Ευκαιρίες Καριέρας"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/en/",
+          "label": "English"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/de/",
+          "label": "German"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/",
+          "label": "Η Κλινική"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/gia-astheneis/",
+          "label": "Για Ασθενείς"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/dimosiefseis/",
+          "label": "Δημοσιεύσεις"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/",
+          "label": "Νέα"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/symvaseis/",
+          "label": "Συμβάσεις"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/moriako-test-gia-sars-cov-2-sto-exeidikevmeno-ergastirio-toy-athens-eye-hospital/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/politiki-poiotitas/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/athens-eyebr-ofthalmologiko-kentro-dytikis-attikis/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/ta-matia-enos-paidioy/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/gia-astheneis/syxnes-erwtiseis-gia-ton-katarrakti/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/to-athens-eye-hospital-epekteinetai-p318.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/athens-eye-hospital-innovation-w-lens-project-p369.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/vravefsi-k-xaralampoy-rallatoy-apo-ton-syndesmo-antapokritwn-diethnwn-mme-ellados-p366.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/gerasimos-rallatos-p2.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/xaralampos-rallatos-p3.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/panagiwtis-zafeirakis-p4.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/xristina-kanaki-p5.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/despoina-tswli-p114.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/panagiwtis-matsis-p11.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/anastasios-anastasakis-p147.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/iwannis-mavrikakis-p152.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/theodwros-palaiologos-p156.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/maria-koyri-p324.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/mpaltatzis-stefanos-p126.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/gewrgios-terzis-p319.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/amalia-mpoyroy-p348.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/sofia-zwgana-p365.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/stelina-gaki-p379.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/zwi-kapsala-p383.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/gewrgios-saitakis-p394.html"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/",
+          "label": "Περισσότερα"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/gia-astheneis/tmima-erevnwn/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/gia-astheneis/tmima-ofthalmikoy-kogxoy/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/gia-astheneis/tmima-thyreoeidikis-ofthalmopatheias/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/gia-astheneis/tmima-apokatastasis-xamilis-orasis/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/epistimonika-nea/exatomikevmenoi-endofakoi-anaptyssontai-sto-athens-eye-hospital-p351.html",
+          "label": "Εξατομικευμένοι ενδοφακοί αναπτύσσονται στο Athens Eye Hospital"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/epistimonika-nea/i-xrisi-toy-femtosecond-laser-stin-xeiroyrgiki-toy-katarrakti-ekmidenizei-tin-pithanotita-epiplokwn-p314.html",
+          "label": "Η ΧΡΗΣΗ ΤΟΥ FEMTOSECOND LASER ΣΤΗΝ ΧΕΙΡΟΥΡΓΙΚΗ ΤΟΥ ΚΑΤΑΡΡΑΚΤΗ ΕΚΜΗΔΕΝΙΖΕΙ ΤΗΝ ΠΙΘΑΝΟΤΗΤΑ ΕΠΙΠΛΟΚΩΝ."
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/epistimonika-nea/vpo2018-p370.html",
+          "label": "VPO2018"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/epistimonika-nea/newteres-exelixeis-gia-tin-presvywpia-p172.html",
+          "label": "ΝΕΩΤΕΡΕΣ ΕΞΕΛΙΞΕΙΣ ΓΙΑ ΤΗΝ ΠΡΕΣΒΥΩΠΙΑ"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/epistimonika-nea/newtera-gia-ton-paidiatriko-katarrakti-p144.html",
+          "label": "ΝΕΩΤΕΡΑ ΓΙΑ ΤΟΝ ΠΑΙΔΙΑΤΡΙΚΟ ΚΑΤΑΡΡΑΚΤΗ"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/epistimonika-nea/",
+          "label": "Περισσότερα"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/cdn-cgi/l/email-protection#731a1d151c3312071b161d00160a161b1c00031a07121f5d1401",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/cdn-cgi/l/email-protection#8fe6e1e9e0cfeefbe7eae1fceaf6eae7e0fcffe6fbeee3a1e8fd",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/pistopoiiseis/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/oroi-xrisis-dilosi-aporritou-p1.html",
+          "label": "Όροι Χρήσης - Δήλωση Απορρήτου"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/politiki-prostasias-dedomenwn-proswpikoy-xaraktira/",
+          "label": "Πολιτική Προστασίας Δεδομένων Προσωπικού Χαρακτήρα"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/gia-iatroys/",
+          "label": "Για Ιατρούς"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.athenseyehospital.gr/gr/results.html",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "q"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "q",
+              "type": "text",
+              "label": "Πληκτρολογήστε και πατήστε Enter...",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "45166 75",
+          "+30) 210 9697000",
+          "155 12134",
+          "+30) 210 5717711",
+          "25426929-1",
+          "2147483641",
+          "00302109697000",
+          "00302105717711"
+        ],
+        "emails": [],
+        "addresses": [
+          "Athens Eye Hospital Λεωφ. Βουλιαγμένης 45166 75 Γλυφάδα (+30) 210 9697000 [email protected] Athens Eye Οφθαλμολογικό Κέντρο Δυτικής Αττικής Λεωφ. Θηβών 155 12134 Περιστέρι, Αθήνα (+30) 210 5717711 [email protected] Πιστοποιήσεις Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Όροι Χρήσης - Δήλωση Απορρήτου | website by theratron Πολιτική Προστασίας Δεδομένων Προσωπικού Χαρακτήρα Αρχική|Η Κλινική|Για Ασθενείς|Για Ιατρούς|Νέα|Επικοινωνία"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.youtube.com/channel/UCmztKeVocSK-HhksdoMSh3g"
+          },
+          {
+            "href": "https://twitter.com/athenseye"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.athenseyehospital.gr/gr/results.html",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "q"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "q",
+                "type": "text",
+                "label": "Πληκτρολογήστε και πατήστε Enter...",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Athens Eye Hospital Λεωφ. Βουλιαγμένης 45166 75 Γλυφάδα (+30) 210 9697000 [email protected] Athens Eye Οφθαλμολογικό Κέντρο Δυτικής Αττικής Λεωφ. Θηβών 155 12134 Περιστέρι, Αθήνα (+30) 210 5717711 [email protected] Πιστοποιήσεις Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Όροι Χρήσης - Δήλωση Απορρήτου | website by theratron Πολιτική Προστασίας Δεδομένων Προσωπικού Χαρακτήρα Αρχική|Η Κλινική|Για Ασθενείς|Για Ιατρούς|Νέα|Επικοινωνία",
+      "textContent": "Επικοινωνία Ζητήστε ραντεβού Ευκαιρίες Καριέρας English German Επικοινωνία - Πρόσβαση Η ΚλινικήΓια ΑσθενείςΔημοσιεύσειςΝέαΤμήμα ΕρευνώνΣυμβάσεις Επικοινωνία Ζητήστε ραντεβού Ευκαιρίες Καριέρας Athens Eye Hospital. Μοναδική οφθαλμολογική Κλινική με τις πλέον σύγχρονες υποδομές και υπηρεσίες σε Ελλάδα και Νοτιοανατολική Ευρώπη. Η ΚλινικήΥπεροχή στην οφθαλμολογία Με σεβασμό & αφοσίωση στον άνθρωπο, με ουσιαστική & κορυφαία επιστημονική προσέγγιση, θέτουμε καθημερινά την επιστήμη & την τεχνολογία στην υπηρεσία της ανθρώπινης υγείας & της ποιότητας ζωής. Περισσότερα Για ΑσθενείςΠροτεραιότητα ο άνθρωπος Οι καινοτόμες σύγχρονες τεχνολογίες καθώς & το κορυφαίο επιστημονικό προσωπικό μας δίνουν τη δυνατότητα να αναπτύσσουμε πρωτοποριακές μεθόδους αντιμετώπισης ακόμα & των δυσκολότερων οφθαλμολογικών περιστατικών. Περισσότερα Μοριακό Test για SARS-COV-2στο εξειδικευμένο εργαστήριο Το Athens Eye Hospital διαθέτει τεχνική μοριακής βιολογίας εντός του εξειδικευμένου εργαστηρίου του στο οποίο πραγματοποιείται ασφαλής μοριακή διάγνωση με τεχνική RT-PCR Περισσότερα Πολιτική Ποιότητας Το «ATHENS EYE HOSPITAL» έχοντας την γνώση και την εμπειρία στον χώρο παροχής Οφθαλμολογικών υπηρεσιών, έχει πλέον την δυνατότητα υλοποίησης κάθε σχετικής οφθαλμολογικής εργασίας που μπορεί να του ανατεθεί. Περισσότερα Athens Eye Οφθαλμολογικό Κέντρο Δυτικής Αττικής Πρόκειται για υπερσύγχρονη μονάδα που διαθέτει τεχνολογία αιχμής και ειδικά τμήματα. Περισσότερα Τα μάτια ενός παιδιού Ένας πρακτικός οδηγός για παιδιάτρους, οικογενειακούς ιατρούς και ευαισθητοποιημένους γονείς. Περισσότερα Συχνές Ερωτήσεις για τον Καταρράκτη Η αντιμετώπιση του καταρράκτη είναι πάντα η ίδια και συνίσταται στην αφαίρεση του θολωμένου φακού και στην αντικατάσταση του από έναν τεχνητό. Περισσότερα Athens Eye Hospital Υπεροχή στην οφθαλμολογία Στο Επίκεντρο. Sponsored internship at the Athens Eye Hospital Visit from the Vision6 team Harilaos Ginis invited speaker at the university of Murcia Τελευταία Νέα. Το Athens Eye Hospital επεκτείνεται Τρίτη, 12 Μαρτίου 2019 Το Athens Eye Hospital επεκτείνεται... Athens Eye Hospital - Innovation: W-Lens project. Τετάρτη, 15 Αυγούστου 2018 Βράβευση κ. Χαράλαμπου Ραλλάτου από τον Σύνδεσμο Ανταποκριτών Διεθνών ΜΜΕ Ελλάδος. Δευτέρα, 15 Ιανουαρίου 2018 Περισσότερα Η επιστημονική ομάδα του ΑΕΗ. Εξειδικευμένοι οφθαλμίατροι συνεργαζόμενοι με ομάδα οπτικών, οπτομετρών, εξειδικευμένων για οφθαλμολογικά περιστατικά νοσηλευτών, όλοι μαζί προασπίζουν το θεϊκό δώρο της όρασης. Γεράσιμος ΡαλλάτοςΧειρουργός Οφθαλμίατρος Χαράλαμπος ΡαλλάτοςΧειρουργός Οφθαλμίατρος Παναγιώτης ΖαφειράκηςΧειρουργός Οφθαλμίατρος Χριστίνα ΚανάκηΧειρουργός Οφθαλμίατρος Δέσποινα ΤσώληΧειρουργός Οφθαλμίατρος Παναγιώτης ΜάτσηςΧειρουργός Οφθαλμίατρος Αναστάσιος ΑναστασάκηςΧειρουργός Οφθαλμίατρος Ιωάννης ΜαυρικάκηςΧειρουργός Οφθαλμίατρος Θεόδωρος ΠαλαιολόγοςΧειρουργός Οφθαλμίατρος Μαρία ΚουρήΧειρουργός Οφθαλμίατρος - Μπαλτατζής ΣτέφανοςΧειρουργός Οφθαλμίατρος Γεώργιος ΤερζήςΧειρουργός Οφθαλμίατρος Αμαλία ΜπούρουΧειρουργός Οφθαλμίατρος Σοφία ΖωγάναΧειρουργός Οφθαλμίατρος Στελίνα ΓάκηΧειρουργός Οφθαλμίατρος Ζωή ΚαψάλαΧειρουργός Οφθαλμίατρος Γεώργιος ΣαϊτάκηςΧειρουργός Οφθαλμίατρος Περισσότερα Νέα Tμήματα. Τμήμα Ερευνών Τμήμα Οφθαλμικού Κόγχου Τμήμα Θυρεοειδικής Οφθαλμοπάθειας Τμήμα Αποκατάστασης Χαμηλής Όρασης Επιστημονικά Νέα. Εξατομικευμένοι ενδοφακοί αναπτύσσονται στο Athens Eye Hospital Τετάρτη, 7 Ιουνίου 2017 Η ΧΡΗΣΗ ΤΟΥ FEMTOSECOND LASER ΣΤΗΝ ΧΕΙΡΟΥΡΓΙΚΗ ΤΟΥ ΚΑΤΑΡΡΑΚΤΗ ΕΚΜΗΔΕΝΙΖΕΙ ΤΗΝ ΠΙΘΑΝΟΤΗΤΑ ΕΠΙΠΛΟΚΩΝ. VPO2018 Πέμπτη, 16 Αυγούστου 2018 ΝΕΩΤΕΡΕΣ ΕΞΕΛΙΞΕΙΣ ΓΙΑ ΤΗΝ ΠΡΕΣΒΥΩΠΙΑ ΝΕΩΤΕΡΑ ΓΙΑ ΤΟΝ ΠΑΙΔΙΑΤΡΙΚΟ ΚΑΤΑΡΡΑΚΤΗ Περισσότερα Athens Eye Hospital Λεωφ. Βουλιαγμένης 45166 75 Γλυφάδα (+30) 210 9697000 [email protected] Athens Eye Οφθαλμολογικό Κέντρο Δυτικής Αττικής Λεωφ. Θηβών 155 12134 Περιστέρι, Αθήνα (+30) 210 5717711 [email protected] Πιστοποιήσεις Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Όροι Χρήσης - Δήλωση Απορρήτου | website by theratron Πολιτική Προστασίας Δεδομένων Προσωπικού Χαρακτήρα Αρχική|Η Κλινική|Για Ασθενείς|Για Ιατρούς|Νέα|Επικοινωνία /*WebFontConfig = {google: { families: [ 'Comfortaa:400,700&display=swap:latin,greek' ] }}; (function(d) { var wf = d.createElement('script'), s = d.scripts[0]; wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js'; wf.async = true; s.parentNode.insertBefore(wf, s); })(document);*/ window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-25426929-1'); gtag('config', 'G-3EJ976M8G1'); $(function () {$(\".lazy\").lazy();}); .espabtn {position: fixed;left: 0;bottom: 0;z-index: 2147483641;display: flex;flex-direction: row;align-items: baseline;} $(document).scroll(function () { var y = $(this).scrollTop(); if (y > 300) { $('.espabtn').css('position', 'relative'); } else { $('.espabtn').css('position', 'fixed'); } });",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athenseyehospital.gr-home-a17e187e/about-gr-ea451c3f.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athenseyehospital.gr-home-a17e187e/about-gr-ea451c3f.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/gr.svg",
+          "alt": "Ελληνικά",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr",
+              "retrievedAt": "2026-03-31T13:20:04.708Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/gb.svg",
+          "alt": "English",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr",
+              "retrievedAt": "2026-03-31T13:20:04.708Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/de.svg",
+          "alt": "German",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr",
+              "retrievedAt": "2026-03-31T13:20:04.708Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/aeh-logo.svg",
+          "alt": "Athens Eye Hospital",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr",
+              "retrievedAt": "2026-03-31T13:20:04.708Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+          "alt": "Το Athens Eye Hospital επεκτείνεται",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr",
+              "retrievedAt": "2026-03-31T13:20:04.708Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/certifications2015.png",
+          "alt": "Πιστοποιήσεις",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr",
+              "retrievedAt": "2026-03-31T13:20:04.708Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/espa2.jpg",
+          "alt": "ESPA",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr",
+              "retrievedAt": "2026-03-31T13:20:04.708Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page fetch",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:20:04.709Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athenseyehospital.gr-home-a17e187e/homepage-gr-ea451c3f.png"
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://www.athenseyehospital.gr/en/contact-p27.html",
+      "finalUrl": "https://www.athenseyehospital.gr/en/contact-p27.html",
+      "fetchedAt": "2026-03-31T13:20:01.245Z",
+      "metadata": {
+        "title": "Contact - Athens Eye Hospital",
+        "metaDescription": "45, Vouliagmenis Avenue 166 75, Glyfada (Panagitsa Area, near Glyfada’s Police Station) Τ: (+30) 210 9697000/964 7790 F:",
+        "canonicalUrl": "https://www.athenseyehospital.gr/en/contact-p27.html",
+        "language": "en",
+        "openGraphTitle": "Contact - Athens Eye Hospital",
+        "openGraphDescription": "45, Vouliagmenis Avenue 166 75, Glyfada (Panagitsa Area, near Glyfada’s Police Station) Τ: (+30) 210 9697000/964 7790 F:",
+        "openGraphImage": "https://www.athenseyehospital.gr/"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Contact"
+        },
+        {
+          "level": "h2",
+          "text": "How to get there"
+        },
+        {
+          "level": "h3",
+          "text": "By Metro"
+        },
+        {
+          "level": "h3",
+          "text": "By Bus"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.athenseyehospital.gr/en/contact-p27.html",
+          "label": "Contact"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/en/appointment.html",
+          "label": "Appointment request"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/en/the-clinic/career-opportunities/",
+          "label": "Career Opportunities"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/de/kommunikation-p27.html",
+          "label": "German"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+          "label": "Ελληνικά"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/en/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/en/the-clinic/",
+          "label": "The Clinic"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/en/for-patients/",
+          "label": "For Patients"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/en/the-clinic/aeh-scientific-team/publications/",
+          "label": "Publications"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/en/news/",
+          "label": "News"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/en/contracts/",
+          "label": "Contracts"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/cdn-cgi/l/email-protection#1d74737b725d7c697578736e78647875726e6d74697c71337a6f",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/cdn-cgi/l/email-protection#fb92959d94bb9a8f939e95889e829e9394888b928f9a97d59c89",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/cdn-cgi/l/email-protection#056c6b636a4564716d606b76607c606d6a76756c7164692b6277",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/en/the-clinic/certifications/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/en/terms-of-use-privacy-policy-p1.html",
+          "label": "Terms of Use - Privacy Policy"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/en/privacy-policy/",
+          "label": "Privacy Policy"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/en/for-physicians/",
+          "label": "For Physicians"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.athenseyehospital.gr/en/results.html",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "q"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "q",
+              "type": "text",
+              "label": "Type and hit Enter...",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "+30) 210 9697000/964 7790",
+          "+30) 210 969 7001",
+          "+30) 210 9697000",
+          "+30) 210 5717711",
+          "25426929-1",
+          "00302109697000",
+          "00302105717711"
+        ],
+        "emails": [],
+        "addresses": [
+          "Athens Eye Hospital 45, Vouliagmenis Av.166 75, Glyfada (+30) 210 9697000 [email protected] Athens Eye Ophthalmologic Center of Western Attica 155, Thivon Av. 12134 Peristeri, Athens (+30) 210 5717711 [email protected] Certifications Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Terms of Use - Privacy Policy | website by theratron Privacy Policy Home|The Clinic|For Patients|For Physicians|News|Contact"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.youtube.com/channel/UCmztKeVocSK-HhksdoMSh3g"
+          },
+          {
+            "href": "https://twitter.com/athenseye"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.athenseyehospital.gr/en/results.html",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "q"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "q",
+                "type": "text",
+                "label": "Type and hit Enter...",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Athens Eye Hospital 45, Vouliagmenis Av.166 75, Glyfada (+30) 210 9697000 [email protected] Athens Eye Ophthalmologic Center of Western Attica 155, Thivon Av. 12134 Peristeri, Athens (+30) 210 5717711 [email protected] Certifications Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Terms of Use - Privacy Policy | website by theratron Privacy Policy Home|The Clinic|For Patients|For Physicians|News|Contact",
+      "textContent": "Contact Appointment request Career Opportunities German Ελληνικά Contact - Directions The ClinicFor PatientsPublicationsNewsResearch DepartmentContracts Contact Appointment request Career Opportunities Contact Home 45, Vouliagmenis Avenue 166 75, Glyfada (Panagitsa Area, near Glyfada’s Police Station) Τ: (+30) 210 9697000/964 7790 F: (+30) 210 969 7001 e-mail: [email protected] How to get there By Metro Take the red line and get off at Elliniko terminal station. Take the Bus number 171 to Varkiza. Get off at the Trochea Stop. Alternatively you can walk (approximately 15 min) on Vouliagmenis Avenue and you can see Athens Eye Hospital on your left hand side. By Bus Line Α3: Akadimia - Glyfada (Stop: Trochea) Line Β3: Akadimia - Glyfada (Stop: Karapanou) Line 205: Glyfada – Sourmena – Terpsithea (Stop: Karapanou) Athens Eye Hospital 45, Vouliagmenis Av.166 75, Glyfada (+30) 210 9697000 [email protected] Athens Eye Ophthalmologic Center of Western Attica 155, Thivon Av. 12134 Peristeri, Athens (+30) 210 5717711 [email protected] Certifications Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Terms of Use - Privacy Policy | website by theratron Privacy Policy Home|The Clinic|For Patients|For Physicians|News|Contact /*WebFontConfig = {google: { families: [ 'Comfortaa:400,700&display=swap:latin,greek' ] }}; (function(d) { var wf = d.createElement('script'), s = d.scripts[0]; wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js'; wf.async = true; s.parentNode.insertBefore(wf, s); })(document);*/ window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-25426929-1'); gtag('config', 'G-3EJ976M8G1'); $(function () {$(\".lazy\").lazy();}); $(document).ready(function(){ $(\".maintext table\").addClass(\"table table-striped table-bordered table-hover\"); $(\".maintext table\").wrap(\"<div class='table-responsive'></div>\"); $(\".lazymainmenu\").lazy({ bind: \"event\", delay: 0 }); });",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athenseyehospital.gr-home-a17e187e/contact-en-contact-p27-html-b146aa18.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athenseyehospital.gr-home-a17e187e/contact-en-contact-p27-html-b146aa18.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.athenseyehospital.gr/",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/en/contact-p27.html",
+          "pageType": "contact",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.athenseyehospital.gr/en/contact-p27.html",
+              "retrievedAt": "2026-03-31T13:20:01.245Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/gb.svg",
+          "alt": "English",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/en/contact-p27.html",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/en/contact-p27.html",
+              "retrievedAt": "2026-03-31T13:20:01.245Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/de.svg",
+          "alt": "German",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/en/contact-p27.html",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/en/contact-p27.html",
+              "retrievedAt": "2026-03-31T13:20:01.245Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/gr.svg",
+          "alt": "Ελληνικά",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/en/contact-p27.html",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/en/contact-p27.html",
+              "retrievedAt": "2026-03-31T13:20:01.245Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/aeh-logo.svg",
+          "alt": "Athens Eye Hospital",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/en/contact-p27.html",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/en/contact-p27.html",
+              "retrievedAt": "2026-03-31T13:20:01.245Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/certifications2015.png",
+          "alt": "Certifications",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/en/contact-p27.html",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/en/contact-p27.html",
+              "retrievedAt": "2026-03-31T13:20:01.245Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://www.athenseyehospital.gr/en/contact-p27.html",
+          "retrievedAt": "2026-03-31T13:20:01.245Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athenseyehospital.gr-home-a17e187e/contact-en-contact-p27-html-b146aa18.png"
+    },
+    "booking": {
+      "pageType": "booking",
+      "requestedUrl": "https://www.athenseyehospital.gr/gr/appointment.html",
+      "finalUrl": "https://www.athenseyehospital.gr/gr/appointment.html",
+      "fetchedAt": "2026-03-31T13:19:58.249Z",
+      "metadata": {
+        "title": "Ζητήστε ραντεβού - Athens Eye Hospital",
+        "canonicalUrl": "https://www.athenseyehospital.gr/gr/",
+        "language": "el",
+        "openGraphTitle": "Ζητήστε ραντεβού - Athens Eye Hospital"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Ζητήστε ραντεβού"
+        },
+        {
+          "level": "h3",
+          "text": "Στοιχεία Επικοινωνίας"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/appointment.html",
+          "label": "Ζητήστε ραντεβού"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/efkairies-karieras/",
+          "label": "Ευκαιρίες Καριέρας"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/en/",
+          "label": "English"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/de/",
+          "label": "German"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/",
+          "label": "Η Κλινική"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/gia-astheneis/",
+          "label": "Για Ασθενείς"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/dimosiefseis/",
+          "label": "Δημοσιεύσεις"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/nea/",
+          "label": "Νέα"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/symvaseis/",
+          "label": "Συμβάσεις"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/cdn-cgi/l/email-protection#2a43444c456a4b5e424f44594f534f4245595a435e4b46044d58",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/cdn-cgi/l/email-protection#d1b8bfb7be91b0a5b9b4bfa2b4a8b4b9bea2a1b8a5b0bdffb6a3",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/i-kliniki/pistopoiiseis/"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/oroi-xrisis-dilosi-aporritou-p1.html",
+          "label": "Όροι Χρήσης - Δήλωση Απορρήτου"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/politiki-prostasias-dedomenwn-proswpikoy-xaraktira/",
+          "label": "Πολιτική Προστασίας Δεδομένων Προσωπικού Χαρακτήρα"
+        },
+        {
+          "href": "https://www.athenseyehospital.gr/gr/gia-iatroys/",
+          "label": "Για Ιατρούς"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.athenseyehospital.gr/gr/results.html",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "q"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "q",
+              "type": "text",
+              "label": "Πληκτρολογήστε και πατήστε Enter...",
+              "required": false
+            }
+          ]
+        },
+        {
+          "purposeHint": "generic",
+          "fieldNames": [
+            "Title",
+            "Contact_Name",
+            "Contact_Area",
+            "Contact_Email",
+            "Contact_Telephone",
+            "Relationship",
+            "Department",
+            "Message",
+            "respSite",
+            "respSuccess"
+          ],
+          "submitLabels": [
+            "ΑΠΟΣΤΟΛΗ"
+          ],
+          "fields": [
+            {
+              "name": "Title",
+              "type": "radio",
+              "label": "Κα",
+              "required": false
+            },
+            {
+              "name": "Title",
+              "type": "radio",
+              "label": "Κος",
+              "required": false
+            },
+            {
+              "name": "Title",
+              "type": "radio",
+              "label": "Δρ",
+              "required": false
+            },
+            {
+              "name": "Contact_Name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "Contact_Area",
+              "type": "text",
+              "required": false
+            },
+            {
+              "name": "Contact_Email",
+              "type": "email",
+              "required": true
+            },
+            {
+              "name": "Contact_Telephone",
+              "type": "tel",
+              "required": true
+            },
+            {
+              "name": "Relationship",
+              "type": "select",
+              "label": "Η σχέση σας με τον ασθενή",
+              "required": false
+            },
+            {
+              "name": "Department",
+              "type": "select",
+              "label": "Τμήμα",
+              "required": false
+            },
+            {
+              "name": "Message",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "name": "respSite",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "respSuccess",
+              "type": "hidden",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "45166 75",
+          "+30) 210 9697000",
+          "155 12134",
+          "+30) 210 5717711",
+          "25426929-1",
+          "00302109697000",
+          "00302105717711"
+        ],
+        "emails": [],
+        "addresses": [
+          "Athens Eye Hospital Λεωφ. Βουλιαγμένης 45166 75 Γλυφάδα (+30) 210 9697000 [email protected] Athens Eye Οφθαλμολογικό Κέντρο Δυτικής Αττικής Λεωφ. Θηβών 155 12134 Περιστέρι, Αθήνα (+30) 210 5717711 [email protected] Πιστοποιήσεις Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Όροι Χρήσης - Δήλωση Απορρήτου | website by theratron Πολιτική Προστασίας Δεδομένων Προσωπικού Χαρακτήρα Αρχική|Η Κλινική|Για Ασθενείς|Για Ιατρούς|Νέα|Επικοινωνία"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.youtube.com/channel/UCmztKeVocSK-HhksdoMSh3g"
+          },
+          {
+            "href": "https://twitter.com/athenseye"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.athenseyehospital.gr/gr/results.html",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "q"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "q",
+                "type": "text",
+                "label": "Πληκτρολογήστε και πατήστε Enter...",
+                "required": false
+              }
+            ]
+          },
+          {
+            "purposeHint": "generic",
+            "fieldNames": [
+              "Title",
+              "Contact_Name",
+              "Contact_Area",
+              "Contact_Email",
+              "Contact_Telephone",
+              "Relationship",
+              "Department",
+              "Message",
+              "respSite",
+              "respSuccess"
+            ],
+            "submitLabels": [
+              "ΑΠΟΣΤΟΛΗ"
+            ],
+            "fields": [
+              {
+                "name": "Title",
+                "type": "radio",
+                "label": "Κα",
+                "required": false
+              },
+              {
+                "name": "Title",
+                "type": "radio",
+                "label": "Κος",
+                "required": false
+              },
+              {
+                "name": "Title",
+                "type": "radio",
+                "label": "Δρ",
+                "required": false
+              },
+              {
+                "name": "Contact_Name",
+                "type": "text",
+                "required": true
+              },
+              {
+                "name": "Contact_Area",
+                "type": "text",
+                "required": false
+              },
+              {
+                "name": "Contact_Email",
+                "type": "email",
+                "required": true
+              },
+              {
+                "name": "Contact_Telephone",
+                "type": "tel",
+                "required": true
+              },
+              {
+                "name": "Relationship",
+                "type": "select",
+                "label": "Η σχέση σας με τον ασθενή",
+                "required": false
+              },
+              {
+                "name": "Department",
+                "type": "select",
+                "label": "Τμήμα",
+                "required": false
+              },
+              {
+                "name": "Message",
+                "type": "textarea",
+                "required": true
+              },
+              {
+                "name": "respSite",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "respSuccess",
+                "type": "hidden",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Athens Eye Hospital Λεωφ. Βουλιαγμένης 45166 75 Γλυφάδα (+30) 210 9697000 [email protected] Athens Eye Οφθαλμολογικό Κέντρο Δυτικής Αττικής Λεωφ. Θηβών 155 12134 Περιστέρι, Αθήνα (+30) 210 5717711 [email protected] Πιστοποιήσεις Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Όροι Χρήσης - Δήλωση Απορρήτου | website by theratron Πολιτική Προστασίας Δεδομένων Προσωπικού Χαρακτήρα Αρχική|Η Κλινική|Για Ασθενείς|Για Ιατρούς|Νέα|Επικοινωνία",
+      "textContent": "Επικοινωνία Ζητήστε ραντεβού Ευκαιρίες Καριέρας English German Επικοινωνία - Πρόσβαση Η ΚλινικήΓια ΑσθενείςΔημοσιεύσειςΝέαΤμήμα ΕρευνώνΣυμβάσεις Επικοινωνία Ζητήστε ραντεβού Ευκαιρίες Καριέρας Ζητήστε ραντεβού Αρχική Στοιχεία Επικοινωνίας Τίτλος Κα Κος Δρ Ονοματεπώνυμο Περιοχή Email Τηλέφωνο Η σχέση σας με τον ασθενή Ο ίδιος Γονέας Τέκνο Σύζυγος Φίλος Τμήμα -- Παρακαλούμε επιλέξτε -- Αμφιβληστροειδούς Καταρράκτου Γλαυκώματος Κερατοειδούς Διαθλαστικής Χειρουργικής Ωχράς Κηλίδος Παιδοοφθαλμολογίας Στραβισμού Αμφιβληστροειδοπάθειας της Προωρότητος (RetCam) Ορθοπτικό Laser Υπερηχογραφίας Ηλεκτροφυσιολογίας Οφθαλμικής Ογκολογίας Οφθαλμικών Φλεγμονών Νευροοφθαλμολογίας Αισθητικής Οφθαλμολογίας - Οφθαλμοπλαστικής Οφθαλμικής Γενετικής Οφθαλμικής Μικροβιολογίας Οφθαλμικής Ιστοπαθολογίας Οφθαλμικής Ανοσολογίας Βοηθημάτων Χαμηλής Όρασης Φακών Επαφής Τεχνητής Όρασης Εκπαίδευσης Οφθαλμιάτρων (Medical Simulators) Μήνυμα ΑΠΟΣΤΟΛΗ Athens Eye Hospital Λεωφ. Βουλιαγμένης 45166 75 Γλυφάδα (+30) 210 9697000 [email protected] Athens Eye Οφθαλμολογικό Κέντρο Δυτικής Αττικής Λεωφ. Θηβών 155 12134 Περιστέρι, Αθήνα (+30) 210 5717711 [email protected] Πιστοποιήσεις Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Όροι Χρήσης - Δήλωση Απορρήτου | website by theratron Πολιτική Προστασίας Δεδομένων Προσωπικού Χαρακτήρα Αρχική|Η Κλινική|Για Ασθενείς|Για Ιατρούς|Νέα|Επικοινωνία /*WebFontConfig = {google: { families: [ 'Comfortaa:400,700&display=swap:latin,greek' ] }}; (function(d) { var wf = d.createElement('script'), s = d.scripts[0]; wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js'; wf.async = true; s.parentNode.insertBefore(wf, s); })(document);*/ window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-25426929-1'); gtag('config', 'G-3EJ976M8G1'); $(function () {$(\".lazy\").lazy();});",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athenseyehospital.gr-home-a17e187e/booking-gr-appointment-html-4766af69.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athenseyehospital.gr-home-a17e187e/booking-gr-appointment-html-4766af69.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/gr.svg",
+          "alt": "Ελληνικά",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr/appointment.html",
+          "pageType": "booking",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr/appointment.html",
+              "retrievedAt": "2026-03-31T13:19:58.248Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/gb.svg",
+          "alt": "English",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr/appointment.html",
+          "pageType": "booking",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr/appointment.html",
+              "retrievedAt": "2026-03-31T13:19:58.248Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/de.svg",
+          "alt": "German",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr/appointment.html",
+          "pageType": "booking",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr/appointment.html",
+              "retrievedAt": "2026-03-31T13:19:58.248Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/aeh-logo.svg",
+          "alt": "Athens Eye Hospital",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr/appointment.html",
+          "pageType": "booking",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr/appointment.html",
+              "retrievedAt": "2026-03-31T13:19:58.248Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athenseyehospital.gr/src/img/certifications2015.png",
+          "alt": "Πιστοποιήσεις",
+          "sourcePageUrl": "https://www.athenseyehospital.gr/gr/appointment.html",
+          "pageType": "booking",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athenseyehospital.gr/gr/appointment.html",
+              "retrievedAt": "2026-03-31T13:19:58.248Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page fetch",
+          "uri": "https://www.athenseyehospital.gr/gr/appointment.html",
+          "retrievedAt": "2026-03-31T13:19:58.249Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athenseyehospital.gr-home-a17e187e/booking-gr-appointment-html-4766af69.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "45166 75",
+      "+30) 210 9697000",
+      "155 12134",
+      "+30) 210 5717711",
+      "25426929-1",
+      "2147483641",
+      "00302109697000",
+      "00302105717711",
+      "+30) 210 9697000 / 964 7790",
+      "+30) 210 969 7001",
+      "15512134",
+      "+30) 210 5717 711-12",
+      "+30) 210 5717 713",
+      "+30) 210 9697000/964 7790"
+    ],
+    "emails": [],
+    "addresses": [
+      "Athens Eye Hospital Λεωφ. Βουλιαγμένης 45166 75 Γλυφάδα (+30) 210 9697000 [email protected] Athens Eye Οφθαλμολογικό Κέντρο Δυτικής Αττικής Λεωφ. Θηβών 155 12134 Περιστέρι, Αθήνα (+30) 210 5717711 [email protected] Πιστοποιήσεις Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Όροι Χρήσης - Δήλωση Απορρήτου | website by theratron Πολιτική Προστασίας Δεδομένων Προσωπικού Χαρακτήρα Αρχική|Η Κλινική|Για Ασθενείς|Για Ιατρούς|Νέα|Επικοινωνία",
+      "Athens Eye Hospital 45, Vouliagmenis Av.166 75, Glyfada (+30) 210 9697000 [email protected] Athens Eye Ophthalmologic Center of Western Attica 155, Thivon Av. 12134 Peristeri, Athens (+30) 210 5717711 [email protected] Certifications Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Terms of Use - Privacy Policy | website by theratron Privacy Policy Home|The Clinic|For Patients|For Physicians|News|Contact"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.youtube.com/channel/UCmztKeVocSK-HhksdoMSh3g"
+      },
+      {
+        "href": "https://twitter.com/athenseye"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://www.athenseyehospital.gr/gr/results.html",
+        "method": "get",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "q"
+        ],
+        "submitLabels": [],
+        "fields": [
+          {
+            "name": "q",
+            "type": "text",
+            "label": "Πληκτρολογήστε και πατήστε Enter...",
+            "required": false
+          }
+        ]
+      },
+      {
+        "purposeHint": "generic",
+        "fieldNames": [
+          "Title",
+          "Contact_Name",
+          "Contact_Area",
+          "Contact_Email",
+          "Contact_Telephone",
+          "Relationship",
+          "Department",
+          "Message",
+          "respSite",
+          "respSuccess"
+        ],
+        "submitLabels": [
+          "ΑΠΟΣΤΟΛΗ"
+        ],
+        "fields": [
+          {
+            "name": "Title",
+            "type": "radio",
+            "label": "Κα",
+            "required": false
+          },
+          {
+            "name": "Title",
+            "type": "radio",
+            "label": "Κος",
+            "required": false
+          },
+          {
+            "name": "Title",
+            "type": "radio",
+            "label": "Δρ",
+            "required": false
+          },
+          {
+            "name": "Contact_Name",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "Contact_Area",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "Contact_Email",
+            "type": "email",
+            "required": true
+          },
+          {
+            "name": "Contact_Telephone",
+            "type": "tel",
+            "required": true
+          },
+          {
+            "name": "Relationship",
+            "type": "select",
+            "label": "Η σχέση σας με τον ασθενή",
+            "required": false
+          },
+          {
+            "name": "Department",
+            "type": "select",
+            "label": "Τμήμα",
+            "required": false
+          },
+          {
+            "name": "Message",
+            "type": "textarea",
+            "required": true
+          },
+          {
+            "name": "respSite",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "respSuccess",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.athenseyehospital.gr/en/results.html",
+        "method": "get",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "q"
+        ],
+        "submitLabels": [],
+        "fields": [
+          {
+            "name": "q",
+            "type": "text",
+            "label": "Type and hit Enter...",
+            "required": false
+          }
+        ]
+      },
+      {
+        "purposeHint": "contact",
+        "fieldNames": [
+          "Title",
+          "Contact_Name",
+          "Contact_Area",
+          "Contact_Email",
+          "Contact_Telephone",
+          "Relationship",
+          "Department",
+          "Message",
+          "respSite",
+          "respSuccess"
+        ],
+        "submitLabels": [
+          "SUBMIT"
+        ],
+        "fields": [
+          {
+            "name": "Title",
+            "type": "radio",
+            "label": "Ms",
+            "required": false
+          },
+          {
+            "name": "Title",
+            "type": "radio",
+            "label": "Mr",
+            "required": false
+          },
+          {
+            "name": "Title",
+            "type": "radio",
+            "label": "Dr",
+            "required": false
+          },
+          {
+            "name": "Contact_Name",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "Contact_Area",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "Contact_Email",
+            "type": "email",
+            "required": true
+          },
+          {
+            "name": "Contact_Telephone",
+            "type": "tel",
+            "required": true
+          },
+          {
+            "name": "Relationship",
+            "type": "select",
+            "label": "Your relationship to the patient",
+            "required": false
+          },
+          {
+            "name": "Department",
+            "type": "select",
+            "label": "Department",
+            "required": false
+          },
+          {
+            "name": "Message",
+            "type": "textarea",
+            "required": true
+          },
+          {
+            "name": "respSite",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "respSuccess",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Athens Eye Hospital - Athens Eye Hospital",
+    "canonicalUrl": "https://www.athenseyehospital.gr/gr/",
+    "language": "el",
+    "openGraphTitle": "Athens Eye Hospital - Athens Eye Hospital"
+  },
+  "imageReferences": [
+    {
+      "url": "https://www.athenseyehospital.gr/src/img/gr.svg",
+      "alt": "Ελληνικά",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.092Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athenseyehospital.gr/src/img/gb.svg",
+      "alt": "English",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.092Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athenseyehospital.gr/src/img/de.svg",
+      "alt": "German",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.092Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athenseyehospital.gr/src/img/aeh-logo.svg",
+      "alt": "Athens Eye Hospital",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.092Z"
+        }
+      ]
+    },
+    {
+      "url": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "alt": "Το Athens Eye Hospital επεκτείνεται",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.092Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athenseyehospital.gr/src/img/certifications2015.png",
+      "alt": "Πιστοποιήσεις",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.092Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athenseyehospital.gr/src/img/espa2.jpg",
+      "alt": "ESPA",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.092Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athenseyehospital.gr/",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+      "pageType": "contact",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+          "retrievedAt": "2026-03-31T13:19:59.801Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "45166 75",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.092Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30) 210 9697000",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.092Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "155 12134",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.092Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30) 210 5717711",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.092Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "25426929-1",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.092Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2147483641",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.092Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "00302109697000",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.092Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "00302105717711",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.092Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Athens Eye Hospital Λεωφ. Βουλιαγμένης 45166 75 Γλυφάδα (+30) 210 9697000 [email protected] Athens Eye Οφθαλμολογικό Κέντρο Δυτικής Αττικής Λεωφ. Θηβών 155 12134 Περιστέρι, Αθήνα (+30) 210 5717711 [email protected] Πιστοποιήσεις Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Όροι Χρήσης - Δήλωση Απορρήτου | website by theratron Πολιτική Προστασίας Δεδομένων Προσωπικού Χαρακτήρα Αρχική|Η Κλινική|Για Ασθενείς|Για Ιατρούς|Νέα|Επικοινωνία",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.092Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.athenseyehospital.gr/gr",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athenseyehospital.gr/gr",
+          "retrievedAt": "2026-03-31T13:19:57.092Z"
+        }
+      ]
+    },
+    {
+      "type": "booking_page",
+      "value": "https://www.athenseyehospital.gr/gr/appointment.html",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr/appointment.html",
+      "pageType": "booking",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://www.athenseyehospital.gr/gr/appointment.html",
+          "retrievedAt": "2026-03-31T13:19:58.248Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.athenseyehospital.gr/gr/appointment.html",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr/appointment.html",
+      "pageType": "booking",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://www.athenseyehospital.gr/gr/appointment.html",
+          "retrievedAt": "2026-03-31T13:19:58.248Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30) 210 9697000 / 964 7790",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+          "retrievedAt": "2026-03-31T13:19:59.801Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30) 210 969 7001",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+          "retrievedAt": "2026-03-31T13:19:59.801Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "15512134",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+          "retrievedAt": "2026-03-31T13:19:59.801Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30) 210 5717 711-12",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+          "retrievedAt": "2026-03-31T13:19:59.801Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30) 210 5717 713",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+          "retrievedAt": "2026-03-31T13:19:59.801Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+          "retrievedAt": "2026-03-31T13:19:59.801Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+          "retrievedAt": "2026-03-31T13:19:59.801Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30) 210 9697000/964 7790",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/en/contact-p27.html",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athenseyehospital.gr/en/contact-p27.html",
+          "retrievedAt": "2026-03-31T13:20:01.245Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Athens Eye Hospital 45, Vouliagmenis Av.166 75, Glyfada (+30) 210 9697000 [email protected] Athens Eye Ophthalmologic Center of Western Attica 155, Thivon Av. 12134 Peristeri, Athens (+30) 210 5717711 [email protected] Certifications Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Terms of Use - Privacy Policy | website by theratron Privacy Policy Home|The Clinic|For Patients|For Physicians|News|Contact",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/en/contact-p27.html",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athenseyehospital.gr/en/contact-p27.html",
+          "retrievedAt": "2026-03-31T13:20:01.245Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.athenseyehospital.gr/en/contact-p27.html",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/en/contact-p27.html",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athenseyehospital.gr/en/contact-p27.html",
+          "retrievedAt": "2026-03-31T13:20:01.245Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.athenseyehospital.gr/en/contact-p27.html",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/en/contact-p27.html",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athenseyehospital.gr/en/contact-p27.html",
+          "retrievedAt": "2026-03-31T13:20:01.245Z"
+        }
+      ]
+    },
+    {
+      "type": "booking_page",
+      "value": "https://www.athenseyehospital.gr/en/appointment.html",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/en/appointment.html",
+      "pageType": "booking",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://www.athenseyehospital.gr/en/appointment.html",
+          "retrievedAt": "2026-03-31T13:20:02.725Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.athenseyehospital.gr/en/appointment.html",
+      "sourcePageUrl": "https://www.athenseyehospital.gr/en/appointment.html",
+      "pageType": "booking",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://www.athenseyehospital.gr/en/appointment.html",
+          "retrievedAt": "2026-03-31T13:20:02.725Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://www.athenseyehospital.gr/",
+    "finalOrigin": "https://www.athenseyehospital.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://www.athenseyehospital.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:19:56.574Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [],
+      "disallowRules": [],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://www.athenseyehospital.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:19:56.270Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://www.athenseyehospital.gr/gr",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.athenseyehospital.gr/",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/appointment.html",
+        "action": "queued",
+        "pageTypeHint": "booking",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/i-kliniki/efkairies-karieras",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/de",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/i-kliniki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/gia-astheneis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/dimosiefseis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/nea",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/symvaseis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/i-kliniki/moriako-test-gia-sars-cov-2-sto-exeidikevmeno-ergastirio-toy-athens-eye-hospital",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/i-kliniki/politiki-poiotitas",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/athens-eyebr-ofthalmologiko-kentro-dytikis-attikis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/ta-matia-enos-paidioy",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/gia-astheneis/syxnes-erwtiseis-gia-ton-katarrakti",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/nea/to-athens-eye-hospital-epekteinetai-p318.html",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/nea/athens-eye-hospital-innovation-w-lens-project-p369.html",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:57.093Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/appointment.html",
+        "action": "fetched",
+        "pageTypeHint": "booking",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:58.249Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/cdn-cgi/l/email-protection",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr/appointment.html",
+        "timestamp": "2026-03-31T13:19:58.249Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/i-kliniki/pistopoiiseis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr/appointment.html",
+        "timestamp": "2026-03-31T13:19:58.249Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/oroi-xrisis-dilosi-aporritou-p1.html",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr/appointment.html",
+        "timestamp": "2026-03-31T13:19:58.249Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/politiki-prostasias-dedomenwn-proswpikoy-xaraktira",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr/appointment.html",
+        "timestamp": "2026-03-31T13:19:58.249Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/gia-iatroys",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr/appointment.html",
+        "timestamp": "2026-03-31T13:19:58.249Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:19:59.802Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/en/contact-p27.html",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+        "timestamp": "2026-03-31T13:19:59.802Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/de/kommunikation-p27.html",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+        "timestamp": "2026-03-31T13:19:59.802Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/en/contact-p27.html",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+        "timestamp": "2026-03-31T13:20:01.245Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/en/appointment.html",
+        "action": "queued",
+        "pageTypeHint": "booking",
+        "reason": "Discovered from https://www.athenseyehospital.gr/en/contact-p27.html",
+        "timestamp": "2026-03-31T13:20:01.246Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/en/the-clinic/career-opportunities",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.athenseyehospital.gr/en/contact-p27.html",
+        "timestamp": "2026-03-31T13:20:01.246Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/en/the-clinic",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.athenseyehospital.gr/en/contact-p27.html",
+        "timestamp": "2026-03-31T13:20:01.246Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/en/the-clinic/aeh-scientific-team/publications",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.athenseyehospital.gr/en/contact-p27.html",
+        "timestamp": "2026-03-31T13:20:01.246Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/en/the-clinic/certifications",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.athenseyehospital.gr/en/contact-p27.html",
+        "timestamp": "2026-03-31T13:20:01.246Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/en/for-physicians",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://www.athenseyehospital.gr/en/contact-p27.html",
+        "timestamp": "2026-03-31T13:20:01.246Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/en/for-patients",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/en/contact-p27.html",
+        "timestamp": "2026-03-31T13:20:01.246Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/en/news",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/en/contact-p27.html",
+        "timestamp": "2026-03-31T13:20:01.246Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/en/contracts",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/en/contact-p27.html",
+        "timestamp": "2026-03-31T13:20:01.246Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/en/terms-of-use-privacy-policy-p1.html",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/en/contact-p27.html",
+        "timestamp": "2026-03-31T13:20:01.246Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/en/privacy-policy",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/en/contact-p27.html",
+        "timestamp": "2026-03-31T13:20:01.246Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/en/appointment.html",
+        "action": "fetched",
+        "pageTypeHint": "booking",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.athenseyehospital.gr/en/contact-p27.html",
+        "timestamp": "2026-03-31T13:20:02.726Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.athenseyehospital.gr/en/contact-p27.html",
+        "timestamp": "2026-03-31T13:20:04.709Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/nea/vravefsi-k-xaralampoy-rallatoy-apo-ton-syndesmo-antapokritwn-diethnwn-mme-ellados-p366.html",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:20:04.710Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/i-kliniki/i-epistimoniki-omada-toy-aei/eidikoi-ofthalmiatroi/gerasimos-rallatos-p2.html",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athenseyehospital.gr/gr",
+        "timestamp": "2026-03-31T13:20:04.710Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:20:07.406Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/appointment.html",
+        "action": "screenshot_captured",
+        "pageTypeHint": "booking",
+        "timestamp": "2026-03-31T13:20:08.657Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/gr/epikoinonia-p27.html",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:20:09.712Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/en/contact-p27.html",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:20:11.019Z"
+      },
+      {
+        "url": "https://www.athenseyehospital.gr/en/appointment.html",
+        "action": "screenshot_captured",
+        "pageTypeHint": "booking",
+        "timestamp": "2026-03-31T13:20:12.195Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

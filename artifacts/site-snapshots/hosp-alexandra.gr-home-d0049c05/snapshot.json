@@ -1,0 +1,2406 @@
+{
+  "domain": "hosp-alexandra.gr",
+  "collectedAt": "2026-03-31T13:22:21.218Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/hosp-alexandra.gr-home-d0049c05",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "http://www.hosp-alexandra.gr/",
+      "finalUrl": "https://hosp-alexandra.gr/",
+      "fetchedAt": "2026-03-31T13:22:11.451Z",
+      "metadata": {
+        "title": "Γενικό Νοσοκομείο Αλεξάνδρα",
+        "metaDescription": "Το Γενικό Νοσοκομείο Αθηνών «Αλεξάνδρα» ανήκει στη 1η Υγειονομική Περιφέρεια Αθηνών. Έχει περάσει πάνω από μισός αιώνας από την ίδρυση του Μαιευτηρίου «Αλεξάνδρα». Όλα αυτά τα χρόνια το Γ.Ν.Α. «Αλεξάνδρα» εξελίχθηκε και σήμερα αποτελεί ιατρικό, νοσηλευτικό, εκπαιδευτικό και ερευνητικό κέντρο τόσο στη Μαιευτική και Γυναικολογία όσο και στην Παθολογία και Καρδιολογία. Με τη μακρόχρονη εμπειρία",
+        "canonicalUrl": "https://hosp-alexandra.gr/",
+        "language": "el",
+        "robots": "max-image-preview:large",
+        "openGraphDescription": "Το Γενικό Νοσοκομείο Αθηνών «Αλεξάνδρα» ανήκει στη 1η Υγειονομική Περιφέρεια Αθηνών. Έχει περάσει πάνω από μισός αιώνας από την ίδρυση του Μαιευτηρίου «Αλεξάνδρα». Όλα αυτά τα χρόνια το Γ.Ν.Α. «Αλεξάνδρα» εξελίχθηκε και σήμερα αποτελεί ιατρικό, νοσηλευτικό, εκπαιδευτικό και ερευνητικό κέντρο τόσο στη Μαιευτική και Γυναικολογία όσο και στην Παθολογία και Καρδιολογία. Με τη μακρόχρονη εμπειρία",
+        "openGraphImage": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/gn-alexandra-logo-120-1.png"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "ΧΡΗΣΙΜΑ"
+        },
+        {
+          "level": "h2",
+          "text": "ΛΙΣΤΕΣ ΧΕΙΡΟΥΡΓΕΙΩΝ"
+        },
+        {
+          "level": "h2",
+          "text": "ΕΦΗΜΕΡΙΕΣ ΝΟΣΟΚΟΜΕΙΟΥ"
+        },
+        {
+          "level": "h2",
+          "text": "1566"
+        },
+        {
+          "level": "h2",
+          "text": "ΠΛΗΡΟΦΟΡΙΕΣ ΓΙΑ ΑΣΘΕΝΕΙΣ – ΕΠΙΣΚΕΠΤΕΣ"
+        },
+        {
+          "level": "h2",
+          "text": "ΕΤΗΣΙΟΣ ΑΠΟΛΟΓΙΣΜΟΣ ΝΟΣΟΚΟΜΕΙΟΥ"
+        },
+        {
+          "level": "h2",
+          "text": "ΕΠΙΣΚΕΠΤΗΡΙΑ"
+        },
+        {
+          "level": "h2",
+          "text": "e-ΑΙΤΗΣΕΙΣ"
+        },
+        {
+          "level": "h2",
+          "text": "ΤΜΗΜΑ ΨΥΧΟΠΡΟΦΥΛΑΚΤΙΚΗΣ – ΑΝΩΔΥΝΟΣ ΤΟΚΕΤΟΣ"
+        },
+        {
+          "level": "h2",
+          "text": "ΠΛΑΤΦΟΡΜΑ ΑΝΩΝΥΜΩΝ ΑΝΑΦΟΡΩΝ Ν.4990/2022"
+        },
+        {
+          "level": "h2",
+          "text": "ΗΜΕΡΟΛΟΓΙΟ ΕΦΗΜΕΡΙΩΝ"
+        },
+        {
+          "level": "h2",
+          "text": "ΥΠΗΡΕΣΙΕΣ"
+        },
+        {
+          "level": "h2",
+          "text": "ΠΡΟΣΦΑΤΕΣ ΠΡΟΚΗΡΥΞΕΙΣ"
+        },
+        {
+          "level": "h2",
+          "text": "ΔΙΑΓΩΝΙΣΜΟΣ ΜΕ ΑΡΙΘΜΟ 21.26 ΓΙΑ ΤΗΝ ΑΝΑΔΕΙΞΗ ΟΙΚΟΝΟΜΙΚΟΥ ΦΟΡΕΑ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ ΔΙΑΘΕΣΗΣ ΤΗΛΕΟΡΑΣΕΩΝ ΚΑΙ ΚΑΘΙΣΜΑΤΩΝ ΣΕ ΘΑΛΑΜΟΥΣ ΝΟΣΗΛΕΥΟΜΕΝΩΝ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ."
+        },
+        {
+          "level": "h2",
+          "text": "ΠΡΟΣΚΛΗΣΗ 24.26 ΠΡΟΣ ΚΑΘΕ ΕΝΔΙΑΦΕΡΟΜΕΝΟ ΟΙΚΟΝΟΜΙΚΟ ΦΟΡΕΑ ΓΙΑ ΤΗΝ ΥΠΟΒΟΛΗ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΗΛΕΚΤΡΟΧΕΙΡΟΥΡΓΙΚΗΣ ΔΙΑΘΕΡΜΙΑΣ ΓΙΑ ΤΗΝ ΚΑΛΥΨΗ ΑΝΑΓΚΩΝ ΤΟΥ ΤΜΗΜΑΤΟΣ ΚΟΛΠΟΣΚΟΠΗΣΕΩΝ ΤΟΥ Γ.Ν.Α. ΑΛΕΞΑΝΔΡΑ"
+        },
+        {
+          "level": "h2",
+          "text": "ΠΡΟΣΚΛΗΣΗ 20.26 ΠΡΟΣ ΚΑΘΕ ΕΝΔΙΑΦΕΡΟΜΕΝΟ ΟΙΚΟΝΟΜΙΚΟ ΦΟΡΕΑ ΓΙΑ ΤΗΝ ΥΠΟΒΟΛΗ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΤΗ ΣΥΜΜΕΤΟΧΗ ΤΟΥ ΠΑΘΟΛΟΓΟΑΝΑΤΟΜΙΚΟΥ ΕΡΓΑΣΤΗΡΙΟΥ ΣΕ ΕΛΕΓΧΟ ΕΞΩΤΕΡΙΚΗΣ ΠΟΙΟΤΗΤΑΣ"
+        },
+        {
+          "level": "h2",
+          "text": "ΠΡΟΣΚΛΗΣΗ ΜΕ ΑΡΙΘΜΟ 9.26 ΠΡΟΣ ΚΑΘΕ ΕΝΔΙΑΦΕΡΟΜΕΝΟ ΟΙΚΟΝΟΜΙΚΟ ΦΟΡΕΑ ΓΙΑ ΤΗΝ ΥΠΟΒΟΛΗ ΠΡΟΣΦΟΡΑΣ, ΓΙΑ ΤΗΝ ΕΤΗΣΙΑ ΣΥΝΤΗΡΗΣΗ ΕΞΟΠΛΙΣΜΟΥ ΚΑΙ ΕΓΚΑΤΑΣΤΑΣΕΩΝ ΦΥΣΙΚΟΥ ΑΕΡΙΟΥ ΤΟΥ ΛΕΒΗΤΟΣΤΑΣΙΟΥ ΧΩΡΙΣ ΑΝΤΑΛΛΑΚΤΙΚΑ"
+        },
+        {
+          "level": "h2",
+          "text": "ΤΕΛΕΥΤΑΙΕΣ ΑΝΑΚΟΙΝΩΣΕΙΣ"
+        },
+        {
+          "level": "h2",
+          "text": "ΠΡΑΚΤΙΚΟ ΑΝΑΡΤΗΣΗΣ ΑΠΟΦΑΣΗΣ ΤΟΠΟΘΕΤΗΣΗΣ-ΠΡΟΣΛΗΨΗΣ ΕΙΔΙΚΕΥΟΜΕΝΟΥ ΙΑΤΡΟΥ"
+        },
+        {
+          "level": "h2",
+          "text": "Δελτίο Τύπου για την δωρεά οργάνων"
+        },
+        {
+          "level": "h2",
+          "text": "ΠΡΟΚΗΡΥΞΗ ΙΑΤΡΟΥ ΕΣΥ ΑΚΤΙΝΟΘΕΡΑΠΕΥΤΙΚΗΣ ΟΓΚΟΛΟΓΙΑΣ ΑΛΕΞΑΝΔΡΑ"
+        },
+        {
+          "level": "h2",
+          "text": "ΔΕΛΤΙΟ ΓΙΑ ΕΓΚΑΤΕΛΕΛΕΙΜΜΕΝΑ"
+        },
+        {
+          "level": "h2",
+          "text": "ΠΙΝΑΚΑΣ ΕΠΕΜΒΑΤΙΚΗΣ ΚΑΡΔΙΟΛΟΓΙΑΣ"
+        },
+        {
+          "level": "h2",
+          "text": "ΠΡΟΚΗΡΥΞΗ ΘΕΣΗΣ ΕΙΔΙΚΕΥΜΕΝΟΥ ΙΑΤΡΟΥ ΕΣΥ ΜΕ ΒΑΘΜΟ ΣΥΝΤ. ΔΙΕΥΘΥΝΤΗ (ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ)"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://hosp-alexandra.gr/"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/istoria/",
+          "label": "Ιστορία"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/dioikisi/",
+          "label": "Διοίκηση"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/organogramma/",
+          "label": "Οργανόγραμμα"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/etisios-apologismos/",
+          "label": "Ετήσιος Απολογισμός"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/ektelesi-proypologismoy-n-4305-2014-ar-15/",
+          "label": "Εκτέλεση Προϋπολογισμού, Ν. 4305/2014 Αρ. 15"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/politiki-poiotitas/",
+          "label": "Πολιτική Ποιότητας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/",
+          "label": "Ιατρική Υπηρεσία"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia/",
+          "label": "Νοσηλευτική Υπηρεσία"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia/grafeio-nosokomeiakon-loimoxeon/",
+          "label": "Γραφείο Νοσοκομειακών Λοιμώξεων"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia/tmima-psychoprofylaktikis-anodynos-toketos/",
+          "label": "Τμήμα Ψυχοπροφυλακτικής – Ανώδυνος Τοκετός"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia/epitropi-mitrikoy-thilasmoy/",
+          "label": "Επιτροπή Μητρικού Θηλασμού"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia/",
+          "label": "Διοικητική Υπηρεσία"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia/ypodieythynsi-dioikitikou/",
+          "label": "Υποδιεύθυνση Διοικητικού"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia/ypodieythynsi-oikonomikou/",
+          "label": "Υποδιεύθυνση Οικονομικού"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia/ypodieythynsi-technikoy/",
+          "label": "Υποδιεύθυνση Τεχνικού"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/aytoteli-tmimata/",
+          "label": "Αυτοτελή Τμήματα"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/aytoteli-tmimata/autoteles-tmima-organosis-kai-pliroforikis/",
+          "label": "Αυτοτελές Τμήμα Οργάνωσης και Πληροφορικής"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/aytoteli-tmimata/aytoteles-grafeio-poiotitas/",
+          "label": "Αυτοτελές Τμήμα Ελέγχου Ποιότητας, Έρευνας και Συνεχιζόμενης Εκπαίδευσης"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias/",
+          "label": "Γραφείο Προστασίας Δικαιωμάτων Ληπτών/τριών Υπηρεσιών Υγείας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/aytotelis-monada-esoterikoy-elegchoy-1/",
+          "label": "Αυτοτελής Μονάδα Εσωτερικού Ελέγχου"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/",
+          "label": "Παθολογικός Τομέας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/therapeytiki-kliniki-iatrikis-scholis-ekpa/",
+          "label": "Θεραπευτική Κλινική Ιατρικής Σχολής ΕΚΠΑ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/therapeytiki-kliniki-iatrikis-scholis-ekpa/ogkologiko-aimatologiko-tmima/",
+          "label": "Ογκολογικό – Αιματολογικό Τμήμα"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/therapeytiki-kliniki-iatrikis-scholis-ekpa/d-pteryga-4-lt-sup-gt-oy-lt-sup-gt-orofoy-e-pteryga-4-lt-sup-gt-oy-lt-sup-gt-orofoy/",
+          "label": "Δ’ Πτέρυγα 4ου ορόφου, Ε’ Πτέρυγα 4ου ορόφου"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/therapeytiki-kliniki-iatrikis-scholis-ekpa/d-pteryga-3oy-orofoy-e-pteryga-3-orofoy/",
+          "label": "Δ’ Πτέρυγα 3ου ορόφου, Ε’ Πτέρυγα 3ου ορόφου"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/gastrenterologiko/",
+          "label": "Γαστρεντερολογικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/endokrinologiko/",
+          "label": "Ενδοκρινολογικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/therapeytiki-kliniki-iatrikis-scholis-ekpa/pneymonologiko-tmima/",
+          "label": "Πνευμονολογικό Τμήμα"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/a-pathologiki-pteryga-x-nikola-di/",
+          "label": "Α’ Παθολογική Πτέρυγα «Ξ. Νικολαΐδη»"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/neognologiko/",
+          "label": "Νεογνολογικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/aktinotherapeytiko/",
+          "label": "Ακτινοθεραπευτικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/monada-vracheias-nosileias/",
+          "label": "Μονάδα Βραχείας Νοσηλείας Παθολογικού Τομέα"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/",
+          "label": "Χειρουργικός Τομέας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/a-maieytiki-gynaikologiki-kliniki-iatrikis-scholis-ekpa/",
+          "label": "Α’ Μαιευτική – Γυναικολογική Κλινική Ιατρικής Σχολής ΕΚΠΑ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/a-maieytiki-gynaikologiki-kliniki-iatrikis-scholis-ekpa/pteryges-tmimata-monades-a-m-g-ekpa/",
+          "label": "Πτέρυγες – Τμήματα – Μονάδες Α’ Μ/Γ ΕΚΠΑ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/a-maieytiki-gynaikologiki-kliniki-iatrikis-scholis-ekpa/taktika-exoterika-iatreia-parartimatos-lampsakoy/",
+          "label": "Τακτικά Εξωτερικά Ιατρεία Παραρτήματος Λαμψάκου"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/a-maieytiki-gynaikologiki-kliniki-iatrikis-scholis-ekpa/ergastiria-a-m-g-ekpa/",
+          "label": "Εργαστήρια Α’ Μ/Γ ΕΚΠΑ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/a-maieytiki-gynaikologiki-kliniki-iatrikis-scholis-ekpa/epistimonika-protokolla/",
+          "label": "Επιστημονικά Πρωτόκολλα"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/maieytiko-gynaikologiko-tmima-esy/",
+          "label": "Μαιευτικό – Γυναικολογικό Τμήμα ΕΣΥ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/maieytiko-gynaikologiko-tmima-esy/gynaikologiki-pteryga-5-lt-sup-gt-os-lt-sup-gt-v/",
+          "label": "Γυναικολογική Πτέρυγα 5ος Β"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/maieytiko-gynaikologiko-tmima-esy/maieytiki-pteryga-5-lt-sup-gt-os-lt-sup-gt-d/",
+          "label": "Μαιευτική Πτέρυγα 5ος Δ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/tmima-vracheias-nosileias-m-g-esy/",
+          "label": "Τμήμα βραχείας νοσηλείας Μ/Γ ΕΣΥ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/iatreio-pathologias-trachiloy-kolposkopisis-m-g-esy/",
+          "label": "Ιατρείο παθολογίας τραχήλου – κολποσκόπησης Μ/Γ ΕΣΥ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/taktika-exoterika-iatreia/exoterika-maieytika-iatreia-m-g-esy/",
+          "label": "Εξωτερικά μαιευτικά ιατρεία Μ/Γ ΕΣΥ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/taktika-exoterika-iatreia/exoterika-gynaikologika-iatreia-m-g-esy/",
+          "label": "Εξωτερικά γυναικολογικά ιατρεία Μ/Γ ΕΣΥ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/monada-cheiroyrgikis-laparoskopisis-m-g-esy/",
+          "label": "Μονάδα χειρουργικής λαπαροσκόπησης Μ/Γ ΕΣΥ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/monada-cheiroyrgikis-ysteroskopisis-m-g-esy/",
+          "label": "Μονάδα χειρουργικής υστεροσκόπησης Μ/Γ ΕΣΥ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/maieytiko-gynaikologiko-tmima-esy/ekpaideytiko-programma-m-g-esy/",
+          "label": "Εκπαιδευτικό πρόγραμμα Μ/Γ ΕΣΥ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/anaisthisiologiko/",
+          "label": "Αναισθησιολογικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/cheiroyrgeia/",
+          "label": "Χειρουργεία"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/monada-metanaisthitikis-frontidas/",
+          "label": "Μονάδα Μεταναισθητικής Φροντίδας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/aithoysa-toketon/",
+          "label": "Αίθουσα Τοκετών"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/",
+          "label": "Εργαστηριακός Τομέας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/aktinodiagnostiko/",
+          "label": "Ακτινοδιαγνωστικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/vrachytherapeies-aktinotherapeytikoy/",
+          "label": "Βραχυθεραπείες Ακτινοθεραπευτικού"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/pyrinikis-iatrikis/",
+          "label": "Πυρηνικής Ιατρικής"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/viopathologiko/",
+          "label": "Βιοπαθολογικό (Μικροβιολογικό)"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/viochimiko/",
+          "label": "Βιοχημικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/aimatologiko/",
+          "label": "Αιματολογικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/pathologikis-anatomikis/",
+          "label": "Παθολογικής Ανατομικής"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/aimodosia/",
+          "label": "Αιμοδοσία"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/anosologias-istosymvatotitas/",
+          "label": "Ανοσολογίας – Ιστοσυμβατότητας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/kyttarologiko/",
+          "label": "Κυτταρολογικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/genetikis/",
+          "label": "Γενετικής"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/farmakeytiko/",
+          "label": "Φαρμακευτικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/iatrikis-fysikis/",
+          "label": "Ιατρικής Φυσικής"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/eidikes-monades/",
+          "label": "Ειδικές Μονάδες"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/eidikes-monades/monada-entatikis-therapeias-sp-moylopoylos/",
+          "label": "Μονάδα Εντατικής Θεραπείας «Σπ. Μουλόπουλος»"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/eidikes-monades/monada-ayximenis-frontidas/",
+          "label": "Μονάδα Αυξημένης Φροντίδας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/eidikes-monades/monada-entatikis-nosileias-neognon/",
+          "label": "Μονάδα Εντατικής Νοσηλείας Νεογνών"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/eidikes-monades/monada-technitou-nefrou/",
+          "label": "Μονάδα Τεχνητού Νεφρού"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/eidikes-monades/aimodynamiki-monada/",
+          "label": "Αιμοδυναμική Μονάδα"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/",
+          "label": "Λοιπά Τμήματα"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias/",
+          "label": "Τμήμα Κοινωνικής Υπηρεσίας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-diaitologias-diatrofis/",
+          "label": "Τμήμα Διαιτολογίας – Διατροφής"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/taktika-exoterika-iatreia/",
+          "label": "Τακτικά Εξωτερικά Ιατρεία"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/apogeymatina-iatreia/",
+          "label": "Απογευματινά Ιατρεία"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/episkeptiria/",
+          "label": "Επισκεπτήριο"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/listes-cheiroyrgeion/",
+          "label": "Λίστα Χειρουργείου"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://hosp-alexandra.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            ""
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Αναζήτηση...",
+              "required": true
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "213-2162000",
+          "210-3381100",
+          "213-216-2898",
+          "4305/2014",
+          "4990/2022",
+          "2025-09-30",
+          "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31",
+          "2026-03-31",
+          "2026-03-27",
+          "2026-03-20"
+        ],
+        "emails": [
+          "hospital@hosp-alexandra.gr"
+        ],
+        "addresses": [
+          "ΕΠΙΚΟΙΝΩΝΙΑ Διεύθυνση: Λεωφ. Βασιλίσσης Σοφίας 80, Τ.Κ 115 28, ΑΘΗΝΑ Τηλεφωνικό Κέντρο: 213-2162000, 210-3381100 Τηλέφωνα επικοινωνίας για ραντεβού: 1566, 213-2162572, 213-2162588 Fax: 213-216-2898 Email: hospital@hosp-alexandra.gr ΧΑΡΤΗΣ ΠΡΟΣΒΑΣΗΣ"
+        ],
+        "socialLinks": [],
+        "forms": [
+          {
+            "action": "https://hosp-alexandra.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              ""
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Αναζήτηση...",
+                "required": true
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "ΕΠΙΚΟΙΝΩΝΙΑ Διεύθυνση: Λεωφ. Βασιλίσσης Σοφίας 80, Τ.Κ 115 28, ΑΘΗΝΑ Τηλεφωνικό Κέντρο: 213-2162000, 210-3381100 Τηλέφωνα επικοινωνίας για ραντεβού: 1566, 213-2162572, 213-2162588 Fax: 213-216-2898 Email: hospital@hosp-alexandra.gr ΧΑΡΤΗΣ ΠΡΟΣΒΑΣΗΣ",
+      "textContent": "Μετάβαση στο περιεχόμενο Λεωφ. Βασιλίσσης Σοφίας 80, Τ.Κ. 115 28, ΑΘΗΝΑ Τ: 213-2162000, 210-3381100 F: 213-216-2898 hospital@hosp-alexandra.gr Αναζήτηση για: ΑΡΧΙΚΗ ΤΟ ΝΟΣΟΚΟΜΕΙΟ ΙστορίαΔιοίκησηΟργανόγραμμαΕτήσιος ΑπολογισμόςΕκτέλεση Προϋπολογισμού, Ν. 4305/2014 Αρ. 15Πολιτική ΠοιότηταςΙατρική ΥπηρεσίαΝοσηλευτική ΥπηρεσίαΓραφείο Νοσοκομειακών ΛοιμώξεωνΤμήμα Ψυχοπροφυλακτικής – Ανώδυνος ΤοκετόςΕπιτροπή Μητρικού ΘηλασμούΔιοικητική ΥπηρεσίαΥποδιεύθυνση ΔιοικητικούΥποδιεύθυνση ΟικονομικούΥποδιεύθυνση ΤεχνικούΑυτοτελή ΤμήματαΑυτοτελές Τμήμα Οργάνωσης και ΠληροφορικήςΑυτοτελές Τμήμα Ελέγχου Ποιότητας, Έρευνας και Συνεχιζόμενης ΕκπαίδευσηςΓραφείο Προστασίας Δικαιωμάτων Ληπτών/τριών Υπηρεσιών ΥγείαςΑυτοτελής Μονάδα Εσωτερικού ΕλέγχουΥΠΗΡΕΣΙΕΣ Παθολογικός ΤομέαςΘεραπευτική Κλινική Ιατρικής Σχολής ΕΚΠΑΟγκολογικό – Αιματολογικό ΤμήμαΔ’ Πτέρυγα 4ου ορόφου, Ε’ Πτέρυγα 4ου ορόφουΔ’ Πτέρυγα 3ου ορόφου, Ε’ Πτέρυγα 3ου ορόφουΓαστρεντερολογικόΕνδοκρινολογικόΠνευμονολογικό ΤμήμαΑ’ Παθολογική Πτέρυγα «Ξ. Νικολαΐδη»ΝεογνολογικόΑκτινοθεραπευτικόΜονάδα Βραχείας Νοσηλείας Παθολογικού ΤομέαΧειρουργικός ΤομέαςΑ’ Μαιευτική – Γυναικολογική Κλινική Ιατρικής Σχολής ΕΚΠΑΠτέρυγες – Τμήματα – Μονάδες Α’ Μ/Γ ΕΚΠΑΤακτικά Εξωτερικά Ιατρεία Παραρτήματος ΛαμψάκουΕργαστήρια Α’ Μ/Γ ΕΚΠΑΕπιστημονικά ΠρωτόκολλαΜαιευτικό – Γυναικολογικό Τμήμα ΕΣΥΓυναικολογική Πτέρυγα 5ος ΒΜαιευτική Πτέρυγα 5ος ΔΤμήμα βραχείας νοσηλείας Μ/Γ ΕΣΥΙατρείο παθολογίας τραχήλου – κολποσκόπησης Μ/Γ ΕΣΥΕξωτερικά μαιευτικά ιατρεία Μ/Γ ΕΣΥΕξωτερικά γυναικολογικά ιατρεία Μ/Γ ΕΣΥΜονάδα χειρουργικής λαπαροσκόπησης Μ/Γ ΕΣΥΜονάδα χειρουργικής υστεροσκόπησης Μ/Γ ΕΣΥΕκπαιδευτικό πρόγραμμα Μ/Γ ΕΣΥΑναισθησιολογικόΧειρουργείαΜονάδα Μεταναισθητικής ΦροντίδαςΑίθουσα ΤοκετώνΕργαστηριακός ΤομέαςΑκτινοδιαγνωστικόΒραχυθεραπείες ΑκτινοθεραπευτικούΠυρηνικής ΙατρικήςΒιοπαθολογικό (Μικροβιολογικό)ΒιοχημικόΑιματολογικόΠαθολογικής ΑνατομικήςΑιμοδοσίαΑνοσολογίας – ΙστοσυμβατότηταςΚυτταρολογικόΓενετικήςΦαρμακευτικόΙατρικής ΦυσικήςΕιδικές ΜονάδεςΜονάδα Εντατικής Θεραπείας «Σπ. Μουλόπουλος»Μονάδα Αυξημένης ΦροντίδαςΜονάδα Εντατικής Νοσηλείας ΝεογνώνΜονάδα Τεχνητού ΝεφρούΑιμοδυναμική ΜονάδαΛοιπά ΤμήματαΤμήμα Κοινωνικής ΥπηρεσίαςΤμήμα Διαιτολογίας – ΔιατροφήςΤακτικά Εξωτερικά ΙατρείαΑπογευματινά ΙατρείαΠΛΗΡΟΦΟΡΙΕΣ ΑΣΘΕΝΩΝ Γραφείο Προστασίας Δικαιωμάτων Ληπτών Υπηρεσιών ΥγείαςΕπισκεπτήριοΛίστα ΧειρουργείουΕφημερίες1566Πληροφορίες για Ασθενείς – ΕπισκέπτεςΣχέδιο Ελέγχου Διακοπής του ΚαπνίσματοςΕΝΗΜΕΡΩΣΗ Alexandra’s BlogΑνακοινώσειςΔελτία ΤύπουΠροκηρύξειςΑνθρώπινο ΔυναμικόΠρομήθειεςΕΣΠΑΓΚΠΔ-GDPRΣχέδιο δράσης για την ισότητα των φύλωνΕΚΠΑΙΔΕΥΣΗ ΚΑΙ ΕΡΕΥΝΑ ΒιβλιοθήκηΣυνεχιζόμενη ΕκπαίδευσηΕπιστημονικό ΣυμβούλιοΗμερίδες – ΣυνέδριαΕΠΙΚΟΙΝΩΝΙΑ Στοιχεία Επικοινωνίας και ΠρόσβασηΦόρμα ΠαραπόνωνΦόρμα ΕυχαριστηρίουΕρωτηματολόγιο Ικανοποίησης Εσωτερικών ΑσθενώνΕρωτηματολόγιο Ικανοποίησης Εξωτερικών Ασθενώνe-ΑιτήσειςΠλατφόρμα Ανώνυμων Αναφορών Ν.4990/2022 setREVStartSize({c: 'rev_slider_1_1',rl:[1240,1024,778,480],el:[],gw:[1920,1024,778,480],gh:[700,600,600,400],type:'standard',justify:'',layout:'fullwidth',mh:\"0\"});if (window.RS_MODULES!==undefined && window.RS_MODULES.modules!==undefined && window.RS_MODULES.modules[\"revslider11\"]!==undefined) {window.RS_MODULES.modules[\"revslider11\"].once = false;window.revapi1 = undefined;if (window.RS_MODULES.checkMinimal!==undefined) window.RS_MODULES.checkMinimal()} Αρχικήismart2025-09-30T10:17:57+02:00 Το Γενικό Νοσοκομείο Αθηνών «Αλεξάνδρα» ανήκει στη 1η Υγειονομική Περιφέρεια Αθηνών. Έχει περάσει πάνω από μισός αιώνας από την ίδρυση του Μαιευτηρίου «Αλεξάνδρα». Όλα αυτά τα χρόνια το Γ.Ν.Α. «Αλεξάνδρα» εξελίχθηκε και σήμερα αποτελεί ιατρικό, νοσηλευτικό, εκπαιδευτικό και ερευνητικό κέντρο τόσο στη Μαιευτική και Γυναικολογία όσο και στην Παθολογία και Καρδιολογία. Με τη μακρόχρονη εμπειρία του και το καταρτισμένο ιατρικό και νοσηλευτικό προσωπικό, το Νοσοκομείο στέκεται στο πλευρό όλων των ασθενών επιδιώκοντας τη παροχή ιατρικών υπηρεσιών με ευθύνη και ανθρωπιά. ΧΡΗΣΙΜΑ ΛΙΣΤΕΣ ΧΕΙΡΟΥΡΓΕΙΩΝΕΦΗΜΕΡΙΕΣ ΝΟΣΟΚΟΜΕΙΟΥ1566ΠΛΗΡΟΦΟΡΙΕΣ ΓΙΑ ΑΣΘΕΝΕΙΣ – ΕΠΙΣΚΕΠΤΕΣΕΤΗΣΙΟΣ ΑΠΟΛΟΓΙΣΜΟΣ ΝΟΣΟΚΟΜΕΙΟΥΕΠΙΣΚΕΠΤΗΡΙΑe-ΑΙΤΗΣΕΙΣΤΜΗΜΑ ΨΥΧΟΠΡΟΦΥΛΑΚΤΙΚΗΣ – ΑΝΩΔΥΝΟΣ ΤΟΚΕΤΟΣΠΛΑΤΦΟΡΜΑ ΑΝΩΝΥΜΩΝ ΑΝΑΦΟΡΩΝ Ν.4990/2022ΗΜΕΡΟΛΟΓΙΟ ΕΦΗΜΕΡΙΩΝ Μάρτιος 2026 ΔΤΤΠΠΣΚ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Φεβ Απρ » Το Νοσοκομείο ΔΕΝ εφημερεύει σήμερα. ΥΠΗΡΕΣΙΕΣ ΙΑΤΡΙΚΗ ΥΠΗΡΕΣΙΑ Παθολογικός Τομέας Χειρουργικός Τομέας Εργαστηριακός Τομέας Ειδικές Μονάδες Λοιπά Τμήματα Τακτικά Εξωτερικά Ιατρεία Απογευματινά Ιατρεία ΝΟΣΗΛΕΥΤΙΚΗ ΥΠΗΡΕΣΙΑ Εκπαιδευτικό Έργο Τμήμα Νοσοκομειακών Λοιμώξεων Τμήμα Ψυχοπροφυλακτικής – Ανώδυνος Τοκετός Επιτροπή Μητρικού Θηλασμού Δραστηριότητες – Ανακοινώσεις ΔΙΟΙΚΗΤΙΚΗ ΥΠΗΡΕΣΙΑ - ΟΙΚΟΝΟΜΙΚΗ ΥΠΟΔΙΕΥΘΥΝΣΗ Υποδιεύθυνση Διοικητικού Υποδιεύθυνση Οικονομικού Υποδιεύθυνση Τεχνικού ΑΥΤΟΤΕΛΗ ΤΜΗΜΑΤΑ Αυτοτελές Τμήμα Οργάνωσης και Πληροφορικής Αυτοτελές Γραφείο Ποιότητας Γραφείο Προστασίας Δικαιωμάτων Ληπτών/τριών Υπηρεσιών Υγείας Αυτοτελής Μονάδα Εσωτερικού Ελέγχου ΠΡΟΣΦΑΤΕΣ ΠΡΟΚΗΡΥΞΕΙΣ ΔΙΑΓΩΝΙΣΜΟΣ ΜΕ ΑΡΙΘΜΟ 21.26 ΓΙΑ ΤΗΝ ΑΝΑΔΕΙΞΗ ΟΙΚΟΝΟΜΙΚΟΥ ΦΟΡΕΑ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ ΔΙΑΘΕΣΗΣ ΤΗΛΕΟΡΑΣΕΩΝ ΚΑΙ ΚΑΘΙΣΜΑΤΩΝ ΣΕ ΘΑΛΑΜΟΥΣ ΝΟΣΗΛΕΥΟΜΕΝΩΝ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ.Τμήμα Πληροφορικής2026-03-31T12:21:44+02:0031 Μαρτίου, 2026|Ηλεκτρονικοί Δημόσιοι Διαγωνισμοί, Προκηρύξεις, Προμήθειες| ΠΡΟΣΚΛΗΣΗ 24.26 ΠΡΟΣ ΚΑΘΕ ΕΝΔΙΑΦΕΡΟΜΕΝΟ ΟΙΚΟΝΟΜΙΚΟ ΦΟΡΕΑ ΓΙΑ ΤΗΝ ΥΠΟΒΟΛΗ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΗΛΕΚΤΡΟΧΕΙΡΟΥΡΓΙΚΗΣ ΔΙΑΘΕΡΜΙΑΣ ΓΙΑ ΤΗΝ ΚΑΛΥΨΗ ΑΝΑΓΚΩΝ ΤΟΥ ΤΜΗΜΑΤΟΣ ΚΟΛΠΟΣΚΟΠΗΣΕΩΝ ΤΟΥ Γ.Ν.Α. ΑΛΕΞΑΝΔΡΑΤμήμα Πληροφορικής2026-03-27T14:38:00+02:0027 Μαρτίου, 2026|Απευθείας Αναθέσεις Κατόπιν Έρευνας Αγοράς, Προκηρύξεις, Προμήθειες| ΠΡΟΣΚΛΗΣΗ 20.26 ΠΡΟΣ ΚΑΘΕ ΕΝΔΙΑΦΕΡΟΜΕΝΟ ΟΙΚΟΝΟΜΙΚΟ ΦΟΡΕΑ ΓΙΑ ΤΗΝ ΥΠΟΒΟΛΗ ΠΡΟΣΦΟΡΑΣ ΓΙΑ ΤΗ ΣΥΜΜΕΤΟΧΗ ΤΟΥ ΠΑΘΟΛΟΓΟΑΝΑΤΟΜΙΚΟΥ ΕΡΓΑΣΤΗΡΙΟΥ ΣΕ ΕΛΕΓΧΟ ΕΞΩΤΕΡΙΚΗΣ ΠΟΙΟΤΗΤΑΣΤμήμα Πληροφορικής2026-03-27T14:37:06+02:0027 Μαρτίου, 2026|Απευθείας Αναθέσεις Κατόπιν Έρευνας Αγοράς, Προκηρύξεις, Προμήθειες| ΠΡΟΣΚΛΗΣΗ ΜΕ ΑΡΙΘΜΟ 9.26 ΠΡΟΣ ΚΑΘΕ ΕΝΔΙΑΦΕΡΟΜΕΝΟ ΟΙΚΟΝΟΜΙΚΟ ΦΟΡΕΑ ΓΙΑ ΤΗΝ ΥΠΟΒΟΛΗ ΠΡΟΣΦΟΡΑΣ, ΓΙΑ ΤΗΝ ΕΤΗΣΙΑ ΣΥΝΤΗΡΗΣΗ ΕΞΟΠΛΙΣΜΟΥ ΚΑΙ ΕΓΚΑΤΑΣΤΑΣΕΩΝ ΦΥΣΙΚΟΥ ΑΕΡΙΟΥ ΤΟΥ ΛΕΒΗΤΟΣΤΑΣΙΟΥ ΧΩΡΙΣ ΑΝΤΑΛΛΑΚΤΙΚΑΤμήμα Πληροφορικής2026-03-20T08:42:48+02:0019 Μαρτίου, 2026|Απευθείας Αναθέσεις Κατόπιν Έρευνας Αγοράς, Προκηρύξεις, Προμήθειες| Περισσότερα ΤΕΛΕΥΤΑΙΕΣ ΑΝΑΚΟΙΝΩΣΕΙΣ ΠΡΑΚΤΙΚΟ ΑΝΑΡΤΗΣΗΣ ΑΠΟΦΑΣΗΣ ΤΟΠΟΘΕΤΗΣΗΣ-ΠΡΟΣΛΗΨΗΣ ΕΙΔΙΚΕΥΟΜΕΝΟΥ ΙΑΤΡΟΥΤμήμα Πληροφορικής2026-01-27T07:55:11+02:0026 Ιανουαρίου, 2026|Ανακοινώσεις, Ανθρώπινο Δυναμικό| Δελτίο Τύπου για την δωρεά οργάνωνΤμήμα Πληροφορικής2025-12-19T08:50:46+02:0019 Δεκεμβρίου, 2025|Δελτία Τύπου, Νέα| ΠΡΟΚΗΡΥΞΗ ΙΑΤΡΟΥ ΕΣΥ ΑΚΤΙΝΟΘΕΡΑΠΕΥΤΙΚΗΣ ΟΓΚΟΛΟΓΙΑΣ ΑΛΕΞΑΝΔΡΑΤμήμα Πληροφορικής2025-12-17T11:42:26+02:0017 Δεκεμβρίου, 2025|Ανακοινώσεις, Ανθρώπινο Δυναμικό| ΔΕΛΤΙΟ ΓΙΑ ΕΓΚΑΤΕΛΕΛΕΙΜΜΕΝΑΤμήμα Πληροφορικής2025-12-10T15:01:01+02:0010 Δεκεμβρίου, 2025|Δελτία Τύπου, Νέα| ΠΙΝΑΚΑΣ ΕΠΕΜΒΑΤΙΚΗΣ ΚΑΡΔΙΟΛΟΓΙΑΣΤμήμα Πληροφορικής2025-12-03T10:43:02+02:003 Δεκεμβρίου, 2025|Ανακοινώσεις, Ανθρώπινο Δυναμικό| ΠΡΟΚΗΡΥΞΗ ΘΕΣΗΣ ΕΙΔΙΚΕΥΜΕΝΟΥ ΙΑΤΡΟΥ ΕΣΥ ΜΕ ΒΑΘΜΟ ΣΥΝΤ. ΔΙΕΥΘΥΝΤΗ (ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ)Τμήμα Πληροφορικής2025-11-24T09:53:32+02:0021 Νοεμβρίου, 2025|Ανακοινώσεις, Ανθρώπινο Δυναμικό| ΒΡΑΒΕΥΣΗ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ΜΑΣ ΚΑΙ ΤΗΣ ΘΕΡΑΠΕΥΤΙΚΗΣ ΚΛΙΝΙΚΗΣ ΕΚΠΑΤμήμα Πληροφορικής2025-11-21T09:55:38+02:0021 Νοεμβρίου, 2025|Ανακοινώσεις, Δελτία Τύπου| ΑΠΟΦΑΣΗ ΠΡΟΚΗΡΥΞΗΣ ΣΥΝΤΟΝΙΣΤΗ ΔΙΕΥΘΥΝΤΗΤμήμα Πληροφορικής2025-11-18T14:03:23+02:0018 Νοεμβρίου, 2025|Ανακοινώσεις, Ανθρώπινο Δυναμικό| Περισσότερα ΧΡΗΣΙΜΟΙ ΣΥΝΔΕΣΜΟΙ ΕΠΙΚΟΙΝΩΝΙΑ Διεύθυνση: Λεωφ. Βασιλίσσης Σοφίας 80, Τ.Κ 115 28, ΑΘΗΝΑ Τηλεφωνικό Κέντρο: 213-2162000, 210-3381100 Τηλέφωνα επικοινωνίας για ραντεβού: 1566, 213-2162572, 213-2162588 Fax: 213-216-2898 Email: hospital@hosp-alexandra.gr ΧΑΡΤΗΣ ΠΡΟΣΒΑΣΗΣ Copyright document.write(new Date().getFullYear()) Γ. Νοσοκομείο Αλεξάνδρα | All Rights Reserved | Developed by iSmart P.C. Page load link var fusionNavIsCollapsed=function(e){var t,n;window.innerWidth<=e.getAttribute(\"data-breakpoint\")?(e.classList.add(\"collapse-enabled\"),e.classList.remove(\"awb-menu_desktop\"),e.classList.contains(\"expanded\")||window.dispatchEvent(new CustomEvent(\"fusion-mobile-menu-collapsed\",{detail:{nav:e}})),(n=e.querySelectorAll(\".menu-item-has-children.expanded\")).length&&n.forEach(function(e){e.querySelector(\".awb-menu__open-nav-submenu_mobile\").setAttribute(\"aria-expanded\",\"false\")})):(null!==e.querySelector(\".menu-item-has-children.expanded .awb-menu__open-nav-submenu_click\")&&e.querySelector(\".menu-item-has-children.expanded .awb-menu__open-nav-submenu_click\").click(),e.classList.remove(\"collapse-enabled\"),e.classList.add(\"awb-menu_desktop\"),null!==e.querySelector(\".awb-menu__main-ul\")&&e.querySelector(\".awb-menu__main-ul\").removeAttribute(\"style\")),e.classList.add(\"no-wrapper-transition\"),clearTimeout(t),t=setTimeout(()=>{e.classList.remove(\"no-wrapper-transition\")},400),e.classList.remove(\"loading\")},fusionRunNavIsCollapsed=function(){var e,t=document.querySelectorAll(\".awb-menu\");for(e=0;e<t.length;e++)fusionNavIsCollapsed(t[e])};function avadaGetScrollBarWidth(){var e,t,n,l=document.createElement(\"p\");return l.style.width=\"100%\",l.style.height=\"200px\",(e=document.createElement(\"div\")).style.position=\"absolute\",e.style.top=\"0px\",e.style.left=\"0px\",e.style.visibility=\"hidden\",e.style.width=\"200px\",e.style.height=\"150px\",e.style.overflow=\"hidden\",e.appendChild(l),document.body.appendChild(e),t=l.offsetWidth,e.style.overflow=\"scroll\",t==(n=l.offsetWidth)&&(n=e.clientWidth),document.body.removeChild(e),jQuery(\"html\").hasClass(\"awb-scroll\")&&10<t-n?10:t-n}fusionRunNavIsCollapsed(),window.addEventListener(\"fusion-resize-horizontal\",fusionRunNavIsCollapsed); window.RS_MODULES = window.RS_MODULES || {}; window.RS_MODULES.modules = window.RS_MODULES.modules || {}; window.RS_MODULES.waiting = window.RS_MODULES.waiting || []; window.RS_MODULES.defered = false; window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {}; window.RS_MODULES.type = 'compiled'; {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/Avada/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} if(typeof revslider_showDoubleJqueryError === \"undefined\") {function revslider_showDoubleJqueryError(sliderID) {console.log(\"You have some jquery.js library include that comes after the Slider Revolution files js inclusion.\");console.log(\"To fix this, you can:\");console.log(\"1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on\");console.log(\"2. Find the double jQuery.js inclusion and remove it\");return \"Double Included jQuery Library\";}} /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); //# sourceURL=wp-i18n-js-after /* ]]> */ /* <![CDATA[ */ ( function( domain, translations ) { var localeData = translations.locale_data[ domain ] || translations.locale_data.messages; localeData[\"\"].domain = domain; wp.i18n.setLocaleData( localeData, domain ); } )( \"contact-form-7\", {\"translation-revision-date\":\"2024-08-02 09:16:28+0000\",\"generator\":\"GlotPress\\/4.0.3\",\"domain\":\"messages\",\"locale_data\":{\"messages\":{\"\":{\"domain\":\"messages\",\"plural-forms\":\"nplurals=2; plural=n != 1;\",\"lang\":\"el_GR\"},\"This contact form is placed in the wrong place.\":[\"\\u0397 \\u03c6\\u03cc\\u03c1\\u03bc\\u03b1 \\u03b5\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03af\\u03b1\\u03c2 \\u03b5\\u03af\\u03bd\\u03b1\\u03b9 \\u03c3\\u03b5 \\u03bb\\u03ac\\u03b8\\u03bf\\u03c2 \\u03b8\\u03ad\\u03c3\\u03b7.\"],\"Error:\":[\"\\u03a3\\u03c6\\u03ac\\u03bb\\u03bc\\u03b1:\"]}},\"comment\":{\"reference\":\"includes\\/js\\/index.js\"}} ); //# sourceURL=contact-form-7-js-translations /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/hosp-alexandra.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; //# sourceURL=contact-form-7-js-before /* ]]> */ /* <![CDATA[ */ var EOAjaxFront = {\"adminajax\":\"https://hosp-alexandra.gr/wp-admin/admin-ajax.php\",\"locale\":{\"locale\":\"el\",\"isrtl\":false,\"monthNames\":[\"\\u0399\\u03b1\\u03bd\\u03bf\\u03c5\\u03ac\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u03a6\\u03b5\\u03b2\\u03c1\\u03bf\\u03c5\\u03ac\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u039c\\u03ac\\u03c1\\u03c4\\u03b9\\u03bf\\u03c2\",\"\\u0391\\u03c0\\u03c1\\u03af\\u03bb\\u03b9\\u03bf\\u03c2\",\"\\u039c\\u03ac\\u03b9\\u03bf\\u03c2\",\"\\u0399\\u03bf\\u03cd\\u03bd\\u03b9\\u03bf\\u03c2\",\"\\u0399\\u03bf\\u03cd\\u03bb\\u03b9\\u03bf\\u03c2\",\"\\u0391\\u03cd\\u03b3\\u03bf\\u03c5\\u03c3\\u03c4\\u03bf\\u03c2\",\"\\u03a3\\u03b5\\u03c0\\u03c4\\u03ad\\u03bc\\u03b2\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u039f\\u03ba\\u03c4\\u03ce\\u03b2\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u039d\\u03bf\\u03ad\\u03bc\\u03b2\\u03c1\\u03b9\\u03bf\\u03c2\",\"\\u0394\\u03b5\\u03ba\\u03ad\\u03bc\\u03b2\\u03c1\\u03b9\\u03bf\\u03c2\"],\"monthAbbrev\":[\"\\u0399\\u03b1\\u03bd\",\"\\u03a6\\u03b5\\u03b2\",\"\\u039c\\u03b1\\u03c1\",\"\\u0391\\u03c0\\u03c1\",\"\\u039c\\u03ac\\u03b9\",\"\\u0399\\u03bf\\u03cd\\u03bd\",\"\\u0399\\u03bf\\u03cd\\u03bb\",\"\\u0391\\u03c5\\u03b3\",\"\\u03a3\\u03b5\\u03c0\",\"\\u039f\\u03ba\\u03c4\",\"\\u039d\\u03bf\\u03ad\",\"\\u0394\\u03b5\\u03ba\"],\"dayNames\":[\"\\u039a\\u03c5\\u03c1\\u03b9\\u03b1\\u03ba\\u03ae\",\"\\u0394\\u03b5\\u03c5\\u03c4\\u03ad\\u03c1\\u03b1\",\"\\u03a4\\u03c1\\u03af\\u03c4\\u03b7\",\"\\u03a4\\u03b5\\u03c4\\u03ac\\u03c1\\u03c4\\u03b7\",\"\\u03a0\\u03ad\\u03bc\\u03c0\\u03c4\\u03b7\",\"\\u03a0\\u03b1\\u03c1\\u03b1\\u03c3\\u03ba\\u03b5\\u03c5\\u03ae\",\"\\u03a3\\u03ac\\u03b2\\u03b2\\u03b1\\u03c4\\u03bf\"],\"dayAbbrev\":[\"\\u039a\\u03c5\",\"\\u0394\\u03b5\",\"\\u03a4\\u03c1\",\"\\u03a4\\u03b5\",\"\\u03a0\\u03b5\",\"\\u03a0\\u03b1\",\"\\u03a3\\u03b1\"],\"dayInitial\":[\"\\u039a\",\"\\u0394\",\"\\u03a4\",\"\\u03a4\",\"\\u03a0\",\"\\u03a0\",\"\\u03a3\"],\"ShowMore\":\"\\u0394\\u03b5\\u03af\\u03be\\u03b5 \\u03a0\\u03b5\\u03c1\\u03b9\\u03c3\\u03c3\\u03cc\\u03c4\\u03b5\\u03c1\\u03b1\",\"ShowLess\":\"\\u0394\\u03b5\\u03af\\u03be\\u03b5 \\u039b\\u03b9\\u03b3\\u03cc\\u03c4\\u03b5\\u03c1\\u03b1\",\"today\":\"\\u03a3\\u03ae\\u03bc\\u03b5\\u03c1\\u03b1\",\"day\":\"\\u0397\\u03bc\\u03ad\\u03c1\\u03b1\",\"week\":\"\\u0395\\u03b2\\u03b4\\u03bf\\u03bc\\u03ac\\u03b4\\u03b1\",\"month\":\"\\u039c\\u03ae\\u03bd\\u03b1\\u03c2\",\"gotodate\":\"\\u03a0\\u03ae\\u03b3\\u03b1\\u03b9\\u03bd\\u03b5 \\u03c3\\u03c4\\u03b7\\u03bd \\u03b7\\u03bc\\u03b5\\u03c1\\u03bf\\u03bc\\u03b7\\u03bd\\u03af\\u03b1\",\"cat\":\"\\u0395\\u03bc\\u03c6\\u03ac\\u03bd\\u03b9\\u03c3\\u03b7 \\u03cc\\u03bb\\u03bf\\u03c9\\u03bd \\u03c4\\u03c9\\u03bd \\u03ba\\u03b1\\u03c4\\u03b7\\u03b3\\u03bf\\u03c1\\u03b9\\u03ce\\u03bd\",\"venue\":\"\\u0394\\u03b5\\u03af\\u03c4\\u03b5 \\u03cc\\u03bb\\u03bf\\u03c5\\u03c2 \\u03c4\\u03bf\\u03c5\\u03c2 \\u03c7\\u03ce\\u03c1\\u03bf\\u03c5\\u03c2\",\"tag\":\"View all tags\",\"view_all_organisers\":\"View all organisers\",\"nextText\":\"\\u003E\",\"prevText\":\"\\u003C\"}}; var eo_widget_cal = {\"eo_calendar_widget-2\":{\"showpastevents\":1,\"show-long\":0,\"link-to-single\":0,\"event-venue\":0,\"event-category\":0}}; //# sourceURL=eo_front-js-extra /* ]]> */ /* <![CDATA[ */ var fusionJSVars = {\"visibility_small\":\"640\",\"visibility_medium\":\"1024\"}; //# sourceURL=fusion-js-extra /* ]]> */ /* <![CDATA[ */ var fusionLightboxVideoVars = {\"lightbox_video_width\":\"1280\",\"lightbox_video_height\":\"720\"}; //# sourceURL=jquery-lightbox-js-extra /* ]]> */ /* <![CDATA[ */ var fusionEqualHeightVars = {\"content_break_point\":\"800\"}; //# sourceURL=fusion-equal-heights-js-extra /* ]]> */ /* <![CDATA[ */ var fusionVideoGeneralVars = {\"status_vimeo\":\"1\",\"status_yt\":\"1\"}; //# sourceURL=fusion-video-general-js-extra /* ]]> */ /* <![CDATA[ */ var fusionVideoBgVars = {\"status_vimeo\":\"1\",\"status_yt\":\"1\"}; //# sourceURL=fusion-video-bg-js-extra /* ]]> */ /* <![CDATA[ */ var fusionLightboxVars = {\"status_lightbox\":\"1\",\"lightbox_gallery\":\"1\",\"lightbox_skin\":\"metro-white\",\"lightbox_title\":\"1\",\"lightbox_zoom\":\"1\",\"lightbox_arrows\":\"1\",\"lightbox_slideshow_speed\":\"5000\",\"lightbox_loop\":\"0\",\"lightbox_autoplay\":\"\",\"lightbox_opacity\":\"0.9\",\"lightbox_desc\":\"1\",\"lightbox_social\":\"1\",\"lightbox_social_links\":{\"facebook\":{\"source\":\"https://www.facebook.com/sharer.php?u={URL}\",\"text\":\"Share on Facebook\"},\"twitter\":{\"source\":\"https://x.com/intent/post?url={URL}\",\"text\":\"Share on X\"},\"mail\":{\"source\":\"mailto:?body={URL}\",\"text\":\"Share by Email\"}},\"lightbox_deeplinking\":\"1\",\"lightbox_path\":\"vertical\",\"lightbox_post_images\":\"1\",\"lightbox_animation_speed\":\"normal\",\"l10n\":{\"close\":\"Press Esc to close\",\"enterFullscreen\":\"Enter Fullscreen (Shift+Enter)\",\"exitFullscreen\":\"Exit Fullscreen (Shift+Enter)\",\"slideShow\":\"Slideshow\",\"next\":\"\\u0395\\u03c0\\u03cc\\u03bc\\u03b5\\u03bd\\u03bf\",\"previous\":\"\\u03a0\\u03c1\\u03bf\\u03b7\\u03b3\\u03bf\\u03cd\\u03bc\\u03b5\\u03bd\\u03bf\"}}; //# sourceURL=fusion-lightbox-js-extra /* ]]> */ /* <![CDATA[ */ var avadaRevVars = {\"avada_rev_styles\":\"1\"}; //# sourceURL=avada-rev-styles-js-extra /* ]]> */ /* <![CDATA[ */ var avadaLiveSearchVars = {\"live_search\":\"1\",\"ajaxurl\":\"https://hosp-alexandra.gr/wp-admin/admin-ajax.php\",\"no_search_results\":\"No search results match your query. Please try again\",\"min_char_count\":\"4\",\"per_page\":\"100\",\"show_feat_img\":\"1\",\"display_post_type\":\"1\"}; //# sourceURL=avada-live-search-js-extra /* ]]> */ /* <![CDATA[ */ var fusionFlexSliderVars = {\"status_vimeo\":\"1\",\"slideshow_autoplay\":\"1\",\"slideshow_speed\":\"7000\",\"pagination_video_slide\":\"\",\"status_yt\":\"1\",\"flex_smoothHeight\":\"false\"}; //# sourceURL=fusion-flexslider-js-extra /* ]]> */ /* <![CDATA[ */ var fusionAnimationsVars = {\"status_css_animations\":\"desktop\"}; //# sourceURL=fusion-animations-js-extra /* ]]> */ /* <![CDATA[ */ var awbCarouselVars = {\"related_posts_speed\":\"2500\",\"carousel_speed\":\"2500\"}; //# sourceURL=awb-carousel-js-extra /* ]]> */ /* <![CDATA[ */ var fusionBlogVars = {\"infinite_blog_text\":\"\\u003Cem\\u003E\\u03a6\\u03bf\\u03c1\\u03c4\\u03ce\\u03bd\\u03b5\\u03b9 \\u03c4\\u03b7\\u03bd \\u03b5\\u03c0\\u03cc\\u03bc\\u03b5\\u03bd\\u03b7 \\u03c3\\u03b5\\u03b9\\u03c1\\u03ac \\u03c4\\u03c9\\u03bd \\u03b8\\u03b5\\u03bc\\u03ac\\u03c4\\u03c9\\u03bd...\\u003C/em\\u003E\",\"infinite_finished_msg\":\"\\u003Cem\\u003E\\u03a0\\u03c1\\u03bf\\u03b2\\u03bf\\u03bb\\u03ae \\u03cc\\u03bb\\u03c9\\u03bd \\u03c4\\u03c9\\u03bd \\u03c3\\u03c4\\u03bf\\u03b9\\u03c7\\u03b5\\u03af\\u03c9\\u03bd.\\u003C/em\\u003E\",\"slideshow_autoplay\":\"1\",\"lightbox_behavior\":\"all\",\"blog_pagination_type\":\"pagination\"}; //# sourceURL=fusion-blog-js-extra /* ]]> */ /* <![CDATA[ */ var fusionContainerVars = {\"content_break_point\":\"800\",\"container_hundred_percent_height_mobile\":\"0\",\"is_sticky_header_transparent\":\"0\",\"hundred_percent_scroll_sensitivity\":\"450\"}; //# sourceURL=fusion-container-js-extra /* ]]> */ /* <![CDATA[ */ var avadaElasticSliderVars = {\"tfes_autoplay\":\"1\",\"tfes_animation\":\"sides\",\"tfes_interval\":\"3000\",\"tfes_speed\":\"800\",\"tfes_width\":\"150\"}; //# sourceURL=avada-elastic-slider-js-extra /* ]]> */ /* <![CDATA[ */ var avadaSelectVars = {\"avada_drop_down\":\"1\"}; //# sourceURL=avada-drop-down-js-extra /* ]]> */ /* <![CDATA[ */ var avadaToTopVars = {\"status_totop\":\"desktop\",\"totop_position\":\"right\",\"totop_scroll_down_only\":\"1\"}; //# sourceURL=avada-to-top-js-extra /* ]]> */ /* <![CDATA[ */ var avadaHeaderVars = {\"header_position\":\"top\",\"header_sticky\":\"1\",\"header_sticky_type2_layout\":\"menu_only\",\"header_sticky_shadow\":\"1\",\"side_header_break_point\":\"1010\",\"header_sticky_mobile\":\"\",\"header_sticky_tablet\":\"\",\"mobile_menu_design\":\"modern\",\"sticky_header_shrinkage\":\"\",\"nav_height\":\"40\",\"nav_highlight_border\":\"0\",\"nav_highlight_style\":\"arrow\",\"logo_margin_top\":\"0px\",\"logo_margin_bottom\":\"0px\",\"layout_mode\":\"wide\",\"header_padding_top\":\"0px\",\"header_padding_bottom\":\"0px\",\"scroll_offset\":\"full\"}; //# sourceURL=avada-header-js-extra /* ]]> */ /* <![CDATA[ */ var avadaMenuVars = {\"site_layout\":\"wide\",\"header_position\":\"top\",\"logo_alignment\":\"left\",\"header_sticky\":\"1\",\"header_sticky_mobile\":\"\",\"header_sticky_tablet\":\"\",\"side_header_break_point\":\"1010\",\"megamenu_base_width\":\"custom_width\",\"mobile_menu_design\":\"modern\",\"dropdown_goto\":\"\\u039c\\u03b5\\u03c4\\u03ac\\u03b2\\u03b1\\u03c3\\u03b7 \\u03c3\\u03b5 ...\",\"mobile_nav_cart\":\"\\u039a\\u03b1\\u03bb\\u03ac\\u03b8\\u03b9 \\u0391\\u03b3\\u03bf\\u03c1\\u03ce\\u03bd\",\"mobile_submenu_open\":\"Open submenu of %s\",\"mobile_submenu_close\":\"Close submenu of %s\",\"submenu_slideout\":\"1\"}; //# sourceURL=avada-menu-js-extra /* ]]> */ /* <![CDATA[ */ var fusionTypographyVars = {\"site_width\":\"1100px\",\"typography_sensitivity\":\"1\",\"typography_factor\":\"1.5\",\"elements\":\"h1, h2, h3, h4, h5, h6\"}; //# sourceURL=fusion-responsive-typography-js-extra /* ]]> */ /* <![CDATA[ */ var fusionScrollToAnchorVars = {\"content_break_point\":\"800\",\"container_hundred_percent_height_mobile\":\"0\",\"hundred_percent_scroll_sensitivity\":\"450\"}; //# sourceURL=fusion-scroll-to-anchor-js-extra /* ]]> */ /* <![CDATA[ */ var fusionVideoVars = {\"status_vimeo\":\"1\"}; //# sourceURL=fusion-video-js-extra /* ]]> */ {\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://hosp-alexandra.gr/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4\"}} /* <![CDATA[ */ /*! This file is auto-generated */ const a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://hosp-alexandra.gr/wp-includes/js/wp-emoji-loader.min.js /* ]]> */ var tpj = jQuery; var revapi1; if(window.RS_MODULES === undefined) window.RS_MODULES = {}; if(RS_MODULES.modules === undefined) RS_MODULES.modules = {}; RS_MODULES.modules[\"revslider11\"] = {once: RS_MODULES.modules[\"revslider11\"]!==undefined ? RS_MODULES.modules[\"revslider11\"].once : undefined, init:function() { window.revapi1 = window.revapi1===undefined || window.revapi1===null || window.revapi1.length===0 ? document.getElementById(\"rev_slider_1_1\") : window.revapi1; if(window.revapi1 === null || window.revapi1 === undefined || window.revapi1.length==0) { window.revapi1initTry = window.revapi1initTry ===undefined ? 0 : window.revapi1initTry+1; if (window.revapi1initTry<20) requestAnimationFrame(function() {RS_MODULES.modules[\"revslider11\"].init()}); return;} window.revapi1 = jQuery(window.revapi1); if(window.revapi1.revolution==undefined){ revslider_showDoubleJqueryError(\"rev_slider_1_1\"); return;} revapi1.revolutionInit({ revapi:\"revapi1\", visibilityLevels:\"1240,1024,778,480\", gridwidth:\"1920,1024,778,480\", gridheight:\"700,600,600,400\", lazyType:\"smart\", spinner:\"spinner0\", perspectiveType:\"local\", responsiveLevels:\"1240,1024,778,480\", progressBar:{disableProgressBar:true}, navigation: { onHoverStop:false }, viewPort: { global:true, globalDist:\"-200px\", enable:false, visible_area:\"20%\" }, fallbacks: { allowHTML5AutoPlayOnAndroid:true }, }); }} // End of RevInitScript if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();}; jQuery( document ).ready( function() { var ajaxurl = 'https://hosp-alexandra.gr/wp-admin/admin-ajax.php'; if ( 0 < jQuery( '.fusion-login-nonce' ).length ) { jQuery.get( ajaxurl, { 'action': 'fusion_login_nonce' }, function( response ) { jQuery( '.fusion-login-nonce' ).html( response ); }); } }); Go to Top",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/hosp-alexandra.gr-home-d0049c05/homepage--c2f6bf87.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/hosp-alexandra.gr-home-d0049c05/homepage--c2f6bf87.txt",
+      "imageReferences": [
+        {
+          "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/gn-alexandra-logo-120-1.png",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://hosp-alexandra.gr/",
+          "pageType": "homepage",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://hosp-alexandra.gr/",
+              "retrievedAt": "2026-03-31T13:22:11.448Z"
+            }
+          ]
+        },
+        {
+          "url": "https://hosp-alexandra.gr/wp-content/plugins/revslider/sr6/assets/assets/dummy.png",
+          "sourcePageUrl": "https://hosp-alexandra.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://hosp-alexandra.gr/",
+              "retrievedAt": "2026-03-31T13:22:11.448Z"
+            }
+          ]
+        },
+        {
+          "url": "https://hosp-alexandra.gr/wp-content/uploads/2023/10/mastos-gennimata-poster-25.10.2023.jpg",
+          "sourcePageUrl": "https://hosp-alexandra.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://hosp-alexandra.gr/",
+              "retrievedAt": "2026-03-31T13:22:11.448Z"
+            }
+          ]
+        },
+        {
+          "url": "https://hosp-alexandra.gr/wp-content/uploads/2022/12/AFISA-DIKAIOMATA-LIPTON-YY-1.jpg",
+          "sourcePageUrl": "https://hosp-alexandra.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://hosp-alexandra.gr/",
+              "retrievedAt": "2026-03-31T13:22:11.448Z"
+            }
+          ]
+        },
+        {
+          "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/03/6.jpg",
+          "sourcePageUrl": "https://hosp-alexandra.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://hosp-alexandra.gr/",
+              "retrievedAt": "2026-03-31T13:22:11.448Z"
+            }
+          ]
+        },
+        {
+          "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/%C3%95%C3%90%C3%8F%C3%84%C3%8F%C3%97%C3%87-600-edited.jpg",
+          "sourcePageUrl": "https://hosp-alexandra.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://hosp-alexandra.gr/",
+              "retrievedAt": "2026-03-31T13:22:11.448Z"
+            }
+          ]
+        },
+        {
+          "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/1-Alexandra-600.jpg",
+          "sourcePageUrl": "https://hosp-alexandra.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://hosp-alexandra.gr/",
+              "retrievedAt": "2026-03-31T13:22:11.448Z"
+            }
+          ]
+        },
+        {
+          "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/3-Alexandra_Responsive-600.jpg",
+          "sourcePageUrl": "https://hosp-alexandra.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://hosp-alexandra.gr/",
+              "retrievedAt": "2026-03-31T13:22:11.448Z"
+            }
+          ]
+        },
+        {
+          "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/%C3%81%C3%83%C3%81%C3%8B%C3%8C%C3%81-600.jpg",
+          "sourcePageUrl": "https://hosp-alexandra.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://hosp-alexandra.gr/",
+              "retrievedAt": "2026-03-31T13:22:11.448Z"
+            }
+          ]
+        },
+        {
+          "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/alexandra3-600.jpg",
+          "sourcePageUrl": "https://hosp-alexandra.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://hosp-alexandra.gr/",
+              "retrievedAt": "2026-03-31T13:22:11.448Z"
+            }
+          ]
+        },
+        {
+          "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/Alexandra-600.jpg",
+          "sourcePageUrl": "https://hosp-alexandra.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://hosp-alexandra.gr/",
+              "retrievedAt": "2026-03-31T13:22:11.448Z"
+            }
+          ]
+        },
+        {
+          "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/%C3%81%C3%83%C3%81%C3%8B%C3%8C%C3%81%C3%94%C3%81-600.jpg",
+          "sourcePageUrl": "https://hosp-alexandra.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://hosp-alexandra.gr/",
+              "retrievedAt": "2026-03-31T13:22:11.448Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.451Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/hosp-alexandra.gr-home-d0049c05/homepage-page-c2f6bf87.png"
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+      "finalUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+      "fetchedAt": "2026-03-31T13:22:12.841Z",
+      "metadata": {
+        "title": "Ιατρική Υπηρεσία – Γενικό Νοσοκομείο Αλεξάνδρα",
+        "metaDescription": "Σύμφωνα με τον Οργανισμό του νοσοκομείου η Ιατρική Υπηρεσία περιλαμβάνει τον Παθολογικό Τομέα, το Χειρουργικό Τομέα, τον Εργαστηριακό Τομέα, Ειδικές Μονάδες και Λοιπά Τμήματα.",
+        "canonicalUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/",
+        "language": "el",
+        "robots": "max-image-preview:large",
+        "openGraphTitle": "Ιατρική Υπηρεσία",
+        "openGraphDescription": "Σύμφωνα με τον Οργανισμό του νοσοκομείου η Ιατρική Υπηρεσία περιλαμβάνει τον Παθολογικό Τομέα, το Χειρουργικό Τομέα, τον Εργαστηριακό Τομέα, Ειδικές Μονάδες και Λοιπά Τμήματα.",
+        "openGraphImage": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/gn-alexandra-logo-120-1.png"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Ιατρική Υπηρεσία"
+        },
+        {
+          "level": "h3",
+          "text": "Λεωφ. Βασιλίσσης Σοφίας 80, Τ.Κ. 115 28, ΑΘΗΝΑ Τ: 213-2162000, 210-3381100 F: 213-216-2898 hospital@hosp-alexandra.gr"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://hosp-alexandra.gr/"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/istoria/",
+          "label": "Ιστορία"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/dioikisi/",
+          "label": "Διοίκηση"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/organogramma/",
+          "label": "Οργανόγραμμα"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/etisios-apologismos/",
+          "label": "Ετήσιος Απολογισμός"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/ektelesi-proypologismoy-n-4305-2014-ar-15/",
+          "label": "Εκτέλεση Προϋπολογισμού, Ν. 4305/2014 Αρ. 15"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/politiki-poiotitas/",
+          "label": "Πολιτική Ποιότητας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/",
+          "label": "Ιατρική Υπηρεσία"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia/",
+          "label": "Νοσηλευτική Υπηρεσία"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia/grafeio-nosokomeiakon-loimoxeon/",
+          "label": "Γραφείο Νοσοκομειακών Λοιμώξεων"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia/tmima-psychoprofylaktikis-anodynos-toketos/",
+          "label": "Τμήμα Ψυχοπροφυλακτικής – Ανώδυνος Τοκετός"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia/epitropi-mitrikoy-thilasmoy/",
+          "label": "Επιτροπή Μητρικού Θηλασμού"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia/",
+          "label": "Διοικητική Υπηρεσία"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia/ypodieythynsi-dioikitikou/",
+          "label": "Υποδιεύθυνση Διοικητικού"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia/ypodieythynsi-oikonomikou/",
+          "label": "Υποδιεύθυνση Οικονομικού"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia/ypodieythynsi-technikoy/",
+          "label": "Υποδιεύθυνση Τεχνικού"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/aytoteli-tmimata/",
+          "label": "Αυτοτελή Τμήματα"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/aytoteli-tmimata/autoteles-tmima-organosis-kai-pliroforikis/",
+          "label": "Αυτοτελές Τμήμα Οργάνωσης και Πληροφορικής"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/aytoteli-tmimata/aytoteles-grafeio-poiotitas/",
+          "label": "Αυτοτελές Τμήμα Ελέγχου Ποιότητας, Έρευνας και Συνεχιζόμενης Εκπαίδευσης"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias/",
+          "label": "Γραφείο Προστασίας Δικαιωμάτων Ληπτών/τριών Υπηρεσιών Υγείας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/aytotelis-monada-esoterikoy-elegchoy-1/",
+          "label": "Αυτοτελής Μονάδα Εσωτερικού Ελέγχου"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/",
+          "label": "Παθολογικός Τομέας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/therapeytiki-kliniki-iatrikis-scholis-ekpa/",
+          "label": "Θεραπευτική Κλινική Ιατρικής Σχολής ΕΚΠΑ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/therapeytiki-kliniki-iatrikis-scholis-ekpa/ogkologiko-aimatologiko-tmima/",
+          "label": "Ογκολογικό – Αιματολογικό Τμήμα"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/therapeytiki-kliniki-iatrikis-scholis-ekpa/d-pteryga-4-lt-sup-gt-oy-lt-sup-gt-orofoy-e-pteryga-4-lt-sup-gt-oy-lt-sup-gt-orofoy/",
+          "label": "Δ’ Πτέρυγα 4ου ορόφου, Ε’ Πτέρυγα 4ου ορόφου"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/therapeytiki-kliniki-iatrikis-scholis-ekpa/d-pteryga-3oy-orofoy-e-pteryga-3-orofoy/",
+          "label": "Δ’ Πτέρυγα 3ου ορόφου, Ε’ Πτέρυγα 3ου ορόφου"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/gastrenterologiko/",
+          "label": "Γαστρεντερολογικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/endokrinologiko/",
+          "label": "Ενδοκρινολογικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/therapeytiki-kliniki-iatrikis-scholis-ekpa/pneymonologiko-tmima/",
+          "label": "Πνευμονολογικό Τμήμα"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/a-pathologiki-pteryga-x-nikola-di/",
+          "label": "Α’ Παθολογική Πτέρυγα «Ξ. Νικολαΐδη»"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/neognologiko/",
+          "label": "Νεογνολογικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/aktinotherapeytiko/",
+          "label": "Ακτινοθεραπευτικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas/monada-vracheias-nosileias/",
+          "label": "Μονάδα Βραχείας Νοσηλείας Παθολογικού Τομέα"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/",
+          "label": "Χειρουργικός Τομέας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/a-maieytiki-gynaikologiki-kliniki-iatrikis-scholis-ekpa/",
+          "label": "Α’ Μαιευτική – Γυναικολογική Κλινική Ιατρικής Σχολής ΕΚΠΑ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/a-maieytiki-gynaikologiki-kliniki-iatrikis-scholis-ekpa/pteryges-tmimata-monades-a-m-g-ekpa/",
+          "label": "Πτέρυγες – Τμήματα – Μονάδες Α’ Μ/Γ ΕΚΠΑ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/a-maieytiki-gynaikologiki-kliniki-iatrikis-scholis-ekpa/taktika-exoterika-iatreia-parartimatos-lampsakoy/",
+          "label": "Τακτικά Εξωτερικά Ιατρεία Παραρτήματος Λαμψάκου"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/a-maieytiki-gynaikologiki-kliniki-iatrikis-scholis-ekpa/ergastiria-a-m-g-ekpa/",
+          "label": "Εργαστήρια Α’ Μ/Γ ΕΚΠΑ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/a-maieytiki-gynaikologiki-kliniki-iatrikis-scholis-ekpa/epistimonika-protokolla/",
+          "label": "Επιστημονικά Πρωτόκολλα"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/maieytiko-gynaikologiko-tmima-esy/",
+          "label": "Μαιευτικό – Γυναικολογικό Τμήμα ΕΣΥ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/maieytiko-gynaikologiko-tmima-esy/gynaikologiki-pteryga-5-lt-sup-gt-os-lt-sup-gt-v/",
+          "label": "Γυναικολογική Πτέρυγα 5ος Β"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/maieytiko-gynaikologiko-tmima-esy/maieytiki-pteryga-5-lt-sup-gt-os-lt-sup-gt-d/",
+          "label": "Μαιευτική Πτέρυγα 5ος Δ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/tmima-vracheias-nosileias-m-g-esy/",
+          "label": "Τμήμα βραχείας νοσηλείας Μ/Γ ΕΣΥ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/iatreio-pathologias-trachiloy-kolposkopisis-m-g-esy/",
+          "label": "Ιατρείο παθολογίας τραχήλου – κολποσκόπησης Μ/Γ ΕΣΥ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/taktika-exoterika-iatreia/exoterika-maieytika-iatreia-m-g-esy/",
+          "label": "Εξωτερικά μαιευτικά ιατρεία Μ/Γ ΕΣΥ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/taktika-exoterika-iatreia/exoterika-gynaikologika-iatreia-m-g-esy/",
+          "label": "Εξωτερικά γυναικολογικά ιατρεία Μ/Γ ΕΣΥ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/monada-cheiroyrgikis-laparoskopisis-m-g-esy/",
+          "label": "Μονάδα χειρουργικής λαπαροσκόπησης Μ/Γ ΕΣΥ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/monada-cheiroyrgikis-ysteroskopisis-m-g-esy/",
+          "label": "Μονάδα χειρουργικής υστεροσκόπησης Μ/Γ ΕΣΥ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/maieytiko-gynaikologiko-tmima-esy/ekpaideytiko-programma-m-g-esy/",
+          "label": "Εκπαιδευτικό πρόγραμμα Μ/Γ ΕΣΥ"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/anaisthisiologiko/",
+          "label": "Αναισθησιολογικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/cheiroyrgeia/",
+          "label": "Χειρουργεία"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/monada-metanaisthitikis-frontidas/",
+          "label": "Μονάδα Μεταναισθητικής Φροντίδας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/cheiroyrgikos-tomeas/aithoysa-toketon/",
+          "label": "Αίθουσα Τοκετών"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/",
+          "label": "Εργαστηριακός Τομέας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/aktinodiagnostiko/",
+          "label": "Ακτινοδιαγνωστικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/vrachytherapeies-aktinotherapeytikoy/",
+          "label": "Βραχυθεραπείες Ακτινοθεραπευτικού"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/pyrinikis-iatrikis/",
+          "label": "Πυρηνικής Ιατρικής"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/viopathologiko/",
+          "label": "Βιοπαθολογικό (Μικροβιολογικό)"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/viochimiko/",
+          "label": "Βιοχημικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/aimatologiko/",
+          "label": "Αιματολογικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/pathologikis-anatomikis/",
+          "label": "Παθολογικής Ανατομικής"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/aimodosia/",
+          "label": "Αιμοδοσία"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/anosologias-istosymvatotitas/",
+          "label": "Ανοσολογίας – Ιστοσυμβατότητας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/kyttarologiko/",
+          "label": "Κυτταρολογικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/genetikis/",
+          "label": "Γενετικής"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/farmakeytiko/",
+          "label": "Φαρμακευτικό"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/ergastiriakos-tomeas/iatrikis-fysikis/",
+          "label": "Ιατρικής Φυσικής"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/eidikes-monades/",
+          "label": "Ειδικές Μονάδες"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/eidikes-monades/monada-entatikis-therapeias-sp-moylopoylos/",
+          "label": "Μονάδα Εντατικής Θεραπείας «Σπ. Μουλόπουλος»"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/eidikes-monades/monada-ayximenis-frontidas/",
+          "label": "Μονάδα Αυξημένης Φροντίδας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/eidikes-monades/monada-entatikis-nosileias-neognon/",
+          "label": "Μονάδα Εντατικής Νοσηλείας Νεογνών"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/eidikes-monades/monada-technitou-nefrou/",
+          "label": "Μονάδα Τεχνητού Νεφρού"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/eidikes-monades/aimodynamiki-monada/",
+          "label": "Αιμοδυναμική Μονάδα"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/",
+          "label": "Λοιπά Τμήματα"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias/",
+          "label": "Τμήμα Κοινωνικής Υπηρεσίας"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-diaitologias-diatrofis/",
+          "label": "Τμήμα Διαιτολογίας – Διατροφής"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/taktika-exoterika-iatreia/",
+          "label": "Τακτικά Εξωτερικά Ιατρεία"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/apogeymatina-iatreia/",
+          "label": "Απογευματινά Ιατρεία"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/episkeptiria/",
+          "label": "Επισκεπτήριο"
+        },
+        {
+          "href": "https://hosp-alexandra.gr/listes-cheiroyrgeion/",
+          "label": "Λίστα Χειρουργείου"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://hosp-alexandra.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            ""
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Αναζήτηση...",
+              "required": true
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "213-2162000",
+          "210-3381100",
+          "213-216-2898",
+          "4305/2014",
+          "4990/2022",
+          "2019-09-20",
+          "213-2162572",
+          "213-2162588",
+          "2024-08-02 09",
+          "2132162000"
+        ],
+        "emails": [
+          "hospital@hosp-alexandra.gr"
+        ],
+        "addresses": [
+          "ΕΠΙΚΟΙΝΩΝΙΑ Διεύθυνση: Λεωφ. Βασιλίσσης Σοφίας 80, Τ.Κ 115 28, ΑΘΗΝΑ Τηλεφωνικό Κέντρο: 213-2162000, 210-3381100 Τηλέφωνα επικοινωνίας για ραντεβού: 1566, 213-2162572, 213-2162588 Fax: 213-216-2898 Email: hospital@hosp-alexandra.gr ΧΑΡΤΗΣ ΠΡΟΣΒΑΣΗΣ"
+        ],
+        "socialLinks": [],
+        "forms": [
+          {
+            "action": "https://hosp-alexandra.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              ""
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Αναζήτηση...",
+                "required": true
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "ΕΠΙΚΟΙΝΩΝΙΑ Διεύθυνση: Λεωφ. Βασιλίσσης Σοφίας 80, Τ.Κ 115 28, ΑΘΗΝΑ Τηλεφωνικό Κέντρο: 213-2162000, 210-3381100 Τηλέφωνα επικοινωνίας για ραντεβού: 1566, 213-2162572, 213-2162588 Fax: 213-216-2898 Email: hospital@hosp-alexandra.gr ΧΑΡΤΗΣ ΠΡΟΣΒΑΣΗΣ",
+      "textContent": "Μετάβαση στο περιεχόμενο Λεωφ. Βασιλίσσης Σοφίας 80, Τ.Κ. 115 28, ΑΘΗΝΑ Τ: 213-2162000, 210-3381100 F: 213-216-2898 hospital@hosp-alexandra.gr Αναζήτηση για: ΑΡΧΙΚΗ ΤΟ ΝΟΣΟΚΟΜΕΙΟ ΙστορίαΔιοίκησηΟργανόγραμμαΕτήσιος ΑπολογισμόςΕκτέλεση Προϋπολογισμού, Ν. 4305/2014 Αρ. 15Πολιτική ΠοιότηταςΙατρική ΥπηρεσίαΝοσηλευτική ΥπηρεσίαΓραφείο Νοσοκομειακών ΛοιμώξεωνΤμήμα Ψυχοπροφυλακτικής – Ανώδυνος ΤοκετόςΕπιτροπή Μητρικού ΘηλασμούΔιοικητική ΥπηρεσίαΥποδιεύθυνση ΔιοικητικούΥποδιεύθυνση ΟικονομικούΥποδιεύθυνση ΤεχνικούΑυτοτελή ΤμήματαΑυτοτελές Τμήμα Οργάνωσης και ΠληροφορικήςΑυτοτελές Τμήμα Ελέγχου Ποιότητας, Έρευνας και Συνεχιζόμενης ΕκπαίδευσηςΓραφείο Προστασίας Δικαιωμάτων Ληπτών/τριών Υπηρεσιών ΥγείαςΑυτοτελής Μονάδα Εσωτερικού ΕλέγχουΥΠΗΡΕΣΙΕΣ Παθολογικός ΤομέαςΘεραπευτική Κλινική Ιατρικής Σχολής ΕΚΠΑΟγκολογικό – Αιματολογικό ΤμήμαΔ’ Πτέρυγα 4ου ορόφου, Ε’ Πτέρυγα 4ου ορόφουΔ’ Πτέρυγα 3ου ορόφου, Ε’ Πτέρυγα 3ου ορόφουΓαστρεντερολογικόΕνδοκρινολογικόΠνευμονολογικό ΤμήμαΑ’ Παθολογική Πτέρυγα «Ξ. Νικολαΐδη»ΝεογνολογικόΑκτινοθεραπευτικόΜονάδα Βραχείας Νοσηλείας Παθολογικού ΤομέαΧειρουργικός ΤομέαςΑ’ Μαιευτική – Γυναικολογική Κλινική Ιατρικής Σχολής ΕΚΠΑΠτέρυγες – Τμήματα – Μονάδες Α’ Μ/Γ ΕΚΠΑΤακτικά Εξωτερικά Ιατρεία Παραρτήματος ΛαμψάκουΕργαστήρια Α’ Μ/Γ ΕΚΠΑΕπιστημονικά ΠρωτόκολλαΜαιευτικό – Γυναικολογικό Τμήμα ΕΣΥΓυναικολογική Πτέρυγα 5ος ΒΜαιευτική Πτέρυγα 5ος ΔΤμήμα βραχείας νοσηλείας Μ/Γ ΕΣΥΙατρείο παθολογίας τραχήλου – κολποσκόπησης Μ/Γ ΕΣΥΕξωτερικά μαιευτικά ιατρεία Μ/Γ ΕΣΥΕξωτερικά γυναικολογικά ιατρεία Μ/Γ ΕΣΥΜονάδα χειρουργικής λαπαροσκόπησης Μ/Γ ΕΣΥΜονάδα χειρουργικής υστεροσκόπησης Μ/Γ ΕΣΥΕκπαιδευτικό πρόγραμμα Μ/Γ ΕΣΥΑναισθησιολογικόΧειρουργείαΜονάδα Μεταναισθητικής ΦροντίδαςΑίθουσα ΤοκετώνΕργαστηριακός ΤομέαςΑκτινοδιαγνωστικόΒραχυθεραπείες ΑκτινοθεραπευτικούΠυρηνικής ΙατρικήςΒιοπαθολογικό (Μικροβιολογικό)ΒιοχημικόΑιματολογικόΠαθολογικής ΑνατομικήςΑιμοδοσίαΑνοσολογίας – ΙστοσυμβατότηταςΚυτταρολογικόΓενετικήςΦαρμακευτικόΙατρικής ΦυσικήςΕιδικές ΜονάδεςΜονάδα Εντατικής Θεραπείας «Σπ. Μουλόπουλος»Μονάδα Αυξημένης ΦροντίδαςΜονάδα Εντατικής Νοσηλείας ΝεογνώνΜονάδα Τεχνητού ΝεφρούΑιμοδυναμική ΜονάδαΛοιπά ΤμήματαΤμήμα Κοινωνικής ΥπηρεσίαςΤμήμα Διαιτολογίας – ΔιατροφήςΤακτικά Εξωτερικά ΙατρείαΑπογευματινά ΙατρείαΠΛΗΡΟΦΟΡΙΕΣ ΑΣΘΕΝΩΝ Γραφείο Προστασίας Δικαιωμάτων Ληπτών Υπηρεσιών ΥγείαςΕπισκεπτήριοΛίστα ΧειρουργείουΕφημερίες1566Πληροφορίες για Ασθενείς – ΕπισκέπτεςΣχέδιο Ελέγχου Διακοπής του ΚαπνίσματοςΕΝΗΜΕΡΩΣΗ Alexandra’s BlogΑνακοινώσειςΔελτία ΤύπουΠροκηρύξειςΑνθρώπινο ΔυναμικόΠρομήθειεςΕΣΠΑΓΚΠΔ-GDPRΣχέδιο δράσης για την ισότητα των φύλωνΕΚΠΑΙΔΕΥΣΗ ΚΑΙ ΕΡΕΥΝΑ ΒιβλιοθήκηΣυνεχιζόμενη ΕκπαίδευσηΕπιστημονικό ΣυμβούλιοΗμερίδες – ΣυνέδριαΕΠΙΚΟΙΝΩΝΙΑ Στοιχεία Επικοινωνίας και ΠρόσβασηΦόρμα ΠαραπόνωνΦόρμα ΕυχαριστηρίουΕρωτηματολόγιο Ικανοποίησης Εσωτερικών ΑσθενώνΕρωτηματολόγιο Ικανοποίησης Εξωτερικών Ασθενώνe-ΑιτήσειςΠλατφόρμα Ανώνυμων Αναφορών Ν.4990/2022 Ιατρική Υπηρεσία ΑρχικήΤο ΝοσοκομείοΙατρική Υπηρεσία Ιατρική Υπηρεσίαismart2019-09-20T16:16:17+02:00 #avada-vertical-menu-widget-3 > ul.menu { margin-top: -8px; }#fusion-vertical-menu-widget-avada-vertical-menu-widget-3-nav ul.menu li a {font-size:14px;} Παθολογικός Τομέας Θεραπευτική Κλινική Ιατρικής Σχολής ΕΚΠΑ Ογκολογικό – Αιματολογικό Τμήμα Δ’ Πτέρυγα 3ου ορόφου, Ε’ Πτέρυγα 3ου ορόφου Δ’ Πτέρυγα 4ου ορόφου, Ε’ Πτέρυγα 4ου ορόφου Γαστρεντερολογικό Ενδοκρινολογικό Πνευμονολογικό Τμήμα Α’ Παθολογική Πτέρυγα «Ξ. Νικολαΐδη» Νεογνολογικό Ακτινοθεραπευτικό Μονάδα Βραχείας Νοσηλείας Παθολογικού Τομέα Χειρουργικός Τομέας Α’ Μαιευτική – Γυναικολογική Κλινική Ιατρικής Σχολής ΕΚΠΑ Πτέρυγες – Τμήματα – Μονάδες Α’ Μ/Γ ΕΚΠΑ Τακτικά Εξωτερικά Ιατρεία Παραρτήματος Λαμψάκου Εργαστήρια Α’ Μ/Γ ΕΚΠΑ Επιστημονικά Πρωτόκολλα Μαιευτικό – Γυναικολογικό Τμήμα ΕΣΥ Γυναικολογική Πτέρυγα 5ος Β Μαιευτική Πτέρυγα 5ος Δ Τμήμα βραχείας νοσηλείας Μ/Γ ΕΣΥ Ιατρείο παθολογίας τραχήλου – κολποσκόπησης Μ/Γ ΕΣΥ Εξωτερικά μαιευτικά ιατρεία Μ/Γ ΕΣΥ Εξωτερικά γυναικολογικά ιατρεία Μ/Γ ΕΣΥ Μονάδα χειρουργικής λαπαροσκόπησης Μ/Γ ΕΣΥ Μονάδα χειρουργικής υστεροσκόπησης Μ/Γ ΕΣΥ Εκπαιδευτικό πρόγραμμα Μ/Γ ΕΣΥ Αναισθησιολογικό Χειρουργεία Μονάδα Μεταναισθητικής Φροντίδας Αίθουσα Τοκετών Εργαστηριακός Τομέας Ακτινοδιαγνωστικό Βραχυθεραπείες Ακτινοθεραπευτικού Πυρηνικής Ιατρικής Βιοπαθολογικό (Μικροβιολογικό) Βιοχημικό Αιματολογικό Παθολογικής Ανατομικής Αιμοδοσία Ανοσολογίας – Ιστοσυμβατότητας Κυτταρολογικό Γενετικής Φαρμακευτικό Ιατρικής Φυσικής Ειδικές Μονάδες Μονάδα Εντατικής Θεραπείας «Σπ. Μουλόπουλος» Μονάδα Αυξημένης Φροντίδας Μονάδα Εντατικής Νοσηλείας Νεογνών Μονάδα Τεχνητού Νεφρού Αιμοδυναμική Μονάδα Λοιπά Τμήματα Τμήμα Κοινωνικής Υπηρεσίας Τμήμα Διαιτολογίας – Διατροφής Τακτικά Εξωτερικά Ιατρεία Απογευματινά ΙατρείαΣύμφωνα με τον Οργανισμό του νοσοκομείου η Ιατρική Υπηρεσία περιλαμβάνει τον Παθολογικό Τομέα, το Χειρουργικό Τομέα, τον Εργαστηριακό Τομέα, Ειδικές Μονάδες και Λοιπά Τμήματα. ΕΠΙΚΟΙΝΩΝΙΑ Διεύθυνση: Λεωφ. Βασιλίσσης Σοφίας 80, Τ.Κ 115 28, ΑΘΗΝΑ Τηλεφωνικό Κέντρο: 213-2162000, 210-3381100 Τηλέφωνα επικοινωνίας για ραντεβού: 1566, 213-2162572, 213-2162588 Fax: 213-216-2898 Email: hospital@hosp-alexandra.gr ΧΑΡΤΗΣ ΠΡΟΣΒΑΣΗΣ Copyright document.write(new Date().getFullYear()) Γ. Νοσοκομείο Αλεξάνδρα | All Rights Reserved | Developed by iSmart P.C. Page load link var fusionNavIsCollapsed=function(e){var t,n;window.innerWidth<=e.getAttribute(\"data-breakpoint\")?(e.classList.add(\"collapse-enabled\"),e.classList.remove(\"awb-menu_desktop\"),e.classList.contains(\"expanded\")||window.dispatchEvent(new CustomEvent(\"fusion-mobile-menu-collapsed\",{detail:{nav:e}})),(n=e.querySelectorAll(\".menu-item-has-children.expanded\")).length&&n.forEach(function(e){e.querySelector(\".awb-menu__open-nav-submenu_mobile\").setAttribute(\"aria-expanded\",\"false\")})):(null!==e.querySelector(\".menu-item-has-children.expanded .awb-menu__open-nav-submenu_click\")&&e.querySelector(\".menu-item-has-children.expanded .awb-menu__open-nav-submenu_click\").click(),e.classList.remove(\"collapse-enabled\"),e.classList.add(\"awb-menu_desktop\"),null!==e.querySelector(\".awb-menu__main-ul\")&&e.querySelector(\".awb-menu__main-ul\").removeAttribute(\"style\")),e.classList.add(\"no-wrapper-transition\"),clearTimeout(t),t=setTimeout(()=>{e.classList.remove(\"no-wrapper-transition\")},400),e.classList.remove(\"loading\")},fusionRunNavIsCollapsed=function(){var e,t=document.querySelectorAll(\".awb-menu\");for(e=0;e<t.length;e++)fusionNavIsCollapsed(t[e])};function avadaGetScrollBarWidth(){var e,t,n,l=document.createElement(\"p\");return l.style.width=\"100%\",l.style.height=\"200px\",(e=document.createElement(\"div\")).style.position=\"absolute\",e.style.top=\"0px\",e.style.left=\"0px\",e.style.visibility=\"hidden\",e.style.width=\"200px\",e.style.height=\"150px\",e.style.overflow=\"hidden\",e.appendChild(l),document.body.appendChild(e),t=l.offsetWidth,e.style.overflow=\"scroll\",t==(n=l.offsetWidth)&&(n=e.clientWidth),document.body.removeChild(e),jQuery(\"html\").hasClass(\"awb-scroll\")&&10<t-n?10:t-n}fusionRunNavIsCollapsed(),window.addEventListener(\"fusion-resize-horizontal\",fusionRunNavIsCollapsed); window.RS_MODULES = window.RS_MODULES || {}; window.RS_MODULES.modules = window.RS_MODULES.modules || {}; window.RS_MODULES.waiting = window.RS_MODULES.waiting || []; window.RS_MODULES.defered = false; window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {}; window.RS_MODULES.type = 'compiled'; {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/Avada/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); //# sourceURL=wp-i18n-js-after /* ]]> */ /* <![CDATA[ */ ( function( domain, translations ) { var localeData = translations.locale_data[ domain ] || translations.locale_data.messages; localeData[\"\"].domain = domain; wp.i18n.setLocaleData( localeData, domain ); } )( \"contact-form-7\", {\"translation-revision-date\":\"2024-08-02 09:16:28+0000\",\"generator\":\"GlotPress\\/4.0.3\",\"domain\":\"messages\",\"locale_data\":{\"messages\":{\"\":{\"domain\":\"messages\",\"plural-forms\":\"nplurals=2; plural=n != 1;\",\"lang\":\"el_GR\"},\"This contact form is placed in the wrong place.\":[\"\\u0397 \\u03c6\\u03cc\\u03c1\\u03bc\\u03b1 \\u03b5\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03af\\u03b1\\u03c2 \\u03b5\\u03af\\u03bd\\u03b1\\u03b9 \\u03c3\\u03b5 \\u03bb\\u03ac\\u03b8\\u03bf\\u03c2 \\u03b8\\u03ad\\u03c3\\u03b7.\"],\"Error:\":[\"\\u03a3\\u03c6\\u03ac\\u03bb\\u03bc\\u03b1:\"]}},\"comment\":{\"reference\":\"includes\\/js\\/index.js\"}} ); //# sourceURL=contact-form-7-js-translations /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/hosp-alexandra.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; //# sourceURL=contact-form-7-js-before /* ]]> */ /* <![CDATA[ */ var fusionAnimationsVars = {\"status_css_animations\":\"desktop\"}; //# sourceURL=fusion-animations-js-extra /* ]]> */ /* <![CDATA[ */ var fusionJSVars = {\"visibility_small\":\"640\",\"visibility_medium\":\"1024\"}; //# sourceURL=fusion-js-extra /* ]]> */ /* <![CDATA[ */ var fusionLightboxVideoVars = {\"lightbox_video_width\":\"1280\",\"lightbox_video_height\":\"720\"}; //# sourceURL=jquery-lightbox-js-extra /* ]]> */ /* <![CDATA[ */ var fusionEqualHeightVars = {\"content_break_point\":\"800\"}; //# sourceURL=fusion-equal-heights-js-extra /* ]]> */ /* <![CDATA[ */ var fusionVideoGeneralVars = {\"status_vimeo\":\"1\",\"status_yt\":\"1\"}; //# sourceURL=fusion-video-general-js-extra /* ]]> */ /* <![CDATA[ */ var fusionVideoBgVars = {\"status_vimeo\":\"1\",\"status_yt\":\"1\"}; //# sourceURL=fusion-video-bg-js-extra /* ]]> */ /* <![CDATA[ */ var fusionLightboxVars = {\"status_lightbox\":\"1\",\"lightbox_gallery\":\"1\",\"lightbox_skin\":\"metro-white\",\"lightbox_title\":\"1\",\"lightbox_zoom\":\"1\",\"lightbox_arrows\":\"1\",\"lightbox_slideshow_speed\":\"5000\",\"lightbox_loop\":\"0\",\"lightbox_autoplay\":\"\",\"lightbox_opacity\":\"0.9\",\"lightbox_desc\":\"1\",\"lightbox_social\":\"1\",\"lightbox_social_links\":{\"facebook\":{\"source\":\"https://www.facebook.com/sharer.php?u={URL}\",\"text\":\"Share on Facebook\"},\"twitter\":{\"source\":\"https://x.com/intent/post?url={URL}\",\"text\":\"Share on X\"},\"mail\":{\"source\":\"mailto:?body={URL}\",\"text\":\"Share by Email\"}},\"lightbox_deeplinking\":\"1\",\"lightbox_path\":\"vertical\",\"lightbox_post_images\":\"1\",\"lightbox_animation_speed\":\"normal\",\"l10n\":{\"close\":\"Press Esc to close\",\"enterFullscreen\":\"Enter Fullscreen (Shift+Enter)\",\"exitFullscreen\":\"Exit Fullscreen (Shift+Enter)\",\"slideShow\":\"Slideshow\",\"next\":\"\\u0395\\u03c0\\u03cc\\u03bc\\u03b5\\u03bd\\u03bf\",\"previous\":\"\\u03a0\\u03c1\\u03bf\\u03b7\\u03b3\\u03bf\\u03cd\\u03bc\\u03b5\\u03bd\\u03bf\"}}; //# sourceURL=fusion-lightbox-js-extra /* ]]> */ /* <![CDATA[ */ var avadaRevVars = {\"avada_rev_styles\":\"1\"}; //# sourceURL=avada-rev-styles-js-extra /* ]]> */ /* <![CDATA[ */ var avadaLiveSearchVars = {\"live_search\":\"1\",\"ajaxurl\":\"https://hosp-alexandra.gr/wp-admin/admin-ajax.php\",\"no_search_results\":\"No search results match your query. Please try again\",\"min_char_count\":\"4\",\"per_page\":\"100\",\"show_feat_img\":\"1\",\"display_post_type\":\"1\"}; //# sourceURL=avada-live-search-js-extra /* ]]> */ /* <![CDATA[ */ var fusionFlexSliderVars = {\"status_vimeo\":\"1\",\"slideshow_autoplay\":\"1\",\"slideshow_speed\":\"7000\",\"pagination_video_slide\":\"\",\"status_yt\":\"1\",\"flex_smoothHeight\":\"false\"}; //# sourceURL=fusion-flexslider-js-extra /* ]]> */ /* <![CDATA[ */ var fusionContainerVars = {\"content_break_point\":\"800\",\"container_hundred_percent_height_mobile\":\"0\",\"is_sticky_header_transparent\":\"0\",\"hundred_percent_scroll_sensitivity\":\"450\"}; //# sourceURL=fusion-container-js-extra /* ]]> */ /* <![CDATA[ */ var avadaElasticSliderVars = {\"tfes_autoplay\":\"1\",\"tfes_animation\":\"sides\",\"tfes_interval\":\"3000\",\"tfes_speed\":\"800\",\"tfes_width\":\"150\"}; //# sourceURL=avada-elastic-slider-js-extra /* ]]> */ /* <![CDATA[ */ var avadaSelectVars = {\"avada_drop_down\":\"1\"}; //# sourceURL=avada-drop-down-js-extra /* ]]> */ /* <![CDATA[ */ var avadaToTopVars = {\"status_totop\":\"desktop\",\"totop_position\":\"right\",\"totop_scroll_down_only\":\"1\"}; //# sourceURL=avada-to-top-js-extra /* ]]> */ /* <![CDATA[ */ var avadaHeaderVars = {\"header_position\":\"top\",\"header_sticky\":\"1\",\"header_sticky_type2_layout\":\"menu_only\",\"header_sticky_shadow\":\"1\",\"side_header_break_point\":\"1010\",\"header_sticky_mobile\":\"\",\"header_sticky_tablet\":\"\",\"mobile_menu_design\":\"modern\",\"sticky_header_shrinkage\":\"\",\"nav_height\":\"40\",\"nav_highlight_border\":\"0\",\"nav_highlight_style\":\"arrow\",\"logo_margin_top\":\"0px\",\"logo_margin_bottom\":\"0px\",\"layout_mode\":\"wide\",\"header_padding_top\":\"0px\",\"header_padding_bottom\":\"0px\",\"scroll_offset\":\"full\"}; //# sourceURL=avada-header-js-extra /* ]]> */ /* <![CDATA[ */ var avadaMenuVars = {\"site_layout\":\"wide\",\"header_position\":\"top\",\"logo_alignment\":\"left\",\"header_sticky\":\"1\",\"header_sticky_mobile\":\"\",\"header_sticky_tablet\":\"\",\"side_header_break_point\":\"1010\",\"megamenu_base_width\":\"custom_width\",\"mobile_menu_design\":\"modern\",\"dropdown_goto\":\"\\u039c\\u03b5\\u03c4\\u03ac\\u03b2\\u03b1\\u03c3\\u03b7 \\u03c3\\u03b5 ...\",\"mobile_nav_cart\":\"\\u039a\\u03b1\\u03bb\\u03ac\\u03b8\\u03b9 \\u0391\\u03b3\\u03bf\\u03c1\\u03ce\\u03bd\",\"mobile_submenu_open\":\"Open submenu of %s\",\"mobile_submenu_close\":\"Close submenu of %s\",\"submenu_slideout\":\"1\"}; //# sourceURL=avada-menu-js-extra /* ]]> */ /* <![CDATA[ */ var fusionTypographyVars = {\"site_width\":\"1100px\",\"typography_sensitivity\":\"1\",\"typography_factor\":\"1.5\",\"elements\":\"h1, h2, h3, h4, h5, h6\"}; //# sourceURL=fusion-responsive-typography-js-extra /* ]]> */ /* <![CDATA[ */ var fusionScrollToAnchorVars = {\"content_break_point\":\"800\",\"container_hundred_percent_height_mobile\":\"0\",\"hundred_percent_scroll_sensitivity\":\"450\"}; //# sourceURL=fusion-scroll-to-anchor-js-extra /* ]]> */ /* <![CDATA[ */ var fusionVideoVars = {\"status_vimeo\":\"1\"}; //# sourceURL=fusion-video-js-extra /* ]]> */ {\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://hosp-alexandra.gr/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4\"}} /* <![CDATA[ */ /*! This file is auto-generated */ const a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://hosp-alexandra.gr/wp-includes/js/wp-emoji-loader.min.js /* ]]> */ jQuery( document ).ready( function() { var ajaxurl = 'https://hosp-alexandra.gr/wp-admin/admin-ajax.php'; if ( 0 < jQuery( '.fusion-login-nonce' ).length ) { jQuery.get( ajaxurl, { 'action': 'fusion_login_nonce' }, function( response ) { jQuery( '.fusion-login-nonce' ).html( response ); }); } }); {\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"\\u0391\\u03c1\\u03c7\\u03b9\\u03ba\\u03ae\",\"item\":\"https:\\/\\/hosp-alexandra.gr\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\\u03a4\\u03bf \\u039d\\u03bf\\u03c3\\u03bf\\u03ba\\u03bf\\u03bc\\u03b5\\u03af\\u03bf\",\"item\":\"https:\\/\\/hosp-alexandra.gr\\/to-nosokomeio\\/\"}]} Go to Top",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/hosp-alexandra.gr-home-d0049c05/services-to-nosokomeio-iatriki-ypiresia-a0f4ea73.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/hosp-alexandra.gr-home-d0049c05/services-to-nosokomeio-iatriki-ypiresia-a0f4ea73.txt",
+      "imageReferences": [
+        {
+          "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/gn-alexandra-logo-120-1.png",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+          "pageType": "services",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+              "retrievedAt": "2026-03-31T13:22:12.840Z"
+            }
+          ]
+        },
+        {
+          "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/map-alexandra-sm.png",
+          "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+              "retrievedAt": "2026-03-31T13:22:12.840Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:12.841Z"
+        }
+      ],
+      "statusCode": 200
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "213-2162000",
+      "210-3381100",
+      "213-216-2898",
+      "4305/2014",
+      "4990/2022",
+      "2025-09-30",
+      "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31",
+      "2026-03-31",
+      "2026-03-27",
+      "2026-03-20",
+      "2019-09-20",
+      "213-2162572",
+      "213-2162588",
+      "2024-08-02 09",
+      "2132162000",
+      "2025-07-10",
+      "2/20.11.2017 6",
+      "213 216 2125",
+      "213 216 2056",
+      "213 216 2885",
+      "2025-05-06",
+      "213 216 2150",
+      "2025-07-28",
+      "02-05-2017",
+      "4368/2016",
+      "7.00-15.00",
+      "213 216 2068",
+      "2019-09-23",
+      "213-216-2555",
+      "213-216-2084",
+      "2132162555",
+      "27-03-1986"
+    ],
+    "emails": [
+      "hospital@hosp-alexandra.gr",
+      "nosileftikiyp@hosp-alexandra.gr",
+      "tomeas.ther@hosp-alexandra.gr",
+      "tomeas_mg@hosp-alexandra.gr",
+      "tomeas_erg@hosp-alexandra.gr",
+      "grammateia.nosyp@hosp-alexandra.gr",
+      "prypoik@hosp-alexandra.gr",
+      "gpd@hosp-alexandra.gr",
+      "koin.yp@hosp-alexandra.gr"
+    ],
+    "addresses": [
+      "ΕΠΙΚΟΙΝΩΝΙΑ Διεύθυνση: Λεωφ. Βασιλίσσης Σοφίας 80, Τ.Κ 115 28, ΑΘΗΝΑ Τηλεφωνικό Κέντρο: 213-2162000, 210-3381100 Τηλέφωνα επικοινωνίας για ραντεβού: 1566, 213-2162572, 213-2162588 Fax: 213-216-2898 Email: hospital@hosp-alexandra.gr ΧΑΡΤΗΣ ΠΡΟΣΒΑΣΗΣ"
+    ],
+    "socialLinks": [],
+    "forms": [
+      {
+        "action": "https://hosp-alexandra.gr/",
+        "method": "get",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "s",
+          "submit"
+        ],
+        "submitLabels": [
+          ""
+        ],
+        "fields": [
+          {
+            "name": "s",
+            "type": "search",
+            "label": "Αναζήτηση...",
+            "required": true
+          },
+          {
+            "type": "submit",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Γενικό Νοσοκομείο Αλεξάνδρα",
+    "metaDescription": "Το Γενικό Νοσοκομείο Αθηνών «Αλεξάνδρα» ανήκει στη 1η Υγειονομική Περιφέρεια Αθηνών. Έχει περάσει πάνω από μισός αιώνας από την ίδρυση του Μαιευτηρίου «Αλεξάνδρα». Όλα αυτά τα χρόνια το Γ.Ν.Α. «Αλεξάνδρα» εξελίχθηκε και σήμερα αποτελεί ιατρικό, νοσηλευτικό, εκπαιδευτικό και ερευνητικό κέντρο τόσο στη Μαιευτική και Γυναικολογία όσο και στην Παθολογία και Καρδιολογία. Με τη μακρόχρονη εμπειρία",
+    "canonicalUrl": "https://hosp-alexandra.gr/",
+    "language": "el",
+    "robots": "max-image-preview:large",
+    "openGraphDescription": "Το Γενικό Νοσοκομείο Αθηνών «Αλεξάνδρα» ανήκει στη 1η Υγειονομική Περιφέρεια Αθηνών. Έχει περάσει πάνω από μισός αιώνας από την ίδρυση του Μαιευτηρίου «Αλεξάνδρα». Όλα αυτά τα χρόνια το Γ.Ν.Α. «Αλεξάνδρα» εξελίχθηκε και σήμερα αποτελεί ιατρικό, νοσηλευτικό, εκπαιδευτικό και ερευνητικό κέντρο τόσο στη Μαιευτική και Γυναικολογία όσο και στην Παθολογία και Καρδιολογία. Με τη μακρόχρονη εμπειρία",
+    "openGraphImage": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/gn-alexandra-logo-120-1.png"
+  },
+  "imageReferences": [
+    {
+      "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/gn-alexandra-logo-120-1.png",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "url": "https://hosp-alexandra.gr/wp-content/plugins/revslider/sr6/assets/assets/dummy.png",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "url": "https://hosp-alexandra.gr/wp-content/uploads/2023/10/mastos-gennimata-poster-25.10.2023.jpg",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "url": "https://hosp-alexandra.gr/wp-content/uploads/2022/12/AFISA-DIKAIOMATA-LIPTON-YY-1.jpg",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/03/6.jpg",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/%C3%95%C3%90%C3%8F%C3%84%C3%8F%C3%97%C3%87-600-edited.jpg",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/1-Alexandra-600.jpg",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/3-Alexandra_Responsive-600.jpg",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/%C3%81%C3%83%C3%81%C3%8B%C3%8C%C3%81-600.jpg",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/alexandra3-600.jpg",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/Alexandra-600.jpg",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/%C3%81%C3%83%C3%81%C3%8B%C3%8C%C3%81%C3%94%C3%81-600.jpg",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "url": "https://hosp-alexandra.gr/wp-content/uploads/2019/11/map-alexandra-sm.png",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:12.840Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "213-2162000",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210-3381100",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213-216-2898",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "4305/2014",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "4990/2022",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2025-09-30",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2026-03-31",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2026-03-27",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2026-03-20",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "hospital@hosp-alexandra.gr",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "ΕΠΙΚΟΙΝΩΝΙΑ Διεύθυνση: Λεωφ. Βασιλίσσης Σοφίας 80, Τ.Κ 115 28, ΑΘΗΝΑ Τηλεφωνικό Κέντρο: 213-2162000, 210-3381100 Τηλέφωνα επικοινωνίας για ραντεβού: 1566, 213-2162572, 213-2162588 Fax: 213-216-2898 Email: hospital@hosp-alexandra.gr ΧΑΡΤΗΣ ΠΡΟΣΒΑΣΗΣ",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://hosp-alexandra.gr/",
+      "sourcePageUrl": "https://hosp-alexandra.gr/",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://hosp-alexandra.gr/",
+          "retrievedAt": "2026-03-31T13:22:11.448Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2019-09-20",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:12.839Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213-2162572",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:12.839Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213-2162588",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:12.839Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2024-08-02 09",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:12.839Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2132162000",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:12.839Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:12.839Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2025-07-10",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:14.149Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2/20.11.2017 6",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:14.149Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213 216 2125",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:14.149Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213 216 2056",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:14.149Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213 216 2885",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:14.149Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "nosileftikiyp@hosp-alexandra.gr",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:14.149Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "tomeas.ther@hosp-alexandra.gr",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:14.149Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "tomeas_mg@hosp-alexandra.gr",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:14.149Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "tomeas_erg@hosp-alexandra.gr",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:14.149Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "grammateia.nosyp@hosp-alexandra.gr",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:14.149Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:14.149Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2025-05-06",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:15.543Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213 216 2150",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:15.543Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "prypoik@hosp-alexandra.gr",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:15.543Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia",
+          "retrievedAt": "2026-03-31T13:22:15.543Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2025-07-28",
+      "sourcePageUrl": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+          "retrievedAt": "2026-03-31T13:22:17.292Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "02-05-2017",
+      "sourcePageUrl": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+          "retrievedAt": "2026-03-31T13:22:17.292Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "4368/2016",
+      "sourcePageUrl": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+          "retrievedAt": "2026-03-31T13:22:17.292Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "7.00-15.00",
+      "sourcePageUrl": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+          "retrievedAt": "2026-03-31T13:22:17.292Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213 216 2068",
+      "sourcePageUrl": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+          "retrievedAt": "2026-03-31T13:22:17.292Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "gpd@hosp-alexandra.gr",
+      "sourcePageUrl": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+      "pageType": "services",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+          "retrievedAt": "2026-03-31T13:22:17.292Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+      "sourcePageUrl": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+          "retrievedAt": "2026-03-31T13:22:17.292Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2019-09-23",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+          "retrievedAt": "2026-03-31T13:22:18.498Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213-216-2555",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+          "retrievedAt": "2026-03-31T13:22:18.498Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "213-216-2084",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+          "retrievedAt": "2026-03-31T13:22:18.498Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2132162555",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+          "retrievedAt": "2026-03-31T13:22:18.498Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "27-03-1986",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+          "retrievedAt": "2026-03-31T13:22:18.498Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "koin.yp@hosp-alexandra.gr",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+      "pageType": "services",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+          "retrievedAt": "2026-03-31T13:22:18.498Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+      "sourcePageUrl": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+          "retrievedAt": "2026-03-31T13:22:18.498Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "http://www.hosp-alexandra.gr/",
+    "finalOrigin": "https://hosp-alexandra.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "http://www.hosp-alexandra.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:22:10.224Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [
+        "/wp-admin/admin-ajax.php"
+      ],
+      "disallowRules": [
+        "/wp-admin/"
+      ],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "http://www.hosp-alexandra.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:22:08.713Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://hosp-alexandra.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from http://www.hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.451Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.451Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.451Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.451Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.451Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.451Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.451Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/istoria",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.452Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/dioikisi",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.452Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/organogramma",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.452Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/etisios-apologismos",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.452Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/ektelesi-proypologismoy-n-4305-2014-ar-15",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.452Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/politiki-poiotitas",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.452Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia/grafeio-nosokomeiakon-loimoxeon",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.452Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia/tmima-psychoprofylaktikis-anodynos-toketos",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.452Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia/epitropi-mitrikoy-thilasmoy",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.452Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia/ypodieythynsi-dioikitikou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.452Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia/ypodieythynsi-oikonomikou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.452Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia/ypodieythynsi-technikoy",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:11.452Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:12.841Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/aytoteli-tmimata",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+        "timestamp": "2026-03-31T13:22:12.842Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:14.153Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/aytoteli-tmimata/autoteles-tmima-organosis-kai-pliroforikis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/to-nosokomeio/nosileytiki-ypiresia",
+        "timestamp": "2026-03-31T13:22:14.154Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:15.545Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/aytoteli-tmimata/aytoteles-grafeio-poiotitas",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/to-nosokomeio/dioikitiki-ypiresia",
+        "timestamp": "2026-03-31T13:22:15.546Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:17.294Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/aytotelis-monada-esoterikoy-elegchoy-1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/grafeio-prostasias-dikaiomaton-lipton-ypiresion-ygeias",
+        "timestamp": "2026-03-31T13:22:17.294Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://hosp-alexandra.gr/",
+        "timestamp": "2026-03-31T13:22:18.500Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/pathologikos-tomeas",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia/loipa-tmimata/tmima-koinonikis-ypiresias",
+        "timestamp": "2026-03-31T13:22:18.500Z"
+      },
+      {
+        "url": "https://hosp-alexandra.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:22:21.196Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

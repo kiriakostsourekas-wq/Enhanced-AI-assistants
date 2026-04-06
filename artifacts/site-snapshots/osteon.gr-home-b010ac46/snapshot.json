@@ -1,0 +1,2542 @@
+{
+  "domain": "osteon.gr",
+  "collectedAt": "2026-03-31T13:18:37.154Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/osteon.gr-home-b010ac46",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://osteon.gr/",
+      "finalUrl": "https://osteon.gr/",
+      "fetchedAt": "2026-03-31T13:18:13.625Z",
+      "metadata": {
+        "title": "Ορθοπεδικοί Χειρουργοί Αθήνα - Ορθοπεδική Κλινική OSTEON",
+        "metaDescription": "Ορθοπεδικοί Χειρουργοί Αθήνα. Εξειδίκευση - Σύγχρονες & Αποτελεσματικές Τεχνικές! Κλείστε τώρα ραντεβού με την ορθοπεδική κλινική OSTEON!",
+        "canonicalUrl": "https://osteon.gr/",
+        "language": "el",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "openGraphTitle": "Ορθοπεδικοί Χειρουργοί Αθήνα - Ορθοπεδική Κλινική OSTEON",
+        "openGraphDescription": "Ορθοπεδικοί Χειρουργοί Αθήνα. Εξειδίκευση - Σύγχρονες & Αποτελεσματικές Τεχνικές! Κλείστε τώρα ραντεβού με την ορθοπεδική κλινική OSTEON!"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Απόλυτη Εξειδίκευση"
+        },
+        {
+          "level": "h1",
+          "text": "Σύγχρονη Ορθοπεδική Κλινική"
+        },
+        {
+          "level": "h1",
+          "text": "Ευκαιρίες Καριέρας"
+        },
+        {
+          "level": "h2",
+          "text": "Από τη Διάγνωση στη Θεραπεία"
+        },
+        {
+          "level": "h2",
+          "text": "Οι Πιστοποιήσεις μας"
+        },
+        {
+          "level": "h2",
+          "text": "Πιστοποιημένο Κέντρο Αριστείας στη Χειρουργική της Σπονδυλικής Στήλης"
+        },
+        {
+          "level": "h2",
+          "text": "Οι ειδικοί δίπλα σας"
+        },
+        {
+          "level": "h2",
+          "text": "Γιατί να επιλέξετε την OSTEON"
+        },
+        {
+          "level": "h2",
+          "text": "Πού θα μας βρείτε"
+        },
+        {
+          "level": "h2",
+          "text": "Είπαν για την OSTEON"
+        },
+        {
+          "level": "h2",
+          "text": "Επικοινωνία"
+        },
+        {
+          "level": "h3",
+          "text": "Μην το αναβάλλετε περαιτέρω"
+        },
+        {
+          "level": "h3",
+          "text": "Τμήματα"
+        },
+        {
+          "level": "h3",
+          "text": "Αποκλειστικοί Συνεργάτες"
+        },
+        {
+          "level": "h3",
+          "text": "Ιατρείο Αμαρουσίου"
+        },
+        {
+          "level": "h3",
+          "text": "Ιατρείο Γλυφάδας"
+        },
+        {
+          "level": "h3",
+          "text": "Ιατρικό Κέντρο Αθηνών"
+        },
+        {
+          "level": "h3",
+          "text": "Kostas Metaxas"
+        },
+        {
+          "level": "h3",
+          "text": "despoina maliotaki"
+        },
+        {
+          "level": "h3",
+          "text": "Eleni Stogiou"
+        },
+        {
+          "level": "h3",
+          "text": "Christina OIKONOMOPOULOU"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://osteon.gr/"
+        },
+        {
+          "href": "https://osteon.gr/osteon/",
+          "label": "OSTEON"
+        },
+        {
+          "href": "https://osteon.gr/pistopoiiseis-diakriseis/",
+          "label": "Πιστοποιήσεις & Διακρίσεις"
+        },
+        {
+          "href": "https://osteon.gr/courses/",
+          "label": "Osteon Education Center"
+        },
+        {
+          "href": "https://osteon.gr/efkaries-karieras/",
+          "label": "Ευκαιριες Καριερας"
+        },
+        {
+          "href": "https://osteon.gr/ypefthynoi-tmimaton/",
+          "label": "Η ΟΜΑΔΑ"
+        },
+        {
+          "href": "https://osteon.gr/departments/pathiseon-ano-akrou/",
+          "label": "ΑΝΩ ΑΚΡΟ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/osteoarthritida-omou/",
+          "label": "ΑΡΘΡΙΤΙΔΑ – ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΩΜΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/riksi-tenonton-strofikou-petalou-omou/",
+          "label": "ΡΗΞΗ ΤΕΝΟΝΤΩΝ ΣΤΡΟΦΙΚΟΥ ΠΕΤΑΛΟΥ ΩΜΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/tenontitida-omou/",
+          "label": "ΤΕΝΟΝΤΙΤΙΔΑ ΩΜΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/asvestopoios-tenontitida-omou/",
+          "label": "ΑΣΒΕΣΤΟΠΟΙΟΣ ΤΕΝΟΝΤΙΤΙΔΑ ΩΜΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/syndromo-karpiaiou-solina/",
+          "label": "ΣΥΝΔΡΟΜΟ ΚΑΡΠΙΑΙΟΥ ΣΩΛΗΝΑ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/tenontitida-de-quervain/",
+          "label": "ΤΕΝΟΝΤΙΤΙΔΑ DE QUERVAIN"
+        },
+        {
+          "href": "https://osteon.gr/conditions/eksarthrima-omou/",
+          "label": "ΕΞΑΡΘΡΗΜΑ ΩΜΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/arthroplastiki-omou/",
+          "label": "ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΩΜΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/arthroskopisi-omou/",
+          "label": "ΑΡΘΡΟΣΚΟΠΗΣΗ ΩΜΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/anastrofi-arthroplastiki-omou/",
+          "label": "ΑΝΑΣΤΡΟΦΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΩΜΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/departments/pathiseon-spondylikis-stilis/",
+          "label": "ΣΠΟΝΔΥΛΙΚΗ ΣΤΗΛΗ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/spondylolisthisi/",
+          "label": "ΣΠΟΝΔΥΛΟΛΙΣΘΗΣΗ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/kili-mesospondyliou-diskou-diskokili/",
+          "label": "ΔΙΣΚΟΚΗΛΗ (ΚΗΛΗ ΜΕΣΟΣΠΟΝΔΥΛΙΟΥ ΔΙΣΚΟΥ)"
+        },
+        {
+          "href": "https://osteon.gr/conditions/afcheniko-syndromo/",
+          "label": "ΑΥΧΕΝΙΚΟ ΣΥΝΔΡΟΜΟ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/osteoporosi/",
+          "label": "ΟΣΤΕΟΠΟΡΩΣΗ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/spondyliki-stenosi/",
+          "label": "ΣΠΟΝΔΥΛΙΚΗ ΣΤΕΝΩΣΗ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/egchyseis-sti-mesi/",
+          "label": "ΕΓΧΥΣΕΙΣ ΣΤΗ ΜΕΣΗ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/skoliosi-se-paidia/",
+          "label": "ΣΚΟΛΙΩΣΗ ΣΕ ΠΑΙΔΙΑ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/rompotiki-xeirourgiki-spondylikis-stilis/",
+          "label": "ΡΟΜΠΟΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/spondylodesia-choris-geniki/",
+          "label": "ΣΠΟΝΔΥΛΟΔΕΣΙΑ ΧΩΡΙΣ ΓΕΝΙΚΗ ΑΝΑΙΣΘΗΣΙΑ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/vbt/",
+          "label": "ΔΥΝΑΜΙΚΗ ΣΠΟΝΔΥΛΟΑΝΑΤΑΞΗ ΣΚΟΛΙΩΣΗΣ (VBT)"
+        },
+        {
+          "href": "https://osteon.gr/departments/ischiou-gonatos/",
+          "label": "ΙΣΧΙΟ – ΓΟΝΑΤΟ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/riksi-prosthiou-chiastou/",
+          "label": "ΡΗΞΗ ΠΡΟΣΘΙΟΥ ΧΙΑΣΤΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/riksi-miniskou/",
+          "label": "ΡΗΞΗ ΜΗΝΙΣΚΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/arthroplastiki-ischiou-gonatos/",
+          "label": "ΟΛΙΚΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΙΣΧΙΟΥ – ΓΟΝΑΤΟΣ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/oliki-arthroplastiki-ischiou-elachista-epemvatikes-methodoi/",
+          "label": "ΟΛΙΚΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΙΣΧΙΟΥ & ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΕΣ ΜΕΘΟΔΟΙ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/arthroskopisi-gonatos/",
+          "label": "ΑΡΘΡΟΣΚΟΠΗΣΗ ΓΟΝΑΤΟΣ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/osteoarthritida-arthritida-gonatos/",
+          "label": "ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΓΟΝΑΤΟΣ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/osteoarthritida-ischiou/",
+          "label": "ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΙΣΧΙΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/mis-se-gonato-kai-ischio/",
+          "label": "MIS σε γόνατο και ισχίο"
+        },
+        {
+          "href": "https://osteon.gr/conditions/anatheorisi-arthroplastikis-ischiou-kai-gonatos/",
+          "label": "Αναθεωρηση Αρθροπλαστικης Ισχιου και Γονατος"
+        },
+        {
+          "href": "https://osteon.gr/conditions/exatomikevmeni-arthroplastiki-gonatos/",
+          "label": "Εξατομικευμενη Αρθροπλαστικη Γονατος"
+        },
+        {
+          "href": "https://osteon.gr/conditions/katagmata-ischiou/",
+          "label": "Καταγματα Ισχιου"
+        },
+        {
+          "href": "https://osteon.gr/conditions/nanoarthroskopisi/",
+          "label": "Νανοαρθροσκοπηση"
+        },
+        {
+          "href": "https://osteon.gr/departments/podoknimikis-akrou-podos/",
+          "label": "ΠΟΔΟΚΝΗΜΙΚΗ ΚΑΙ ΑΚΡΟ ΠΟΔΙ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/diastremma-astragalou/",
+          "label": "ΔΙΑΣΤΡΕΜΜΑ ΑΣΤΡΑΓΑΛΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/ponemena-podia-paramorfoseis-tou-podiou/",
+          "label": "ΠΟΝΕΜΕΝΑ ΠΟΔΙΑ – ΠΑΡΑΜΟΡΦΩΣΕΙΣ ΤΟΥ ΠΟΔΙΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/pathiseis-tou-achilleiou-tenonta/",
+          "label": "ΠΑΘΗΣΕΙΣ ΤΟΥ ΑΧΙΛΛΕΙΟΥ ΤΕΝΟΝΤΑ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/epiktiti-platypodia-proodeftiki-kathizisi-tou-podiou/",
+          "label": "ΕΠΙΚΤΗΤΗ ΠΛΑΤΥΠΟΔΙΑ – ΠΡΟΟΔΕΥΤΙΚΗ ΚΑΘΙΖΗΣΗ ΤΟΥ ΠΟΔΙΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/vlaisos-megalos-daktylos-kotsi/",
+          "label": "ΒΛΑΙΣΟΣ ΜΕΓΑΛΟΣ ΔΑΚΤΥΛΟΣ – ΚΟΤΣΙ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/arthritida-sto-podi-kai-ton-astragalo/",
+          "label": "ΑΡΘΡΙΤΙΔΑ ΣΤΟ ΠΟΔΙ ΚΑΙ ΤΟΝ ΑΣΤΡΑΓΑΛΟ"
+        },
+        {
+          "href": "https://osteon.gr/departments/elachista-epemvatiki-nevrocheirourgiki-egkefalou/",
+          "label": "ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΗ ΝΕΥΡΟΧΕΙΡΟΥΡΓΙΚΗ ΕΓΚΕΓΑΛΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/olistiki-antimetopisi-gloiomaton-egkefalou/",
+          "label": "ΟΛΙΣΤΙΚΗ ΑΝΤΙΜΕΤΩΠΙΣΗ ΓΛΟΙΩΜΑΤΩΝ ΕΓΚΕΦΑΛΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/departments/paidoorthopaidiko/",
+          "label": "ΠΑΙΔΟΟΡΘΟΠΑΙΔΙΚΟ"
+        },
+        {
+          "href": "https://osteon.gr/departments/akra-cheira/",
+          "label": "ΑΚΡΑ ΧΕΙΡΑ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/osteoarthritida-tis-vasis-tou-anticheira/",
+          "label": "ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΤΗΣ ΒΑΣΗΣ ΤΟΥ ΑΝΤΙΧΕΙΡΑ"
+        },
+        {
+          "href": "https://osteon.gr/departments/athlitikon-kakoseon/",
+          "label": "ΑΘΛΗΤΙΚΩΝ ΚΑΚΩΣΕΩΝ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/rixi-xiastou/",
+          "label": "ΡΗΞΗ ΧΙΑΣΤΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/rixi-miniskou/",
+          "label": "ΡΗΞΗ ΜΗΝΙΣΚΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/myikes-thlaseis/",
+          "label": "ΜΥΙΚΕΣ ΘΛΑΣΕΙΣ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/exarthrima-omou-se-athlites/",
+          "label": "ΕΞΑΡΘΡΗΜΑ ΩΜΟΥ ΣΕ ΑΘΛΗΤΕΣ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/rixi-strofikou-petalou-tou-omou-se-athlites/",
+          "label": "ΡΗΞΗ ΣΤΡΟΦΙΚΟΥ ΠΕΤΑΛΟΥ ΤΟΥ ΩΜΟΥ ΣΕ ΑΘΛΗΤΈΣ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/kili-mesospondyliou-diskou/",
+          "label": "ΚΗΛΗ ΜΕΣΟΣΠΟΝΔΥΛΙΟΥ ΔΙΣΚΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/spondylolysi/",
+          "label": "ΣΠΟΝΔΥΛΟΛΥΣΗ"
+        },
+        {
+          "href": "https://osteon.gr/osteon-pro/",
+          "label": "OSTEON PRO"
+        },
+        {
+          "href": "https://osteon.gr/iatrikos-tourismos/",
+          "label": "ΙΑΤΡΙΚΟΣ ΤΟΥΡΙΣΜΟΣ"
+        },
+        {
+          "href": "https://osteon.gr/afieromata/",
+          "label": "ΑΦΙΕΡΩΜΑΤΑ"
+        },
+        {
+          "href": "https://osteon.gr/nea/",
+          "label": "ΝΕΑ"
+        },
+        {
+          "href": "https://osteon.gr/blog/",
+          "label": "Αρθρογραφια Ιατρων"
+        },
+        {
+          "href": "https://osteon.gr/vinteo-tileoptikes-synentefxeis/",
+          "label": "ΒΙΝΤΕΟ / ΤΗΛΕΟΠΤΙΚΕΣ ΣΥΝΕΝΤΕΥΞΕΙΣ"
+        },
+        {
+          "href": "https://osteon.gr/entypa/",
+          "label": "Εντυπα"
+        },
+        {
+          "href": "https://osteon.gr/contact-us/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://osteon.gr/en/"
+        },
+        {
+          "href": "https://osteon.gr/osteon/#zp_about_dropdown",
+          "label": "ΜΑΘΕTE ΠΕΡΙΣΣΟΤΕΡΑ"
+        },
+        {
+          "href": "https://osteon.gr/doctors/sakellariou-vasilios/"
+        },
+        {
+          "href": "https://osteon.gr/doctors/pantos-panagiotis/"
+        },
+        {
+          "href": "https://osteon.gr/doctors/starantzis-konstantinos/"
+        },
+        {
+          "href": "https://osteon.gr/privacy-policy/",
+          "label": "ΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/oroi-chrisis/",
+          "label": "ΟΡΟΙ ΧΡΗΣΗΣ"
+        },
+        {
+          "href": "https://osteon.gr/politiki-periechomenou/",
+          "label": "ΠΟΛΙΤΙΚΗ ΠΕΡΙΕΧΟΜΕΝΟΥ"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "01 02 03 04 05",
+          "151 24 210 8020620 / 6989 992472",
+          "210 8982852",
+          "00) / 6989 992472",
+          "210 6157188",
+          "210 8020620",
+          "6989992472",
+          "2025 - 2026",
+          "2024-08-02 09",
+          "1999999999"
+        ],
+        "emails": [
+          "info@osteon.gr"
+        ],
+        "addresses": [
+          "Λεωφόρος Κηφισίας 153 & Βασ. Σοφίας 4, Μαρούσι, Αθήνα 151 24",
+          "Λ. Δημάρχου Μεταξά Αγγ. 23, Γλυφάδα, Αθήνα",
+          "Κηφισίας 56 & Δελφών, Τ.Κ.15125 Μαρούσι, 6ος όροφος",
+          "Βρείτε μας ΚΛΙΝΙΚΗ ΑΜΑΡΟΥΣΙΟΥ Λ. Κηφισίας 153 & Βας. Σοφίας 4, Μαρούσι, 151 24 ΚΛΙΝΙΚΗ ΓΛΥΦΑΔΑΣ Λ. Δημάρχου Αγγέλου Μεταξά 23, Γλυφάδα, 166 75 ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ Λ. Κηφισίας 56 & Δελφών, Μαρούσι , 6ος όροφος, 151 25 Τηλέφωνα Κλινική Αμαρουσίου: 210 8020620 Κλινική Γλυφάδας: 210 8982852 Ιατρικό Κέντρο Αθηνών: 210 6157188 Κιν: 6989992472 Email info@osteon.gr Ακολουθήστε μας Αποκλειστικοί Συνεργάτες ΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥ ΟΡΟΙ ΧΡΗΣΗΣ ΠΟΛΙΤΙΚΗ ΠΕΡΙΕΧΟΜΕΝΟΥ © OSTEON, 2025 - 2026. All rights reserved. DESIGNED & DEVELOPED BY ZONEPAGE",
+          "Λ. Κηφισίας 153 & Βας. Σοφίας 4, Μαρούσι, 151 24",
+          "Λ. Δημάρχου Αγγέλου Μεταξά 23, Γλυφάδα, 166 75"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/osteon.gr/"
+          },
+          {
+            "href": "https://www.instagram.com/osteon_clinic/"
+          },
+          {
+            "href": "https://gr.linkedin.com/company/osteon-clinic"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UCeblLhzXS38Y4IGImD3HrjQ/videos"
+          },
+          {
+            "href": "http://tiktok.com/@osteon.clinic"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "Βρείτε μας ΚΛΙΝΙΚΗ ΑΜΑΡΟΥΣΙΟΥ Λ. Κηφισίας 153 & Βας. Σοφίας 4, Μαρούσι, 151 24 ΚΛΙΝΙΚΗ ΓΛΥΦΑΔΑΣ Λ. Δημάρχου Αγγέλου Μεταξά 23, Γλυφάδα, 166 75 ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ Λ. Κηφισίας 56 & Δελφών, Μαρούσι , 6ος όροφος, 151 25 Τηλέφωνα Κλινική Αμαρουσίου: 210 8020620 Κλινική Γλυφάδας: 210 8982852 Ιατρικό Κέντρο Αθηνών: 210 6157188 Κιν: 6989992472 Email info@osteon.gr Ακολουθήστε μας Αποκλειστικοί Συνεργάτες ΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥ ΟΡΟΙ ΧΡΗΣΗΣ ΠΟΛΙΤΙΚΗ ΠΕΡΙΕΧΟΜΕΝΟΥ © OSTEON, 2025 - 2026. All rights reserved. DESIGNED & DEVELOPED BY ZONEPAGE",
+      "textContent": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5GDPDFS\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Skip to the content ΑΡΧΙΚΗ OSTEON Ποιοι Ειμαστε Πιστοποιήσεις & Διακρίσεις Osteon Education Center Ευκαιριες Καριερας Η ΟΜΑΔΑ ΤΜΗΜΑΤΑ ΑΝΩ ΑΚΡΟ ΑΡΘΡΙΤΙΔΑ – ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΩΜΟΥ ΡΗΞΗ ΤΕΝΟΝΤΩΝ ΣΤΡΟΦΙΚΟΥ ΠΕΤΑΛΟΥ ΩΜΟΥ ΤΕΝΟΝΤΙΤΙΔΑ ΩΜΟΥ ΑΣΒΕΣΤΟΠΟΙΟΣ ΤΕΝΟΝΤΙΤΙΔΑ ΩΜΟΥ ΣΥΝΔΡΟΜΟ ΚΑΡΠΙΑΙΟΥ ΣΩΛΗΝΑ ΤΕΝΟΝΤΙΤΙΔΑ DE QUERVAIN ΕΞΑΡΘΡΗΜΑ ΩΜΟΥ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΩΜΟΥ ΑΡΘΡΟΣΚΟΠΗΣΗ ΩΜΟΥ ΑΝΑΣΤΡΟΦΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΩΜΟΥ ΣΠΟΝΔΥΛΙΚΗ ΣΤΗΛΗ ΣΠΟΝΔΥΛΟΛΙΣΘΗΣΗ ΔΙΣΚΟΚΗΛΗ (ΚΗΛΗ ΜΕΣΟΣΠΟΝΔΥΛΙΟΥ ΔΙΣΚΟΥ) ΑΥΧΕΝΙΚΟ ΣΥΝΔΡΟΜΟ ΟΣΤΕΟΠΟΡΩΣΗ ΣΠΟΝΔΥΛΙΚΗ ΣΤΕΝΩΣΗ ΕΓΧΥΣΕΙΣ ΣΤΗ ΜΕΣΗ ΣΚΟΛΙΩΣΗ ΣΕ ΠΑΙΔΙΑ ΡΟΜΠΟΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣ ΣΠΟΝΔΥΛΟΔΕΣΙΑ ΧΩΡΙΣ ΓΕΝΙΚΗ ΑΝΑΙΣΘΗΣΙΑ ΔΥΝΑΜΙΚΗ ΣΠΟΝΔΥΛΟΑΝΑΤΑΞΗ ΣΚΟΛΙΩΣΗΣ (VBT) ΙΣΧΙΟ – ΓΟΝΑΤΟ ΡΗΞΗ ΠΡΟΣΘΙΟΥ ΧΙΑΣΤΟΥ ΡΗΞΗ ΜΗΝΙΣΚΟΥ ΟΛΙΚΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΙΣΧΙΟΥ – ΓΟΝΑΤΟΣ ΟΛΙΚΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΙΣΧΙΟΥ & ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΕΣ ΜΕΘΟΔΟΙ ΑΡΘΡΟΣΚΟΠΗΣΗ ΓΟΝΑΤΟΣ ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΓΟΝΑΤΟΣ ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΙΣΧΙΟΥ MIS σε γόνατο και ισχίο Αναθεωρηση Αρθροπλαστικης Ισχιου και Γονατος Εξατομικευμενη Αρθροπλαστικη Γονατος Καταγματα Ισχιου Νανοαρθροσκοπηση ΠΟΔΟΚΝΗΜΙΚΗ ΚΑΙ ΑΚΡΟ ΠΟΔΙ ΔΙΑΣΤΡΕΜΜΑ ΑΣΤΡΑΓΑΛΟΥ ΠΟΝΕΜΕΝΑ ΠΟΔΙΑ – ΠΑΡΑΜΟΡΦΩΣΕΙΣ ΤΟΥ ΠΟΔΙΟΥ ΠΑΘΗΣΕΙΣ ΤΟΥ ΑΧΙΛΛΕΙΟΥ ΤΕΝΟΝΤΑ ΕΠΙΚΤΗΤΗ ΠΛΑΤΥΠΟΔΙΑ – ΠΡΟΟΔΕΥΤΙΚΗ ΚΑΘΙΖΗΣΗ ΤΟΥ ΠΟΔΙΟΥ ΒΛΑΙΣΟΣ ΜΕΓΑΛΟΣ ΔΑΚΤΥΛΟΣ – ΚΟΤΣΙ ΑΡΘΡΙΤΙΔΑ ΣΤΟ ΠΟΔΙ ΚΑΙ ΤΟΝ ΑΣΤΡΑΓΑΛΟ ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΗ ΝΕΥΡΟΧΕΙΡΟΥΡΓΙΚΗ ΕΓΚΕΓΑΛΟΥ ΟΛΙΣΤΙΚΗ ΑΝΤΙΜΕΤΩΠΙΣΗ ΓΛΟΙΩΜΑΤΩΝ ΕΓΚΕΦΑΛΟΥ ΠΑΙΔΟΟΡΘΟΠΑΙΔΙΚΟ ΑΚΡΑ ΧΕΙΡΑ ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΤΗΣ ΒΑΣΗΣ ΤΟΥ ΑΝΤΙΧΕΙΡΑ ΑΘΛΗΤΙΚΩΝ ΚΑΚΩΣΕΩΝ ΡΗΞΗ ΧΙΑΣΤΟΥ ΡΗΞΗ ΜΗΝΙΣΚΟΥ ΜΥΙΚΕΣ ΘΛΑΣΕΙΣ ΕΞΑΡΘΡΗΜΑ ΩΜΟΥ ΣΕ ΑΘΛΗΤΕΣ ΡΗΞΗ ΣΤΡΟΦΙΚΟΥ ΠΕΤΑΛΟΥ ΤΟΥ ΩΜΟΥ ΣΕ ΑΘΛΗΤΈΣ ΚΗΛΗ ΜΕΣΟΣΠΟΝΔΥΛΙΟΥ ΔΙΣΚΟΥ ΣΠΟΝΔΥΛΟΛΥΣΗ OSTEON PRO ΙΑΤΡΙΚΟΣ ΤΟΥΡΙΣΜΟΣ ΕΝΗΜΕΡΩΣΗ ΑΦΙΕΡΩΜΑΤΑ ΝΕΑ Αρθρογραφια Ιατρων ΒΙΝΤΕΟ / ΤΗΛΕΟΠΤΙΚΕΣ ΣΥΝΕΝΤΕΥΞΕΙΣ Εντυπα ΕΠΙΚΟΙΝΩΝΙΑ Επιστροφή ΑΡΧΙΚΗ OSTEON Ποιοι Ειμαστε Πιστοποιήσεις & Διακρίσεις Osteon Education Center Ευκαιριες Καριερας Η ΟΜΑΔΑ ΤΜΗΜΑΤΑ ΑΝΩ ΑΚΡΟ ΑΡΘΡΙΤΙΔΑ – ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΩΜΟΥ ΡΗΞΗ ΤΕΝΟΝΤΩΝ ΣΤΡΟΦΙΚΟΥ ΠΕΤΑΛΟΥ ΩΜΟΥ ΤΕΝΟΝΤΙΤΙΔΑ ΩΜΟΥ ΑΣΒΕΣΤΟΠΟΙΟΣ ΤΕΝΟΝΤΙΤΙΔΑ ΩΜΟΥ ΣΥΝΔΡΟΜΟ ΚΑΡΠΙΑΙΟΥ ΣΩΛΗΝΑ ΤΕΝΟΝΤΙΤΙΔΑ DE QUERVAIN ΕΞΑΡΘΡΗΜΑ ΩΜΟΥ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΩΜΟΥ ΑΡΘΡΟΣΚΟΠΗΣΗ ΩΜΟΥ ΑΝΑΣΤΡΟΦΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΩΜΟΥ ΣΠΟΝΔΥΛΙΚΗ ΣΤΗΛΗ ΣΠΟΝΔΥΛΟΛΙΣΘΗΣΗ ΔΙΣΚΟΚΗΛΗ (ΚΗΛΗ ΜΕΣΟΣΠΟΝΔΥΛΙΟΥ ΔΙΣΚΟΥ) ΑΥΧΕΝΙΚΟ ΣΥΝΔΡΟΜΟ ΟΣΤΕΟΠΟΡΩΣΗ ΣΠΟΝΔΥΛΙΚΗ ΣΤΕΝΩΣΗ ΕΓΧΥΣΕΙΣ ΣΤΗ ΜΕΣΗ ΣΚΟΛΙΩΣΗ ΣΕ ΠΑΙΔΙΑ ΡΟΜΠΟΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣ ΣΠΟΝΔΥΛΟΔΕΣΙΑ ΧΩΡΙΣ ΓΕΝΙΚΗ ΑΝΑΙΣΘΗΣΙΑ ΔΥΝΑΜΙΚΗ ΣΠΟΝΔΥΛΟΑΝΑΤΑΞΗ ΣΚΟΛΙΩΣΗΣ (VBT) ΙΣΧΙΟ – ΓΟΝΑΤΟ ΡΗΞΗ ΠΡΟΣΘΙΟΥ ΧΙΑΣΤΟΥ ΡΗΞΗ ΜΗΝΙΣΚΟΥ ΟΛΙΚΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΙΣΧΙΟΥ – ΓΟΝΑΤΟΣ ΟΛΙΚΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΙΣΧΙΟΥ & ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΕΣ ΜΕΘΟΔΟΙ ΑΡΘΡΟΣΚΟΠΗΣΗ ΓΟΝΑΤΟΣ ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΓΟΝΑΤΟΣ ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΙΣΧΙΟΥ MIS σε γόνατο και ισχίο Αναθεωρηση Αρθροπλαστικης Ισχιου και Γονατος Εξατομικευμενη Αρθροπλαστικη Γονατος Καταγματα Ισχιου Νανοαρθροσκοπηση ΠΟΔΟΚΝΗΜΙΚΗ ΚΑΙ ΑΚΡΟ ΠΟΔΙ ΔΙΑΣΤΡΕΜΜΑ ΑΣΤΡΑΓΑΛΟΥ ΠΟΝΕΜΕΝΑ ΠΟΔΙΑ – ΠΑΡΑΜΟΡΦΩΣΕΙΣ ΤΟΥ ΠΟΔΙΟΥ ΠΑΘΗΣΕΙΣ ΤΟΥ ΑΧΙΛΛΕΙΟΥ ΤΕΝΟΝΤΑ ΕΠΙΚΤΗΤΗ ΠΛΑΤΥΠΟΔΙΑ – ΠΡΟΟΔΕΥΤΙΚΗ ΚΑΘΙΖΗΣΗ ΤΟΥ ΠΟΔΙΟΥ ΒΛΑΙΣΟΣ ΜΕΓΑΛΟΣ ΔΑΚΤΥΛΟΣ – ΚΟΤΣΙ ΑΡΘΡΙΤΙΔΑ ΣΤΟ ΠΟΔΙ ΚΑΙ ΤΟΝ ΑΣΤΡΑΓΑΛΟ ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΗ ΝΕΥΡΟΧΕΙΡΟΥΡΓΙΚΗ ΕΓΚΕΓΑΛΟΥ ΟΛΙΣΤΙΚΗ ΑΝΤΙΜΕΤΩΠΙΣΗ ΓΛΟΙΩΜΑΤΩΝ ΕΓΚΕΦΑΛΟΥ ΠΑΙΔΟΟΡΘΟΠΑΙΔΙΚΟ ΑΚΡΑ ΧΕΙΡΑ ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΤΗΣ ΒΑΣΗΣ ΤΟΥ ΑΝΤΙΧΕΙΡΑ ΑΘΛΗΤΙΚΩΝ ΚΑΚΩΣΕΩΝ ΡΗΞΗ ΧΙΑΣΤΟΥ ΡΗΞΗ ΜΗΝΙΣΚΟΥ ΜΥΙΚΕΣ ΘΛΑΣΕΙΣ ΕΞΑΡΘΡΗΜΑ ΩΜΟΥ ΣΕ ΑΘΛΗΤΕΣ ΡΗΞΗ ΣΤΡΟΦΙΚΟΥ ΠΕΤΑΛΟΥ ΤΟΥ ΩΜΟΥ ΣΕ ΑΘΛΗΤΈΣ ΚΗΛΗ ΜΕΣΟΣΠΟΝΔΥΛΙΟΥ ΔΙΣΚΟΥ ΣΠΟΝΔΥΛΟΛΥΣΗ OSTEON PRO ΙΑΤΡΙΚΟΣ ΤΟΥΡΙΣΜΟΣ ΕΝΗΜΕΡΩΣΗ ΑΦΙΕΡΩΜΑΤΑ ΝΕΑ Αρθρογραφια Ιατρων ΒΙΝΤΕΟ / ΤΗΛΕΟΠΤΙΚΕΣ ΣΥΝΕΝΤΕΥΞΕΙΣ Εντυπα ΕΠΙΚΟΙΝΩΝΙΑ OSTEON Απόλυτη Εξειδίκευση στην Ορθοπαιδική Χειρουργική, Νευροχειρουργική & Χειρουργική Σπονδυλικής Στήλης document.addEventListener('DOMContentLoaded', function() { var swiper = new Swiper(\".logoSwiper_mobile\", { slidesPerView: 1, spaceBetween: 30, loop: true, centeredSlides: true, // Κεντρίζει τα slides autoplay: { delay: 3000, disableOnInteraction: false, }, // Παύση autoplay όταν hover on: { mouseenter: function () { this.autoplay.stop(); }, mouseleave: function () { this.autoplay.start(); } } }); }); .zp_mobile.logos-wrapper { width: 100%; max-width: 400px; margin: 0 auto; padding: 20px; } .logoSwiper_mobile { width: 100%; overflow: hidden; } .logoSwiper_mobile img { max-width: 70%; } .logoSwiper_mobile .swiper-slide { display: flex !important; justify-content: center !important; align-items: center !important; text-align: center; width: 100% !important; height: 100% !important; } .logoSwiper_mobile .logo-item { width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; padding: 10px; } .logoSwiper_mobile .logo-item img { max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block; } /* Navigation buttons styling */ .logoSwiper_mobile .swiper-button-next, .logoSwiper_mobile .swiper-button-prev { color: #333; background: rgba(255, 255, 255, 0.8); width: 40px; height: 40px; border-radius: 50%; margin-top: -20px; } .logoSwiper_mobile .swiper-button-next:after, .logoSwiper_mobile .swiper-button-prev:after { font-size: 16px; } .logos-wrapper.zp_mobile { display: none !important; } @media screen and (max-width: 992px) { .logos-wrapper.zp_mobile { display: block !important; } .logos-wrapper.zp_desktop { display: none !important; } } /* Responsive */ @media (max-width: 768px) { .logoSwiper_mobile .logos-wrapper { max-width: 300px; padding: 15px; } .logoSwiper_mobile .logoSwiper_mobile { height: 150px; } .logoSwiper_mobile .swiper-button-next, .logoSwiper_mobile .swiper-button-prev { width: 35px; height: 35px; margin-top: -17px; } } ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Σύγχρονη Ορθοπεδική Κλινική Ολοκληρωμένη φροντίδα για κάθε ορθοπαιδικό πρόβλημα Η Osteon αποτελεί την πρώτη ολοκληρωμένη ορθοπαιδική κλινική στην Ελλάδα (All-in-One Ortho & Spine Clinic), όπου καλύπτεται αποκλειστικά και εξατομικευμένα όλο το φάσμα των παθήσεων (χρόνιων και επειγόντων) του μυοσκελετικού και νευρικού συστήματος. Με ένα ανεπτυγμένο δίκτυο ορθοπεδικών κλινικών, σύγχρονους ιατρικούς χώρους και άρτιο ιατροτεχνολογικό εξοπλισμό, προσφέρουμε άμεση, ασφαλή και πλήρη αντιμετώπιση. Στην Osteon, δεν παρέχουμε απλώς θεραπεία – συμβάλουμε ουσιαστικά στην επαναφορά της κίνησης και της ποιότητας στην καθημερινότητά των ανθρώπων, που μας εμπιστεύονται. Η υγεία σας, η αποστολή μας. ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ Από τη Διάγνωση στη Θεραπεία Τα πάντα στην OSTEON Βήμα 1 Επικοινωνία ασθενούς με την κλινική Βήμα 2 Απάντηση σε σύντομο, ειδικό πρωτόκολλο ερωτήσεων Βήμα 3 Παραπομπή ασθενούς σε συγκεκριμένο τμήμα Βήμα 4 Προγραμματισμός ραντεβού με τον εξειδικευμένο ιατρό Μην το αναβάλλετε περαιτέρω Ξεκινηστε τωρα /* Βασικά στυλ για το Swiper */ .therapeia_steps_container { position: relative; overflow: hidden; margin: 30px 0; } .therapeia-swiper { width: 100%; padding-bottom: 40px; /* Χώρος για pagination */ } /* Στυλ για τα slides */ .therapeia_step.swiper-slide { width: 280px; /* Σταθερό πλάτος για slidesPerView: \"auto\" */ height: auto; margin-right: 20px; transition: transform 0.3s; } /* Στυλ για pagination */ .swiper-pagination { position: absolute; bottom: 0; width: 100%; text-align: center; } .swiper-pagination-bullet { width: 10px; height: 10px; background: #ccc; opacity: 1; } .swiper-pagination-bullet-active { background: #333; } /* Υπάρχοντα στυλ */ .zp_therapeia_step_top { display: flex; align-items: center; margin-bottom: 15px; } .step_icon { margin-right: 10px; } .step_number { font-weight: bold; margin-right: 10px; } .step_text { line-height: 1.5; } /* Responsive fixes */ @media (max-width: 640px) { .therapeia_step.swiper-slide { width: 260px; } } Οι Πιστοποιήσεις μας 01 02 03 04 05 Πιστοποιημένο Κέντρο Αριστείας στη Χειρουργική της Σπονδυλικής Στήλης H OSTEON συγκαταλέγεται μεταξύ των 40 στην Ευρώπη Κέντρων Αριστείας στη Χειρουργική της Σπονδυλικής Στήλης, λαμβάνοντας επιτυχώς την πιστοποίηση «Surgical Spine Centre of Excellence» από το EUROSPINE, τον μεγαλύτερο οργανισμό χειρουργικής της σπονδυλικής στήλης. Η πιστοποίηση αυτή επιβεβαιώνει την αφοσίωση της κλινικής στην παροχή υψηλής ποιότητας ιατρικής φροντίδας για τις παθήσεις της σπονδυλικής στήλης. Μέσω της ενσωμάτωσης της τεχνολογίας αιχμής και των πιο καινοτόμων χειρουργικών τεχνικών, διασφαλίζουμε βέλτιστα θεραπευτικά αποτελέσματα και τη βελτίωση της ποιότητας ζωής των ασθενών μας, σύμφωνα με τα πιο αυστηρά ευρωπαϊκά πρότυπα αριστείας και καινοτομίας. Πιστοποίηση στην Τεχνολογία Symbios Η Osteon Clinic είναι πιστοποιημένο κέντρο για την εφαρμογή της πρωτοποριακής τεχνολογίας Symbios, η οποία προσφέρει εξατομικευμένα εμφυτεύματα σε χειρουργικές επεμβάσεις ισχίου και γόνατος. Ο Δρ. Βασίλειος Σακελλαρίου είναι ο πρώτος στην Ελλάδα με επίσημη πιστοποίηση για τη συγκεκριμένη τεχνολογία, η οποία προσαρμόζεται με απόλυτη ακρίβεια στις ανατομικές ιδιαιτερότητες κάθε ασθενούς. Πιστοποίηση SECEC για τη Χειρουργική Ώμου & Αγκώνα Με πιστοποίηση από την European Society for Surgery of the Shoulder and Elbow (SECEC), η Osteon αποτελεί κλινική αναφοράς για την αντιμετώπιση παθήσεων του ώμου και του αγκώνα. Διευθυντής του τμήματος Άνω Άκρου είναι ο ορθοπαιδικός χειρουργός Δρ. Παναγιώτης Πάντος, ο οποίος πιστοποιήθηκε από την Ευρωπαϊκή Εταιρεία Ώμου & Αγκώνα – διεθνής αναγνώριση που επιβεβαιώνει την εξειδίκευση, τη χειρουργική αρτιότητα και την εφαρμογή των πλέον σύγχρονων τεχνικών αποκατάστασης, σύμφωνα με τα υψηλότερα ευρωπαϊκά πρότυπα ασφάλειας και ποιότητας. Πιστοποίηση Implantcast Η Osteon είναι η μοναδική κλινική στην Ελλάδα και μία από τις τρεις πανευρωπαϊκά που διαθέτουν επίσημη πιστοποίηση για τη χρήση των πρωτοποριακών εμφυτευμάτων Implantcast σε ορθοπαιδικές επεμβάσεις ισχίου και γόνατος. Ο Δρ. Βασίλειος Σακελλαρίου αποτελεί μέλος της σχεδιαστικής ομάδας του εμφυτεύματος και Senior Surgeon της εταιρείας για το συγκεκριμένο εμφύτευμα. International Training Centre για την τεχνική 5C MEDic Η OSTEON, με επιστημονικό υπεύθυνο τον Ορθοπαιδικό Χειρουργό Δρ. Βασίλειο Σακελλαρίου, έχει λάβει επίσημη πιστοποίηση ως διεθνές εκπαιδευτικό κέντρο για την τεχνική 5C MEDic, παρέχοντας ολοκληρωμένη εκπαίδευση σε ορθοπαιδικούς χειρουργούς από την Ελλάδα και το εξωτερικό. Πιστοποιημένο Κέντρο Αριστείας στη Χειρουργική της Σπονδυλικής Στήλης H OSTEON συγκαταλέγεται μεταξύ των 40 στην Ευρώπη Κέντρων Αριστείας στη Χειρουργική της Σπονδυλικής Στήλης, λαμβάνοντας επιτυχώς την πιστοποίηση «Surgical Spine Centre of Excellence»από το EUROSPINE, τον μεγαλύτερο οργανισμό χειρουργικής της σπονδυλικής στήλης. Η πιστοποίηση αυτή επιβεβαιώνει την αφοσίωση της κλινικής στην παροχή υψηλής ποιότητας ιατρικής φροντίδας για τις παθήσεις της σπονδυλικής στήλης. Μέσω της ενσωμάτωσης της τεχνολογίας αιχμής και των πιο καινοτόμων χειρουργικών τεχνικών, διασφαλίζουμε βέλτιστα θεραπευτικά αποτελέσματα και τη βελτίωση της ποιότητας ζωής των ασθενών μας, σύμφωνα με τα πιο αυστηρά ευρωπαϊκά πρότυπα αριστείας και καινοτομίας. ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΜΑΖΙ ΜΑΣ Οι ειδικοί δίπλα σας Τμήματα & Εξειδικεύσεις Στην Osteon καλύπτεται όλο το φάσμα των ορθοπαιδικών και νευροχειρουργικών παθήσεων από ιατρούς με εκπαίδευση και καριέρα σε κορυφαία κέντρα του εξωτερικού. Σε κάθε κλινική λειτουργούν οκτώ τμήματα υψηλής εξειδίκευσης στελεχωμένα από εξειδικευμένους και έμπειρους χειρουργούς ανά τομέα ειδικότητας, άρτια εκπαιδευμένο νοσηλευτικό και διοικητικό προσωπικό. Κάθε πτυχή της λειτουργίας της κλινικής μας, από την επιλογή των ιατρών έως την υιοθέτηση των πιο σύγχρονων ιατρικών τεχνολογιών, στοχεύει στην ασφάλεια και την ευημερία των ασθενών μας. Τμήματα 1 / 0 Ισχίο – Γόνατο ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ Αθλητικών Κακώσεων ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ Σπονδυλική Στήλη ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ Άνω Άκρο ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ Άκρα Χείρα ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ Ποδοκνημική και Άκρο Πόδι ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ Παιδοορθοπαιδικό ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ Ελάχιστα Επεμβατική Νευροχειρουργική Εγκεφάλου ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ document.addEventListener('DOMContentLoaded', function() { // Make sure Swiper is loaded if (typeof Swiper !== 'undefined') { const departmentsSwiper = new Swiper('.departments-swiper', { // Optional parameters slidesPerView: 1, spaceBetween: 30, loop: true, autoplay: { delay: 3000, disableOnInteraction: false, }, // Navigation arrows navigation: { nextEl: '.swiper-button-next', prevEl: '.swiper-button-prev', }, // On init update total slides on: { init: function() { const totalSlides = 8; document.querySelector('.swiper-total').textContent = totalSlides; // Αρχικοποίηση της γραμμής προόδου const progressBar = document.querySelector('.zp_progress_bar'); const progressPercentage = (1 / totalSlides) * 100; progressBar.style.width = progressPercentage + '%'; }, slideChange: function() { // Ενημέρωση του αριθμού του τρέχοντος slide document.querySelector('.swiper-current').textContent = this.realIndex + 1; // Ενημέρωση της γραμμής προόδου const totalSlides = 8; const progressBar = document.querySelector('.zp_progress_bar'); const progressPercentage = ((this.realIndex + 1) / totalSlides) * 100; progressBar.style.width = progressPercentage + '%'; } } }); } else { console.error('Swiper not loaded. Make sure to enqueue Swiper in your theme.'); } }); Γιατί να επιλέξετε την OSTEON Καινοτομία – Εμπειρία - Αξιοπιστία Στην OSTEON, η αριστεία στην ιατρική φροντίδα δεν είναι απλώς δέσμευση, αλλά τρόπος λειτουργίας. Η έμπειρη ιατρική μας ομάδα συνδυάζει προηγμένες χειρουργικές τεχνικές, τεχνολογία αιχμής υψηλής ακρίβειας και προσωποποιημένη προσέγγιση, εξασφαλίζοντας τα καλύτερα δυνατά κλινικά αποτελέσματα. Η φροντίδα, η υγεία και η ευεξία του ασθενούς αποτελεί προτεραιότητά μας και αυτό αντικατοπτρίζεται σε κάθε πτυχή της λειτουργίας μας. ΜΑΘΕTE ΠΕΡΙΣΣΟΤΕΡΑ Δρ. ΒΑΣΙΛΗΣ ΣΑΚΕΛΛΑΡΙΟΥ Ορθοπαιδικός ΧειρουργόςΥπεύθυνος τμημάτων Επανορθωτικής κι Ελάχιστα Επεμβατικής Χειρουργικής Ισχίου – Γόνατος & Αθλητικών Κακώσεων Δρ. ΠΑΝΑΓΙΩΤΗΣ ΠΑΝΤΟΣ Ορθοπαιδικός Χειρουργός – Αθλητίατρος Υπεύθυνος τμημάτων Άνω Άκρου & Αθλητικών Κακώσεων Δρ. ΚΩΝΣΤΑΝΤΙΝΟΣ ΣΤΑΡΑΝΤΖΗΣ Χειρουργός Σπονδυλικής Στήλης Υπεύθυνος τμήματος Σπονδυλικής Στήλης & Σκολίωσης Αποκλειστικοί Συνεργάτες του Ομίλου Ιατρικού Αθηνών Η OSTEON διατηρεί στρατηγική και αποκλειστική συνεργασία με τον Όμιλο Ιατρικού Αθηνών προσφέροντας πρωτοποριακές και εξειδικευμένες υπηρεσίες υγείας υψηλής ποιότητας. Χάρη στην τεχνολογία αιχμής και το νοσοκομειακό περιβάλλον υψηλής εξειδίκευσης, έχουμε τη δυνατότητα να προσφέρουμε στους ασθενείς μας τεταρτοβάθμιες υπηρεσίες υγείας στους τομείς της Ορθοπεδικής, της Χειρουργικής της Σπονδυλικής Στήλης και της Νευροχειρουργικής. Η κοινή μας δέσμευση στην αριστεία και τη φροντίδα εγγυάται την πιο αξιόπιστη εμπειρία περίθαλψης, παρέχοντας σε κάθε ασθενή την υποστήριξη που αξίζει. Πού θα μας βρείτε Τρείς σύγχρονες κλινικές σε Μαρούσι και Γλυφάδα Ιατρείο Αμαρουσίου Λεωφόρος Κηφισίας 153 & Βασ. Σοφίας 4, Μαρούσι, Αθήνα 151 24 210 8020620 / 6989 992472 info@osteon.gr Ιατρείο Γλυφάδας Λ. Δημάρχου Μεταξά Αγγ. 23, Γλυφάδα, Αθήνα 210 8982852 (Ωράριο: 15:00 – 21:00) / 6989 992472 info@osteon.gr Ιατρικό Κέντρο Αθηνών Κηφισίας 56 & Δελφών, Τ.Κ.15125 Μαρούσι, 6ος όροφος 210 6157188 info@osteon.gr Ιατρείο Αμαρουσίου Λεωφόρος Κηφισίας 153 & Βασ. Σοφίας 4, Μαρούσι, Αθήνα 151 24 210 8020620 / 6989 992472 info@osteon.gr Ιατρείο Γλυφάδας Λ. Δημάρχου Μεταξά Αγγ. 23, Γλυφάδα, Αθήνα 210 8982852 (Ωράριο: 15:00 – 21:00) / 6989 992472 info@osteon.gr Ιατρικό Κέντρο Αθηνών Κηφισίας 56 & Δελφών, Τ.Κ.15125 Μαρούσι, 6ος όροφος 210 6157188 info@osteon.gr <span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\"> </span> document.addEventListener('DOMContentLoaded', function() { // Debug function to help identify issues function debug(message) { console.log('ZP Locations Debug: ' + message); } // Function to update the map based on clicked location function updateMapFromLocation(locationItem) { debug('Location item clicked'); var mapDataElement = locationItem.querySelector('.location-map-data'); if (mapDataElement && mapDataElement.value) { debug('Found map data: ' + mapDataElement.value.substring(0, 50) + '...'); var mapContainer = document.querySelector('.zp-locations-map'); if (mapContainer) { debug('Updating map container'); mapContainer.innerHTML = mapDataElement.value; } else { debug('Map container not found'); } } else { debug('No map data found for this location'); } } // Make all location items clickable function initializeLocationClicks() { debug('Initializing location click events'); var locationItems = document.querySelectorAll('.zp-location-item'); debug('Found ' + locationItems.length + ' location items'); locationItems.forEach(function(item) { // Remove any existing click listeners first to avoid duplicates item.removeEventListener('click', handleLocationClick); // Add click listener item.addEventListener('click', handleLocationClick); // Make it visually clear it's clickable item.style.cursor = 'pointer'; debug('Added click listener to location item'); }); } // Separate handler function for location clicks function handleLocationClick(e) { e.stopPropagation(); // Prevent event bubbling var locationItem = this; debug('Location clicked: ' + (locationItem.querySelector('.zp-location-title')?.textContent || 'unnamed')); // Update map updateMapFromLocation(locationItem); // If this is a list item, also update the swiper var locationIndex = locationItem.getAttribute('data-location-index'); if (locationIndex !== null && locationSwiper && !locationItem.closest('.swiper-slide')) { debug('Updating swiper to index: ' + locationIndex); // Need to adjust for loop mode locationSwiper.slideTo(parseInt(locationIndex) + 1); } } // Initialize Swiper debug('Initializing swiper'); var locationSwiper = new Swiper('.locations-swiper', { // Optional parameters slidesPerView: 1, spaceBetween: 30, loop: false, // Navigation arrows navigation: { nextEl: '.swiper-button-next', prevEl: '.swiper-button-prev', }, // Responsive breakpoints breakpoints: { // when window width is >= 768px 768: { slidesPerView: 1, spaceBetween: 30 }, // when window width is >= 1024px 1024: { slidesPerView: 1, spaceBetween: 40 } }, on: { init: function() { debug('Swiper initialized'); // Initialize location clicks after swiper is ready setTimeout(initializeLocationClicks, 100); }, slideChange: function() { debug('Slide changed to index: ' + this.activeIndex); // When slide changes, update the map var activeSlide = this.slides[this.realIndex]; if (activeSlide) { var locationItem = activeSlide.querySelector('.zp-location-item'); if (locationItem) { updateMapFromLocation(locationItem); } else { debug('No location item found in active slide'); } } else { debug('Active slide not found'); } } } }); // Add a click event to the entire locations list area as a fallback var locationsList = document.querySelector('.zp-locations-list'); if (locationsList) { debug('Adding click listener to locations list'); locationsList.addEventListener('click', function(e) { // Find the closest location item to the click var locationItem = e.target.closest('.zp-location-item'); if (locationItem) { debug('Location item clicked from list container'); handleLocationClick.call(locationItem, e); } }); } // Initialize location clicks immediately initializeLocationClicks(); // Re-initialize location clicks after a short delay to ensure everything is loaded setTimeout(initializeLocationClicks, 500); }); Είπαν για την OSTEON ΔΕΙΤΕ ΠΕΡΙΣΣΟΤΕΡΑ 5 / 5 Kostas Metaxas Ο κ.Πάντος είναι εξαιρετικός επιστήμονας και γιατρός. Με κατατόπισε από την αρχή για το πρόβλημα και με χειρούργησε με επιτυχία. Πολύ καλός στην διάγνωση και αποκατάσταση του προβλήματος. Υψηλού επιπέδου κατάρτιση με πολύ φιλικη και ευγενική συμπεριφορά σου μειώνει το άγχος. Στενή παρακολούθηση της μεταγχειρητικής πορείας. Τον συστήνω ανεπιφύλακτα. 5 / 5 despoina maliotaki Ο κύριος Σταραντζής είναι εξαιρετικός επιστήμονας αλλά και υπέροχος άνθρωπος!!Με βοήθησε πολύ με το πρόβλημα μου!!Τον ευχαριστώ θερμά!! 5 / 5 Eleni Stogiou Θα ήθελα να πω ένα ΜΕΓΆΛΟ ΕΥΧΑΡΙΣΤΏ στον κ.Συμεωνιδη, έναν εξαιρετικό επιστήμονα και άνθρωπο. Έκανα τριπλή αρθροδεση ποδοκνημικης. Όποιος λοιπόν ζει με αυτό καταλαβαίνει…. Ο κ.Συμεωνιδης άλλαξε την ποιότητα της ζωής μου, θα τον ευχαριστώ πάντα για αυτό. 5 / 5 Christina OIKONOMOPOULOU Άριστοι ορθοπαιδικοί, με υψηλό βαθμό επιστημονικότητας και εμπειρίας, ευγενέστατοι, σοβαροί, ουσιαστικοί και ταγμένοι σε αυτό που κάνουν. Άριστη και απόλυτα επαγγελματική κι η συμπεριφορά των κυριών στη Γραμματεία. Τους συνιστώ ανεπιφύλακτα και με το χέρι στην καρδιά. Επικοινωνία Εάν αντιμετωπίζετε οποιοδήποτε πόνο ή ενόχληση, μη διστάσετε να επικοινωνήσετε μαζί μας. ΚΑΛΕΣΤΕ ΜΑΣ document.addEventListener('DOMContentLoaded', function() { const observer = new IntersectionObserver((entries) => { entries.forEach(entry => { if (entry.isIntersecting) { entry.target.classList.add('animate'); observer.unobserve(entry.target); // Σταματάμε την παρακολούθηση μετά την πρώτη εμφάνιση } }); }, { threshold: 0.5 }); document.querySelectorAll('.js-animate').forEach((el) => observer.observe(el)); }); Βρείτε μας ΚΛΙΝΙΚΗ ΑΜΑΡΟΥΣΙΟΥ Λ. Κηφισίας 153 & Βας. Σοφίας 4, Μαρούσι, 151 24 ΚΛΙΝΙΚΗ ΓΛΥΦΑΔΑΣ Λ. Δημάρχου Αγγέλου Μεταξά 23, Γλυφάδα, 166 75 ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ Λ. Κηφισίας 56 & Δελφών, Μαρούσι , 6ος όροφος, 151 25 Τηλέφωνα Κλινική Αμαρουσίου: 210 8020620 Κλινική Γλυφάδας: 210 8982852 Ιατρικό Κέντρο Αθηνών: 210 6157188 Κιν: 6989992472 Email info@osteon.gr Ακολουθήστε μας Αποκλειστικοί Συνεργάτες ΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥ ΟΡΟΙ ΧΡΗΣΗΣ ΠΟΛΙΤΙΚΗ ΠΕΡΙΕΧΟΜΕΝΟΥ © OSTEON, 2025 - 2026. All rights reserved. DESIGNED & DEVELOPED BY ZONEPAGE {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/Themelio-child/*\",\"/wp-content/themes/Themelio/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} Ευκαιρίες Καριέρας Επιμελητής Ορθοπαιδικός ΧειρουργόςΓραμματέας – Κλινική ΓλυφάδαςΓραμματέας – Κλινική Αμαρουσίου περισσότερα X jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $(\"html\").addClass(\"ios\"); $(\"html\").addClass(\"mobile\"); } if (deviceAgent.match(/(Android)/)) { $(\"html\").addClass(\"android\"); $(\"html\").addClass(\"mobile\"); } if (navigator.userAgent.search(\"MSIE\") >= 0) { $(\"html\").addClass(\"ie\"); } else if (navigator.userAgent.search(\"Chrome\") >= 0) { $(\"html\").addClass(\"chrome\"); } else if (navigator.userAgent.search(\"Firefox\") >= 0) { $(\"html\").addClass(\"firefox\"); } else if (navigator.userAgent.search(\"Safari\") >= 0 && navigator.userAgent.search(\"Chrome\") < 0) { $(\"html\").addClass(\"safari\"); } else if (navigator.userAgent.search(\"Opera\") >= 0) { $(\"html\").addClass(\"opera\"); } }); /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); //# sourceURL=wp-i18n-js-after /* ]]> */ /* <![CDATA[ */ ( function( domain, translations ) { var localeData = translations.locale_data[ domain ] || translations.locale_data.messages; localeData[\"\"].domain = domain; wp.i18n.setLocaleData( localeData, domain ); } )( \"contact-form-7\", {\"translation-revision-date\":\"2024-08-02 09:16:28+0000\",\"generator\":\"GlotPress\\/4.0.1\",\"domain\":\"messages\",\"locale_data\":{\"messages\":{\"\":{\"domain\":\"messages\",\"plural-forms\":\"nplurals=2; plural=n != 1;\",\"lang\":\"el_GR\"},\"This contact form is placed in the wrong place.\":[\"\\u0397 \\u03c6\\u03cc\\u03c1\\u03bc\\u03b1 \\u03b5\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03af\\u03b1\\u03c2 \\u03b5\\u03af\\u03bd\\u03b1\\u03b9 \\u03c3\\u03b5 \\u03bb\\u03ac\\u03b8\\u03bf\\u03c2 \\u03b8\\u03ad\\u03c3\\u03b7.\"],\"Error:\":[\"\\u03a3\\u03c6\\u03ac\\u03bb\\u03bc\\u03b1:\"]}},\"comment\":{\"reference\":\"includes\\/js\\/index.js\"}} ); //# sourceURL=contact-form-7-js-translations /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/osteon.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; //# sourceURL=contact-form-7-js-before /* ]]> */ /* <![CDATA[ */ document.addEventListener(\"DOMContentLoaded\", function() { new Swiper(\".reviews-wrapper\", { slidesPerView: 1, spaceBetween: 30, loop: true, autoplay: { delay: 3000, disableOnInteraction: false, }, breakpoints: { 768: { slidesPerView: 1, }, 992: { slidesPerView: 2, }, 1024: { slidesPerView: 3, }, }, }); }); document.addEventListener(\"DOMContentLoaded\", function() { new Swiper(\".therapeia-swiper\", { slidesPerView: \"auto\", spaceBetween: 20, autoplay: { delay: 2000, disableOnInteraction: false, }, navigation: { nextEl: \".swiper-button-next\", prevEl: \".swiper-button-prev\", }, breakpoints: { 500: { slidesPerView: 1, }, 640: { slidesPerView: 2, }, 1024: { slidesPerView: 3, }, 1330: { slidesPerView: 4, } } }); }); //# sourceURL=swiper-js-js-after /* ]]> */ /* <![CDATA[ */ var pum_vars = {\"version\":\"1.21.4\",\"pm_dir_url\":\"https://osteon.gr/wp-content/plugins/popup-maker/\",\"ajaxurl\":\"https://osteon.gr/wp-admin/admin-ajax.php\",\"restapi\":\"https://osteon.gr/wp-json/pum/v1\",\"rest_nonce\":null,\"default_theme\":\"1696\",\"debug_mode\":\"\",\"disable_tracking\":\"\",\"home_url\":\"/\",\"message_position\":\"top\",\"core_sub_forms_enabled\":\"1\",\"popups\":[],\"cookie_domain\":\"\",\"analytics_enabled\":\"1\",\"analytics_route\":\"analytics\",\"analytics_api\":\"https://osteon.gr/wp-json/pum/v1\"}; var pum_sub_vars = {\"ajaxurl\":\"https://osteon.gr/wp-admin/admin-ajax.php\",\"message_position\":\"top\"}; var pum_popups = {\"pum-2543\":{\"triggers\":[{\"type\":\"auto_open\",\"settings\":{\"cookie_name\":[\"pum-2543\"],\"delay\":\"500\"}}],\"cookies\":[{\"event\":\"on_popup_close\",\"settings\":{\"name\":\"pum-2543\",\"key\":\"\",\"session\":false,\"path\":\"1\",\"time\":\"1 month\"}}],\"disable_on_mobile\":false,\"disable_on_tablet\":false,\"atc_promotion\":null,\"explain\":null,\"type_section\":null,\"theme_id\":\"1697\",\"size\":\"tiny\",\"responsive_min_width\":\"0%\",\"responsive_max_width\":\"100%\",\"custom_width\":\"640px\",\"custom_height_auto\":false,\"custom_height\":\"380px\",\"scrollable_content\":false,\"animation_type\":\"fade\",\"animation_speed\":\"350\",\"animation_origin\":\"center top\",\"open_sound\":\"none\",\"custom_sound\":\"\",\"location\":\"center top\",\"position_top\":\"100\",\"position_bottom\":\"0\",\"position_left\":\"0\",\"position_right\":\"0\",\"position_from_trigger\":false,\"position_fixed\":false,\"overlay_disabled\":false,\"stackable\":false,\"disable_reposition\":false,\"zindex\":\"1999999999\",\"close_button_delay\":\"0\",\"fi_promotion\":null,\"close_on_form_submission\":false,\"close_on_form_submission_delay\":\"0\",\"close_on_overlay_click\":true,\"close_on_esc_press\":true,\"close_on_f4_press\":true,\"disable_form_reopen\":false,\"disable_accessibility\":false,\"theme_slug\":\"lightbox\",\"id\":2543,\"slug\":\"efkairies-karieras\"}}; //# sourceURL=popup-maker-site-js-extra /* ]]> */ {\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://osteon.gr/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4\"}} /* <![CDATA[ */ /*! This file is auto-generated */ const a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://osteon.gr/wp-includes/js/wp-emoji-loader.min.js /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/osteon.gr-home-b010ac46/homepage--b010ac46.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/osteon.gr-home-b010ac46/homepage--b010ac46.txt",
+      "imageReferences": [
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/02/logo-1.png",
+          "sourcePageUrl": "https://osteon.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/",
+              "retrievedAt": "2026-03-31T13:18:13.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg",
+          "alt": "Αγγλικά",
+          "sourcePageUrl": "https://osteon.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/",
+              "retrievedAt": "2026-03-31T13:18:13.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.svg",
+          "alt": "Ελληνικά",
+          "sourcePageUrl": "https://osteon.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/",
+              "retrievedAt": "2026-03-31T13:18:13.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/02/fb-1.png",
+          "sourcePageUrl": "https://osteon.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/",
+              "retrievedAt": "2026-03-31T13:18:13.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/02/insta.png",
+          "sourcePageUrl": "https://osteon.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/",
+              "retrievedAt": "2026-03-31T13:18:13.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/02/linkedin.png",
+          "sourcePageUrl": "https://osteon.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/",
+              "retrievedAt": "2026-03-31T13:18:13.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/02/youtube-1.png",
+          "sourcePageUrl": "https://osteon.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/",
+              "retrievedAt": "2026-03-31T13:18:13.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/02/tiktok.png",
+          "sourcePageUrl": "https://osteon.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/",
+              "retrievedAt": "2026-03-31T13:18:13.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/03/EUROSPINE_Siegel_0047_650x650px_WEB.png",
+          "sourcePageUrl": "https://osteon.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/",
+              "retrievedAt": "2026-03-31T13:18:13.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/06/SECEC-Certified-logo-2025-2029-no-background-1.png",
+          "sourcePageUrl": "https://osteon.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/",
+              "retrievedAt": "2026-03-31T13:18:13.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/06/Group-1171275013.png",
+          "sourcePageUrl": "https://osteon.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/",
+              "retrievedAt": "2026-03-31T13:18:13.623Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/06/ImplantCast-1.png",
+          "sourcePageUrl": "https://osteon.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/",
+              "retrievedAt": "2026-03-31T13:18:13.623Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.625Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/osteon.gr-home-b010ac46/homepage-page-b010ac46.png"
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://osteon.gr/contact-us",
+      "finalUrl": "https://osteon.gr/contact-us",
+      "fetchedAt": "2026-03-31T13:18:13.739Z",
+      "metadata": {
+        "title": "Bot Verification"
+      },
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Verifying that you are not a robot..."
+        }
+      ],
+      "internalLinks": [],
+      "forms": [
+        {
+          "action": "https://osteon.gr/.lsrecap/recaptcha?",
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [],
+          "submitLabels": [],
+          "fields": []
+        }
+      ],
+      "visibleElements": {
+        "phones": [],
+        "emails": [],
+        "addresses": [],
+        "socialLinks": [],
+        "forms": [
+          {
+            "action": "https://osteon.gr/.lsrecap/recaptcha?",
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [],
+            "submitLabels": [],
+            "fields": []
+          }
+        ]
+      },
+      "textContent": "Verifying that you are not a robot...",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/osteon.gr-home-b010ac46/contact-contact-us-13eebe23.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/osteon.gr-home-b010ac46/contact-contact-us-13eebe23.txt",
+      "imageReferences": [],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://osteon.gr/contact-us",
+          "retrievedAt": "2026-03-31T13:18:13.739Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/osteon.gr-home-b010ac46/contact-contact-us-13eebe23.png"
+    },
+    "team": {
+      "pageType": "team",
+      "requestedUrl": "https://osteon.gr/doctors/pantos-panagiotis",
+      "finalUrl": "https://osteon.gr/doctors/pantos-panagiotis",
+      "fetchedAt": "2026-03-31T13:18:21.486Z",
+      "metadata": {
+        "title": "Παναγιώτης Γ. Πάντος - Ορθοπεδικοί Χειρουργοί Αθήνα",
+        "metaDescription": "Ορθοπαιδικός Χειρουργός - Αθλητίατρος, MD, MSc, PhD",
+        "canonicalUrl": "https://osteon.gr/doctors/pantos-panagiotis/",
+        "language": "el",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "openGraphTitle": "Παναγιώτης Γ. Πάντος - Ορθοπεδικοί Χειρουργοί Αθήνα",
+        "openGraphDescription": "Ορθοπαιδικός Χειρουργός - Αθλητίατρος, MD, MSc, PhD",
+        "openGraphImage": "https://osteon.gr/wp-content/uploads/2025/02/Mask-group-10.png"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Παναγιώτης Γ. Πάντος"
+        },
+        {
+          "level": "h2",
+          "text": "Πού θα μας βρείτε"
+        },
+        {
+          "level": "h2",
+          "text": "Επικοινωνία"
+        },
+        {
+          "level": "h3",
+          "text": "Ιατρείο Αμαρουσίου"
+        },
+        {
+          "level": "h3",
+          "text": "Ιατρείο Γλυφάδας"
+        },
+        {
+          "level": "h3",
+          "text": "Ιατρικό Κέντρο Αθηνών"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://osteon.gr/"
+        },
+        {
+          "href": "https://osteon.gr/osteon/",
+          "label": "OSTEON"
+        },
+        {
+          "href": "https://osteon.gr/pistopoiiseis-diakriseis/",
+          "label": "Πιστοποιήσεις & Διακρίσεις"
+        },
+        {
+          "href": "https://osteon.gr/courses/",
+          "label": "Osteon Education Center"
+        },
+        {
+          "href": "https://osteon.gr/efkaries-karieras/",
+          "label": "Ευκαιριες Καριερας"
+        },
+        {
+          "href": "https://osteon.gr/ypefthynoi-tmimaton/",
+          "label": "Η ΟΜΑΔΑ"
+        },
+        {
+          "href": "https://osteon.gr/departments/pathiseon-ano-akrou/",
+          "label": "ΑΝΩ ΑΚΡΟ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/osteoarthritida-omou/",
+          "label": "ΑΡΘΡΙΤΙΔΑ – ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΩΜΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/riksi-tenonton-strofikou-petalou-omou/",
+          "label": "ΡΗΞΗ ΤΕΝΟΝΤΩΝ ΣΤΡΟΦΙΚΟΥ ΠΕΤΑΛΟΥ ΩΜΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/tenontitida-omou/",
+          "label": "ΤΕΝΟΝΤΙΤΙΔΑ ΩΜΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/asvestopoios-tenontitida-omou/",
+          "label": "ΑΣΒΕΣΤΟΠΟΙΟΣ ΤΕΝΟΝΤΙΤΙΔΑ ΩΜΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/syndromo-karpiaiou-solina/",
+          "label": "ΣΥΝΔΡΟΜΟ ΚΑΡΠΙΑΙΟΥ ΣΩΛΗΝΑ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/tenontitida-de-quervain/",
+          "label": "ΤΕΝΟΝΤΙΤΙΔΑ DE QUERVAIN"
+        },
+        {
+          "href": "https://osteon.gr/conditions/eksarthrima-omou/",
+          "label": "ΕΞΑΡΘΡΗΜΑ ΩΜΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/arthroplastiki-omou/",
+          "label": "ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΩΜΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/arthroskopisi-omou/",
+          "label": "ΑΡΘΡΟΣΚΟΠΗΣΗ ΩΜΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/anastrofi-arthroplastiki-omou/",
+          "label": "ΑΝΑΣΤΡΟΦΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΩΜΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/departments/pathiseon-spondylikis-stilis/",
+          "label": "ΣΠΟΝΔΥΛΙΚΗ ΣΤΗΛΗ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/spondylolisthisi/",
+          "label": "ΣΠΟΝΔΥΛΟΛΙΣΘΗΣΗ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/kili-mesospondyliou-diskou-diskokili/",
+          "label": "ΔΙΣΚΟΚΗΛΗ (ΚΗΛΗ ΜΕΣΟΣΠΟΝΔΥΛΙΟΥ ΔΙΣΚΟΥ)"
+        },
+        {
+          "href": "https://osteon.gr/conditions/afcheniko-syndromo/",
+          "label": "ΑΥΧΕΝΙΚΟ ΣΥΝΔΡΟΜΟ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/osteoporosi/",
+          "label": "ΟΣΤΕΟΠΟΡΩΣΗ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/spondyliki-stenosi/",
+          "label": "ΣΠΟΝΔΥΛΙΚΗ ΣΤΕΝΩΣΗ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/egchyseis-sti-mesi/",
+          "label": "ΕΓΧΥΣΕΙΣ ΣΤΗ ΜΕΣΗ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/skoliosi-se-paidia/",
+          "label": "ΣΚΟΛΙΩΣΗ ΣΕ ΠΑΙΔΙΑ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/rompotiki-xeirourgiki-spondylikis-stilis/",
+          "label": "ΡΟΜΠΟΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/spondylodesia-choris-geniki/",
+          "label": "ΣΠΟΝΔΥΛΟΔΕΣΙΑ ΧΩΡΙΣ ΓΕΝΙΚΗ ΑΝΑΙΣΘΗΣΙΑ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/vbt/",
+          "label": "ΔΥΝΑΜΙΚΗ ΣΠΟΝΔΥΛΟΑΝΑΤΑΞΗ ΣΚΟΛΙΩΣΗΣ (VBT)"
+        },
+        {
+          "href": "https://osteon.gr/departments/ischiou-gonatos/",
+          "label": "ΙΣΧΙΟ – ΓΟΝΑΤΟ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/riksi-prosthiou-chiastou/",
+          "label": "ΡΗΞΗ ΠΡΟΣΘΙΟΥ ΧΙΑΣΤΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/riksi-miniskou/",
+          "label": "ΡΗΞΗ ΜΗΝΙΣΚΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/arthroplastiki-ischiou-gonatos/",
+          "label": "ΟΛΙΚΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΙΣΧΙΟΥ – ΓΟΝΑΤΟΣ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/oliki-arthroplastiki-ischiou-elachista-epemvatikes-methodoi/",
+          "label": "ΟΛΙΚΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΙΣΧΙΟΥ & ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΕΣ ΜΕΘΟΔΟΙ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/arthroskopisi-gonatos/",
+          "label": "ΑΡΘΡΟΣΚΟΠΗΣΗ ΓΟΝΑΤΟΣ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/osteoarthritida-arthritida-gonatos/",
+          "label": "ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΓΟΝΑΤΟΣ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/osteoarthritida-ischiou/",
+          "label": "ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΙΣΧΙΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/mis-se-gonato-kai-ischio/",
+          "label": "MIS σε γόνατο και ισχίο"
+        },
+        {
+          "href": "https://osteon.gr/conditions/anatheorisi-arthroplastikis-ischiou-kai-gonatos/",
+          "label": "Αναθεωρηση Αρθροπλαστικης Ισχιου και Γονατος"
+        },
+        {
+          "href": "https://osteon.gr/conditions/exatomikevmeni-arthroplastiki-gonatos/",
+          "label": "Εξατομικευμενη Αρθροπλαστικη Γονατος"
+        },
+        {
+          "href": "https://osteon.gr/conditions/katagmata-ischiou/",
+          "label": "Καταγματα Ισχιου"
+        },
+        {
+          "href": "https://osteon.gr/conditions/nanoarthroskopisi/",
+          "label": "Νανοαρθροσκοπηση"
+        },
+        {
+          "href": "https://osteon.gr/departments/podoknimikis-akrou-podos/",
+          "label": "ΠΟΔΟΚΝΗΜΙΚΗ ΚΑΙ ΑΚΡΟ ΠΟΔΙ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/diastremma-astragalou/",
+          "label": "ΔΙΑΣΤΡΕΜΜΑ ΑΣΤΡΑΓΑΛΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/ponemena-podia-paramorfoseis-tou-podiou/",
+          "label": "ΠΟΝΕΜΕΝΑ ΠΟΔΙΑ – ΠΑΡΑΜΟΡΦΩΣΕΙΣ ΤΟΥ ΠΟΔΙΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/pathiseis-tou-achilleiou-tenonta/",
+          "label": "ΠΑΘΗΣΕΙΣ ΤΟΥ ΑΧΙΛΛΕΙΟΥ ΤΕΝΟΝΤΑ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/epiktiti-platypodia-proodeftiki-kathizisi-tou-podiou/",
+          "label": "ΕΠΙΚΤΗΤΗ ΠΛΑΤΥΠΟΔΙΑ – ΠΡΟΟΔΕΥΤΙΚΗ ΚΑΘΙΖΗΣΗ ΤΟΥ ΠΟΔΙΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/vlaisos-megalos-daktylos-kotsi/",
+          "label": "ΒΛΑΙΣΟΣ ΜΕΓΑΛΟΣ ΔΑΚΤΥΛΟΣ – ΚΟΤΣΙ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/arthritida-sto-podi-kai-ton-astragalo/",
+          "label": "ΑΡΘΡΙΤΙΔΑ ΣΤΟ ΠΟΔΙ ΚΑΙ ΤΟΝ ΑΣΤΡΑΓΑΛΟ"
+        },
+        {
+          "href": "https://osteon.gr/departments/elachista-epemvatiki-nevrocheirourgiki-egkefalou/",
+          "label": "ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΗ ΝΕΥΡΟΧΕΙΡΟΥΡΓΙΚΗ ΕΓΚΕΓΑΛΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/olistiki-antimetopisi-gloiomaton-egkefalou/",
+          "label": "ΟΛΙΣΤΙΚΗ ΑΝΤΙΜΕΤΩΠΙΣΗ ΓΛΟΙΩΜΑΤΩΝ ΕΓΚΕΦΑΛΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/departments/paidoorthopaidiko/",
+          "label": "ΠΑΙΔΟΟΡΘΟΠΑΙΔΙΚΟ"
+        },
+        {
+          "href": "https://osteon.gr/departments/akra-cheira/",
+          "label": "ΑΚΡΑ ΧΕΙΡΑ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/osteoarthritida-tis-vasis-tou-anticheira/",
+          "label": "ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΤΗΣ ΒΑΣΗΣ ΤΟΥ ΑΝΤΙΧΕΙΡΑ"
+        },
+        {
+          "href": "https://osteon.gr/departments/athlitikon-kakoseon/",
+          "label": "ΑΘΛΗΤΙΚΩΝ ΚΑΚΩΣΕΩΝ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/rixi-xiastou/",
+          "label": "ΡΗΞΗ ΧΙΑΣΤΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/rixi-miniskou/",
+          "label": "ΡΗΞΗ ΜΗΝΙΣΚΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/myikes-thlaseis/",
+          "label": "ΜΥΙΚΕΣ ΘΛΑΣΕΙΣ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/exarthrima-omou-se-athlites/",
+          "label": "ΕΞΑΡΘΡΗΜΑ ΩΜΟΥ ΣΕ ΑΘΛΗΤΕΣ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/rixi-strofikou-petalou-tou-omou-se-athlites/",
+          "label": "ΡΗΞΗ ΣΤΡΟΦΙΚΟΥ ΠΕΤΑΛΟΥ ΤΟΥ ΩΜΟΥ ΣΕ ΑΘΛΗΤΈΣ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/kili-mesospondyliou-diskou/",
+          "label": "ΚΗΛΗ ΜΕΣΟΣΠΟΝΔΥΛΙΟΥ ΔΙΣΚΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/conditions/spondylolysi/",
+          "label": "ΣΠΟΝΔΥΛΟΛΥΣΗ"
+        },
+        {
+          "href": "https://osteon.gr/osteon-pro/",
+          "label": "OSTEON PRO"
+        },
+        {
+          "href": "https://osteon.gr/iatrikos-tourismos/",
+          "label": "ΙΑΤΡΙΚΟΣ ΤΟΥΡΙΣΜΟΣ"
+        },
+        {
+          "href": "https://osteon.gr/afieromata/",
+          "label": "ΑΦΙΕΡΩΜΑΤΑ"
+        },
+        {
+          "href": "https://osteon.gr/nea/",
+          "label": "ΝΕΑ"
+        },
+        {
+          "href": "https://osteon.gr/blog/",
+          "label": "Αρθρογραφια Ιατρων"
+        },
+        {
+          "href": "https://osteon.gr/vinteo-tileoptikes-synentefxeis/",
+          "label": "ΒΙΝΤΕΟ / ΤΗΛΕΟΠΤΙΚΕΣ ΣΥΝΕΝΤΕΥΞΕΙΣ"
+        },
+        {
+          "href": "https://osteon.gr/entypa/",
+          "label": "Εντυπα"
+        },
+        {
+          "href": "https://osteon.gr/contact-us/",
+          "label": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        },
+        {
+          "href": "https://osteon.gr/en/doctors/panagiotis-g-pantos/"
+        },
+        {
+          "href": "https://osteon.gr/doctors/pantos-panagiotis/"
+        },
+        {
+          "href": "https://osteon.gr/privacy-policy/",
+          "label": "ΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥ"
+        },
+        {
+          "href": "https://osteon.gr/oroi-chrisis/",
+          "label": "ΟΡΟΙ ΧΡΗΣΗΣ"
+        },
+        {
+          "href": "https://osteon.gr/politiki-periechomenou/",
+          "label": "ΠΟΛΙΤΙΚΗ ΠΕΡΙΕΧΟΜΕΝΟΥ"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "151 24 210 8020620 / 6989 992472",
+          "210 8982852",
+          "00) / 6989 992472",
+          "210 6157188",
+          "210 8020620",
+          "6989992472",
+          "2025 - 2026",
+          "2024-08-02 09",
+          "2108020620",
+          "2108982852"
+        ],
+        "emails": [
+          "info@osteon.gr"
+        ],
+        "addresses": [
+          "Λεωφόρος Κηφισίας 153 & Βασ. Σοφίας 4, Μαρούσι, Αθήνα 151 24",
+          "Λ. Δημάρχου Μεταξά Αγγ. 23, Γλυφάδα, Αθήνα",
+          "Κηφισίας 56 & Δελφών, Τ.Κ.15125 Μαρούσι, 6ος όροφος",
+          "Βρείτε μας ΚΛΙΝΙΚΗ ΑΜΑΡΟΥΣΙΟΥ Λ. Κηφισίας 153 & Βας. Σοφίας 4, Μαρούσι, 151 24 ΚΛΙΝΙΚΗ ΓΛΥΦΑΔΑΣ Λ. Δημάρχου Αγγέλου Μεταξά 23, Γλυφάδα, 166 75 ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ Λ. Κηφισίας 56 & Δελφών, Μαρούσι , 6ος όροφος, 151 25 Τηλέφωνα Κλινική Αμαρουσίου: 210 8020620 Κλινική Γλυφάδας: 210 8982852 Ιατρικό Κέντρο Αθηνών: 210 6157188 Κιν: 6989992472 Email info@osteon.gr Ακολουθήστε μας Αποκλειστικοί Συνεργάτες ΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥ ΟΡΟΙ ΧΡΗΣΗΣ ΠΟΛΙΤΙΚΗ ΠΕΡΙΕΧΟΜΕΝΟΥ © OSTEON, 2025 - 2026. All rights reserved. DESIGNED & DEVELOPED BY ZONEPAGE",
+          "Λ. Κηφισίας 153 & Βας. Σοφίας 4, Μαρούσι, 151 24",
+          "Λ. Δημάρχου Αγγέλου Μεταξά 23, Γλυφάδα, 166 75"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/osteon.gr/"
+          },
+          {
+            "href": "https://www.instagram.com/osteon_clinic/"
+          },
+          {
+            "href": "https://gr.linkedin.com/company/osteon-clinic"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UCeblLhzXS38Y4IGImD3HrjQ/videos"
+          },
+          {
+            "href": "http://tiktok.com/@osteon.clinic"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "Βρείτε μας ΚΛΙΝΙΚΗ ΑΜΑΡΟΥΣΙΟΥ Λ. Κηφισίας 153 & Βας. Σοφίας 4, Μαρούσι, 151 24 ΚΛΙΝΙΚΗ ΓΛΥΦΑΔΑΣ Λ. Δημάρχου Αγγέλου Μεταξά 23, Γλυφάδα, 166 75 ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ Λ. Κηφισίας 56 & Δελφών, Μαρούσι , 6ος όροφος, 151 25 Τηλέφωνα Κλινική Αμαρουσίου: 210 8020620 Κλινική Γλυφάδας: 210 8982852 Ιατρικό Κέντρο Αθηνών: 210 6157188 Κιν: 6989992472 Email info@osteon.gr Ακολουθήστε μας Αποκλειστικοί Συνεργάτες ΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥ ΟΡΟΙ ΧΡΗΣΗΣ ΠΟΛΙΤΙΚΗ ΠΕΡΙΕΧΟΜΕΝΟΥ © OSTEON, 2025 - 2026. All rights reserved. DESIGNED & DEVELOPED BY ZONEPAGE",
+      "textContent": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5GDPDFS\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Skip to the content ΑΡΧΙΚΗ OSTEON Ποιοι Ειμαστε Πιστοποιήσεις & Διακρίσεις Osteon Education Center Ευκαιριες Καριερας Η ΟΜΑΔΑ ΤΜΗΜΑΤΑ ΑΝΩ ΑΚΡΟ ΑΡΘΡΙΤΙΔΑ – ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΩΜΟΥ ΡΗΞΗ ΤΕΝΟΝΤΩΝ ΣΤΡΟΦΙΚΟΥ ΠΕΤΑΛΟΥ ΩΜΟΥ ΤΕΝΟΝΤΙΤΙΔΑ ΩΜΟΥ ΑΣΒΕΣΤΟΠΟΙΟΣ ΤΕΝΟΝΤΙΤΙΔΑ ΩΜΟΥ ΣΥΝΔΡΟΜΟ ΚΑΡΠΙΑΙΟΥ ΣΩΛΗΝΑ ΤΕΝΟΝΤΙΤΙΔΑ DE QUERVAIN ΕΞΑΡΘΡΗΜΑ ΩΜΟΥ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΩΜΟΥ ΑΡΘΡΟΣΚΟΠΗΣΗ ΩΜΟΥ ΑΝΑΣΤΡΟΦΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΩΜΟΥ ΣΠΟΝΔΥΛΙΚΗ ΣΤΗΛΗ ΣΠΟΝΔΥΛΟΛΙΣΘΗΣΗ ΔΙΣΚΟΚΗΛΗ (ΚΗΛΗ ΜΕΣΟΣΠΟΝΔΥΛΙΟΥ ΔΙΣΚΟΥ) ΑΥΧΕΝΙΚΟ ΣΥΝΔΡΟΜΟ ΟΣΤΕΟΠΟΡΩΣΗ ΣΠΟΝΔΥΛΙΚΗ ΣΤΕΝΩΣΗ ΕΓΧΥΣΕΙΣ ΣΤΗ ΜΕΣΗ ΣΚΟΛΙΩΣΗ ΣΕ ΠΑΙΔΙΑ ΡΟΜΠΟΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣ ΣΠΟΝΔΥΛΟΔΕΣΙΑ ΧΩΡΙΣ ΓΕΝΙΚΗ ΑΝΑΙΣΘΗΣΙΑ ΔΥΝΑΜΙΚΗ ΣΠΟΝΔΥΛΟΑΝΑΤΑΞΗ ΣΚΟΛΙΩΣΗΣ (VBT) ΙΣΧΙΟ – ΓΟΝΑΤΟ ΡΗΞΗ ΠΡΟΣΘΙΟΥ ΧΙΑΣΤΟΥ ΡΗΞΗ ΜΗΝΙΣΚΟΥ ΟΛΙΚΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΙΣΧΙΟΥ – ΓΟΝΑΤΟΣ ΟΛΙΚΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΙΣΧΙΟΥ & ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΕΣ ΜΕΘΟΔΟΙ ΑΡΘΡΟΣΚΟΠΗΣΗ ΓΟΝΑΤΟΣ ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΓΟΝΑΤΟΣ ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΙΣΧΙΟΥ MIS σε γόνατο και ισχίο Αναθεωρηση Αρθροπλαστικης Ισχιου και Γονατος Εξατομικευμενη Αρθροπλαστικη Γονατος Καταγματα Ισχιου Νανοαρθροσκοπηση ΠΟΔΟΚΝΗΜΙΚΗ ΚΑΙ ΑΚΡΟ ΠΟΔΙ ΔΙΑΣΤΡΕΜΜΑ ΑΣΤΡΑΓΑΛΟΥ ΠΟΝΕΜΕΝΑ ΠΟΔΙΑ – ΠΑΡΑΜΟΡΦΩΣΕΙΣ ΤΟΥ ΠΟΔΙΟΥ ΠΑΘΗΣΕΙΣ ΤΟΥ ΑΧΙΛΛΕΙΟΥ ΤΕΝΟΝΤΑ ΕΠΙΚΤΗΤΗ ΠΛΑΤΥΠΟΔΙΑ – ΠΡΟΟΔΕΥΤΙΚΗ ΚΑΘΙΖΗΣΗ ΤΟΥ ΠΟΔΙΟΥ ΒΛΑΙΣΟΣ ΜΕΓΑΛΟΣ ΔΑΚΤΥΛΟΣ – ΚΟΤΣΙ ΑΡΘΡΙΤΙΔΑ ΣΤΟ ΠΟΔΙ ΚΑΙ ΤΟΝ ΑΣΤΡΑΓΑΛΟ ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΗ ΝΕΥΡΟΧΕΙΡΟΥΡΓΙΚΗ ΕΓΚΕΓΑΛΟΥ ΟΛΙΣΤΙΚΗ ΑΝΤΙΜΕΤΩΠΙΣΗ ΓΛΟΙΩΜΑΤΩΝ ΕΓΚΕΦΑΛΟΥ ΠΑΙΔΟΟΡΘΟΠΑΙΔΙΚΟ ΑΚΡΑ ΧΕΙΡΑ ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΤΗΣ ΒΑΣΗΣ ΤΟΥ ΑΝΤΙΧΕΙΡΑ ΑΘΛΗΤΙΚΩΝ ΚΑΚΩΣΕΩΝ ΡΗΞΗ ΧΙΑΣΤΟΥ ΡΗΞΗ ΜΗΝΙΣΚΟΥ ΜΥΙΚΕΣ ΘΛΑΣΕΙΣ ΕΞΑΡΘΡΗΜΑ ΩΜΟΥ ΣΕ ΑΘΛΗΤΕΣ ΡΗΞΗ ΣΤΡΟΦΙΚΟΥ ΠΕΤΑΛΟΥ ΤΟΥ ΩΜΟΥ ΣΕ ΑΘΛΗΤΈΣ ΚΗΛΗ ΜΕΣΟΣΠΟΝΔΥΛΙΟΥ ΔΙΣΚΟΥ ΣΠΟΝΔΥΛΟΛΥΣΗ OSTEON PRO ΙΑΤΡΙΚΟΣ ΤΟΥΡΙΣΜΟΣ ΕΝΗΜΕΡΩΣΗ ΑΦΙΕΡΩΜΑΤΑ ΝΕΑ Αρθρογραφια Ιατρων ΒΙΝΤΕΟ / ΤΗΛΕΟΠΤΙΚΕΣ ΣΥΝΕΝΤΕΥΞΕΙΣ Εντυπα ΕΠΙΚΟΙΝΩΝΙΑ Επιστροφή ΑΡΧΙΚΗ OSTEON Ποιοι Ειμαστε Πιστοποιήσεις & Διακρίσεις Osteon Education Center Ευκαιριες Καριερας Η ΟΜΑΔΑ ΤΜΗΜΑΤΑ ΑΝΩ ΑΚΡΟ ΑΡΘΡΙΤΙΔΑ – ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΩΜΟΥ ΡΗΞΗ ΤΕΝΟΝΤΩΝ ΣΤΡΟΦΙΚΟΥ ΠΕΤΑΛΟΥ ΩΜΟΥ ΤΕΝΟΝΤΙΤΙΔΑ ΩΜΟΥ ΑΣΒΕΣΤΟΠΟΙΟΣ ΤΕΝΟΝΤΙΤΙΔΑ ΩΜΟΥ ΣΥΝΔΡΟΜΟ ΚΑΡΠΙΑΙΟΥ ΣΩΛΗΝΑ ΤΕΝΟΝΤΙΤΙΔΑ DE QUERVAIN ΕΞΑΡΘΡΗΜΑ ΩΜΟΥ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΩΜΟΥ ΑΡΘΡΟΣΚΟΠΗΣΗ ΩΜΟΥ ΑΝΑΣΤΡΟΦΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΩΜΟΥ ΣΠΟΝΔΥΛΙΚΗ ΣΤΗΛΗ ΣΠΟΝΔΥΛΟΛΙΣΘΗΣΗ ΔΙΣΚΟΚΗΛΗ (ΚΗΛΗ ΜΕΣΟΣΠΟΝΔΥΛΙΟΥ ΔΙΣΚΟΥ) ΑΥΧΕΝΙΚΟ ΣΥΝΔΡΟΜΟ ΟΣΤΕΟΠΟΡΩΣΗ ΣΠΟΝΔΥΛΙΚΗ ΣΤΕΝΩΣΗ ΕΓΧΥΣΕΙΣ ΣΤΗ ΜΕΣΗ ΣΚΟΛΙΩΣΗ ΣΕ ΠΑΙΔΙΑ ΡΟΜΠΟΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣ ΣΠΟΝΔΥΛΟΔΕΣΙΑ ΧΩΡΙΣ ΓΕΝΙΚΗ ΑΝΑΙΣΘΗΣΙΑ ΔΥΝΑΜΙΚΗ ΣΠΟΝΔΥΛΟΑΝΑΤΑΞΗ ΣΚΟΛΙΩΣΗΣ (VBT) ΙΣΧΙΟ – ΓΟΝΑΤΟ ΡΗΞΗ ΠΡΟΣΘΙΟΥ ΧΙΑΣΤΟΥ ΡΗΞΗ ΜΗΝΙΣΚΟΥ ΟΛΙΚΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΙΣΧΙΟΥ – ΓΟΝΑΤΟΣ ΟΛΙΚΗ ΑΡΘΡΟΠΛΑΣΤΙΚΗ ΙΣΧΙΟΥ & ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΕΣ ΜΕΘΟΔΟΙ ΑΡΘΡΟΣΚΟΠΗΣΗ ΓΟΝΑΤΟΣ ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΓΟΝΑΤΟΣ ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΙΣΧΙΟΥ MIS σε γόνατο και ισχίο Αναθεωρηση Αρθροπλαστικης Ισχιου και Γονατος Εξατομικευμενη Αρθροπλαστικη Γονατος Καταγματα Ισχιου Νανοαρθροσκοπηση ΠΟΔΟΚΝΗΜΙΚΗ ΚΑΙ ΑΚΡΟ ΠΟΔΙ ΔΙΑΣΤΡΕΜΜΑ ΑΣΤΡΑΓΑΛΟΥ ΠΟΝΕΜΕΝΑ ΠΟΔΙΑ – ΠΑΡΑΜΟΡΦΩΣΕΙΣ ΤΟΥ ΠΟΔΙΟΥ ΠΑΘΗΣΕΙΣ ΤΟΥ ΑΧΙΛΛΕΙΟΥ ΤΕΝΟΝΤΑ ΕΠΙΚΤΗΤΗ ΠΛΑΤΥΠΟΔΙΑ – ΠΡΟΟΔΕΥΤΙΚΗ ΚΑΘΙΖΗΣΗ ΤΟΥ ΠΟΔΙΟΥ ΒΛΑΙΣΟΣ ΜΕΓΑΛΟΣ ΔΑΚΤΥΛΟΣ – ΚΟΤΣΙ ΑΡΘΡΙΤΙΔΑ ΣΤΟ ΠΟΔΙ ΚΑΙ ΤΟΝ ΑΣΤΡΑΓΑΛΟ ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΗ ΝΕΥΡΟΧΕΙΡΟΥΡΓΙΚΗ ΕΓΚΕΓΑΛΟΥ ΟΛΙΣΤΙΚΗ ΑΝΤΙΜΕΤΩΠΙΣΗ ΓΛΟΙΩΜΑΤΩΝ ΕΓΚΕΦΑΛΟΥ ΠΑΙΔΟΟΡΘΟΠΑΙΔΙΚΟ ΑΚΡΑ ΧΕΙΡΑ ΟΣΤΕΟΑΡΘΡΙΤΙΔΑ ΤΗΣ ΒΑΣΗΣ ΤΟΥ ΑΝΤΙΧΕΙΡΑ ΑΘΛΗΤΙΚΩΝ ΚΑΚΩΣΕΩΝ ΡΗΞΗ ΧΙΑΣΤΟΥ ΡΗΞΗ ΜΗΝΙΣΚΟΥ ΜΥΙΚΕΣ ΘΛΑΣΕΙΣ ΕΞΑΡΘΡΗΜΑ ΩΜΟΥ ΣΕ ΑΘΛΗΤΕΣ ΡΗΞΗ ΣΤΡΟΦΙΚΟΥ ΠΕΤΑΛΟΥ ΤΟΥ ΩΜΟΥ ΣΕ ΑΘΛΗΤΈΣ ΚΗΛΗ ΜΕΣΟΣΠΟΝΔΥΛΙΟΥ ΔΙΣΚΟΥ ΣΠΟΝΔΥΛΟΛΥΣΗ OSTEON PRO ΙΑΤΡΙΚΟΣ ΤΟΥΡΙΣΜΟΣ ΕΝΗΜΕΡΩΣΗ ΑΦΙΕΡΩΜΑΤΑ ΝΕΑ Αρθρογραφια Ιατρων ΒΙΝΤΕΟ / ΤΗΛΕΟΠΤΙΚΕΣ ΣΥΝΕΝΤΕΥΞΕΙΣ Εντυπα ΕΠΙΚΟΙΝΩΝΙΑ OSTEON > Η ΟΜΑΔΑ > Παναγιώτης Γ. Πάντος Παναγιώτης Γ. Πάντος Ορθοπαιδικός Χειρουργός – Αθλητίατρος, MD, MSc, PhD Ο Παναγιώτης Γ. Πάντος είναι υπεύθυνος των τμημάτων Άνω Άκρου και Αθλητικών Κακώσεων στην Ορθοπαιδική Κλινική «OSTEON» και ΔιδάκτωρΙατρικής του Πανεπιστημίου Αθηνών. Είναι, επίσης, Διευθυντής Ορθοπαιδικής Κλινικής στον Ιατρικό Κέντρο Αθηνών (Μαρούσι).Έχει ειδικευθεί στη Χειρουργική Ώμου μέσα από πολλά χρόνια κλινικού έργου και στοχευμένης μετεκπαίδευσης σε κορυφαία εξειδικευμένα κέντραστηΓερμανία και θητεύοντας πλάι σε διεθνώς αναγνωρισμένους χειρουργούς.Πιστός στις αρχές της ιατρικής επιστήμης και ηθικής, ειδικεύτηκε στην Ορθοπαιδική –Τραυματολογία, στην Α’ Πανεπιστημιακή Ορθοπαιδική Κλινική στο Πανεπιστημιακό Γενικό Νοσοκομείο «ATTIKON», ενώ συνέχισε την εκπαίδευση και το κλινικό του έργο του στις εξειδικευμένες κλινικές, Klinik Maingau vom Roten Kreuz και AsklepiosKlinikSeligenstadt στη Γερμανία.Εκεί απέκτησε πολύτιμη γνώση κι εμπειρία πάνω στις τελευταίες εξελίξεις στη Χειρουργική Ώμου, λαμβάνοντας αναγνώριση για το κλινικό του έργο υπό τη μορφή της ανάληψης θέσης Επιμελητή – Αναπληρωτή Διευθυντή (Leitender Oberarzt) Ορθοπαιδικής-Τραυματολογίας και Υπευθύνου Ενδονοσοκομειακών Λοιμώξεων, στην Κλινική Χειρουργικής Ώμου, Klinik Maingau vom Roten Kreuz.Παράλληλα, έχει αξιόλογο ακαδημαϊκό έργο, με μεγάλο αριθμό επιστημονικών δημοσιεύσεων και αποκορύφωμα την ανακήρυξή του σε Διδάκτορα Ιατρικής του Πανεπιστήμιο Αθηνών, το 2013, λαμβάνοντας βαθμό «Άριστα» για τη διδακτορική του διατριβή.Είναι μέλος της Γερμανικής Αρθροσκοπικής Εταιρείας, AGA, καθώς και έκτακτο μέλος της Ελληνικής Εταιρείας Χειρουργικής Ορθοπαιδικής και Τραυματιολογίας. Κατέχει πανευρωπαϊκή πιστοποίηση από τη SECEC (European Society for Surgery of the Shoulder and the Elbow), για την εξειδίκευσή του στη χειρουργική ώμου και αγκώνα. Επιπλέον, είναι κάτοχος Football Medicine Diploma (Football | Soccer Medicine Advanced Course) από την Academia Clínicas Espregueira – FIFA Medical Centre of Excellence. Πού θα μας βρείτε Τρείς σύγχρονες κλινικές σε Μαρούσι και Γλυφάδα Ιατρείο Αμαρουσίου Λεωφόρος Κηφισίας 153 & Βασ. Σοφίας 4, Μαρούσι, Αθήνα 151 24 210 8020620 / 6989 992472 info@osteon.gr Ιατρείο Γλυφάδας Λ. Δημάρχου Μεταξά Αγγ. 23, Γλυφάδα, Αθήνα 210 8982852 (Ωράριο: 15:00 – 21:00) / 6989 992472 info@osteon.gr Ιατρικό Κέντρο Αθηνών Κηφισίας 56 & Δελφών, Τ.Κ.15125 Μαρούσι, 6ος όροφος 210 6157188 info@osteon.gr Ιατρείο Αμαρουσίου Λεωφόρος Κηφισίας 153 & Βασ. Σοφίας 4, Μαρούσι, Αθήνα 151 24 210 8020620 / 6989 992472 info@osteon.gr Ιατρείο Γλυφάδας Λ. Δημάρχου Μεταξά Αγγ. 23, Γλυφάδα, Αθήνα 210 8982852 (Ωράριο: 15:00 – 21:00) / 6989 992472 info@osteon.gr Ιατρικό Κέντρο Αθηνών Κηφισίας 56 & Δελφών, Τ.Κ.15125 Μαρούσι, 6ος όροφος 210 6157188 info@osteon.gr <span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\"> </span> document.addEventListener('DOMContentLoaded', function() { // Debug function to help identify issues function debug(message) { console.log('ZP Locations Debug: ' + message); } // Function to update the map based on clicked location function updateMapFromLocation(locationItem) { debug('Location item clicked'); var mapDataElement = locationItem.querySelector('.location-map-data'); if (mapDataElement && mapDataElement.value) { debug('Found map data: ' + mapDataElement.value.substring(0, 50) + '...'); var mapContainer = document.querySelector('.zp-locations-map'); if (mapContainer) { debug('Updating map container'); mapContainer.innerHTML = mapDataElement.value; } else { debug('Map container not found'); } } else { debug('No map data found for this location'); } } // Make all location items clickable function initializeLocationClicks() { debug('Initializing location click events'); var locationItems = document.querySelectorAll('.zp-location-item'); debug('Found ' + locationItems.length + ' location items'); locationItems.forEach(function(item) { // Remove any existing click listeners first to avoid duplicates item.removeEventListener('click', handleLocationClick); // Add click listener item.addEventListener('click', handleLocationClick); // Make it visually clear it's clickable item.style.cursor = 'pointer'; debug('Added click listener to location item'); }); } // Separate handler function for location clicks function handleLocationClick(e) { e.stopPropagation(); // Prevent event bubbling var locationItem = this; debug('Location clicked: ' + (locationItem.querySelector('.zp-location-title')?.textContent || 'unnamed')); // Update map updateMapFromLocation(locationItem); // If this is a list item, also update the swiper var locationIndex = locationItem.getAttribute('data-location-index'); if (locationIndex !== null && locationSwiper && !locationItem.closest('.swiper-slide')) { debug('Updating swiper to index: ' + locationIndex); // Need to adjust for loop mode locationSwiper.slideTo(parseInt(locationIndex) + 1); } } // Initialize Swiper debug('Initializing swiper'); var locationSwiper = new Swiper('.locations-swiper', { // Optional parameters slidesPerView: 1, spaceBetween: 30, loop: false, // Navigation arrows navigation: { nextEl: '.swiper-button-next', prevEl: '.swiper-button-prev', }, // Responsive breakpoints breakpoints: { // when window width is >= 768px 768: { slidesPerView: 1, spaceBetween: 30 }, // when window width is >= 1024px 1024: { slidesPerView: 1, spaceBetween: 40 } }, on: { init: function() { debug('Swiper initialized'); // Initialize location clicks after swiper is ready setTimeout(initializeLocationClicks, 100); }, slideChange: function() { debug('Slide changed to index: ' + this.activeIndex); // When slide changes, update the map var activeSlide = this.slides[this.realIndex]; if (activeSlide) { var locationItem = activeSlide.querySelector('.zp-location-item'); if (locationItem) { updateMapFromLocation(locationItem); } else { debug('No location item found in active slide'); } } else { debug('Active slide not found'); } } } }); // Add a click event to the entire locations list area as a fallback var locationsList = document.querySelector('.zp-locations-list'); if (locationsList) { debug('Adding click listener to locations list'); locationsList.addEventListener('click', function(e) { // Find the closest location item to the click var locationItem = e.target.closest('.zp-location-item'); if (locationItem) { debug('Location item clicked from list container'); handleLocationClick.call(locationItem, e); } }); } // Initialize location clicks immediately initializeLocationClicks(); // Re-initialize location clicks after a short delay to ensure everything is loaded setTimeout(initializeLocationClicks, 500); }); Επικοινωνία Εάν αντιμετωπίζετε οποιοδήποτε πόνο ή ενόχληση, μη διστάσετε να επικοινωνήσετε μαζί μας. ΚΑΛΕΣΤΕ ΜΑΣ document.addEventListener('DOMContentLoaded', function() { const observer = new IntersectionObserver((entries) => { entries.forEach(entry => { if (entry.isIntersecting) { entry.target.classList.add('animate'); observer.unobserve(entry.target); // Σταματάμε την παρακολούθηση μετά την πρώτη εμφάνιση } }); }, { threshold: 0.5 }); document.querySelectorAll('.js-animate').forEach((el) => observer.observe(el)); }); Βρείτε μας ΚΛΙΝΙΚΗ ΑΜΑΡΟΥΣΙΟΥ Λ. Κηφισίας 153 & Βας. Σοφίας 4, Μαρούσι, 151 24 ΚΛΙΝΙΚΗ ΓΛΥΦΑΔΑΣ Λ. Δημάρχου Αγγέλου Μεταξά 23, Γλυφάδα, 166 75 ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ Λ. Κηφισίας 56 & Δελφών, Μαρούσι , 6ος όροφος, 151 25 Τηλέφωνα Κλινική Αμαρουσίου: 210 8020620 Κλινική Γλυφάδας: 210 8982852 Ιατρικό Κέντρο Αθηνών: 210 6157188 Κιν: 6989992472 Email info@osteon.gr Ακολουθήστε μας Αποκλειστικοί Συνεργάτες ΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥ ΟΡΟΙ ΧΡΗΣΗΣ ΠΟΛΙΤΙΚΗ ΠΕΡΙΕΧΟΜΕΝΟΥ © OSTEON, 2025 - 2026. All rights reserved. DESIGNED & DEVELOPED BY ZONEPAGE {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/Themelio-child/*\",\"/wp-content/themes/Themelio/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $(\"html\").addClass(\"ios\"); $(\"html\").addClass(\"mobile\"); } if (deviceAgent.match(/(Android)/)) { $(\"html\").addClass(\"android\"); $(\"html\").addClass(\"mobile\"); } if (navigator.userAgent.search(\"MSIE\") >= 0) { $(\"html\").addClass(\"ie\"); } else if (navigator.userAgent.search(\"Chrome\") >= 0) { $(\"html\").addClass(\"chrome\"); } else if (navigator.userAgent.search(\"Firefox\") >= 0) { $(\"html\").addClass(\"firefox\"); } else if (navigator.userAgent.search(\"Safari\") >= 0 && navigator.userAgent.search(\"Chrome\") < 0) { $(\"html\").addClass(\"safari\"); } else if (navigator.userAgent.search(\"Opera\") >= 0) { $(\"html\").addClass(\"opera\"); } }); /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); //# sourceURL=wp-i18n-js-after /* ]]> */ /* <![CDATA[ */ ( function( domain, translations ) { var localeData = translations.locale_data[ domain ] || translations.locale_data.messages; localeData[\"\"].domain = domain; wp.i18n.setLocaleData( localeData, domain ); } )( \"contact-form-7\", {\"translation-revision-date\":\"2024-08-02 09:16:28+0000\",\"generator\":\"GlotPress\\/4.0.1\",\"domain\":\"messages\",\"locale_data\":{\"messages\":{\"\":{\"domain\":\"messages\",\"plural-forms\":\"nplurals=2; plural=n != 1;\",\"lang\":\"el_GR\"},\"This contact form is placed in the wrong place.\":[\"\\u0397 \\u03c6\\u03cc\\u03c1\\u03bc\\u03b1 \\u03b5\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03af\\u03b1\\u03c2 \\u03b5\\u03af\\u03bd\\u03b1\\u03b9 \\u03c3\\u03b5 \\u03bb\\u03ac\\u03b8\\u03bf\\u03c2 \\u03b8\\u03ad\\u03c3\\u03b7.\"],\"Error:\":[\"\\u03a3\\u03c6\\u03ac\\u03bb\\u03bc\\u03b1:\"]}},\"comment\":{\"reference\":\"includes\\/js\\/index.js\"}} ); //# sourceURL=contact-form-7-js-translations /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/osteon.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; //# sourceURL=contact-form-7-js-before /* ]]> */ /* <![CDATA[ */ document.addEventListener(\"DOMContentLoaded\", function() { new Swiper(\".reviews-wrapper\", { slidesPerView: 1, spaceBetween: 30, loop: true, autoplay: { delay: 3000, disableOnInteraction: false, }, breakpoints: { 768: { slidesPerView: 1, }, 992: { slidesPerView: 2, }, 1024: { slidesPerView: 3, }, }, }); }); //# sourceURL=swiper-js-js-after /* ]]> */ {\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://osteon.gr/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4\"}} /* <![CDATA[ */ /*! This file is auto-generated */ const a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://osteon.gr/wp-includes/js/wp-emoji-loader.min.js /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/osteon.gr-home-b010ac46/team-doctors-pantos-panagiotis-f90b4bc5.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/osteon.gr-home-b010ac46/team-doctors-pantos-panagiotis-f90b4bc5.txt",
+      "imageReferences": [
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/02/Mask-group-10.png",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://osteon.gr/doctors/pantos-panagiotis",
+          "pageType": "team",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://osteon.gr/doctors/pantos-panagiotis",
+              "retrievedAt": "2026-03-31T13:18:21.484Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/02/logo-1.png",
+          "sourcePageUrl": "https://osteon.gr/doctors/pantos-panagiotis",
+          "pageType": "team",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/doctors/pantos-panagiotis",
+              "retrievedAt": "2026-03-31T13:18:21.484Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg",
+          "alt": "Αγγλικά",
+          "sourcePageUrl": "https://osteon.gr/doctors/pantos-panagiotis",
+          "pageType": "team",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/doctors/pantos-panagiotis",
+              "retrievedAt": "2026-03-31T13:18:21.484Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.svg",
+          "alt": "Ελληνικά",
+          "sourcePageUrl": "https://osteon.gr/doctors/pantos-panagiotis",
+          "pageType": "team",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/doctors/pantos-panagiotis",
+              "retrievedAt": "2026-03-31T13:18:21.484Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/02/fb-1.png",
+          "sourcePageUrl": "https://osteon.gr/doctors/pantos-panagiotis",
+          "pageType": "team",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/doctors/pantos-panagiotis",
+              "retrievedAt": "2026-03-31T13:18:21.484Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/02/insta.png",
+          "sourcePageUrl": "https://osteon.gr/doctors/pantos-panagiotis",
+          "pageType": "team",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/doctors/pantos-panagiotis",
+              "retrievedAt": "2026-03-31T13:18:21.484Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/02/linkedin.png",
+          "sourcePageUrl": "https://osteon.gr/doctors/pantos-panagiotis",
+          "pageType": "team",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/doctors/pantos-panagiotis",
+              "retrievedAt": "2026-03-31T13:18:21.484Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/02/youtube-1.png",
+          "sourcePageUrl": "https://osteon.gr/doctors/pantos-panagiotis",
+          "pageType": "team",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/doctors/pantos-panagiotis",
+              "retrievedAt": "2026-03-31T13:18:21.484Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/02/tiktok.png",
+          "sourcePageUrl": "https://osteon.gr/doctors/pantos-panagiotis",
+          "pageType": "team",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/doctors/pantos-panagiotis",
+              "retrievedAt": "2026-03-31T13:18:21.484Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/02/fb.png",
+          "sourcePageUrl": "https://osteon.gr/doctors/pantos-panagiotis",
+          "pageType": "team",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/doctors/pantos-panagiotis",
+              "retrievedAt": "2026-03-31T13:18:21.484Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/02/ins.png",
+          "sourcePageUrl": "https://osteon.gr/doctors/pantos-panagiotis",
+          "pageType": "team",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/doctors/pantos-panagiotis",
+              "retrievedAt": "2026-03-31T13:18:21.484Z"
+            }
+          ]
+        },
+        {
+          "url": "https://osteon.gr/wp-content/uploads/2025/02/link.png",
+          "sourcePageUrl": "https://osteon.gr/doctors/pantos-panagiotis",
+          "pageType": "team",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://osteon.gr/doctors/pantos-panagiotis",
+              "retrievedAt": "2026-03-31T13:18:21.484Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "team page fetch",
+          "uri": "https://osteon.gr/doctors/pantos-panagiotis",
+          "retrievedAt": "2026-03-31T13:18:21.486Z"
+        }
+      ],
+      "statusCode": 200
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "01 02 03 04 05",
+      "151 24 210 8020620 / 6989 992472",
+      "210 8982852",
+      "00) / 6989 992472",
+      "210 6157188",
+      "210 8020620",
+      "6989992472",
+      "2025 - 2026",
+      "2024-08-02 09",
+      "1999999999",
+      "2013-2015",
+      "2108020620",
+      "2108982852"
+    ],
+    "emails": [
+      "info@osteon.gr"
+    ],
+    "addresses": [
+      "Λεωφόρος Κηφισίας 153 & Βασ. Σοφίας 4, Μαρούσι, Αθήνα 151 24",
+      "Λ. Δημάρχου Μεταξά Αγγ. 23, Γλυφάδα, Αθήνα",
+      "Κηφισίας 56 & Δελφών, Τ.Κ.15125 Μαρούσι, 6ος όροφος",
+      "Βρείτε μας ΚΛΙΝΙΚΗ ΑΜΑΡΟΥΣΙΟΥ Λ. Κηφισίας 153 & Βας. Σοφίας 4, Μαρούσι, 151 24 ΚΛΙΝΙΚΗ ΓΛΥΦΑΔΑΣ Λ. Δημάρχου Αγγέλου Μεταξά 23, Γλυφάδα, 166 75 ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ Λ. Κηφισίας 56 & Δελφών, Μαρούσι , 6ος όροφος, 151 25 Τηλέφωνα Κλινική Αμαρουσίου: 210 8020620 Κλινική Γλυφάδας: 210 8982852 Ιατρικό Κέντρο Αθηνών: 210 6157188 Κιν: 6989992472 Email info@osteon.gr Ακολουθήστε μας Αποκλειστικοί Συνεργάτες ΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥ ΟΡΟΙ ΧΡΗΣΗΣ ΠΟΛΙΤΙΚΗ ΠΕΡΙΕΧΟΜΕΝΟΥ © OSTEON, 2025 - 2026. All rights reserved. DESIGNED & DEVELOPED BY ZONEPAGE",
+      "Λ. Κηφισίας 153 & Βας. Σοφίας 4, Μαρούσι, 151 24",
+      "Λ. Δημάρχου Αγγέλου Μεταξά 23, Γλυφάδα, 166 75",
+      "153 Kifissias Avenue & 4 Vas. Sofias Street, Maroussi, Athens 151 24",
+      "23 Dimarhou Metaxas Agg. Ave., 16675 Glyfada, Athens",
+      "56 Kifisias & Delphi, 15125 Maroussi, 6th floor",
+      "Find Us MAROUSI CLINIC 153 Kifisias Ave. & 4 Vas. Sofias Ave., Maroussi, 151 24 GLYFADA CLINIC 23 Dimarhou Angelou Metaxas Ave., Glyfada, 166 75 ATHENS MEDICAL CENTER 56 Kifisias Ave. & Delfon, Maroussi, 6th floor, 151 25 Phones Marousi Clinic: 210 8020620 Glyfada Clinic: 210 8982852 Athens Medical Center: 210 6157188 Mobile: 6989992472 Email info@osteon.gr Follow Us Exclusive Partners Privacy Policy Terms of Use Content Policy © OSTEON, 2025 - 2026. All rights reserved. DESIGNED & DEVELOPED BY ZONEPAGE",
+      "153 Kifisias Ave. & 4 Vas. Sofias Ave., Maroussi, 151 24",
+      "23 Dimarhou Angelou Metaxas Ave., Glyfada, 166 75"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/osteon.gr/"
+      },
+      {
+        "href": "https://www.instagram.com/osteon_clinic/"
+      },
+      {
+        "href": "https://gr.linkedin.com/company/osteon-clinic"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCeblLhzXS38Y4IGImD3HrjQ/videos"
+      },
+      {
+        "href": "http://tiktok.com/@osteon.clinic"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://osteon.gr/.lsrecap/recaptcha?",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [],
+        "submitLabels": [],
+        "fields": []
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Ορθοπεδικοί Χειρουργοί Αθήνα - Ορθοπεδική Κλινική OSTEON",
+    "metaDescription": "Ορθοπεδικοί Χειρουργοί Αθήνα. Εξειδίκευση - Σύγχρονες & Αποτελεσματικές Τεχνικές! Κλείστε τώρα ραντεβού με την ορθοπεδική κλινική OSTEON!",
+    "canonicalUrl": "https://osteon.gr/",
+    "language": "el",
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "openGraphTitle": "Ορθοπεδικοί Χειρουργοί Αθήνα - Ορθοπεδική Κλινική OSTEON",
+    "openGraphDescription": "Ορθοπεδικοί Χειρουργοί Αθήνα. Εξειδίκευση - Σύγχρονες & Αποτελεσματικές Τεχνικές! Κλείστε τώρα ραντεβού με την ορθοπεδική κλινική OSTEON!"
+  },
+  "imageReferences": [
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/02/logo-1.png",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg",
+      "alt": "Αγγλικά",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.svg",
+      "alt": "Ελληνικά",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/02/fb-1.png",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/02/insta.png",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/02/linkedin.png",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/02/youtube-1.png",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/02/tiktok.png",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/03/EUROSPINE_Siegel_0047_650x650px_WEB.png",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/06/SECEC-Certified-logo-2025-2029-no-background-1.png",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/06/Group-1171275013.png",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/06/ImplantCast-1.png",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/02/Mask-group-7.png",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://osteon.gr/doctors/sakellariou-vasilios",
+      "pageType": "team",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://osteon.gr/doctors/sakellariou-vasilios",
+          "retrievedAt": "2026-03-31T13:18:18.430Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/02/fb.png",
+      "sourcePageUrl": "https://osteon.gr/doctors/sakellariou-vasilios",
+      "pageType": "team",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/doctors/sakellariou-vasilios",
+          "retrievedAt": "2026-03-31T13:18:18.430Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/02/ins.png",
+      "sourcePageUrl": "https://osteon.gr/doctors/sakellariou-vasilios",
+      "pageType": "team",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/doctors/sakellariou-vasilios",
+          "retrievedAt": "2026-03-31T13:18:18.430Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/02/link.png",
+      "sourcePageUrl": "https://osteon.gr/doctors/sakellariou-vasilios",
+      "pageType": "team",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/doctors/sakellariou-vasilios",
+          "retrievedAt": "2026-03-31T13:18:18.430Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/02/Mask-group-10.png",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://osteon.gr/doctors/pantos-panagiotis",
+      "pageType": "team",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://osteon.gr/doctors/pantos-panagiotis",
+          "retrievedAt": "2026-03-31T13:18:21.484Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/02/Mask-group-9.png",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://osteon.gr/doctors/starantzis-konstantinos",
+      "pageType": "team",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://osteon.gr/doctors/starantzis-konstantinos",
+          "retrievedAt": "2026-03-31T13:18:24.926Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/10/logo-1.png",
+      "alt": "Logo",
+      "sourcePageUrl": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+      "pageType": "team",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+          "retrievedAt": "2026-03-31T13:18:28.273Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/10/fb-1.png",
+      "alt": "Icon",
+      "sourcePageUrl": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+      "pageType": "team",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+          "retrievedAt": "2026-03-31T13:18:28.273Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/10/insta.png",
+      "alt": "Icon",
+      "sourcePageUrl": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+      "pageType": "team",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+          "retrievedAt": "2026-03-31T13:18:28.273Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/10/linkedin.png",
+      "alt": "Icon",
+      "sourcePageUrl": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+      "pageType": "team",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+          "retrievedAt": "2026-03-31T13:18:28.273Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/10/youtube-1.png",
+      "alt": "Icon",
+      "sourcePageUrl": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+      "pageType": "team",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+          "retrievedAt": "2026-03-31T13:18:28.273Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/10/tiktok.png",
+      "alt": "Icon",
+      "sourcePageUrl": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+      "pageType": "team",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+          "retrievedAt": "2026-03-31T13:18:28.273Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/10/fb.png",
+      "alt": "Icon",
+      "sourcePageUrl": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+      "pageType": "team",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+          "retrievedAt": "2026-03-31T13:18:28.273Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/10/ins.png",
+      "alt": "Icon",
+      "sourcePageUrl": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+      "pageType": "team",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+          "retrievedAt": "2026-03-31T13:18:28.273Z"
+        }
+      ]
+    },
+    {
+      "url": "https://osteon.gr/wp-content/uploads/2025/10/link.png",
+      "alt": "Icon",
+      "sourcePageUrl": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+      "pageType": "team",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+          "retrievedAt": "2026-03-31T13:18:28.273Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "01 02 03 04 05",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "151 24 210 8020620 / 6989 992472",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 8982852",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "00) / 6989 992472",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 6157188",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 8020620",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "6989992472",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2025 - 2026",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2024-08-02 09",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1999999999",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@osteon.gr",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Λεωφόρος Κηφισίας 153 & Βασ. Σοφίας 4, Μαρούσι, Αθήνα 151 24",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Λ. Δημάρχου Μεταξά Αγγ. 23, Γλυφάδα, Αθήνα",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Κηφισίας 56 & Δελφών, Τ.Κ.15125 Μαρούσι, 6ος όροφος",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Βρείτε μας ΚΛΙΝΙΚΗ ΑΜΑΡΟΥΣΙΟΥ Λ. Κηφισίας 153 & Βας. Σοφίας 4, Μαρούσι, 151 24 ΚΛΙΝΙΚΗ ΓΛΥΦΑΔΑΣ Λ. Δημάρχου Αγγέλου Μεταξά 23, Γλυφάδα, 166 75 ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ Λ. Κηφισίας 56 & Δελφών, Μαρούσι , 6ος όροφος, 151 25 Τηλέφωνα Κλινική Αμαρουσίου: 210 8020620 Κλινική Γλυφάδας: 210 8982852 Ιατρικό Κέντρο Αθηνών: 210 6157188 Κιν: 6989992472 Email info@osteon.gr Ακολουθήστε μας Αποκλειστικοί Συνεργάτες ΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥ ΟΡΟΙ ΧΡΗΣΗΣ ΠΟΛΙΤΙΚΗ ΠΕΡΙΕΧΟΜΕΝΟΥ © OSTEON, 2025 - 2026. All rights reserved. DESIGNED & DEVELOPED BY ZONEPAGE",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Λ. Κηφισίας 153 & Βας. Σοφίας 4, Μαρούσι, 151 24",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Λ. Δημάρχου Αγγέλου Μεταξά 23, Γλυφάδα, 166 75",
+      "sourcePageUrl": "https://osteon.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://osteon.gr/",
+          "retrievedAt": "2026-03-31T13:18:13.623Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://osteon.gr/contact-us",
+      "sourcePageUrl": "https://osteon.gr/contact-us",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://osteon.gr/contact-us",
+          "retrievedAt": "2026-03-31T13:18:13.719Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://osteon.gr/contact-us",
+      "sourcePageUrl": "https://osteon.gr/contact-us",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://osteon.gr/contact-us",
+          "retrievedAt": "2026-03-31T13:18:13.719Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2013-2015",
+      "sourcePageUrl": "https://osteon.gr/doctors/sakellariou-vasilios",
+      "pageType": "team",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "team page",
+          "uri": "https://osteon.gr/doctors/sakellariou-vasilios",
+          "retrievedAt": "2026-03-31T13:18:18.430Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2108020620",
+      "sourcePageUrl": "https://osteon.gr/doctors/sakellariou-vasilios",
+      "pageType": "team",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "team page",
+          "uri": "https://osteon.gr/doctors/sakellariou-vasilios",
+          "retrievedAt": "2026-03-31T13:18:18.430Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2108982852",
+      "sourcePageUrl": "https://osteon.gr/doctors/pantos-panagiotis",
+      "pageType": "team",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "team page",
+          "uri": "https://osteon.gr/doctors/pantos-panagiotis",
+          "retrievedAt": "2026-03-31T13:18:21.484Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "153 Kifissias Avenue & 4 Vas. Sofias Street, Maroussi, Athens 151 24",
+      "sourcePageUrl": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+      "pageType": "team",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "team page",
+          "uri": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+          "retrievedAt": "2026-03-31T13:18:28.272Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "23 Dimarhou Metaxas Agg. Ave., 16675 Glyfada, Athens",
+      "sourcePageUrl": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+      "pageType": "team",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "team page",
+          "uri": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+          "retrievedAt": "2026-03-31T13:18:28.272Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "56 Kifisias & Delphi, 15125 Maroussi, 6th floor",
+      "sourcePageUrl": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+      "pageType": "team",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "team page",
+          "uri": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+          "retrievedAt": "2026-03-31T13:18:28.272Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Find Us MAROUSI CLINIC 153 Kifisias Ave. & 4 Vas. Sofias Ave., Maroussi, 151 24 GLYFADA CLINIC 23 Dimarhou Angelou Metaxas Ave., Glyfada, 166 75 ATHENS MEDICAL CENTER 56 Kifisias Ave. & Delfon, Maroussi, 6th floor, 151 25 Phones Marousi Clinic: 210 8020620 Glyfada Clinic: 210 8982852 Athens Medical Center: 210 6157188 Mobile: 6989992472 Email info@osteon.gr Follow Us Exclusive Partners Privacy Policy Terms of Use Content Policy © OSTEON, 2025 - 2026. All rights reserved. DESIGNED & DEVELOPED BY ZONEPAGE",
+      "sourcePageUrl": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+      "pageType": "team",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "team page",
+          "uri": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+          "retrievedAt": "2026-03-31T13:18:28.272Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "153 Kifisias Ave. & 4 Vas. Sofias Ave., Maroussi, 151 24",
+      "sourcePageUrl": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+      "pageType": "team",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "team page",
+          "uri": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+          "retrievedAt": "2026-03-31T13:18:28.272Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "23 Dimarhou Angelou Metaxas Ave., Glyfada, 166 75",
+      "sourcePageUrl": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+      "pageType": "team",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "team page",
+          "uri": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+          "retrievedAt": "2026-03-31T13:18:28.272Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://osteon.gr/",
+    "finalOrigin": "https://osteon.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://osteon.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:18:11.335Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [
+        "/wp-admin/admin-ajax.php"
+      ],
+      "disallowRules": [
+        "/wp-admin/"
+      ],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://osteon.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:18:09.873Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://osteon.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.625Z"
+      },
+      {
+        "url": "https://osteon.gr/contact-us",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/doctors/sakellariou-vasilios",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/doctors/pantos-panagiotis",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/doctors/starantzis-konstantinos",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/osteon",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/pistopoiiseis-diakriseis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/courses",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/efkaries-karieras",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/ypefthynoi-tmimaton",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/departments/pathiseon-ano-akrou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/conditions/osteoarthritida-omou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/conditions/riksi-tenonton-strofikou-petalou-omou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/conditions/tenontitida-omou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/conditions/asvestopoios-tenontitida-omou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/conditions/syndromo-karpiaiou-solina",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/conditions/tenontitida-de-quervain",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/conditions/eksarthrima-omou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/conditions/arthroplastiki-omou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.626Z"
+      },
+      {
+        "url": "https://osteon.gr/contact-us",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:13.739Z"
+      },
+      {
+        "url": "https://osteon.gr/doctors/sakellariou-vasilios",
+        "action": "fetched",
+        "pageTypeHint": "team",
+        "statusCode": 200,
+        "reason": "Fetched from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:18.437Z"
+      },
+      {
+        "url": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://osteon.gr/doctors/sakellariou-vasilios",
+        "timestamp": "2026-03-31T13:18:18.437Z"
+      },
+      {
+        "url": "https://osteon.gr/conditions/arthroskopisi-omou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/doctors/sakellariou-vasilios",
+        "timestamp": "2026-03-31T13:18:18.437Z"
+      },
+      {
+        "url": "https://osteon.gr/conditions/anastrofi-arthroplastiki-omou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/doctors/sakellariou-vasilios",
+        "timestamp": "2026-03-31T13:18:18.437Z"
+      },
+      {
+        "url": "https://osteon.gr/departments/pathiseon-spondylikis-stilis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/doctors/sakellariou-vasilios",
+        "timestamp": "2026-03-31T13:18:18.437Z"
+      },
+      {
+        "url": "https://osteon.gr/doctors/pantos-panagiotis",
+        "action": "fetched",
+        "pageTypeHint": "team",
+        "statusCode": 200,
+        "reason": "Fetched from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:21.486Z"
+      },
+      {
+        "url": "https://osteon.gr/en/doctors/panagiotis-g-pantos",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://osteon.gr/doctors/pantos-panagiotis",
+        "timestamp": "2026-03-31T13:18:21.486Z"
+      },
+      {
+        "url": "https://osteon.gr/doctors/starantzis-konstantinos",
+        "action": "fetched",
+        "pageTypeHint": "team",
+        "statusCode": 200,
+        "reason": "Fetched from https://osteon.gr/",
+        "timestamp": "2026-03-31T13:18:24.928Z"
+      },
+      {
+        "url": "https://osteon.gr/en/doctors/konstantinos-a-starantzis",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://osteon.gr/doctors/starantzis-konstantinos",
+        "timestamp": "2026-03-31T13:18:24.928Z"
+      },
+      {
+        "url": "https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "action": "fetched",
+        "pageTypeHint": "team",
+        "statusCode": 200,
+        "reason": "Fetched from https://osteon.gr/doctors/sakellariou-vasilios",
+        "timestamp": "2026-03-31T13:18:28.274Z"
+      },
+      {
+        "url": "https://osteon.gr/en/conditions/holistic-treatment-of-brain-gliomas",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/en/contact-us",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/en/team",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/en/osteon-2",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/en/courses",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/en/efkaries-karieras",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/en/departments/upper-limb",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/en/conditions/arthritis-shoulder-osteoarthritis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/en/conditions/shoulder-rotator-cuff-tendon-rupture",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/en/conditions/shoulder-tendonitis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/en/conditions/calcific-shoulder-tendonitis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/en/conditions/carpal-tunnel-syndrome",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/en/conditions/de-quervain-tendonitis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/en/conditions/shoulder-dislocation",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/en/conditions/shoulder-arthroplasty",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/en/conditions/shoulder-arthroscopy",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/en/conditions/reverse-shoulder-arthroplasty",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://osteon.gr/en/doctors/vassilios-i-sakellariou",
+        "timestamp": "2026-03-31T13:18:28.275Z"
+      },
+      {
+        "url": "https://osteon.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:18:34.070Z"
+      },
+      {
+        "url": "https://osteon.gr/contact-us",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:18:37.130Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "slug": "cardealership",
+  "source_url": "https://cardealership.virtualpros.com/",
+  "fetched_at_utc": "2026-04-06T11:43:51.086208+00:00",
+  "title": "",
+  "meta_description": "",
+  "hero": {
+    "heading": "Premium quality, vetted vehicles, half the price.",
+    "subheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "primary_cta": "Contact Us"
+  },
+  "sections": [
+    "Our Inventory",
+    "New Cars",
+    "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+    "Used Cars",
+    "Recent News",
+    "Our Commitment",
+    "High-Speed Quality Service",
+    "Vetted Used Vehicles"
+  ],
+  "ctas": [
+    "Home",
+    "About",
+    "Inventory",
+    "New Cars",
+    "Used Cars",
+    "Financing",
+    "Virtual Pros.",
+    "Contact Us",
+    "Talk to Our AI Agent+1 (469) 481-1086",
+    "View All",
+    "Browse New",
+    "Browse Used"
+  ],
+  "nav_labels": [
+    "Home",
+    "About",
+    "Inventory",
+    "New Cars",
+    "Used Cars",
+    "Financing",
+    "Virtual Pros."
+  ],
+  "paragraph_samples": [
+    "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "This award celebrates our commitment to excellence in providing a superior selection of new and used luxury vehicles, exceptional customer service, and our dedication to maintaining the highest standards of quality and safety."
+  ],
+  "fonts": [
+    "Lato",
+    "Open Sans",
+    "Montserrat",
+    "'Lato'",
+    "Exo",
+    "Exo 2",
+    "'Open Sans'",
+    "'Montserrat'"
+  ],
+  "palette": {
+    "css_variables": [
+      {
+        "name": "primary",
+        "value": "#37CA37"
+      },
+      {
+        "name": "secondary",
+        "value": "#188BF6"
+      },
+      {
+        "name": "white",
+        "value": "#FFFFFF"
+      },
+      {
+        "name": "gray",
+        "value": "#CBD5E0"
+      },
+      {
+        "name": "black",
+        "value": "#000000"
+      },
+      {
+        "name": "red",
+        "value": "#E93D3D"
+      },
+      {
+        "name": "orange",
+        "value": "#F6AD55"
+      },
+      {
+        "name": "yellow",
+        "value": "#FAF089"
+      },
+      {
+        "name": "green",
+        "value": "#9AE6B4"
+      },
+      {
+        "name": "teal",
+        "value": "#81E6D9"
+      },
+      {
+        "name": "malibu",
+        "value": "#63B3ED"
+      },
+      {
+        "name": "indigo",
+        "value": "#757BBD"
+      },
+      {
+        "name": "purple",
+        "value": "#D6BCFA"
+      },
+      {
+        "name": "pink",
+        "value": "#FBB6CE"
+      },
+      {
+        "name": "overlay",
+        "value": "rgba(0,0,0,0.5)"
+      },
+      {
+        "name": "color-lw1arf4l",
+        "value": "#E9E9E9"
+      },
+      {
+        "name": "color-lw1bdq9e",
+        "value": "#F8F8F8"
+      },
+      {
+        "name": "color-lw1kcmsd",
+        "value": "#060644"
+      },
+      {
+        "name": "cobalt",
+        "value": "#155EEF"
+      },
+      {
+        "name": "smoke",
+        "value": "#F5F5F5"
+      }
+    ],
+    "dominant_colors": [
+      {
+        "value": "#000000",
+        "count": 14
+      },
+      {
+        "value": "#FFFFFF",
+        "count": 9
+      },
+      {
+        "value": "rgb(255,255,255)",
+        "count": 6
+      },
+      {
+        "value": "#E9E9E9",
+        "count": 4
+      },
+      {
+        "value": "#060644",
+        "count": 4
+      },
+      {
+        "value": "#188BF6",
+        "count": 3
+      },
+      {
+        "value": "#CBD5E0",
+        "count": 3
+      },
+      {
+        "value": "#37CA37",
+        "count": 2
+      },
+      {
+        "value": "#9AE6B4",
+        "count": 2
+      },
+      {
+        "value": "#F8F8F8",
+        "count": 2
+      },
+      {
+        "value": "#CACACA",
+        "count": 2
+      },
+      {
+        "value": "#E93D3D",
+        "count": 1
+      },
+      {
+        "value": "#F6AD55",
+        "count": 1
+      },
+      {
+        "value": "#FAF089",
+        "count": 1
+      },
+      {
+        "value": "#81E6D9",
+        "count": 1
+      },
+      {
+        "value": "#63B3ED",
+        "count": 1
+      }
+    ],
+    "theme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    }
+  },
+  "assets": {
+    "images": [
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/69a5f60ac1cc2fc153978b91.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/f04c0293-d0c2-4bf3-8596-872b956f92f4.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/df673604-23cc-4985-8ada-76a87753291f.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/d8a402c0-b170-423b-b919-ab0ad59bc311.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/c552c6c7-360c-4e96-a58e-3d631ab13b84.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/9fb1be6d-63f1-4ff0-8862-6b21d6c3d735.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/33ca571b-5acf-449e-b381-88bedf2c5d68.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_768/u_https://assets.cdn.filesafe.space/n4lLPqZ3Dv19TQTebcB6/media/663eaf2a660aba64d58dfa1f.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_900/u_https://assets.cdn.filesafe.space/n4lLPqZ3Dv19TQTebcB6/media/663eaf2a660aba64d58dfa1f.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/n4lLPqZ3Dv19TQTebcB6/media/663eaf2a660aba64d58dfa1f.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_768/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/a0e5f5c9-a80e-46a8-a413-25646f438318.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_900/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/a0e5f5c9-a80e-46a8-a413-25646f438318.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/a0e5f5c9-a80e-46a8-a413-25646f438318.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_768/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/cd79a79e-a1de-4306-8e8a-54ad7ddddf8e.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_900/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/cd79a79e-a1de-4306-8e8a-54ad7ddddf8e.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/cd79a79e-a1de-4306-8e8a-54ad7ddddf8e.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_768/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/f8337acd-409f-46fa-9b52-30b2047b34f4.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_900/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/f8337acd-409f-46fa-9b52-30b2047b34f4.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/f8337acd-409f-46fa-9b52-30b2047b34f4.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_900/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/69a5f60ac1cc2fc153978b91.png"
+    ]
+  }
+}

@@ -1,0 +1,2062 @@
+{
+  "domain": "mycheckpoint.gr",
+  "collectedAt": "2026-03-31T13:16:21.230Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mycheckpoint.gr-home-7a0ab936",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://mycheckpoint.gr/",
+      "finalUrl": "https://mycheckpoint.gr/",
+      "fetchedAt": "2026-03-31T13:16:01.306Z",
+      "metadata": {
+        "title": "Αρχική - My Checkpoint",
+        "metaDescription": "Εδώ μπορείς να εξεταστείς γρήγορα, εμπιστευτικά και δωρεάν για HIV, σύφιλη και ηπατίτιδες Β και C και να συζητήσεις για θέματα σεξουαλικής υγείας.",
+        "canonicalUrl": "https://mycheckpoint.gr/",
+        "language": "el",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Αρχική - My Checkpoint",
+        "openGraphDescription": "Εδώ μπορείς να εξεταστείς γρήγορα, εμπιστευτικά και δωρεάν για HIV, σύφιλη και ηπατίτιδες Β και C και να συζητήσεις για θέματα σεξουαλικής υγείας.",
+        "openGraphImage": "https://mycheckpoint.gr/wp-content/uploads/2025/08/checkpoint-white.svg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Checkpointεξετάσεις για HIV, σύφιλη και ηπατίτιδες γρήγορα, δωρεάν, εμπιστευτικά"
+        },
+        {
+          "level": "h2",
+          "text": "#enatestakikanto"
+        },
+        {
+          "level": "h2",
+          "text": "Κλείσε ραντεβού, για να εξεταστείς γρήγορα, δωρεάν και εμπιστευτικά στα Checkpoint →"
+        },
+        {
+          "level": "h2",
+          "text": "Other Languages →"
+        },
+        {
+          "level": "h2",
+          "text": "Checkpoint in your language"
+        },
+        {
+          "level": "h2",
+          "text": "Schedule an appointment at Checkpoint →"
+        },
+        {
+          "level": "h2",
+          "text": "Πληροφορίες"
+        },
+        {
+          "level": "h2",
+          "text": "Νέα→"
+        },
+        {
+          "level": "h2",
+          "text": "Επικοινωνία"
+        },
+        {
+          "level": "h2",
+          "text": "Με μια ματιά→"
+        },
+        {
+          "level": "h2",
+          "text": "Σύλλογος Οροθετικών Ελλάδας"
+        },
+        {
+          "level": "h2",
+          "text": "Κέντρο Ενδυνάμωσης για Άτομα που Εργάζονται στο Σεξ"
+        },
+        {
+          "level": "h2",
+          "text": "Κέντρο Πρόληψης και Σεξουαλικής Υγείας για Πρόσφυγες, Μετανάστες και Αιτούντες Άσυλο"
+        },
+        {
+          "level": "h2",
+          "text": "Ath Checkpoint"
+        },
+        {
+          "level": "h2",
+          "text": "Thess Checkpoint"
+        },
+        {
+          "level": "h2",
+          "text": "Social"
+        },
+        {
+          "level": "h2",
+          "text": "AHF Europe"
+        },
+        {
+          "level": "h2",
+          "text": "Ραντεβού | Appointment"
+        },
+        {
+          "level": "h3",
+          "text": "Η πρόληψη στο επίκεντρο →"
+        },
+        {
+          "level": "h3",
+          "text": "Το λεξικό των ΣΜΝ →"
+        },
+        {
+          "level": "h3",
+          "text": "Παγκόσμια Ημέρα AIDS – Κάνε δωρεάν και γρήγορα το τσεκ σου για τον HIV"
+        },
+        {
+          "level": "h3",
+          "text": "Ευρωπαϊκή Εβδομάδα Εξέτασης – 17 με 24 Νοεμβρίου 2025"
+        },
+        {
+          "level": "h3",
+          "text": "Αντιμετωπίζοντας τους φόβους γύρω από τη σεξουαλική υγεία | Τετάρτη 19/11, 6μμ"
+        },
+        {
+          "level": "h3",
+          "text": "Open Air Party @ Pittaki street | Τετάρτη 11 Ιουνίου, 18:00"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://mycheckpoint.gr/"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/focus-prevention-gr/",
+          "label": "Η πρόληψη στο επίκεντρο →"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std/",
+          "label": "Το λεξικό των ΣΜΝ →"
+        },
+        {
+          "href": "https://mycheckpoint.gr/category/blog/",
+          "label": "Νέα→"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%b1%ce%b3%ce%ba%cf%8c%cf%83%ce%bc%ce%b9%ce%b1-%ce%b7%ce%bc%ce%ad%cf%81%ce%b1-aids-%ce%ba%ce%ac%ce%bd%ce%b5-%ce%b4%cf%89%cf%81%ce%b5%ce%ac%ce%bd-%ce%ba%ce%b1%ce%b9-%ce%b3%cf%81%ce%ae/",
+          "label": "Παγκόσμια Ημέρα AIDS – Κάνε δωρεάν και γρήγορα το τσεκ σου για τον HIV"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b5%cf%85%cf%81%cf%89%cf%80%ce%b1%cf%8a%ce%ba%ce%ae-%ce%b5%ce%b2%ce%b4%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1-%ce%b5%ce%be%ce%ad%cf%84%ce%b1%cf%83%ce%b7%cf%82-17-%ce%bc%ce%b5-24-%ce%bd%ce%bf%ce%b5%ce%bc/",
+          "label": "Ευρωπαϊκή Εβδομάδα Εξέτασης – 17 με 24 Νοεμβρίου 2025"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b1%ce%bd%cf%84%ce%b9%ce%bc%ce%b5%cf%84%cf%89%cf%80%ce%af%ce%b6%ce%bf%ce%bd%cf%84%ce%b1%cf%82-%cf%84%ce%bf%cf%85%cf%82-%cf%86%cf%8c%ce%b2%ce%bf%cf%85%cf%82-%ce%b3%cf%8d%cf%81%cf%89-%ce%b1%cf%80/",
+          "label": "Αντιμετωπίζοντας τους φόβους γύρω από τη σεξουαλική υγεία | Τετάρτη 19/11, 6μμ"
+        },
+        {
+          "href": "https://mycheckpoint.gr/open-air-party-pittaki-street-%cf%84%ce%b5%cf%84%ce%ac%cf%81%cf%84%ce%b7-11-%ce%b9%ce%bf%cf%85%ce%bd%ce%af%ce%bf%cf%85-1800/",
+          "label": "Open Air Party @ Pittaki street | Τετάρτη 11 Ιουνίου, 18:00"
+        },
+        {
+          "href": "https://mycheckpoint.gr/3494/",
+          "label": "HIV & χρήστες ψυχοδραστικών ουσιών"
+        },
+        {
+          "href": "https://mycheckpoint.gr/3492/",
+          "label": "HIV & εργαζόμενα άτομα στο σεξ"
+        },
+        {
+          "href": "https://mycheckpoint.gr/3405/",
+          "label": "HPV στις γυναίκες"
+        },
+        {
+          "href": "https://mycheckpoint.gr/3398/",
+          "label": "Πληροφορίες για τον HPV"
+        },
+        {
+          "href": "https://mycheckpoint.gr/3396/",
+          "label": "Ηπατίτιδα C (HCV)"
+        },
+        {
+          "href": "https://mycheckpoint.gr/3394/",
+          "label": "Ηπατίτιδα Β (HBV)"
+        },
+        {
+          "href": "https://mycheckpoint.gr/hiv-aids/",
+          "label": "Πληροφορίες για το HIV/AIDS"
+        },
+        {
+          "href": "https://mycheckpoint.gr/3381/",
+          "label": "Ψείρες των γεννητικών οργάνων"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/",
+          "label": "Ποιοι είμαστε"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/ath-checkpoint/",
+          "label": "Ath Checkpoint"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/thess-checkpoint/",
+          "label": "Thess Checkpoint"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/%ce%ba%ce%b9%ce%bd%ce%b7%cf%84%ce%ae-%ce%bc%ce%bf%ce%bd%ce%ac%ce%b4%ce%b1-checkpoint/",
+          "label": "Κινητές Μονάδες Πρόληψης “Checkpoint”"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/refcheckpoint/",
+          "label": "RefCheckpoint"
+        },
+        {
+          "href": "https://mycheckpoint.gr/1466-2/",
+          "label": "Χορηγοί / Υποστηρικτές"
+        },
+        {
+          "href": "https://mycheckpoint.gr/ypostirixe-mas/",
+          "label": "Υποστήριξέ μας"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ae-cookies-%ce%b5%ce%b5/",
+          "label": "Πολιτική Cookies (ΕΕ)"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "210 33 10 400",
+          "2310 282 284"
+        ],
+        "emails": [
+          "info@athcheckpoint.gr"
+        ],
+        "addresses": [
+          "ATHAth Checkpoint Πιττάκη 4, Μοναστηράκι, Αθήνα Τηλ.: 210 33 10 400 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Pittaki 4, Monastiraki, Athens Phone : 210 33 10 400 Tue - Sat : 12:00 – 20:00THESSThess Checkpoint Εγνατία οδός 112, 3ος όροφος, Θεσσαλονίκη Τηλ : 2310 282 284 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Egnatia Odos 112, 3rd floor, Thesaloniki Phone : 2310 282 284 Tue: – Sat.: 12:00 – 20:00CONNECTSocial AHFAHF Europe INFOΡαντεβού | Appointment Κλείσε ραντεβού στα Checkpoint → Schedule an appointment at Checkpoint →"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/myCheckpointGR"
+          },
+          {
+            "href": "https://www.instagram.com/my.checkpoint/"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "ATHAth Checkpoint Πιττάκη 4, Μοναστηράκι, Αθήνα Τηλ.: 210 33 10 400 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Pittaki 4, Monastiraki, Athens Phone : 210 33 10 400 Tue - Sat : 12:00 – 20:00THESSThess Checkpoint Εγνατία οδός 112, 3ος όροφος, Θεσσαλονίκη Τηλ : 2310 282 284 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Egnatia Odos 112, 3rd floor, Thesaloniki Phone : 2310 282 284 Tue: – Sat.: 12:00 – 20:00CONNECTSocial AHFAHF Europe INFOΡαντεβού | Appointment Κλείσε ραντεβού στα Checkpoint → Schedule an appointment at Checkpoint →",
+      "textContent": "Ελληνικά Checkpointεξετάσεις για HIV, σύφιλη και ηπατίτιδες γρήγορα, δωρεάν, εμπιστευτικά#enatestakikantoΚλείσε ραντεβού, για να εξεταστείς γρήγορα, δωρεάν και εμπιστευτικά στα Checkpoint → Other Languages → Καλώς ήρθες στα Κέντρα Πρόληψης και Σεξουαλικής Υγείας «Checkpoint», τις δομές όπου μπορείς να εξεταστείς με μία σταγόνα αίμα από το δάχτυλο, γρήγορα, εμπιστευτικά και δωρεάν, για HIV, σύφιλη και ηπατίτιδες Β και C και να συζητήσεις με το εξειδικευμένο προσωπικό μας για θέματα σεξουαλικής αγωγής και υγείας. Είμαστε εδώ για να σε βοηθήσουμε να νιώσεις αυτοπεποίθηση και να αποκτήσεις γνώση για τη σεξουαλική σου υγεία, ανεξάρτητα από το σεξουαλικό σου προσανατολισμό, την ταυτότητα φύλου σου και τις σεξουαλικές πρακτικές που ακολουθείς. Τα «Checkpoint» βρίσκονται στην Αθήνα και στη Θεσσαλονίκη, σε κεντρικά και εύκολα προσβάσιμα σημεία. Δεν έχεις παρά να τηλεφωνήσεις, να κλείσεις online / μέσω εφαρμογής → ή να περάσεις από τα γραφεία μας για να κλείσεις ένα ραντεβού την ώρα που σε βολεύει. Να θυμάσαι ότι το «Ath Checkpoint» λειτουργεί καθημερινά από την Τρίτη έως και το Σάββατο από τις 12:00 έως τις 20:00, ενώ το «Thess Checkpoint» λειτουργεί από την Τρίτη έως το Σάββατο από τις 12:00 έως τις 20:00.Checkpoint in your language EnglishFrançaisالعربيةفارسیاردوSchedule an appointment at Checkpoint → ΠληροφορίεςΗ πρόληψη στο επίκεντρο → Το λεξικό των ΣΜΝ → Νέα→Παγκόσμια Ημέρα AIDS – Κάνε δωρεάν και γρήγορα το τσεκ σου για τον HIV Ευρωπαϊκή Εβδομάδα Εξέτασης – 17 με 24 Νοεμβρίου 2025 Αντιμετωπίζοντας τους φόβους γύρω από τη σεξουαλική υγεία | Τετάρτη 19/11, 6μμ Open Air Party @ Pittaki street | Τετάρτη 11 Ιουνίου, 18:00 ΕπικοινωνίαΠερισσότεραΜε μια ματιά→HIV & χρήστες ψυχοδραστικών ουσιών HIV & εργαζόμενα άτομα στο σεξ HPV στις γυναίκες Πληροφορίες για τον HPV Ηπατίτιδα C (HCV) Ηπατίτιδα Β (HBV) Πληροφορίες για το HIV/AIDS Ψείρες των γεννητικών οργάνων Σύλλογος Οροθετικών Ελλάδας Κέντρο Ενδυνάμωσης για Άτομα που Εργάζονται στο Σεξ Κέντρο Πρόληψης και Σεξουαλικής Υγείας για Πρόσφυγες, Μετανάστες και Αιτούντες Άσυλο ATHAth Checkpoint Πιττάκη 4, Μοναστηράκι, Αθήνα Τηλ.: 210 33 10 400 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Pittaki 4, Monastiraki, Athens Phone : 210 33 10 400 Tue - Sat : 12:00 – 20:00THESSThess Checkpoint Εγνατία οδός 112, 3ος όροφος, Θεσσαλονίκη Τηλ : 2310 282 284 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Egnatia Odos 112, 3rd floor, Thesaloniki Phone : 2310 282 284 Tue: – Sat.: 12:00 – 20:00CONNECTSocial AHFAHF Europe INFOΡαντεβού | Appointment Κλείσε ραντεβού στα Checkpoint → Schedule an appointment at Checkpoint →ΑρχικήΠοιοι είμαστε←Ath CheckpointThess CheckpointΚινητές Μονάδες Πρόληψης “Checkpoint”RefCheckpointΗ πρόληψη στο επίκεντροΤο λεξικό των ΣΜΝΧορηγοί / ΥποστηρικτέςΥποστήριξέ μαςΕπικοινωνίαPartner NotificationΕθελοντισμόςΡαντεβούΠολιτική Cookies (ΕΕ)ΕλληνικάEnglishFrançaisالعربيةفارسیاردو{\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/pro/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} Διαχείριση συγκατάθεσης Για να παρέχουμε την καλύτερη εμπειρία, χρησιμοποιούμε τεχνολογίες όπως cookies για την αποθήκευση ή/και την πρόσβαση σε πληροφορίες συσκευών. Η μη συγκατάθεση ή η ανάκληση της συγκατάθεσης, μπορεί να επηρεάσει αρνητικά ορισμένες λειτουργίες και δυνατότητες. Λειτουργικά Λειτουργικά Πάντα ενεργό Η τεχνική αποθήκευση ή πρόσβαση είναι απολύτως απαραίτητη για τον νόμιμο σκοπό της δυνατότητας χρήσης συγκεκριμένης υπηρεσίας που ζητείται ρητά από τον συνδρομητή ή τον χρήστη ή με αποκλειστικό σκοπό τη μετάδοση επικοινωνίας μέσω δικτύου ηλεκτρονικών επικοινωνιών. Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Στατιστικά Στατιστικά The technical storage or access that is used exclusively for statistical purposes. Η τεχνική αποθήκευση ή πρόσβαση που χρησιμοποιείται αποκλειστικά για ανώνυμους στατιστικούς σκοπούς. Χωρίς κλήτευση, η εθελοντική συμμόρφωση εκ μέρους του Παρόχου Υπηρεσιών Διαδικτύου ή πρόσθετες καταγραφές από τρίτο μέρος, οι πληροφορίες που αποθηκεύονται ή ανακτώνται για το σκοπό αυτό από μόνες τους δεν μπορούν συνήθως να χρησιμοποιηθούν για την αναγνώρισή σας. Marketing Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. Διαχείριση επιλογών Διαχείριση υπηρεσιών Manage {vendor_count} vendors Διαβάστε περισσότερα για αυτούς τους σκοπούς Αποδοχή Άρνηση Προτιμήσεις Αποθήκευση Προτιμήσεις {title} {title} {title} Διαχείριση συγκατάθεσης /* <![CDATA[ */ var csJsData = {\"linkSelector\":\"a[href*=\\\"#\\\"]\",\"bp\":{\"base\":4,\"ranges\":[0,480,767,979,1200],\"count\":4}}; //# sourceURL=cs-js-extra /* ]]> */ /* <![CDATA[ */ var xJsData = {\"icons\":{\"down\":\"\\u003Ci class='x-framework-icon x-icon-angle-double-down' data-x-icon-s='&#xf103;' aria-hidden=true\\u003E\\u003C/i\\u003E\",\"subindicator\":\"\\u003Ci class=\\\"x-icon x-framework-icon x-icon-angle-double-down\\\" aria-hidden=\\\"true\\\" data-x-icon-s=\\\"&#xf103;\\\"\\u003E\\u003C/i\\u003E\",\"previous\":\"\\u003Ci class='x-framework-icon x-icon-previous' data-x-icon-s='&#xf053;' aria-hidden=true\\u003E\\u003C/i\\u003E\",\"next\":\"\\u003Ci class='x-framework-icon x-icon-next' data-x-icon-s='&#xf054;' aria-hidden=true\\u003E\\u003C/i\\u003E\",\"star\":\"\\u003Ci class='x-framework-icon x-icon-star' data-x-icon-s='&#xf005;' aria-hidden=true\\u003E\\u003C/i\\u003E\"}}; //# sourceURL=x-site-js-extra /* ]]> */ /* <![CDATA[ */ var complianz = {\"prefix\":\"cmplz_\",\"user_banner_id\":\"1\",\"set_cookies\":[],\"block_ajax_content\":\"\",\"banner_version\":\"36\",\"version\":\"7.4.5\",\"store_consent\":\"\",\"do_not_track_enabled\":\"\",\"consenttype\":\"optin\",\"region\":\"eu\",\"geoip\":\"\",\"dismiss_timeout\":\"\",\"disable_cookiebanner\":\"\",\"soft_cookiewall\":\"\",\"dismiss_on_scroll\":\"\",\"cookie_expiry\":\"365\",\"url\":\"https://mycheckpoint.gr/wp-json/complianz/v1/\",\"locale\":\"lang=el&locale=el\",\"set_cookies_on_root\":\"\",\"cookie_domain\":\"\",\"current_policy_id\":\"41\",\"cookie_path\":\"/\",\"categories\":{\"statistics\":\"\\u03c3\\u03c4\\u03b1\\u03c4\\u03b9\\u03c3\\u03c4\\u03b9\\u03ba\\u03ac\",\"marketing\":\"\\u03b5\\u03bc\\u03c0\\u03bf\\u03c1\\u03b9\\u03ba\\u03ae\\u03c2 \\u03c0\\u03c1\\u03bf\\u03ce\\u03b8\\u03b7\\u03c3\\u03b7\\u03c2\"},\"tcf_active\":\"\",\"placeholdertext\":\"\\u003Cdiv class=\\\"cmplz-blocked-content-notice-body\\\"\\u003E\\u039a\\u03ac\\u03bd\\u03c4\\u03b5 \\u03ba\\u03bb\\u03b9\\u03ba \\u03c3\\u03c4\\u03bf \\u03ba\\u03bf\\u03c5\\u03bc\\u03c0\\u03af '\\u03a3\\u03c5\\u03bc\\u03c6\\u03c9\\u03bd\\u03ce' \\u03b3\\u03b9\\u03b1 \\u03bd\\u03b1 \\u03b5\\u03bd\\u03b5\\u03c1\\u03b3\\u03bf\\u03c0\\u03bf\\u03b9\\u03ae\\u03c3\\u03b5\\u03c4\\u03b5 \\u03c4\\u03bf {service}.\\u00a0\\u003Cdiv class=\\\"cmplz-links\\\"\\u003E\\u003Ca href=\\\"#\\\" class=\\\"cmplz-link cookie-statement\\\"\\u003E{title}\\u003C/a\\u003E\\u003C/div\\u003E\\u003C/div\\u003E\\u003Cbutton class=\\\"cmplz-accept-service\\\"\\u003E\\u03a3\\u03c5\\u03bc\\u03c6\\u03c9\\u03bd\\u03ce\\u003C/button\\u003E\",\"css_file\":\"https://mycheckpoint.gr/wp-content/uploads/complianz/css/banner-{banner_id}-{type}.css?v=36\",\"page_links\":{\"eu\":{\"cookie-statement\":{\"title\":\"\\u03a0\\u03bf\\u03bb\\u03b9\\u03c4\\u03b9\\u03ba\\u03ae Cookies \",\"url\":\"https://mycheckpoint.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ae-cookies-%ce%b5%ce%b5/\"}}},\"tm_categories\":\"\",\"forceEnableStats\":\"\",\"preview\":\"\",\"clean_cookies\":\"1\",\"aria_label\":\"\\u03a0\\u03b1\\u03c4\\u03ae\\u03c3\\u03c4\\u03b5 \\u03c4\\u03bf \\u03ba\\u03bf\\u03c5\\u03bc\\u03c0\\u03af \\u03b3\\u03b9\\u03b1 \\u03bd\\u03b1 \\u03b5\\u03bd\\u03b5\\u03c1\\u03b3\\u03bf\\u03c0\\u03bf\\u03b9\\u03ae\\u03c3\\u03b5\\u03c4\\u03b5 \\u03c4\\u03bf {service}\"}; //# sourceURL=cmplz-cookiebanner-js-extra /* ]]> */ window['gtag_enable_tcf_support'] = false; window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-H2KYMBKE8J', { cookie_flags:'secure;samesite=none', }); (function() { 'use strict'; var parentSelector = '.menu-item.wpml-ls-current-language.menu-item-has-children'; function toggleSubmenu(link, forceClose) { var isExpanded = link.getAttribute('aria-expanded') === 'true'; if (forceClose || isExpanded) { link.setAttribute('aria-expanded', 'false'); } else { link.setAttribute('aria-expanded', 'true'); } } function handleKeydown(e) { var key = e.key || e.keyCode; if (key === 'Enter' || key === ' ' || key === 13 || key === 32) { e.preventDefault(); toggleSubmenu(this); } else if (key === 'Escape' || key === 'Esc' || key === 27) { if (this.getAttribute('aria-expanded') === 'true') { e.preventDefault(); toggleSubmenu(this, true); } } } function handleBlur(e) { var link = this; var parent = link.closest(parentSelector); if (!parent) return; setTimeout(function() { if (!parent.contains(document.activeElement)) { toggleSubmenu(link, true); } }, 100); } function init() { var parents = document.querySelectorAll(parentSelector); for (var i = 0; i < parents.length; i++) { var link = parents[i].querySelector('a[aria-expanded]'); if (link) { link.addEventListener('keydown', handleKeydown); link.addEventListener('blur', handleBlur); } } } if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', init); } else { init(); } })();",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mycheckpoint.gr-home-7a0ab936/homepage--7a0ab936.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mycheckpoint.gr-home-7a0ab936/homepage--7a0ab936.txt",
+      "imageReferences": [
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/checkpoint-white.svg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://mycheckpoint.gr/",
+          "pageType": "homepage",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://mycheckpoint.gr/",
+              "retrievedAt": "2026-03-31T13:16:01.304Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/checkpoint.svg",
+          "alt": "Checkpoint Logo",
+          "sourcePageUrl": "https://mycheckpoint.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/",
+              "retrievedAt": "2026-03-31T13:16:01.304Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.svg",
+          "sourcePageUrl": "https://mycheckpoint.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/",
+              "retrievedAt": "2026-03-31T13:16:01.304Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/positivesmall.png",
+          "alt": "Positive Voice",
+          "sourcePageUrl": "https://mycheckpoint.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/",
+              "retrievedAt": "2026-03-31T13:16:01.304Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/06/rua_athens_thess-1-scaled.png",
+          "alt": "Red Umbrella",
+          "sourcePageUrl": "https://mycheckpoint.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/",
+              "retrievedAt": "2026-03-31T13:16:01.304Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/ref-checkpoint-gr-1.png",
+          "alt": "Ref Checkpoint",
+          "sourcePageUrl": "https://mycheckpoint.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/",
+              "retrievedAt": "2026-03-31T13:16:01.304Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/AHF-Europe-1.svg",
+          "alt": "AHF Europe",
+          "sourcePageUrl": "https://mycheckpoint.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/",
+              "retrievedAt": "2026-03-31T13:16:01.304Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/06/mycheckpoint-scaled-1-scaled.png",
+          "alt": "My Checkpoint",
+          "sourcePageUrl": "https://mycheckpoint.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/",
+              "retrievedAt": "2026-03-31T13:16:01.304Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://mycheckpoint.gr/",
+          "retrievedAt": "2026-03-31T13:16:01.306Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mycheckpoint.gr-home-7a0ab936/homepage-page-7a0ab936.png"
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "finalUrl": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "fetchedAt": "2026-03-31T13:16:03.588Z",
+      "metadata": {
+        "title": "Επικοινωνία",
+        "metaDescription": "Επικοινωνία",
+        "canonicalUrl": "https://mycheckpoint.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%AF%CE%B1/",
+        "language": "el",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Επικοινωνία",
+        "openGraphDescription": "Επικοινωνία"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Επικοινωνία"
+        },
+        {
+          "level": "h2",
+          "text": "ATH CHECKPOINT"
+        },
+        {
+          "level": "h2",
+          "text": "THESS CHECKPOINT"
+        },
+        {
+          "level": "h2",
+          "text": "Ath Checkpoint"
+        },
+        {
+          "level": "h2",
+          "text": "Thess Checkpoint"
+        },
+        {
+          "level": "h2",
+          "text": "Social"
+        },
+        {
+          "level": "h2",
+          "text": "AHF Europe"
+        },
+        {
+          "level": "h2",
+          "text": "Ραντεβού | Appointment"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://mycheckpoint.gr/"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1/",
+          "label": "Ελληνικά"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/",
+          "label": "Ποιοι είμαστε"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/ath-checkpoint/",
+          "label": "Ath Checkpoint"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/thess-checkpoint/",
+          "label": "Thess Checkpoint"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/%ce%ba%ce%b9%ce%bd%ce%b7%cf%84%ce%ae-%ce%bc%ce%bf%ce%bd%ce%ac%ce%b4%ce%b1-checkpoint/",
+          "label": "Κινητές Μονάδες Πρόληψης “Checkpoint”"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/refcheckpoint/",
+          "label": "RefCheckpoint"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/focus-prevention-gr/",
+          "label": "Η πρόληψη στο επίκεντρο"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std/",
+          "label": "Το λεξικό των ΣΜΝ"
+        },
+        {
+          "href": "https://mycheckpoint.gr/1466-2/",
+          "label": "Χορηγοί / Υποστηρικτές"
+        },
+        {
+          "href": "https://mycheckpoint.gr/ypostirixe-mas/",
+          "label": "Υποστήριξέ μας"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ae-cookies-%ce%b5%ce%b5/",
+          "label": "Πολιτική Cookies (ΕΕ)"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "210 33 10 400",
+          "2310 282 284"
+        ],
+        "emails": [
+          "info@athcheckpoint.gr"
+        ],
+        "addresses": [
+          "ATHAth Checkpoint Πιττάκη 4, Μοναστηράκι, Αθήνα Τηλ.: 210 33 10 400 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Pittaki 4, Monastiraki, Athens Phone : 210 33 10 400 Tue - Sat : 12:00 – 20:00THESSThess Checkpoint Εγνατία οδός 112, 3ος όροφος, Θεσσαλονίκη Τηλ : 2310 282 284 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Egnatia Odos 112, 3rd floor, Thesaloniki Phone : 2310 282 284 Tue: – Sat.: 12:00 – 20:00CONNECTSocial AHFAHF Europe INFOΡαντεβού | Appointment Κλείσε ραντεβού στα Checkpoint → Schedule an appointment at Checkpoint →"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/myCheckpointGR"
+          },
+          {
+            "href": "https://www.instagram.com/my.checkpoint/"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "ATHAth Checkpoint Πιττάκη 4, Μοναστηράκι, Αθήνα Τηλ.: 210 33 10 400 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Pittaki 4, Monastiraki, Athens Phone : 210 33 10 400 Tue - Sat : 12:00 – 20:00THESSThess Checkpoint Εγνατία οδός 112, 3ος όροφος, Θεσσαλονίκη Τηλ : 2310 282 284 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Egnatia Odos 112, 3rd floor, Thesaloniki Phone : 2310 282 284 Tue: – Sat.: 12:00 – 20:00CONNECTSocial AHFAHF Europe INFOΡαντεβού | Appointment Κλείσε ραντεβού στα Checkpoint → Schedule an appointment at Checkpoint →",
+      "textContent": "Ελληνικά ΕπικοινωνίαATH CHECKPOINT Πιττάκη 4, Μοναστηράκι, ΑθήναΤηλ.: 210 33 10 400Τρ. – Σαβ.: 12:00 – 20:00 Pittaki 4, Monastiraki, AthensPhone : 210 33 10 400Tue – Sat : 12:00 – 20:00 THESS CHECKPOINT Εγνατία οδός 112, 3ος όροφος, ΘεσσαλονίκηΤηλ : 2310 282 284Τρ. – Σαβ.: 12:00 – 20:00 Egnatia Odos 112, 3rd floor, ThesalonikiPhone : 2310 282 284Tue: – Sat.: 12:00 – 20:00 ATHAth Checkpoint Πιττάκη 4, Μοναστηράκι, Αθήνα Τηλ.: 210 33 10 400 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Pittaki 4, Monastiraki, Athens Phone : 210 33 10 400 Tue - Sat : 12:00 – 20:00THESSThess Checkpoint Εγνατία οδός 112, 3ος όροφος, Θεσσαλονίκη Τηλ : 2310 282 284 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Egnatia Odos 112, 3rd floor, Thesaloniki Phone : 2310 282 284 Tue: – Sat.: 12:00 – 20:00CONNECTSocial AHFAHF Europe INFOΡαντεβού | Appointment Κλείσε ραντεβού στα Checkpoint → Schedule an appointment at Checkpoint →ΑρχικήΠοιοι είμαστε←Ath CheckpointThess CheckpointΚινητές Μονάδες Πρόληψης “Checkpoint”RefCheckpointΗ πρόληψη στο επίκεντροΤο λεξικό των ΣΜΝΧορηγοί / ΥποστηρικτέςΥποστήριξέ μαςΕπικοινωνίαPartner NotificationΕθελοντισμόςΡαντεβούΠολιτική Cookies (ΕΕ)Ελληνικά{\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/pro/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} Διαχείριση συγκατάθεσης Για να παρέχουμε την καλύτερη εμπειρία, χρησιμοποιούμε τεχνολογίες όπως cookies για την αποθήκευση ή/και την πρόσβαση σε πληροφορίες συσκευών. Η μη συγκατάθεση ή η ανάκληση της συγκατάθεσης, μπορεί να επηρεάσει αρνητικά ορισμένες λειτουργίες και δυνατότητες. Λειτουργικά Λειτουργικά Πάντα ενεργό Η τεχνική αποθήκευση ή πρόσβαση είναι απολύτως απαραίτητη για τον νόμιμο σκοπό της δυνατότητας χρήσης συγκεκριμένης υπηρεσίας που ζητείται ρητά από τον συνδρομητή ή τον χρήστη ή με αποκλειστικό σκοπό τη μετάδοση επικοινωνίας μέσω δικτύου ηλεκτρονικών επικοινωνιών. Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Στατιστικά Στατιστικά The technical storage or access that is used exclusively for statistical purposes. Η τεχνική αποθήκευση ή πρόσβαση που χρησιμοποιείται αποκλειστικά για ανώνυμους στατιστικούς σκοπούς. Χωρίς κλήτευση, η εθελοντική συμμόρφωση εκ μέρους του Παρόχου Υπηρεσιών Διαδικτύου ή πρόσθετες καταγραφές από τρίτο μέρος, οι πληροφορίες που αποθηκεύονται ή ανακτώνται για το σκοπό αυτό από μόνες τους δεν μπορούν συνήθως να χρησιμοποιηθούν για την αναγνώρισή σας. Marketing Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. Διαχείριση επιλογών Διαχείριση υπηρεσιών Manage {vendor_count} vendors Διαβάστε περισσότερα για αυτούς τους σκοπούς Αποδοχή Άρνηση Προτιμήσεις Αποθήκευση Προτιμήσεις {title} {title} {title} Διαχείριση συγκατάθεσης /* <![CDATA[ */ var csJsData = {\"linkSelector\":\"a[href*=\\\"#\\\"]\",\"bp\":{\"base\":4,\"ranges\":[0,480,767,979,1200],\"count\":4}}; //# sourceURL=cs-js-extra /* ]]> */ /* <![CDATA[ */ var xJsData = {\"icons\":{\"down\":\"\\u003Ci class='x-framework-icon x-icon-angle-double-down' data-x-icon-s='&#xf103;' aria-hidden=true\\u003E\\u003C/i\\u003E\",\"subindicator\":\"\\u003Ci class=\\\"x-icon x-framework-icon x-icon-angle-double-down\\\" aria-hidden=\\\"true\\\" data-x-icon-s=\\\"&#xf103;\\\"\\u003E\\u003C/i\\u003E\",\"previous\":\"\\u003Ci class='x-framework-icon x-icon-previous' data-x-icon-s='&#xf053;' aria-hidden=true\\u003E\\u003C/i\\u003E\",\"next\":\"\\u003Ci class='x-framework-icon x-icon-next' data-x-icon-s='&#xf054;' aria-hidden=true\\u003E\\u003C/i\\u003E\",\"star\":\"\\u003Ci class='x-framework-icon x-icon-star' data-x-icon-s='&#xf005;' aria-hidden=true\\u003E\\u003C/i\\u003E\"}}; //# sourceURL=x-site-js-extra /* ]]> */ /* <![CDATA[ */ var complianz = {\"prefix\":\"cmplz_\",\"user_banner_id\":\"1\",\"set_cookies\":[],\"block_ajax_content\":\"\",\"banner_version\":\"36\",\"version\":\"7.4.5\",\"store_consent\":\"\",\"do_not_track_enabled\":\"\",\"consenttype\":\"optin\",\"region\":\"eu\",\"geoip\":\"\",\"dismiss_timeout\":\"\",\"disable_cookiebanner\":\"\",\"soft_cookiewall\":\"\",\"dismiss_on_scroll\":\"\",\"cookie_expiry\":\"365\",\"url\":\"https://mycheckpoint.gr/wp-json/complianz/v1/\",\"locale\":\"lang=el&locale=el\",\"set_cookies_on_root\":\"\",\"cookie_domain\":\"\",\"current_policy_id\":\"41\",\"cookie_path\":\"/\",\"categories\":{\"statistics\":\"\\u03c3\\u03c4\\u03b1\\u03c4\\u03b9\\u03c3\\u03c4\\u03b9\\u03ba\\u03ac\",\"marketing\":\"\\u03b5\\u03bc\\u03c0\\u03bf\\u03c1\\u03b9\\u03ba\\u03ae\\u03c2 \\u03c0\\u03c1\\u03bf\\u03ce\\u03b8\\u03b7\\u03c3\\u03b7\\u03c2\"},\"tcf_active\":\"\",\"placeholdertext\":\"\\u003Cdiv class=\\\"cmplz-blocked-content-notice-body\\\"\\u003E\\u039a\\u03ac\\u03bd\\u03c4\\u03b5 \\u03ba\\u03bb\\u03b9\\u03ba \\u03c3\\u03c4\\u03bf \\u03ba\\u03bf\\u03c5\\u03bc\\u03c0\\u03af '\\u03a3\\u03c5\\u03bc\\u03c6\\u03c9\\u03bd\\u03ce' \\u03b3\\u03b9\\u03b1 \\u03bd\\u03b1 \\u03b5\\u03bd\\u03b5\\u03c1\\u03b3\\u03bf\\u03c0\\u03bf\\u03b9\\u03ae\\u03c3\\u03b5\\u03c4\\u03b5 \\u03c4\\u03bf {service}.\\u00a0\\u003Cdiv class=\\\"cmplz-links\\\"\\u003E\\u003Ca href=\\\"#\\\" class=\\\"cmplz-link cookie-statement\\\"\\u003E{title}\\u003C/a\\u003E\\u003C/div\\u003E\\u003C/div\\u003E\\u003Cbutton class=\\\"cmplz-accept-service\\\"\\u003E\\u03a3\\u03c5\\u03bc\\u03c6\\u03c9\\u03bd\\u03ce\\u003C/button\\u003E\",\"css_file\":\"https://mycheckpoint.gr/wp-content/uploads/complianz/css/banner-{banner_id}-{type}.css?v=36\",\"page_links\":{\"eu\":{\"cookie-statement\":{\"title\":\"\\u03a0\\u03bf\\u03bb\\u03b9\\u03c4\\u03b9\\u03ba\\u03ae Cookies \",\"url\":\"https://mycheckpoint.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ae-cookies-%ce%b5%ce%b5/\"}}},\"tm_categories\":\"\",\"forceEnableStats\":\"\",\"preview\":\"\",\"clean_cookies\":\"1\",\"aria_label\":\"\\u03a0\\u03b1\\u03c4\\u03ae\\u03c3\\u03c4\\u03b5 \\u03c4\\u03bf \\u03ba\\u03bf\\u03c5\\u03bc\\u03c0\\u03af \\u03b3\\u03b9\\u03b1 \\u03bd\\u03b1 \\u03b5\\u03bd\\u03b5\\u03c1\\u03b3\\u03bf\\u03c0\\u03bf\\u03b9\\u03ae\\u03c3\\u03b5\\u03c4\\u03b5 \\u03c4\\u03bf {service}\"}; //# sourceURL=cmplz-cookiebanner-js-extra /* ]]> */ window['gtag_enable_tcf_support'] = false; window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-H2KYMBKE8J', { cookie_flags:'secure;samesite=none', }); (function() { 'use strict'; var parentSelector = '.menu-item.wpml-ls-current-language.menu-item-has-children'; function toggleSubmenu(link, forceClose) { var isExpanded = link.getAttribute('aria-expanded') === 'true'; if (forceClose || isExpanded) { link.setAttribute('aria-expanded', 'false'); } else { link.setAttribute('aria-expanded', 'true'); } } function handleKeydown(e) { var key = e.key || e.keyCode; if (key === 'Enter' || key === ' ' || key === 13 || key === 32) { e.preventDefault(); toggleSubmenu(this); } else if (key === 'Escape' || key === 'Esc' || key === 27) { if (this.getAttribute('aria-expanded') === 'true') { e.preventDefault(); toggleSubmenu(this, true); } } } function handleBlur(e) { var link = this; var parent = link.closest(parentSelector); if (!parent) return; setTimeout(function() { if (!parent.contains(document.activeElement)) { toggleSubmenu(link, true); } }, 100); } function init() { var parents = document.querySelectorAll(parentSelector); for (var i = 0; i < parents.length; i++) { var link = parents[i].querySelector('a[aria-expanded]'); if (link) { link.addEventListener('keydown', handleKeydown); link.addEventListener('blur', handleBlur); } } } if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', init); } else { init(); } })();",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mycheckpoint.gr-home-7a0ab936/contact-ce-b5-cf-80-ce-b9-ce-ba-ce-bf-ce-b9-ce-bd-cf-89-ce-bd-ce-af-ce-b1-99c62117.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mycheckpoint.gr-home-7a0ab936/contact-ce-b5-cf-80-ce-b9-ce-ba-ce-bf-ce-b9-ce-bd-cf-89-ce-bd-ce-af-ce-b1-99c62117.txt",
+      "imageReferences": [
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/checkpoint.svg",
+          "alt": "Checkpoint Logo",
+          "sourcePageUrl": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+              "retrievedAt": "2026-03-31T13:16:03.585Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.svg",
+          "sourcePageUrl": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+              "retrievedAt": "2026-03-31T13:16:03.585Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/checkpoint-white.svg",
+          "sourcePageUrl": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+              "retrievedAt": "2026-03-31T13:16:03.585Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/AHF-Europe-1.svg",
+          "alt": "AHF Europe",
+          "sourcePageUrl": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+              "retrievedAt": "2026-03-31T13:16:03.585Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/06/mycheckpoint-scaled-1-scaled.png",
+          "alt": "My Checkpoint",
+          "sourcePageUrl": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+              "retrievedAt": "2026-03-31T13:16:03.585Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:16:03.588Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mycheckpoint.gr-home-7a0ab936/contact-ce-b5-cf-80-ce-b9-ce-ba-ce-bf-ce-b9-ce-bd-cf-89-ce-bd-ce-af-ce-b1-99c62117.png"
+    },
+    "booking": {
+      "pageType": "booking",
+      "requestedUrl": "https://mycheckpoint.gr/category/blog",
+      "finalUrl": "https://mycheckpoint.gr/category/blog",
+      "fetchedAt": "2026-03-31T13:16:09.233Z",
+      "metadata": {
+        "title": "Blog - My Checkpoint",
+        "canonicalUrl": "https://mycheckpoint.gr/category/blog/",
+        "language": "el",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Blog - My Checkpoint"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Νέα"
+        },
+        {
+          "level": "h2",
+          "text": "Παγκόσμια Ημέρα AIDS – Κάνε δωρεάν και γρήγορα το τσεκ σου για τον HIV"
+        },
+        {
+          "level": "h2",
+          "text": "Ευρωπαϊκή Εβδομάδα Εξέτασης – 17 με 24 Νοεμβρίου 2025"
+        },
+        {
+          "level": "h2",
+          "text": "Αντιμετωπίζοντας τους φόβους γύρω από τη σεξουαλική υγεία | Τετάρτη 19/11, 6μμ"
+        },
+        {
+          "level": "h2",
+          "text": "Open Air Party @ Pittaki street | Τετάρτη 11 Ιουνίου, 18:00"
+        },
+        {
+          "level": "h2",
+          "text": "Ευρωπαϊκή Εβδομάδα Εξέτασης (19 με 26 Μαΐου 2025)"
+        },
+        {
+          "level": "h2",
+          "text": "Ευρωπαϊκή Εβδομάδα Εξέτασης – 18 με 25 Νοεμβρίου 2024"
+        },
+        {
+          "level": "h2",
+          "text": "Το Checkpoint συμμετείχε στο EuroPride 2024 – Θεσσαλονίκη"
+        },
+        {
+          "level": "h2",
+          "text": "Το Checkpoint συμμετείχε στο Athens Pride 2024"
+        },
+        {
+          "level": "h2",
+          "text": "Έφτασε η εαρινή Ευρωπαϊκή Εβδομάδα Εξέτασης!"
+        },
+        {
+          "level": "h2",
+          "text": "SEXPERTS: Ντίντα Ζαφειρίου"
+        },
+        {
+          "level": "h2",
+          "text": "Ath Checkpoint"
+        },
+        {
+          "level": "h2",
+          "text": "Thess Checkpoint"
+        },
+        {
+          "level": "h2",
+          "text": "Social"
+        },
+        {
+          "level": "h2",
+          "text": "AHF Europe"
+        },
+        {
+          "level": "h2",
+          "text": "Ραντεβού | Appointment"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://mycheckpoint.gr/"
+        },
+        {
+          "href": "https://mycheckpoint.gr/category/blog/",
+          "label": "Ελληνικά"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%b1%ce%b3%ce%ba%cf%8c%cf%83%ce%bc%ce%b9%ce%b1-%ce%b7%ce%bc%ce%ad%cf%81%ce%b1-aids-%ce%ba%ce%ac%ce%bd%ce%b5-%ce%b4%cf%89%cf%81%ce%b5%ce%ac%ce%bd-%ce%ba%ce%b1%ce%b9-%ce%b3%cf%81%ce%ae/",
+          "label": "25.25.2025Παγκόσμια Ημέρα AIDS – Κάνε δωρεάν και γρήγορα το τσεκ σου για τον HIV→"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b5%cf%85%cf%81%cf%89%cf%80%ce%b1%cf%8a%ce%ba%ce%ae-%ce%b5%ce%b2%ce%b4%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1-%ce%b5%ce%be%ce%ad%cf%84%ce%b1%cf%83%ce%b7%cf%82-17-%ce%bc%ce%b5-24-%ce%bd%ce%bf%ce%b5%ce%bc/",
+          "label": "14.14.2025Ευρωπαϊκή Εβδομάδα Εξέτασης – 17 με 24 Νοεμβρίου 2025→"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b1%ce%bd%cf%84%ce%b9%ce%bc%ce%b5%cf%84%cf%89%cf%80%ce%af%ce%b6%ce%bf%ce%bd%cf%84%ce%b1%cf%82-%cf%84%ce%bf%cf%85%cf%82-%cf%86%cf%8c%ce%b2%ce%bf%cf%85%cf%82-%ce%b3%cf%8d%cf%81%cf%89-%ce%b1%cf%80/",
+          "label": "10.10.2025Αντιμετωπίζοντας τους φόβους γύρω από τη σεξουαλική υγεία | Τετάρτη 19/11, 6μμ→"
+        },
+        {
+          "href": "https://mycheckpoint.gr/open-air-party-pittaki-street-%cf%84%ce%b5%cf%84%ce%ac%cf%81%cf%84%ce%b7-11-%ce%b9%ce%bf%cf%85%ce%bd%ce%af%ce%bf%cf%85-1800/",
+          "label": "06.6.2025Open Air Party @ Pittaki street | Τετάρτη 11 Ιουνίου, 18:00→"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b5%cf%85%cf%81%cf%89%cf%80%ce%b1%cf%8a%ce%ba%ce%ae-%ce%b5%ce%b2%ce%b4%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1-%ce%b5%ce%be%ce%ad%cf%84%ce%b1%cf%83%ce%b7%cf%82-19-%ce%bc%ce%b5-26-%ce%bc%ce%b1%ce%90%ce%bf/",
+          "label": "16.16.2025Ευρωπαϊκή Εβδομάδα Εξέτασης (19 με 26 Μαΐου 2025)→"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b5%cf%85%cf%81%cf%89%cf%80%ce%b1%cf%8a%ce%ba%ce%ae-%ce%b5%ce%b2%ce%b4%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1-%ce%b5%ce%be%ce%ad%cf%84%ce%b1%cf%83%ce%b7%cf%82-18-%ce%bc%ce%b5-25-%ce%bd%ce%bf%ce%b5/",
+          "label": "15.15.2024Ευρωπαϊκή Εβδομάδα Εξέτασης – 18 με 25 Νοεμβρίου 2024→"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%84%ce%bf-checkpoint-%cf%83%cf%85%ce%bc%ce%bc%ce%b5%cf%84%ce%b5%ce%af%cf%87%ce%b5-%cf%83%cf%84%ce%bf-europride-2024-%ce%b8%ce%b5%cf%83%cf%83%ce%b1%ce%bb%ce%bf%ce%bd%ce%af%ce%ba%ce%b7/",
+          "label": "03.3.2024Το Checkpoint συμμετείχε στο EuroPride 2024 – Θεσσαλονίκη→"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%84%ce%bf-checkpoint-%cf%83%cf%85%ce%bc%ce%bc%ce%b5%cf%84%ce%b5%ce%af%cf%87%ce%b5-%cf%83%cf%84%ce%bf-athens-pride-2024/",
+          "label": "18.18.2024Το Checkpoint συμμετείχε στο Athens Pride 2024→"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%ad%cf%86%cf%84%ce%b1%cf%83%ce%b5-%ce%b7-%ce%b5%ce%b1%cf%81%ce%b9%ce%bd%ce%ae-%ce%b5%cf%85%cf%81%cf%89%cf%80%ce%b1%cf%8a%ce%ba%ce%ae-%ce%b5%ce%b2%ce%b4%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1-%ce%b5%ce%be/",
+          "label": "17.17.2024Έφτασε η εαρινή Ευρωπαϊκή Εβδομάδα Εξέτασης!→"
+        },
+        {
+          "href": "https://mycheckpoint.gr/sexperts-%ce%bd%cf%84%ce%af%ce%bd%cf%84%ce%b1-%ce%b6%ce%b1%cf%86%ce%b5%ce%b9%cf%81%ce%af%ce%bf%cf%85/",
+          "label": "22.22.2024SEXPERTS: Ντίντα Ζαφειρίου→"
+        },
+        {
+          "href": "https://mycheckpoint.gr/category/blog/page/2/",
+          "label": "2"
+        },
+        {
+          "href": "https://mycheckpoint.gr/category/blog/page/6/",
+          "label": "6"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/",
+          "label": "Ποιοι είμαστε"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/ath-checkpoint/",
+          "label": "Ath Checkpoint"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/thess-checkpoint/",
+          "label": "Thess Checkpoint"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/%ce%ba%ce%b9%ce%bd%ce%b7%cf%84%ce%ae-%ce%bc%ce%bf%ce%bd%ce%ac%ce%b4%ce%b1-checkpoint/",
+          "label": "Κινητές Μονάδες Πρόληψης “Checkpoint”"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/refcheckpoint/",
+          "label": "RefCheckpoint"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/focus-prevention-gr/",
+          "label": "Η πρόληψη στο επίκεντρο"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std/",
+          "label": "Το λεξικό των ΣΜΝ"
+        },
+        {
+          "href": "https://mycheckpoint.gr/1466-2/",
+          "label": "Χορηγοί / Υποστηρικτές"
+        },
+        {
+          "href": "https://mycheckpoint.gr/ypostirixe-mas/",
+          "label": "Υποστήριξέ μας"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ae-cookies-%ce%b5%ce%b5/",
+          "label": "Πολιτική Cookies (ΕΕ)"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "25.25.2025",
+          "14.14.2025",
+          "10.10.2025",
+          "06.6.2025",
+          "16.16.2025",
+          "15.15.2024",
+          "03.3.2024",
+          "18.18.2024",
+          "17.17.2024",
+          "22.22.2024"
+        ],
+        "emails": [
+          "info@athcheckpoint.gr"
+        ],
+        "addresses": [
+          "ATHAth Checkpoint Πιττάκη 4, Μοναστηράκι, Αθήνα Τηλ.: 210 33 10 400 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Pittaki 4, Monastiraki, Athens Phone : 210 33 10 400 Tue - Sat : 12:00 – 20:00THESSThess Checkpoint Εγνατία οδός 112, 3ος όροφος, Θεσσαλονίκη Τηλ : 2310 282 284 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Egnatia Odos 112, 3rd floor, Thesaloniki Phone : 2310 282 284 Tue: – Sat.: 12:00 – 20:00CONNECTSocial AHFAHF Europe INFOΡαντεβού | Appointment Κλείσε ραντεβού στα Checkpoint → Schedule an appointment at Checkpoint →"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/myCheckpointGR"
+          },
+          {
+            "href": "https://www.instagram.com/my.checkpoint/"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "ATHAth Checkpoint Πιττάκη 4, Μοναστηράκι, Αθήνα Τηλ.: 210 33 10 400 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Pittaki 4, Monastiraki, Athens Phone : 210 33 10 400 Tue - Sat : 12:00 – 20:00THESSThess Checkpoint Εγνατία οδός 112, 3ος όροφος, Θεσσαλονίκη Τηλ : 2310 282 284 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Egnatia Odos 112, 3rd floor, Thesaloniki Phone : 2310 282 284 Tue: – Sat.: 12:00 – 20:00CONNECTSocial AHFAHF Europe INFOΡαντεβού | Appointment Κλείσε ραντεβού στα Checkpoint → Schedule an appointment at Checkpoint →",
+      "textContent": "Ελληνικά Νέα 25.25.2025Παγκόσμια Ημέρα AIDS – Κάνε δωρεάν και γρήγορα το τσεκ σου για τον HIV→14.14.2025Ευρωπαϊκή Εβδομάδα Εξέτασης – 17 με 24 Νοεμβρίου 2025→10.10.2025Αντιμετωπίζοντας τους φόβους γύρω από τη σεξουαλική υγεία | Τετάρτη 19/11, 6μμ→06.6.2025Open Air Party @ Pittaki street | Τετάρτη 11 Ιουνίου, 18:00→16.16.2025Ευρωπαϊκή Εβδομάδα Εξέτασης (19 με 26 Μαΐου 2025)→15.15.2024Ευρωπαϊκή Εβδομάδα Εξέτασης – 18 με 25 Νοεμβρίου 2024→03.3.2024Το Checkpoint συμμετείχε στο EuroPride 2024 – Θεσσαλονίκη→18.18.2024Το Checkpoint συμμετείχε στο Athens Pride 2024→17.17.2024Έφτασε η εαρινή Ευρωπαϊκή Εβδομάδα Εξέτασης!→22.22.2024SEXPERTS: Ντίντα Ζαφειρίου→1 2 … 6 NextATHAth Checkpoint Πιττάκη 4, Μοναστηράκι, Αθήνα Τηλ.: 210 33 10 400 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Pittaki 4, Monastiraki, Athens Phone : 210 33 10 400 Tue - Sat : 12:00 – 20:00THESSThess Checkpoint Εγνατία οδός 112, 3ος όροφος, Θεσσαλονίκη Τηλ : 2310 282 284 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Egnatia Odos 112, 3rd floor, Thesaloniki Phone : 2310 282 284 Tue: – Sat.: 12:00 – 20:00CONNECTSocial AHFAHF Europe INFOΡαντεβού | Appointment Κλείσε ραντεβού στα Checkpoint → Schedule an appointment at Checkpoint →ΑρχικήΠοιοι είμαστε←Ath CheckpointThess CheckpointΚινητές Μονάδες Πρόληψης “Checkpoint”RefCheckpointΗ πρόληψη στο επίκεντροΤο λεξικό των ΣΜΝΧορηγοί / ΥποστηρικτέςΥποστήριξέ μαςΕπικοινωνίαPartner NotificationΕθελοντισμόςΡαντεβούΠολιτική Cookies (ΕΕ)Ελληνικά{\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/pro/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} Διαχείριση συγκατάθεσης Για να παρέχουμε την καλύτερη εμπειρία, χρησιμοποιούμε τεχνολογίες όπως cookies για την αποθήκευση ή/και την πρόσβαση σε πληροφορίες συσκευών. Η μη συγκατάθεση ή η ανάκληση της συγκατάθεσης, μπορεί να επηρεάσει αρνητικά ορισμένες λειτουργίες και δυνατότητες. Λειτουργικά Λειτουργικά Πάντα ενεργό Η τεχνική αποθήκευση ή πρόσβαση είναι απολύτως απαραίτητη για τον νόμιμο σκοπό της δυνατότητας χρήσης συγκεκριμένης υπηρεσίας που ζητείται ρητά από τον συνδρομητή ή τον χρήστη ή με αποκλειστικό σκοπό τη μετάδοση επικοινωνίας μέσω δικτύου ηλεκτρονικών επικοινωνιών. Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Στατιστικά Στατιστικά The technical storage or access that is used exclusively for statistical purposes. Η τεχνική αποθήκευση ή πρόσβαση που χρησιμοποιείται αποκλειστικά για ανώνυμους στατιστικούς σκοπούς. Χωρίς κλήτευση, η εθελοντική συμμόρφωση εκ μέρους του Παρόχου Υπηρεσιών Διαδικτύου ή πρόσθετες καταγραφές από τρίτο μέρος, οι πληροφορίες που αποθηκεύονται ή ανακτώνται για το σκοπό αυτό από μόνες τους δεν μπορούν συνήθως να χρησιμοποιηθούν για την αναγνώρισή σας. Marketing Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. Διαχείριση επιλογών Διαχείριση υπηρεσιών Manage {vendor_count} vendors Διαβάστε περισσότερα για αυτούς τους σκοπούς Αποδοχή Άρνηση Προτιμήσεις Αποθήκευση Προτιμήσεις {title} {title} {title} Διαχείριση συγκατάθεσης /* <![CDATA[ */ var csJsData = {\"linkSelector\":\"a[href*=\\\"#\\\"]\",\"bp\":{\"base\":4,\"ranges\":[0,480,767,979,1200],\"count\":4}}; //# sourceURL=cs-js-extra /* ]]> */ /* <![CDATA[ */ var xJsData = {\"icons\":{\"down\":\"\\u003Ci class='x-framework-icon x-icon-angle-double-down' data-x-icon-s='&#xf103;' aria-hidden=true\\u003E\\u003C/i\\u003E\",\"subindicator\":\"\\u003Ci class=\\\"x-icon x-framework-icon x-icon-angle-double-down\\\" aria-hidden=\\\"true\\\" data-x-icon-s=\\\"&#xf103;\\\"\\u003E\\u003C/i\\u003E\",\"previous\":\"\\u003Ci class='x-framework-icon x-icon-previous' data-x-icon-s='&#xf053;' aria-hidden=true\\u003E\\u003C/i\\u003E\",\"next\":\"\\u003Ci class='x-framework-icon x-icon-next' data-x-icon-s='&#xf054;' aria-hidden=true\\u003E\\u003C/i\\u003E\",\"star\":\"\\u003Ci class='x-framework-icon x-icon-star' data-x-icon-s='&#xf005;' aria-hidden=true\\u003E\\u003C/i\\u003E\"}}; //# sourceURL=x-site-js-extra /* ]]> */ /* <![CDATA[ */ var complianz = {\"prefix\":\"cmplz_\",\"user_banner_id\":\"1\",\"set_cookies\":[],\"block_ajax_content\":\"\",\"banner_version\":\"36\",\"version\":\"7.4.5\",\"store_consent\":\"\",\"do_not_track_enabled\":\"\",\"consenttype\":\"optin\",\"region\":\"eu\",\"geoip\":\"\",\"dismiss_timeout\":\"\",\"disable_cookiebanner\":\"\",\"soft_cookiewall\":\"\",\"dismiss_on_scroll\":\"\",\"cookie_expiry\":\"365\",\"url\":\"https://mycheckpoint.gr/wp-json/complianz/v1/\",\"locale\":\"lang=el&locale=el\",\"set_cookies_on_root\":\"\",\"cookie_domain\":\"\",\"current_policy_id\":\"41\",\"cookie_path\":\"/\",\"categories\":{\"statistics\":\"\\u03c3\\u03c4\\u03b1\\u03c4\\u03b9\\u03c3\\u03c4\\u03b9\\u03ba\\u03ac\",\"marketing\":\"\\u03b5\\u03bc\\u03c0\\u03bf\\u03c1\\u03b9\\u03ba\\u03ae\\u03c2 \\u03c0\\u03c1\\u03bf\\u03ce\\u03b8\\u03b7\\u03c3\\u03b7\\u03c2\"},\"tcf_active\":\"\",\"placeholdertext\":\"\\u003Cdiv class=\\\"cmplz-blocked-content-notice-body\\\"\\u003E\\u039a\\u03ac\\u03bd\\u03c4\\u03b5 \\u03ba\\u03bb\\u03b9\\u03ba \\u03c3\\u03c4\\u03bf \\u03ba\\u03bf\\u03c5\\u03bc\\u03c0\\u03af '\\u03a3\\u03c5\\u03bc\\u03c6\\u03c9\\u03bd\\u03ce' \\u03b3\\u03b9\\u03b1 \\u03bd\\u03b1 \\u03b5\\u03bd\\u03b5\\u03c1\\u03b3\\u03bf\\u03c0\\u03bf\\u03b9\\u03ae\\u03c3\\u03b5\\u03c4\\u03b5 \\u03c4\\u03bf {service}.\\u00a0\\u003Cdiv class=\\\"cmplz-links\\\"\\u003E\\u003Ca href=\\\"#\\\" class=\\\"cmplz-link cookie-statement\\\"\\u003E{title}\\u003C/a\\u003E\\u003C/div\\u003E\\u003C/div\\u003E\\u003Cbutton class=\\\"cmplz-accept-service\\\"\\u003E\\u03a3\\u03c5\\u03bc\\u03c6\\u03c9\\u03bd\\u03ce\\u003C/button\\u003E\",\"css_file\":\"https://mycheckpoint.gr/wp-content/uploads/complianz/css/banner-{banner_id}-{type}.css?v=36\",\"page_links\":{\"eu\":{\"cookie-statement\":{\"title\":\"\\u03a0\\u03bf\\u03bb\\u03b9\\u03c4\\u03b9\\u03ba\\u03ae Cookies \",\"url\":\"https://mycheckpoint.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ae-cookies-%ce%b5%ce%b5/\"}}},\"tm_categories\":\"\",\"forceEnableStats\":\"\",\"preview\":\"\",\"clean_cookies\":\"1\",\"aria_label\":\"\\u03a0\\u03b1\\u03c4\\u03ae\\u03c3\\u03c4\\u03b5 \\u03c4\\u03bf \\u03ba\\u03bf\\u03c5\\u03bc\\u03c0\\u03af \\u03b3\\u03b9\\u03b1 \\u03bd\\u03b1 \\u03b5\\u03bd\\u03b5\\u03c1\\u03b3\\u03bf\\u03c0\\u03bf\\u03b9\\u03ae\\u03c3\\u03b5\\u03c4\\u03b5 \\u03c4\\u03bf {service}\"}; //# sourceURL=cmplz-cookiebanner-js-extra /* ]]> */ window['gtag_enable_tcf_support'] = false; window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-H2KYMBKE8J', { cookie_flags:'secure;samesite=none', }); (function() { 'use strict'; var parentSelector = '.menu-item.wpml-ls-current-language.menu-item-has-children'; function toggleSubmenu(link, forceClose) { var isExpanded = link.getAttribute('aria-expanded') === 'true'; if (forceClose || isExpanded) { link.setAttribute('aria-expanded', 'false'); } else { link.setAttribute('aria-expanded', 'true'); } } function handleKeydown(e) { var key = e.key || e.keyCode; if (key === 'Enter' || key === ' ' || key === 13 || key === 32) { e.preventDefault(); toggleSubmenu(this); } else if (key === 'Escape' || key === 'Esc' || key === 27) { if (this.getAttribute('aria-expanded') === 'true') { e.preventDefault(); toggleSubmenu(this, true); } } } function handleBlur(e) { var link = this; var parent = link.closest(parentSelector); if (!parent) return; setTimeout(function() { if (!parent.contains(document.activeElement)) { toggleSubmenu(link, true); } }, 100); } function init() { var parents = document.querySelectorAll(parentSelector); for (var i = 0; i < parents.length; i++) { var link = parents[i].querySelector('a[aria-expanded]'); if (link) { link.addEventListener('keydown', handleKeydown); link.addEventListener('blur', handleBlur); } } } if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', init); } else { init(); } })();",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mycheckpoint.gr-home-7a0ab936/booking-category-blog-317e7d8a.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mycheckpoint.gr-home-7a0ab936/booking-category-blog-317e7d8a.txt",
+      "imageReferences": [
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/checkpoint.svg",
+          "alt": "Checkpoint Logo",
+          "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+          "pageType": "booking",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/category/blog",
+              "retrievedAt": "2026-03-31T13:16:09.225Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.svg",
+          "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+          "pageType": "booking",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/category/blog",
+              "retrievedAt": "2026-03-31T13:16:09.225Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/11/WORLDAIDSDAY_SQUARE.jpg",
+          "alt": "Featured image for “Παγκόσμια Ημέρα AIDS – Κάνε δωρεάν και γρήγορα το τσεκ σου για τον HIV”",
+          "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+          "pageType": "booking",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/category/blog",
+              "retrievedAt": "2026-03-31T13:16:09.225Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/11/ETW-2025-square-scaled.png",
+          "alt": "Featured image for “Ευρωπαϊκή Εβδομάδα Εξέτασης – 17 με 24 Νοεμβρίου 2025”",
+          "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+          "pageType": "booking",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/category/blog",
+              "retrievedAt": "2026-03-31T13:16:09.225Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/11/%CE%91%CE%9D%CE%A4%CE%99%CE%9C%CE%95%CE%A4%CE%A9%CE%A0%CE%99%CE%96%CE%9F%CE%9D%CE%A4%CE%91%CE%A3-%CE%A4%CE%9F%CE%A5%CE%A3-%CE%A6%CE%9F%CE%92%CE%9F%CE%A5%CE%A3-%CE%93%CE%A5%CE%A1%CE%A9-%CE%91%CE%A0%CE%9F-%CE%A4%CE%97-%CE%A3%CE%95%CE%9E%CE%9F%CE%A5%CE%91%CE%9B%CE%99%CE%9A%CE%97-%CE%A5%CE%93%CE%95%CE%99%CE%91-1080-x-1080-px-1-scaled.png",
+          "alt": "Featured image for “Αντιμετωπίζοντας τους φόβους γύρω από τη σεξουαλική υγεία | Τετάρτη 19/11, 6μμ”",
+          "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+          "pageType": "booking",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/category/blog",
+              "retrievedAt": "2026-03-31T13:16:09.225Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/checkpoint-white.svg",
+          "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+          "pageType": "booking",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/category/blog",
+              "retrievedAt": "2026-03-31T13:16:09.225Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/AHF-Europe-1.svg",
+          "alt": "AHF Europe",
+          "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+          "pageType": "booking",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/category/blog",
+              "retrievedAt": "2026-03-31T13:16:09.225Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/06/mycheckpoint-scaled-1-scaled.png",
+          "alt": "My Checkpoint",
+          "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+          "pageType": "booking",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/category/blog",
+              "retrievedAt": "2026-03-31T13:16:09.225Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page fetch",
+          "uri": "https://mycheckpoint.gr/category/blog",
+          "retrievedAt": "2026-03-31T13:16:09.233Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mycheckpoint.gr-home-7a0ab936/booking-category-blog-317e7d8a.png"
+    },
+    "faq": {
+      "pageType": "faq",
+      "requestedUrl": "https://mycheckpoint.gr/chemsex-support",
+      "finalUrl": "https://mycheckpoint.gr/chemsex-support",
+      "fetchedAt": "2026-03-31T13:16:07.861Z",
+      "metadata": {
+        "title": "ChemSex Support - My Checkpoint",
+        "metaDescription": "Τα Κέντρα Πρόληψης και Σεξουαλικής Υγείας Checkpoint παρέχουν την υπηρεσία πρόληψης και μείωσης βλάβης για άτομα που εμπλέκονται με το chemsex «ChemSex Support».",
+        "canonicalUrl": "https://mycheckpoint.gr/chemsex-support/",
+        "language": "el",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "ChemSex Support - My Checkpoint",
+        "openGraphDescription": "Τα Κέντρα Πρόληψης και Σεξουαλικής Υγείας Checkpoint παρέχουν την υπηρεσία πρόληψης και μείωσης βλάβης για άτομα που εμπλέκονται με το chemsex «ChemSex Support»."
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "ChemSex Support"
+        },
+        {
+          "level": "h2",
+          "text": "Ath Checkpoint"
+        },
+        {
+          "level": "h2",
+          "text": "Thess Checkpoint"
+        },
+        {
+          "level": "h2",
+          "text": "Social"
+        },
+        {
+          "level": "h2",
+          "text": "AHF Europe"
+        },
+        {
+          "level": "h2",
+          "text": "Ραντεβού | Appointment"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://mycheckpoint.gr/"
+        },
+        {
+          "href": "https://mycheckpoint.gr/chemsex-support/",
+          "label": "Ελληνικά"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/",
+          "label": "Ποιοι είμαστε"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/ath-checkpoint/",
+          "label": "Ath Checkpoint"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/thess-checkpoint/",
+          "label": "Thess Checkpoint"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/%ce%ba%ce%b9%ce%bd%ce%b7%cf%84%ce%ae-%ce%bc%ce%bf%ce%bd%ce%ac%ce%b4%ce%b1-checkpoint/",
+          "label": "Κινητές Μονάδες Πρόληψης “Checkpoint”"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/refcheckpoint/",
+          "label": "RefCheckpoint"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/focus-prevention-gr/",
+          "label": "Η πρόληψη στο επίκεντρο"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std/",
+          "label": "Το λεξικό των ΣΜΝ"
+        },
+        {
+          "href": "https://mycheckpoint.gr/1466-2/",
+          "label": "Χορηγοί / Υποστηρικτές"
+        },
+        {
+          "href": "https://mycheckpoint.gr/ypostirixe-mas/",
+          "label": "Υποστήριξέ μας"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ae-cookies-%ce%b5%ce%b5/",
+          "label": "Πολιτική Cookies (ΕΕ)"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "210 33 10 400",
+          "2310 282 284"
+        ],
+        "emails": [
+          "info@athcheckpoint.gr"
+        ],
+        "addresses": [
+          "ATHAth Checkpoint Πιττάκη 4, Μοναστηράκι, Αθήνα Τηλ.: 210 33 10 400 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Pittaki 4, Monastiraki, Athens Phone : 210 33 10 400 Tue - Sat : 12:00 – 20:00THESSThess Checkpoint Εγνατία οδός 112, 3ος όροφος, Θεσσαλονίκη Τηλ : 2310 282 284 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Egnatia Odos 112, 3rd floor, Thesaloniki Phone : 2310 282 284 Tue: – Sat.: 12:00 – 20:00CONNECTSocial AHFAHF Europe INFOΡαντεβού | Appointment Κλείσε ραντεβού στα Checkpoint → Schedule an appointment at Checkpoint →"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/myCheckpointGR"
+          },
+          {
+            "href": "https://www.instagram.com/my.checkpoint/"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "ATHAth Checkpoint Πιττάκη 4, Μοναστηράκι, Αθήνα Τηλ.: 210 33 10 400 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Pittaki 4, Monastiraki, Athens Phone : 210 33 10 400 Tue - Sat : 12:00 – 20:00THESSThess Checkpoint Εγνατία οδός 112, 3ος όροφος, Θεσσαλονίκη Τηλ : 2310 282 284 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Egnatia Odos 112, 3rd floor, Thesaloniki Phone : 2310 282 284 Tue: – Sat.: 12:00 – 20:00CONNECTSocial AHFAHF Europe INFOΡαντεβού | Appointment Κλείσε ραντεβού στα Checkpoint → Schedule an appointment at Checkpoint →",
+      "textContent": "Ελληνικά ChemSex SupportΤα Κέντρα Πρόληψης και Σεξουαλικής Υγείας Checkpoint παρέχουν την υπηρεσία πρόληψης και μείωσης βλάβης για άτομα που εμπλέκονται με το chemsex «ChemSex Support». Η χρήση ουσιών μπορεί να είναι διαχειρίσιμη από κάποιους/ες, σε κάποιους/ες να προκαλεί ορισμένα προβλήματα και για άλλους/ες μπορεί να γίνει προβληματική κατάσταση στο σύνολό της. Η υπηρεσία «ChemSex Support» παρέχει υπηρεσίες σε επίπεδο ομοτίμων (peers) και είναι στελεχωμένη από εκπαιδευμένους συμβούλους. Το «ChemSex Support» μπορεί να σε βοηθήσει: Να είσαι ενήμερος/η για τις ουσίες και τις επιδράσεις τους Να μειώσεις τους κινδύνους από την εμπλοκή σου στο chemsex Να αποκτήσεις τον έλεγχο της χρήσης που κάνεις Να χρησιμοποιείς ουσίες λιγότερο συχνά Να μπορείς να επιτύχεις ένα σαββατοκύριακο ή έναν μήνα χωρίς chems Να διαπραγματευτείς την εμπλοκή σου με το chemsex συνολικότερα Να ενημερωθείς για τους τρόπους χρήσης και την ασφαλέστερη εφαρμογή τους Να διαπραγματευτείς κινδύνους, όρια και πρακτικές σε σχέση με το chemsex και τη χρήση εφαρμογών γνωριμιών (dating apps) Να διαπραγματευτείς θέματα συναίνεσης στο σεξ Να ενημερωθείς για το πώς να διαχειριστείς επείγουσες καταστάσεις και περιστατικά που μπορεί να προκύψουν κατά το chemsex Να ενημερωθείς για ασφαλέστερες πρακτικές στο σεξ Να προμηθευτείς δωρεάν προφυλακτικά Να εξεταστείς για HIV και ηπατίτιδες Να συζητήσεις θέματα που αφορούν το να ζεις με τον HIV Να ενημερωθείς για PEP και PrEP Το «ChemSex Support» δεν παρέχει απεξάρτηση, ιατρικές υπηρεσίες ή ψυχοθεραπεία. Αν ωστόσο σε απασχολούν τέτοια θέματα και σκέφτεσαι ότι σου χρειάζεται κάτι τέτοιο, μπορείς επίσης να λάβεις ενημέρωση επί των θεμάτων αυτών. Τι είναι το Chemsex; Chemsex είναι η ψυχαγωγική χρήση ουσιών κατά το σεξ μεταξύ ανδρών που κάνουν σεξ με άνδρες και εν γένει gay, bi, queer, non-binary και trans άτομα. Οι ουσίες που εμπλέκονται συνήθως είναι η κρυσταλλική μεθαμφεταμίνη (crystal meth), μεφεδρόνη (meph), GHB/GBL (G) και κεταμίνη. Το chemsex είναι μια πρακτική που απαντάται όλο και συχνότερα στη ΛΟΑΚΤΙ+ κοινότητα. Μολονότι δεν αντιμετωπίζουν προβλήματα όλοι/ες οι εμπλεκόμενοι/ες με το chemsex, δεν είναι σπάνιο η όποια εμπλοκή να επιφέρει δυσκολίες σε σχέση με τη σωματική και ψυχική υγεία, την καθημερινότητα, τις σχέσεις, εργασία και τον κοινωνικό περίγυρο κ.α. Ενδείξεις ότι το chemsex έχει γίνει προβληματικό μπορεί να είναι όταν δεν μπορείς να ευχαριστηθείς ή να βρεις νόημα στο σεξ ή και άλλες δραστηριότητες όταν είσαι νηφάλιος/α, εμπλέκεσαι με αυτό συστηματικά περισσότερο από όσο σκόπευες ή με τρόπους που μετά σε κάνουν να αισθάνεσαι δυσάρεστα, βιώνεις επίμονες αϋπνίες, άγχος, κατάθλιψη, παραισθήσεις κ.α, . Τα προβλήματα που μπορεί να προκαλέσει η εμπλοκή με το chemsex μπορούν να ξεπεραστούν. Πολλοί άνθρωποι μέσα από την προσωπική τους προσπάθεια με κατάλληλη στήριξη έχουν καταφέρει να ξεπεράσουν την προβληματική χρήση και να βρουν τρόπους να ζουν καλύτερα τη ζωή τους. ATHAth Checkpoint Πιττάκη 4, Μοναστηράκι, Αθήνα Τηλ.: 210 33 10 400 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Pittaki 4, Monastiraki, Athens Phone : 210 33 10 400 Tue - Sat : 12:00 – 20:00THESSThess Checkpoint Εγνατία οδός 112, 3ος όροφος, Θεσσαλονίκη Τηλ : 2310 282 284 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Egnatia Odos 112, 3rd floor, Thesaloniki Phone : 2310 282 284 Tue: – Sat.: 12:00 – 20:00CONNECTSocial AHFAHF Europe INFOΡαντεβού | Appointment Κλείσε ραντεβού στα Checkpoint → Schedule an appointment at Checkpoint →ΑρχικήΠοιοι είμαστε←Ath CheckpointThess CheckpointΚινητές Μονάδες Πρόληψης “Checkpoint”RefCheckpointΗ πρόληψη στο επίκεντροΤο λεξικό των ΣΜΝΧορηγοί / ΥποστηρικτέςΥποστήριξέ μαςΕπικοινωνίαPartner NotificationΕθελοντισμόςΡαντεβούΠολιτική Cookies (ΕΕ)Ελληνικά{\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/pro/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} Διαχείριση συγκατάθεσης Για να παρέχουμε την καλύτερη εμπειρία, χρησιμοποιούμε τεχνολογίες όπως cookies για την αποθήκευση ή/και την πρόσβαση σε πληροφορίες συσκευών. Η μη συγκατάθεση ή η ανάκληση της συγκατάθεσης, μπορεί να επηρεάσει αρνητικά ορισμένες λειτουργίες και δυνατότητες. Λειτουργικά Λειτουργικά Πάντα ενεργό Η τεχνική αποθήκευση ή πρόσβαση είναι απολύτως απαραίτητη για τον νόμιμο σκοπό της δυνατότητας χρήσης συγκεκριμένης υπηρεσίας που ζητείται ρητά από τον συνδρομητή ή τον χρήστη ή με αποκλειστικό σκοπό τη μετάδοση επικοινωνίας μέσω δικτύου ηλεκτρονικών επικοινωνιών. Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Στατιστικά Στατιστικά The technical storage or access that is used exclusively for statistical purposes. Η τεχνική αποθήκευση ή πρόσβαση που χρησιμοποιείται αποκλειστικά για ανώνυμους στατιστικούς σκοπούς. Χωρίς κλήτευση, η εθελοντική συμμόρφωση εκ μέρους του Παρόχου Υπηρεσιών Διαδικτύου ή πρόσθετες καταγραφές από τρίτο μέρος, οι πληροφορίες που αποθηκεύονται ή ανακτώνται για το σκοπό αυτό από μόνες τους δεν μπορούν συνήθως να χρησιμοποιηθούν για την αναγνώρισή σας. Marketing Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. Διαχείριση επιλογών Διαχείριση υπηρεσιών Manage {vendor_count} vendors Διαβάστε περισσότερα για αυτούς τους σκοπούς Αποδοχή Άρνηση Προτιμήσεις Αποθήκευση Προτιμήσεις {title} {title} {title} Διαχείριση συγκατάθεσης /* <![CDATA[ */ var csJsData = {\"linkSelector\":\"a[href*=\\\"#\\\"]\",\"bp\":{\"base\":4,\"ranges\":[0,480,767,979,1200],\"count\":4}}; //# sourceURL=cs-js-extra /* ]]> */ /* <![CDATA[ */ var xJsData = {\"icons\":{\"down\":\"\\u003Ci class='x-framework-icon x-icon-angle-double-down' data-x-icon-s='&#xf103;' aria-hidden=true\\u003E\\u003C/i\\u003E\",\"subindicator\":\"\\u003Ci class=\\\"x-icon x-framework-icon x-icon-angle-double-down\\\" aria-hidden=\\\"true\\\" data-x-icon-s=\\\"&#xf103;\\\"\\u003E\\u003C/i\\u003E\",\"previous\":\"\\u003Ci class='x-framework-icon x-icon-previous' data-x-icon-s='&#xf053;' aria-hidden=true\\u003E\\u003C/i\\u003E\",\"next\":\"\\u003Ci class='x-framework-icon x-icon-next' data-x-icon-s='&#xf054;' aria-hidden=true\\u003E\\u003C/i\\u003E\",\"star\":\"\\u003Ci class='x-framework-icon x-icon-star' data-x-icon-s='&#xf005;' aria-hidden=true\\u003E\\u003C/i\\u003E\"}}; //# sourceURL=x-site-js-extra /* ]]> */ /* <![CDATA[ */ var complianz = {\"prefix\":\"cmplz_\",\"user_banner_id\":\"1\",\"set_cookies\":[],\"block_ajax_content\":\"\",\"banner_version\":\"36\",\"version\":\"7.4.5\",\"store_consent\":\"\",\"do_not_track_enabled\":\"\",\"consenttype\":\"optin\",\"region\":\"eu\",\"geoip\":\"\",\"dismiss_timeout\":\"\",\"disable_cookiebanner\":\"\",\"soft_cookiewall\":\"\",\"dismiss_on_scroll\":\"\",\"cookie_expiry\":\"365\",\"url\":\"https://mycheckpoint.gr/wp-json/complianz/v1/\",\"locale\":\"lang=el&locale=el\",\"set_cookies_on_root\":\"\",\"cookie_domain\":\"\",\"current_policy_id\":\"41\",\"cookie_path\":\"/\",\"categories\":{\"statistics\":\"\\u03c3\\u03c4\\u03b1\\u03c4\\u03b9\\u03c3\\u03c4\\u03b9\\u03ba\\u03ac\",\"marketing\":\"\\u03b5\\u03bc\\u03c0\\u03bf\\u03c1\\u03b9\\u03ba\\u03ae\\u03c2 \\u03c0\\u03c1\\u03bf\\u03ce\\u03b8\\u03b7\\u03c3\\u03b7\\u03c2\"},\"tcf_active\":\"\",\"placeholdertext\":\"\\u003Cdiv class=\\\"cmplz-blocked-content-notice-body\\\"\\u003E\\u039a\\u03ac\\u03bd\\u03c4\\u03b5 \\u03ba\\u03bb\\u03b9\\u03ba \\u03c3\\u03c4\\u03bf \\u03ba\\u03bf\\u03c5\\u03bc\\u03c0\\u03af '\\u03a3\\u03c5\\u03bc\\u03c6\\u03c9\\u03bd\\u03ce' \\u03b3\\u03b9\\u03b1 \\u03bd\\u03b1 \\u03b5\\u03bd\\u03b5\\u03c1\\u03b3\\u03bf\\u03c0\\u03bf\\u03b9\\u03ae\\u03c3\\u03b5\\u03c4\\u03b5 \\u03c4\\u03bf {service}.\\u00a0\\u003Cdiv class=\\\"cmplz-links\\\"\\u003E\\u003Ca href=\\\"#\\\" class=\\\"cmplz-link cookie-statement\\\"\\u003E{title}\\u003C/a\\u003E\\u003C/div\\u003E\\u003C/div\\u003E\\u003Cbutton class=\\\"cmplz-accept-service\\\"\\u003E\\u03a3\\u03c5\\u03bc\\u03c6\\u03c9\\u03bd\\u03ce\\u003C/button\\u003E\",\"css_file\":\"https://mycheckpoint.gr/wp-content/uploads/complianz/css/banner-{banner_id}-{type}.css?v=36\",\"page_links\":{\"eu\":{\"cookie-statement\":{\"title\":\"\\u03a0\\u03bf\\u03bb\\u03b9\\u03c4\\u03b9\\u03ba\\u03ae Cookies \",\"url\":\"https://mycheckpoint.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ae-cookies-%ce%b5%ce%b5/\"}}},\"tm_categories\":\"\",\"forceEnableStats\":\"\",\"preview\":\"\",\"clean_cookies\":\"1\",\"aria_label\":\"\\u03a0\\u03b1\\u03c4\\u03ae\\u03c3\\u03c4\\u03b5 \\u03c4\\u03bf \\u03ba\\u03bf\\u03c5\\u03bc\\u03c0\\u03af \\u03b3\\u03b9\\u03b1 \\u03bd\\u03b1 \\u03b5\\u03bd\\u03b5\\u03c1\\u03b3\\u03bf\\u03c0\\u03bf\\u03b9\\u03ae\\u03c3\\u03b5\\u03c4\\u03b5 \\u03c4\\u03bf {service}\"}; //# sourceURL=cmplz-cookiebanner-js-extra /* ]]> */ window['gtag_enable_tcf_support'] = false; window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-H2KYMBKE8J', { cookie_flags:'secure;samesite=none', }); (function() { 'use strict'; var parentSelector = '.menu-item.wpml-ls-current-language.menu-item-has-children'; function toggleSubmenu(link, forceClose) { var isExpanded = link.getAttribute('aria-expanded') === 'true'; if (forceClose || isExpanded) { link.setAttribute('aria-expanded', 'false'); } else { link.setAttribute('aria-expanded', 'true'); } } function handleKeydown(e) { var key = e.key || e.keyCode; if (key === 'Enter' || key === ' ' || key === 13 || key === 32) { e.preventDefault(); toggleSubmenu(this); } else if (key === 'Escape' || key === 'Esc' || key === 27) { if (this.getAttribute('aria-expanded') === 'true') { e.preventDefault(); toggleSubmenu(this, true); } } } function handleBlur(e) { var link = this; var parent = link.closest(parentSelector); if (!parent) return; setTimeout(function() { if (!parent.contains(document.activeElement)) { toggleSubmenu(link, true); } }, 100); } function init() { var parents = document.querySelectorAll(parentSelector); for (var i = 0; i < parents.length; i++) { var link = parents[i].querySelector('a[aria-expanded]'); if (link) { link.addEventListener('keydown', handleKeydown); link.addEventListener('blur', handleBlur); } } } if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', init); } else { init(); } })();",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mycheckpoint.gr-home-7a0ab936/faq-chemsex-support-c27c11c6.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/mycheckpoint.gr-home-7a0ab936/faq-chemsex-support-c27c11c6.txt",
+      "imageReferences": [
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/checkpoint.svg",
+          "alt": "Checkpoint Logo",
+          "sourcePageUrl": "https://mycheckpoint.gr/chemsex-support",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/chemsex-support",
+              "retrievedAt": "2026-03-31T13:16:07.859Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.svg",
+          "sourcePageUrl": "https://mycheckpoint.gr/chemsex-support",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/chemsex-support",
+              "retrievedAt": "2026-03-31T13:16:07.859Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/checkpoint-white.svg",
+          "sourcePageUrl": "https://mycheckpoint.gr/chemsex-support",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/chemsex-support",
+              "retrievedAt": "2026-03-31T13:16:07.859Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/AHF-Europe-1.svg",
+          "alt": "AHF Europe",
+          "sourcePageUrl": "https://mycheckpoint.gr/chemsex-support",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/chemsex-support",
+              "retrievedAt": "2026-03-31T13:16:07.859Z"
+            }
+          ]
+        },
+        {
+          "url": "https://mycheckpoint.gr/wp-content/uploads/2025/06/mycheckpoint-scaled-1-scaled.png",
+          "alt": "My Checkpoint",
+          "sourcePageUrl": "https://mycheckpoint.gr/chemsex-support",
+          "pageType": "faq",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://mycheckpoint.gr/chemsex-support",
+              "retrievedAt": "2026-03-31T13:16:07.859Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "faq page fetch",
+          "uri": "https://mycheckpoint.gr/chemsex-support",
+          "retrievedAt": "2026-03-31T13:16:07.861Z"
+        }
+      ],
+      "statusCode": 200
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "210 33 10 400",
+      "2310 282 284",
+      "25.25.2025",
+      "14.14.2025",
+      "10.10.2025",
+      "06.6.2025",
+      "16.16.2025",
+      "15.15.2024",
+      "03.3.2024",
+      "18.18.2024",
+      "17.17.2024",
+      "22.22.2024"
+    ],
+    "emails": [
+      "info@athcheckpoint.gr"
+    ],
+    "addresses": [
+      "ATHAth Checkpoint Πιττάκη 4, Μοναστηράκι, Αθήνα Τηλ.: 210 33 10 400 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Pittaki 4, Monastiraki, Athens Phone : 210 33 10 400 Tue - Sat : 12:00 – 20:00THESSThess Checkpoint Εγνατία οδός 112, 3ος όροφος, Θεσσαλονίκη Τηλ : 2310 282 284 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Egnatia Odos 112, 3rd floor, Thesaloniki Phone : 2310 282 284 Tue: – Sat.: 12:00 – 20:00CONNECTSocial AHFAHF Europe INFOΡαντεβού | Appointment Κλείσε ραντεβού στα Checkpoint → Schedule an appointment at Checkpoint →"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/myCheckpointGR"
+      },
+      {
+        "href": "https://www.instagram.com/my.checkpoint/"
+      }
+    ],
+    "forms": []
+  },
+  "metadata": {
+    "title": "Αρχική - My Checkpoint",
+    "metaDescription": "Εδώ μπορείς να εξεταστείς γρήγορα, εμπιστευτικά και δωρεάν για HIV, σύφιλη και ηπατίτιδες Β και C και να συζητήσεις για θέματα σεξουαλικής υγείας.",
+    "canonicalUrl": "https://mycheckpoint.gr/",
+    "language": "el",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "openGraphTitle": "Αρχική - My Checkpoint",
+    "openGraphDescription": "Εδώ μπορείς να εξεταστείς γρήγορα, εμπιστευτικά και δωρεάν για HIV, σύφιλη και ηπατίτιδες Β και C και να συζητήσεις για θέματα σεξουαλικής υγείας.",
+    "openGraphImage": "https://mycheckpoint.gr/wp-content/uploads/2025/08/checkpoint-white.svg"
+  },
+  "imageReferences": [
+    {
+      "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/checkpoint-white.svg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://mycheckpoint.gr/",
+      "pageType": "homepage",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://mycheckpoint.gr/",
+          "retrievedAt": "2026-03-31T13:16:01.304Z"
+        }
+      ]
+    },
+    {
+      "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/checkpoint.svg",
+      "alt": "Checkpoint Logo",
+      "sourcePageUrl": "https://mycheckpoint.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://mycheckpoint.gr/",
+          "retrievedAt": "2026-03-31T13:16:01.304Z"
+        }
+      ]
+    },
+    {
+      "url": "https://mycheckpoint.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.svg",
+      "sourcePageUrl": "https://mycheckpoint.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://mycheckpoint.gr/",
+          "retrievedAt": "2026-03-31T13:16:01.304Z"
+        }
+      ]
+    },
+    {
+      "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/positivesmall.png",
+      "alt": "Positive Voice",
+      "sourcePageUrl": "https://mycheckpoint.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://mycheckpoint.gr/",
+          "retrievedAt": "2026-03-31T13:16:01.304Z"
+        }
+      ]
+    },
+    {
+      "url": "https://mycheckpoint.gr/wp-content/uploads/2025/06/rua_athens_thess-1-scaled.png",
+      "alt": "Red Umbrella",
+      "sourcePageUrl": "https://mycheckpoint.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://mycheckpoint.gr/",
+          "retrievedAt": "2026-03-31T13:16:01.304Z"
+        }
+      ]
+    },
+    {
+      "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/ref-checkpoint-gr-1.png",
+      "alt": "Ref Checkpoint",
+      "sourcePageUrl": "https://mycheckpoint.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://mycheckpoint.gr/",
+          "retrievedAt": "2026-03-31T13:16:01.304Z"
+        }
+      ]
+    },
+    {
+      "url": "https://mycheckpoint.gr/wp-content/uploads/2025/08/AHF-Europe-1.svg",
+      "alt": "AHF Europe",
+      "sourcePageUrl": "https://mycheckpoint.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://mycheckpoint.gr/",
+          "retrievedAt": "2026-03-31T13:16:01.304Z"
+        }
+      ]
+    },
+    {
+      "url": "https://mycheckpoint.gr/wp-content/uploads/2025/06/mycheckpoint-scaled-1-scaled.png",
+      "alt": "My Checkpoint",
+      "sourcePageUrl": "https://mycheckpoint.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://mycheckpoint.gr/",
+          "retrievedAt": "2026-03-31T13:16:01.304Z"
+        }
+      ]
+    },
+    {
+      "url": "https://mycheckpoint.gr/wp-content/uploads/2025/11/WORLDAIDSDAY_SQUARE.jpg",
+      "alt": "Featured image for “Παγκόσμια Ημέρα AIDS – Κάνε δωρεάν και γρήγορα το τσεκ σου για τον HIV”",
+      "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+      "pageType": "booking",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://mycheckpoint.gr/category/blog",
+          "retrievedAt": "2026-03-31T13:16:09.225Z"
+        }
+      ]
+    },
+    {
+      "url": "https://mycheckpoint.gr/wp-content/uploads/2025/11/ETW-2025-square-scaled.png",
+      "alt": "Featured image for “Ευρωπαϊκή Εβδομάδα Εξέτασης – 17 με 24 Νοεμβρίου 2025”",
+      "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+      "pageType": "booking",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://mycheckpoint.gr/category/blog",
+          "retrievedAt": "2026-03-31T13:16:09.225Z"
+        }
+      ]
+    },
+    {
+      "url": "https://mycheckpoint.gr/wp-content/uploads/2025/11/%CE%91%CE%9D%CE%A4%CE%99%CE%9C%CE%95%CE%A4%CE%A9%CE%A0%CE%99%CE%96%CE%9F%CE%9D%CE%A4%CE%91%CE%A3-%CE%A4%CE%9F%CE%A5%CE%A3-%CE%A6%CE%9F%CE%92%CE%9F%CE%A5%CE%A3-%CE%93%CE%A5%CE%A1%CE%A9-%CE%91%CE%A0%CE%9F-%CE%A4%CE%97-%CE%A3%CE%95%CE%9E%CE%9F%CE%A5%CE%91%CE%9B%CE%99%CE%9A%CE%97-%CE%A5%CE%93%CE%95%CE%99%CE%91-1080-x-1080-px-1-scaled.png",
+      "alt": "Featured image for “Αντιμετωπίζοντας τους φόβους γύρω από τη σεξουαλική υγεία | Τετάρτη 19/11, 6μμ”",
+      "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+      "pageType": "booking",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://mycheckpoint.gr/category/blog",
+          "retrievedAt": "2026-03-31T13:16:09.225Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "210 33 10 400",
+      "sourcePageUrl": "https://mycheckpoint.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://mycheckpoint.gr/",
+          "retrievedAt": "2026-03-31T13:16:01.304Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2310 282 284",
+      "sourcePageUrl": "https://mycheckpoint.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://mycheckpoint.gr/",
+          "retrievedAt": "2026-03-31T13:16:01.304Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@athcheckpoint.gr",
+      "sourcePageUrl": "https://mycheckpoint.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://mycheckpoint.gr/",
+          "retrievedAt": "2026-03-31T13:16:01.304Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "ATHAth Checkpoint Πιττάκη 4, Μοναστηράκι, Αθήνα Τηλ.: 210 33 10 400 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Pittaki 4, Monastiraki, Athens Phone : 210 33 10 400 Tue - Sat : 12:00 – 20:00THESSThess Checkpoint Εγνατία οδός 112, 3ος όροφος, Θεσσαλονίκη Τηλ : 2310 282 284 Τρ. – Σαβ.: 12:00 – 20:00 Χάρτης | Map Egnatia Odos 112, 3rd floor, Thesaloniki Phone : 2310 282 284 Tue: – Sat.: 12:00 – 20:00CONNECTSocial AHFAHF Europe INFOΡαντεβού | Appointment Κλείσε ραντεβού στα Checkpoint → Schedule an appointment at Checkpoint →",
+      "sourcePageUrl": "https://mycheckpoint.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://mycheckpoint.gr/",
+          "retrievedAt": "2026-03-31T13:16:01.304Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "sourcePageUrl": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:16:03.585Z"
+        }
+      ]
+    },
+    {
+      "type": "booking_page",
+      "value": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/focus-prevention-gr",
+      "sourcePageUrl": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/focus-prevention-gr",
+      "pageType": "booking",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/focus-prevention-gr",
+          "retrievedAt": "2026-03-31T13:16:04.752Z"
+        }
+      ]
+    },
+    {
+      "type": "booking_page",
+      "value": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+      "sourcePageUrl": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+      "pageType": "booking",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+          "retrievedAt": "2026-03-31T13:16:06.148Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "25.25.2025",
+      "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+      "pageType": "booking",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://mycheckpoint.gr/category/blog",
+          "retrievedAt": "2026-03-31T13:16:09.224Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "14.14.2025",
+      "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+      "pageType": "booking",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://mycheckpoint.gr/category/blog",
+          "retrievedAt": "2026-03-31T13:16:09.224Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "10.10.2025",
+      "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+      "pageType": "booking",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://mycheckpoint.gr/category/blog",
+          "retrievedAt": "2026-03-31T13:16:09.224Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "06.6.2025",
+      "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+      "pageType": "booking",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://mycheckpoint.gr/category/blog",
+          "retrievedAt": "2026-03-31T13:16:09.224Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "16.16.2025",
+      "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+      "pageType": "booking",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://mycheckpoint.gr/category/blog",
+          "retrievedAt": "2026-03-31T13:16:09.224Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "15.15.2024",
+      "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+      "pageType": "booking",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://mycheckpoint.gr/category/blog",
+          "retrievedAt": "2026-03-31T13:16:09.224Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "03.3.2024",
+      "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+      "pageType": "booking",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://mycheckpoint.gr/category/blog",
+          "retrievedAt": "2026-03-31T13:16:09.224Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "18.18.2024",
+      "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+      "pageType": "booking",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://mycheckpoint.gr/category/blog",
+          "retrievedAt": "2026-03-31T13:16:09.224Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "17.17.2024",
+      "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+      "pageType": "booking",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://mycheckpoint.gr/category/blog",
+          "retrievedAt": "2026-03-31T13:16:09.224Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "22.22.2024",
+      "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+      "pageType": "booking",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://mycheckpoint.gr/category/blog",
+          "retrievedAt": "2026-03-31T13:16:09.224Z"
+        }
+      ]
+    },
+    {
+      "type": "booking_page",
+      "value": "https://mycheckpoint.gr/category/blog",
+      "sourcePageUrl": "https://mycheckpoint.gr/category/blog",
+      "pageType": "booking",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://mycheckpoint.gr/category/blog",
+          "retrievedAt": "2026-03-31T13:16:09.224Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://mycheckpoint.gr/",
+    "finalOrigin": "https://mycheckpoint.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://mycheckpoint.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:16:00.570Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [],
+      "disallowRules": [],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://mycheckpoint.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:15:58.927Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://mycheckpoint.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/focus-prevention-gr",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/category/blog",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%cf%80%ce%b1%ce%b3%ce%ba%cf%8c%cf%83%ce%bc%ce%b9%ce%b1-%ce%b7%ce%bc%ce%ad%cf%81%ce%b1-aids-%ce%ba%ce%ac%ce%bd%ce%b5-%ce%b4%cf%89%cf%81%ce%b5%ce%ac%ce%bd-%ce%ba%ce%b1%ce%b9-%ce%b3%cf%81%ce%ae",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%ce%b5%cf%85%cf%81%cf%89%cf%80%ce%b1%cf%8a%ce%ba%ce%ae-%ce%b5%ce%b2%ce%b4%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1-%ce%b5%ce%be%ce%ad%cf%84%ce%b1%cf%83%ce%b7%cf%82-17-%ce%bc%ce%b5-24-%ce%bd%ce%bf%ce%b5%ce%bc",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%ce%b1%ce%bd%cf%84%ce%b9%ce%bc%ce%b5%cf%84%cf%89%cf%80%ce%af%ce%b6%ce%bf%ce%bd%cf%84%ce%b1%cf%82-%cf%84%ce%bf%cf%85%cf%82-%cf%86%cf%8c%ce%b2%ce%bf%cf%85%cf%82-%ce%b3%cf%8d%cf%81%cf%89-%ce%b1%cf%80",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/open-air-party-pittaki-street-%cf%84%ce%b5%cf%84%ce%ac%cf%81%cf%84%ce%b7-11-%ce%b9%ce%bf%cf%85%ce%bd%ce%af%ce%bf%cf%85-1800",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/3494",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/3492",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/3405",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/3398",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/3396",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/3394",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/hiv-aids",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/3381",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/ath-checkpoint",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:01.306Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:03.588Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/thess-checkpoint",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "timestamp": "2026-03-31T13:16:03.589Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/%ce%ba%ce%b9%ce%bd%ce%b7%cf%84%ce%ae-%ce%bc%ce%bf%ce%bd%ce%ac%ce%b4%ce%b1-checkpoint",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "timestamp": "2026-03-31T13:16:03.589Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%b9%ce%bf%ce%b9-%ce%b5%ce%af%ce%bc%ce%b1%cf%83%cf%84%ce%b5/refcheckpoint",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "timestamp": "2026-03-31T13:16:03.589Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/1466-2",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "timestamp": "2026-03-31T13:16:03.589Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/ypostirixe-mas",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "timestamp": "2026-03-31T13:16:03.589Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%ce%ba%ce%ae-cookies-%ce%b5%ce%b5",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "timestamp": "2026-03-31T13:16:03.589Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/focus-prevention-gr",
+        "action": "fetched",
+        "pageTypeHint": "booking",
+        "statusCode": 200,
+        "reason": "Fetched from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:04.754Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%cf%84%ce%bf-%cf%86%ce%bf%cf%81%ce%ac%cf%82-%cf%83%cf%89%cf%83%cf%84%ce%ac",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/focus-prevention-gr",
+        "timestamp": "2026-03-31T13:16:04.754Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/pep-%cf%80%cf%81%ce%bf%cf%86%cf%8d%ce%bb%ce%b1%ce%be%ce%b7-%ce%bc%ce%b5%cf%84%ce%ac-%cf%84%ce%b7%ce%bd-%ce%ad%ce%ba%ce%b8%ce%b5%cf%83%ce%b7",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/focus-prevention-gr",
+        "timestamp": "2026-03-31T13:16:04.754Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/chemsex",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/focus-prevention-gr",
+        "timestamp": "2026-03-31T13:16:04.754Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%ce%bc%ce%b7-%ce%b1%ce%bd%ce%b9%cf%87%ce%bd%ce%b5%cf%8d%cf%83%ce%b9%ce%bc%ce%bf-%ce%b9%ce%b9%ce%ba%cf%8c-%cf%86%ce%bf%cf%81%cf%84%ce%af%ce%bf-%cf%83%ce%b7%ce%bc%ce%b1%ce%af%ce%bd%ce%b5%ce%b9-%ce%bc",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/focus-prevention-gr",
+        "timestamp": "2026-03-31T13:16:04.754Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%cf%80%cf%81%ce%bf%cf%86%cf%8d%ce%bb%ce%b1%ce%be%ce%b7-%cf%80%cf%81%ce%b9%ce%bd-%ce%b1%cf%80%cf%8c-%cf%84%ce%b7%ce%bd-%ce%ad%ce%ba%ce%b8%ce%b5%cf%83%ce%b7-prep",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/focus-prevention-gr",
+        "timestamp": "2026-03-31T13:16:04.754Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+        "action": "fetched",
+        "pageTypeHint": "booking",
+        "statusCode": 200,
+        "reason": "Fetched from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:06.150Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/chemsex-support",
+        "action": "queued",
+        "pageTypeHint": "faq",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+        "timestamp": "2026-03-31T13:16:06.151Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/1456-2",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+        "timestamp": "2026-03-31T13:16:06.151Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/hivaids",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+        "timestamp": "2026-03-31T13:16:06.151Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/1468-2",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+        "timestamp": "2026-03-31T13:16:06.151Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/2137-2",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+        "timestamp": "2026-03-31T13:16:06.151Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/2179-2",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+        "timestamp": "2026-03-31T13:16:06.151Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/hep-c",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+        "timestamp": "2026-03-31T13:16:06.151Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/hep-b",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+        "timestamp": "2026-03-31T13:16:06.151Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/3373",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+        "timestamp": "2026-03-31T13:16:06.151Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/3365",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+        "timestamp": "2026-03-31T13:16:06.151Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/3367",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+        "timestamp": "2026-03-31T13:16:06.151Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/chemsex-support",
+        "action": "fetched",
+        "pageTypeHint": "faq",
+        "statusCode": 200,
+        "reason": "Fetched from https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+        "timestamp": "2026-03-31T13:16:07.861Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/category/blog",
+        "action": "fetched",
+        "pageTypeHint": "booking",
+        "statusCode": 200,
+        "reason": "Fetched from https://mycheckpoint.gr/",
+        "timestamp": "2026-03-31T13:16:09.233Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%ce%b5%cf%85%cf%81%cf%89%cf%80%ce%b1%cf%8a%ce%ba%ce%ae-%ce%b5%ce%b2%ce%b4%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1-%ce%b5%ce%be%ce%ad%cf%84%ce%b1%cf%83%ce%b7%cf%82-19-%ce%bc%ce%b5-26-%ce%bc%ce%b1%ce%90%ce%bf",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/category/blog",
+        "timestamp": "2026-03-31T13:16:09.234Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%ce%b5%cf%85%cf%81%cf%89%cf%80%ce%b1%cf%8a%ce%ba%ce%ae-%ce%b5%ce%b2%ce%b4%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1-%ce%b5%ce%be%ce%ad%cf%84%ce%b1%cf%83%ce%b7%cf%82-18-%ce%bc%ce%b5-25-%ce%bd%ce%bf%ce%b5",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/category/blog",
+        "timestamp": "2026-03-31T13:16:09.234Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%cf%84%ce%bf-checkpoint-%cf%83%cf%85%ce%bc%ce%bc%ce%b5%cf%84%ce%b5%ce%af%cf%87%ce%b5-%cf%83%cf%84%ce%bf-europride-2024-%ce%b8%ce%b5%cf%83%cf%83%ce%b1%ce%bb%ce%bf%ce%bd%ce%af%ce%ba%ce%b7",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/category/blog",
+        "timestamp": "2026-03-31T13:16:09.234Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%cf%84%ce%bf-checkpoint-%cf%83%cf%85%ce%bc%ce%bc%ce%b5%cf%84%ce%b5%ce%af%cf%87%ce%b5-%cf%83%cf%84%ce%bf-athens-pride-2024",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/category/blog",
+        "timestamp": "2026-03-31T13:16:09.234Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%ce%ad%cf%86%cf%84%ce%b1%cf%83%ce%b5-%ce%b7-%ce%b5%ce%b1%cf%81%ce%b9%ce%bd%ce%ae-%ce%b5%cf%85%cf%81%cf%89%cf%80%ce%b1%cf%8a%ce%ba%ce%ae-%ce%b5%ce%b2%ce%b4%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1-%ce%b5%ce%be",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/category/blog",
+        "timestamp": "2026-03-31T13:16:09.234Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/sexperts-%ce%bd%cf%84%ce%af%ce%bd%cf%84%ce%b1-%ce%b6%ce%b1%cf%86%ce%b5%ce%b9%cf%81%ce%af%ce%bf%cf%85",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/category/blog",
+        "timestamp": "2026-03-31T13:16:09.234Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/category/blog/page/2",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/category/blog",
+        "timestamp": "2026-03-31T13:16:09.234Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/category/blog/page/6",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://mycheckpoint.gr/category/blog",
+        "timestamp": "2026-03-31T13:16:09.234Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:16:11.917Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:16:13.953Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/focus-prevention-gr",
+        "action": "screenshot_captured",
+        "pageTypeHint": "booking",
+        "timestamp": "2026-03-31T13:16:16.075Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae/lexicon-std",
+        "action": "screenshot_captured",
+        "pageTypeHint": "booking",
+        "timestamp": "2026-03-31T13:16:18.315Z"
+      },
+      {
+        "url": "https://mycheckpoint.gr/category/blog",
+        "action": "screenshot_captured",
+        "pageTypeHint": "booking",
+        "timestamp": "2026-03-31T13:16:21.201Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

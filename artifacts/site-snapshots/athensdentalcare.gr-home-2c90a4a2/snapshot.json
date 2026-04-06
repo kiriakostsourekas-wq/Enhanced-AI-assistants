@@ -1,0 +1,2543 @@
+{
+  "domain": "athensdentalcare.gr",
+  "collectedAt": "2026-03-31T13:14:52.474Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensdentalcare.gr-home-2c90a4a2",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://athensdentalcare.gr/",
+      "finalUrl": "https://athensdentalcare.gr/",
+      "fetchedAt": "2026-03-31T13:14:37.766Z",
+      "metadata": {
+        "title": "Αρχική - Athens Dental Care",
+        "canonicalUrl": "https://athensdentalcare.gr/",
+        "language": "el",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Αρχική - Athens Dental Care"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Όλες οι ειδικότητες σε έναν χώρο!"
+        },
+        {
+          "level": "h1",
+          "text": "Τι θα βρείτε στην κλινική μας"
+        },
+        {
+          "level": "h2",
+          "text": "Search"
+        },
+        {
+          "level": "h2",
+          "text": "Τέλος τα σιδεράκια! Αόρατη Ορθοδοντική"
+        },
+        {
+          "level": "h2",
+          "text": "Τα πάντα για ένα τέλειο χαμόγελο!"
+        },
+        {
+          "level": "h2",
+          "text": "Εύκολες θεραπείες σε μικρές ηλικίες"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://athensdentalcare.gr/"
+        },
+        {
+          "href": "https://athensdentalcare.gr/en/"
+        },
+        {
+          "href": "https://athensdentalcare.gr/doctors/",
+          "label": "Γνώρισέ μας"
+        },
+        {
+          "href": "https://athensdentalcare.gr/iatreio",
+          "label": "Ο Χώρος μας"
+        },
+        {
+          "href": "https://athensdentalcare.gr/mathe-pos-doulevoume",
+          "label": "Πώς δουλεύουμε"
+        },
+        {
+          "href": "https://athensdentalcare.gr/prin-kai-meta",
+          "label": "Πριν & Μετά"
+        },
+        {
+          "href": "https://athensdentalcare.gr/orthodontiki",
+          "label": "Ορθοδοντική"
+        },
+        {
+          "href": "https://athensdentalcare.gr/odontiatriki",
+          "label": "Οδοντιατρική"
+        },
+        {
+          "href": "https://athensdentalcare.gr/koinoniki-eythini/",
+          "label": "Ευθύνη"
+        },
+        {
+          "href": "https://athensdentalcare.gr/contact/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/aorati-orthodontiki/",
+          "label": "Invisalign DIAMOND providers"
+        },
+        {
+          "href": "https://athensdentalcare.gr/prin-kai-meta/",
+          "label": "Πριν & Μετά"
+        },
+        {
+          "href": "https://athensdentalcare.gr/odontiatriki/",
+          "label": "Οδοντιατρική"
+        },
+        {
+          "href": "https://athensdentalcare.gr/orthodontiki/",
+          "label": "Ορθοδοντική"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/proliptiki-orthodontiki/",
+          "label": "Πρόληψη"
+        },
+        {
+          "href": "https://athensdentalcare.gr/mathe-pos-doulevoume/",
+          "label": "Μέθοδοι Πληρωμής"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services",
+          "label": "όλες οι ειδικότητες"
+        },
+        {
+          "href": "https://athensdentalcare.gr/doctors/pinelopi-giakoumaki/"
+        },
+        {
+          "href": "https://athensdentalcare.gr/doctors/melina-moraiti/"
+        },
+        {
+          "href": "https://athensdentalcare.gr/doctors/pablo-lirio-del-saz/"
+        },
+        {
+          "href": "https://athensdentalcare.gr/doctors/paraskevi-grigoriadi/"
+        },
+        {
+          "href": "https://athensdentalcare.gr/doctors/giorgos-katsikarelis"
+        },
+        {
+          "href": "https://athensdentalcare.gr/doctors/tatiana-glinou"
+        },
+        {
+          "href": "https://athensdentalcare.gr/doctors",
+          "label": "Γνώρισέ μας!"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/aorati-orthodontiki"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/orthodontiki"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/aisthitiki-odontiatriki"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/emfitevmata"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/xeirourgiki-stomatos"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/periodontologia"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/prosthetiki"
+        },
+        {
+          "href": "https://athensdentalcare.gr/51-%ce%bc%cf%8d%ce%b8%ce%bf%ce%b9-%ce%b3%ce%b9%ce%b1-%cf%84%ce%b7%ce%bd-%ce%b1%cf%8c%cf%81%ce%b1%cf%84%ce%b7-%ce%bf%cf%81%ce%b8%ce%bf%ce%b4%ce%bf%ce%bd%cf%84%ce%b9%ce%ba%ce%ae-%ce%bc%ce%b5-%ce%b4/"
+        },
+        {
+          "href": "https://athensdentalcare.gr/aorati-orthodontiki/"
+        },
+        {
+          "href": "https://athensdentalcare.gr/lefkansi/"
+        },
+        {
+          "href": "https://athensdentalcare.gr/fronimites/"
+        },
+        {
+          "href": "https://athensdentalcare.gr/about-us/certifications"
+        },
+        {
+          "href": "https://athensdentalcare.gr/media"
+        },
+        {
+          "href": "https://athensdentalcare.gr/blog"
+        },
+        {
+          "href": "https://athensdentalcare.gr/about-us/iatreio/",
+          "label": "Το Ιατρείο"
+        },
+        {
+          "href": "https://athensdentalcare.gr/terms/",
+          "label": "Πολιτική Απορρήτου"
+        },
+        {
+          "href": "https://athensdentalcare.gr/cookies-policy/",
+          "label": "Πολιτική Cookies"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://athensdentalcare.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "s",
+              "type": "text",
+              "label": "Looking for...",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "210 72 93 211",
+          "210 72 93 2116942 620 072",
+          "00302107293211"
+        ],
+        "emails": [],
+        "addresses": [
+          "/* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"https:\\/\\/athensdentalcare.gr\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/athensdental.care"
+          },
+          {
+            "href": "https://www.instagram.com/athensdentalcare/"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UCwpubVdKqplRjPsrUZY38mw"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://athensdentalcare.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "s",
+                "type": "text",
+                "label": "Looking for...",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "textContent": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-MCBWDX8W\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Καθημερινά 10:00 - 20:00Βασ. Σοφίας 92, Αθήνα Search 210 72 93 211 ㅤ Κλινική Γνώρισέ μας Ο Χώρος μας Πώς δουλεύουμε Θεραπείες Πριν & Μετά Ορθοδοντική Οδοντιατρική Ευθύνη Επικοινωνία Το πιο άνετο και ευχάριστο περιβάλλον φροντίζει για το χαμόγελό σας! Τέλος τα σιδεράκια! Αόρατη ΟρθοδοντικήΚλείστε ΔΩΡΕΑΝ το πρώτο σας ραντεβού & ρωτήστε μας για εναλλακτικούς τρόπους Ορθοδοντικής. Invisalign DIAMOND providersΠριν & ΜετάΤα πάντα για ένα τέλειο χαμόγελο!Oλοκληρωμένα σχέδια Ορθοδοντικής θεραπείας & εξειδικευμένες ειδικότητες Οδοντιατρικής. Εμείς προτείνουμε. Εσείς επιλέγετε! ΟδοντιατρικήΟρθοδοντικήΕύκολες θεραπείες σε μικρές ηλικίεςΣύγχρονες τεχνικές πρόληψης για να αποφύγετε τα σιδεράκια.ΠρόληψηΜέθοδοι Πληρωμής όλες οι ειδικότητεςΌλες οι ειδικότητες σε έναν χώρο! Πηνελόπη ΓιακουμάκηΟρθοδοντική για παιδιά & ενήλικες Μελίνα ΜωραΐτηΟρθοδοντική για παιδιά & ενήλικες Dr. Pablo Lirio del SazΚαθηγητής Ορθοδοντικής C.E.U., Invisalign Speaker Παρασκευή ΓρηγοριάδηΑισθητική & Γενική Οδοντιατρική Γιώργος ΚατσικαρέληςΓενική Οδοντιατρική Τατιάνα ΓλήνουΠεριοδοντολογία – Εμφυτεύματα Γνώρισέ μας!Τι θα βρείτε στην κλινική μαςAόρατη ΟρθοδοντικήΟρθοδοντικήΠροληπτική ΟρθοδοντικήΑισθητική ΟδοντιατρικήΕμφυτεύματαΧειρουργική ΣτόματοςΠεριοδοντολογίαΠροσθετική5+1 μύθοι για την Ορθοδοντική με νάρθηκεςΑόρατη Ορθοδοντική: Συχνές απορίεςΛεύκανση: Όλα όσα πρέπει να γνωρίζετε!Φρονιμίτες: Τι πρέπει να κάνω;Πιστοποιημένο ΙατρείοΗ επιστημονική μας ομάδα διαθέτει πιστοποίηση στις μεθόδους Αόρατης Ορθοδοντικής Invisalign (DIAMOND providers), Incognito, Spark, Angel & Clear Aligner. Χαμόγελα Πριν & Μετά…γιατί η ομορφότερη καμπύλη στο σώμα μας είναι το χαμόγελό μας! Παρουσία στα MediaΤο Athens Dental Care με σημαντική παρουσία σε Τηλεόραση & Tύπο! Έμπειρο Προσωπικό3 ορθοδοντικοί διαμορφώνουν το κατάλληλο για εσάς σχέδιο θεραπείας. O Καθηγητής Dr. Pablo Lirio είναι επίσημος ομιλητής της Invisalign για όλη την Ευρώπη. Ευχάριστο ΠεριβάλλονΣε έναν άνετο και ευχάριστο χώρο συστεγασμένων ιατρείων στο κέντρο της Αθήνας, δίπλα στο μετρό του Μεγάρου Μουσικής. Χρήσιμες ΣυμβουλέςΛύνουμε τις συχνές απορίες και σας δίνουμε εύκολες συμβουλές για την καθημερινότητα της στοματικής σας υγείας. ... smiles with signatureΕλάτε να δημιουργήσουμε μαζί το χαμόγελο που ονειρεύεστε! Το Athens Dental Care είναι μια σύγχρονη, πρότυπη μονάδα παροχής οδοντιατρικών υπηρεσιών, όπου ασκούνται όλες οι ειδικότητες της Οδοντιατρικής. Χρήσιμοι ΣύνδεσμοιΤο Ιατρείο Η Ομάδα Media Χρήσιμες Συμβουλές Πολιτική Απορρήτου Πολιτική Cookies Επικοινωνία Social MediaΡωτήστε μας210 72 93 2116942 620 072Ωράριο ΛειτουργίαςΔευτέρα10:00 - 20:00Τρίτη10:00 - 20:00Τετάρτη10:00 - 20:00Πέμπτη10:00 - 20:00Παρασκευή10:00 - 18:00Σάββατο/ΚυριακήΚλειστάCopyright © 2025 Athens Dental Care. Επιστροφή Created by DigiDome. Copyright © 2025 Athens Dental Care. Επιστροφή Created by DigiDome. <div class=\"cky-overlay cky-hide\"></div><div class=\"cky-consent-container cky-hide\"> <div class=\"cky-consent-bar\" data-cky-tag=\"notice\" style=\"background-color:#FFFFFF;border-color:#f4f4f4\"> <div class=\"cky-notice\"> <p class=\"cky-title\" data-cky-tag=\"title\" style=\"color:#212121\">Πολιτική Cookies</p><div class=\"cky-notice-group\"> <div class=\"cky-notice-des\" data-cky-tag=\"description\" style=\"color:#212121\"> <p><span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\">Ο συγκεκριμένος ιστότοπος χρησιμοποιεί απολύτως \"απαραίτητα cookies\" με σκοπό την ορθή λειτουργία του τα οποία σας επιτρέπουν να κάνετε περιήγηση και να χρησιμοποιήσετε τις λειτουργίες του.</span></p> </div><div class=\"cky-notice-btn-wrapper\" data-cky-tag=\"notice-buttons\"> <button class=\"cky-btn cky-btn-customize\" aria-label=\"Επεξεργασία\" data-cky-tag=\"settings-button\" style=\"color:#6d6d6d;background-color:transparent;border-color:#6D6D6D\">Επεξεργασία</button> <button class=\"cky-btn cky-btn-reject\" aria-label=\"Απόρριψη όλων\" data-cky-tag=\"reject-button\" style=\"color:#6D6D6D;background-color:transparent;border-color:#6D6D6D\">Απόρριψη όλων</button> <button class=\"cky-btn cky-btn-accept\" aria-label=\"Αποδοχή όλων\" data-cky-tag=\"accept-button\" style=\"color:#FFFFFF;background-color:#6d6d6d;border-color:#6d6d6d\">Αποδοχή όλων</button> </div></div></div></div></div><div class=\"cky-modal\"> <div class=\"cky-preference-center\" data-cky-tag=\"detail\" style=\"color:#212121;background-color:#FFFFFF;border-color:#f4f4f4\"> <div class=\"cky-preference-header\"> <span class=\"cky-preference-title\" data-cky-tag=\"detail-title\" style=\"color:#212121\">Προτιμήσεις Cookies</span> <button class=\"cky-btn-close\" aria-label=\"[cky_preference_close_label]\" data-cky-tag=\"detail-close\"> <img src=\"https://athensdentalcare.gr/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg\" alt=\"Close\"> </button> </div><div class=\"cky-preference-body-wrapper\"> <div class=\"cky-preference-content-wrapper\" data-cky-tag=\"detail-description\" style=\"color:#212121\"> <p><span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\">Ο συγκεκριμένος ιστότοπος χρησιμοποιεί απολύτως \"απαραίτητα cookies\" με σκοπό την ορθή λειτουργία του τα οποία σας επιτρέπουν να κάνετε περιήγηση και να χρησιμοποιήσετε τις λειτουργίες του, όπως πρόσβαση σε ασφαλείς περιοχές καθώς και τις παρακάτω κατηγορίες προαιρετικών cookies. </span></p> <p><span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\">Κατά την είσοδό σας στον ιστότοπό μας, έχετε τη δυνατότητα είτε να αποδεχθείτε όλα τα cookies (\"αποδοχή όλων\"), είτε να συνεχίσετε την περιήγησή σας απορρίπτοντας όλα τα μη απαραίτητα cookies (\"Απόρριψη Όλων\"), είτε να επιλέξετε συγκεκριμένα cookies από τις αναφερθείσες κατηγορίες και να πατήσετε το κουμπί (\"Αποδοχή Επιλεγμένων\"). </span></p> <p><span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\">Για περισσότερες πληροφορίες μπορείτε να ανατρέξετε στην “Προβολή Λεπτομερειών” ή στην Πολιτική Cookies. Μπορείτε να μεταβάλλετε τη συναίνεσή σας οποιαδήποτε στιγμή.</span></p> </div><div class=\"cky-accordion-wrapper\" data-cky-tag=\"detail-categories\"> <div class=\"cky-accordion\" id=\"ckyDetailCategorynecessary\"> <div class=\"cky-accordion-item\"> <div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div> <div class=\"cky-accordion-header-wrapper\"> <div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-label=\"Απαραίτητα\" data-cky-tag=\"detail-category-title\" style=\"color:#212121\">Απαραίτητα</button><span class=\"cky-always-active\">Πάντα ενεργά</span> <div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" id=\"ckySwitchnecessary\"></div> </div> <div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color:#212121\"> <p><span class=\"HwtZe\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Τα απαραίτητα cookies απαιτούνται για την ενεργοποίηση των βασικών λειτουργιών αυτού του ιστότοπου, όπως η παροχή ασφαλούς σύνδεσης ή η προσαρμογή των προτιμήσεων συναίνεσης.</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Αυτά τα cookies δεν αποθηκεύουν προσωπικά δεδομένα.</span></span></span></p></div> </div> </div> <div class=\"cky-accordion-body\"> <div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color:#212121;background-color:#f4f4f4;border-color:#ebebeb\"><p class=\"cky-empty-cookies-text\">No cookies to display.</p></div> </div> </div><div class=\"cky-accordion\" id=\"ckyDetailCategoryfunctional\"> <div class=\"cky-accordion-item\"> <div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div> <div class=\"cky-accordion-header-wrapper\"> <div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-label=\"Λειτουργικά\" data-cky-tag=\"detail-category-title\" style=\"color:#212121\">Λειτουργικά</button><span class=\"cky-always-active\">Πάντα ενεργά</span> <div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" id=\"ckySwitchfunctional\"></div> </div> <div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color:#212121\"> <p><span class=\"HwtZe\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Τα λειτουργικά cookies βοηθούν στην εκτέλεση ορισμένων λειτουργιών, όπως η κοινή χρήση του περιεχομένου του ιστότοπου σε πλατφόρμες μέσων κοινωνικής δικτύωσης, η συλλογή σχολίων και άλλες λειτουργίες τρίτων.</span></span></span></p></div> </div> </div> <div class=\"cky-accordion-body\"> <div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color:#212121;background-color:#f4f4f4;border-color:#ebebeb\"><p class=\"cky-empty-cookies-text\">No cookies to display.</p></div> </div> </div><div class=\"cky-accordion\" id=\"ckyDetailCategoryanalytics\"> <div class=\"cky-accordion-item\"> <div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div> <div class=\"cky-accordion-header-wrapper\"> <div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-label=\"Στατιστικά\" data-cky-tag=\"detail-category-title\" style=\"color:#212121\">Στατιστικά</button><span class=\"cky-always-active\">Πάντα ενεργά</span> <div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" id=\"ckySwitchanalytics\"></div> </div> <div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color:#212121\"> <p><span class=\"HwtZe\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Τα cookies στατιστικών χρησιμοποιούνται για την κατανόηση του τρόπου με τον οποίο οι επισκέπτες αλληλεπιδρούν με τον ιστότοπο.</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Αυτά τα cookies βοηθούν στην παροχή πληροφοριών σχετικά με μετρήσεις όπως ο αριθμός των επισκεπτών, το ποσοστό εγκατάλειψης, η πηγή επισκεψιμότητας κλπ</span></span></span></p></div> </div> </div> <div class=\"cky-accordion-body\"> <div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color:#212121;background-color:#f4f4f4;border-color:#ebebeb\"><p class=\"cky-empty-cookies-text\">No cookies to display.</p></div> </div> </div><div class=\"cky-accordion\" id=\"ckyDetailCategoryperformance\"> <div class=\"cky-accordion-item\"> <div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div> <div class=\"cky-accordion-header-wrapper\"> <div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-label=\"Απόδοσης\" data-cky-tag=\"detail-category-title\" style=\"color:#212121\">Απόδοσης</button><span class=\"cky-always-active\">Πάντα ενεργά</span> <div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" id=\"ckySwitchperformance\"></div> </div> <div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color:#212121\"> <p><span class=\"HwtZe\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Τα cookie απόδοσης χρησιμοποιούνται για την κατανόηση και την ανάλυση των βασικών δεικτών απόδοσης του ιστότοπου, γεγονός που βοηθά στην παροχή καλύτερης εμπειρίας χρήστη για τους επισκέπτες.</span></span></span></p></div> </div> </div> <div class=\"cky-accordion-body\"> <div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color:#212121;background-color:#f4f4f4;border-color:#ebebeb\"><p class=\"cky-empty-cookies-text\">No cookies to display.</p></div> </div> </div><div class=\"cky-accordion\" id=\"ckyDetailCategoryadvertisement\"> <div class=\"cky-accordion-item\"> <div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div> <div class=\"cky-accordion-header-wrapper\"> <div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-label=\"Διαφήμισης\" data-cky-tag=\"detail-category-title\" style=\"color:#212121\">Διαφήμισης</button><span class=\"cky-always-active\">Πάντα ενεργά</span> <div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" id=\"ckySwitchadvertisement\"></div> </div> <div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color:#212121\"> <p><span class=\"HwtZe\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Τα cookies διαφήμισης χρησιμοποιούνται για την παροχή προσαρμοσμένων διαφημίσεων στους επισκέπτες, με βάση τις σελίδες που επισκεφτήκατε προηγουμένως και για την ανάλυση της αποτελεσματικότητας των διαφημιστικών καμπανιών.</span></span></span></p></div> </div> </div> <div class=\"cky-accordion-body\"> <div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color:#212121;background-color:#f4f4f4;border-color:#ebebeb\"><p class=\"cky-empty-cookies-text\">No cookies to display.</p></div> </div> </div> </div></div><div class=\"cky-footer-wrapper\"> <span class=\"cky-footer-shadow\"></span> <div class=\"cky-prefrence-btn-wrapper\" data-cky-tag=\"detail-buttons\"> <button class=\"cky-btn cky-btn-reject\" aria-label=\"Απόρριψη όλων\" data-cky-tag=\"detail-reject-button\" style=\"color:#6D6D6D;background-color:transparent;border-color:#6D6D6D\"> Απόρριψη όλων </button> <button class=\"cky-btn cky-btn-preferences\" aria-label=\"Αποθήκευση προτιμήσεων\" data-cky-tag=\"detail-save-button\" style=\"color:#6d6d6d;background-color:transparent;border-color:#6d6d6d\"> Αποθήκευση προτιμήσεων </button> <button class=\"cky-btn cky-btn-accept\" aria-label=\"Αποδοχή όλων\" data-cky-tag=\"detail-accept-button\" style=\"color:#FFFFFF;background-color:#6d6d6d;border-color:#6d6d6d\"> Αποδοχή όλων </button> </div><div style=\"padding: 8px 24px;font-size: 12px;font-weight: 400;line-height: 20px;text-align: right;border-radius: 0 0 6px 6px;direction: ltr;display: flex;justify-content: flex-end;align-items: center;background-color:#EDEDED;color:#293C5B\" data-cky-tag=\"detail-powered-by\"> Powered by <a target=\"_blank\" href=\"https://www.cookieyes.com/product/cookie-consent\" style=\"margin-left: 5px;line-height: 0\"><img src=\"https://athensdentalcare.gr/wp-content/plugins/cookie-law-info/lite/frontend/images/poweredbtcky.svg\" alt=\"Cookieyes logo\" style=\"width: 78px;height: 13px;margin: 0\"></a> </div></div></div></div> var cffajaxurl = \"https://athensdentalcare.gr/wp-admin/admin-ajax.php\"; var cfflinkhashtags = \"true\"; var sbiajaxurl = \"https://athensdentalcare.gr/wp-admin/admin-ajax.php\"; /* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"https:\\/\\/athensdentalcare.gr\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */ window.BoldThemesURI = \"https://athensdentalcare.gr/wp-content/themes/denticare\"; window.BoldThemesAJAXURL = \"https://athensdentalcare.gr/wp-admin/admin-ajax.php\";window.boldthemes_text = [];window.boldthemes_text.previous = 'previous';window.boldthemes_text.next = 'next'; var boldthemes_dropdown = document.querySelector( \".widget_categories #cat\" ); function boldthemes_onCatChange() { if ( boldthemes_dropdown.options[boldthemes_dropdown.selectedIndex].value > 0 ) { location.href = \"https://athensdentalcare.gr/?cat=\"+boldthemes_dropdown.options[boldthemes_dropdown.selectedIndex].value; } } if ( boldthemes_dropdown !== null ) { boldthemes_dropdown.onchange = boldthemes_onCatChange; } /* <![CDATA[ */ var slider_object = {\"slider_id\":\"bt_bb_content_slider_80850\"}; /* ]]> */ /* <![CDATA[ */ var slider_object = {\"slider_id\":\"bt_bb_content_slider_59936\"}; /* ]]> */ jQuery(function() { jQuery( \".bt_bb_background_video_yt\" ).YTPlayer();});",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensdentalcare.gr-home-2c90a4a2/homepage--2c90a4a2.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensdentalcare.gr-home-2c90a4a2/homepage--2c90a4a2.txt",
+      "imageReferences": [
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2021/02/adc_logo5_wh.png",
+          "alt": "Athens Dental Care",
+          "sourcePageUrl": "https://athensdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:14:37.764Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2020/12/adc_logo5.png",
+          "alt": "Athens Dental Care",
+          "sourcePageUrl": "https://athensdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:14:37.764Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.svg",
+          "alt": "Ελληνικά",
+          "sourcePageUrl": "https://athensdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:14:37.764Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg",
+          "alt": "Αγγλικά",
+          "sourcePageUrl": "https://athensdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:14:37.764Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2021/02/top-cover-inv.png",
+          "alt": "bt_bb_section_top_section_coverage_image",
+          "sourcePageUrl": "https://athensdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:14:37.764Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2020/01/bottom-cover.png",
+          "alt": "bt_bb_section_bottom_section_coverage_image",
+          "sourcePageUrl": "https://athensdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:14:37.764Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-32.jpg",
+          "alt": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-32.jpg",
+          "sourcePageUrl": "https://athensdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:14:37.764Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-51.jpg",
+          "alt": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-51.jpg",
+          "sourcePageUrl": "https://athensdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:14:37.764Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-90.jpg",
+          "alt": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-90.jpg",
+          "sourcePageUrl": "https://athensdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:14:37.764Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-199.jpg",
+          "alt": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-199.jpg",
+          "sourcePageUrl": "https://athensdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:14:37.764Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2024/02/Captura-de-pantalla-2024-02-09-a-las-21.39.42.png",
+          "alt": "https://athensdentalcare.gr/wp-content/uploads/2024/02/Captura-de-pantalla-2024-02-09-a-las-21.39.42.png",
+          "sourcePageUrl": "https://athensdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:14:37.764Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-259.jpg",
+          "alt": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-259.jpg",
+          "sourcePageUrl": "https://athensdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:14:37.764Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.766Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensdentalcare.gr-home-2c90a4a2/homepage-page-2c90a4a2.png"
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "https://athensdentalcare.gr/services",
+      "finalUrl": "https://athensdentalcare.gr/services",
+      "fetchedAt": "2026-03-31T13:14:43.794Z",
+      "metadata": {
+        "title": "Ειδικότητες - Athens Dental Care",
+        "canonicalUrl": "https://athensdentalcare.gr/services/",
+        "language": "el",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Ειδικότητες - Athens Dental Care",
+        "openGraphDescription": "Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service."
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Search"
+        },
+        {
+          "level": "h2",
+          "text": "Στην κλινική μας"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://athensdentalcare.gr/"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/"
+        },
+        {
+          "href": "https://athensdentalcare.gr/en/services/"
+        },
+        {
+          "href": "https://athensdentalcare.gr/doctors/",
+          "label": "Γνώρισέ μας"
+        },
+        {
+          "href": "https://athensdentalcare.gr/iatreio",
+          "label": "Ο Χώρος μας"
+        },
+        {
+          "href": "https://athensdentalcare.gr/mathe-pos-doulevoume",
+          "label": "Πώς δουλεύουμε"
+        },
+        {
+          "href": "https://athensdentalcare.gr/prin-kai-meta",
+          "label": "Πριν & Μετά"
+        },
+        {
+          "href": "https://athensdentalcare.gr/orthodontiki",
+          "label": "Ορθοδοντική"
+        },
+        {
+          "href": "https://athensdentalcare.gr/odontiatriki",
+          "label": "Οδοντιατρική"
+        },
+        {
+          "href": "https://athensdentalcare.gr/koinoniki-eythini/",
+          "label": "Ευθύνη"
+        },
+        {
+          "href": "https://athensdentalcare.gr/contact/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/aorati-orthodontiki",
+          "label": "Αόρατη Ορθοδοντική"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/orthodontiki",
+          "label": "Ορθοδοντική"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/aisthitiki-odontiatriki",
+          "label": "Αισθητική Οδοντιατρική"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/emfitevmata",
+          "label": "Εμφυτεύματα"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/prosthetiki",
+          "label": "Προσθετική"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/xeirourgiki-stomatos",
+          "label": "Χειρουργική Στόματος"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/periodontologia",
+          "label": "Περιοδοντολογία"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/paidodontia",
+          "label": "Παιδοδοντία"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/stomatologia",
+          "label": "Στοματολογία"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/proliptiki-odontiatriki",
+          "label": "Προληπτική Οδοντιατρική"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/stomatoprosopikos-ponos",
+          "label": "Στοματοπροσωπικός Πόνος"
+        },
+        {
+          "href": "https://athensdentalcare.gr/services/prasini-diaxeirisi",
+          "label": "Πράσινη διαχείριση"
+        },
+        {
+          "href": "https://athensdentalcare.gr/about-us/iatreio/",
+          "label": "Το Ιατρείο"
+        },
+        {
+          "href": "https://athensdentalcare.gr/media",
+          "label": "Media"
+        },
+        {
+          "href": "https://athensdentalcare.gr/blog",
+          "label": "Χρήσιμες Συμβουλές"
+        },
+        {
+          "href": "https://athensdentalcare.gr/terms/",
+          "label": "Πολιτική Απορρήτου"
+        },
+        {
+          "href": "https://athensdentalcare.gr/cookies-policy/",
+          "label": "Πολιτική Cookies"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://athensdentalcare.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "s",
+              "type": "text",
+              "label": "Looking for...",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "210 72 93 211",
+          "210 72 93 2116942 620 072",
+          "00302107293211"
+        ],
+        "emails": [],
+        "addresses": [
+          "/* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"https:\\/\\/athensdentalcare.gr\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/athensdental.care"
+          },
+          {
+            "href": "https://www.instagram.com/athensdentalcare/"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UCwpubVdKqplRjPsrUZY38mw"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://athensdentalcare.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "s",
+                "type": "text",
+                "label": "Looking for...",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "textContent": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-MCBWDX8W\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Καθημερινά 10:00 - 20:00Βασ. Σοφίας 92, Αθήνα Search 210 72 93 211 ㅤ Κλινική Γνώρισέ μας Ο Χώρος μας Πώς δουλεύουμε Θεραπείες Πριν & Μετά Ορθοδοντική Οδοντιατρική Ευθύνη Επικοινωνία Κύριο μέλημά μας είναι να κάνουμε υγιείς και χαρούμενους τους μικρούς και μεγάλους ασθενείς μας! Στην κλινική μαςθα βρείτε όλες τις ειδικότητες της Οδοντιατρικής και τα κατάλληλα πρωτόκολλα για την φροντίδα της οδοντοστοιχίας σας. Θέλουμε να βλέπουμε υγιείς και χαρούμενους ανθρώπους σε κάθε ηλικία. Εκπαιδευτήκαμε για να σας παρέχουμε τις καλύτερες οδοντιατρικές υπηρεσίες και είμαστε εδώ για να βελτιώσουμε την ποιότητα ζωής σας. Προτεραιότητα μας είναι η σωστή λειτουργία του στόματος σας και η επιβράβευση μας ένα όμορφο χαμόγελο. Είμαστε εδώ για να σας προτείνουμε ασφαλείς λύσεις και να ικανοποιήσουμε τις δικές σας ανάγκες. Αόρατη ΟρθοδοντικήΑόρατη ορθοδοντική αποκαλούμε τη νέα μέθοδο αποκατάστασης ορθοδοντικών ανωμαλιών χωρίς σιδεράκια, με τη χρήση διαφανών ναρθήκων που μετακινούν προοδευτικά τα δόντια προς την επιθυμητή θέση χρησιμοποιώντας υψηλή τεχνολογία και υπολογιστές. ΠερισσότεραΟρθοδοντική Με τη βοήθεια της Ορθοδοντικής μπορούμε να αποκαταστήσουμε τις ανωμαλίες σύγκλεισης και να αποδώσουμε στο στόμα την ιδανική αισθητική εκδοχή του, σωστότερες αναλογίες προσώπου, υγιή δόντια, καλύτερη μάσηση, καλύτερη άρθρωση και άρα καλύτερη υγεία. ΠερισσότεραΑισθητική ΟδοντιατρικήΛεύκανση, όψεις, ένθετα και στεφάνες: όλα είναι κομμάτι της Αισθητικής Οδοντιατρικής! Ειδικότερα, η αισθητική οδοντιατρική απαντάει στην επιθυμία όλων μας για βελτιωμένη αισθητική και ένα καλύτερο χαμόγελο. ΠερισσότεραΕμφυτεύματαΜε τον όρο εμφυτεύματα εννοούμε τεχνητές ρίζες δοντιού συνήθως από τιτάνιο που τοποθετούνται στο οστό της άνω ή κάτω γνάθου “αντικαθιστώντας” ελλείποντα δόντια. ΠερισσότεραΠροσθετικήΓέφυρες, στεφάνες, ολικές και μερικές κινητές οδοντοστοιχίες: είναι ορισμένα από τα μέσα της Επανορθωτικής Οδοντιατρικής (που χωρίζεται στην Κινητή και Ακίνητη Προσθετική) και έχει στόχο την αποκατάσταση του οδοντικού φραγμού μετά την απώλεια ενός ή περισσοτέρων δοντιών. ΠερισσότεραΧειρουργική ΣτόματοςΤα πιο συνηθισμένα περιστατικά που εντάσσονται στη Χειρουργική στόματος και αντιμετωπίζονται στο ιατρείο είναι έγκλειστοι και ημιέγκλειστοι φρονιμίτες, έγκλειστα δόντια, υπολείμματα ριζών και περιακρορριζικές κύστεις. ΠερισσότεραΠεριοδοντολογίαΗ Περιοδοντολογία ασχολείται με την αντιμετώπιση των νόσων του περιοδοντίου, δηλαδή των στηρικτικών ιστών που περιβάλλουν τα δόντια. Οι νόσοι των ούλων (ουλίτιδα, περιοδοντίτιδα) είναι οι κύριες υπεύθυνες για την απώλεια περισσότερων δοντιών από ότι όλα τα άλλα οδοντικά νοσήματα μαζί. ΠερισσότεραΠαιδοδοντίαΗ Παιδοδοντία είναι ο κλάδος της Οδοντιατρικής που ασχολείται με την παρακολούθηση της υγείας και την αντιμετώπιση προβλημάτων της στοματικής κοιλότητας των παιδιών και των εφήβων. ΠερισσότεραΣτοματολογίαΗ Στοματολογία ή Παθολογία του στόματος ασχολείται με τη διάγνωση και τη θεραπεία νοσημάτων του βλεννογόνου του στόματος (γλώσσα, υπερώα, παρειές, χείλη, έδαφος στόματος), των σιαλογόνων αδένων και των οστών των γνάθων, τα οποία μπορεί να οφείλονται σε τοπικούς ή σε γενικούς παράγοντες (συστηματικά νοσήματα). ΠερισσότεραΠροληπτική ΟδοντιατρικήΗ Προληπτική Οδοντιατρική στα παιδιά αφορά την αποφυγή εμφάνισης ουλίτιδας και τερηδόνας στα νεογιλά και μόνιμα δόντια. Στους ενήλικες μάς ενδιαφέρει η διατήρηση της υγείας των δοντιών χωρίς νέες τερηδόνες ή νόσους του περιοδοντίου, αλλά και η έγκαιρη διάγνωση νόσων βλεννογόνου και κυρίως καρκίνου του στόματος. ΠερισσότεραΣτοματοπροσωπικός ΠόνοςΟ όρος στοματοπροσωπικός πόνος αφορά κρανιοπροσωπικούς ή στοματογναθικούς πόνους διαφορετικής έντασης, διάρκειας και χρονιότητας. ΠερισσότεραΠράσινη διαχείρισηΣτο Athens Dental Care φροντίζουμε μέσω μίας σειράς πρακτικών (όπως η ανακύκλωση και ο έλεγχος τοξικών και μολυσματικών αποβλήτων) για τη μείωση του ενεργειακού αποτ Περισσότερα ... smiles with signatureΕλάτε να δημιουργήσουμε μαζί το χαμόγελο που ονειρεύεστε! Το Athens Dental Care είναι μια σύγχρονη, πρότυπη μονάδα παροχής οδοντιατρικών υπηρεσιών, όπου ασκούνται όλες οι ειδικότητες της Οδοντιατρικής. Χρήσιμοι ΣύνδεσμοιΤο Ιατρείο Η Ομάδα Media Χρήσιμες Συμβουλές Πολιτική Απορρήτου Πολιτική Cookies Επικοινωνία Social MediaΡωτήστε μας210 72 93 2116942 620 072Ωράριο ΛειτουργίαςΔευτέρα10:00 - 20:00Τρίτη10:00 - 20:00Τετάρτη10:00 - 20:00Πέμπτη10:00 - 20:00Παρασκευή10:00 - 18:00Σάββατο/ΚυριακήΚλειστάCopyright © 2025 Athens Dental Care. Επιστροφή Created by DigiDome. Copyright © 2025 Athens Dental Care. Επιστροφή Created by DigiDome. <div class=\"cky-overlay cky-hide\"></div><div class=\"cky-consent-container cky-hide\"> <div class=\"cky-consent-bar\" data-cky-tag=\"notice\" style=\"background-color:#FFFFFF;border-color:#f4f4f4\"> <div class=\"cky-notice\"> <p class=\"cky-title\" data-cky-tag=\"title\" style=\"color:#212121\">Πολιτική Cookies</p><div class=\"cky-notice-group\"> <div class=\"cky-notice-des\" data-cky-tag=\"description\" style=\"color:#212121\"> <p><span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\">Ο συγκεκριμένος ιστότοπος χρησιμοποιεί απολύτως \"απαραίτητα cookies\" με σκοπό την ορθή λειτουργία του τα οποία σας επιτρέπουν να κάνετε περιήγηση και να χρησιμοποιήσετε τις λειτουργίες του.</span></p> </div><div class=\"cky-notice-btn-wrapper\" data-cky-tag=\"notice-buttons\"> <button class=\"cky-btn cky-btn-customize\" aria-label=\"Επεξεργασία\" data-cky-tag=\"settings-button\" style=\"color:#6d6d6d;background-color:transparent;border-color:#6D6D6D\">Επεξεργασία</button> <button class=\"cky-btn cky-btn-reject\" aria-label=\"Απόρριψη όλων\" data-cky-tag=\"reject-button\" style=\"color:#6D6D6D;background-color:transparent;border-color:#6D6D6D\">Απόρριψη όλων</button> <button class=\"cky-btn cky-btn-accept\" aria-label=\"Αποδοχή όλων\" data-cky-tag=\"accept-button\" style=\"color:#FFFFFF;background-color:#6d6d6d;border-color:#6d6d6d\">Αποδοχή όλων</button> </div></div></div></div></div><div class=\"cky-modal\"> <div class=\"cky-preference-center\" data-cky-tag=\"detail\" style=\"color:#212121;background-color:#FFFFFF;border-color:#f4f4f4\"> <div class=\"cky-preference-header\"> <span class=\"cky-preference-title\" data-cky-tag=\"detail-title\" style=\"color:#212121\">Προτιμήσεις Cookies</span> <button class=\"cky-btn-close\" aria-label=\"[cky_preference_close_label]\" data-cky-tag=\"detail-close\"> <img src=\"https://athensdentalcare.gr/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg\" alt=\"Close\"> </button> </div><div class=\"cky-preference-body-wrapper\"> <div class=\"cky-preference-content-wrapper\" data-cky-tag=\"detail-description\" style=\"color:#212121\"> <p><span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\">Ο συγκεκριμένος ιστότοπος χρησιμοποιεί απολύτως \"απαραίτητα cookies\" με σκοπό την ορθή λειτουργία του τα οποία σας επιτρέπουν να κάνετε περιήγηση και να χρησιμοποιήσετε τις λειτουργίες του, όπως πρόσβαση σε ασφαλείς περιοχές καθώς και τις παρακάτω κατηγορίες προαιρετικών cookies. </span></p> <p><span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\">Κατά την είσοδό σας στον ιστότοπό μας, έχετε τη δυνατότητα είτε να αποδεχθείτε όλα τα cookies (\"αποδοχή όλων\"), είτε να συνεχίσετε την περιήγησή σας απορρίπτοντας όλα τα μη απαραίτητα cookies (\"Απόρριψη Όλων\"), είτε να επιλέξετε συγκεκριμένα cookies από τις αναφερθείσες κατηγορίες και να πατήσετε το κουμπί (\"Αποδοχή Επιλεγμένων\"). </span></p> <p><span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\">Για περισσότερες πληροφορίες μπορείτε να ανατρέξετε στην “Προβολή Λεπτομερειών” ή στην Πολιτική Cookies. Μπορείτε να μεταβάλλετε τη συναίνεσή σας οποιαδήποτε στιγμή.</span></p> </div><div class=\"cky-accordion-wrapper\" data-cky-tag=\"detail-categories\"> <div class=\"cky-accordion\" id=\"ckyDetailCategorynecessary\"> <div class=\"cky-accordion-item\"> <div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div> <div class=\"cky-accordion-header-wrapper\"> <div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-label=\"Απαραίτητα\" data-cky-tag=\"detail-category-title\" style=\"color:#212121\">Απαραίτητα</button><span class=\"cky-always-active\">Πάντα ενεργά</span> <div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" id=\"ckySwitchnecessary\"></div> </div> <div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color:#212121\"> <p><span class=\"HwtZe\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Τα απαραίτητα cookies απαιτούνται για την ενεργοποίηση των βασικών λειτουργιών αυτού του ιστότοπου, όπως η παροχή ασφαλούς σύνδεσης ή η προσαρμογή των προτιμήσεων συναίνεσης.</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Αυτά τα cookies δεν αποθηκεύουν προσωπικά δεδομένα.</span></span></span></p></div> </div> </div> <div class=\"cky-accordion-body\"> <div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color:#212121;background-color:#f4f4f4;border-color:#ebebeb\"><p class=\"cky-empty-cookies-text\">No cookies to display.</p></div> </div> </div><div class=\"cky-accordion\" id=\"ckyDetailCategoryfunctional\"> <div class=\"cky-accordion-item\"> <div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div> <div class=\"cky-accordion-header-wrapper\"> <div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-label=\"Λειτουργικά\" data-cky-tag=\"detail-category-title\" style=\"color:#212121\">Λειτουργικά</button><span class=\"cky-always-active\">Πάντα ενεργά</span> <div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" id=\"ckySwitchfunctional\"></div> </div> <div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color:#212121\"> <p><span class=\"HwtZe\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Τα λειτουργικά cookies βοηθούν στην εκτέλεση ορισμένων λειτουργιών, όπως η κοινή χρήση του περιεχομένου του ιστότοπου σε πλατφόρμες μέσων κοινωνικής δικτύωσης, η συλλογή σχολίων και άλλες λειτουργίες τρίτων.</span></span></span></p></div> </div> </div> <div class=\"cky-accordion-body\"> <div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color:#212121;background-color:#f4f4f4;border-color:#ebebeb\"><p class=\"cky-empty-cookies-text\">No cookies to display.</p></div> </div> </div><div class=\"cky-accordion\" id=\"ckyDetailCategoryanalytics\"> <div class=\"cky-accordion-item\"> <div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div> <div class=\"cky-accordion-header-wrapper\"> <div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-label=\"Στατιστικά\" data-cky-tag=\"detail-category-title\" style=\"color:#212121\">Στατιστικά</button><span class=\"cky-always-active\">Πάντα ενεργά</span> <div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" id=\"ckySwitchanalytics\"></div> </div> <div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color:#212121\"> <p><span class=\"HwtZe\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Τα cookies στατιστικών χρησιμοποιούνται για την κατανόηση του τρόπου με τον οποίο οι επισκέπτες αλληλεπιδρούν με τον ιστότοπο.</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Αυτά τα cookies βοηθούν στην παροχή πληροφοριών σχετικά με μετρήσεις όπως ο αριθμός των επισκεπτών, το ποσοστό εγκατάλειψης, η πηγή επισκεψιμότητας κλπ</span></span></span></p></div> </div> </div> <div class=\"cky-accordion-body\"> <div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color:#212121;background-color:#f4f4f4;border-color:#ebebeb\"><p class=\"cky-empty-cookies-text\">No cookies to display.</p></div> </div> </div><div class=\"cky-accordion\" id=\"ckyDetailCategoryperformance\"> <div class=\"cky-accordion-item\"> <div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div> <div class=\"cky-accordion-header-wrapper\"> <div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-label=\"Απόδοσης\" data-cky-tag=\"detail-category-title\" style=\"color:#212121\">Απόδοσης</button><span class=\"cky-always-active\">Πάντα ενεργά</span> <div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" id=\"ckySwitchperformance\"></div> </div> <div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color:#212121\"> <p><span class=\"HwtZe\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Τα cookie απόδοσης χρησιμοποιούνται για την κατανόηση και την ανάλυση των βασικών δεικτών απόδοσης του ιστότοπου, γεγονός που βοηθά στην παροχή καλύτερης εμπειρίας χρήστη για τους επισκέπτες.</span></span></span></p></div> </div> </div> <div class=\"cky-accordion-body\"> <div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color:#212121;background-color:#f4f4f4;border-color:#ebebeb\"><p class=\"cky-empty-cookies-text\">No cookies to display.</p></div> </div> </div><div class=\"cky-accordion\" id=\"ckyDetailCategoryadvertisement\"> <div class=\"cky-accordion-item\"> <div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div> <div class=\"cky-accordion-header-wrapper\"> <div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-label=\"Διαφήμισης\" data-cky-tag=\"detail-category-title\" style=\"color:#212121\">Διαφήμισης</button><span class=\"cky-always-active\">Πάντα ενεργά</span> <div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" id=\"ckySwitchadvertisement\"></div> </div> <div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color:#212121\"> <p><span class=\"HwtZe\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Τα cookies διαφήμισης χρησιμοποιούνται για την παροχή προσαρμοσμένων διαφημίσεων στους επισκέπτες, με βάση τις σελίδες που επισκεφτήκατε προηγουμένως και για την ανάλυση της αποτελεσματικότητας των διαφημιστικών καμπανιών.</span></span></span></p></div> </div> </div> <div class=\"cky-accordion-body\"> <div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color:#212121;background-color:#f4f4f4;border-color:#ebebeb\"><p class=\"cky-empty-cookies-text\">No cookies to display.</p></div> </div> </div> </div></div><div class=\"cky-footer-wrapper\"> <span class=\"cky-footer-shadow\"></span> <div class=\"cky-prefrence-btn-wrapper\" data-cky-tag=\"detail-buttons\"> <button class=\"cky-btn cky-btn-reject\" aria-label=\"Απόρριψη όλων\" data-cky-tag=\"detail-reject-button\" style=\"color:#6D6D6D;background-color:transparent;border-color:#6D6D6D\"> Απόρριψη όλων </button> <button class=\"cky-btn cky-btn-preferences\" aria-label=\"Αποθήκευση προτιμήσεων\" data-cky-tag=\"detail-save-button\" style=\"color:#6d6d6d;background-color:transparent;border-color:#6d6d6d\"> Αποθήκευση προτιμήσεων </button> <button class=\"cky-btn cky-btn-accept\" aria-label=\"Αποδοχή όλων\" data-cky-tag=\"detail-accept-button\" style=\"color:#FFFFFF;background-color:#6d6d6d;border-color:#6d6d6d\"> Αποδοχή όλων </button> </div><div style=\"padding: 8px 24px;font-size: 12px;font-weight: 400;line-height: 20px;text-align: right;border-radius: 0 0 6px 6px;direction: ltr;display: flex;justify-content: flex-end;align-items: center;background-color:#EDEDED;color:#293C5B\" data-cky-tag=\"detail-powered-by\"> Powered by <a target=\"_blank\" href=\"https://www.cookieyes.com/product/cookie-consent\" style=\"margin-left: 5px;line-height: 0\"><img src=\"https://athensdentalcare.gr/wp-content/plugins/cookie-law-info/lite/frontend/images/poweredbtcky.svg\" alt=\"Cookieyes logo\" style=\"width: 78px;height: 13px;margin: 0\"></a> </div></div></div></div> var cffajaxurl = \"https://athensdentalcare.gr/wp-admin/admin-ajax.php\"; var cfflinkhashtags = \"true\"; var sbiajaxurl = \"https://athensdentalcare.gr/wp-admin/admin-ajax.php\"; /* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"https:\\/\\/athensdentalcare.gr\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */ window.BoldThemesURI = \"https://athensdentalcare.gr/wp-content/themes/denticare\"; window.BoldThemesAJAXURL = \"https://athensdentalcare.gr/wp-admin/admin-ajax.php\";window.boldthemes_text = [];window.boldthemes_text.previous = 'previous';window.boldthemes_text.next = 'next'; var boldthemes_dropdown = document.querySelector( \".widget_categories #cat\" ); function boldthemes_onCatChange() { if ( boldthemes_dropdown.options[boldthemes_dropdown.selectedIndex].value > 0 ) { location.href = \"https://athensdentalcare.gr/?cat=\"+boldthemes_dropdown.options[boldthemes_dropdown.selectedIndex].value; } } if ( boldthemes_dropdown !== null ) { boldthemes_dropdown.onchange = boldthemes_onCatChange; }",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensdentalcare.gr-home-2c90a4a2/services-services-8b4a0500.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensdentalcare.gr-home-2c90a4a2/services-services-8b4a0500.txt",
+      "imageReferences": [
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2021/02/adc_logo5_wh.png",
+          "alt": "Athens Dental Care",
+          "sourcePageUrl": "https://athensdentalcare.gr/services",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/services",
+              "retrievedAt": "2026-03-31T13:14:43.788Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2020/12/adc_logo5.png",
+          "alt": "Athens Dental Care",
+          "sourcePageUrl": "https://athensdentalcare.gr/services",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/services",
+              "retrievedAt": "2026-03-31T13:14:43.788Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.svg",
+          "alt": "Ελληνικά",
+          "sourcePageUrl": "https://athensdentalcare.gr/services",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/services",
+              "retrievedAt": "2026-03-31T13:14:43.788Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg",
+          "alt": "Αγγλικά",
+          "sourcePageUrl": "https://athensdentalcare.gr/services",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/services",
+              "retrievedAt": "2026-03-31T13:14:43.788Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2020/12/adc-footer-reverse.png",
+          "alt": "bt_bb_section_bottom_section_coverage_image",
+          "sourcePageUrl": "https://athensdentalcare.gr/services",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/services",
+              "retrievedAt": "2026-03-31T13:14:43.788Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC-Work-117sec.jpg",
+          "alt": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC-Work-117sec.jpg",
+          "sourcePageUrl": "https://athensdentalcare.gr/services",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/services",
+              "retrievedAt": "2026-03-31T13:14:43.788Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC_Work_Compressed-112_edit.jpg",
+          "alt": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC_Work_Compressed-112_edit.jpg",
+          "sourcePageUrl": "https://athensdentalcare.gr/services",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/services",
+              "retrievedAt": "2026-03-31T13:14:43.788Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC-Work-66_edit.jpg",
+          "alt": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC-Work-66_edit.jpg",
+          "sourcePageUrl": "https://athensdentalcare.gr/services",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/services",
+              "retrievedAt": "2026-03-31T13:14:43.788Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC-Work-48_edit.jpg",
+          "alt": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC-Work-48_edit.jpg",
+          "sourcePageUrl": "https://athensdentalcare.gr/services",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/services",
+              "retrievedAt": "2026-03-31T13:14:43.788Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC_Work_Compressed-84_edit.jpg",
+          "alt": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC_Work_Compressed-84_edit.jpg",
+          "sourcePageUrl": "https://athensdentalcare.gr/services",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/services",
+              "retrievedAt": "2026-03-31T13:14:43.788Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC_Work_Compressed-15_edit.jpg",
+          "alt": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC_Work_Compressed-15_edit.jpg",
+          "sourcePageUrl": "https://athensdentalcare.gr/services",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/services",
+              "retrievedAt": "2026-03-31T13:14:43.788Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC-Work-170_edit.jpg",
+          "alt": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC-Work-170_edit.jpg",
+          "sourcePageUrl": "https://athensdentalcare.gr/services",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/services",
+              "retrievedAt": "2026-03-31T13:14:43.788Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://athensdentalcare.gr/services",
+          "retrievedAt": "2026-03-31T13:14:43.794Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://athensdentalcare.gr/contact",
+      "finalUrl": "https://athensdentalcare.gr/contact",
+      "fetchedAt": "2026-03-31T13:14:39.531Z",
+      "metadata": {
+        "title": "Επικοινωνία - Athens Dental Care",
+        "canonicalUrl": "https://athensdentalcare.gr/contact/",
+        "language": "el",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Επικοινωνία - Athens Dental Care",
+        "openGraphImage": "https://athensdentalcare.gr/wp-content/uploads/2022/05/cover-%CF%83%CF%87%CE%B5%CF%84%CE%B9%CE%BA%CE%AC.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Επικοινωνία - Athens Dental Care"
+        },
+        {
+          "level": "h2",
+          "text": "Search"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://athensdentalcare.gr/"
+        },
+        {
+          "href": "https://athensdentalcare.gr/contact/"
+        },
+        {
+          "href": "https://athensdentalcare.gr/en/contact/"
+        },
+        {
+          "href": "https://athensdentalcare.gr/doctors/",
+          "label": "Γνώρισέ μας"
+        },
+        {
+          "href": "https://athensdentalcare.gr/iatreio",
+          "label": "Ο Χώρος μας"
+        },
+        {
+          "href": "https://athensdentalcare.gr/mathe-pos-doulevoume",
+          "label": "Πώς δουλεύουμε"
+        },
+        {
+          "href": "https://athensdentalcare.gr/prin-kai-meta",
+          "label": "Πριν & Μετά"
+        },
+        {
+          "href": "https://athensdentalcare.gr/orthodontiki",
+          "label": "Ορθοδοντική"
+        },
+        {
+          "href": "https://athensdentalcare.gr/odontiatriki",
+          "label": "Οδοντιατρική"
+        },
+        {
+          "href": "https://athensdentalcare.gr/koinoniki-eythini/",
+          "label": "Ευθύνη"
+        },
+        {
+          "href": "https://athensdentalcare.gr/about-us/iatreio/",
+          "label": "Το Ιατρείο"
+        },
+        {
+          "href": "https://athensdentalcare.gr/media",
+          "label": "Media"
+        },
+        {
+          "href": "https://athensdentalcare.gr/blog",
+          "label": "Χρήσιμες Συμβουλές"
+        },
+        {
+          "href": "https://athensdentalcare.gr/terms/",
+          "label": "Πολιτική Απορρήτου"
+        },
+        {
+          "href": "https://athensdentalcare.gr/cookies-policy/",
+          "label": "Πολιτική Cookies"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://athensdentalcare.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "s",
+              "type": "text",
+              "label": "Looking for...",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://athensdentalcare.gr/contact/#wpcf7-f4-p106-o1",
+          "method": "post",
+          "purposeHint": "contact",
+          "fieldNames": [
+            "_wpcf7",
+            "_wpcf7_version",
+            "_wpcf7_locale",
+            "_wpcf7_unit_tag",
+            "_wpcf7_container_post",
+            "_wpcf7_posted_data_hash",
+            "your-name",
+            "your-email",
+            "tel-517",
+            "your-message",
+            "website-912-time-start",
+            "website-912-time-check",
+            "website-912",
+            "submit"
+          ],
+          "submitLabels": [
+            "Αποστολή"
+          ],
+          "fields": [
+            {
+              "name": "_wpcf7",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_version",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_locale",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_unit_tag",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_container_post",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_posted_data_hash",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "type": "email",
+              "required": true
+            },
+            {
+              "name": "tel-517",
+              "type": "tel",
+              "required": true
+            },
+            {
+              "name": "your-message",
+              "type": "textarea",
+              "required": true
+            },
+            {
+              "name": "website-912-time-start",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "website-912-time-check",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "website-912",
+              "type": "text",
+              "label": "Please leave this field empty.",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "210 72 93 211",
+          "6942620072",
+          "210 72 93 2116942 620 072",
+          "00302107293211"
+        ],
+        "emails": [
+          "info@athensdentalcare.gr"
+        ],
+        "addresses": [
+          "/* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"https:\\/\\/athensdentalcare.gr\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/athensdental.care"
+          },
+          {
+            "href": "https://www.instagram.com/athensdentalcare/"
+          },
+          {
+            "href": "https://www.youtube.com/channel/UCwpubVdKqplRjPsrUZY38mw"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://athensdentalcare.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "s",
+                "type": "text",
+                "label": "Looking for...",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://athensdentalcare.gr/contact/#wpcf7-f4-p106-o1",
+            "method": "post",
+            "purposeHint": "contact",
+            "fieldNames": [
+              "_wpcf7",
+              "_wpcf7_version",
+              "_wpcf7_locale",
+              "_wpcf7_unit_tag",
+              "_wpcf7_container_post",
+              "_wpcf7_posted_data_hash",
+              "your-name",
+              "your-email",
+              "tel-517",
+              "your-message",
+              "website-912-time-start",
+              "website-912-time-check",
+              "website-912",
+              "submit"
+            ],
+            "submitLabels": [
+              "Αποστολή"
+            ],
+            "fields": [
+              {
+                "name": "_wpcf7",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_version",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_locale",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_unit_tag",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_container_post",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_posted_data_hash",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "your-name",
+                "type": "text",
+                "required": true
+              },
+              {
+                "name": "your-email",
+                "type": "email",
+                "required": true
+              },
+              {
+                "name": "tel-517",
+                "type": "tel",
+                "required": true
+              },
+              {
+                "name": "your-message",
+                "type": "textarea",
+                "required": true
+              },
+              {
+                "name": "website-912-time-start",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "website-912-time-check",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "website-912",
+                "type": "text",
+                "label": "Please leave this field empty.",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "textContent": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-MCBWDX8W\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Καθημερινά 10:00 - 20:00Βασ. Σοφίας 92, Αθήνα Search 210 72 93 211 ㅤ Κλινική Γνώρισέ μας Ο Χώρος μας Πώς δουλεύουμε Θεραπείες Πριν & Μετά Ορθοδοντική Οδοντιατρική Ευθύνη Επικοινωνία HomeΕπικοινωνία - Athens Dental Care Επικοινωνήστε μαζί μαςΓια πληροφορίες & ραντεβού καθημερινά, 10:00 – 20:00. ΔιεύθυνσηΒασ. Σοφίας 92, 11528 Αθήνα (έναντι Αμερικανικής Πρεσβείας)Καλέστε μας210 72 93 211Viber-WhatsApp6942620072E-mailinfo@athensdentalcare.grΠώς να έρθετεΜετρόΣταθμός \"Μέγαρο Μουσικής\" (έξοδος \"Αιγινητειο\")Δημόσιο parkingΘέσεις δημόσιας στάθμευσης (1€/ώρα) στην Κερασούντος (κάθετη της Βασ. Σοφίας)Ιδιωτικό parkingΧώρος στάθμευσης στην Κερασούντος 3 (κάθετη της Βασ. Σοφίας) & Βασ. Σοφίας 88 Λεωφορεία400, 550, Α5, Χ14, Χ95 Τρόλεϊ: 3, 10 var bt_bb_google_map_map_canvas69cbc719254c2_init_finished = false; document.addEventListener(\"readystatechange\", function() { if ( !bt_bb_google_map_map_canvas69cbc719254c2_init_finished && ( document.readyState === \"interactive\" || document.readyState === \"complete\" ) ) { if ( typeof( bt_bb_gmap_init ) !== typeof(Function) ) { return false; }bt_bb_gmap_init( \"map_canvas69cbc719254c2\", 15, \"WwogICAgewogICAgICAgICJmZWF0dXJlVHlwZSI6ICJsYW5kc2NhcGUiLAogICAgICAgICJlbGVtZW50VHlwZSI6ICJhbGwiLAogICAgICAgICJzdHlsZXJzIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiaHVlIjogIiNGRkJCMDAiCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJzYXR1cmF0aW9uIjogNDMuNDAwMDAwMDAwMDAwMDA2CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJsaWdodG5lc3MiOiAzNy41OTk5OTk5OTk5OTk5OTQKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImdhbW1hIjogMQogICAgICAgICAgICB9CiAgICAgICAgXQogICAgfSwKICAgIHsKICAgICAgICAiZmVhdHVyZVR5cGUiOiAicG9pIiwKICAgICAgICAiZWxlbWVudFR5cGUiOiAiYWxsIiwKICAgICAgICAic3R5bGVycyI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImh1ZSI6ICIjMDBGRjZBIgogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAic2F0dXJhdGlvbiI6IC0xLjA5ODkwMTA5ODkwMTEyMzQKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImxpZ2h0bmVzcyI6IDExLjIwMDAwMDAwMDAwMDAxNwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiZ2FtbWEiOiAxCiAgICAgICAgICAgIH0KICAgICAgICBdCiAgICB9LAogICAgewogICAgICAgICJmZWF0dXJlVHlwZSI6ICJyb2FkLmhpZ2h3YXkiLAogICAgICAgICJlbGVtZW50VHlwZSI6ICJhbGwiLAogICAgICAgICJzdHlsZXJzIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiaHVlIjogIiNGRkMyMDAiCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJzYXR1cmF0aW9uIjogLTYxLjgKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImxpZ2h0bmVzcyI6IDQ1LjU5OTk5OTk5OTk5OTk5NAogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiZ2FtbWEiOiAxCiAgICAgICAgICAgIH0KICAgICAgICBdCiAgICB9LAogICAgewogICAgICAgICJmZWF0dXJlVHlwZSI6ICJyb2FkLmFydGVyaWFsIiwKICAgICAgICAiZWxlbWVudFR5cGUiOiAiYWxsIiwKICAgICAgICAic3R5bGVycyI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImh1ZSI6ICIjRkYwMzAwIgogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAic2F0dXJhdGlvbiI6IC0xMDAKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImxpZ2h0bmVzcyI6IDUxLjE5OTk5OTk5OTk5OTk5CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJnYW1tYSI6IDEKICAgICAgICAgICAgfQogICAgICAgIF0KICAgIH0sCiAgICB7CiAgICAgICAgImZlYXR1cmVUeXBlIjogInJvYWQubG9jYWwiLAogICAgICAgICJlbGVtZW50VHlwZSI6ICJhbGwiLAogICAgICAgICJzdHlsZXJzIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiaHVlIjogIiNGRjAzMDAiCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJzYXR1cmF0aW9uIjogLTEwMAogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAibGlnaHRuZXNzIjogNTIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImdhbW1hIjogMQogICAgICAgICAgICB9CiAgICAgICAgXQogICAgfSwKICAgIHsKICAgICAgICAiZmVhdHVyZVR5cGUiOiAid2F0ZXIiLAogICAgICAgICJlbGVtZW50VHlwZSI6ICJhbGwiLAogICAgICAgICJzdHlsZXJzIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiaHVlIjogIiMwMDc4RkYiCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJzYXR1cmF0aW9uIjogLTEzLjIwMDAwMDAwMDAwMDAwMwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAibGlnaHRuZXNzIjogMi40MDAwMDAwMDAwMDAwMDU3CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJnYW1tYSI6IDEKICAgICAgICAgICAgfQogICAgICAgIF0KICAgIH0KXQ==\" );bt_bb_google_map_map_canvas69cbc719254c2_init_finished = true; };}, false); Όνομα Email Τηλέφωνο Το μήνυμά σας Please leave this field empty. <br /> ... smiles with signatureΕλάτε να δημιουργήσουμε μαζί το χαμόγελο που ονειρεύεστε! Το Athens Dental Care είναι μια σύγχρονη, πρότυπη μονάδα παροχής οδοντιατρικών υπηρεσιών, όπου ασκούνται όλες οι ειδικότητες της Οδοντιατρικής. Χρήσιμοι ΣύνδεσμοιΤο Ιατρείο Η Ομάδα Media Χρήσιμες Συμβουλές Πολιτική Απορρήτου Πολιτική Cookies Επικοινωνία Social MediaΡωτήστε μας210 72 93 2116942 620 072Ωράριο ΛειτουργίαςΔευτέρα10:00 - 20:00Τρίτη10:00 - 20:00Τετάρτη10:00 - 20:00Πέμπτη10:00 - 20:00Παρασκευή10:00 - 18:00Σάββατο/ΚυριακήΚλειστάCopyright © 2025 Athens Dental Care. Επιστροφή Created by DigiDome. Copyright © 2025 Athens Dental Care. Επιστροφή Created by DigiDome. <div class=\"cky-overlay cky-hide\"></div><div class=\"cky-consent-container cky-hide\"> <div class=\"cky-consent-bar\" data-cky-tag=\"notice\" style=\"background-color:#FFFFFF;border-color:#f4f4f4\"> <div class=\"cky-notice\"> <p class=\"cky-title\" data-cky-tag=\"title\" style=\"color:#212121\">Πολιτική Cookies</p><div class=\"cky-notice-group\"> <div class=\"cky-notice-des\" data-cky-tag=\"description\" style=\"color:#212121\"> <p><span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\">Ο συγκεκριμένος ιστότοπος χρησιμοποιεί απολύτως \"απαραίτητα cookies\" με σκοπό την ορθή λειτουργία του τα οποία σας επιτρέπουν να κάνετε περιήγηση και να χρησιμοποιήσετε τις λειτουργίες του.</span></p> </div><div class=\"cky-notice-btn-wrapper\" data-cky-tag=\"notice-buttons\"> <button class=\"cky-btn cky-btn-customize\" aria-label=\"Επεξεργασία\" data-cky-tag=\"settings-button\" style=\"color:#6d6d6d;background-color:transparent;border-color:#6D6D6D\">Επεξεργασία</button> <button class=\"cky-btn cky-btn-reject\" aria-label=\"Απόρριψη όλων\" data-cky-tag=\"reject-button\" style=\"color:#6D6D6D;background-color:transparent;border-color:#6D6D6D\">Απόρριψη όλων</button> <button class=\"cky-btn cky-btn-accept\" aria-label=\"Αποδοχή όλων\" data-cky-tag=\"accept-button\" style=\"color:#FFFFFF;background-color:#6d6d6d;border-color:#6d6d6d\">Αποδοχή όλων</button> </div></div></div></div></div><div class=\"cky-modal\"> <div class=\"cky-preference-center\" data-cky-tag=\"detail\" style=\"color:#212121;background-color:#FFFFFF;border-color:#f4f4f4\"> <div class=\"cky-preference-header\"> <span class=\"cky-preference-title\" data-cky-tag=\"detail-title\" style=\"color:#212121\">Προτιμήσεις Cookies</span> <button class=\"cky-btn-close\" aria-label=\"[cky_preference_close_label]\" data-cky-tag=\"detail-close\"> <img src=\"https://athensdentalcare.gr/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg\" alt=\"Close\"> </button> </div><div class=\"cky-preference-body-wrapper\"> <div class=\"cky-preference-content-wrapper\" data-cky-tag=\"detail-description\" style=\"color:#212121\"> <p><span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\">Ο συγκεκριμένος ιστότοπος χρησιμοποιεί απολύτως \"απαραίτητα cookies\" με σκοπό την ορθή λειτουργία του τα οποία σας επιτρέπουν να κάνετε περιήγηση και να χρησιμοποιήσετε τις λειτουργίες του, όπως πρόσβαση σε ασφαλείς περιοχές καθώς και τις παρακάτω κατηγορίες προαιρετικών cookies. </span></p> <p><span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\">Κατά την είσοδό σας στον ιστότοπό μας, έχετε τη δυνατότητα είτε να αποδεχθείτε όλα τα cookies (\"αποδοχή όλων\"), είτε να συνεχίσετε την περιήγησή σας απορρίπτοντας όλα τα μη απαραίτητα cookies (\"Απόρριψη Όλων\"), είτε να επιλέξετε συγκεκριμένα cookies από τις αναφερθείσες κατηγορίες και να πατήσετε το κουμπί (\"Αποδοχή Επιλεγμένων\"). </span></p> <p><span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\">Για περισσότερες πληροφορίες μπορείτε να ανατρέξετε στην “Προβολή Λεπτομερειών” ή στην Πολιτική Cookies. Μπορείτε να μεταβάλλετε τη συναίνεσή σας οποιαδήποτε στιγμή.</span></p> </div><div class=\"cky-accordion-wrapper\" data-cky-tag=\"detail-categories\"> <div class=\"cky-accordion\" id=\"ckyDetailCategorynecessary\"> <div class=\"cky-accordion-item\"> <div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div> <div class=\"cky-accordion-header-wrapper\"> <div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-label=\"Απαραίτητα\" data-cky-tag=\"detail-category-title\" style=\"color:#212121\">Απαραίτητα</button><span class=\"cky-always-active\">Πάντα ενεργά</span> <div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" id=\"ckySwitchnecessary\"></div> </div> <div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color:#212121\"> <p><span class=\"HwtZe\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Τα απαραίτητα cookies απαιτούνται για την ενεργοποίηση των βασικών λειτουργιών αυτού του ιστότοπου, όπως η παροχή ασφαλούς σύνδεσης ή η προσαρμογή των προτιμήσεων συναίνεσης.</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Αυτά τα cookies δεν αποθηκεύουν προσωπικά δεδομένα.</span></span></span></p></div> </div> </div> <div class=\"cky-accordion-body\"> <div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color:#212121;background-color:#f4f4f4;border-color:#ebebeb\"><p class=\"cky-empty-cookies-text\">No cookies to display.</p></div> </div> </div><div class=\"cky-accordion\" id=\"ckyDetailCategoryfunctional\"> <div class=\"cky-accordion-item\"> <div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div> <div class=\"cky-accordion-header-wrapper\"> <div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-label=\"Λειτουργικά\" data-cky-tag=\"detail-category-title\" style=\"color:#212121\">Λειτουργικά</button><span class=\"cky-always-active\">Πάντα ενεργά</span> <div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" id=\"ckySwitchfunctional\"></div> </div> <div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color:#212121\"> <p><span class=\"HwtZe\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Τα λειτουργικά cookies βοηθούν στην εκτέλεση ορισμένων λειτουργιών, όπως η κοινή χρήση του περιεχομένου του ιστότοπου σε πλατφόρμες μέσων κοινωνικής δικτύωσης, η συλλογή σχολίων και άλλες λειτουργίες τρίτων.</span></span></span></p></div> </div> </div> <div class=\"cky-accordion-body\"> <div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color:#212121;background-color:#f4f4f4;border-color:#ebebeb\"><p class=\"cky-empty-cookies-text\">No cookies to display.</p></div> </div> </div><div class=\"cky-accordion\" id=\"ckyDetailCategoryanalytics\"> <div class=\"cky-accordion-item\"> <div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div> <div class=\"cky-accordion-header-wrapper\"> <div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-label=\"Στατιστικά\" data-cky-tag=\"detail-category-title\" style=\"color:#212121\">Στατιστικά</button><span class=\"cky-always-active\">Πάντα ενεργά</span> <div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" id=\"ckySwitchanalytics\"></div> </div> <div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color:#212121\"> <p><span class=\"HwtZe\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Τα cookies στατιστικών χρησιμοποιούνται για την κατανόηση του τρόπου με τον οποίο οι επισκέπτες αλληλεπιδρούν με τον ιστότοπο.</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Αυτά τα cookies βοηθούν στην παροχή πληροφοριών σχετικά με μετρήσεις όπως ο αριθμός των επισκεπτών, το ποσοστό εγκατάλειψης, η πηγή επισκεψιμότητας κλπ</span></span></span></p></div> </div> </div> <div class=\"cky-accordion-body\"> <div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color:#212121;background-color:#f4f4f4;border-color:#ebebeb\"><p class=\"cky-empty-cookies-text\">No cookies to display.</p></div> </div> </div><div class=\"cky-accordion\" id=\"ckyDetailCategoryperformance\"> <div class=\"cky-accordion-item\"> <div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div> <div class=\"cky-accordion-header-wrapper\"> <div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-label=\"Απόδοσης\" data-cky-tag=\"detail-category-title\" style=\"color:#212121\">Απόδοσης</button><span class=\"cky-always-active\">Πάντα ενεργά</span> <div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" id=\"ckySwitchperformance\"></div> </div> <div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color:#212121\"> <p><span class=\"HwtZe\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Τα cookie απόδοσης χρησιμοποιούνται για την κατανόηση και την ανάλυση των βασικών δεικτών απόδοσης του ιστότοπου, γεγονός που βοηθά στην παροχή καλύτερης εμπειρίας χρήστη για τους επισκέπτες.</span></span></span></p></div> </div> </div> <div class=\"cky-accordion-body\"> <div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color:#212121;background-color:#f4f4f4;border-color:#ebebeb\"><p class=\"cky-empty-cookies-text\">No cookies to display.</p></div> </div> </div><div class=\"cky-accordion\" id=\"ckyDetailCategoryadvertisement\"> <div class=\"cky-accordion-item\"> <div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div> <div class=\"cky-accordion-header-wrapper\"> <div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-label=\"Διαφήμισης\" data-cky-tag=\"detail-category-title\" style=\"color:#212121\">Διαφήμισης</button><span class=\"cky-always-active\">Πάντα ενεργά</span> <div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" id=\"ckySwitchadvertisement\"></div> </div> <div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color:#212121\"> <p><span class=\"HwtZe\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Τα cookies διαφήμισης χρησιμοποιούνται για την παροχή προσαρμοσμένων διαφημίσεων στους επισκέπτες, με βάση τις σελίδες που επισκεφτήκατε προηγουμένως και για την ανάλυση της αποτελεσματικότητας των διαφημιστικών καμπανιών.</span></span></span></p></div> </div> </div> <div class=\"cky-accordion-body\"> <div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color:#212121;background-color:#f4f4f4;border-color:#ebebeb\"><p class=\"cky-empty-cookies-text\">No cookies to display.</p></div> </div> </div> </div></div><div class=\"cky-footer-wrapper\"> <span class=\"cky-footer-shadow\"></span> <div class=\"cky-prefrence-btn-wrapper\" data-cky-tag=\"detail-buttons\"> <button class=\"cky-btn cky-btn-reject\" aria-label=\"Απόρριψη όλων\" data-cky-tag=\"detail-reject-button\" style=\"color:#6D6D6D;background-color:transparent;border-color:#6D6D6D\"> Απόρριψη όλων </button> <button class=\"cky-btn cky-btn-preferences\" aria-label=\"Αποθήκευση προτιμήσεων\" data-cky-tag=\"detail-save-button\" style=\"color:#6d6d6d;background-color:transparent;border-color:#6d6d6d\"> Αποθήκευση προτιμήσεων </button> <button class=\"cky-btn cky-btn-accept\" aria-label=\"Αποδοχή όλων\" data-cky-tag=\"detail-accept-button\" style=\"color:#FFFFFF;background-color:#6d6d6d;border-color:#6d6d6d\"> Αποδοχή όλων </button> </div><div style=\"padding: 8px 24px;font-size: 12px;font-weight: 400;line-height: 20px;text-align: right;border-radius: 0 0 6px 6px;direction: ltr;display: flex;justify-content: flex-end;align-items: center;background-color:#EDEDED;color:#293C5B\" data-cky-tag=\"detail-powered-by\"> Powered by <a target=\"_blank\" href=\"https://www.cookieyes.com/product/cookie-consent\" style=\"margin-left: 5px;line-height: 0\"><img src=\"https://athensdentalcare.gr/wp-content/plugins/cookie-law-info/lite/frontend/images/poweredbtcky.svg\" alt=\"Cookieyes logo\" style=\"width: 78px;height: 13px;margin: 0\"></a> </div></div></div></div> var cffajaxurl = \"https://athensdentalcare.gr/wp-admin/admin-ajax.php\"; var cfflinkhashtags = \"true\"; var sbiajaxurl = \"https://athensdentalcare.gr/wp-admin/admin-ajax.php\"; #wpcf7-69cbc7192835a-wrapper {display:none !important; visibility:hidden !important;} /* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"https:\\/\\/athensdentalcare.gr\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */ window.BoldThemesURI = \"https://athensdentalcare.gr/wp-content/themes/denticare\"; window.BoldThemesAJAXURL = \"https://athensdentalcare.gr/wp-admin/admin-ajax.php\";window.boldthemes_text = [];window.boldthemes_text.previous = 'previous';window.boldthemes_text.next = 'next'; var boldthemes_dropdown = document.querySelector( \".widget_categories #cat\" ); function boldthemes_onCatChange() { if ( boldthemes_dropdown.options[boldthemes_dropdown.selectedIndex].value > 0 ) { location.href = \"https://athensdentalcare.gr/?cat=\"+boldthemes_dropdown.options[boldthemes_dropdown.selectedIndex].value; } } if ( boldthemes_dropdown !== null ) { boldthemes_dropdown.onchange = boldthemes_onCatChange; }",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensdentalcare.gr-home-2c90a4a2/contact-contact-8c16c504.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensdentalcare.gr-home-2c90a4a2/contact-contact-8c16c504.txt",
+      "imageReferences": [
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2022/05/cover-%CF%83%CF%87%CE%B5%CF%84%CE%B9%CE%BA%CE%AC.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://athensdentalcare.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://athensdentalcare.gr/contact",
+              "retrievedAt": "2026-03-31T13:14:39.529Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2020/12/adc_logo5.png",
+          "alt": "Athens Dental Care",
+          "sourcePageUrl": "https://athensdentalcare.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/contact",
+              "retrievedAt": "2026-03-31T13:14:39.529Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.svg",
+          "alt": "Ελληνικά",
+          "sourcePageUrl": "https://athensdentalcare.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/contact",
+              "retrievedAt": "2026-03-31T13:14:39.529Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg",
+          "alt": "Αγγλικά",
+          "sourcePageUrl": "https://athensdentalcare.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/contact",
+              "retrievedAt": "2026-03-31T13:14:39.529Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2020/02/top-cover-2.png",
+          "alt": "bt_bb_section_top_section_coverage_image",
+          "sourcePageUrl": "https://athensdentalcare.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/contact",
+              "retrievedAt": "2026-03-31T13:14:39.529Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2020/02/bottom-cover-3.png",
+          "alt": "bt_bb_section_bottom_section_coverage_image",
+          "sourcePageUrl": "https://athensdentalcare.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/contact",
+              "retrievedAt": "2026-03-31T13:14:39.529Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2020/12/Map1.png",
+          "alt": "bt_bb_google_maps_coverage_image",
+          "sourcePageUrl": "https://athensdentalcare.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/contact",
+              "retrievedAt": "2026-03-31T13:14:39.529Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2020/12/adc_logo_light.png",
+          "alt": "https://athensdentalcare.gr/wp-content/uploads/2020/12/adc_logo_light.png",
+          "sourcePageUrl": "https://athensdentalcare.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/contact",
+              "retrievedAt": "2026-03-31T13:14:39.529Z"
+            }
+          ]
+        },
+        {
+          "url": "https://athensdentalcare.gr/wp-content/uploads/2020/12/adc-footer-top.png",
+          "alt": "bt_bb_section_top_section_coverage_image",
+          "sourcePageUrl": "https://athensdentalcare.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://athensdentalcare.gr/contact",
+              "retrievedAt": "2026-03-31T13:14:39.529Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://athensdentalcare.gr/contact",
+          "retrievedAt": "2026-03-31T13:14:39.531Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensdentalcare.gr-home-2c90a4a2/contact-contact-8c16c504.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "210 72 93 211",
+      "210 72 93 2116942 620 072",
+      "00302107293211",
+      "6942620072",
+      "6942 620 072"
+    ],
+    "emails": [
+      "info@athensdentalcare.gr"
+    ],
+    "addresses": [
+      "/* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"https:\\/\\/athensdentalcare.gr\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/athensdental.care"
+      },
+      {
+        "href": "https://www.instagram.com/athensdentalcare/"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCwpubVdKqplRjPsrUZY38mw"
+      },
+      {
+        "href": "https://www.instagram.com/reel/Cyx3JHzIJQZ/?utm_source=ig_embed&utm_campaign=loading",
+        "label": "A post shared by Athens Dental Care (@athensdentalcare)"
+      },
+      {
+        "href": "https://www.instagram.com/reel/DAqGpJeofkf/?utm_source=ig_embed&utm_campaign=loading",
+        "label": "A post shared by Athens Dental Care (@athensdentalcare)"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://athensdentalcare.gr/",
+        "method": "get",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "s"
+        ],
+        "submitLabels": [],
+        "fields": [
+          {
+            "name": "s",
+            "type": "text",
+            "label": "Looking for...",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://athensdentalcare.gr/contact/#wpcf7-f4-p106-o1",
+        "method": "post",
+        "purposeHint": "contact",
+        "fieldNames": [
+          "_wpcf7",
+          "_wpcf7_version",
+          "_wpcf7_locale",
+          "_wpcf7_unit_tag",
+          "_wpcf7_container_post",
+          "_wpcf7_posted_data_hash",
+          "your-name",
+          "your-email",
+          "tel-517",
+          "your-message",
+          "website-912-time-start",
+          "website-912-time-check",
+          "website-912",
+          "submit"
+        ],
+        "submitLabels": [
+          "Αποστολή"
+        ],
+        "fields": [
+          {
+            "name": "_wpcf7",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_version",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_locale",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_unit_tag",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_container_post",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_posted_data_hash",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "your-name",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "your-email",
+            "type": "email",
+            "required": true
+          },
+          {
+            "name": "tel-517",
+            "type": "tel",
+            "required": true
+          },
+          {
+            "name": "your-message",
+            "type": "textarea",
+            "required": true
+          },
+          {
+            "name": "website-912-time-start",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "website-912-time-check",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "website-912",
+            "type": "text",
+            "label": "Please leave this field empty.",
+            "required": false
+          },
+          {
+            "type": "submit",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Αρχική - Athens Dental Care",
+    "canonicalUrl": "https://athensdentalcare.gr/",
+    "language": "el",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "openGraphTitle": "Αρχική - Athens Dental Care"
+  },
+  "imageReferences": [
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2021/02/adc_logo5_wh.png",
+      "alt": "Athens Dental Care",
+      "sourcePageUrl": "https://athensdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.764Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2020/12/adc_logo5.png",
+      "alt": "Athens Dental Care",
+      "sourcePageUrl": "https://athensdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.764Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/el.svg",
+      "alt": "Ελληνικά",
+      "sourcePageUrl": "https://athensdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.764Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg",
+      "alt": "Αγγλικά",
+      "sourcePageUrl": "https://athensdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.764Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2021/02/top-cover-inv.png",
+      "alt": "bt_bb_section_top_section_coverage_image",
+      "sourcePageUrl": "https://athensdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.764Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2020/01/bottom-cover.png",
+      "alt": "bt_bb_section_bottom_section_coverage_image",
+      "sourcePageUrl": "https://athensdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.764Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-32.jpg",
+      "alt": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-32.jpg",
+      "sourcePageUrl": "https://athensdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.764Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-51.jpg",
+      "alt": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-51.jpg",
+      "sourcePageUrl": "https://athensdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.764Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-90.jpg",
+      "alt": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-90.jpg",
+      "sourcePageUrl": "https://athensdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.764Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-199.jpg",
+      "alt": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-199.jpg",
+      "sourcePageUrl": "https://athensdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.764Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2024/02/Captura-de-pantalla-2024-02-09-a-las-21.39.42.png",
+      "alt": "https://athensdentalcare.gr/wp-content/uploads/2024/02/Captura-de-pantalla-2024-02-09-a-las-21.39.42.png",
+      "sourcePageUrl": "https://athensdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.764Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-259.jpg",
+      "alt": "https://athensdentalcare.gr/wp-content/uploads/2023/01/ADC_Portraits-259.jpg",
+      "sourcePageUrl": "https://athensdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.764Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2022/05/cover-%CF%83%CF%87%CE%B5%CF%84%CE%B9%CE%BA%CE%AC.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://athensdentalcare.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://athensdentalcare.gr/contact",
+          "retrievedAt": "2026-03-31T13:14:39.529Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2020/02/top-cover-2.png",
+      "alt": "bt_bb_section_top_section_coverage_image",
+      "sourcePageUrl": "https://athensdentalcare.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/contact",
+          "retrievedAt": "2026-03-31T13:14:39.529Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2020/02/bottom-cover-3.png",
+      "alt": "bt_bb_section_bottom_section_coverage_image",
+      "sourcePageUrl": "https://athensdentalcare.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/contact",
+          "retrievedAt": "2026-03-31T13:14:39.529Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2020/12/Map1.png",
+      "alt": "bt_bb_google_maps_coverage_image",
+      "sourcePageUrl": "https://athensdentalcare.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/contact",
+          "retrievedAt": "2026-03-31T13:14:39.529Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2020/12/adc_logo_light.png",
+      "alt": "https://athensdentalcare.gr/wp-content/uploads/2020/12/adc_logo_light.png",
+      "sourcePageUrl": "https://athensdentalcare.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/contact",
+          "retrievedAt": "2026-03-31T13:14:39.529Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2020/12/adc-footer-top.png",
+      "alt": "bt_bb_section_top_section_coverage_image",
+      "sourcePageUrl": "https://athensdentalcare.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/contact",
+          "retrievedAt": "2026-03-31T13:14:39.529Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2020/12/adc-footer-reverse.png",
+      "alt": "bt_bb_section_bottom_section_coverage_image",
+      "sourcePageUrl": "https://athensdentalcare.gr/services/aorati-orthodontiki",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/services/aorati-orthodontiki",
+          "retrievedAt": "2026-03-31T13:14:40.709Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC-Work-117sec.jpg",
+      "alt": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC-Work-117sec.jpg",
+      "sourcePageUrl": "https://athensdentalcare.gr/services",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/services",
+          "retrievedAt": "2026-03-31T13:14:43.788Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC_Work_Compressed-112_edit.jpg",
+      "alt": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC_Work_Compressed-112_edit.jpg",
+      "sourcePageUrl": "https://athensdentalcare.gr/services",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/services",
+          "retrievedAt": "2026-03-31T13:14:43.788Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC-Work-66_edit.jpg",
+      "alt": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC-Work-66_edit.jpg",
+      "sourcePageUrl": "https://athensdentalcare.gr/services",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/services",
+          "retrievedAt": "2026-03-31T13:14:43.788Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC-Work-48_edit.jpg",
+      "alt": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC-Work-48_edit.jpg",
+      "sourcePageUrl": "https://athensdentalcare.gr/services",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/services",
+          "retrievedAt": "2026-03-31T13:14:43.788Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC_Work_Compressed-84_edit.jpg",
+      "alt": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC_Work_Compressed-84_edit.jpg",
+      "sourcePageUrl": "https://athensdentalcare.gr/services",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/services",
+          "retrievedAt": "2026-03-31T13:14:43.788Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC_Work_Compressed-15_edit.jpg",
+      "alt": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC_Work_Compressed-15_edit.jpg",
+      "sourcePageUrl": "https://athensdentalcare.gr/services",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/services",
+          "retrievedAt": "2026-03-31T13:14:43.788Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC-Work-170_edit.jpg",
+      "alt": "https://athensdentalcare.gr/wp-content/uploads/2022/08/ADC-Work-170_edit.jpg",
+      "sourcePageUrl": "https://athensdentalcare.gr/services",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/services",
+          "retrievedAt": "2026-03-31T13:14:43.788Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2023/02/ADC_Work-132_small.jpg",
+      "alt": "https://athensdentalcare.gr/wp-content/uploads/2023/02/ADC_Work-132_small.jpg",
+      "sourcePageUrl": "https://athensdentalcare.gr/orthodontiki",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/orthodontiki",
+          "retrievedAt": "2026-03-31T13:14:45.971Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2023/02/ADC_Work-102_small.jpg",
+      "alt": "https://athensdentalcare.gr/wp-content/uploads/2023/02/ADC_Work-102_small.jpg",
+      "sourcePageUrl": "https://athensdentalcare.gr/orthodontiki",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/orthodontiki",
+          "retrievedAt": "2026-03-31T13:14:45.971Z"
+        }
+      ]
+    },
+    {
+      "url": "https://athensdentalcare.gr/wp-content/uploads/2023/02/ADC_Work_Compressed-69_small-e1679219627340.jpg",
+      "alt": "https://athensdentalcare.gr/wp-content/uploads/2023/02/ADC_Work_Compressed-69_small-e1679219627340.jpg",
+      "sourcePageUrl": "https://athensdentalcare.gr/orthodontiki",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://athensdentalcare.gr/orthodontiki",
+          "retrievedAt": "2026-03-31T13:14:45.971Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "210 72 93 211",
+      "sourcePageUrl": "https://athensdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.764Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 72 93 2116942 620 072",
+      "sourcePageUrl": "https://athensdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.764Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "00302107293211",
+      "sourcePageUrl": "https://athensdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.764Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "/* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"https:\\/\\/athensdentalcare.gr\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */",
+      "sourcePageUrl": "https://athensdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.764Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://athensdentalcare.gr/",
+      "sourcePageUrl": "https://athensdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://athensdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:14:37.764Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "6942620072",
+      "sourcePageUrl": "https://athensdentalcare.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://athensdentalcare.gr/contact",
+          "retrievedAt": "2026-03-31T13:14:39.529Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@athensdentalcare.gr",
+      "sourcePageUrl": "https://athensdentalcare.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://athensdentalcare.gr/contact",
+          "retrievedAt": "2026-03-31T13:14:39.529Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://athensdentalcare.gr/contact",
+      "sourcePageUrl": "https://athensdentalcare.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://athensdentalcare.gr/contact",
+          "retrievedAt": "2026-03-31T13:14:39.529Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://athensdentalcare.gr/contact",
+      "sourcePageUrl": "https://athensdentalcare.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://athensdentalcare.gr/contact",
+          "retrievedAt": "2026-03-31T13:14:39.529Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "6942 620 072",
+      "sourcePageUrl": "https://athensdentalcare.gr/services/aorati-orthodontiki",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://athensdentalcare.gr/services/aorati-orthodontiki",
+          "retrievedAt": "2026-03-31T13:14:40.708Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://athensdentalcare.gr/services/aorati-orthodontiki",
+      "sourcePageUrl": "https://athensdentalcare.gr/services/aorati-orthodontiki",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://athensdentalcare.gr/services/aorati-orthodontiki",
+          "retrievedAt": "2026-03-31T13:14:40.708Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://athensdentalcare.gr/services/proliptiki-orthodontiki",
+      "sourcePageUrl": "https://athensdentalcare.gr/services/proliptiki-orthodontiki",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://athensdentalcare.gr/services/proliptiki-orthodontiki",
+          "retrievedAt": "2026-03-31T13:14:42.215Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://athensdentalcare.gr/services",
+      "sourcePageUrl": "https://athensdentalcare.gr/services",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://athensdentalcare.gr/services",
+          "retrievedAt": "2026-03-31T13:14:43.787Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://athensdentalcare.gr/orthodontiki",
+      "sourcePageUrl": "https://athensdentalcare.gr/orthodontiki",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://athensdentalcare.gr/orthodontiki",
+          "retrievedAt": "2026-03-31T13:14:45.971Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://athensdentalcare.gr/",
+    "finalOrigin": "https://athensdentalcare.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://athensdentalcare.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:14:37.482Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [
+        "/"
+      ],
+      "disallowRules": [],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://athensdentalcare.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:14:37.103Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://athensdentalcare.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/aorati-orthodontiki",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/proliptiki-orthodontiki",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/orthodontiki",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/aisthitiki-odontiatriki",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/emfitevmata",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/xeirourgiki-stomatos",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/periodontologia",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/prosthetiki",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/doctors",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/doctors/pinelopi-giakoumaki",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/doctors/melina-moraiti",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/doctors/pablo-lirio-del-saz",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/doctors/paraskevi-grigoriadi",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/doctors/giorgos-katsikarelis",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/doctors/tatiana-glinou",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/about-us/certifications",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:37.766Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/contact",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:39.531Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/en/contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://athensdentalcare.gr/contact",
+        "timestamp": "2026-03-31T13:14:39.531Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/about-us/iatreio",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://athensdentalcare.gr/contact",
+        "timestamp": "2026-03-31T13:14:39.531Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/iatreio",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://athensdentalcare.gr/contact",
+        "timestamp": "2026-03-31T13:14:39.531Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/mathe-pos-doulevoume",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://athensdentalcare.gr/contact",
+        "timestamp": "2026-03-31T13:14:39.531Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/prin-kai-meta",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://athensdentalcare.gr/contact",
+        "timestamp": "2026-03-31T13:14:39.531Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/orthodontiki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://athensdentalcare.gr/contact",
+        "timestamp": "2026-03-31T13:14:39.531Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/odontiatriki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://athensdentalcare.gr/contact",
+        "timestamp": "2026-03-31T13:14:39.531Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/koinoniki-eythini",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://athensdentalcare.gr/contact",
+        "timestamp": "2026-03-31T13:14:39.531Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/media",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://athensdentalcare.gr/contact",
+        "timestamp": "2026-03-31T13:14:39.531Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/blog",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://athensdentalcare.gr/contact",
+        "timestamp": "2026-03-31T13:14:39.531Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/terms",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://athensdentalcare.gr/contact",
+        "timestamp": "2026-03-31T13:14:39.531Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/cookies-policy",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://athensdentalcare.gr/contact",
+        "timestamp": "2026-03-31T13:14:39.531Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/aorati-orthodontiki",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:40.711Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/en/services/aorati-orthodontiki",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/services/aorati-orthodontiki",
+        "timestamp": "2026-03-31T13:14:40.711Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/krotafognathiki",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/services/aorati-orthodontiki",
+        "timestamp": "2026-03-31T13:14:40.711Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/aorati-orthodontiki",
+        "action": "queued",
+        "pageTypeHint": "faq",
+        "reason": "Discovered from https://athensdentalcare.gr/services/aorati-orthodontiki",
+        "timestamp": "2026-03-31T13:14:40.711Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/proliptiki-orthodontiki",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:42.222Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/en/services/proliptiki-orthodontiki",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/services/proliptiki-orthodontiki",
+        "timestamp": "2026-03-31T13:14:42.222Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/aorati-orthodontiki?preview_id=1284&preview_nonce=5028d73f90&_thumbnail_id=-1&preview=true",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/services/proliptiki-orthodontiki",
+        "timestamp": "2026-03-31T13:14:42.222Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/metallika-siderakia",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/services/proliptiki-orthodontiki",
+        "timestamp": "2026-03-31T13:14:42.222Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:43.794Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/en/services",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/services",
+        "timestamp": "2026-03-31T13:14:43.794Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/paidodontia",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/services",
+        "timestamp": "2026-03-31T13:14:43.794Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/stomatologia",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/services",
+        "timestamp": "2026-03-31T13:14:43.794Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/proliptiki-odontiatriki",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/services",
+        "timestamp": "2026-03-31T13:14:43.794Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/stomatoprosopikos-ponos",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/services",
+        "timestamp": "2026-03-31T13:14:43.794Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/prasini-diaxeirisi",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/services",
+        "timestamp": "2026-03-31T13:14:43.794Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/orthodontiki",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://athensdentalcare.gr/",
+        "timestamp": "2026-03-31T13:14:45.973Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/aoratoi-paidia",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/orthodontiki",
+        "timestamp": "2026-03-31T13:14:45.973Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/esoterika-siderakia",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/orthodontiki",
+        "timestamp": "2026-03-31T13:14:45.973Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/services/orthognathiki",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://athensdentalcare.gr/orthodontiki",
+        "timestamp": "2026-03-31T13:14:45.973Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/en/orthodontiki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://athensdentalcare.gr/orthodontiki",
+        "timestamp": "2026-03-31T13:14:45.973Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:14:48.703Z"
+      },
+      {
+        "url": "https://athensdentalcare.gr/contact",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:14:52.450Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

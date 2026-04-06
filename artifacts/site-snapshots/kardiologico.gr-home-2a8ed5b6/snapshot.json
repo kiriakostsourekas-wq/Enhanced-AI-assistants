@@ -1,0 +1,1647 @@
+{
+  "domain": "kardiologico.gr",
+  "collectedAt": "2026-03-31T13:19:16.860Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/kardiologico.gr-home-2a8ed5b6",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://www.kardiologico.gr/",
+      "finalUrl": "https://www.kardiologico.gr/",
+      "fetchedAt": "2026-03-31T13:18:59.021Z",
+      "metadata": {
+        "title": "Διαγνωστικό Κέντρο Καρδιολογικό Αθηνών Χαλάνδρι, Αθήνα",
+        "metaDescription": "Διαγνωστικό Κέντρο Καρδιολογικό Αθηνών Χαλάνδρι, Αθήνα |",
+        "canonicalUrl": "https://www.kardiologico.gr/",
+        "language": "el",
+        "openGraphTitle": "Διαγνωστικό Κέντρο Καρδιολογικό Αθηνών Χαλάνδρι, Αθήνα",
+        "openGraphDescription": "Το διαγνωστικό κέντρο Καρδιολογικό Αθηνών (Χαλάνδρι) διαθέτει ένα από τα καλύτερα καρδιολογικά τμήματα στην Ελλάδα εξοπλισμένο με τα καλύτερα συστήματα."
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Καρδιολογικό Αθηνών"
+        },
+        {
+          "level": "h2",
+          "text": "ΔΕΧΟΜΑΣΤΕ ΠΑΡΑΠΕΜΠΤΙΚΑ Ε.Ο.Π.Υ.Υ. & ΛΟΙΠΩΝ ΑΣΦΑΛΙΣΤΙΚΩΝ ΤΑΜΕΙΩΝ"
+        },
+        {
+          "level": "h3",
+          "text": "ΜΕΙΩΜΕΝΗ ΧΡΕΩΣΗ ΕΠΙ ΜΗ ΠΡΟΣΚΟΜΙΣΗΣ ΠΑΡΑΠΕΜΠΤΙΚΟΥ Ε.Ο.Π.Υ.Υ."
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.kardiologico.gr/"
+        },
+        {
+          "href": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko/",
+          "label": "Τμήματα"
+        },
+        {
+          "href": "https://www.kardiologico.gr/tmimata/aggeiologiko/",
+          "label": "Αγγειολογικό"
+        },
+        {
+          "href": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki/",
+          "label": "Πυρηνική Ιατρική"
+        },
+        {
+          "href": "https://www.kardiologico.gr/tmimata/pneumonologiko/",
+          "label": "Πνευμονολογικό"
+        },
+        {
+          "href": "https://www.kardiologico.gr/tmimata/ergastirio-yperixwn/",
+          "label": "Εργαστήριο Υπερήχων"
+        },
+        {
+          "href": "https://www.kardiologico.gr/tmimata/viopathologiko-mikroviologiko/",
+          "label": "Βιοπαθολογικό – Μικροβιολογικό"
+        },
+        {
+          "href": "https://www.kardiologico.gr/exetaseis-ektos-eoppy/",
+          "label": "Εξετασεις εκτος ΕΟΠΠΥ"
+        },
+        {
+          "href": "https://www.kardiologico.gr/photo-gallery/",
+          "label": "Photo Gallery"
+        },
+        {
+          "href": "https://www.kardiologico.gr/xrisimes-plirofories/",
+          "label": "Χρησιμες Πληροφοριες"
+        },
+        {
+          "href": "https://www.kardiologico.gr/contacts/",
+          "label": "Επικοινωνια"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.kardiologico.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "search-form_is"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "s",
+              "type": "text",
+              "required": false
+            },
+            {
+              "name": "search-form_is",
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "53.41880341880342"
+        ],
+        "emails": [],
+        "addresses": [],
+        "socialLinks": [],
+        "forms": [
+          {
+            "action": "https://www.kardiologico.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "search-form_is"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "s",
+                "type": "text",
+                "required": false
+              },
+              {
+                "name": "search-form_is",
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Καρδιολογικό Αθηνών © 2026 | ICAP WEB Solutions | Support by DigitalUp | Sitemap",
+      "textContent": "Αρχικη Τμήματα Καρδιολογικό – Παιδοκαρδιολογικό Αγγειολογικό Πυρηνική Ιατρική Πνευμονολογικό Εργαστήριο Υπερήχων Βιοπαθολογικό – Μικροβιολογικό Εξετασεις εκτος ΕΟΠΠΥ Photo Gallery Χρησιμες Πληροφοριες Επικοινωνια // jQuery(window).load(function() { jQuery(function() { var myCamera = jQuery('#camera69cbc94398c26'); if (!myCamera.hasClass('motopress-camera')) { myCamera.addClass('motopress-camera'); myCamera.camera({ autoAdvance : true, //true, false mobileAutoAdvance : true, //true, false. Auto-advancing for mobile devices cols : 12, fx : \"simpleFade\", //'random','simpleFade', 'curtainTopLeft', 'curtainTopRight', 'curtainBottomLeft', 'curtainBottomRight', 'curtainSliceLeft', 'curtainSliceRight', 'blindCurtainTopLeft', 'blindCurtainTopRight', 'blindCurtainBottomLeft', 'blindCurtainBottomRight', 'blindCurtainSliceBottom', 'blindCurtainSliceTop', 'stampede', 'mosaic', 'mosaicReverse', 'mosaicRandom', 'mosaicSpiral', 'mosaicSpiralReverse', 'topLeftBottomRight', 'bottomRightTopLeft', 'bottomLeftTopRight', 'bottomLeftTopRight' loader : \"no\", //pie, bar, none (even if you choose \"pie\", old browsers like IE8- can't display it... they will display always a loading bar) navigation : true, //true or false, to display or not the navigation buttons navigationHover : false, //if true the navigation button (prev, next and play/stop buttons) will be visible on hover state only, if false they will be visible always pagination : false, playPause : false, //true or false, to display or not the play/pause buttons rows : 8, slicedCols : 12, slicedRows : 8, thumbnails : false, time : 7000, //milliseconds between the end of the sliding effect and the start of the next one transPeriod : 1500, //lenght of the sliding effect in milliseconds hover : true, //pause on state hover. Not available for mobile devices alignment : 'topCenter', barDirection : 'leftToRight', barPosition : 'top', easing : 'easeOutQuad', mobileEasing : '', mobileFx : '', gridDifference : 250, imagePath : 'images/', minHeight : \"120px\", height : \"53.41880341880342%\", loaderColor : '#ffffff', loaderBgColor : '#eb8a7c', loaderOpacity : 1, loaderPadding : 0, loaderStroke : 3, pieDiameter : 33, piePosition : 'rightTop', portrait : true, ////////callbacks onEndTransition : function(){}, //this callback is invoked when the transition effect ends onLoaded : function(){}, //this callback is invoked when the image on a slide has completely loaded onStartLoading : function(){}, //this callback is invoked when the image on a slide start loading onStartTransition : function(){} //this callback is invoked when the transition effect starts }); } }); // }); Καρδιολογικό Παιδοκαρδιολογικό περισότερα Αγγειολογικό Τμήμα περισσότερα Πυρηνική Ιατρική περισσότερα Πνευμονολογικό Τμήμα περισσότερα Εργαστήριο Υπερήχων περισσότερα Βιοπαθολογικό Μικροβιολογικό περισσότερα Καρδιολογικό Αθηνών Το Καρδιολογικό Αθηνών ιδρύθηκε το 1988 από τον Καρδιολόγο Δημήτρη Φασίτσα με στόχο τη δυνατότητα μια ταχείας και ολοκληρωμένης μελέτης των καρδιαγγειακών ασθενών σε εξωνοσοκομιακό περιβάλλον. Στα χρόνια αυτά το Καρδιολογικό Αθηνών εστιάζοντας στο καρδιαγγειακό σύστημα πρωτοπόρησε με άρτιο εξοπλισμό - καλά εκπαιδευμένους συνεργάτες και καινούρις επιστημονικές τεχνικές. Το Καρδιολογικό Αθηνών, βρίσκεται στο Χαλάνδρι, ΛεωφόροΚηφισίας 330, έναντι Νοσοκομείου \"ΥΓΕΙΑ\". Η είσοδος βρίσκεται όπισθεν του κτηρίου στην οδό Κορδελίου 8. Διατέτει ιδιόκτητο πάρκινγκ το οποίο είναι δωρεάν για ασθενείς και επισκέπτες ιατρούς. ΔΕΧΟΜΑΣΤΕ ΠΑΡΑΠΕΜΠΤΙΚΑ Ε.Ο.Π.Υ.Υ. & ΛΟΙΠΩΝ ΑΣΦΑΛΙΣΤΙΚΩΝ ΤΑΜΕΙΩΝ ΜΕΙΩΜΕΝΗ ΧΡΕΩΣΗ ΕΠΙ ΜΗ ΠΡΟΣΚΟΜΙΣΗΣ ΠΑΡΑΠΕΜΠΤΙΚΟΥ Ε.Ο.Π.Υ.Υ. Καρδιολογικό Αθηνών © 2026 | ICAP WEB Solutions | Support by DigitalUp | Sitemap /* <![CDATA[ */ var items_custom = [[0,1],[480,2],[768,3],[980,4],[1170,5]]; /* ]]> */ /* <![CDATA[ */ var wpcf7 = {\"apiSettings\":{\"root\":\"https:\\/\\/www.kardiologico.gr\\/wp-json\\/contact-form-7\\/v1\",\"namespace\":\"contact-form-7\\/v1\"},\"recaptcha\":{\"messages\":{\"empty\":\"\\u0395\\u03c0\\u03b9\\u03b2\\u03b5\\u03b2\\u03b1\\u03b9\\u03ce\\u03c3\\u03c4\\u03b5 \\u03cc\\u03c4\\u03b9 \\u03b4\\u03b5\\u03bd \\u03b5\\u03af\\u03c3\\u03c4\\u03b5 \\u03c1\\u03bf\\u03bc\\u03c0\\u03cc\\u03c4.\"}}}; /* ]]> */ deleteCookie('cf-cookie-banner');",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/kardiologico.gr-home-2a8ed5b6/homepage--2a8ed5b6.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/kardiologico.gr-home-2a8ed5b6/homepage--2a8ed5b6.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.kardiologico.gr/wp-content/uploads/2017/11/logo.png",
+          "alt": "Καρδιολογικό Αθηνών",
+          "sourcePageUrl": "https://www.kardiologico.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.kardiologico.gr/",
+              "retrievedAt": "2026-03-31T13:18:59.019Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.icapweb.gr/kardiologico/wp-content/uploads/line.gif",
+          "alt": "heart line",
+          "sourcePageUrl": "https://www.kardiologico.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.kardiologico.gr/",
+              "retrievedAt": "2026-03-31T13:18:59.019Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/kardiologiko-home.png",
+          "sourcePageUrl": "https://www.kardiologico.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.kardiologico.gr/",
+              "retrievedAt": "2026-03-31T13:18:59.019Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/aggeiologiko-home.png",
+          "sourcePageUrl": "https://www.kardiologico.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.kardiologico.gr/",
+              "retrievedAt": "2026-03-31T13:18:59.019Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/pyriniki-iatriki-home.png",
+          "sourcePageUrl": "https://www.kardiologico.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.kardiologico.gr/",
+              "retrievedAt": "2026-03-31T13:18:59.019Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/pneumonologiko-home.png",
+          "sourcePageUrl": "https://www.kardiologico.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.kardiologico.gr/",
+              "retrievedAt": "2026-03-31T13:18:59.019Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/yperixoi-home.png",
+          "sourcePageUrl": "https://www.kardiologico.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.kardiologico.gr/",
+              "retrievedAt": "2026-03-31T13:18:59.019Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/biopathologiko-home.png",
+          "sourcePageUrl": "https://www.kardiologico.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.kardiologico.gr/",
+              "retrievedAt": "2026-03-31T13:18:59.019Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/kardiologico-home-200x300.jpg",
+          "sourcePageUrl": "https://www.kardiologico.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.kardiologico.gr/",
+              "retrievedAt": "2026-03-31T13:18:59.019Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/footer-logo-2.png",
+          "alt": "Καρδιολογικό Αθηνών",
+          "sourcePageUrl": "https://www.kardiologico.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.kardiologico.gr/",
+              "retrievedAt": "2026-03-31T13:18:59.019Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.kardiologico.gr/wp-content/themes/theme54643/images/social/findbiz.png",
+          "alt": "findbiz",
+          "sourcePageUrl": "https://www.kardiologico.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.kardiologico.gr/",
+              "retrievedAt": "2026-03-31T13:18:59.019Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://www.kardiologico.gr/",
+          "retrievedAt": "2026-03-31T13:18:59.021Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/kardiologico.gr-home-2a8ed5b6/homepage-page-2a8ed5b6.png"
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://www.kardiologico.gr/contacts",
+      "finalUrl": "https://www.kardiologico.gr/contacts",
+      "fetchedAt": "2026-03-31T13:19:00.904Z",
+      "metadata": {
+        "title": "Καρδιολογικό Αθηνών | Επικοινωνία, Τηλέφωνα, Χάρτης",
+        "metaDescription": "Καρδιολογικό Αθηνών | Επικοινωνία, Τηλέφωνα, Χάρτης |",
+        "canonicalUrl": "https://www.kardiologico.gr/contacts/",
+        "language": "el",
+        "openGraphTitle": "Καρδιολογικό Αθηνών | Επικοινωνία, Τηλέφωνα, Χάρτης",
+        "openGraphDescription": "Καρδιολογικό Αθηνών | Επικοινωνία, Τηλέφωνα, Χάρτης. Το Καρδιολογικό Αθηνών βρίσκεται στην Λεωφ. Κηφισίας 330 & Κορδελίου 8, στο Χαλάνδρι και 500 μέτρα από τη συμβολή της Κηφισίας με την Αττική Οδό."
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Επικοινωνία"
+        },
+        {
+          "level": "h2",
+          "text": "Στοιχεία Επικοινωνίας"
+        },
+        {
+          "level": "h2",
+          "text": "Φόρμα Επικοινωνίας"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.kardiologico.gr/"
+        },
+        {
+          "href": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko/",
+          "label": "Τμήματα"
+        },
+        {
+          "href": "https://www.kardiologico.gr/tmimata/aggeiologiko/",
+          "label": "Αγγειολογικό"
+        },
+        {
+          "href": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki/",
+          "label": "Πυρηνική Ιατρική"
+        },
+        {
+          "href": "https://www.kardiologico.gr/tmimata/pneumonologiko/",
+          "label": "Πνευμονολογικό"
+        },
+        {
+          "href": "https://www.kardiologico.gr/tmimata/ergastirio-yperixwn/",
+          "label": "Εργαστήριο Υπερήχων"
+        },
+        {
+          "href": "https://www.kardiologico.gr/tmimata/viopathologiko-mikroviologiko/",
+          "label": "Βιοπαθολογικό – Μικροβιολογικό"
+        },
+        {
+          "href": "https://www.kardiologico.gr/exetaseis-ektos-eoppy/",
+          "label": "Εξετασεις εκτος ΕΟΠΠΥ"
+        },
+        {
+          "href": "https://www.kardiologico.gr/photo-gallery/",
+          "label": "Photo Gallery"
+        },
+        {
+          "href": "https://www.kardiologico.gr/xrisimes-plirofories/",
+          "label": "Χρησιμες Πληροφοριες"
+        },
+        {
+          "href": "https://www.kardiologico.gr/contacts/",
+          "label": "Επικοινωνια"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.kardiologico.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "search-form_is"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "s",
+              "type": "text",
+              "required": false
+            },
+            {
+              "name": "search-form_is",
+              "type": "submit",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://www.kardiologico.gr/contacts/#wpcf7-f208-p14-o1",
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "_wpcf7",
+            "_wpcf7_version",
+            "_wpcf7_locale",
+            "_wpcf7_unit_tag",
+            "_wpcf7_container_post",
+            "your-name",
+            "your-email",
+            "your-phone",
+            "your-message",
+            "reset",
+            "submit"
+          ],
+          "submitLabels": [
+            "Αποστολή"
+          ],
+          "fields": [
+            {
+              "name": "_wpcf7",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_version",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_locale",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_unit_tag",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_container_post",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "your-name",
+              "type": "text",
+              "label": "Όνομα:",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "type": "email",
+              "label": "E-mail:",
+              "required": true
+            },
+            {
+              "name": "your-phone",
+              "type": "text",
+              "label": "Τηλέφωνο:",
+              "required": false
+            },
+            {
+              "name": "your-message",
+              "type": "textarea",
+              "label": "Μήνυμα:",
+              "required": false
+            },
+            {
+              "type": "reset",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "684053740",
+          "38.02681",
+          "23.789858",
+          "+30 210 685 5951",
+          "+30 210 685 5939"
+        ],
+        "emails": [
+          "info@kardiologico.gr"
+        ],
+        "addresses": [
+          "Καρδιολογικό Αθηνών Λεωφ. Κηφισίας 330 & Κορδελίου 8, Χαλάνδρι Αθήνα, 152 33. Τηλέφωνα: +30 210 685 5951,2,3,4 FAX: +30 210 685 5939 E-mail: info@kardiologico.gr"
+        ],
+        "socialLinks": [],
+        "forms": [
+          {
+            "action": "https://www.kardiologico.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "search-form_is"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "s",
+                "type": "text",
+                "required": false
+              },
+              {
+                "name": "search-form_is",
+                "type": "submit",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://www.kardiologico.gr/contacts/#wpcf7-f208-p14-o1",
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "_wpcf7",
+              "_wpcf7_version",
+              "_wpcf7_locale",
+              "_wpcf7_unit_tag",
+              "_wpcf7_container_post",
+              "your-name",
+              "your-email",
+              "your-phone",
+              "your-message",
+              "reset",
+              "submit"
+            ],
+            "submitLabels": [
+              "Αποστολή"
+            ],
+            "fields": [
+              {
+                "name": "_wpcf7",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_version",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_locale",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_unit_tag",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_container_post",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "your-name",
+                "type": "text",
+                "label": "Όνομα:",
+                "required": true
+              },
+              {
+                "name": "your-email",
+                "type": "email",
+                "label": "E-mail:",
+                "required": true
+              },
+              {
+                "name": "your-phone",
+                "type": "text",
+                "label": "Τηλέφωνο:",
+                "required": false
+              },
+              {
+                "name": "your-message",
+                "type": "textarea",
+                "label": "Μήνυμα:",
+                "required": false
+              },
+              {
+                "type": "reset",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Καρδιολογικό Αθηνών © 2026 | ICAP WEB Solutions | Support by DigitalUp | Sitemap",
+      "textContent": "Αρχικη Τμήματα Καρδιολογικό – Παιδοκαρδιολογικό Αγγειολογικό Πυρηνική Ιατρική Πνευμονολογικό Εργαστήριο Υπερήχων Βιοπαθολογικό – Μικροβιολογικό Εξετασεις εκτος ΕΟΠΠΥ Photo Gallery Χρησιμες Πληροφοριες Επικοινωνια Επικοινωνία ΑρχικήΕπικοινωνία google_api_map_init_684053740(); function google_api_map_init_684053740(){ var map; var coordData = new google.maps.LatLng(parseFloat(38.02681), parseFloat(23.789858)); var marker; var isDraggable = jQuery(document).width() > 768 ? true : false; function initialize() { var mapOptions = { zoom: 17, center: coordData, draggable: isDraggable, scrollwheel: false } var map = new google.maps.Map(document.getElementById(\"map-canvas-684053740\"), mapOptions); marker = new google.maps.Marker({ map: map, draggable: false, position: coordData }); } google.maps.event.addDomListener(window, \"load\", initialize); } Στοιχεία Επικοινωνίας Το Καρδιολογικό Αθηνών βρίσκεται στην Λεωφ. Κηφισίας, στο Χαλάνδρι και 500 μέτρα από τη συμβολή της Κηφισίας με την Αττική Οδό. Η είσοδος του κτιρίου (για πεζούς & αυτοκίνητα) είναι από την οδό Κορδελίου. Διαθέτει ιδιόκτητο πάρκινγκ - δωρεάν για τους πελάτες μας, με εύκολη πρόσβαση από την διασταύρωση των οδών Κηφισίας & Καρελλά, όπου υπάρχουν φωτεινοί σηματοδότες. Καρδιολογικό Αθηνών Λεωφ. Κηφισίας 330 & Κορδελίου 8, Χαλάνδρι Αθήνα, 152 33. Τηλέφωνα: +30 210 685 5951,2,3,4 FAX: +30 210 685 5939 E-mail: info@kardiologico.gr Φόρμα Επικοινωνίας Καρδιολογικό Αθηνών © 2026 | ICAP WEB Solutions | Support by DigitalUp | Sitemap /* <![CDATA[ */ var items_custom = [[0,1],[480,2],[768,3],[980,4],[1170,5]]; /* ]]> */ /* <![CDATA[ */ var wpcf7 = {\"apiSettings\":{\"root\":\"https:\\/\\/www.kardiologico.gr\\/wp-json\\/contact-form-7\\/v1\",\"namespace\":\"contact-form-7\\/v1\"},\"recaptcha\":{\"messages\":{\"empty\":\"\\u0395\\u03c0\\u03b9\\u03b2\\u03b5\\u03b2\\u03b1\\u03b9\\u03ce\\u03c3\\u03c4\\u03b5 \\u03cc\\u03c4\\u03b9 \\u03b4\\u03b5\\u03bd \\u03b5\\u03af\\u03c3\\u03c4\\u03b5 \\u03c1\\u03bf\\u03bc\\u03c0\\u03cc\\u03c4.\"}}}; /* ]]> */ deleteCookie('cf-cookie-banner');",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/kardiologico.gr-home-2a8ed5b6/contact-contacts-39dd9ae7.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/kardiologico.gr-home-2a8ed5b6/contact-contacts-39dd9ae7.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.kardiologico.gr/wp-content/uploads/2017/11/logo.png",
+          "alt": "Καρδιολογικό Αθηνών",
+          "sourcePageUrl": "https://www.kardiologico.gr/contacts",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.kardiologico.gr/contacts",
+              "retrievedAt": "2026-03-31T13:19:00.903Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.icapweb.gr/kardiologico/wp-content/uploads/line.gif",
+          "alt": "heart line",
+          "sourcePageUrl": "https://www.kardiologico.gr/contacts",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.kardiologico.gr/contacts",
+              "retrievedAt": "2026-03-31T13:19:00.903Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/footer-logo-2.png",
+          "alt": "Καρδιολογικό Αθηνών",
+          "sourcePageUrl": "https://www.kardiologico.gr/contacts",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.kardiologico.gr/contacts",
+              "retrievedAt": "2026-03-31T13:19:00.903Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.kardiologico.gr/wp-content/themes/theme54643/images/social/findbiz.png",
+          "alt": "findbiz",
+          "sourcePageUrl": "https://www.kardiologico.gr/contacts",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.kardiologico.gr/contacts",
+              "retrievedAt": "2026-03-31T13:19:00.903Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://www.kardiologico.gr/contacts",
+          "retrievedAt": "2026-03-31T13:19:00.904Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/kardiologico.gr-home-2a8ed5b6/contact-contacts-39dd9ae7.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "53.41880341880342",
+      "684053740",
+      "38.02681",
+      "23.789858",
+      "+30 210 685 5951",
+      "+30 210 685 5939"
+    ],
+    "emails": [
+      "info@kardiologico.gr"
+    ],
+    "addresses": [
+      "Καρδιολογικό Αθηνών Λεωφ. Κηφισίας 330 & Κορδελίου 8, Χαλάνδρι Αθήνα, 152 33. Τηλέφωνα: +30 210 685 5951,2,3,4 FAX: +30 210 685 5939 E-mail: info@kardiologico.gr"
+    ],
+    "socialLinks": [],
+    "forms": [
+      {
+        "action": "https://www.kardiologico.gr/",
+        "method": "get",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "s",
+          "search-form_is"
+        ],
+        "submitLabels": [],
+        "fields": [
+          {
+            "name": "s",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "search-form_is",
+            "type": "submit",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.kardiologico.gr/contacts/#wpcf7-f208-p14-o1",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "_wpcf7",
+          "_wpcf7_version",
+          "_wpcf7_locale",
+          "_wpcf7_unit_tag",
+          "_wpcf7_container_post",
+          "your-name",
+          "your-email",
+          "your-phone",
+          "your-message",
+          "reset",
+          "submit"
+        ],
+        "submitLabels": [
+          "Αποστολή"
+        ],
+        "fields": [
+          {
+            "name": "_wpcf7",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_version",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_locale",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_unit_tag",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_container_post",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "your-name",
+            "type": "text",
+            "label": "Όνομα:",
+            "required": true
+          },
+          {
+            "name": "your-email",
+            "type": "email",
+            "label": "E-mail:",
+            "required": true
+          },
+          {
+            "name": "your-phone",
+            "type": "text",
+            "label": "Τηλέφωνο:",
+            "required": false
+          },
+          {
+            "name": "your-message",
+            "type": "textarea",
+            "label": "Μήνυμα:",
+            "required": false
+          },
+          {
+            "type": "reset",
+            "required": false
+          },
+          {
+            "type": "submit",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Διαγνωστικό Κέντρο Καρδιολογικό Αθηνών Χαλάνδρι, Αθήνα",
+    "metaDescription": "Διαγνωστικό Κέντρο Καρδιολογικό Αθηνών Χαλάνδρι, Αθήνα |",
+    "canonicalUrl": "https://www.kardiologico.gr/",
+    "language": "el",
+    "openGraphTitle": "Διαγνωστικό Κέντρο Καρδιολογικό Αθηνών Χαλάνδρι, Αθήνα",
+    "openGraphDescription": "Το διαγνωστικό κέντρο Καρδιολογικό Αθηνών (Χαλάνδρι) διαθέτει ένα από τα καλύτερα καρδιολογικά τμήματα στην Ελλάδα εξοπλισμένο με τα καλύτερα συστήματα."
+  },
+  "imageReferences": [
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/11/logo.png",
+      "alt": "Καρδιολογικό Αθηνών",
+      "sourcePageUrl": "https://www.kardiologico.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/",
+          "retrievedAt": "2026-03-31T13:18:59.019Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icapweb.gr/kardiologico/wp-content/uploads/line.gif",
+      "alt": "heart line",
+      "sourcePageUrl": "https://www.kardiologico.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/",
+          "retrievedAt": "2026-03-31T13:18:59.019Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/kardiologiko-home.png",
+      "sourcePageUrl": "https://www.kardiologico.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/",
+          "retrievedAt": "2026-03-31T13:18:59.019Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/aggeiologiko-home.png",
+      "sourcePageUrl": "https://www.kardiologico.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/",
+          "retrievedAt": "2026-03-31T13:18:59.019Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/pyriniki-iatriki-home.png",
+      "sourcePageUrl": "https://www.kardiologico.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/",
+          "retrievedAt": "2026-03-31T13:18:59.019Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/pneumonologiko-home.png",
+      "sourcePageUrl": "https://www.kardiologico.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/",
+          "retrievedAt": "2026-03-31T13:18:59.019Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/yperixoi-home.png",
+      "sourcePageUrl": "https://www.kardiologico.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/",
+          "retrievedAt": "2026-03-31T13:18:59.019Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/biopathologiko-home.png",
+      "sourcePageUrl": "https://www.kardiologico.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/",
+          "retrievedAt": "2026-03-31T13:18:59.019Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/kardiologico-home-200x300.jpg",
+      "sourcePageUrl": "https://www.kardiologico.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/",
+          "retrievedAt": "2026-03-31T13:18:59.019Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/footer-logo-2.png",
+      "alt": "Καρδιολογικό Αθηνών",
+      "sourcePageUrl": "https://www.kardiologico.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/",
+          "retrievedAt": "2026-03-31T13:18:59.019Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/themes/theme54643/images/social/findbiz.png",
+      "alt": "findbiz",
+      "sourcePageUrl": "https://www.kardiologico.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/",
+          "retrievedAt": "2026-03-31T13:18:59.019Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/06.jpg",
+      "alt": "1",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+          "retrievedAt": "2026-03-31T13:19:02.214Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/kardiologiko.jpg",
+      "alt": "2",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+          "retrievedAt": "2026-03-31T13:19:02.214Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/ergasthrio_purinikis_iatrikhs.jpg",
+      "alt": "1",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+          "retrievedAt": "2026-03-31T13:19:05.237Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/purinikh_iatrikh_g-camera.jpg",
+      "alt": "2",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+          "retrievedAt": "2026-03-31T13:19:05.237Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/pyriniki_1.jpg",
+      "alt": "Pyriniki 1",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+          "retrievedAt": "2026-03-31T13:19:05.237Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/pyriniki_4.jpg",
+      "alt": "Pyriniki 4",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+          "retrievedAt": "2026-03-31T13:19:05.237Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/pyriniki_5.jpg",
+      "alt": "Pyriniki 5",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+          "retrievedAt": "2026-03-31T13:19:05.237Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/pyriniki_6.jpg",
+      "alt": "Pyriniki 6",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+          "retrievedAt": "2026-03-31T13:19:05.237Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/pneumonologiko_1.jpg",
+      "alt": "1",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/pneumonologiko",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/tmimata/pneumonologiko",
+          "retrievedAt": "2026-03-31T13:19:06.655Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kardiologico.gr/wp-content/uploads/2017/12/pneumonologiko_2.jpg",
+      "alt": "2",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/pneumonologiko",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.kardiologico.gr/tmimata/pneumonologiko",
+          "retrievedAt": "2026-03-31T13:19:06.655Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "53.41880341880342",
+      "sourcePageUrl": "https://www.kardiologico.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.kardiologico.gr/",
+          "retrievedAt": "2026-03-31T13:18:59.019Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.kardiologico.gr/",
+      "sourcePageUrl": "https://www.kardiologico.gr/",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.kardiologico.gr/",
+          "retrievedAt": "2026-03-31T13:18:59.019Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "684053740",
+      "sourcePageUrl": "https://www.kardiologico.gr/contacts",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.kardiologico.gr/contacts",
+          "retrievedAt": "2026-03-31T13:19:00.903Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "38.02681",
+      "sourcePageUrl": "https://www.kardiologico.gr/contacts",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.kardiologico.gr/contacts",
+          "retrievedAt": "2026-03-31T13:19:00.903Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "23.789858",
+      "sourcePageUrl": "https://www.kardiologico.gr/contacts",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.kardiologico.gr/contacts",
+          "retrievedAt": "2026-03-31T13:19:00.903Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 210 685 5951",
+      "sourcePageUrl": "https://www.kardiologico.gr/contacts",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.kardiologico.gr/contacts",
+          "retrievedAt": "2026-03-31T13:19:00.903Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 210 685 5939",
+      "sourcePageUrl": "https://www.kardiologico.gr/contacts",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.kardiologico.gr/contacts",
+          "retrievedAt": "2026-03-31T13:19:00.903Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@kardiologico.gr",
+      "sourcePageUrl": "https://www.kardiologico.gr/contacts",
+      "pageType": "contact",
+      "confidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.kardiologico.gr/contacts",
+          "retrievedAt": "2026-03-31T13:19:00.903Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Καρδιολογικό Αθηνών Λεωφ. Κηφισίας 330 & Κορδελίου 8, Χαλάνδρι Αθήνα, 152 33. Τηλέφωνα: +30 210 685 5951,2,3,4 FAX: +30 210 685 5939 E-mail: info@kardiologico.gr",
+      "sourcePageUrl": "https://www.kardiologico.gr/contacts",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.kardiologico.gr/contacts",
+          "retrievedAt": "2026-03-31T13:19:00.903Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.kardiologico.gr/contacts",
+      "sourcePageUrl": "https://www.kardiologico.gr/contacts",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.kardiologico.gr/contacts",
+          "retrievedAt": "2026-03-31T13:19:00.903Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.kardiologico.gr/contacts",
+      "sourcePageUrl": "https://www.kardiologico.gr/contacts",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.kardiologico.gr/contacts",
+          "retrievedAt": "2026-03-31T13:19:00.903Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+          "retrievedAt": "2026-03-31T13:19:02.214Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+          "retrievedAt": "2026-03-31T13:19:02.214Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.kardiologico.gr/tmimata/aggeiologiko",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/aggeiologiko",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.kardiologico.gr/tmimata/aggeiologiko",
+          "retrievedAt": "2026-03-31T13:19:03.741Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.kardiologico.gr/tmimata/aggeiologiko",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/aggeiologiko",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.kardiologico.gr/tmimata/aggeiologiko",
+          "retrievedAt": "2026-03-31T13:19:03.741Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+          "retrievedAt": "2026-03-31T13:19:05.237Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+          "retrievedAt": "2026-03-31T13:19:05.237Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.kardiologico.gr/tmimata/pneumonologiko",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/pneumonologiko",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.kardiologico.gr/tmimata/pneumonologiko",
+          "retrievedAt": "2026-03-31T13:19:06.655Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.kardiologico.gr/tmimata/pneumonologiko",
+      "sourcePageUrl": "https://www.kardiologico.gr/tmimata/pneumonologiko",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.kardiologico.gr/tmimata/pneumonologiko",
+          "retrievedAt": "2026-03-31T13:19:06.655Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://www.kardiologico.gr/",
+    "finalOrigin": "https://www.kardiologico.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://www.kardiologico.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:18:58.818Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [
+        "/wp-admin/admin-ajax.php"
+      ],
+      "disallowRules": [
+        "/wp-admin/"
+      ],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://www.kardiologico.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:18:58.150Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://www.kardiologico.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.kardiologico.gr/",
+        "timestamp": "2026-03-31T13:18:59.021Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/contacts",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.kardiologico.gr/",
+        "timestamp": "2026-03-31T13:18:59.021Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.kardiologico.gr/",
+        "timestamp": "2026-03-31T13:18:59.021Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/aggeiologiko",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.kardiologico.gr/",
+        "timestamp": "2026-03-31T13:18:59.021Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.kardiologico.gr/",
+        "timestamp": "2026-03-31T13:18:59.021Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/pneumonologiko",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.kardiologico.gr/",
+        "timestamp": "2026-03-31T13:18:59.021Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/ergastirio-yperixwn",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.kardiologico.gr/",
+        "timestamp": "2026-03-31T13:18:59.021Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/viopathologiko-mikroviologiko",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.kardiologico.gr/",
+        "timestamp": "2026-03-31T13:18:59.021Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/exetaseis-ektos-eoppy",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.kardiologico.gr/",
+        "timestamp": "2026-03-31T13:18:59.021Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/photo-gallery",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.kardiologico.gr/",
+        "timestamp": "2026-03-31T13:18:59.021Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/xrisimes-plirofories",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.kardiologico.gr/",
+        "timestamp": "2026-03-31T13:18:59.021Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/contacts",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.kardiologico.gr/",
+        "timestamp": "2026-03-31T13:19:00.904Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.kardiologico.gr/",
+        "timestamp": "2026-03-31T13:19:02.216Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+        "timestamp": "2026-03-31T13:19:02.216Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko/pyriniki-kardiologia",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+        "timestamp": "2026-03-31T13:19:02.216Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko/yperixoi-triplex-kardias",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+        "timestamp": "2026-03-31T13:19:02.216Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko/tmima-foritwn-katagrafwn",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+        "timestamp": "2026-03-31T13:19:02.216Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko/kardioanapneustiki-kopwsi",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+        "timestamp": "2026-03-31T13:19:02.216Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko/athilitiki-ergometria",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+        "timestamp": "2026-03-31T13:19:02.216Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko/dokimasia-anaklisews-tilt-test",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+        "timestamp": "2026-03-31T13:19:02.216Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/aggeiologiko",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.kardiologico.gr/",
+        "timestamp": "2026-03-31T13:19:03.743Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.kardiologico.gr/",
+        "timestamp": "2026-03-31T13:19:05.238Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/pneumonologiko",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.kardiologico.gr/",
+        "timestamp": "2026-03-31T13:19:06.656Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:19:09.157Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/contacts",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:19:10.656Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/kardiologiko-paidokardiologiko",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:19:12.157Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/aggeiologiko",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:19:13.625Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/pyriniki-iatriki",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:19:15.363Z"
+      },
+      {
+        "url": "https://www.kardiologico.gr/tmimata/pneumonologiko",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:19:16.839Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

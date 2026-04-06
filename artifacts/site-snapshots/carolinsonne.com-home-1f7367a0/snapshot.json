@@ -1,0 +1,937 @@
+{
+  "domain": "carolinsonne.com",
+  "collectedAt": "2026-03-31T13:09:07.890Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/carolinsonne.com-home-1f7367a0",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "http://carolinsonne.com/",
+      "finalUrl": "http://carolinsonne.com/",
+      "fetchedAt": "2026-03-31T13:08:57.837Z",
+      "metadata": {
+        "title": "Αρχική Carolin Sonne",
+        "canonicalUrl": "http://carolinsonne.com/",
+        "language": "el-GR",
+        "robots": "max-image-preview:large"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Κύρια πλοήγηση"
+        },
+        {
+          "level": "h2",
+          "text": "(Πιστοποίηση Επεμβατικής Καρδιολογίας από την Γερμανική Καρδιολογική Εταιρεία)"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "http://carolinsonne.com/"
+        },
+        {
+          "href": "http://carolinsonne.com/profile/",
+          "label": "Προφίλ"
+        },
+        {
+          "href": "http://carolinsonne.com/cv/",
+          "label": "Βιογραφικό"
+        },
+        {
+          "href": "http://carolinsonne.com/spectrum/",
+          "label": "Υπηρεσίες"
+        },
+        {
+          "href": "http://carolinsonne.com/directions/",
+          "label": "Χάρτης"
+        },
+        {
+          "href": "http://carolinsonne.com/287-2/",
+          "label": "Facebook Page"
+        },
+        {
+          "href": "http://carolinsonne.com/photo-gallery/",
+          "label": "Νέα"
+        },
+        {
+          "href": "http://carolinsonne.com/%cf%86%cf%89%cf%84%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%af%ce%b5%cf%82/",
+          "label": "Φωτογραφίες"
+        },
+        {
+          "href": "http://carolinsonne.com/el/",
+          "label": "Ελληνικά"
+        },
+        {
+          "href": "http://carolinsonne.com/en/",
+          "label": "English"
+        },
+        {
+          "href": "http://carolinsonne.com/de/",
+          "label": "Deutsch"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "2108023023",
+          "6948191787"
+        ],
+        "emails": [
+          "sonnecarolin@gmail.com"
+        ],
+        "addresses": [],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/Dr.Sonne"
+          },
+          {
+            "href": "https://de.linkedin.com/in/carolin-sonne-4486506a/en"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "Dr. med. Carolin Sonne | Powered by Responsive Theme",
+      "textContent": "& Μετάβαση στο κύριο περιεχόμενο Dr. med. Carolin Sonne Κύρια πλοήγηση Μενού Αρχική Προφίλ Βιογραφικό Υπηρεσίες Χάρτης Facebook Page Νέα Φωτογραφίες Ελληνικά English Deutsch (Πιστοποίηση Επεμβατικής Καρδιολογίας από την Γερμανική Καρδιολογική Εταιρεία) τ. Διευθύντρια Υπερηχογραφικού Εργαστηρίου και Κλινικής Καρδιακής Ανεπάρκειας και Επιμελήτρια Αιμοδυναμικού Εργαστηρίου στο Πανεπιστήμιο του Μονάχου (Γερμανικό Καρδιολογικό Κέντρο) Τοποθεσία Μεσσηνίας 2, 2ος όροφος, 11526 Αθήνα (Αμπελόκηποι). ‘Ωρες Γραφείου Πληροφορίες ή ραντεβού στο 2108023023 Επικοινωνία τηλ.: 2108023023 κιν.: 6948191787 email: sonnecarolin@gmail.com fb: https://www.facebook.com/Dr.Sonne Dr. med. Carolin Sonne | Powered by Responsive Theme jQuery(document).ready(function() { \"use strict\"; jQuery(\".bizoh-widget tr:contains(Close)\").css(\"color\", \"#ff0000\"); jQuery(\".bizoh-widget tr td:contains(Close)\").html(\"CLOSED\"); }); var responsive_breakpoint = {\"mobileBreakpoint\":\"767\"};",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/carolinsonne.com-home-1f7367a0/homepage--1f7367a0.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/carolinsonne.com-home-1f7367a0/homepage--1f7367a0.txt",
+      "imageReferences": [
+        {
+          "url": "http://carolinsonne.com/wp-content/uploads/2016/02/cropped-cutlogo-1.png",
+          "alt": "Dr. med. Carolin Sonne",
+          "sourcePageUrl": "http://carolinsonne.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://carolinsonne.com/",
+              "retrievedAt": "2026-03-31T13:08:57.835Z"
+            }
+          ]
+        },
+        {
+          "url": "http://carolinsonne.com/wp-content/plugins/qtranslate-x/flags/gr.png",
+          "alt": "Ελληνικά",
+          "sourcePageUrl": "http://carolinsonne.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://carolinsonne.com/",
+              "retrievedAt": "2026-03-31T13:08:57.835Z"
+            }
+          ]
+        },
+        {
+          "url": "http://carolinsonne.com/wp-content/plugins/qtranslate-x/flags/uk.png",
+          "alt": "English",
+          "sourcePageUrl": "http://carolinsonne.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://carolinsonne.com/",
+              "retrievedAt": "2026-03-31T13:08:57.835Z"
+            }
+          ]
+        },
+        {
+          "url": "http://carolinsonne.com/wp-content/plugins/qtranslate-x/flags/de.png",
+          "alt": "Deutsch",
+          "sourcePageUrl": "http://carolinsonne.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://carolinsonne.com/",
+              "retrievedAt": "2026-03-31T13:08:57.835Z"
+            }
+          ]
+        },
+        {
+          "url": "http://carolinsonne.com/wp-content/uploads/2017/07/Carolin-Sonne-Portrait.jpg",
+          "alt": "giat4s1",
+          "sourcePageUrl": "http://carolinsonne.com/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://carolinsonne.com/",
+              "retrievedAt": "2026-03-31T13:08:57.835Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "http://carolinsonne.com/",
+          "retrievedAt": "2026-03-31T13:08:57.837Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/carolinsonne.com-home-1f7367a0/homepage-page-1f7367a0.png"
+    },
+    "about": {
+      "pageType": "about",
+      "requestedUrl": "http://carolinsonne.com/profile",
+      "finalUrl": "http://carolinsonne.com/profile",
+      "fetchedAt": "2026-03-31T13:08:59.719Z",
+      "metadata": {
+        "title": "Assosiate Professor Dr. med. Carolin Sonne Profile,Υφηγήτρια Δρ. Καρολίν Σόνε Προφίλ | Dr. med. Carolin Sonne",
+        "metaDescription": "Η Dr. Carolin Sonne σπούδασε ιατρική στο Πανεπιστήμιο του Μονάχου στην Γερμανία. Κατόπιν εργάστηκε στα Πανεπιστημιακά Νοσοκομεία του Σικάγο στις ΗΠΑ (3 Χρόνια) και του Μονάχου (8 χρόνια), αποκτώντας τις δύο ειδικότητες, του Παθολόγου (2007) και του Καρδιολόγου (2012). Στα πλαίσια αυτά εξειδικεύτηκε στην Ηχοκαρδιογραφία, την Καρδιακή Ανεπάρκεια και την Επεμβατική Καρδιολογία (Πιστοποιητικό της … Προφίλ Διαβάστε περισσότερα »",
+        "canonicalUrl": "http://carolinsonne.com/profile/",
+        "language": "el-GR",
+        "robots": "max-image-preview:large"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Προφίλ"
+        },
+        {
+          "level": "h2",
+          "text": "Κύρια πλοήγηση"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "http://carolinsonne.com/"
+        },
+        {
+          "href": "http://carolinsonne.com/profile/",
+          "label": "Προφίλ"
+        },
+        {
+          "href": "http://carolinsonne.com/cv/",
+          "label": "Βιογραφικό"
+        },
+        {
+          "href": "http://carolinsonne.com/spectrum/",
+          "label": "Υπηρεσίες"
+        },
+        {
+          "href": "http://carolinsonne.com/directions/",
+          "label": "Χάρτης"
+        },
+        {
+          "href": "http://carolinsonne.com/287-2/",
+          "label": "Facebook Page"
+        },
+        {
+          "href": "http://carolinsonne.com/photo-gallery/",
+          "label": "Νέα"
+        },
+        {
+          "href": "http://carolinsonne.com/%cf%86%cf%89%cf%84%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%af%ce%b5%cf%82/",
+          "label": "Φωτογραφίες"
+        },
+        {
+          "href": "http://carolinsonne.com/el/profile/",
+          "label": "Ελληνικά"
+        },
+        {
+          "href": "http://carolinsonne.com/en/profile/",
+          "label": "English"
+        },
+        {
+          "href": "http://carolinsonne.com/de/profile/",
+          "label": "Deutsch"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [],
+        "emails": [],
+        "addresses": [],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/Dr.Sonne"
+          },
+          {
+            "href": "https://de.linkedin.com/in/carolin-sonne-4486506a/en"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "Dr. med. Carolin Sonne | Powered by Responsive Theme",
+      "textContent": "& Μετάβαση στο κύριο περιεχόμενο Dr. med. Carolin Sonne Κύρια πλοήγηση Μενού Αρχική Προφίλ Βιογραφικό Υπηρεσίες Χάρτης Facebook Page Νέα Φωτογραφίες Ελληνικά English Deutsch Προφίλ Η Dr. Carolin Sonne σπούδασε ιατρική στο Πανεπιστήμιο του Μονάχου στην Γερμανία. Κατόπιν εργάστηκε στα Πανεπιστημιακά Νοσοκομεία του Σικάγο στις ΗΠΑ (3 Χρόνια) και του Μονάχου (8 χρόνια), αποκτώντας τις δύο ειδικότητες, του Παθολόγου (2007) και του Καρδιολόγου (2012). Στα πλαίσια αυτά εξειδικεύτηκε στην Ηχοκαρδιογραφία, την Καρδιακή Ανεπάρκεια και την Επεμβατική Καρδιολογία (Πιστοποιητικό της Γερμανικής Καρδιολογικής Εταιρείας). Διετέλεσε Διευθύντρια του Ηχοκαρδιογραφικού Εργαστηρίου και της Κλινικής Καρδιακής Ανεπάρκειας και Επιμελήτρια του Αιμοδυναμικού Εργαστηρίου στο Πανεπιστημιακό Νοσοκομείο του Μονάχου (Γερμανικό Καρδιολογικό Κέντρο). Τα 11 χρόνια υπηρεσίας της ως ιατρού σε Πανεπιστημιακά Νοσοκομεία, που θεωρούνται πρωτοπόροι στους τομείς της Καρδιολογίας, έδωσαν στην Dr. Sonne την δυνατότητα να εργασθεί με χιλιάδες ασθενείς, τόσο στον τομέα της διάγνωσης και θεραπείας, όσο και σε αυτόν της Επεμβατικής Καρδιολογίας καλύπτοντας όλο το φάσμα της σύγχρονης Καρδιολογίας. Παράλληλα, από την θέση της ερευνήτριας και κατόπιν της Υφηγήτριας, ασχολήθηκε εκτενώς με την έρευνα στην Καρδιολογία (για τα θέματα της έρευνας βλέπε Βιογραφικό) και την διδασκαλία φοιτητών Ιατρικής. Η Dr. Sonne συμμετείχε σε πολλά διεθνή συνέδρια παρουσιάζοντας τα αποτελέσματα των ερευνών της. Παράλληλα έχει δημοσιεύσει πληθώρα επιστημονικών εργασιών και άρθρων σε ιατρικά περιοδικά αναγνωρισμένου κύρους. Τώρα έχει ιδιωτικό ιατρείο στο Μαρούσι της Αθήνας και παράλληλα κάνει τις καρδιολογικές επεμβάσεις στο Ιατρικό Κέντρο Μαρούσι, στο Υγεία, στο Mediterraneo Hospital Γλυφάδα και στο German Heart Center Μόναχο. Μιλάει Γερμανικά, Ελληνικά, Αγγλικά και μέτρια Γαλλικά και Ιταλικά. Dr. med. Carolin Sonne | Powered by Responsive Theme jQuery(document).ready(function() { \"use strict\"; jQuery(\".bizoh-widget tr:contains(Close)\").css(\"color\", \"#ff0000\"); jQuery(\".bizoh-widget tr td:contains(Close)\").html(\"CLOSED\"); }); var responsive_breakpoint = {\"mobileBreakpoint\":\"767\"};",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/carolinsonne.com-home-1f7367a0/about-profile-c8277728.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/carolinsonne.com-home-1f7367a0/about-profile-c8277728.txt",
+      "imageReferences": [
+        {
+          "url": "http://carolinsonne.com/wp-content/uploads/2016/02/cropped-cutlogo-1.png",
+          "alt": "Dr. med. Carolin Sonne",
+          "sourcePageUrl": "http://carolinsonne.com/profile",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://carolinsonne.com/profile",
+              "retrievedAt": "2026-03-31T13:08:59.718Z"
+            }
+          ]
+        },
+        {
+          "url": "http://carolinsonne.com/wp-content/plugins/qtranslate-x/flags/gr.png",
+          "alt": "Ελληνικά",
+          "sourcePageUrl": "http://carolinsonne.com/profile",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://carolinsonne.com/profile",
+              "retrievedAt": "2026-03-31T13:08:59.718Z"
+            }
+          ]
+        },
+        {
+          "url": "http://carolinsonne.com/wp-content/plugins/qtranslate-x/flags/uk.png",
+          "alt": "English",
+          "sourcePageUrl": "http://carolinsonne.com/profile",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://carolinsonne.com/profile",
+              "retrievedAt": "2026-03-31T13:08:59.718Z"
+            }
+          ]
+        },
+        {
+          "url": "http://carolinsonne.com/wp-content/plugins/qtranslate-x/flags/de.png",
+          "alt": "Deutsch",
+          "sourcePageUrl": "http://carolinsonne.com/profile",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://carolinsonne.com/profile",
+              "retrievedAt": "2026-03-31T13:08:59.718Z"
+            }
+          ]
+        },
+        {
+          "url": "http://carolinsonne.com/wp-content/uploads/2016/02/giat2p-3-300x200.jpg",
+          "alt": "giat2p",
+          "sourcePageUrl": "http://carolinsonne.com/profile",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "http://carolinsonne.com/profile",
+              "retrievedAt": "2026-03-31T13:08:59.718Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page fetch",
+          "uri": "http://carolinsonne.com/profile",
+          "retrievedAt": "2026-03-31T13:08:59.719Z"
+        }
+      ],
+      "statusCode": 200
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "2108023023",
+      "6948191787",
+      "0030 6948191787",
+      "0030 2108023023",
+      "312-20 1.746",
+      "30964 4.411",
+      "287-294 2.317",
+      "802-812 5.528",
+      "1178-85 3.707",
+      "309-14 3.927",
+      "197-200 1.330"
+    ],
+    "emails": [
+      "sonnecarolin@gmail.com"
+    ],
+    "addresses": [],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/Dr.Sonne"
+      },
+      {
+        "href": "https://de.linkedin.com/in/carolin-sonne-4486506a/en"
+      }
+    ],
+    "forms": []
+  },
+  "metadata": {
+    "title": "Αρχική Carolin Sonne",
+    "canonicalUrl": "http://carolinsonne.com/",
+    "language": "el-GR",
+    "robots": "max-image-preview:large"
+  },
+  "imageReferences": [
+    {
+      "url": "http://carolinsonne.com/wp-content/uploads/2016/02/cropped-cutlogo-1.png",
+      "alt": "Dr. med. Carolin Sonne",
+      "sourcePageUrl": "http://carolinsonne.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://carolinsonne.com/",
+          "retrievedAt": "2026-03-31T13:08:57.835Z"
+        }
+      ]
+    },
+    {
+      "url": "http://carolinsonne.com/wp-content/plugins/qtranslate-x/flags/gr.png",
+      "alt": "Ελληνικά",
+      "sourcePageUrl": "http://carolinsonne.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://carolinsonne.com/",
+          "retrievedAt": "2026-03-31T13:08:57.835Z"
+        }
+      ]
+    },
+    {
+      "url": "http://carolinsonne.com/wp-content/plugins/qtranslate-x/flags/uk.png",
+      "alt": "English",
+      "sourcePageUrl": "http://carolinsonne.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://carolinsonne.com/",
+          "retrievedAt": "2026-03-31T13:08:57.835Z"
+        }
+      ]
+    },
+    {
+      "url": "http://carolinsonne.com/wp-content/plugins/qtranslate-x/flags/de.png",
+      "alt": "Deutsch",
+      "sourcePageUrl": "http://carolinsonne.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://carolinsonne.com/",
+          "retrievedAt": "2026-03-31T13:08:57.835Z"
+        }
+      ]
+    },
+    {
+      "url": "http://carolinsonne.com/wp-content/uploads/2017/07/Carolin-Sonne-Portrait.jpg",
+      "alt": "giat4s1",
+      "sourcePageUrl": "http://carolinsonne.com/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://carolinsonne.com/",
+          "retrievedAt": "2026-03-31T13:08:57.835Z"
+        }
+      ]
+    },
+    {
+      "url": "http://carolinsonne.com/wp-content/uploads/2016/02/giat2p-3-300x200.jpg",
+      "alt": "giat2p",
+      "sourcePageUrl": "http://carolinsonne.com/profile",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "http://carolinsonne.com/profile",
+          "retrievedAt": "2026-03-31T13:08:59.718Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "2108023023",
+      "sourcePageUrl": "http://carolinsonne.com/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "http://carolinsonne.com/",
+          "retrievedAt": "2026-03-31T13:08:57.835Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "6948191787",
+      "sourcePageUrl": "http://carolinsonne.com/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "http://carolinsonne.com/",
+          "retrievedAt": "2026-03-31T13:08:57.835Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "sonnecarolin@gmail.com",
+      "sourcePageUrl": "http://carolinsonne.com/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "http://carolinsonne.com/",
+          "retrievedAt": "2026-03-31T13:08:57.835Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "0030 6948191787",
+      "sourcePageUrl": "http://carolinsonne.com/cv",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "http://carolinsonne.com/cv",
+          "retrievedAt": "2026-03-31T13:09:05.436Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "0030 2108023023",
+      "sourcePageUrl": "http://carolinsonne.com/cv",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "http://carolinsonne.com/cv",
+          "retrievedAt": "2026-03-31T13:09:05.436Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "312-20 1.746",
+      "sourcePageUrl": "http://carolinsonne.com/cv",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "http://carolinsonne.com/cv",
+          "retrievedAt": "2026-03-31T13:09:05.436Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "30964 4.411",
+      "sourcePageUrl": "http://carolinsonne.com/cv",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "http://carolinsonne.com/cv",
+          "retrievedAt": "2026-03-31T13:09:05.436Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "287-294 2.317",
+      "sourcePageUrl": "http://carolinsonne.com/cv",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "http://carolinsonne.com/cv",
+          "retrievedAt": "2026-03-31T13:09:05.436Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "802-812 5.528",
+      "sourcePageUrl": "http://carolinsonne.com/cv",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "http://carolinsonne.com/cv",
+          "retrievedAt": "2026-03-31T13:09:05.436Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1178-85 3.707",
+      "sourcePageUrl": "http://carolinsonne.com/cv",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "http://carolinsonne.com/cv",
+          "retrievedAt": "2026-03-31T13:09:05.436Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "309-14 3.927",
+      "sourcePageUrl": "http://carolinsonne.com/cv",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "http://carolinsonne.com/cv",
+          "retrievedAt": "2026-03-31T13:09:05.436Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "197-200 1.330",
+      "sourcePageUrl": "http://carolinsonne.com/cv",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "http://carolinsonne.com/cv",
+          "retrievedAt": "2026-03-31T13:09:05.436Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "http://carolinsonne.com/",
+    "finalOrigin": "http://carolinsonne.com",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "http://carolinsonne.com/robots.txt",
+      "fetchedAt": "2026-03-31T13:08:57.137Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [
+        "/wp-admin/admin-ajax.php"
+      ],
+      "disallowRules": [
+        "/wp-admin/"
+      ],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "http://carolinsonne.com/robots.txt",
+          "retrievedAt": "2026-03-31T13:08:55.550Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "http://carolinsonne.com/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from http://carolinsonne.com/",
+        "timestamp": "2026-03-31T13:08:57.837Z"
+      },
+      {
+        "url": "http://carolinsonne.com/profile",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from http://carolinsonne.com/",
+        "timestamp": "2026-03-31T13:08:57.837Z"
+      },
+      {
+        "url": "http://carolinsonne.com/cv",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from http://carolinsonne.com/",
+        "timestamp": "2026-03-31T13:08:57.837Z"
+      },
+      {
+        "url": "http://carolinsonne.com/spectrum",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://carolinsonne.com/",
+        "timestamp": "2026-03-31T13:08:57.837Z"
+      },
+      {
+        "url": "http://carolinsonne.com/directions",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/",
+        "timestamp": "2026-03-31T13:08:57.837Z"
+      },
+      {
+        "url": "http://carolinsonne.com/287-2",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/",
+        "timestamp": "2026-03-31T13:08:57.837Z"
+      },
+      {
+        "url": "http://carolinsonne.com/photo-gallery",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/",
+        "timestamp": "2026-03-31T13:08:57.837Z"
+      },
+      {
+        "url": "http://carolinsonne.com/%cf%86%cf%89%cf%84%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%af%ce%b5%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/",
+        "timestamp": "2026-03-31T13:08:57.837Z"
+      },
+      {
+        "url": "http://carolinsonne.com/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/",
+        "timestamp": "2026-03-31T13:08:57.837Z"
+      },
+      {
+        "url": "http://carolinsonne.com/en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/",
+        "timestamp": "2026-03-31T13:08:57.837Z"
+      },
+      {
+        "url": "http://carolinsonne.com/de",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/",
+        "timestamp": "2026-03-31T13:08:57.837Z"
+      },
+      {
+        "url": "http://carolinsonne.com/profile",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from http://carolinsonne.com/",
+        "timestamp": "2026-03-31T13:08:59.719Z"
+      },
+      {
+        "url": "http://carolinsonne.com/el/profile",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from http://carolinsonne.com/profile",
+        "timestamp": "2026-03-31T13:08:59.719Z"
+      },
+      {
+        "url": "http://carolinsonne.com/en/profile",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from http://carolinsonne.com/profile",
+        "timestamp": "2026-03-31T13:08:59.719Z"
+      },
+      {
+        "url": "http://carolinsonne.com/de/profile",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from http://carolinsonne.com/profile",
+        "timestamp": "2026-03-31T13:08:59.719Z"
+      },
+      {
+        "url": "http://carolinsonne.com/profile",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from http://carolinsonne.com/profile",
+        "timestamp": "2026-03-31T13:09:00.969Z"
+      },
+      {
+        "url": "http://carolinsonne.com/en/profile",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from http://carolinsonne.com/profile",
+        "timestamp": "2026-03-31T13:09:02.335Z"
+      },
+      {
+        "url": "http://carolinsonne.com/en/spectrum",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from http://carolinsonne.com/en/profile",
+        "timestamp": "2026-03-31T13:09:02.335Z"
+      },
+      {
+        "url": "http://carolinsonne.com/en/cv",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/en/profile",
+        "timestamp": "2026-03-31T13:09:02.335Z"
+      },
+      {
+        "url": "http://carolinsonne.com/en/directions",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/en/profile",
+        "timestamp": "2026-03-31T13:09:02.335Z"
+      },
+      {
+        "url": "http://carolinsonne.com/en/287-2",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/en/profile",
+        "timestamp": "2026-03-31T13:09:02.335Z"
+      },
+      {
+        "url": "http://carolinsonne.com/en/photo-gallery",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/en/profile",
+        "timestamp": "2026-03-31T13:09:02.335Z"
+      },
+      {
+        "url": "http://carolinsonne.com/en/%cf%86%cf%89%cf%84%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%af%ce%b5%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/en/profile",
+        "timestamp": "2026-03-31T13:09:02.335Z"
+      },
+      {
+        "url": "http://carolinsonne.com/de/profile",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from http://carolinsonne.com/profile",
+        "timestamp": "2026-03-31T13:09:03.952Z"
+      },
+      {
+        "url": "http://carolinsonne.com/de/cv",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/de/profile",
+        "timestamp": "2026-03-31T13:09:03.952Z"
+      },
+      {
+        "url": "http://carolinsonne.com/de/spectrum",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/de/profile",
+        "timestamp": "2026-03-31T13:09:03.952Z"
+      },
+      {
+        "url": "http://carolinsonne.com/de/directions",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/de/profile",
+        "timestamp": "2026-03-31T13:09:03.952Z"
+      },
+      {
+        "url": "http://carolinsonne.com/de/287-2",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/de/profile",
+        "timestamp": "2026-03-31T13:09:03.952Z"
+      },
+      {
+        "url": "http://carolinsonne.com/de/photo-gallery",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/de/profile",
+        "timestamp": "2026-03-31T13:09:03.952Z"
+      },
+      {
+        "url": "http://carolinsonne.com/de/%cf%86%cf%89%cf%84%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%af%ce%b5%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/de/profile",
+        "timestamp": "2026-03-31T13:09:03.952Z"
+      },
+      {
+        "url": "http://carolinsonne.com/cv",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from http://carolinsonne.com/",
+        "timestamp": "2026-03-31T13:09:05.438Z"
+      },
+      {
+        "url": "http://carolinsonne.com/el/cv",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from http://carolinsonne.com/cv",
+        "timestamp": "2026-03-31T13:09:05.438Z"
+      },
+      {
+        "url": "http://carolinsonne.com/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:09:07.871Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

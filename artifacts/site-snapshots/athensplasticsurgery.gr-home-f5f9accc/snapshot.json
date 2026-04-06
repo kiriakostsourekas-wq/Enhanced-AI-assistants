@@ -1,0 +1,2996 @@
+{
+  "domain": "athensplasticsurgery.gr",
+  "collectedAt": "2026-03-31T13:11:00.592Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensplasticsurgery.gr-home-f5f9accc",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+      "finalUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+      "fetchedAt": "2026-03-31T13:10:45.510Z",
+      "metadata": {
+        "title": "Home - Athensplasticsurgery | By Dr. Giannas",
+        "metaDescription": "Drgiannas",
+        "canonicalUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Home - Athensplasticsurgery | By Dr. Giannas",
+        "openGraphImage": "https://www.athensplasticsurgery.gr/wp-content/uploads/2018/02/hero-1.jpg"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Dr John Giannas"
+        },
+        {
+          "level": "h2",
+          "text": "Cosmetic Surgical Procedures"
+        },
+        {
+          "level": "h2",
+          "text": "Reconstructive Surgical Procedures"
+        },
+        {
+          "level": "h2",
+          "text": "Non surgical cosmetic treatments"
+        },
+        {
+          "level": "h2",
+          "text": "For Men"
+        },
+        {
+          "level": "h2",
+          "text": "Vitality is the secret to all Beauty!"
+        },
+        {
+          "level": "h2",
+          "text": "Breast Augmentation"
+        },
+        {
+          "level": "h2",
+          "text": "Rhinoplasty"
+        },
+        {
+          "level": "h2",
+          "text": "Facelift"
+        },
+        {
+          "level": "h2",
+          "text": "TESTIMONIALS"
+        },
+        {
+          "level": "h2",
+          "text": "Subscribe to our Newsletter"
+        },
+        {
+          "level": "h3",
+          "text": "Dr. John Giannas"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.athensplasticsurgery.gr/?lang=en",
+          "label": "Αρχική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/press/?lang=en",
+          "label": "Αρθρογραφία στον τύπο"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio/?lang=en",
+          "label": "Βιογραφικό"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/presentations/?lang=en",
+          "label": "Επιστημονικές δημοσιεύσεις"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/medical/?lang=en",
+          "label": "Ιατρείο"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/conferences/?lang=en",
+          "label": "Συμμετοχή σε συνέδρια"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/colaborations/?lang=en",
+          "label": "Συνεργασίες"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/facelift/?lang=en",
+          "label": "Facelift – Πλαστική Προσώπου"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/vlefaroplastiki/?lang=en",
+          "label": "Βλεφαροπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/plastiki-laimou/?lang=en",
+          "label": "Πλαστική Λαιμού"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/rinoplastiki/?lang=en",
+          "label": "Ρινοπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/otoplastiki/?lang=en",
+          "label": "Ωτοπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/anorthosi-auksitiki-stithous/?lang=en",
+          "label": "Ανόρθωση & Αυξητική Στήθους"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/anorthosi-stithous/?lang=en",
+          "label": "Ανόρθωση Στήθους"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/auksitiki-stithous/?lang=en",
+          "label": "Αυξητική Στήθους"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/meiwsh-stithous/?lang=en",
+          "label": "Μείωση Στήθους"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/anorthosi-gloyton/?lang=en",
+          "label": "Ανόρθωση Γλουτών"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/vraxeionoplastiki/?lang=en",
+          "label": "Βραχιονοπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/koilioplastiki/?lang=en",
+          "label": "Κοιλιοπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/lipoglytpiki/?lang=en",
+          "label": "Λιπογλυπτική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/ogkologia/kakohthes-melanwma/?lang=en",
+          "label": "Σπίλοι και Κακοήθες Μελάνωμα"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/ogkologia/karkinos-dermatos/?lang=en",
+          "label": "Καρκίνος Δέρματος"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/ogkologia/karkinos-kefalis-traxilou/?lang=en",
+          "label": "Καρκίνος Κεφαλής Τραχήλου"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/ogkologia/sarkoma/?lang=en",
+          "label": "Σάρκωμα"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/mikroxeirourgiki/metamosxeush-eleutherwn-krumnwn/?lang=en",
+          "label": "Μεταμόσχευση Ελεύθερων Κρημνών"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/mikroxeirourgiki/xeirourgiki-akras-xeiros/?lang=en",
+          "label": "Χειρουργική Άκρας Χειρός"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/genika/apokatastasi-stithous-apo-mastektomi/?lang=en",
+          "label": "Αποκατάσταση Στήθους Από Μαστεκτομή"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/genika/egkaumata/?lang=en",
+          "label": "Εγκαύματα"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/genika/sigenis-anomalies/?lang=en",
+          "label": "Συγγενείς Ανωμαλίες"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/genika/traumata-atuximata/?lang=en",
+          "label": "Τραύματα Ατυχήματα"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/aggeiakes-displasies-aimaggeiwma/?lang=en",
+          "label": "Αγγειακές Δυσπλασίες & Αιμαγγείωμα"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/anaplasi-prosopoy/?lang=en",
+          "label": "Ανάπλαση Προσώπου"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/anaplasi-swmatos/?lang=en",
+          "label": "Ανάπλαση Σώματος"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/apotrixwsi/?lang=en",
+          "label": "Αποτρίχωση Laser Alexandrite"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/kilides-disxrwmies/?lang=en",
+          "label": "Κηλίδες & Δυσχρωμίες"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/ragades/?lang=en",
+          "label": "Ραγάδες"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/ipertrofikes-oules-xiloeides/?lang=en",
+          "label": "Υπερτροφικές Ουλές & Χηλοειδές"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/enesima/botox-dysport/?lang=en",
+          "label": "Botox – Dysport"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/enesima/mesotherapia/?lang=en",
+          "label": "Μεσοθεραπεία"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/enesima/ialouroniko/?lang=en",
+          "label": "Υαλουρονικό"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/nimata/genika/?lang=en",
+          "label": "Γενικά"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/gia-antres/ginaikomastia/?lang=en",
+          "label": "Γυναικομαστία"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/gia-antres/koilioplastiki/?lang=en",
+          "label": "Κοιλιοπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/gia-antres/lipoglitpiki/?lang=en",
+          "label": "Λιπογλυπτική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/gia-antres/plastiki-prosopou/?lang=en",
+          "label": "Πλαστική Προσώπου"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/eipan-gia-emas/?lang=en",
+          "label": "Είπαν για εμάς"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epikoinonia/?lang=en",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/",
+          "label": "EL"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.athensplasticsurgery.gr/?lang=en",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Search...",
+              "required": true
+            },
+            {
+              "name": "submit",
+              "type": "submit",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://athensplasticsurgery.us12.list-manage.com/subscribe/post-json?u=aef0021dce1d881f724e21339&id=6134450fa5&c=?",
+          "method": "get",
+          "purposeHint": "newsletter",
+          "fieldNames": [
+            "EMAIL",
+            "subscribe",
+            "b_0620e51801f99e2b8118960cc_aa9d6b6227"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "EMAIL",
+              "type": "email",
+              "label": "YOUR EMAIL",
+              "required": false
+            },
+            {
+              "name": "subscribe",
+              "type": "button",
+              "required": false
+            },
+            {
+              "name": "b_0620e51801f99e2b8118960cc_aa9d6b6227",
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "210 89 43 033",
+          "+30 210 89 43 033",
+          "+30 210 6416816"
+        ],
+        "emails": [],
+        "addresses": [
+          "210 89 43 033",
+          "IN BRIEF The offered services are based on a human-centered approach of the patient and are aimed at offering the best possible and scientifically appropriate solution depending on the patient’s medical problem, aspirations and desires. Athens Plastic Surgery 63 Vassilisis Sofias Ave., 15451 GR, 5th floor T. +30 210 89 43 033 Upon appointment Euroclinic of Athens S.A. 3-5 Athanasiadou str. 115 21 GR, 4th floor Τ. +30 210 6416816 Upon appointment Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment USEFUL LINKS DR. JOHN GIANNAS FACELIFT BLEPHAROPLASTY RHINOPLASTY BREAST AUGMENTATION IMPLANTS ONCOLOGY",
+          "/* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.athensplasticsurgery.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; /* ]]> */"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/athensplasticsurgery/"
+          },
+          {
+            "href": "https://www.instagram.com/drgiannas/"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.athensplasticsurgery.gr/?lang=en",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Search...",
+                "required": true
+              },
+              {
+                "name": "submit",
+                "type": "submit",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://athensplasticsurgery.us12.list-manage.com/subscribe/post-json?u=aef0021dce1d881f724e21339&id=6134450fa5&c=?",
+            "method": "get",
+            "purposeHint": "newsletter",
+            "fieldNames": [
+              "EMAIL",
+              "subscribe",
+              "b_0620e51801f99e2b8118960cc_aa9d6b6227"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "EMAIL",
+                "type": "email",
+                "label": "YOUR EMAIL",
+                "required": false
+              },
+              {
+                "name": "subscribe",
+                "type": "button",
+                "required": false
+              },
+              {
+                "name": "b_0620e51801f99e2b8118960cc_aa9d6b6227",
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "IN BRIEF The offered services are based on a human-centered approach of the patient and are aimed at offering the best possible and scientifically appropriate solution depending on the patient’s medical problem, aspirations and desires. Athens Plastic Surgery 63 Vassilisis Sofias Ave., 15451 GR, 5th floor T. +30 210 89 43 033 Upon appointment Euroclinic of Athens S.A. 3-5 Athanasiadou str. 115 21 GR, 4th floor Τ. +30 210 6416816 Upon appointment Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment USEFUL LINKS DR. JOHN GIANNAS FACELIFT BLEPHAROPLASTY RHINOPLASTY BREAST AUGMENTATION IMPLANTS ONCOLOGY",
+      "textContent": "Nav Αρχική ΔΡ. Γιαννάς Αρθρογραφία στον τύπο Βιογραφικό Επιστημονικές δημοσιεύσεις Ιατρείο Συμμετοχή σε συνέδρια Συνεργασίες Αισθητική Χειρουργική Πρόσωπο Facelift – Πλαστική Προσώπου Βλεφαροπλαστική Πλαστική Λαιμού Ρινοπλαστική Ωτοπλαστική Στήθος Ανόρθωση & Αυξητική Στήθους Ανόρθωση Στήθους Αυξητική Στήθους Μείωση Στήθους Σώμα Ανόρθωση Γλουτών Βραχιονοπλαστική Κοιλιοπλαστική Λιπογλυπτική Επανορθωτική Χειρουργική Ογκολογία Σπίλοι και Κακοήθες Μελάνωμα Καρκίνος Δέρματος Καρκίνος Κεφαλής Τραχήλου Σάρκωμα Μικροχειρουργική Μεταμόσχευση Ελεύθερων Κρημνών Χειρουργική Άκρας Χειρός Γενικά Αποκατάσταση Στήθους Από Μαστεκτομή Εγκαύματα Συγγενείς Ανωμαλίες Τραύματα Ατυχήματα Μη επεμβατική αισθητική ιατρική Laser Αγγειακές Δυσπλασίες & Αιμαγγείωμα Ανάπλαση Προσώπου Ανάπλαση Σώματος Αποτρίχωση Laser Alexandrite Κηλίδες & Δυσχρωμίες Ραγάδες Υπερτροφικές Ουλές & Χηλοειδές Ενέσιμα Botox – Dysport Μεσοθεραπεία Υαλουρονικό Νήματα Γενικά Για Άνδρες Γυναικομαστία Κοιλιοπλαστική Λιπογλυπτική Πλαστική Προσώπου Είπαν για εμάς Επικοινωνία Logo DrGiannas EN EL Testimonials Contact Logo DrGiannas 210 89 43 033 JOHN GIANNAS MD. FRCS(Plas), FEBOPRAS COSMETIC & RECONSTRUCTIVE ΠΛΑΣΤΙΚΗ SURGICAL Dr John Giannas Dr John Giannas Cosmetic Surgical Procedures Cosmetic Surgical Procedures Facial Surgery Breast Body Surgery Reconstructive Surgical Procedures Reconstructive Surgical Procedures Oncology Microsurgery General Information Non surgical cosmetic treatments Non surgical cosmetic treatments Laser Injectables – Fillers Thread Lift For Men For Men Vitality is the secret to all Beauty! Cosmetic Surgical Procedures Improve your appearance and boost your self confidence with safety and the most scientifically proven methods Breast Augmentation If you want a larger breast, breast augmentation is the safe way to help improve your appearance and self-confidence! READ MORE Rhinoplasty If you don’t like your nose, if you want to change something on it, if you just want to improve it, rhinoplasty can change the appearance of your nose and improve your look and your self-esteem! READ MORE Facelift For the laxity of the skin on the face and neck and the wrinkles that causes the passage of time there is a very effective solution: the facelift will help you look rested and ... younger! READ MORE Dr. John Giannas Resume Dr. John Giannas graduated from the Medical School of the University of Athens and specialized in Aesthetic, Plastic and Reconstructive Surgery in Great Britain, where he worked for 15 years, initially as a trainee and then as a Consultant, in some of the most important hospitals in the country. READ MORE TESTIMONIALS ­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­Dr Giannas thank you so much. Your Kindness was really appreciated. You have changed my life. Olivia N. Dr Giannas thank you for what you have done, I just want to say that I appreciate my new tummy. Thank you doesn’t quite touch how much it has changed me but I don’t know the right words. I am very grateful and I promised to look after it. Jasmine N. Thank you for all you have done for me. I’m much more confident since my operation I have new sense of life where I don’t have to cover my back all the time. Julia M. Mr. Giannas thank you so much for the excellent work on my breasts, I’m so happy. Amy W. Mr. Giannas I want to thank you for being so thoughtful and to let you know how much your kindness meant and for giving me my life back. I’m so very grateful. Nicole N. Dear Dr Giannas, thank you so much for such a positive result, I couldn’t have expected any better! Please thank all your team. Best regards J. J. A massive thank you. You have all being amazing. I love my new ears. My confidence has grown so much and can now finally wear my hair up! B. B. Mr. Giannas You’re Brilliant! Thank you for doing an amazing job. Lucia D. Mr. Giannas I’m so pleased with the surgery. The results are amazing. Thank you so much. John K. Dear Mr. Giannas, A very big thank you to you and your team for all the special care and attention that I received. I wouldn’t suggest to anyone to rush into a tummy tuck lightly but I personally have absolutely no regrets! I feel more confident with myself and life in general. It really has made a huge difference to me and I feel so very lucky. Thank you from the bottom of my heart! Jenny B. To Dr Giannas I want to thank you so much for performing my breast reduction. I can’t believe the difference already, I’m truly grateful and appreciate everything you have done. I will remember you forever. Thank you again for performing my life changing operation Dr Giannas. From the bottom of my heart thank you. Mary J. Subscribe to our Newsletter IN BRIEF The offered services are based on a human-centered approach of the patient and are aimed at offering the best possible and scientifically appropriate solution depending on the patient’s medical problem, aspirations and desires. Athens Plastic Surgery 63 Vassilisis Sofias Ave., 15451 GR, 5th floor T. +30 210 89 43 033 Upon appointment Euroclinic of Athens S.A. 3-5 Athanasiadou str. 115 21 GR, 4th floor Τ. +30 210 6416816 Upon appointment Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment USEFUL LINKS DR. JOHN GIANNAS FACELIFT BLEPHAROPLASTY RHINOPLASTY BREAST AUGMENTATION IMPLANTS ONCOLOGY COPYRIGHT © 2018 ATHENS PLASTIC SURGERY // ALL RIGHTS RESERVED CREATED BY EXTROVERT | Business Communications {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"\\/*\"},{\"not\":{\"href_matches\":[\"\\/wp-*.php\",\"\\/wp-admin\\/*\",\"\\/wp-content\\/uploads\\/*\",\"\\/wp-content\\/*\",\"\\/wp-content\\/plugins\\/*\",\"\\/wp-content\\/themes\\/drgiannas\\/*\",\"\\/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.athensplasticsurgery.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; /* ]]> */ /* <![CDATA[ */ var wpcf7_recaptcha = { \"sitekey\": \"6Ldy96EUAAAAANEMM4bEJ1HGYsn82ZE3VNsfB4xX\", \"actions\": { \"homepage\": \"homepage\", \"contactform\": \"contactform\" } }; /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensplasticsurgery.gr-home-f5f9accc/homepage--eaf51140.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensplasticsurgery.gr-home-f5f9accc/homepage--eaf51140.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/uploads/2018/02/hero-1.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+          "pageType": "homepage",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+              "retrievedAt": "2026-03-31T13:10:45.509Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/personalised.png",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+              "retrievedAt": "2026-03-31T13:10:45.509Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/uploads/2018/02/home-afksitiki.jpg",
+          "alt": "Service",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+              "retrievedAt": "2026-03-31T13:10:45.509Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/uploads/2018/02/home-rinoplastiki.jpg",
+          "alt": "Service",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+              "retrievedAt": "2026-03-31T13:10:45.509Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/uploads/2018/02/home-facelift.jpg",
+          "alt": "Service",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+              "retrievedAt": "2026-03-31T13:10:45.509Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/uploads/2018/02/bio-photo-dr-giannas.jpg",
+          "alt": "Bio",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+              "retrievedAt": "2026-03-31T13:10:45.509Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/ASPS-INTERNATIONAL-new.png",
+          "alt": "Clinic",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+              "retrievedAt": "2026-03-31T13:10:45.509Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/ebopras_white-background.jpg",
+          "alt": "Clinic",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+              "retrievedAt": "2026-03-31T13:10:45.509Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/general-medical-council.jpg",
+          "alt": "Clinic",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+              "retrievedAt": "2026-03-31T13:10:45.509Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/hespras.jpg",
+          "alt": "Clinic",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+              "retrievedAt": "2026-03-31T13:10:45.509Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/isaps2.jpg",
+          "alt": "Clinic",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+              "retrievedAt": "2026-03-31T13:10:45.509Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/Royal-College-Surgeons.jpg",
+          "alt": "Clinic",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+              "retrievedAt": "2026-03-31T13:10:45.509Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+          "retrievedAt": "2026-03-31T13:10:45.510Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensplasticsurgery.gr-home-f5f9accc/homepage-page-eaf51140.png"
+    },
+    "about": {
+      "pageType": "about",
+      "requestedUrl": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio?lang=en",
+      "finalUrl": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio?lang=en",
+      "fetchedAt": "2026-03-31T13:10:47.928Z",
+      "metadata": {
+        "title": "Resume - Athensplasticsurgery | By Dr. Giannas",
+        "metaDescription": "Drgiannas",
+        "canonicalUrl": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio/?lang=en",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Resume - Athensplasticsurgery | By Dr. Giannas",
+        "openGraphDescription": "Dr. John Giannas graduated from the Medical School of the University of Athens and specialized in Aesthetic, Plastic and Reconstructive Surgery in Great Britain, where he worked for 15 years, initially as a trainee and then as a Consultant, in some of the most important hospitals in the country.",
+        "openGraphImage": "https://www.athensplasticsurgery.gr/wp-content/uploads/2018/03/drgiannas-hero-1.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Resume"
+        },
+        {
+          "level": "h2",
+          "text": "Dr John Giannas"
+        },
+        {
+          "level": "h2",
+          "text": "Cosmetic Surgical Procedures"
+        },
+        {
+          "level": "h2",
+          "text": "Reconstructive Surgical Procedures"
+        },
+        {
+          "level": "h2",
+          "text": "Non surgical cosmetic treatments"
+        },
+        {
+          "level": "h2",
+          "text": "For Men"
+        },
+        {
+          "level": "h2",
+          "text": "TESTIMONIALS"
+        },
+        {
+          "level": "h2",
+          "text": "Subscribe to our Newsletter"
+        },
+        {
+          "level": "h3",
+          "text": "Dr John Giannas"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.athensplasticsurgery.gr/?lang=en",
+          "label": "Αρχική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/press/?lang=en",
+          "label": "Αρθρογραφία στον τύπο"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio/?lang=en",
+          "label": "Βιογραφικό"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/presentations/?lang=en",
+          "label": "Επιστημονικές δημοσιεύσεις"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/medical/?lang=en",
+          "label": "Ιατρείο"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/conferences/?lang=en",
+          "label": "Συμμετοχή σε συνέδρια"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/colaborations/?lang=en",
+          "label": "Συνεργασίες"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/facelift/?lang=en",
+          "label": "Facelift – Πλαστική Προσώπου"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/vlefaroplastiki/?lang=en",
+          "label": "Βλεφαροπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/plastiki-laimou/?lang=en",
+          "label": "Πλαστική Λαιμού"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/rinoplastiki/?lang=en",
+          "label": "Ρινοπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/otoplastiki/?lang=en",
+          "label": "Ωτοπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/anorthosi-auksitiki-stithous/?lang=en",
+          "label": "Ανόρθωση & Αυξητική Στήθους"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/anorthosi-stithous/?lang=en",
+          "label": "Ανόρθωση Στήθους"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/auksitiki-stithous/?lang=en",
+          "label": "Αυξητική Στήθους"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/meiwsh-stithous/?lang=en",
+          "label": "Μείωση Στήθους"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/anorthosi-gloyton/?lang=en",
+          "label": "Ανόρθωση Γλουτών"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/vraxeionoplastiki/?lang=en",
+          "label": "Βραχιονοπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/koilioplastiki/?lang=en",
+          "label": "Κοιλιοπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/lipoglytpiki/?lang=en",
+          "label": "Λιπογλυπτική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/ogkologia/kakohthes-melanwma/?lang=en",
+          "label": "Σπίλοι και Κακοήθες Μελάνωμα"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/ogkologia/karkinos-dermatos/?lang=en",
+          "label": "Καρκίνος Δέρματος"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/ogkologia/karkinos-kefalis-traxilou/?lang=en",
+          "label": "Καρκίνος Κεφαλής Τραχήλου"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/ogkologia/sarkoma/?lang=en",
+          "label": "Σάρκωμα"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/mikroxeirourgiki/metamosxeush-eleutherwn-krumnwn/?lang=en",
+          "label": "Μεταμόσχευση Ελεύθερων Κρημνών"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/mikroxeirourgiki/xeirourgiki-akras-xeiros/?lang=en",
+          "label": "Χειρουργική Άκρας Χειρός"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/genika/apokatastasi-stithous-apo-mastektomi/?lang=en",
+          "label": "Αποκατάσταση Στήθους Από Μαστεκτομή"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/genika/egkaumata/?lang=en",
+          "label": "Εγκαύματα"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/genika/sigenis-anomalies/?lang=en",
+          "label": "Συγγενείς Ανωμαλίες"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/genika/traumata-atuximata/?lang=en",
+          "label": "Τραύματα Ατυχήματα"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/aggeiakes-displasies-aimaggeiwma/?lang=en",
+          "label": "Αγγειακές Δυσπλασίες & Αιμαγγείωμα"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/anaplasi-prosopoy/?lang=en",
+          "label": "Ανάπλαση Προσώπου"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/anaplasi-swmatos/?lang=en",
+          "label": "Ανάπλαση Σώματος"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/apotrixwsi/?lang=en",
+          "label": "Αποτρίχωση Laser Alexandrite"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/kilides-disxrwmies/?lang=en",
+          "label": "Κηλίδες & Δυσχρωμίες"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/ragades/?lang=en",
+          "label": "Ραγάδες"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/ipertrofikes-oules-xiloeides/?lang=en",
+          "label": "Υπερτροφικές Ουλές & Χηλοειδές"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/enesima/botox-dysport/?lang=en",
+          "label": "Botox – Dysport"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/enesima/mesotherapia/?lang=en",
+          "label": "Μεσοθεραπεία"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/enesima/ialouroniko/?lang=en",
+          "label": "Υαλουρονικό"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/nimata/genika/?lang=en",
+          "label": "Γενικά"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/gia-antres/ginaikomastia/?lang=en",
+          "label": "Γυναικομαστία"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/gia-antres/koilioplastiki/?lang=en",
+          "label": "Κοιλιοπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/gia-antres/lipoglitpiki/?lang=en",
+          "label": "Λιπογλυπτική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/gia-antres/plastiki-prosopou/?lang=en",
+          "label": "Πλαστική Προσώπου"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/eipan-gia-emas/?lang=en",
+          "label": "Είπαν για εμάς"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epikoinonia/?lang=en",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio/",
+          "label": "EL"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.athensplasticsurgery.gr/?lang=en",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Search...",
+              "required": true
+            },
+            {
+              "name": "submit",
+              "type": "submit",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://athensplasticsurgery.us12.list-manage.com/subscribe/post-json?u=aef0021dce1d881f724e21339&id=6134450fa5&c=?",
+          "method": "get",
+          "purposeHint": "newsletter",
+          "fieldNames": [
+            "EMAIL",
+            "subscribe",
+            "b_0620e51801f99e2b8118960cc_aa9d6b6227"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "EMAIL",
+              "type": "email",
+              "label": "YOUR EMAIL",
+              "required": false
+            },
+            {
+              "name": "subscribe",
+              "type": "button",
+              "required": false
+            },
+            {
+              "name": "b_0620e51801f99e2b8118960cc_aa9d6b6227",
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "210 89 43 033",
+          "+30 210 89 43 033",
+          "+30 210 6416816"
+        ],
+        "emails": [],
+        "addresses": [
+          "210 89 43 033",
+          "IN BRIEF The offered services are based on a human-centered approach of the patient and are aimed at offering the best possible and scientifically appropriate solution depending on the patient’s medical problem, aspirations and desires. Athens Plastic Surgery 63 Vassilisis Sofias Ave., 15451 GR, 5th floor T. +30 210 89 43 033 Upon appointment Euroclinic of Athens S.A. 3-5 Athanasiadou str. 115 21 GR, 4th floor Τ. +30 210 6416816 Upon appointment Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment USEFUL LINKS DR. JOHN GIANNAS FACELIFT BLEPHAROPLASTY RHINOPLASTY BREAST AUGMENTATION IMPLANTS ONCOLOGY",
+          "/* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.athensplasticsurgery.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; /* ]]> */"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/athensplasticsurgery/"
+          },
+          {
+            "href": "https://www.instagram.com/drgiannas/"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.athensplasticsurgery.gr/?lang=en",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Search...",
+                "required": true
+              },
+              {
+                "name": "submit",
+                "type": "submit",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://athensplasticsurgery.us12.list-manage.com/subscribe/post-json?u=aef0021dce1d881f724e21339&id=6134450fa5&c=?",
+            "method": "get",
+            "purposeHint": "newsletter",
+            "fieldNames": [
+              "EMAIL",
+              "subscribe",
+              "b_0620e51801f99e2b8118960cc_aa9d6b6227"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "EMAIL",
+                "type": "email",
+                "label": "YOUR EMAIL",
+                "required": false
+              },
+              {
+                "name": "subscribe",
+                "type": "button",
+                "required": false
+              },
+              {
+                "name": "b_0620e51801f99e2b8118960cc_aa9d6b6227",
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "IN BRIEF The offered services are based on a human-centered approach of the patient and are aimed at offering the best possible and scientifically appropriate solution depending on the patient’s medical problem, aspirations and desires. Athens Plastic Surgery 63 Vassilisis Sofias Ave., 15451 GR, 5th floor T. +30 210 89 43 033 Upon appointment Euroclinic of Athens S.A. 3-5 Athanasiadou str. 115 21 GR, 4th floor Τ. +30 210 6416816 Upon appointment Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment USEFUL LINKS DR. JOHN GIANNAS FACELIFT BLEPHAROPLASTY RHINOPLASTY BREAST AUGMENTATION IMPLANTS ONCOLOGY",
+      "textContent": "Nav Αρχική ΔΡ. Γιαννάς Αρθρογραφία στον τύπο Βιογραφικό Επιστημονικές δημοσιεύσεις Ιατρείο Συμμετοχή σε συνέδρια Συνεργασίες Αισθητική Χειρουργική Πρόσωπο Facelift – Πλαστική Προσώπου Βλεφαροπλαστική Πλαστική Λαιμού Ρινοπλαστική Ωτοπλαστική Στήθος Ανόρθωση & Αυξητική Στήθους Ανόρθωση Στήθους Αυξητική Στήθους Μείωση Στήθους Σώμα Ανόρθωση Γλουτών Βραχιονοπλαστική Κοιλιοπλαστική Λιπογλυπτική Επανορθωτική Χειρουργική Ογκολογία Σπίλοι και Κακοήθες Μελάνωμα Καρκίνος Δέρματος Καρκίνος Κεφαλής Τραχήλου Σάρκωμα Μικροχειρουργική Μεταμόσχευση Ελεύθερων Κρημνών Χειρουργική Άκρας Χειρός Γενικά Αποκατάσταση Στήθους Από Μαστεκτομή Εγκαύματα Συγγενείς Ανωμαλίες Τραύματα Ατυχήματα Μη επεμβατική αισθητική ιατρική Laser Αγγειακές Δυσπλασίες & Αιμαγγείωμα Ανάπλαση Προσώπου Ανάπλαση Σώματος Αποτρίχωση Laser Alexandrite Κηλίδες & Δυσχρωμίες Ραγάδες Υπερτροφικές Ουλές & Χηλοειδές Ενέσιμα Botox – Dysport Μεσοθεραπεία Υαλουρονικό Νήματα Γενικά Για Άνδρες Γυναικομαστία Κοιλιοπλαστική Λιπογλυπτική Πλαστική Προσώπου Είπαν για εμάς Επικοινωνία Logo DrGiannas EN EL Testimonials Contact Logo DrGiannas 210 89 43 033 JOHN GIANNAS MD. FRCS(Plas), FEBOPRAS COSMETIC & RECONSTRUCTIVE ΠΛΑΣΤΙΚΗ SURGICAL Dr John Giannas Dr John Giannas Cosmetic Surgical Procedures Cosmetic Surgical Procedures Facial Surgery Breast Body Surgery Reconstructive Surgical Procedures Reconstructive Surgical Procedures Oncology Microsurgery General Information Non surgical cosmetic treatments Non surgical cosmetic treatments Laser Injectables – Fillers Thread Lift For Men For Men Dr John Giannas MD, FRCS(Plas), FEBOPRAS RECONSTRUCTIVE SURGICAL PROCEDURES DR JOHN GIANNAS Resume Publications Participation in conferences Αρθρογραφία στον τύπο Clinic Cooperations Resume With over 12,000 interventions in his field, major scientific publications and contributions to Greek and international scientific organizations, Dr Giannas is one of the most recognized members of the international community of Aesthetic, Plastic and Reconstructive Surgery. He is a member of the Royal College of Plastic Surgeons of Great Britain, the Royal College of Surgeons of London, the European Council of Aesthetic, Plastic and Reconstructive Surgery, the International Society of Cosmetic and Plastic Surgery (ISAPS), the American Society of Plastic Surgery (ASAPS), and of the Hellenic Society of Plastic, Reconstructive and Cosmetic Surgery. Today, Dr. Giannas offers his services at Athens Euroclinic, where he is Director of the Plastic and Reconstructive Surgery Clinic, as well as at the Athens Medical Group located in Maroussi, while he maintains a private clinic in Athens (Vas. Sofias 63) where you can book your appointment. At the same time, he continues his professional presence in Great Britain, for 2 weeks each month at the famous Harley Street in central London. In London he cooperates and works in two private hospitals in the city center. Last years, Dr. Giannas has focused on cosmetic and aesthetic surgery, but continues to deal with breast reconstruction, head and neck oncology, skin cancer and microsurgery. His goal is to offer his patients the most appropriate and sophisticated view of Aesthetic, Plastic Surgery and Microsurgery. He speaks Greek, English, French and Italian. TESTIMONIALS ­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­Dr Giannas thank you so much. Your Kindness was really appreciated. You have changed my life. Olivia N. Dr Giannas thank you for what you have done, I just want to say that I appreciate my new tummy. Thank you doesn’t quite touch how much it has changed me but I don’t know the right words. I am very grateful and I promised to look after it. Jasmine N. Thank you for all you have done for me. I’m much more confident since my operation I have new sense of life where I don’t have to cover my back all the time. Julia M. Mr. Giannas thank you so much for the excellent work on my breasts, I’m so happy. Amy W. Mr. Giannas I want to thank you for being so thoughtful and to let you know how much your kindness meant and for giving me my life back. I’m so very grateful. Nicole N. Dear Dr Giannas, thank you so much for such a positive result, I couldn’t have expected any better! Please thank all your team. Best regards J. J. A massive thank you. You have all being amazing. I love my new ears. My confidence has grown so much and can now finally wear my hair up! B. B. Mr. Giannas You’re Brilliant! Thank you for doing an amazing job. Lucia D. Mr. Giannas I’m so pleased with the surgery. The results are amazing. Thank you so much. John K. Dear Mr. Giannas, A very big thank you to you and your team for all the special care and attention that I received. I wouldn’t suggest to anyone to rush into a tummy tuck lightly but I personally have absolutely no regrets! I feel more confident with myself and life in general. It really has made a huge difference to me and I feel so very lucky. Thank you from the bottom of my heart! Jenny B. To Dr Giannas I want to thank you so much for performing my breast reduction. I can’t believe the difference already, I’m truly grateful and appreciate everything you have done. I will remember you forever. Thank you again for performing my life changing operation Dr Giannas. From the bottom of my heart thank you. Mary J. Subscribe to our Newsletter IN BRIEF The offered services are based on a human-centered approach of the patient and are aimed at offering the best possible and scientifically appropriate solution depending on the patient’s medical problem, aspirations and desires. Athens Plastic Surgery 63 Vassilisis Sofias Ave., 15451 GR, 5th floor T. +30 210 89 43 033 Upon appointment Euroclinic of Athens S.A. 3-5 Athanasiadou str. 115 21 GR, 4th floor Τ. +30 210 6416816 Upon appointment Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment USEFUL LINKS DR. JOHN GIANNAS FACELIFT BLEPHAROPLASTY RHINOPLASTY BREAST AUGMENTATION IMPLANTS ONCOLOGY COPYRIGHT © 2018 ATHENS PLASTIC SURGERY // ALL RIGHTS RESERVED CREATED BY EXTROVERT | Business Communications {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"\\/*\"},{\"not\":{\"href_matches\":[\"\\/wp-*.php\",\"\\/wp-admin\\/*\",\"\\/wp-content\\/uploads\\/*\",\"\\/wp-content\\/*\",\"\\/wp-content\\/plugins\\/*\",\"\\/wp-content\\/themes\\/drgiannas\\/*\",\"\\/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.athensplasticsurgery.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; /* ]]> */ /* <![CDATA[ */ var wpcf7_recaptcha = { \"sitekey\": \"6Ldy96EUAAAAANEMM4bEJ1HGYsn82ZE3VNsfB4xX\", \"actions\": { \"homepage\": \"homepage\", \"contactform\": \"contactform\" } }; /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensplasticsurgery.gr-home-f5f9accc/about-dr-ioannis-giannas-bio-60184e13.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensplasticsurgery.gr-home-f5f9accc/about-dr-ioannis-giannas-bio-60184e13.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/uploads/2018/03/drgiannas-hero-1.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio?lang=en",
+          "pageType": "about",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio?lang=en",
+              "retrievedAt": "2026-03-31T13:10:47.927Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/personalised.png",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio?lang=en",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio?lang=en",
+              "retrievedAt": "2026-03-31T13:10:47.927Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/logo.svg",
+          "alt": "Images",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio?lang=en",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio?lang=en",
+              "retrievedAt": "2026-03-31T13:10:47.927Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page fetch",
+          "uri": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio?lang=en",
+          "retrievedAt": "2026-03-31T13:10:47.928Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+      "finalUrl": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+      "fetchedAt": "2026-03-31T13:10:49.761Z",
+      "metadata": {
+        "title": "Contact - Athensplasticsurgery | By Dr. Giannas",
+        "metaDescription": "Drgiannas",
+        "canonicalUrl": "https://www.athensplasticsurgery.gr/epikoinonia/?lang=en",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Contact - Athensplasticsurgery | By Dr. Giannas"
+      },
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Dr John Giannas"
+        },
+        {
+          "level": "h2",
+          "text": "Cosmetic Surgical Procedures"
+        },
+        {
+          "level": "h2",
+          "text": "Reconstructive Surgical Procedures"
+        },
+        {
+          "level": "h2",
+          "text": "Non surgical cosmetic treatments"
+        },
+        {
+          "level": "h2",
+          "text": "For Men"
+        },
+        {
+          "level": "h2",
+          "text": "CONTACT US"
+        },
+        {
+          "level": "h2",
+          "text": "WORKING HOURS"
+        },
+        {
+          "level": "h2",
+          "text": "CONTACT"
+        },
+        {
+          "level": "h2",
+          "text": "TESTIMONIALS"
+        },
+        {
+          "level": "h2",
+          "text": "Subscribe to our Newsletter"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.athensplasticsurgery.gr/?lang=en",
+          "label": "Αρχική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/press/?lang=en",
+          "label": "Αρθρογραφία στον τύπο"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio/?lang=en",
+          "label": "Βιογραφικό"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/presentations/?lang=en",
+          "label": "Επιστημονικές δημοσιεύσεις"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/medical/?lang=en",
+          "label": "Ιατρείο"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/conferences/?lang=en",
+          "label": "Συμμετοχή σε συνέδρια"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/colaborations/?lang=en",
+          "label": "Συνεργασίες"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/facelift/?lang=en",
+          "label": "Facelift – Πλαστική Προσώπου"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/vlefaroplastiki/?lang=en",
+          "label": "Βλεφαροπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/plastiki-laimou/?lang=en",
+          "label": "Πλαστική Λαιμού"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/rinoplastiki/?lang=en",
+          "label": "Ρινοπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/otoplastiki/?lang=en",
+          "label": "Ωτοπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/anorthosi-auksitiki-stithous/?lang=en",
+          "label": "Ανόρθωση & Αυξητική Στήθους"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/anorthosi-stithous/?lang=en",
+          "label": "Ανόρθωση Στήθους"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/auksitiki-stithous/?lang=en",
+          "label": "Αυξητική Στήθους"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/meiwsh-stithous/?lang=en",
+          "label": "Μείωση Στήθους"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/anorthosi-gloyton/?lang=en",
+          "label": "Ανόρθωση Γλουτών"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/vraxeionoplastiki/?lang=en",
+          "label": "Βραχιονοπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/koilioplastiki/?lang=en",
+          "label": "Κοιλιοπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/lipoglytpiki/?lang=en",
+          "label": "Λιπογλυπτική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/ogkologia/kakohthes-melanwma/?lang=en",
+          "label": "Σπίλοι και Κακοήθες Μελάνωμα"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/ogkologia/karkinos-dermatos/?lang=en",
+          "label": "Καρκίνος Δέρματος"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/ogkologia/karkinos-kefalis-traxilou/?lang=en",
+          "label": "Καρκίνος Κεφαλής Τραχήλου"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/ogkologia/sarkoma/?lang=en",
+          "label": "Σάρκωμα"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/mikroxeirourgiki/metamosxeush-eleutherwn-krumnwn/?lang=en",
+          "label": "Μεταμόσχευση Ελεύθερων Κρημνών"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/mikroxeirourgiki/xeirourgiki-akras-xeiros/?lang=en",
+          "label": "Χειρουργική Άκρας Χειρός"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/genika/apokatastasi-stithous-apo-mastektomi/?lang=en",
+          "label": "Αποκατάσταση Στήθους Από Μαστεκτομή"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/genika/egkaumata/?lang=en",
+          "label": "Εγκαύματα"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/genika/sigenis-anomalies/?lang=en",
+          "label": "Συγγενείς Ανωμαλίες"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epanorthotiki-xeirourgiki/genika/traumata-atuximata/?lang=en",
+          "label": "Τραύματα Ατυχήματα"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/aggeiakes-displasies-aimaggeiwma/?lang=en",
+          "label": "Αγγειακές Δυσπλασίες & Αιμαγγείωμα"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/anaplasi-prosopoy/?lang=en",
+          "label": "Ανάπλαση Προσώπου"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/anaplasi-swmatos/?lang=en",
+          "label": "Ανάπλαση Σώματος"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/apotrixwsi/?lang=en",
+          "label": "Αποτρίχωση Laser Alexandrite"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/kilides-disxrwmies/?lang=en",
+          "label": "Κηλίδες & Δυσχρωμίες"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/ragades/?lang=en",
+          "label": "Ραγάδες"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/laser/ipertrofikes-oules-xiloeides/?lang=en",
+          "label": "Υπερτροφικές Ουλές & Χηλοειδές"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/enesima/botox-dysport/?lang=en",
+          "label": "Botox – Dysport"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/enesima/mesotherapia/?lang=en",
+          "label": "Μεσοθεραπεία"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/enesima/ialouroniko/?lang=en",
+          "label": "Υαλουρονικό"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/mi-epemvatiki-aisthitiki-iatriki/nimata/genika/?lang=en",
+          "label": "Γενικά"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/gia-antres/ginaikomastia/?lang=en",
+          "label": "Γυναικομαστία"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/gia-antres/koilioplastiki/?lang=en",
+          "label": "Κοιλιοπλαστική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/gia-antres/lipoglitpiki/?lang=en",
+          "label": "Λιπογλυπτική"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/gia-antres/plastiki-prosopou/?lang=en",
+          "label": "Πλαστική Προσώπου"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/eipan-gia-emas/?lang=en",
+          "label": "Είπαν για εμάς"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/epikoinonia/?lang=en",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1/",
+          "label": "EL"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.athensplasticsurgery.gr/?lang=en",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Search...",
+              "required": true
+            },
+            {
+              "name": "submit",
+              "type": "submit",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://www.athensplasticsurgery.gr/epikoinonia/?lang=en#wpcf7-f968-p792-o1",
+          "method": "post",
+          "purposeHint": "contact",
+          "fieldNames": [
+            "_wpcf7",
+            "_wpcf7_version",
+            "_wpcf7_locale",
+            "_wpcf7_unit_tag",
+            "_wpcf7_container_post",
+            "_wpcf7_posted_data_hash",
+            "_wpcf7_recaptcha_response",
+            "menu-602",
+            "your-name",
+            "your-email",
+            "your-telephone",
+            "menu-603",
+            "your-message",
+            "submit"
+          ],
+          "submitLabels": [
+            "SUBMIT"
+          ],
+          "fields": [
+            {
+              "name": "_wpcf7",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_version",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_locale",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_unit_tag",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_container_post",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_posted_data_hash",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "_wpcf7_recaptcha_response",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "menu-602",
+              "type": "select",
+              "required": true
+            },
+            {
+              "name": "your-name",
+              "type": "text",
+              "label": "NAME",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "type": "email",
+              "label": "EMAIL",
+              "required": true
+            },
+            {
+              "name": "your-telephone",
+              "type": "text",
+              "label": "TELEPHONE NUMBER",
+              "required": false
+            },
+            {
+              "name": "menu-603",
+              "type": "select",
+              "required": true
+            },
+            {
+              "name": "your-message",
+              "type": "textarea",
+              "label": "Message",
+              "required": true
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://athensplasticsurgery.us12.list-manage.com/subscribe/post-json?u=aef0021dce1d881f724e21339&id=6134450fa5&c=?",
+          "method": "get",
+          "purposeHint": "newsletter",
+          "fieldNames": [
+            "EMAIL",
+            "subscribe",
+            "b_0620e51801f99e2b8118960cc_aa9d6b6227"
+          ],
+          "submitLabels": [],
+          "fields": [
+            {
+              "name": "EMAIL",
+              "type": "email",
+              "label": "YOUR EMAIL",
+              "required": false
+            },
+            {
+              "name": "subscribe",
+              "type": "button",
+              "required": false
+            },
+            {
+              "name": "b_0620e51801f99e2b8118960cc_aa9d6b6227",
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "210 89 43 033",
+          "+30 210 89 43 033",
+          "+30 210 6416816"
+        ],
+        "emails": [
+          "info@athensplasticsurgery.gr"
+        ],
+        "addresses": [
+          "Nav Αρχική ΔΡ. Γιαννάς Αρθρογραφία στον τύπο Βιογραφικό Επιστημονικές δημοσιεύσεις Ιατρείο Συμμετοχή σε συνέδρια Συνεργασίες Αισθητική Χειρουργική Πρόσωπο Facelift – Πλαστική Προσώπου Βλεφαροπλαστική Πλαστική Λαιμού Ρινοπλαστική Ωτοπλαστική Στήθος Ανόρθωση & Αυξητική Στήθους Ανόρθωση Στήθους Αυξητική Στήθους Μείωση Στήθους Σώμα Ανόρθωση Γλουτών Βραχιονοπλαστική Κοιλιοπλαστική Λιπογλυπτική Επανορθωτική Χειρουργική Ογκολογία Σπίλοι και Κακοήθες Μελάνωμα Καρκίνος Δέρματος Καρκίνος Κεφαλής Τραχήλου Σάρκωμα Μικροχειρουργική Μεταμόσχευση Ελεύθερων Κρημνών Χειρουργική Άκρας Χειρός Γενικά Αποκατάσταση Στήθους Από Μαστεκτομή Εγκαύματα Συγγενείς Ανωμαλίες Τραύματα Ατυχήματα Μη επεμβατική αισθητική ιατρική Laser Αγγειακές Δυσπλασίες & Αιμαγγείωμα Ανάπλαση Προσώπου Ανάπλαση Σώματος Αποτρίχωση Laser Alexandrite Κηλίδες & Δυσχρωμίες Ραγάδες Υπερτροφικές Ουλές & Χηλοειδές Ενέσιμα Botox – Dysport Μεσοθεραπεία Υαλουρονικό Νήματα Γενικά Για Άνδρες Γυναικομαστία Κοιλιοπλαστική Λιπογλυπτική Πλαστική Προσώπου Είπαν για εμάς Επικοινωνία Logo DrGiannas EN EL Testimonials Contact Logo DrGiannas 210 89 43 033 JOHN GIANNAS MD. FRCS(Plas), FEBOPRAS COSMETIC & RECONSTRUCTIVE ΠΛΑΣΤΙΚΗ SURGICAL Dr John Giannas Dr John Giannas Cosmetic Surgical Procedures Cosmetic Surgical Procedures Facial Surgery Breast Body Surgery Reconstructive Surgical Procedures Reconstructive Surgical Procedures Oncology Microsurgery General Information Non surgical cosmetic treatments Non surgical cosmetic treatments Laser Injectables – Fillers Thread Lift For Men For Men CONTACT US Interested forMAKE AN APPOINTMENTMAKE A QUESTION Which type of treatment are you interested inSURGICALNON SURGICALMICROSURGERYGENERAL Your Question WORKING HOURS Upon appointment MONDAY 17:00 - 21:00 TUESDAY 17:00 - 21:00 WEDNESDAY 12:00 - 16:00 THURSDAY 17:00 - 21:00 FRIDAY 12:00 - 16:00 CONTACT Telephone Number: +30 210 89 43 033 Email: info@athensplasticsurgery.gr TESTIMONIALS ­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­Dr Giannas thank you so much. Your Kindness was really appreciated. You have changed my life. Olivia N. Dr Giannas thank you for what you have done, I just want to say that I appreciate my new tummy. Thank you doesn’t quite touch how much it has changed me but I don’t know the right words. I am very grateful and I promised to look after it. Jasmine N. Thank you for all you have done for me. I’m much more confident since my operation I have new sense of life where I don’t have to cover my back all the time. Julia M. Mr. Giannas thank you so much for the excellent work on my breasts, I’m so happy. Amy W. Mr. Giannas I want to thank you for being so thoughtful and to let you know how much your kindness meant and for giving me my life back. I’m so very grateful. Nicole N. Dear Dr Giannas, thank you so much for such a positive result, I couldn’t have expected any better! Please thank all your team. Best regards J. J. A massive thank you. You have all being amazing. I love my new ears. My confidence has grown so much and can now finally wear my hair up! B. B. Mr. Giannas You’re Brilliant! Thank you for doing an amazing job. Lucia D. Mr. Giannas I’m so pleased with the surgery. The results are amazing. Thank you so much. John K. Dear Mr. Giannas, A very big thank you to you and your team for all the special care and attention that I received. I wouldn’t suggest to anyone to rush into a tummy tuck lightly but I personally have absolutely no regrets! I feel more confident with myself and life in general. It really has made a huge difference to me and I feel so very lucky. Thank you from the bottom of my heart! Jenny B. To Dr Giannas I want to thank you so much for performing my breast reduction. I can’t believe the difference already, I’m truly grateful and appreciate everything you have done. I will remember you forever. Thank you again for performing my life changing operation Dr Giannas. From the bottom of my heart thank you. Mary J. Subscribe to our Newsletter IN BRIEF The offered services are based on a human-centered approach of the patient and are aimed at offering the best possible and scientifically appropriate solution depending on the patient’s medical problem, aspirations and desires. Athens Plastic Surgery 63 Vassilisis Sofias Ave., 15451 GR, 5th floor T. +30 210 89 43 033 Upon appointment Euroclinic of Athens S.A. 3-5 Athanasiadou str. 115 21 GR, 4th floor Τ. +30 210 6416816 Upon appointment Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment USEFUL LINKS DR. JOHN GIANNAS FACELIFT BLEPHAROPLASTY RHINOPLASTY BREAST AUGMENTATION IMPLANTS ONCOLOGY COPYRIGHT © 2018 ATHENS PLASTIC SURGERY // ALL RIGHTS RESERVED CREATED BY EXTROVERT | Business Communications {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"\\/*\"},{\"not\":{\"href_matches\":[\"\\/wp-*.php\",\"\\/wp-admin\\/*\",\"\\/wp-content\\/uploads\\/*\",\"\\/wp-content\\/*\",\"\\/wp-content\\/plugins\\/*\",\"\\/wp-content\\/themes\\/drgiannas\\/*\",\"\\/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.athensplasticsurgery.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; /* ]]> */ /* <![CDATA[ */ var wpcf7_recaptcha = { \"sitekey\": \"6Ldy96EUAAAAANEMM4bEJ1HGYsn82ZE3VNsfB4xX\", \"actions\": { \"homepage\": \"homepage\", \"contactform\": \"contactform\" } }; /* ]]> */",
+          "210 89 43 033",
+          "CONTACT US Interested forMAKE AN APPOINTMENTMAKE A QUESTION Which type of treatment are you interested inSURGICALNON SURGICALMICROSURGERYGENERAL Your Question WORKING HOURS Upon appointment MONDAY 17:00 - 21:00 TUESDAY 17:00 - 21:00 WEDNESDAY 12:00 - 16:00 THURSDAY 17:00 - 21:00 FRIDAY 12:00 - 16:00 CONTACT Telephone Number: +30 210 89 43 033 Email: info@athensplasticsurgery.gr",
+          "Telephone Number: +30 210 89 43 033 Email: info@athensplasticsurgery.gr",
+          "IN BRIEF The offered services are based on a human-centered approach of the patient and are aimed at offering the best possible and scientifically appropriate solution depending on the patient’s medical problem, aspirations and desires. Athens Plastic Surgery 63 Vassilisis Sofias Ave., 15451 GR, 5th floor T. +30 210 89 43 033 Upon appointment Euroclinic of Athens S.A. 3-5 Athanasiadou str. 115 21 GR, 4th floor Τ. +30 210 6416816 Upon appointment Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment USEFUL LINKS DR. JOHN GIANNAS FACELIFT BLEPHAROPLASTY RHINOPLASTY BREAST AUGMENTATION IMPLANTS ONCOLOGY",
+          "/* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.athensplasticsurgery.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; /* ]]> */"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/athensplasticsurgery/"
+          },
+          {
+            "href": "https://www.instagram.com/drgiannas/"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.athensplasticsurgery.gr/?lang=en",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Search...",
+                "required": true
+              },
+              {
+                "name": "submit",
+                "type": "submit",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://www.athensplasticsurgery.gr/epikoinonia/?lang=en#wpcf7-f968-p792-o1",
+            "method": "post",
+            "purposeHint": "contact",
+            "fieldNames": [
+              "_wpcf7",
+              "_wpcf7_version",
+              "_wpcf7_locale",
+              "_wpcf7_unit_tag",
+              "_wpcf7_container_post",
+              "_wpcf7_posted_data_hash",
+              "_wpcf7_recaptcha_response",
+              "menu-602",
+              "your-name",
+              "your-email",
+              "your-telephone",
+              "menu-603",
+              "your-message",
+              "submit"
+            ],
+            "submitLabels": [
+              "SUBMIT"
+            ],
+            "fields": [
+              {
+                "name": "_wpcf7",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_version",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_locale",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_unit_tag",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_container_post",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_posted_data_hash",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "_wpcf7_recaptcha_response",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "menu-602",
+                "type": "select",
+                "required": true
+              },
+              {
+                "name": "your-name",
+                "type": "text",
+                "label": "NAME",
+                "required": true
+              },
+              {
+                "name": "your-email",
+                "type": "email",
+                "label": "EMAIL",
+                "required": true
+              },
+              {
+                "name": "your-telephone",
+                "type": "text",
+                "label": "TELEPHONE NUMBER",
+                "required": false
+              },
+              {
+                "name": "menu-603",
+                "type": "select",
+                "required": true
+              },
+              {
+                "name": "your-message",
+                "type": "textarea",
+                "label": "Message",
+                "required": true
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://athensplasticsurgery.us12.list-manage.com/subscribe/post-json?u=aef0021dce1d881f724e21339&id=6134450fa5&c=?",
+            "method": "get",
+            "purposeHint": "newsletter",
+            "fieldNames": [
+              "EMAIL",
+              "subscribe",
+              "b_0620e51801f99e2b8118960cc_aa9d6b6227"
+            ],
+            "submitLabels": [],
+            "fields": [
+              {
+                "name": "EMAIL",
+                "type": "email",
+                "label": "YOUR EMAIL",
+                "required": false
+              },
+              {
+                "name": "subscribe",
+                "type": "button",
+                "required": false
+              },
+              {
+                "name": "b_0620e51801f99e2b8118960cc_aa9d6b6227",
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "IN BRIEF The offered services are based on a human-centered approach of the patient and are aimed at offering the best possible and scientifically appropriate solution depending on the patient’s medical problem, aspirations and desires. Athens Plastic Surgery 63 Vassilisis Sofias Ave., 15451 GR, 5th floor T. +30 210 89 43 033 Upon appointment Euroclinic of Athens S.A. 3-5 Athanasiadou str. 115 21 GR, 4th floor Τ. +30 210 6416816 Upon appointment Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment USEFUL LINKS DR. JOHN GIANNAS FACELIFT BLEPHAROPLASTY RHINOPLASTY BREAST AUGMENTATION IMPLANTS ONCOLOGY",
+      "textContent": "Nav Αρχική ΔΡ. Γιαννάς Αρθρογραφία στον τύπο Βιογραφικό Επιστημονικές δημοσιεύσεις Ιατρείο Συμμετοχή σε συνέδρια Συνεργασίες Αισθητική Χειρουργική Πρόσωπο Facelift – Πλαστική Προσώπου Βλεφαροπλαστική Πλαστική Λαιμού Ρινοπλαστική Ωτοπλαστική Στήθος Ανόρθωση & Αυξητική Στήθους Ανόρθωση Στήθους Αυξητική Στήθους Μείωση Στήθους Σώμα Ανόρθωση Γλουτών Βραχιονοπλαστική Κοιλιοπλαστική Λιπογλυπτική Επανορθωτική Χειρουργική Ογκολογία Σπίλοι και Κακοήθες Μελάνωμα Καρκίνος Δέρματος Καρκίνος Κεφαλής Τραχήλου Σάρκωμα Μικροχειρουργική Μεταμόσχευση Ελεύθερων Κρημνών Χειρουργική Άκρας Χειρός Γενικά Αποκατάσταση Στήθους Από Μαστεκτομή Εγκαύματα Συγγενείς Ανωμαλίες Τραύματα Ατυχήματα Μη επεμβατική αισθητική ιατρική Laser Αγγειακές Δυσπλασίες & Αιμαγγείωμα Ανάπλαση Προσώπου Ανάπλαση Σώματος Αποτρίχωση Laser Alexandrite Κηλίδες & Δυσχρωμίες Ραγάδες Υπερτροφικές Ουλές & Χηλοειδές Ενέσιμα Botox – Dysport Μεσοθεραπεία Υαλουρονικό Νήματα Γενικά Για Άνδρες Γυναικομαστία Κοιλιοπλαστική Λιπογλυπτική Πλαστική Προσώπου Είπαν για εμάς Επικοινωνία Logo DrGiannas EN EL Testimonials Contact Logo DrGiannas 210 89 43 033 JOHN GIANNAS MD. FRCS(Plas), FEBOPRAS COSMETIC & RECONSTRUCTIVE ΠΛΑΣΤΙΚΗ SURGICAL Dr John Giannas Dr John Giannas Cosmetic Surgical Procedures Cosmetic Surgical Procedures Facial Surgery Breast Body Surgery Reconstructive Surgical Procedures Reconstructive Surgical Procedures Oncology Microsurgery General Information Non surgical cosmetic treatments Non surgical cosmetic treatments Laser Injectables – Fillers Thread Lift For Men For Men CONTACT US Interested forMAKE AN APPOINTMENTMAKE A QUESTION Which type of treatment are you interested inSURGICALNON SURGICALMICROSURGERYGENERAL Your Question WORKING HOURS Upon appointment MONDAY 17:00 - 21:00 TUESDAY 17:00 - 21:00 WEDNESDAY 12:00 - 16:00 THURSDAY 17:00 - 21:00 FRIDAY 12:00 - 16:00 CONTACT Telephone Number: +30 210 89 43 033 Email: info@athensplasticsurgery.gr TESTIMONIALS ­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­Dr Giannas thank you so much. Your Kindness was really appreciated. You have changed my life. Olivia N. Dr Giannas thank you for what you have done, I just want to say that I appreciate my new tummy. Thank you doesn’t quite touch how much it has changed me but I don’t know the right words. I am very grateful and I promised to look after it. Jasmine N. Thank you for all you have done for me. I’m much more confident since my operation I have new sense of life where I don’t have to cover my back all the time. Julia M. Mr. Giannas thank you so much for the excellent work on my breasts, I’m so happy. Amy W. Mr. Giannas I want to thank you for being so thoughtful and to let you know how much your kindness meant and for giving me my life back. I’m so very grateful. Nicole N. Dear Dr Giannas, thank you so much for such a positive result, I couldn’t have expected any better! Please thank all your team. Best regards J. J. A massive thank you. You have all being amazing. I love my new ears. My confidence has grown so much and can now finally wear my hair up! B. B. Mr. Giannas You’re Brilliant! Thank you for doing an amazing job. Lucia D. Mr. Giannas I’m so pleased with the surgery. The results are amazing. Thank you so much. John K. Dear Mr. Giannas, A very big thank you to you and your team for all the special care and attention that I received. I wouldn’t suggest to anyone to rush into a tummy tuck lightly but I personally have absolutely no regrets! I feel more confident with myself and life in general. It really has made a huge difference to me and I feel so very lucky. Thank you from the bottom of my heart! Jenny B. To Dr Giannas I want to thank you so much for performing my breast reduction. I can’t believe the difference already, I’m truly grateful and appreciate everything you have done. I will remember you forever. Thank you again for performing my life changing operation Dr Giannas. From the bottom of my heart thank you. Mary J. Subscribe to our Newsletter IN BRIEF The offered services are based on a human-centered approach of the patient and are aimed at offering the best possible and scientifically appropriate solution depending on the patient’s medical problem, aspirations and desires. Athens Plastic Surgery 63 Vassilisis Sofias Ave., 15451 GR, 5th floor T. +30 210 89 43 033 Upon appointment Euroclinic of Athens S.A. 3-5 Athanasiadou str. 115 21 GR, 4th floor Τ. +30 210 6416816 Upon appointment Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment USEFUL LINKS DR. JOHN GIANNAS FACELIFT BLEPHAROPLASTY RHINOPLASTY BREAST AUGMENTATION IMPLANTS ONCOLOGY COPYRIGHT © 2018 ATHENS PLASTIC SURGERY // ALL RIGHTS RESERVED CREATED BY EXTROVERT | Business Communications {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"\\/*\"},{\"not\":{\"href_matches\":[\"\\/wp-*.php\",\"\\/wp-admin\\/*\",\"\\/wp-content\\/uploads\\/*\",\"\\/wp-content\\/*\",\"\\/wp-content\\/plugins\\/*\",\"\\/wp-content\\/themes\\/drgiannas\\/*\",\"\\/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.athensplasticsurgery.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; /* ]]> */ /* <![CDATA[ */ var wpcf7_recaptcha = { \"sitekey\": \"6Ldy96EUAAAAANEMM4bEJ1HGYsn82ZE3VNsfB4xX\", \"actions\": { \"homepage\": \"homepage\", \"contactform\": \"contactform\" } }; /* ]]> */",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensplasticsurgery.gr-home-f5f9accc/contact-epikoinonia-5e97b3d4.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensplasticsurgery.gr-home-f5f9accc/contact-epikoinonia-5e97b3d4.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/personalised.png",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+              "retrievedAt": "2026-03-31T13:10:49.759Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/quote.png",
+          "alt": "Quote",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+              "retrievedAt": "2026-03-31T13:10:49.759Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/logo.svg",
+          "alt": "Images",
+          "sourcePageUrl": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+              "retrievedAt": "2026-03-31T13:10:49.759Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+          "retrievedAt": "2026-03-31T13:10:49.761Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/athensplasticsurgery.gr-home-f5f9accc/contact-epikoinonia-5e97b3d4.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "210 89 43 033",
+      "210 6416816",
+      "2024-08-02 09",
+      "+30 210 89 43 033",
+      "+30 210 6416816"
+    ],
+    "emails": [
+      "info@athensplasticsurgery.gr"
+    ],
+    "addresses": [
+      "210 89 43 033",
+      "ΛΙΓΑ ΛΟΓΙΑ Οι υπηρεσίες που προσφέρει ο ιατρός βασίζονται στην καθαρά ανθρωποκεντρική προσέγγιση του ασθενή και έχουν σαν στόχο την προσφορά της καλύτερης δυνατότητας και επιστημονικά ενδεδειγμένης λύσης ανάλογα με το ιατρικό πρόβλημα, τις επιδιώξεις και τις επιθυμίες του ασθενή. Athens Plastic Surgery Λεωφ. Βασιλίσσης Σοφίας 63, ΤΚ 11521, 5ος οροφος T. 210 89 43 033 Δέχεται κατόπιν ραντεβού Ευρωκλινική Αθηνών Αθανασιάδου 3-5, ΤΚ 115 21, 4ος όροφος Τ. 210 6416816 Δέχεται κατόπιν ραντεβού Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment ΧΡΗΣΙΜΟΙ ΣΥΝΔΕΣΜΟΙ ΔΡ. ΙΩΑΝΝΗΣ ΓΙΑΝΝΑΣ FACELIFT ΒΛΕΦΑΡΟΠΛΑΣΤΙΚΗ ΡΙΝΟΠΛΑΣΤΙΚΗ ΑΥΞΗΤΙΚΗ ΣΤΗΘΟΥΣ ΟΓΚΟΛΟΓΙΑ",
+      "/* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.athensplasticsurgery.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; /* ]]> */",
+      "Nav Αρχική ΔΡ. Γιαννάς Αρθρογραφία στον τύπο Βιογραφικό Επιστημονικές δημοσιεύσεις Ιατρείο Συμμετοχή σε συνέδρια Συνεργασίες Αισθητική Χειρουργική Πρόσωπο Facelift – Πλαστική Προσώπου Βλεφαροπλαστική Πλαστική Λαιμού Ρινοπλαστική Ωτοπλαστική Στήθος Ανόρθωση & Αυξητική Στήθους Ανόρθωση Στήθους Αυξητική Στήθους Μείωση Στήθους Σώμα Ανόρθωση Γλουτών Βραχιονοπλαστική Κοιλιοπλαστική Λιπογλυπτική Επανορθωτική Χειρουργική Ογκολογία Σπίλοι και Κακοήθες Μελάνωμα Καρκίνος Δέρματος Καρκίνος Κεφαλής Τραχήλου Σάρκωμα Μικροχειρουργική Μεταμόσχευση Ελεύθερων Κρημνών Χειρουργική Άκρας Χειρός Γενικά Αποκατάσταση Στήθους Από Μαστεκτομή Εγκαύματα Συγγενείς Ανωμαλίες Τραύματα Ατυχήματα Μη επεμβατική αισθητική ιατρική Laser Αγγειακές Δυσπλασίες & Αιμαγγείωμα Ανάπλαση Προσώπου Ανάπλαση Σώματος Αποτρίχωση Laser Alexandrite Κηλίδες & Δυσχρωμίες Ραγάδες Υπερτροφικές Ουλές & Χηλοειδές Ενέσιμα Botox – Dysport Μεσοθεραπεία Υαλουρονικό Νήματα Γενικά Για Άνδρες Γυναικομαστία Κοιλιοπλαστική Λιπογλυπτική Πλαστική Προσώπου Είπαν για εμάς Επικοινωνία Logo DrGiannas EN EL Ειπαν για εμας Επικοινωνια Logo DrGiannas 210 89 43 033 ΙΩΑΝΝΗΣ ΓΙΑΝΝΑΣ MD. FRCS(Plas), FEBOPRAS ΑΙΣΘΗΤΙΚΗ & ΕΠΑΝΟΡΘΩΤΙΚΗ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΔΡ. Ιωαννης Γιαννας ΔΡ. Ιωαννης Γιαννας ΒιογραφικοΕπιστημονικες δημοσιευσειςΣυμμετοχη σε συνεδριαΑρθρογραφια στον τυποΙατρειοΣυνεργασιες Αισθητικη Χειρουργικη Αισθητικη Χειρουργικη Προσωπο ΡινοπλαστικηFacelift - Πλαστικη ΠροσωπουΒλεφαροπλαστικηΠλαστικη ΛαιμουΩτοπλαστικη Στηθος Ανορθωση & Αυξητικη ΣτηθουςΑνορθωση ΣτηθουςΑυξητικη ΣτηθουςΜειωση Στηθους Σωμα ΚοιλιοπλαστικηΒραχιονοπλαστικηΛιπογλυπτικηΑνορθωση ΓλουτωνΑνορθωση Μηρων Επανορθωτικη Χειρουργικη Επανορθωτικη Χειρουργικη Ογκολογια Καρκινος ΔερματοςΣπιλοι και Κακοηθες ΜελανωμαΣαρκωμαΚαρκινος Κεφαλης Τραχηλου Μικροχειρουργικη Χειρουργικη ακρας ΧειροςΜεταμοσχευση Ελευθερων Κρημνων Γενικα Αποκατασταση Στηθους Απο ΜαστεκτομηΣυγγενεις ΑνωμαλιεςΕγκαυματαΤραυματα Ατυχηματα Μη επεμβατικη αισθητικη ιατρικη Μη επεμβατικη αισθητικη ιατρικη Laser Αναπλαση ΠροσωπουΑναπλαση ΣωματοςΚηλιδες & ΔυσχρωμιεςΡαγαδεςΥπερτροφικες Ουλες & ΧηλοειδεςΑγγειακες Δυσπλασιες & ΑιμαγγειωμαΑποτριχωση Laser Alexandrite Ενεσιμα Botox - DysportΥαλουρονικοΜεσοθεραπεια Νηματα Γενικα Για ανδρες Για ανδρες ΓυναικομαστιαΚοιλιοπλαστικηΠλαστικη ΠροσωπουΛιπογλυπτικη ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΜΑΖΙ ΜΑΣ Ενδιαφέρομαι ναΚΛΕΙΣΩ ΡΑΝΤΕΒΟΥΚΑΝΩ ΕΡΩΤΗΣΗ Για ποιο είδος θεραπείας ενδιαφέρεστεΕΠΕΜΒΑΤΙΚΗΜΗ ΕΠΕΜΒΑΤΙΚΗΜΙΚΡΟΧΕΙΡΟΥΡΓΙΚΗΓΕΝΙΚΑ Γράψτε την ερώτησή σας ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ ΓΡΑΦΕΙΟΥ Δέχεται κατόπιν ραντεβού ΔΕΥΤΕΡΑ 17:00 - 21:00 ΤΡΙΤΗ 17:00 - 21:00 ΤΕΤΑΡΤΗ 12:00 - 16:00 ΠΕΜΠΤΗ 17:00 - 21:00 ΠΑΡΑΣΚΕΥΗ 12:00 - 16:00 ΕΠΙΚΟΙΝΩΝΙΑ Τηλέφωνο: 210 89 43 033 Email: info@athensplasticsurgery.gr Είπαν για Εμάς To Dr.Giannas, Thank you for what you’ve done, I just want to say that I appreciate my new tummy. Thank you doesn’t quite touch how much it has changed me but I don’t know the right words. I am very greatful and I promise to look after it. Claire M. Αγαπητέ Δρ Γιαννά, σας ευχαριστώ πάρα πολύ για το τέλειο αποτέλεσμα. Ούτε το είχα φανταστεί το αποτέλεσμα. Η μύτη μου είναι πια τέλεια και εσείς είστε ο υπεύθυνος για αυτό. Σας ευχαριστώ για τις καλύτερες μέρες που έρχονται. Θέλω να ευχαριστήσω και όλη την ομάδα σας για την τέλεια συνεργασία. Αθανασία Θ. Κε Γιαννά σας ευχαριστώ πάρα πολύ για την εξαιρετική δουλειά στο στήθος μου, είμαι τόσο χαρούμενη. Νίκη Κ. Κύριε Γιαννά είστε εξαίρετος άνθρωπος και γιατρός. Σας ευχαριστώ για την εκπληκτική δουλειά που κάνατε! Αντιγόνη Β. Γιατρέ θέλω να σας πω ένα τεράστιο ευχαριστώ. Όλη η ομάδα σας κι εσείς είστε καταπληκτικοί. Λατρεύω τα ‘νέα’ μου αυτιά. Η αυτοπεποίθηση μου έχει αυξηθεί τόσο πολύ και επιτέλους μπορώ να πιάσω τα μαλλιά μου ψηλά χωρίς να ντρέπομαι. Τόνια Τ. Κύριε Γιάννα, θέλω να σας ευχαριστήσω για το γεγονός ότι ήσασταν τόσο προσεκτικός μαζί μου και να σας ευχαριστήσω για τη ζωή που μου δώσατε πίσω. Είμαι πολύ ευγνώμων. Κατερίνα Μ. Κύριε Γιάννα είμαι τόσο ευχαριστημένη με τη χειρουργική επέμβαση. Τα αποτελέσματα είναι εκπληκτικά. Σας ευχαριστώ πάρα πολύ για το τέλειο στήθος μου. Ιουλία Μ. Δρ Γιαννά σας ευχαριστώ για όλα αυτά που κάνατε και θέλω μόνο να σας πω πόσο πολύ μου αρέσει η νέα μου κοιλιά! Το ευχαριστώ είναι πολύ λίγο μπροστά στην αλλαγή που μου χαρίσατε και δεν μπορώ να βρω τα σωστά λόγια να ταιριάζουν. Είμαι πολύ ευγνώμων και υπόσχομαι να φροντίζω το νέο μου εαυτό! Κλαίρη Μ. Δρ Γιαννά σας ευχαριστώ πάρα πολύ. Η καλοσύνη σας και ο επαγγελματισμός σας είναι αυτό που εκτίμησα πραγματικά. Αλλάξατε τη ζωή μου τόσο πολύ. Βίκυ Α. Σας ευχαριστώ για όλα όσα έχετε κάνει για μένα. Μετά το χειρουργείο έχω μεγαλύτερη αυτοπεποίθηση και βλέπω τη ζωή πολύ διαφορετικά από τη στιγμή που δεν χρειάζεται να καλύπτω τα αυτιά μου όλη την ώρα. Δέσποινα Π. Αγαπητέ Δρ Γιαννά, Θέλω τόσο πολύ να σας ευχαριστήσω για το χειρουργείο της μείωσης του στήθους μου. Δεν μπορώ να πιστέψω τη διαφορά ήδη, είμαι πραγματικά ευγνώμων και εκτιμώ όλα όσα κάνατε. Θα σας θυμάμαι για πάντα. Σας ευχαριστώ και πάλι για το χειρουργείο που άλλαξε τη ζωή μου Γεωργία Κ. Αγαπητέ κ. Γιαννά, θέλω να πω ένα μεγάλο ευχαριστώ σε εσάς και την ομάδα σας για όλη την ιδιαίτερη φροντίδα και προσοχή που έλαβα. Όλοι λένε πόσο δύσκολο χειρουργείο είναι η κοιλιοπλαστική μα εγώ δεν μετανιώνω για την επιλογή μου να σας εμπιστευτώ για αυτό το χειρουργείο. Σήμερα αισθάνομαι μεγαλύτερη αυτοπεποίθηση με τον εαυτό μου και τη ζωή γενικά. Το χειρουργείο έχει πραγματικά κάνει μεγάλη διαφορά στον εαυτό μου και αισθάνομαι τόσο πολύ τυχερή. Σας ευχαριστώ από το βάθος της καρδιάς μου! Τζίνα Μ. Αγαπητέ Δρ Γιαννά Σας ευχαριστώ για την υποστήριξη και την ενθάρρυνσή σας καθ’ όλη την διάρκεια του «ταξιδιού» μου. Ήταν μια δύσκολη απόφαση να πάρω, αλλά ο γιατρός με έκανε να νιώθω άνετα σε κάθε βήμα. Ο κ. Γιαννάς έκανε απίστευτη δουλειά και θέλω να ευχαριστήσω και όλη του την ομάδα του που με έκαναν να αισθάνομαι άνετα. Γιατρέ μου χαρίσατε τόσο μεγάλη αυτοπεποίθηση. Ευχαριστώ Κατερίνα Κ. Από μικρή, λόγω των πεταχτών & μεγάλων αυτιών μου, ένιωθα ανασφαλής. Προσπαθούσα να τα κρύψω με τα μαλλιά μου και στις κοινωνικές μου σχέσεις ήμουν ντροπαλή & ένιωθα άβολα. Πριν 3 μήνες εγχειρίστηκα από τον ιατρό Ι. Γιαννά. Το αποτέλεσμα είναι εξαιρετικό. Τα αυτιά μου είναι συμμετρικά & εγώ έχω πλέον αυτοπεποίθηση!! K.B. Από μικρή, λόγω των πεταχτών & μεγάλων αυτιών μου, ένιωθα ανασφαλής. Προσπαθούσα να τα κρύψω με τα μαλλιά μου και στις κοινωνικές μου σχέσεις ήμουν ντροπαλή & ένιωθα άβολα. Πριν 3 μήνες εγχειρίστηκα από τον ιατρό Ι. Γιαννά. Το αποτέλεσμα είναι εξαιρετικό. Τα αυτιά μου είναι συμμετρικά & εγώ έχω πλέον αυτοπεποίθηση!! M.A. Εγγραφή στο Newsletter Συμπληρώστε το email σας για να λαμβάνετε εντελώς δωρεάν κορυφαία ιατρική ενημερώση για τις εξελίξεις στην πλαστική χειρουργική. ΛΙΓΑ ΛΟΓΙΑ Οι υπηρεσίες που προσφέρει ο ιατρός βασίζονται στην καθαρά ανθρωποκεντρική προσέγγιση του ασθενή και έχουν σαν στόχο την προσφορά της καλύτερης δυνατότητας και επιστημονικά ενδεδειγμένης λύσης ανάλογα με το ιατρικό πρόβλημα, τις επιδιώξεις και τις επιθυμίες του ασθενή. Athens Plastic Surgery Λεωφ. Βασιλίσσης Σοφίας 63, ΤΚ 11521, 5ος οροφος T. 210 89 43 033 Δέχεται κατόπιν ραντεβού Ευρωκλινική Αθηνών Αθανασιάδου 3-5, ΤΚ 115 21, 4ος όροφος Τ. 210 6416816 Δέχεται κατόπιν ραντεβού Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment ΧΡΗΣΙΜΟΙ ΣΥΝΔΕΣΜΟΙ ΔΡ. ΙΩΑΝΝΗΣ ΓΙΑΝΝΑΣ FACELIFT ΒΛΕΦΑΡΟΠΛΑΣΤΙΚΗ ΡΙΝΟΠΛΑΣΤΙΚΗ ΑΥΞΗΤΙΚΗ ΣΤΗΘΟΥΣ ΟΓΚΟΛΟΓΙΑ COPYRIGHT © 2018 ATHENS PLASTIC SURGERY // ALL RIGHTS RESERVED CREATED BY EXTROVERT | Business Communications {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"\\/*\"},{\"not\":{\"href_matches\":[\"\\/wp-*.php\",\"\\/wp-admin\\/*\",\"\\/wp-content\\/uploads\\/*\",\"\\/wp-content\\/*\",\"\\/wp-content\\/plugins\\/*\",\"\\/wp-content\\/themes\\/drgiannas\\/*\",\"\\/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); /* ]]> */ /* <![CDATA[ */ ( function( domain, translations ) { var localeData = translations.locale_data[ domain ] || translations.locale_data.messages; localeData[\"\"].domain = domain; wp.i18n.setLocaleData( localeData, domain ); } )( \"contact-form-7\", {\"translation-revision-date\":\"2024-08-02 09:16:28+0000\",\"generator\":\"GlotPress\\/4.0.1\",\"domain\":\"messages\",\"locale_data\":{\"messages\":{\"\":{\"domain\":\"messages\",\"plural-forms\":\"nplurals=2; plural=n != 1;\",\"lang\":\"el_GR\"},\"This contact form is placed in the wrong place.\":[\"\\u0397 \\u03c6\\u03cc\\u03c1\\u03bc\\u03b1 \\u03b5\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03af\\u03b1\\u03c2 \\u03b5\\u03af\\u03bd\\u03b1\\u03b9 \\u03c3\\u03b5 \\u03bb\\u03ac\\u03b8\\u03bf\\u03c2 \\u03b8\\u03ad\\u03c3\\u03b7.\"],\"Error:\":[\"\\u03a3\\u03c6\\u03ac\\u03bb\\u03bc\\u03b1:\"]}},\"comment\":{\"reference\":\"includes\\/js\\/index.js\"}} ); /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.athensplasticsurgery.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; /* ]]> */ /* <![CDATA[ */ var wpcf7_recaptcha = { \"sitekey\": \"6Ldy96EUAAAAANEMM4bEJ1HGYsn82ZE3VNsfB4xX\", \"actions\": { \"homepage\": \"homepage\", \"contactform\": \"contactform\" } }; /* ]]> */",
+      "ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΜΑΖΙ ΜΑΣ Ενδιαφέρομαι ναΚΛΕΙΣΩ ΡΑΝΤΕΒΟΥΚΑΝΩ ΕΡΩΤΗΣΗ Για ποιο είδος θεραπείας ενδιαφέρεστεΕΠΕΜΒΑΤΙΚΗΜΗ ΕΠΕΜΒΑΤΙΚΗΜΙΚΡΟΧΕΙΡΟΥΡΓΙΚΗΓΕΝΙΚΑ Γράψτε την ερώτησή σας ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ ΓΡΑΦΕΙΟΥ Δέχεται κατόπιν ραντεβού ΔΕΥΤΕΡΑ 17:00 - 21:00 ΤΡΙΤΗ 17:00 - 21:00 ΤΕΤΑΡΤΗ 12:00 - 16:00 ΠΕΜΠΤΗ 17:00 - 21:00 ΠΑΡΑΣΚΕΥΗ 12:00 - 16:00 ΕΠΙΚΟΙΝΩΝΙΑ Τηλέφωνο: 210 89 43 033 Email: info@athensplasticsurgery.gr",
+      "Τηλέφωνο: 210 89 43 033 Email: info@athensplasticsurgery.gr",
+      "IN BRIEF The offered services are based on a human-centered approach of the patient and are aimed at offering the best possible and scientifically appropriate solution depending on the patient’s medical problem, aspirations and desires. Athens Plastic Surgery 63 Vassilisis Sofias Ave., 15451 GR, 5th floor T. +30 210 89 43 033 Upon appointment Euroclinic of Athens S.A. 3-5 Athanasiadou str. 115 21 GR, 4th floor Τ. +30 210 6416816 Upon appointment Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment USEFUL LINKS DR. JOHN GIANNAS FACELIFT BLEPHAROPLASTY RHINOPLASTY BREAST AUGMENTATION IMPLANTS ONCOLOGY",
+      "Nav Αρχική ΔΡ. Γιαννάς Αρθρογραφία στον τύπο Βιογραφικό Επιστημονικές δημοσιεύσεις Ιατρείο Συμμετοχή σε συνέδρια Συνεργασίες Αισθητική Χειρουργική Πρόσωπο Facelift – Πλαστική Προσώπου Βλεφαροπλαστική Πλαστική Λαιμού Ρινοπλαστική Ωτοπλαστική Στήθος Ανόρθωση & Αυξητική Στήθους Ανόρθωση Στήθους Αυξητική Στήθους Μείωση Στήθους Σώμα Ανόρθωση Γλουτών Βραχιονοπλαστική Κοιλιοπλαστική Λιπογλυπτική Επανορθωτική Χειρουργική Ογκολογία Σπίλοι και Κακοήθες Μελάνωμα Καρκίνος Δέρματος Καρκίνος Κεφαλής Τραχήλου Σάρκωμα Μικροχειρουργική Μεταμόσχευση Ελεύθερων Κρημνών Χειρουργική Άκρας Χειρός Γενικά Αποκατάσταση Στήθους Από Μαστεκτομή Εγκαύματα Συγγενείς Ανωμαλίες Τραύματα Ατυχήματα Μη επεμβατική αισθητική ιατρική Laser Αγγειακές Δυσπλασίες & Αιμαγγείωμα Ανάπλαση Προσώπου Ανάπλαση Σώματος Αποτρίχωση Laser Alexandrite Κηλίδες & Δυσχρωμίες Ραγάδες Υπερτροφικές Ουλές & Χηλοειδές Ενέσιμα Botox – Dysport Μεσοθεραπεία Υαλουρονικό Νήματα Γενικά Για Άνδρες Γυναικομαστία Κοιλιοπλαστική Λιπογλυπτική Πλαστική Προσώπου Είπαν για εμάς Επικοινωνία Logo DrGiannas EN EL Testimonials Contact Logo DrGiannas 210 89 43 033 JOHN GIANNAS MD. FRCS(Plas), FEBOPRAS COSMETIC & RECONSTRUCTIVE ΠΛΑΣΤΙΚΗ SURGICAL Dr John Giannas Dr John Giannas Cosmetic Surgical Procedures Cosmetic Surgical Procedures Facial Surgery Breast Body Surgery Reconstructive Surgical Procedures Reconstructive Surgical Procedures Oncology Microsurgery General Information Non surgical cosmetic treatments Non surgical cosmetic treatments Laser Injectables – Fillers Thread Lift For Men For Men CONTACT US Interested forMAKE AN APPOINTMENTMAKE A QUESTION Which type of treatment are you interested inSURGICALNON SURGICALMICROSURGERYGENERAL Your Question WORKING HOURS Upon appointment MONDAY 17:00 - 21:00 TUESDAY 17:00 - 21:00 WEDNESDAY 12:00 - 16:00 THURSDAY 17:00 - 21:00 FRIDAY 12:00 - 16:00 CONTACT Telephone Number: +30 210 89 43 033 Email: info@athensplasticsurgery.gr TESTIMONIALS ­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­Dr Giannas thank you so much. Your Kindness was really appreciated. You have changed my life. Olivia N. Dr Giannas thank you for what you have done, I just want to say that I appreciate my new tummy. Thank you doesn’t quite touch how much it has changed me but I don’t know the right words. I am very grateful and I promised to look after it. Jasmine N. Thank you for all you have done for me. I’m much more confident since my operation I have new sense of life where I don’t have to cover my back all the time. Julia M. Mr. Giannas thank you so much for the excellent work on my breasts, I’m so happy. Amy W. Mr. Giannas I want to thank you for being so thoughtful and to let you know how much your kindness meant and for giving me my life back. I’m so very grateful. Nicole N. Dear Dr Giannas, thank you so much for such a positive result, I couldn’t have expected any better! Please thank all your team. Best regards J. J. A massive thank you. You have all being amazing. I love my new ears. My confidence has grown so much and can now finally wear my hair up! B. B. Mr. Giannas You’re Brilliant! Thank you for doing an amazing job. Lucia D. Mr. Giannas I’m so pleased with the surgery. The results are amazing. Thank you so much. John K. Dear Mr. Giannas, A very big thank you to you and your team for all the special care and attention that I received. I wouldn’t suggest to anyone to rush into a tummy tuck lightly but I personally have absolutely no regrets! I feel more confident with myself and life in general. It really has made a huge difference to me and I feel so very lucky. Thank you from the bottom of my heart! Jenny B. To Dr Giannas I want to thank you so much for performing my breast reduction. I can’t believe the difference already, I’m truly grateful and appreciate everything you have done. I will remember you forever. Thank you again for performing my life changing operation Dr Giannas. From the bottom of my heart thank you. Mary J. Subscribe to our Newsletter IN BRIEF The offered services are based on a human-centered approach of the patient and are aimed at offering the best possible and scientifically appropriate solution depending on the patient’s medical problem, aspirations and desires. Athens Plastic Surgery 63 Vassilisis Sofias Ave., 15451 GR, 5th floor T. +30 210 89 43 033 Upon appointment Euroclinic of Athens S.A. 3-5 Athanasiadou str. 115 21 GR, 4th floor Τ. +30 210 6416816 Upon appointment Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment USEFUL LINKS DR. JOHN GIANNAS FACELIFT BLEPHAROPLASTY RHINOPLASTY BREAST AUGMENTATION IMPLANTS ONCOLOGY COPYRIGHT © 2018 ATHENS PLASTIC SURGERY // ALL RIGHTS RESERVED CREATED BY EXTROVERT | Business Communications {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"\\/*\"},{\"not\":{\"href_matches\":[\"\\/wp-*.php\",\"\\/wp-admin\\/*\",\"\\/wp-content\\/uploads\\/*\",\"\\/wp-content\\/*\",\"\\/wp-content\\/plugins\\/*\",\"\\/wp-content\\/themes\\/drgiannas\\/*\",\"\\/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.athensplasticsurgery.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; /* ]]> */ /* <![CDATA[ */ var wpcf7_recaptcha = { \"sitekey\": \"6Ldy96EUAAAAANEMM4bEJ1HGYsn82ZE3VNsfB4xX\", \"actions\": { \"homepage\": \"homepage\", \"contactform\": \"contactform\" } }; /* ]]> */",
+      "CONTACT US Interested forMAKE AN APPOINTMENTMAKE A QUESTION Which type of treatment are you interested inSURGICALNON SURGICALMICROSURGERYGENERAL Your Question WORKING HOURS Upon appointment MONDAY 17:00 - 21:00 TUESDAY 17:00 - 21:00 WEDNESDAY 12:00 - 16:00 THURSDAY 17:00 - 21:00 FRIDAY 12:00 - 16:00 CONTACT Telephone Number: +30 210 89 43 033 Email: info@athensplasticsurgery.gr",
+      "Telephone Number: +30 210 89 43 033 Email: info@athensplasticsurgery.gr"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/athensplasticsurgery/"
+      },
+      {
+        "href": "https://www.instagram.com/drgiannas/"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://www.athensplasticsurgery.gr/",
+        "method": "get",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "s",
+          "submit"
+        ],
+        "submitLabels": [],
+        "fields": [
+          {
+            "name": "s",
+            "type": "search",
+            "label": "Search...",
+            "required": true
+          },
+          {
+            "name": "submit",
+            "type": "submit",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://athensplasticsurgery.us12.list-manage.com/subscribe/post-json?u=aef0021dce1d881f724e21339&id=6134450fa5&c=?",
+        "method": "get",
+        "purposeHint": "newsletter",
+        "fieldNames": [
+          "EMAIL",
+          "subscribe",
+          "b_0620e51801f99e2b8118960cc_aa9d6b6227"
+        ],
+        "submitLabels": [],
+        "fields": [
+          {
+            "name": "EMAIL",
+            "type": "email",
+            "label": "ΓΡΑΨΤΕ ΤΟ EMAIL ΣΑΣ",
+            "required": false
+          },
+          {
+            "name": "subscribe",
+            "type": "button",
+            "required": false
+          },
+          {
+            "name": "b_0620e51801f99e2b8118960cc_aa9d6b6227",
+            "type": "submit",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1/#wpcf7-f176-p174-o1",
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "_wpcf7",
+          "_wpcf7_version",
+          "_wpcf7_locale",
+          "_wpcf7_unit_tag",
+          "_wpcf7_container_post",
+          "_wpcf7_posted_data_hash",
+          "_wpcf7_recaptcha_response",
+          "menu-600",
+          "your-name",
+          "your-email",
+          "your-telephone",
+          "menu-601",
+          "your-message",
+          "submit"
+        ],
+        "submitLabels": [
+          "ΑΠΟΣΤΟΛΗ"
+        ],
+        "fields": [
+          {
+            "name": "_wpcf7",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_version",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_locale",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_unit_tag",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_container_post",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_posted_data_hash",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_recaptcha_response",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "menu-600",
+            "type": "select",
+            "required": true
+          },
+          {
+            "name": "your-name",
+            "type": "text",
+            "label": "ΟΝΟΜΑΤΕΠΩΝΥΜΟ",
+            "required": true
+          },
+          {
+            "name": "your-email",
+            "type": "email",
+            "label": "EMAIL",
+            "required": true
+          },
+          {
+            "name": "your-telephone",
+            "type": "text",
+            "label": "ΤΗΛΕΦΩΝΟ",
+            "required": false
+          },
+          {
+            "name": "menu-601",
+            "type": "select",
+            "required": true
+          },
+          {
+            "name": "your-message",
+            "type": "textarea",
+            "label": "Μήνυμα",
+            "required": true
+          },
+          {
+            "type": "submit",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.athensplasticsurgery.gr/?lang=en",
+        "method": "get",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "s",
+          "submit"
+        ],
+        "submitLabels": [],
+        "fields": [
+          {
+            "name": "s",
+            "type": "search",
+            "label": "Search...",
+            "required": true
+          },
+          {
+            "name": "submit",
+            "type": "submit",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://www.athensplasticsurgery.gr/epikoinonia/?lang=en#wpcf7-f968-p792-o1",
+        "method": "post",
+        "purposeHint": "contact",
+        "fieldNames": [
+          "_wpcf7",
+          "_wpcf7_version",
+          "_wpcf7_locale",
+          "_wpcf7_unit_tag",
+          "_wpcf7_container_post",
+          "_wpcf7_posted_data_hash",
+          "_wpcf7_recaptcha_response",
+          "menu-602",
+          "your-name",
+          "your-email",
+          "your-telephone",
+          "menu-603",
+          "your-message",
+          "submit"
+        ],
+        "submitLabels": [
+          "SUBMIT"
+        ],
+        "fields": [
+          {
+            "name": "_wpcf7",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_version",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_locale",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_unit_tag",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_container_post",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_posted_data_hash",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "_wpcf7_recaptcha_response",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "menu-602",
+            "type": "select",
+            "required": true
+          },
+          {
+            "name": "your-name",
+            "type": "text",
+            "label": "NAME",
+            "required": true
+          },
+          {
+            "name": "your-email",
+            "type": "email",
+            "label": "EMAIL",
+            "required": true
+          },
+          {
+            "name": "your-telephone",
+            "type": "text",
+            "label": "TELEPHONE NUMBER",
+            "required": false
+          },
+          {
+            "name": "menu-603",
+            "type": "select",
+            "required": true
+          },
+          {
+            "name": "your-message",
+            "type": "textarea",
+            "label": "Message",
+            "required": true
+          },
+          {
+            "type": "submit",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Home - Athensplasticsurgery | By Dr. Giannas",
+    "metaDescription": "Drgiannas",
+    "canonicalUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+    "language": "en-US",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "openGraphTitle": "Home - Athensplasticsurgery | By Dr. Giannas",
+    "openGraphImage": "https://www.athensplasticsurgery.gr/wp-content/uploads/2018/02/hero-1.jpg"
+  },
+  "imageReferences": [
+    {
+      "url": "https://www.athensplasticsurgery.gr/wp-content/uploads/2018/03/fb-share.png",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/personalised-gr.png",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athensplasticsurgery.gr/wp-content/uploads/2018/02/home-afksitiki.jpg",
+      "alt": "Service",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athensplasticsurgery.gr/wp-content/uploads/2018/02/home-rinoplastiki.jpg",
+      "alt": "Service",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athensplasticsurgery.gr/wp-content/uploads/2018/02/home-facelift.jpg",
+      "alt": "Service",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athensplasticsurgery.gr/wp-content/uploads/2018/02/bio-photo-dr-giannas.jpg",
+      "alt": "Bio",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/ASPS-INTERNATIONAL-new.png",
+      "alt": "Clinic",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/ebopras_white-background.jpg",
+      "alt": "Clinic",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/general-medical-council.jpg",
+      "alt": "Clinic",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/hespras.jpg",
+      "alt": "Clinic",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/isaps2.jpg",
+      "alt": "Clinic",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/Royal-College-Surgeons.jpg",
+      "alt": "Clinic",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athensplasticsurgery.gr/wp-content/uploads/2018/03/drgiannas-hero-1.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio",
+      "pageType": "about",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio",
+          "retrievedAt": "2026-03-31T13:10:42.783Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/logo.svg",
+      "alt": "Images",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio",
+          "retrievedAt": "2026-03-31T13:10:42.783Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/quote.png",
+      "alt": "Quote",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:10:44.537Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athensplasticsurgery.gr/wp-content/uploads/2018/02/hero-1.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+      "pageType": "homepage",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+          "retrievedAt": "2026-03-31T13:10:45.509Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.athensplasticsurgery.gr/wp-content/themes/drgiannas/images/personalised.png",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+          "retrievedAt": "2026-03-31T13:10:45.509Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "210 89 43 033",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 6416816",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2024-08-02 09",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "210 89 43 033",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "ΛΙΓΑ ΛΟΓΙΑ Οι υπηρεσίες που προσφέρει ο ιατρός βασίζονται στην καθαρά ανθρωποκεντρική προσέγγιση του ασθενή και έχουν σαν στόχο την προσφορά της καλύτερης δυνατότητας και επιστημονικά ενδεδειγμένης λύσης ανάλογα με το ιατρικό πρόβλημα, τις επιδιώξεις και τις επιθυμίες του ασθενή. Athens Plastic Surgery Λεωφ. Βασιλίσσης Σοφίας 63, ΤΚ 11521, 5ος οροφος T. 210 89 43 033 Δέχεται κατόπιν ραντεβού Ευρωκλινική Αθηνών Αθανασιάδου 3-5, ΤΚ 115 21, 4ος όροφος Τ. 210 6416816 Δέχεται κατόπιν ραντεβού Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment ΧΡΗΣΙΜΟΙ ΣΥΝΔΕΣΜΟΙ ΔΡ. ΙΩΑΝΝΗΣ ΓΙΑΝΝΑΣ FACELIFT ΒΛΕΦΑΡΟΠΛΑΣΤΙΚΗ ΡΙΝΟΠΛΑΣΤΙΚΗ ΑΥΞΗΤΙΚΗ ΣΤΗΘΟΥΣ ΟΓΚΟΛΟΓΙΑ",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "/* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.athensplasticsurgery.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; /* ]]> */",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.athensplasticsurgery.gr/",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athensplasticsurgery.gr/",
+          "retrievedAt": "2026-03-31T13:10:40.893Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio",
+      "pageType": "about",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio",
+          "retrievedAt": "2026-03-31T13:10:42.783Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@athensplasticsurgery.gr",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:10:44.537Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Nav Αρχική ΔΡ. Γιαννάς Αρθρογραφία στον τύπο Βιογραφικό Επιστημονικές δημοσιεύσεις Ιατρείο Συμμετοχή σε συνέδρια Συνεργασίες Αισθητική Χειρουργική Πρόσωπο Facelift – Πλαστική Προσώπου Βλεφαροπλαστική Πλαστική Λαιμού Ρινοπλαστική Ωτοπλαστική Στήθος Ανόρθωση & Αυξητική Στήθους Ανόρθωση Στήθους Αυξητική Στήθους Μείωση Στήθους Σώμα Ανόρθωση Γλουτών Βραχιονοπλαστική Κοιλιοπλαστική Λιπογλυπτική Επανορθωτική Χειρουργική Ογκολογία Σπίλοι και Κακοήθες Μελάνωμα Καρκίνος Δέρματος Καρκίνος Κεφαλής Τραχήλου Σάρκωμα Μικροχειρουργική Μεταμόσχευση Ελεύθερων Κρημνών Χειρουργική Άκρας Χειρός Γενικά Αποκατάσταση Στήθους Από Μαστεκτομή Εγκαύματα Συγγενείς Ανωμαλίες Τραύματα Ατυχήματα Μη επεμβατική αισθητική ιατρική Laser Αγγειακές Δυσπλασίες & Αιμαγγείωμα Ανάπλαση Προσώπου Ανάπλαση Σώματος Αποτρίχωση Laser Alexandrite Κηλίδες & Δυσχρωμίες Ραγάδες Υπερτροφικές Ουλές & Χηλοειδές Ενέσιμα Botox – Dysport Μεσοθεραπεία Υαλουρονικό Νήματα Γενικά Για Άνδρες Γυναικομαστία Κοιλιοπλαστική Λιπογλυπτική Πλαστική Προσώπου Είπαν για εμάς Επικοινωνία Logo DrGiannas EN EL Ειπαν για εμας Επικοινωνια Logo DrGiannas 210 89 43 033 ΙΩΑΝΝΗΣ ΓΙΑΝΝΑΣ MD. FRCS(Plas), FEBOPRAS ΑΙΣΘΗΤΙΚΗ & ΕΠΑΝΟΡΘΩΤΙΚΗ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΔΡ. Ιωαννης Γιαννας ΔΡ. Ιωαννης Γιαννας ΒιογραφικοΕπιστημονικες δημοσιευσειςΣυμμετοχη σε συνεδριαΑρθρογραφια στον τυποΙατρειοΣυνεργασιες Αισθητικη Χειρουργικη Αισθητικη Χειρουργικη Προσωπο ΡινοπλαστικηFacelift - Πλαστικη ΠροσωπουΒλεφαροπλαστικηΠλαστικη ΛαιμουΩτοπλαστικη Στηθος Ανορθωση & Αυξητικη ΣτηθουςΑνορθωση ΣτηθουςΑυξητικη ΣτηθουςΜειωση Στηθους Σωμα ΚοιλιοπλαστικηΒραχιονοπλαστικηΛιπογλυπτικηΑνορθωση ΓλουτωνΑνορθωση Μηρων Επανορθωτικη Χειρουργικη Επανορθωτικη Χειρουργικη Ογκολογια Καρκινος ΔερματοςΣπιλοι και Κακοηθες ΜελανωμαΣαρκωμαΚαρκινος Κεφαλης Τραχηλου Μικροχειρουργικη Χειρουργικη ακρας ΧειροςΜεταμοσχευση Ελευθερων Κρημνων Γενικα Αποκατασταση Στηθους Απο ΜαστεκτομηΣυγγενεις ΑνωμαλιεςΕγκαυματαΤραυματα Ατυχηματα Μη επεμβατικη αισθητικη ιατρικη Μη επεμβατικη αισθητικη ιατρικη Laser Αναπλαση ΠροσωπουΑναπλαση ΣωματοςΚηλιδες & ΔυσχρωμιεςΡαγαδεςΥπερτροφικες Ουλες & ΧηλοειδεςΑγγειακες Δυσπλασιες & ΑιμαγγειωμαΑποτριχωση Laser Alexandrite Ενεσιμα Botox - DysportΥαλουρονικοΜεσοθεραπεια Νηματα Γενικα Για ανδρες Για ανδρες ΓυναικομαστιαΚοιλιοπλαστικηΠλαστικη ΠροσωπουΛιπογλυπτικη ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΜΑΖΙ ΜΑΣ Ενδιαφέρομαι ναΚΛΕΙΣΩ ΡΑΝΤΕΒΟΥΚΑΝΩ ΕΡΩΤΗΣΗ Για ποιο είδος θεραπείας ενδιαφέρεστεΕΠΕΜΒΑΤΙΚΗΜΗ ΕΠΕΜΒΑΤΙΚΗΜΙΚΡΟΧΕΙΡΟΥΡΓΙΚΗΓΕΝΙΚΑ Γράψτε την ερώτησή σας ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ ΓΡΑΦΕΙΟΥ Δέχεται κατόπιν ραντεβού ΔΕΥΤΕΡΑ 17:00 - 21:00 ΤΡΙΤΗ 17:00 - 21:00 ΤΕΤΑΡΤΗ 12:00 - 16:00 ΠΕΜΠΤΗ 17:00 - 21:00 ΠΑΡΑΣΚΕΥΗ 12:00 - 16:00 ΕΠΙΚΟΙΝΩΝΙΑ Τηλέφωνο: 210 89 43 033 Email: info@athensplasticsurgery.gr Είπαν για Εμάς To Dr.Giannas, Thank you for what you’ve done, I just want to say that I appreciate my new tummy. Thank you doesn’t quite touch how much it has changed me but I don’t know the right words. I am very greatful and I promise to look after it. Claire M. Αγαπητέ Δρ Γιαννά, σας ευχαριστώ πάρα πολύ για το τέλειο αποτέλεσμα. Ούτε το είχα φανταστεί το αποτέλεσμα. Η μύτη μου είναι πια τέλεια και εσείς είστε ο υπεύθυνος για αυτό. Σας ευχαριστώ για τις καλύτερες μέρες που έρχονται. Θέλω να ευχαριστήσω και όλη την ομάδα σας για την τέλεια συνεργασία. Αθανασία Θ. Κε Γιαννά σας ευχαριστώ πάρα πολύ για την εξαιρετική δουλειά στο στήθος μου, είμαι τόσο χαρούμενη. Νίκη Κ. Κύριε Γιαννά είστε εξαίρετος άνθρωπος και γιατρός. Σας ευχαριστώ για την εκπληκτική δουλειά που κάνατε! Αντιγόνη Β. Γιατρέ θέλω να σας πω ένα τεράστιο ευχαριστώ. Όλη η ομάδα σας κι εσείς είστε καταπληκτικοί. Λατρεύω τα ‘νέα’ μου αυτιά. Η αυτοπεποίθηση μου έχει αυξηθεί τόσο πολύ και επιτέλους μπορώ να πιάσω τα μαλλιά μου ψηλά χωρίς να ντρέπομαι. Τόνια Τ. Κύριε Γιάννα, θέλω να σας ευχαριστήσω για το γεγονός ότι ήσασταν τόσο προσεκτικός μαζί μου και να σας ευχαριστήσω για τη ζωή που μου δώσατε πίσω. Είμαι πολύ ευγνώμων. Κατερίνα Μ. Κύριε Γιάννα είμαι τόσο ευχαριστημένη με τη χειρουργική επέμβαση. Τα αποτελέσματα είναι εκπληκτικά. Σας ευχαριστώ πάρα πολύ για το τέλειο στήθος μου. Ιουλία Μ. Δρ Γιαννά σας ευχαριστώ για όλα αυτά που κάνατε και θέλω μόνο να σας πω πόσο πολύ μου αρέσει η νέα μου κοιλιά! Το ευχαριστώ είναι πολύ λίγο μπροστά στην αλλαγή που μου χαρίσατε και δεν μπορώ να βρω τα σωστά λόγια να ταιριάζουν. Είμαι πολύ ευγνώμων και υπόσχομαι να φροντίζω το νέο μου εαυτό! Κλαίρη Μ. Δρ Γιαννά σας ευχαριστώ πάρα πολύ. Η καλοσύνη σας και ο επαγγελματισμός σας είναι αυτό που εκτίμησα πραγματικά. Αλλάξατε τη ζωή μου τόσο πολύ. Βίκυ Α. Σας ευχαριστώ για όλα όσα έχετε κάνει για μένα. Μετά το χειρουργείο έχω μεγαλύτερη αυτοπεποίθηση και βλέπω τη ζωή πολύ διαφορετικά από τη στιγμή που δεν χρειάζεται να καλύπτω τα αυτιά μου όλη την ώρα. Δέσποινα Π. Αγαπητέ Δρ Γιαννά, Θέλω τόσο πολύ να σας ευχαριστήσω για το χειρουργείο της μείωσης του στήθους μου. Δεν μπορώ να πιστέψω τη διαφορά ήδη, είμαι πραγματικά ευγνώμων και εκτιμώ όλα όσα κάνατε. Θα σας θυμάμαι για πάντα. Σας ευχαριστώ και πάλι για το χειρουργείο που άλλαξε τη ζωή μου Γεωργία Κ. Αγαπητέ κ. Γιαννά, θέλω να πω ένα μεγάλο ευχαριστώ σε εσάς και την ομάδα σας για όλη την ιδιαίτερη φροντίδα και προσοχή που έλαβα. Όλοι λένε πόσο δύσκολο χειρουργείο είναι η κοιλιοπλαστική μα εγώ δεν μετανιώνω για την επιλογή μου να σας εμπιστευτώ για αυτό το χειρουργείο. Σήμερα αισθάνομαι μεγαλύτερη αυτοπεποίθηση με τον εαυτό μου και τη ζωή γενικά. Το χειρουργείο έχει πραγματικά κάνει μεγάλη διαφορά στον εαυτό μου και αισθάνομαι τόσο πολύ τυχερή. Σας ευχαριστώ από το βάθος της καρδιάς μου! Τζίνα Μ. Αγαπητέ Δρ Γιαννά Σας ευχαριστώ για την υποστήριξη και την ενθάρρυνσή σας καθ’ όλη την διάρκεια του «ταξιδιού» μου. Ήταν μια δύσκολη απόφαση να πάρω, αλλά ο γιατρός με έκανε να νιώθω άνετα σε κάθε βήμα. Ο κ. Γιαννάς έκανε απίστευτη δουλειά και θέλω να ευχαριστήσω και όλη του την ομάδα του που με έκαναν να αισθάνομαι άνετα. Γιατρέ μου χαρίσατε τόσο μεγάλη αυτοπεποίθηση. Ευχαριστώ Κατερίνα Κ. Από μικρή, λόγω των πεταχτών & μεγάλων αυτιών μου, ένιωθα ανασφαλής. Προσπαθούσα να τα κρύψω με τα μαλλιά μου και στις κοινωνικές μου σχέσεις ήμουν ντροπαλή & ένιωθα άβολα. Πριν 3 μήνες εγχειρίστηκα από τον ιατρό Ι. Γιαννά. Το αποτέλεσμα είναι εξαιρετικό. Τα αυτιά μου είναι συμμετρικά & εγώ έχω πλέον αυτοπεποίθηση!! K.B. Από μικρή, λόγω των πεταχτών & μεγάλων αυτιών μου, ένιωθα ανασφαλής. Προσπαθούσα να τα κρύψω με τα μαλλιά μου και στις κοινωνικές μου σχέσεις ήμουν ντροπαλή & ένιωθα άβολα. Πριν 3 μήνες εγχειρίστηκα από τον ιατρό Ι. Γιαννά. Το αποτέλεσμα είναι εξαιρετικό. Τα αυτιά μου είναι συμμετρικά & εγώ έχω πλέον αυτοπεποίθηση!! M.A. Εγγραφή στο Newsletter Συμπληρώστε το email σας για να λαμβάνετε εντελώς δωρεάν κορυφαία ιατρική ενημερώση για τις εξελίξεις στην πλαστική χειρουργική. ΛΙΓΑ ΛΟΓΙΑ Οι υπηρεσίες που προσφέρει ο ιατρός βασίζονται στην καθαρά ανθρωποκεντρική προσέγγιση του ασθενή και έχουν σαν στόχο την προσφορά της καλύτερης δυνατότητας και επιστημονικά ενδεδειγμένης λύσης ανάλογα με το ιατρικό πρόβλημα, τις επιδιώξεις και τις επιθυμίες του ασθενή. Athens Plastic Surgery Λεωφ. Βασιλίσσης Σοφίας 63, ΤΚ 11521, 5ος οροφος T. 210 89 43 033 Δέχεται κατόπιν ραντεβού Ευρωκλινική Αθηνών Αθανασιάδου 3-5, ΤΚ 115 21, 4ος όροφος Τ. 210 6416816 Δέχεται κατόπιν ραντεβού Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment ΧΡΗΣΙΜΟΙ ΣΥΝΔΕΣΜΟΙ ΔΡ. ΙΩΑΝΝΗΣ ΓΙΑΝΝΑΣ FACELIFT ΒΛΕΦΑΡΟΠΛΑΣΤΙΚΗ ΡΙΝΟΠΛΑΣΤΙΚΗ ΑΥΞΗΤΙΚΗ ΣΤΗΘΟΥΣ ΟΓΚΟΛΟΓΙΑ COPYRIGHT © 2018 ATHENS PLASTIC SURGERY // ALL RIGHTS RESERVED CREATED BY EXTROVERT | Business Communications {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"\\/*\"},{\"not\":{\"href_matches\":[\"\\/wp-*.php\",\"\\/wp-admin\\/*\",\"\\/wp-content\\/uploads\\/*\",\"\\/wp-content\\/*\",\"\\/wp-content\\/plugins\\/*\",\"\\/wp-content\\/themes\\/drgiannas\\/*\",\"\\/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); /* ]]> */ /* <![CDATA[ */ ( function( domain, translations ) { var localeData = translations.locale_data[ domain ] || translations.locale_data.messages; localeData[\"\"].domain = domain; wp.i18n.setLocaleData( localeData, domain ); } )( \"contact-form-7\", {\"translation-revision-date\":\"2024-08-02 09:16:28+0000\",\"generator\":\"GlotPress\\/4.0.1\",\"domain\":\"messages\",\"locale_data\":{\"messages\":{\"\":{\"domain\":\"messages\",\"plural-forms\":\"nplurals=2; plural=n != 1;\",\"lang\":\"el_GR\"},\"This contact form is placed in the wrong place.\":[\"\\u0397 \\u03c6\\u03cc\\u03c1\\u03bc\\u03b1 \\u03b5\\u03c0\\u03b9\\u03ba\\u03bf\\u03b9\\u03bd\\u03c9\\u03bd\\u03af\\u03b1\\u03c2 \\u03b5\\u03af\\u03bd\\u03b1\\u03b9 \\u03c3\\u03b5 \\u03bb\\u03ac\\u03b8\\u03bf\\u03c2 \\u03b8\\u03ad\\u03c3\\u03b7.\"],\"Error:\":[\"\\u03a3\\u03c6\\u03ac\\u03bb\\u03bc\\u03b1:\"]}},\"comment\":{\"reference\":\"includes\\/js\\/index.js\"}} ); /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.athensplasticsurgery.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; /* ]]> */ /* <![CDATA[ */ var wpcf7_recaptcha = { \"sitekey\": \"6Ldy96EUAAAAANEMM4bEJ1HGYsn82ZE3VNsfB4xX\", \"actions\": { \"homepage\": \"homepage\", \"contactform\": \"contactform\" } }; /* ]]> */",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:10:44.537Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΜΑΖΙ ΜΑΣ Ενδιαφέρομαι ναΚΛΕΙΣΩ ΡΑΝΤΕΒΟΥΚΑΝΩ ΕΡΩΤΗΣΗ Για ποιο είδος θεραπείας ενδιαφέρεστεΕΠΕΜΒΑΤΙΚΗΜΗ ΕΠΕΜΒΑΤΙΚΗΜΙΚΡΟΧΕΙΡΟΥΡΓΙΚΗΓΕΝΙΚΑ Γράψτε την ερώτησή σας ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ ΓΡΑΦΕΙΟΥ Δέχεται κατόπιν ραντεβού ΔΕΥΤΕΡΑ 17:00 - 21:00 ΤΡΙΤΗ 17:00 - 21:00 ΤΕΤΑΡΤΗ 12:00 - 16:00 ΠΕΜΠΤΗ 17:00 - 21:00 ΠΑΡΑΣΚΕΥΗ 12:00 - 16:00 ΕΠΙΚΟΙΝΩΝΙΑ Τηλέφωνο: 210 89 43 033 Email: info@athensplasticsurgery.gr",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:10:44.537Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Τηλέφωνο: 210 89 43 033 Email: info@athensplasticsurgery.gr",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:10:44.537Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:10:44.537Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:10:44.537Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 210 89 43 033",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+          "retrievedAt": "2026-03-31T13:10:45.509Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 210 6416816",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+          "retrievedAt": "2026-03-31T13:10:45.509Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "IN BRIEF The offered services are based on a human-centered approach of the patient and are aimed at offering the best possible and scientifically appropriate solution depending on the patient’s medical problem, aspirations and desires. Athens Plastic Surgery 63 Vassilisis Sofias Ave., 15451 GR, 5th floor T. +30 210 89 43 033 Upon appointment Euroclinic of Athens S.A. 3-5 Athanasiadou str. 115 21 GR, 4th floor Τ. +30 210 6416816 Upon appointment Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment USEFUL LINKS DR. JOHN GIANNAS FACELIFT BLEPHAROPLASTY RHINOPLASTY BREAST AUGMENTATION IMPLANTS ONCOLOGY",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+          "retrievedAt": "2026-03-31T13:10:45.509Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.athensplasticsurgery.gr/?lang=en",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/?lang=en",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+          "retrievedAt": "2026-03-31T13:10:45.509Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio?lang=en",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio?lang=en",
+      "pageType": "about",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio?lang=en",
+          "retrievedAt": "2026-03-31T13:10:47.927Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Nav Αρχική ΔΡ. Γιαννάς Αρθρογραφία στον τύπο Βιογραφικό Επιστημονικές δημοσιεύσεις Ιατρείο Συμμετοχή σε συνέδρια Συνεργασίες Αισθητική Χειρουργική Πρόσωπο Facelift – Πλαστική Προσώπου Βλεφαροπλαστική Πλαστική Λαιμού Ρινοπλαστική Ωτοπλαστική Στήθος Ανόρθωση & Αυξητική Στήθους Ανόρθωση Στήθους Αυξητική Στήθους Μείωση Στήθους Σώμα Ανόρθωση Γλουτών Βραχιονοπλαστική Κοιλιοπλαστική Λιπογλυπτική Επανορθωτική Χειρουργική Ογκολογία Σπίλοι και Κακοήθες Μελάνωμα Καρκίνος Δέρματος Καρκίνος Κεφαλής Τραχήλου Σάρκωμα Μικροχειρουργική Μεταμόσχευση Ελεύθερων Κρημνών Χειρουργική Άκρας Χειρός Γενικά Αποκατάσταση Στήθους Από Μαστεκτομή Εγκαύματα Συγγενείς Ανωμαλίες Τραύματα Ατυχήματα Μη επεμβατική αισθητική ιατρική Laser Αγγειακές Δυσπλασίες & Αιμαγγείωμα Ανάπλαση Προσώπου Ανάπλαση Σώματος Αποτρίχωση Laser Alexandrite Κηλίδες & Δυσχρωμίες Ραγάδες Υπερτροφικές Ουλές & Χηλοειδές Ενέσιμα Botox – Dysport Μεσοθεραπεία Υαλουρονικό Νήματα Γενικά Για Άνδρες Γυναικομαστία Κοιλιοπλαστική Λιπογλυπτική Πλαστική Προσώπου Είπαν για εμάς Επικοινωνία Logo DrGiannas EN EL Testimonials Contact Logo DrGiannas 210 89 43 033 JOHN GIANNAS MD. FRCS(Plas), FEBOPRAS COSMETIC & RECONSTRUCTIVE ΠΛΑΣΤΙΚΗ SURGICAL Dr John Giannas Dr John Giannas Cosmetic Surgical Procedures Cosmetic Surgical Procedures Facial Surgery Breast Body Surgery Reconstructive Surgical Procedures Reconstructive Surgical Procedures Oncology Microsurgery General Information Non surgical cosmetic treatments Non surgical cosmetic treatments Laser Injectables – Fillers Thread Lift For Men For Men CONTACT US Interested forMAKE AN APPOINTMENTMAKE A QUESTION Which type of treatment are you interested inSURGICALNON SURGICALMICROSURGERYGENERAL Your Question WORKING HOURS Upon appointment MONDAY 17:00 - 21:00 TUESDAY 17:00 - 21:00 WEDNESDAY 12:00 - 16:00 THURSDAY 17:00 - 21:00 FRIDAY 12:00 - 16:00 CONTACT Telephone Number: +30 210 89 43 033 Email: info@athensplasticsurgery.gr TESTIMONIALS ­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­Dr Giannas thank you so much. Your Kindness was really appreciated. You have changed my life. Olivia N. Dr Giannas thank you for what you have done, I just want to say that I appreciate my new tummy. Thank you doesn’t quite touch how much it has changed me but I don’t know the right words. I am very grateful and I promised to look after it. Jasmine N. Thank you for all you have done for me. I’m much more confident since my operation I have new sense of life where I don’t have to cover my back all the time. Julia M. Mr. Giannas thank you so much for the excellent work on my breasts, I’m so happy. Amy W. Mr. Giannas I want to thank you for being so thoughtful and to let you know how much your kindness meant and for giving me my life back. I’m so very grateful. Nicole N. Dear Dr Giannas, thank you so much for such a positive result, I couldn’t have expected any better! Please thank all your team. Best regards J. J. A massive thank you. You have all being amazing. I love my new ears. My confidence has grown so much and can now finally wear my hair up! B. B. Mr. Giannas You’re Brilliant! Thank you for doing an amazing job. Lucia D. Mr. Giannas I’m so pleased with the surgery. The results are amazing. Thank you so much. John K. Dear Mr. Giannas, A very big thank you to you and your team for all the special care and attention that I received. I wouldn’t suggest to anyone to rush into a tummy tuck lightly but I personally have absolutely no regrets! I feel more confident with myself and life in general. It really has made a huge difference to me and I feel so very lucky. Thank you from the bottom of my heart! Jenny B. To Dr Giannas I want to thank you so much for performing my breast reduction. I can’t believe the difference already, I’m truly grateful and appreciate everything you have done. I will remember you forever. Thank you again for performing my life changing operation Dr Giannas. From the bottom of my heart thank you. Mary J. Subscribe to our Newsletter IN BRIEF The offered services are based on a human-centered approach of the patient and are aimed at offering the best possible and scientifically appropriate solution depending on the patient’s medical problem, aspirations and desires. Athens Plastic Surgery 63 Vassilisis Sofias Ave., 15451 GR, 5th floor T. +30 210 89 43 033 Upon appointment Euroclinic of Athens S.A. 3-5 Athanasiadou str. 115 21 GR, 4th floor Τ. +30 210 6416816 Upon appointment Fitzroy Square Hospital 14 Fitzroy Square Fitzrovia, London W1T 6AH Upon appointment USEFUL LINKS DR. JOHN GIANNAS FACELIFT BLEPHAROPLASTY RHINOPLASTY BREAST AUGMENTATION IMPLANTS ONCOLOGY COPYRIGHT © 2018 ATHENS PLASTIC SURGERY // ALL RIGHTS RESERVED CREATED BY EXTROVERT | Business Communications {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"\\/*\"},{\"not\":{\"href_matches\":[\"\\/wp-*.php\",\"\\/wp-admin\\/*\",\"\\/wp-content\\/uploads\\/*\",\"\\/wp-content\\/*\",\"\\/wp-content\\/plugins\\/*\",\"\\/wp-content\\/themes\\/drgiannas\\/*\",\"\\/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); /* ]]> */ /* <![CDATA[ */ var wpcf7 = { \"api\": { \"root\": \"https:\\/\\/www.athensplasticsurgery.gr\\/wp-json\\/\", \"namespace\": \"contact-form-7\\/v1\" } }; /* ]]> */ /* <![CDATA[ */ var wpcf7_recaptcha = { \"sitekey\": \"6Ldy96EUAAAAANEMM4bEJ1HGYsn82ZE3VNsfB4xX\", \"actions\": { \"homepage\": \"homepage\", \"contactform\": \"contactform\" } }; /* ]]> */",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+          "retrievedAt": "2026-03-31T13:10:49.759Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "CONTACT US Interested forMAKE AN APPOINTMENTMAKE A QUESTION Which type of treatment are you interested inSURGICALNON SURGICALMICROSURGERYGENERAL Your Question WORKING HOURS Upon appointment MONDAY 17:00 - 21:00 TUESDAY 17:00 - 21:00 WEDNESDAY 12:00 - 16:00 THURSDAY 17:00 - 21:00 FRIDAY 12:00 - 16:00 CONTACT Telephone Number: +30 210 89 43 033 Email: info@athensplasticsurgery.gr",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+          "retrievedAt": "2026-03-31T13:10:49.759Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Telephone Number: +30 210 89 43 033 Email: info@athensplasticsurgery.gr",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+          "retrievedAt": "2026-03-31T13:10:49.759Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+          "retrievedAt": "2026-03-31T13:10:49.759Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+      "sourcePageUrl": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+          "retrievedAt": "2026-03-31T13:10:49.759Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://www.athensplasticsurgery.gr/",
+    "finalOrigin": "https://www.athensplasticsurgery.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://www.athensplasticsurgery.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:10:39.472Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [
+        "/rsssitemap.xml",
+        "/rsslatest.xml",
+        "/htmlsitemap.htm"
+      ],
+      "disallowRules": [],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://www.athensplasticsurgery.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:10:37.977Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://www.athensplasticsurgery.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/press",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/presentations",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/medical",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/conferences",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/colaborations",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/facelift",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/vlefaroplastiki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/plastiki-laimou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/rinoplastiki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/otoplastiki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/anorthosi-auksitiki-stithous",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/anorthosi-stithous",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/auksitiki-stithous",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/meiwsh-stithous",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/anorthosi-gloyton",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:40.895Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:42.785Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/vraxeionoplastiki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio",
+        "timestamp": "2026-03-31T13:10:42.785Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/koilioplastiki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio",
+        "timestamp": "2026-03-31T13:10:42.785Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:44.539Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/lipoglytpiki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "timestamp": "2026-03-31T13:10:44.539Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/?lang=en",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.athensplasticsurgery.gr/",
+        "timestamp": "2026-03-31T13:10:45.510Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio?lang=en",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/press?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/presentations?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/medical?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/conferences?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/colaborations?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/facelift?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/vlefaroplastiki?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/plastiki-laimou?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/rinoplastiki?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/prosopo/otoplastiki?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/anorthosi-auksitiki-stithous?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/anorthosi-stithous?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/auksitiki-stithous?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/stithos/meiwsh-stithous?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/anorthosi-gloyton?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/vraxeionoplastiki?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:45.511Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio?lang=en",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:47.928Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/koilioplastiki?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio?lang=en",
+        "timestamp": "2026-03-31T13:10:47.929Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.athensplasticsurgery.gr/?lang=en",
+        "timestamp": "2026-03-31T13:10:49.761Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/aesthtic-surgery/body/lipoglytpiki?lang=en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+        "timestamp": "2026-03-31T13:10:49.762Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:10:53.176Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:10:55.924Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/?lang=en",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:10:57.945Z"
+      },
+      {
+        "url": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:11:00.571Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

@@ -1,0 +1,1991 @@
+{
+  "domain": "cardioprolipsis.gr",
+  "collectedAt": "2026-03-31T13:22:33.234Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/cardioprolipsis.gr-home-cce933ff",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://cardioprolipsis.gr/",
+      "finalUrl": "https://cardioprolipsis.gr/el",
+      "fetchedAt": "2026-03-31T13:22:22.218Z",
+      "metadata": {
+        "title": "Cardioprolipsis - Το πολυδύναμο καρδιολογικό ιατρείο του κ. Βαχλιώτη",
+        "metaDescription": "Το καρδιολογικό ιατρείο του κ. Βαχλιώτη είναι μια σύγχρονη καρδιολογική μονάδα παροχής υψηλού επιπέδου ποιοτικών ιατρικών υπηρεσιών.",
+        "language": "el-gr",
+        "openGraphTitle": "Καρδιολογικό Ιατρείο Cardioprolipsis",
+        "openGraphDescription": "Cardioprolipsis - Το πολυδύναμο καρδιολογικό ιατρείο του κ. Βαχλιώτη",
+        "openGraphImage": "https://cardioprolipsis.gr/images/logo.png"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Cardioprolipsis"
+        },
+        {
+          "level": "h2",
+          "text": "ΕΞΕΙΔΙΚΕΥΣΗ ΚΑΙ ΕΜΠΕΙΡΙΑ"
+        },
+        {
+          "level": "h2",
+          "text": "ΠΡΩΤΟΠΟΡΟΙ ΣΤΗΝ ΤΗΛΕΪΑΤΡΙΚΗ"
+        },
+        {
+          "level": "h2",
+          "text": "ΝΟΙΑΖΟΜΑΣΤΕ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΣΑΣ"
+        },
+        {
+          "level": "h2",
+          "text": "ΓΙΑΤΙ ΞΕΧΩΡΙΖΟΥΜΕ"
+        },
+        {
+          "level": "h2",
+          "text": "ΓΝΩΡΙΣΤΕ ΤΟΝ ΓΙΑΤΡΟ ΜΑΣ"
+        },
+        {
+          "level": "h2",
+          "text": "ΤΑ ΠΡΟΣΦΑΤΑ ΑΡΘΡΑ ΜΑΣ"
+        },
+        {
+          "level": "h3",
+          "text": "Το ιατρείο μας δεν είναι ένα απλό καρδιολογικό ιατρείο…"
+        },
+        {
+          "level": "h3",
+          "text": "ΚΑΡΔΙΟΛΟΓΙΚΕΣ ΥΠΗΡΕΣΙΕΣ"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΞΕΙΔΙΚΕΥΜΕΝΕΣ ΥΠΗΡΕΣΙΕΣ"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΙΔΙΚΑ ΤΜΗΜΑΤΑ"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΠΕΙΓΟΝΤΑ ΠΕΡΙΣΤΑΤΙΚΑ"
+        },
+        {
+          "level": "h3",
+          "text": "Τηλεϊατρική Παρακολούθηση, Παχυσαρκία, Οικογενειακή Υγεία, Παράγοντες Κινδύνου"
+        },
+        {
+          "level": "h3",
+          "text": "ΤΜΗΜΑ ΔΙΑΤΡΟΦΗΣ"
+        },
+        {
+          "level": "h3",
+          "text": "ΦΡΟΝΤΙΔΑ ΕΓΚΥΟΥ - ΠΑΙΔΙΟΥ"
+        },
+        {
+          "level": "h3",
+          "text": "ΤΗΛΕΪΑΤΡΙΚΗ"
+        },
+        {
+          "level": "h3",
+          "text": "ΚΑΡΔΙΑΓΓΕΙΑΚΗ ΠΡΟΛΗΨΗ"
+        },
+        {
+          "level": "h3",
+          "text": "Το βιογραφικό του καρδιολόγου κ. Βαχλιώτη Βασίλειου"
+        },
+        {
+          "level": "h3",
+          "text": "ΒΑΧΛΙΩΤΗΣ ΒΑΣΙΛΕΙΟΣ"
+        },
+        {
+          "level": "h3",
+          "text": "Έγκυρη, επιστημονική και συμβουλευτική αρθρογραφία"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΜΦΡΑΓΜΑ ΜΥΟΚΑΡΔΙΟΥ"
+        },
+        {
+          "level": "h3",
+          "text": "ΝΕΕΣ ΤΕΧΝΙΚΕΣ ΥΠΕΡΗΧΩΝ"
+        },
+        {
+          "level": "h3",
+          "text": "ΠΡΟΑΘΛΗΤΙΚΟΣ ΕΛΕΓΧΟΣ SOS"
+        },
+        {
+          "level": "h3",
+          "text": "LINKS"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://cardioprolipsis.gr/templates/cardio/pdf/doc_el.pdf"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/templates/cardio/pdf/mme_web_el.pdf"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/templates/cardio/pdf/antagonistikotita_web_el.pdf"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/rules",
+          "label": "Μετρήστε τον κίνδυνό σας"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/el/",
+          "label": "GR"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/en/",
+          "label": "EN"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/who-are-we",
+          "label": "Ποιοι είμαστε"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatreio",
+          "label": "Το ιατρείο"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/our-doctor",
+          "label": "Ο ιατρός μας"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/kardiologikes-ipiresies",
+          "label": "Καρδιολογικές Υπηρεσίες"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/paraklinikes-eksetaseis",
+          "label": "Παρακλινικές Εξετάσεις"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidikes-ipiresies",
+          "label": "Ειδικές Υπηρεσίες"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata",
+          "label": "Ειδικά Τμήματα"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata/tmima-diatrofis",
+          "label": "Τμήμα Διατροφής"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata/tmima-tileiatrikis",
+          "label": "Τμήμα Τηλεϊατρικής"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata/homecare",
+          "label": "Κατ’ οίκον ιατρική επίσκεψη"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata/tmima-kardiakis-apokatastasis",
+          "label": "Τμήμα Καρδιακής Αποκατάστασης"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki",
+          "label": "Ιατρική Βιβλιοθήκη"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/kliniki-simptomatologia",
+          "label": "Κλινική συμπτωματολογία"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/themata-pathiseis",
+          "label": "Καρδιολογικά Θέματα - Καρδιακές Παθήσεις"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/iatriki-texnologia-exetaseis",
+          "label": "Ιατρική Τεχνολογία - Καρδιολογικές εξετάσεις"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/prolipsi",
+          "label": "Πρόληψη"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/iatrikes-sumvoules-sustaseis",
+          "label": "Ιατρικές συμβουλές και συστάσεις"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/diatrofikes-sumvoules",
+          "label": "Διατροφικές συμβουλές"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/sunergasies",
+          "label": "Συνεργασίες"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/faq",
+          "label": "FAQ"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/contact",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/el/cardio-services/2-tmima-diatrofis"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/el/cardio-services/3-frontida-egkuou"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/el/cardio-services/1-cp-program"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/el/librarydoctor/13-themata-pathiseis/103-emfragma-muokardiou"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/el/librarydoctor/14-iatriki-texnologia-exetaseis/7-nees-texnikes-uperixwn"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/el/librarydoctor/13-themata-pathiseis/6-proathlitikos-elegxos"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/cardio",
+          "label": "Αρχική"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "+30 211 01 02 558",
+          "+30 211 01 36 676",
+          "211-0102558",
+          "211-0136676",
+          "211010 2558 - 2110136676"
+        ],
+        "emails": [
+          "info@cardioprolipsis.gr"
+        ],
+        "addresses": [
+          "LINKS Iatropedia Incardiology.gr Medispin Iatronet ΕΟΠΥΥ Isathens Hcs Acha Escardio SITEMAP Αρχική Ποιοι είμαστε Το ιατρείο Ο ιατρός μας Υπηρεσίες - Τμήματα Ιατρική Βιβλιοθήκη Συνεργασίες FAQ Επικοινωνία ΕΠΙΚΟΙΝΩΝΙΑ Ιωάννου Φωκά 40, Αθήνα Τ.Κ. 111 42Ιατρική Εστία (ημιώροφος)Τηλέφωνο: 211010 2558 - 2110136676Email: info@cardioprolipsis.grΏρες ιατρείου: 9:00π.μ. - 9:00μ.μ.",
+          "ΕΠΙΚΟΙΝΩΝΙΑ Ιωάννου Φωκά 40, Αθήνα Τ.Κ. 111 42Ιατρική Εστία (ημιώροφος)Τηλέφωνο: 211010 2558 - 2110136676Email: info@cardioprolipsis.grΏρες ιατρείου: 9:00π.μ. - 9:00μ.μ."
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/Cardioprolipsis/"
+          }
+        ],
+        "forms": []
+      },
+      "textContent": "call +30 211 01 02 558 +30 211 01 36 676 Μετρήστε τον κίνδυνό σας language GR EN groups Ζητήστε ραντεβού draftsinfo@cardioprolipsis.gr Αρχική Ποιοι είμαστε Το ιατρείο Ο ιατρός μας Υπηρεσίες - Τμήματα Καρδιολογικές Υπηρεσίες Καρδιολογικός έλεγχος Βεβαιώσεις - Γνωματεύσεις Επείγοντα περιστατικά Παρακλινικές Εξετάσεις Υπέρηχοι - Triplex Έλεγχος καρδιακής ισχαιμίας Holter - Συσκευές παρακολούθησης Διαγνωστικές δοκιμασίες συγκοπής Ειδικοί βιομετρητές Ειδικές Υπηρεσίες Προαθλητικός έλεγχος Καρδιολογική παρακολούθηση κύησης Υπερηχογραφική εκτίμηση παίδων Έλεγχος βηματοδοτών Διακοπή καπνίσματος Καρδιαγγειακή πρόληψη Ειδικά Τμήματα Τμήμα Διατροφής Τμήμα Τηλεϊατρικής Κατ’ οίκον ιατρική επίσκεψη Τμήμα Καρδιακής Αποκατάστασης Ιατρική Βιβλιοθήκη Κλινική συμπτωματολογία Καρδιολογικά Θέματα - Καρδιακές Παθήσεις Ιατρική Τεχνολογία - Καρδιολογικές εξετάσεις Πρόληψη Ιατρικές συμβουλές και συστάσεις Διατροφικές συμβουλές Συνεργασίες FAQ Επικοινωνία var burger = document.getElementsByClassName( \"burger\" )[0]; var flag = false; burger.addEventListener( \"click\" , function(){ if( !flag ){document.getElementsByClassName( \"cardio--menu--rock\" )[0].style.visibility = \"visible\";flag = true;}else{document.getElementsByClassName( \"cardio--menu--rock\" )[0].style.visibility = \"hidden\";flag = false;}}); var bicon = document.getElementsByClassName( \"bicon\" )[0]; var flagBurger = false; bicon.addEventListener( \"click\" , function(){ if( !flagBurger ){ burger.classList.add(\"aa__cx\"); bicon.classList.add( \"active\" );flagBurger = true; }else{ burger.classList.remove(\"aa__cx\"); bicon.classList.remove( \"active\" );flagBurger = false; } }); <link rel=\"stylesheet\" type=\"text/css\" href=\"/modules/mod_bx_slider/media/css/default.css\"/> Cardioprolipsis Σύγχρονες καρδιολογικές υπηρεσίες Ολοκληρωμένη ποιοτική φροντίδα υγείας για παιδιά και ενήλικες ΕΞΕΙΔΙΚΕΥΣΗ ΚΑΙ ΕΜΠΕΙΡΙΑ Πάνω από 1500 Stress Echo την τελευταία τριετία Επείγοντα καρδιολογικά περιστατικά χωρίς αναμονή Εξειδικευμένη ομάδα υποστήριξης κύησης ΠΡΩΤΟΠΟΡΟΙ ΣΤΗΝ ΤΗΛΕΪΑΤΡΙΚΗ Απομακρυσμένη on-line ιατρική παρακολούθηση από τον ιατρό ΝΟΙΑΖΟΜΑΣΤΕ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΣΑΣ Ειδικό διατροφολογικό τμήμα Προγράμματα καρδιαγγειακής πρόληψης Προαθλητικός έλεγχος Φιλικό περιβάλλον για τα παιδιά var slideIndex=1;showDivs2(slideIndex);function plusDivs2(n){showDivs2(slideIndex+=n)}function showDivs2(n){var i;var x=document.getElementsByClassName(\"bx-slideshow\");if(n>x.length){slideIndex=1;}if(n<1){slideIndex=x.length}for(i=0;i<x.length;i++){x[i].style.display=\"none\"}x[slideIndex-1].style.display=\"block\"} ΓΙΑΤΙ ΞΕΧΩΡΙΖΟΥΜΕ Το ιατρείο μας δεν είναι ένα απλό καρδιολογικό ιατρείο… ΚΑΡΔΙΟΛΟΓΙΚΕΣ ΥΠΗΡΕΣΙΕΣ Το πολυδύναμο καρδιολογικό ιατρείο μας είναι μια σύγχρονη καρδιολογική μονάδα παροχής υψηλού επιπέδου ποιοτικών ιατρικών υπηρεσιών. mouse over ΣΥΓΧΡΟΝΕΣ ΚΑΡΔΙΟΛΟΓΙΚΕΣ ΥΠΗΡΕΣΙΕΣ Το πολυδύναμο καρδιολογικό ιατρείο μας, εκτός των άλλων, προσφέρει μεγάλη γκάμα υψηλού επιπέδου ποιοτικών ιατρικών υπηρεσιών: Υπέρηχοι (Triplex καρδιάς, αορτής, Contrast Echo κά) Δοκιμασίες φόρτισης - Ελέγχου ισχαιμίας (Δοκιμασία κόπωσης, Stress – Exercise Echo) Holter ρυθμού 24h & 48h, Holter aρτηριακής πίεσης, Holter ύπνου και νυχτερινής οξυμετρίας κά Πολύ-holter 5:1 (ρυθμού-πίεσης-οξυμετρίας-ύπνου-αρτηριακής σκληρίας) Τηλεϊατρικές υπηρεσίες (Τηλεκαρδιογράφος, Τηλεπιεσόμετρα κά)< Ειδικές συσκευές μέτρησης - Μέτρηση κνημοβραχιόνου δείκτη, Βασικός μεταβολισμός, Μετρητές φυσικής δραστηριότητας κά) Ειδικές υπηρεσίες (Έλεγχος βηματοδοτών, Προαθλητικός έλεγχος, Καρδιακή Γενετική κά) ΕΞΕΙΔΙΚΕΥΜΕΝΕΣ ΥΠΗΡΕΣΙΕΣ Σας παρέχουμε μοναδικές, εξειδικευμένες υπηρεσίες, που απαιτούν πιστοποιημένη εκπαίδευση και σύγχρονο ειδικό εξοπλισμό. mouse over ΜΟΝΑΔΙΚΕΣ ΕΞΕΙΔΙΚΕΥΜΕΝΕΣ ΥΠΗΡΕΣΙΕΣ Το ιατρείο μας σας προσφέρει εκτός από τις κλασικές καρδιολογικές εξετάσεις ορισμένες προηγμένες εξειδικευμένες υπηρεσίες, με τα αρτιότερα και πιο σύγχρονα μηχανήματα τελευταίας γενιάς. Ο ιατρός μας κος Βαχλιώτης Βασίλειος διαθέτει πολυετή εμπειρία και εξειδίκευση στη διενέργεια δυναμικών υπερηχοκαρδιογραφιών. Στο ιατρείο μας έχουν πραγματοποιηθεί πάνω από 3000 stress – contrast – exercise echo. Stress – Exercise echo Contrast echo Καρδιολογική παρακολούθηση κύησης ΕΙΔΙΚΑ ΤΜΗΜΑΤΑ Τέσσερα (4) Ειδικά Τμήματα παρέχουν σύγχρονες καρδιολογικές υπηρεσίες σε ένα ευρύ φάσμα αναγκών του σύγχρονου ανθρώπου. mouse over ΕΙΔΙΚΑ ΤΜΗΜΑΤΑ Τμήμα Διατροφής Τμήμα τηλεϊατρικής Τμήμα κατ’ οίκον φροντίδας – Home care Τμήμα Καρδιακής Αποκατάστασης ΕΠΕΙΓΟΝΤΑ ΠΕΡΙΣΤΑΤΙΚΑ Καλέστε μας άμεσα στα τηλέφωνα 211-0102558 & 211-0136676. Αντιμετωπίζουμε με ασφάλεια κάθε επείγον καρδιολογικό περιστατικό. mouse over ΕΠΕΙΓΟΝΤΑ ΠΕΡΙΣΤΑΤΙΚΑ Καλέστε μας άμεσα στα τηλέφωνα 211-0102558, 211-0136676. Στο ιατρείο μας παρέχεται πλήρης ασφάλεια με υποστήριξη απινιδωτή και monitor συνεχούς καρδιολογικής ΗΚΓφικής και βηματοδοτικής υποστήριξης ενώ το φαρμακείο μας περιλαμβάνει ευρύτατη γκάμα φαρμάκων, με υποστήριξη διασωλήνωσης και οξυγονοθεραπείας, εξασφαλίζοντας την ασφαλή αντιμετώπιση επειγόντων καρδιολογικών περιστατικών. Καλώς ήρθατε στην Cardioprolipsis Το πολυδύναμο καρδιολογικό ιατρείο του κ. Βαχλιώτη είναι μια σύγχρονη καρδιολογική μονάδα παροχής υψηλού επιπέδου ποιοτικών ιατρικών υπηρεσιών. Η διακριτική μας ονομασία μας Cardioprolipsis αντανακλά την παροχή ευρύτερων υπηρεσιών ιατρικής πρόληψης και υγιεινοδιαιτητικής υποστήριξης, με κατεύθυνση την εξατομικευμένη επιλογή του καταλλήλου τρόπου ζωής, διατροφής και άσκησης. Το προσωπικό μας αποτελείται από έμπειρα στελέχη με υψηλού επιπέδου εκπαίδευση στην αντιμετώπιση καρδιολογικών περιστατικών. Μια άρτια οργανωμένη ομάδα νοσηλευτών, φυσικοθεραπευτών, διαιτολόγων και ψυχολόγων εγγυάται την καλύτερη εξυπηρέτηση σας ενώ η παρουσία των υπολοίπων ειδικευμένων ιατρών στο κτίριο της ΙΑΤΡΙΚΗΣ ΕΣΤΙΑΣ εγγυάται την άμεση και ολοκληρωμένη υποστήριξη του ασθενούς. Η συνεργασία μας με τα μεγαλύτερα ιδιωτικά και δημόσια νοσοκομεία εξασφαλίζει στον ασθενή ταχεία και ασφαλή επίλυση του προβλήματός του. <link rel=\"stylesheet\" type=\"text/css\" href=\"/modules/mod_bx_services/media/css/default.css\"/> ΝΟΙΑΖΟΜΑΣΤΕ ΓΙΑ ΤΗΝ ΥΓΕΙΑ ΣΑΣΤηλεϊατρική Παρακολούθηση, Παχυσαρκία, Οικογενειακή Υγεία, Παράγοντες Κινδύνου ΤΜΗΜΑ ΔΙΑΤΡΟΦΗΣ ΦΡΟΝΤΙΔΑ ΕΓΚΥΟΥ - ΠΑΙΔΙΟΥ ΤΗΛΕΪΑΤΡΙΚΗ ΚΑΡΔΙΑΓΓΕΙΑΚΗ ΠΡΟΛΗΨΗ <link rel=\"stylesheet\" type=\"text/css\" href=\"/modules/mod_bx_staff/media/css/default.css\"/> ΓΝΩΡΙΣΤΕ ΤΟΝ ΓΙΑΤΡΟ ΜΑΣΤο βιογραφικό του καρδιολόγου κ. Βαχλιώτη Βασίλειου Ο καρδιολόγος κ.Βασίλειος Βαχλιώτης εισήχθη 1ος στην Ιατρική του πανεπιστημίου Πατρών από όπου αποφοίτησε το 1997.Εξειδικεύτηκε στην Γενική Παθολογία στο Γ.Ν Πύργου και την συνέχεια... ΒΑΧΛΙΩΤΗΣ ΒΑΣΙΛΕΙΟΣ Καρδιολόγος Περισσότερα Εξειδίκευση στην Υπερηχοκαρδιογραφία Stress - Contrast - Exercise Echo <link rel=\"stylesheet\" type=\"text/css\" href=\"/modules/mod_bx_blog/media/css/default.css\"/> ΤΑ ΠΡΟΣΦΑΤΑ ΑΡΘΡΑ ΜΑΣΈγκυρη, επιστημονική και συμβουλευτική αρθρογραφία ΕΜΦΡΑΓΜΑ ΜΥΟΚΑΡΔΙΟΥ ΝΕΕΣ ΤΕΧΝΙΚΕΣ ΥΠΕΡΗΧΩΝ ΠΡΟΑΘΛΗΤΙΚΟΣ ΕΛΕΓΧΟΣ SOS LINKS Iatropedia Incardiology.gr Medispin Iatronet ΕΟΠΥΥ Isathens Hcs Acha Escardio SITEMAP Αρχική Ποιοι είμαστε Το ιατρείο Ο ιατρός μας Υπηρεσίες - Τμήματα Ιατρική Βιβλιοθήκη Συνεργασίες FAQ Επικοινωνία ΕΠΙΚΟΙΝΩΝΙΑ Ιωάννου Φωκά 40, Αθήνα Τ.Κ. 111 42Ιατρική Εστία (ημιώροφος)Τηλέφωνο: 211010 2558 - 2110136676Email: info@cardioprolipsis.grΏρες ιατρείου: 9:00π.μ. - 9:00μ.μ. © 2023 cardioprolipsis.gr All Rights Reserved Designed & Developed by: overmedia.sa jQuery(document).ready(function(e){jQuery(\".blog-featured\").remove()}),window.onload=function(){var e=document.getElementById(\"preload\"),t=document.getElementsByClassName(\"ld-logo\")[0];setTimeout(function(){t.style.visibility=\"visible\"},200),setTimeout(function(){document.body.removeChild(e)},2e3)};var loadDeferredStyles=function(){var e=document.getElementsByClassName(\"deferred-styles\"),t=document.createElement(\"div\");t.id=\"styles\";for(var o=0;o<e.length;o++)t.innerHTML+=e[o].textContent,e[o].id=\"to-remove-\"+o;document.body.appendChild(t)},raf=requestAnimationFrame||mozRequestAnimationFrame||webkitRequestAnimationFrame||msRequestAnimationFrame;raf?raf(function(){window.setTimeout(loadDeferredStyles,0)}):window.addEventListener(\"load\",loadDeferredStyles);var _userway_config = { account: 'Typ2cEQ8Pj' }; document.addEventListener(\"DOMContentLoaded\", function(event) { var cpm = {}; window.cookiehub.load(cpm); });",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/cardioprolipsis.gr-home-cce933ff/homepage-el-f653aead.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/cardioprolipsis.gr-home-cce933ff/homepage-el-f653aead.txt",
+      "imageReferences": [
+        {
+          "url": "https://cardioprolipsis.gr/images/logo.png",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el",
+          "pageType": "homepage",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://cardioprolipsis.gr/el",
+              "retrievedAt": "2026-03-31T13:22:22.215Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/templates/cardio/images/loading.gif",
+          "alt": "Cardioprolipsis",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el",
+              "retrievedAt": "2026-03-31T13:22:22.215Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/templates/cardio/images/banner_espa_el.jpg",
+          "alt": "ESPA 2014-2020",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el",
+              "retrievedAt": "2026-03-31T13:22:22.215Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/templates/cardio/images/espa/mme_web_el.jpg",
+          "alt": "ESPA 2014-2020",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el",
+              "retrievedAt": "2026-03-31T13:22:22.215Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/templates/cardio/images/espa/antagonistikotita_web_el.jpg",
+          "alt": "ESPA 2014-2020",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el",
+              "retrievedAt": "2026-03-31T13:22:22.215Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/images/slideshowsmall.jpg",
+          "alt": "Cardioprolipsis Our Team",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el",
+              "retrievedAt": "2026-03-31T13:22:22.215Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/modules/mod_bx_provider/media/images/doctor-4.png",
+          "alt": "ΣΥΓΧΡΟΝΕΣ ΚΑΡΔΙΟΛΟΓΙΚΕΣ ΥΠΗΡΕΣΙΕΣ",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el",
+              "retrievedAt": "2026-03-31T13:22:22.215Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/modules/mod_bx_provider/media/images/img4.png",
+          "alt": "ΣΥΓΧΡΟΝΕΣ ΚΑΡΔΙΟΛΟΓΙΚΕΣ ΥΠΗΡΕΣΙΕΣ - MORE",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el",
+              "retrievedAt": "2026-03-31T13:22:22.215Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/modules/mod_bx_provider/media/images/doctor-2.png",
+          "alt": "ΜΟΝΑΔΙΚΕΣ ΕΞΕΙΔΙΚΕΥΜΕΝΕΣ ΥΠΗΡΕΣΙΕΣ",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el",
+              "retrievedAt": "2026-03-31T13:22:22.216Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/modules/mod_bx_provider/media/images/img2.png",
+          "alt": "ΜΟΝΑΔΙΚΕΣ ΕΞΕΙΔΙΚΕΥΜΕΝΕΣ ΥΠΗΡΕΣΙΕΣ - MORE",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el",
+              "retrievedAt": "2026-03-31T13:22:22.216Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/modules/mod_bx_provider/media/images/doctor-1.png",
+          "alt": "ΕΙΔΙΚΑ ΤΜΗΜΑΤΑ",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el",
+              "retrievedAt": "2026-03-31T13:22:22.216Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/modules/mod_bx_provider/media/images/img1.png",
+          "alt": "ΕΙΔΙΚΑ ΤΜΗΜΑΤΑ - MORE",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el",
+              "retrievedAt": "2026-03-31T13:22:22.216Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.218Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/cardioprolipsis.gr-home-cce933ff/homepage-el-f653aead.png"
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+      "finalUrl": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+      "fetchedAt": "2026-03-31T13:22:27.722Z",
+      "metadata": {
+        "title": "ΤΗΛΕΪΑΤΡΙΚΗ",
+        "metaDescription": "ΤΗΛΕΪΑΤΡΙΚΗ",
+        "language": "el-gr",
+        "openGraphTitle": "Καρδιολογικό Ιατρείο Cardioprolipsis",
+        "openGraphDescription": "Cardioprolipsis - Το πολυδύναμο καρδιολογικό ιατρείο του κ. Βαχλιώτη",
+        "openGraphImage": "https://cardioprolipsis.gr/images/logo.png"
+      },
+      "headings": [
+        {
+          "level": "h3",
+          "text": "LINKS"
+        },
+        {
+          "level": "h3",
+          "text": "SITEMAP"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://cardioprolipsis.gr/templates/cardio/pdf/doc_el.pdf"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/templates/cardio/pdf/mme_web_el.pdf"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/templates/cardio/pdf/antagonistikotita_web_el.pdf"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/rules",
+          "label": "Μετρήστε τον κίνδυνό σας"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+          "label": "GR"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/en/cardio-services",
+          "label": "EN"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/who-are-we",
+          "label": "Ποιοι είμαστε"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatreio",
+          "label": "Το ιατρείο"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/our-doctor",
+          "label": "Ο ιατρός μας"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/kardiologikes-ipiresies",
+          "label": "Καρδιολογικές Υπηρεσίες"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/paraklinikes-eksetaseis",
+          "label": "Παρακλινικές Εξετάσεις"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidikes-ipiresies",
+          "label": "Ειδικές Υπηρεσίες"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata",
+          "label": "Ειδικά Τμήματα"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata/tmima-diatrofis",
+          "label": "Τμήμα Διατροφής"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata/tmima-tileiatrikis",
+          "label": "Τμήμα Τηλεϊατρικής"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata/homecare",
+          "label": "Κατ’ οίκον ιατρική επίσκεψη"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata/tmima-kardiakis-apokatastasis",
+          "label": "Τμήμα Καρδιακής Αποκατάστασης"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki",
+          "label": "Ιατρική Βιβλιοθήκη"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/kliniki-simptomatologia",
+          "label": "Κλινική συμπτωματολογία"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/themata-pathiseis",
+          "label": "Καρδιολογικά Θέματα - Καρδιακές Παθήσεις"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/iatriki-texnologia-exetaseis",
+          "label": "Ιατρική Τεχνολογία - Καρδιολογικές εξετάσεις"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/prolipsi",
+          "label": "Πρόληψη"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/iatrikes-sumvoules-sustaseis",
+          "label": "Ιατρικές συμβουλές και συστάσεις"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/diatrofikes-sumvoules",
+          "label": "Διατροφικές συμβουλές"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/sunergasies",
+          "label": "Συνεργασίες"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/faq",
+          "label": "FAQ"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/contact",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/el/cardio-services/1-cp-program",
+          "label": "ΚΑΡΔΙΑΓΓΕΙΑΚΗ ΠΡΟΛΗΨΗ"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/el/cardio-services/2-tmima-diatrofis",
+          "label": "ΤΜΗΜΑ ΔΙΑΤΡΟΦΗΣ"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/el/cardio-services/3-frontida-egkuou",
+          "label": "ΦΡΟΝΤΙΔΑ ΕΓΚΥΟΥ - ΠΑΙΔΙΟΥ"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/en/cardio-services/167-tileatriki-2",
+          "label": "TELE-MEDICINE"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/en/cardio-services/168-frontida-egkuou-2",
+          "label": "PREGNANT CHILD CARE"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/en/cardio-services/169-tmima-diatrofis-2",
+          "label": "NUTRITION DEPARTMENT"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/en/cardio-services/170-cp-program-2",
+          "label": "CARDIOLOGICAL PREVENTION"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/cardio",
+          "label": "Αρχική"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "+30 211 01 02 558",
+          "+30 211 01 36 676",
+          "211010 2558 - 2110136676"
+        ],
+        "emails": [
+          "info@cardioprolipsis.gr"
+        ],
+        "addresses": [
+          "LINKS Iatropedia Incardiology.gr Medispin Iatronet ΕΟΠΥΥ Isathens Hcs Acha Escardio SITEMAP Αρχική Ποιοι είμαστε Το ιατρείο Ο ιατρός μας Υπηρεσίες - Τμήματα Ιατρική Βιβλιοθήκη Συνεργασίες FAQ Επικοινωνία ΕΠΙΚΟΙΝΩΝΙΑ Ιωάννου Φωκά 40, Αθήνα Τ.Κ. 111 42Ιατρική Εστία (ημιώροφος)Τηλέφωνο: 211010 2558 - 2110136676Email: info@cardioprolipsis.grΏρες ιατρείου: 9:00π.μ. - 9:00μ.μ.",
+          "ΕΠΙΚΟΙΝΩΝΙΑ Ιωάννου Φωκά 40, Αθήνα Τ.Κ. 111 42Ιατρική Εστία (ημιώροφος)Τηλέφωνο: 211010 2558 - 2110136676Email: info@cardioprolipsis.grΏρες ιατρείου: 9:00π.μ. - 9:00μ.μ."
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/Cardioprolipsis/"
+          }
+        ],
+        "forms": []
+      },
+      "textContent": "call +30 211 01 02 558 +30 211 01 36 676 Μετρήστε τον κίνδυνό σας language GR EN groups Ζητήστε ραντεβού draftsinfo@cardioprolipsis.gr Αρχική Ποιοι είμαστε Το ιατρείο Ο ιατρός μας Υπηρεσίες - Τμήματα Καρδιολογικές Υπηρεσίες Καρδιολογικός έλεγχος Βεβαιώσεις - Γνωματεύσεις Επείγοντα περιστατικά Παρακλινικές Εξετάσεις Υπέρηχοι - Triplex Έλεγχος καρδιακής ισχαιμίας Holter - Συσκευές παρακολούθησης Διαγνωστικές δοκιμασίες συγκοπής Ειδικοί βιομετρητές Ειδικές Υπηρεσίες Προαθλητικός έλεγχος Καρδιολογική παρακολούθηση κύησης Υπερηχογραφική εκτίμηση παίδων Έλεγχος βηματοδοτών Διακοπή καπνίσματος Καρδιαγγειακή πρόληψη Ειδικά Τμήματα Τμήμα Διατροφής Τμήμα Τηλεϊατρικής Κατ’ οίκον ιατρική επίσκεψη Τμήμα Καρδιακής Αποκατάστασης Ιατρική Βιβλιοθήκη Κλινική συμπτωματολογία Καρδιολογικά Θέματα - Καρδιακές Παθήσεις Ιατρική Τεχνολογία - Καρδιολογικές εξετάσεις Πρόληψη Ιατρικές συμβουλές και συστάσεις Διατροφικές συμβουλές Συνεργασίες FAQ Επικοινωνία var burger = document.getElementsByClassName( \"burger\" )[0]; var flag = false; burger.addEventListener( \"click\" , function(){ if( !flag ){document.getElementsByClassName( \"cardio--menu--rock\" )[0].style.visibility = \"visible\";flag = true;}else{document.getElementsByClassName( \"cardio--menu--rock\" )[0].style.visibility = \"hidden\";flag = false;}}); var bicon = document.getElementsByClassName( \"bicon\" )[0]; var flagBurger = false; bicon.addEventListener( \"click\" , function(){ if( !flagBurger ){ burger.classList.add(\"aa__cx\"); bicon.classList.add( \"active\" );flagBurger = true; }else{ burger.classList.remove(\"aa__cx\"); bicon.classList.remove( \"active\" );flagBurger = false; } }); Αρχική Ιατρική Βιβλιοθήκη CARDIOPROLIPSIS SERVICES Η τηλεϊατρική αποτελεί μια σύγχρονη πρωτοποριακή μέθοδο άμεσης εκτίμησης, θεραπείας και παρακολούθησης του καρδιαγγειακού συστήματος μέσω σύγχρονων συστημάτων τηλεπικοινωνίας. Με τη χρήση των νέων τεχνολογιών ο ιατρός μπορεί άμεσα και εύκολα να έχει στη διάθεση του δεδομένα για τη υγεία του ενδιαφερόμενου και να εκτιμήσει την κατάσταση του, δίνοντας την κατάλληλη θεραπεία ακόμα κι αν ο ασθενής βρίσκεται σε μία απομακρυσμένη περιοχή. Αυτή η μέθοδος μπορεί να χρησιμοποιηθεί για την παρακολούθηση χρονίων νοσημάτων (καρδιοπάθειες, άσθμα, διαβήτης κ.ά.) αλλά και για την τηλεμετρική λήψη σημάτων ζωτικών παραμέτρων, όπως το ηλεκτροκαρδιογράφημα, η αρτηριακή πίεση και το σάκχαρο του αίματος, προκειμένου να αξιολογηθεί η αποτελεσματικότητα και η ασφάλεια της φαρμακευτικής αγωγής και να οργανωθεί ένα ολοκληρωμένο πρόγραμμα παρακολούθησης της υγείας του ασθενούς. Μια χρήσιμη εφαρμογή της τηλεϊατρικής είναι η κατ’ οίκον νοσηλεία (home care), όπου ο ασθενής µπορεί να βρίσκεται σπίτι του και να παρακολουθείται από απόσταση από τον ιατρό του. Σε περίπτωση που προκύψει κάποιο πρόβλημα στην υγεία του (υψηλή πίεση, αρρυθμία, ταχυπαλμία, κ.λπ.) ειδοποιείται άμεσα ο ιατρός, προκειμένου να δει τι ακριβώς συμβαίνει, και να επιληφθεί του θέματος. Στο ιατρείο μας έχουμε τη δυνατότητα τηλεϊατρικής παρακολούθησης: Του ηλεκτροκαρδιογραφήματος, με τη χρήση σύγχρονων τηλε – καρδιογράφων, για άμεση και συνεχή παρακολούθηση ασθενών από το χώρο τους, σε περιπτώσεις όπως η αξιολόγηση της δράσης αντιαρρυθμικών φαρμάκων, η εκτίμηση αρρυθμιών (πχ. κολπική μαρμαρυγή), η διερεύνηση άτυπων επεισοδίων προκάρδιου άλγους κ.ά. Της αρτηριακής πίεσης, με τη χρήση σύγχρονων συνδεδεμένων τηλε – πιεσομέτρων, για αυτόματη παρακολούθηση της αρτηριακής πίεσης, χωρίς να χρειάζονται συνεχείς επισκέψεις στο γιατρό. ΚΑΡΔΙΑΓΓΕΙΑΚΗ ΠΡΟΛΗΨΗ ΤΜΗΜΑ ΔΙΑΤΡΟΦΗΣ ΦΡΟΝΤΙΔΑ ΕΓΚΥΟΥ - ΠΑΙΔΙΟΥ ΤΗΛΕΪΑΤΡΙΚΗ TELE-MEDICINE PREGNANT CHILD CARE NUTRITION DEPARTMENT CARDIOLOGICAL PREVENTION LINKS Iatropedia Incardiology.gr Medispin Iatronet ΕΟΠΥΥ Isathens Hcs Acha Escardio SITEMAP Αρχική Ποιοι είμαστε Το ιατρείο Ο ιατρός μας Υπηρεσίες - Τμήματα Ιατρική Βιβλιοθήκη Συνεργασίες FAQ Επικοινωνία ΕΠΙΚΟΙΝΩΝΙΑ Ιωάννου Φωκά 40, Αθήνα Τ.Κ. 111 42Ιατρική Εστία (ημιώροφος)Τηλέφωνο: 211010 2558 - 2110136676Email: info@cardioprolipsis.grΏρες ιατρείου: 9:00π.μ. - 9:00μ.μ. © 2023 cardioprolipsis.gr All Rights Reserved Designed & Developed by: overmedia.sa jQuery(document).ready(function(e){jQuery(\".blog-featured\").remove()}),window.onload=function(){var e=document.getElementById(\"preload\"),t=document.getElementsByClassName(\"ld-logo\")[0];setTimeout(function(){t.style.visibility=\"visible\"},200),setTimeout(function(){document.body.removeChild(e)},2e3)};var loadDeferredStyles=function(){var e=document.getElementsByClassName(\"deferred-styles\"),t=document.createElement(\"div\");t.id=\"styles\";for(var o=0;o<e.length;o++)t.innerHTML+=e[o].textContent,e[o].id=\"to-remove-\"+o;document.body.appendChild(t)},raf=requestAnimationFrame||mozRequestAnimationFrame||webkitRequestAnimationFrame||msRequestAnimationFrame;raf?raf(function(){window.setTimeout(loadDeferredStyles,0)}):window.addEventListener(\"load\",loadDeferredStyles);var _userway_config = { account: 'Typ2cEQ8Pj' }; document.addEventListener(\"DOMContentLoaded\", function(event) { var cpm = {}; window.cookiehub.load(cpm); });",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/cardioprolipsis.gr-home-cce933ff/services-el-cardio-services-4-tileatriki-645209ad.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/cardioprolipsis.gr-home-cce933ff/services-el-cardio-services-4-tileatriki-645209ad.txt",
+      "imageReferences": [
+        {
+          "url": "https://cardioprolipsis.gr/images/logo.png",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+          "pageType": "services",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+              "retrievedAt": "2026-03-31T13:22:27.721Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/templates/cardio/images/loading.gif",
+          "alt": "Cardioprolipsis",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+              "retrievedAt": "2026-03-31T13:22:27.721Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/templates/cardio/images/banner_espa_el.jpg",
+          "alt": "ESPA 2014-2020",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+              "retrievedAt": "2026-03-31T13:22:27.721Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/templates/cardio/images/espa/mme_web_el.jpg",
+          "alt": "ESPA 2014-2020",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+              "retrievedAt": "2026-03-31T13:22:27.721Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/templates/cardio/images/espa/antagonistikotita_web_el.jpg",
+          "alt": "ESPA 2014-2020",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+              "retrievedAt": "2026-03-31T13:22:27.721Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/images/slideshowsmall.jpg",
+          "alt": "Cardioprolipsis Our Team",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+              "retrievedAt": "2026-03-31T13:22:27.721Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+          "retrievedAt": "2026-03-31T13:22:27.722Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://cardioprolipsis.gr/contact",
+      "finalUrl": "https://cardioprolipsis.gr/el/contact",
+      "fetchedAt": "2026-03-31T13:22:23.461Z",
+      "metadata": {
+        "title": "Επικοινωνία - cardioprolipsis.gr",
+        "metaDescription": "Επικοινωνία",
+        "language": "el-gr",
+        "openGraphTitle": "Καρδιολογικό Ιατρείο Cardioprolipsis",
+        "openGraphDescription": "Cardioprolipsis - Το πολυδύναμο καρδιολογικό ιατρείο του κ. Βαχλιώτη",
+        "openGraphImage": "https://cardioprolipsis.gr/images/logo.png"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Επικοινωνία"
+        },
+        {
+          "level": "h1",
+          "text": "ΠΛΗΡΟΦΟΡΙΕΣ"
+        },
+        {
+          "level": "h3",
+          "text": "LINKS"
+        },
+        {
+          "level": "h3",
+          "text": "SITEMAP"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΠΙΚΟΙΝΩΝΙΑ"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://cardioprolipsis.gr/templates/cardio/pdf/doc_el.pdf"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/templates/cardio/pdf/mme_web_el.pdf"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/templates/cardio/pdf/antagonistikotita_web_el.pdf"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/rules",
+          "label": "Μετρήστε τον κίνδυνό σας"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/el/contact",
+          "label": "GR"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/en/",
+          "label": "EN"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/who-are-we",
+          "label": "Ποιοι είμαστε"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatreio",
+          "label": "Το ιατρείο"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/our-doctor",
+          "label": "Ο ιατρός μας"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/kardiologikes-ipiresies",
+          "label": "Καρδιολογικές Υπηρεσίες"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/paraklinikes-eksetaseis",
+          "label": "Παρακλινικές Εξετάσεις"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidikes-ipiresies",
+          "label": "Ειδικές Υπηρεσίες"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata",
+          "label": "Ειδικά Τμήματα"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata/tmima-diatrofis",
+          "label": "Τμήμα Διατροφής"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata/tmima-tileiatrikis",
+          "label": "Τμήμα Τηλεϊατρικής"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata/homecare",
+          "label": "Κατ’ οίκον ιατρική επίσκεψη"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata/tmima-kardiakis-apokatastasis",
+          "label": "Τμήμα Καρδιακής Αποκατάστασης"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki",
+          "label": "Ιατρική Βιβλιοθήκη"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/kliniki-simptomatologia",
+          "label": "Κλινική συμπτωματολογία"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/themata-pathiseis",
+          "label": "Καρδιολογικά Θέματα - Καρδιακές Παθήσεις"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/iatriki-texnologia-exetaseis",
+          "label": "Ιατρική Τεχνολογία - Καρδιολογικές εξετάσεις"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/prolipsi",
+          "label": "Πρόληψη"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/iatrikes-sumvoules-sustaseis",
+          "label": "Ιατρικές συμβουλές και συστάσεις"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/iatriki-vivliothiki/diatrofikes-sumvoules",
+          "label": "Διατροφικές συμβουλές"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/sunergasies",
+          "label": "Συνεργασίες"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/faq",
+          "label": "FAQ"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/contact",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://cardioprolipsis.gr/cardio",
+          "label": "Αρχική"
+        }
+      ],
+      "forms": [
+        {
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "bx-name",
+            "bx-email",
+            "bx-theme",
+            "bx-message",
+            "f1f2a32d1f8119e616b5b48e0d98711a"
+          ],
+          "submitLabels": [
+            "Αποστολή"
+          ],
+          "fields": [
+            {
+              "name": "bx-name",
+              "type": "text",
+              "label": "Ονοματεπώνυμο *",
+              "required": true
+            },
+            {
+              "name": "bx-email",
+              "type": "text",
+              "label": "Email *",
+              "required": true
+            },
+            {
+              "name": "bx-theme",
+              "type": "text",
+              "label": "Θέμα *",
+              "required": true
+            },
+            {
+              "name": "bx-message",
+              "type": "textarea",
+              "label": "Μήνυμα *",
+              "required": true
+            },
+            {
+              "name": "f1f2a32d1f8119e616b5b48e0d98711a",
+              "type": "hidden",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "+30 211 01 02 558",
+          "+30 211 01 36 676",
+          "211 0102558",
+          "211 0136676",
+          "6932355310",
+          "211 4110576",
+          "211010 2558 - 2110136676"
+        ],
+        "emails": [
+          "info@cardioprolipsis.gr"
+        ],
+        "addresses": [
+          "Επικοινωνία Στο ιατρείο μας μπορείτε να κλείσετε ραντεβού τηλεφωνικά (211 0102558, 211 0136676) ή να υποβάλετε ηλεκτρονικά το αίτημά σας για ραντεβού, ανεξαρτήτως των ωρών λειτουργίας της γραμματείας. Με τη λήψη του αιτήματός σας θα επικοινωνήσουμε μαζί σας στις ώρες που έχετε δηλώσει στη φόρμα, για να κλείσουμε το ραντεβού σας την ημέρα και ώρα που σας εξυπηρετεί. Ονοματεπώνυμο * Email * Θέμα * Μήνυμα * Αποστολή function onReCaptchaSuccess(){ var SMG = document.getElementsByName(\"submitFormMsg\")[0]; SMG.removeAttribute(\"disabled\"); SMG.classList.remove(\"_x\"); SMG.classList.add(\"__gcap\"); } function onExpired(){ var SMG = document.getElementsByName(\"submitFormMsg\")[0]; SMG.addAttribute(\"disabled\"); SMG.classList.add(\"_x\"); SMG.classList.remove(\"__gcap\"); } onloadCallback = () => { document.getElementById(\"g-recaptcha-response\").setAttribute( 'aria-label', 'g-recaptcha-response-hero' ); } ΠΛΗΡΟΦΟΡΙΕΣ Στο ιατρείο μας μπορείτε να κλείσετε ραντεβού τηλεφωνικά (211 0102558, 211 0136676) ή να υποβάλετε ηλεκτρονικά το αίτημά σας για ραντεβού, ανεξαρτήτως των ωρών λειτουργίας της γραμματείας. Με τη λήψη του αιτήματός σας θα επικοινωνήσουμε μαζί σας στις ώρες που έχετε δηλώσει στη φόρμα, για να κλείσουμε το ραντεβού σας την ημέρα και ώρα που σας εξυπηρετεί. Διεύθυνση Ιωάννου Φωκά 40, Αθήνα 111 42 , Ιατρική Εστία (ημιώροφος) Τ: 211 0102558, 211 0136676 Κ: 6932355310 F: 211 4110576 E: info@cardioprolipsis.gr W: cardioprolipsis.gr ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ ΓΡΑΜΜΑΤΕΙΑΣ Καθημερινά 9πμ-9μμ & Σάββατο 9πμ-1μμ ΔΕΧΟΜΑΣΤΕ Καθημερινά 9πμ-9μμ με ραντεβού ΣΤΟ ΙΑΤΡΕΙΟ ΜΑΣ ΜΠΟΡΕΙΤΕ ΝΑ ΕΡΘΕΤΕ: 1. Απευθείας, με τις γραμμές τρόλλεϋ 5 & 13 ή τη λεωφορειακή γραμμή 054 με αποβίβαση στη στάση ΦΩΚΑ 2. Μέσω ΗΣΑΠ, με αποβίβαση στη στάση ΑΝΩ ΠΑΤΗΣΙΑ και μετεπιβίβαση στη στάση ΑΓ. ΒΑΡΒΑΡΑ στο τρόλλεϋ 5 με αποβίβαση στη στάση ΦΩΚΑ ή στις λεωφορειακές γραμμές Α8 ή 605 με αποβίβαση στη στάση ΑΓ.ΑΝΤΩΝΙΟΣ ΑΠΟ ΤΟ ΙΑΤΡΕΙΟ ΜΑΣ ΜΠΟΡΕΙΤΕ ΝΑ ΑΝΑΧΩΡΗΣΕΤΕ: 1. Απευθείας, με τις γραμμές τρόλλεϋ 5 & 13 ή τη λεωφορειακή γραμμή 054 με επιβίβαση στη στάση ΣΧΟΛΕΙΟ 2. Μέσω ΗΣΑΠ, με επιβίβαση στο τρόλλεϋ 5 στη στάση ΣΧΟΛΕΙΟ ή στις λεωφορειακές γραμμές Α8 ή 605 στη στάση ΑΓ.ΑΝΤΩΝΙΟΣ, και αποβίβαση στη στάση ΑΓ.ΒΑΡΒΑΡΑ με μετεπιβίβαση στον ΗΣΑΠ στη στάση ΑΝΩ ΠΑΤΗΣΙΑ.",
+          "Επικοινωνία Στο ιατρείο μας μπορείτε να κλείσετε ραντεβού τηλεφωνικά (211 0102558, 211 0136676) ή να υποβάλετε ηλεκτρονικά το αίτημά σας για ραντεβού, ανεξαρτήτως των ωρών λειτουργίας της γραμματείας. Με τη λήψη του αιτήματός σας θα επικοινωνήσουμε μαζί σας στις ώρες που έχετε δηλώσει στη φόρμα, για να κλείσουμε το ραντεβού σας την ημέρα και ώρα που σας εξυπηρετεί. Ονοματεπώνυμο * Email * Θέμα * Μήνυμα * Αποστολή function onReCaptchaSuccess(){ var SMG = document.getElementsByName(\"submitFormMsg\")[0]; SMG.removeAttribute(\"disabled\"); SMG.classList.remove(\"_x\"); SMG.classList.add(\"__gcap\"); } function onExpired(){ var SMG = document.getElementsByName(\"submitFormMsg\")[0]; SMG.addAttribute(\"disabled\"); SMG.classList.add(\"_x\"); SMG.classList.remove(\"__gcap\"); } onloadCallback = () => { document.getElementById(\"g-recaptcha-response\").setAttribute( 'aria-label', 'g-recaptcha-response-hero' ); }",
+          "ΠΛΗΡΟΦΟΡΙΕΣ Στο ιατρείο μας μπορείτε να κλείσετε ραντεβού τηλεφωνικά (211 0102558, 211 0136676) ή να υποβάλετε ηλεκτρονικά το αίτημά σας για ραντεβού, ανεξαρτήτως των ωρών λειτουργίας της γραμματείας. Με τη λήψη του αιτήματός σας θα επικοινωνήσουμε μαζί σας στις ώρες που έχετε δηλώσει στη φόρμα, για να κλείσουμε το ραντεβού σας την ημέρα και ώρα που σας εξυπηρετεί. Διεύθυνση Ιωάννου Φωκά 40, Αθήνα 111 42 , Ιατρική Εστία (ημιώροφος) Τ: 211 0102558, 211 0136676 Κ: 6932355310 F: 211 4110576 E: info@cardioprolipsis.gr W: cardioprolipsis.gr ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ ΓΡΑΜΜΑΤΕΙΑΣ Καθημερινά 9πμ-9μμ & Σάββατο 9πμ-1μμ ΔΕΧΟΜΑΣΤΕ Καθημερινά 9πμ-9μμ με ραντεβού",
+          "Στο ιατρείο μας μπορείτε να κλείσετε ραντεβού τηλεφωνικά (211 0102558, 211 0136676) ή να υποβάλετε ηλεκτρονικά το αίτημά σας για ραντεβού, ανεξαρτήτως των ωρών λειτουργίας της γραμματείας. Με τη λήψη του αιτήματός σας θα επικοινωνήσουμε μαζί σας στις ώρες που έχετε δηλώσει στη φόρμα, για να κλείσουμε το ραντεβού σας την ημέρα και ώρα που σας εξυπηρετεί. Διεύθυνση Ιωάννου Φωκά 40, Αθήνα 111 42 , Ιατρική Εστία (ημιώροφος) Τ: 211 0102558, 211 0136676 Κ: 6932355310 F: 211 4110576 E: info@cardioprolipsis.gr W: cardioprolipsis.gr ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ ΓΡΑΜΜΑΤΕΙΑΣ Καθημερινά 9πμ-9μμ & Σάββατο 9πμ-1μμ ΔΕΧΟΜΑΣΤΕ Καθημερινά 9πμ-9μμ με ραντεβού",
+          "LINKS Iatropedia Incardiology.gr Medispin Iatronet ΕΟΠΥΥ Isathens Hcs Acha Escardio SITEMAP Αρχική Ποιοι είμαστε Το ιατρείο Ο ιατρός μας Υπηρεσίες - Τμήματα Ιατρική Βιβλιοθήκη Συνεργασίες FAQ Επικοινωνία ΕΠΙΚΟΙΝΩΝΙΑ Ιωάννου Φωκά 40, Αθήνα Τ.Κ. 111 42Ιατρική Εστία (ημιώροφος)Τηλέφωνο: 211010 2558 - 2110136676Email: info@cardioprolipsis.grΏρες ιατρείου: 9:00π.μ. - 9:00μ.μ.",
+          "ΕΠΙΚΟΙΝΩΝΙΑ Ιωάννου Φωκά 40, Αθήνα Τ.Κ. 111 42Ιατρική Εστία (ημιώροφος)Τηλέφωνο: 211010 2558 - 2110136676Email: info@cardioprolipsis.grΏρες ιατρείου: 9:00π.μ. - 9:00μ.μ."
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/Cardioprolipsis/"
+          }
+        ],
+        "forms": [
+          {
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "bx-name",
+              "bx-email",
+              "bx-theme",
+              "bx-message",
+              "f1f2a32d1f8119e616b5b48e0d98711a"
+            ],
+            "submitLabels": [
+              "Αποστολή"
+            ],
+            "fields": [
+              {
+                "name": "bx-name",
+                "type": "text",
+                "label": "Ονοματεπώνυμο *",
+                "required": true
+              },
+              {
+                "name": "bx-email",
+                "type": "text",
+                "label": "Email *",
+                "required": true
+              },
+              {
+                "name": "bx-theme",
+                "type": "text",
+                "label": "Θέμα *",
+                "required": true
+              },
+              {
+                "name": "bx-message",
+                "type": "textarea",
+                "label": "Μήνυμα *",
+                "required": true
+              },
+              {
+                "name": "f1f2a32d1f8119e616b5b48e0d98711a",
+                "type": "hidden",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "textContent": "call +30 211 01 02 558 +30 211 01 36 676 Μετρήστε τον κίνδυνό σας language GR EN groups Ζητήστε ραντεβού draftsinfo@cardioprolipsis.gr Αρχική Ποιοι είμαστε Το ιατρείο Ο ιατρός μας Υπηρεσίες - Τμήματα Καρδιολογικές Υπηρεσίες Καρδιολογικός έλεγχος Βεβαιώσεις - Γνωματεύσεις Επείγοντα περιστατικά Παρακλινικές Εξετάσεις Υπέρηχοι - Triplex Έλεγχος καρδιακής ισχαιμίας Holter - Συσκευές παρακολούθησης Διαγνωστικές δοκιμασίες συγκοπής Ειδικοί βιομετρητές Ειδικές Υπηρεσίες Προαθλητικός έλεγχος Καρδιολογική παρακολούθηση κύησης Υπερηχογραφική εκτίμηση παίδων Έλεγχος βηματοδοτών Διακοπή καπνίσματος Καρδιαγγειακή πρόληψη Ειδικά Τμήματα Τμήμα Διατροφής Τμήμα Τηλεϊατρικής Κατ’ οίκον ιατρική επίσκεψη Τμήμα Καρδιακής Αποκατάστασης Ιατρική Βιβλιοθήκη Κλινική συμπτωματολογία Καρδιολογικά Θέματα - Καρδιακές Παθήσεις Ιατρική Τεχνολογία - Καρδιολογικές εξετάσεις Πρόληψη Ιατρικές συμβουλές και συστάσεις Διατροφικές συμβουλές Συνεργασίες FAQ Επικοινωνία var burger = document.getElementsByClassName( \"burger\" )[0]; var flag = false; burger.addEventListener( \"click\" , function(){ if( !flag ){document.getElementsByClassName( \"cardio--menu--rock\" )[0].style.visibility = \"visible\";flag = true;}else{document.getElementsByClassName( \"cardio--menu--rock\" )[0].style.visibility = \"hidden\";flag = false;}}); var bicon = document.getElementsByClassName( \"bicon\" )[0]; var flagBurger = false; bicon.addEventListener( \"click\" , function(){ if( !flagBurger ){ burger.classList.add(\"aa__cx\"); bicon.classList.add( \"active\" );flagBurger = true; }else{ burger.classList.remove(\"aa__cx\"); bicon.classList.remove( \"active\" );flagBurger = false; } }); Βρίσκεστε εδώ: Αρχική Επικοινωνία Επικοινωνία Στο ιατρείο μας μπορείτε να κλείσετε ραντεβού τηλεφωνικά (211 0102558, 211 0136676) ή να υποβάλετε ηλεκτρονικά το αίτημά σας για ραντεβού, ανεξαρτήτως των ωρών λειτουργίας της γραμματείας. Με τη λήψη του αιτήματός σας θα επικοινωνήσουμε μαζί σας στις ώρες που έχετε δηλώσει στη φόρμα, για να κλείσουμε το ραντεβού σας την ημέρα και ώρα που σας εξυπηρετεί. Ονοματεπώνυμο * Email * Θέμα * Μήνυμα * Αποστολή function onReCaptchaSuccess(){ var SMG = document.getElementsByName(\"submitFormMsg\")[0]; SMG.removeAttribute(\"disabled\"); SMG.classList.remove(\"_x\"); SMG.classList.add(\"__gcap\"); } function onExpired(){ var SMG = document.getElementsByName(\"submitFormMsg\")[0]; SMG.addAttribute(\"disabled\"); SMG.classList.add(\"_x\"); SMG.classList.remove(\"__gcap\"); } onloadCallback = () => { document.getElementById(\"g-recaptcha-response\").setAttribute( 'aria-label', 'g-recaptcha-response-hero' ); } ΠΛΗΡΟΦΟΡΙΕΣ Στο ιατρείο μας μπορείτε να κλείσετε ραντεβού τηλεφωνικά (211 0102558, 211 0136676) ή να υποβάλετε ηλεκτρονικά το αίτημά σας για ραντεβού, ανεξαρτήτως των ωρών λειτουργίας της γραμματείας. Με τη λήψη του αιτήματός σας θα επικοινωνήσουμε μαζί σας στις ώρες που έχετε δηλώσει στη φόρμα, για να κλείσουμε το ραντεβού σας την ημέρα και ώρα που σας εξυπηρετεί. Διεύθυνση Ιωάννου Φωκά 40, Αθήνα 111 42 , Ιατρική Εστία (ημιώροφος) Τ: 211 0102558, 211 0136676 Κ: 6932355310 F: 211 4110576 E: info@cardioprolipsis.gr W: cardioprolipsis.gr ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ ΓΡΑΜΜΑΤΕΙΑΣ Καθημερινά 9πμ-9μμ & Σάββατο 9πμ-1μμ ΔΕΧΟΜΑΣΤΕ Καθημερινά 9πμ-9μμ με ραντεβού ΣΤΟ ΙΑΤΡΕΙΟ ΜΑΣ ΜΠΟΡΕΙΤΕ ΝΑ ΕΡΘΕΤΕ: 1. Απευθείας, με τις γραμμές τρόλλεϋ 5 & 13 ή τη λεωφορειακή γραμμή 054 με αποβίβαση στη στάση ΦΩΚΑ 2. Μέσω ΗΣΑΠ, με αποβίβαση στη στάση ΑΝΩ ΠΑΤΗΣΙΑ και μετεπιβίβαση στη στάση ΑΓ. ΒΑΡΒΑΡΑ στο τρόλλεϋ 5 με αποβίβαση στη στάση ΦΩΚΑ ή στις λεωφορειακές γραμμές Α8 ή 605 με αποβίβαση στη στάση ΑΓ.ΑΝΤΩΝΙΟΣ ΑΠΟ ΤΟ ΙΑΤΡΕΙΟ ΜΑΣ ΜΠΟΡΕΙΤΕ ΝΑ ΑΝΑΧΩΡΗΣΕΤΕ: 1. Απευθείας, με τις γραμμές τρόλλεϋ 5 & 13 ή τη λεωφορειακή γραμμή 054 με επιβίβαση στη στάση ΣΧΟΛΕΙΟ 2. Μέσω ΗΣΑΠ, με επιβίβαση στο τρόλλεϋ 5 στη στάση ΣΧΟΛΕΙΟ ή στις λεωφορειακές γραμμές Α8 ή 605 στη στάση ΑΓ.ΑΝΤΩΝΙΟΣ, και αποβίβαση στη στάση ΑΓ.ΒΑΡΒΑΡΑ με μετεπιβίβαση στον ΗΣΑΠ στη στάση ΑΝΩ ΠΑΤΗΣΙΑ. LINKS Iatropedia Incardiology.gr Medispin Iatronet ΕΟΠΥΥ Isathens Hcs Acha Escardio SITEMAP Αρχική Ποιοι είμαστε Το ιατρείο Ο ιατρός μας Υπηρεσίες - Τμήματα Ιατρική Βιβλιοθήκη Συνεργασίες FAQ Επικοινωνία ΕΠΙΚΟΙΝΩΝΙΑ Ιωάννου Φωκά 40, Αθήνα Τ.Κ. 111 42Ιατρική Εστία (ημιώροφος)Τηλέφωνο: 211010 2558 - 2110136676Email: info@cardioprolipsis.grΏρες ιατρείου: 9:00π.μ. - 9:00μ.μ. © 2023 cardioprolipsis.gr All Rights Reserved Designed & Developed by: overmedia.sa jQuery(document).ready(function(e){jQuery(\".blog-featured\").remove()}),window.onload=function(){var e=document.getElementById(\"preload\"),t=document.getElementsByClassName(\"ld-logo\")[0];setTimeout(function(){t.style.visibility=\"visible\"},200),setTimeout(function(){document.body.removeChild(e)},2e3)};var loadDeferredStyles=function(){var e=document.getElementsByClassName(\"deferred-styles\"),t=document.createElement(\"div\");t.id=\"styles\";for(var o=0;o<e.length;o++)t.innerHTML+=e[o].textContent,e[o].id=\"to-remove-\"+o;document.body.appendChild(t)},raf=requestAnimationFrame||mozRequestAnimationFrame||webkitRequestAnimationFrame||msRequestAnimationFrame;raf?raf(function(){window.setTimeout(loadDeferredStyles,0)}):window.addEventListener(\"load\",loadDeferredStyles);var _userway_config = { account: 'Typ2cEQ8Pj' }; document.addEventListener(\"DOMContentLoaded\", function(event) { var cpm = {}; window.cookiehub.load(cpm); });",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/cardioprolipsis.gr-home-cce933ff/contact-el-contact-071c430a.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/cardioprolipsis.gr-home-cce933ff/contact-el-contact-071c430a.txt",
+      "imageReferences": [
+        {
+          "url": "https://cardioprolipsis.gr/images/logo.png",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el/contact",
+          "pageType": "contact",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://cardioprolipsis.gr/el/contact",
+              "retrievedAt": "2026-03-31T13:22:23.459Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/templates/cardio/images/loading.gif",
+          "alt": "Cardioprolipsis",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el/contact",
+              "retrievedAt": "2026-03-31T13:22:23.459Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/templates/cardio/images/banner_espa_el.jpg",
+          "alt": "ESPA 2014-2020",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el/contact",
+              "retrievedAt": "2026-03-31T13:22:23.459Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/templates/cardio/images/espa/mme_web_el.jpg",
+          "alt": "ESPA 2014-2020",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el/contact",
+              "retrievedAt": "2026-03-31T13:22:23.459Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/templates/cardio/images/espa/antagonistikotita_web_el.jpg",
+          "alt": "ESPA 2014-2020",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el/contact",
+              "retrievedAt": "2026-03-31T13:22:23.459Z"
+            }
+          ]
+        },
+        {
+          "url": "https://cardioprolipsis.gr/images/slideshowsmall.jpg",
+          "alt": "Cardioprolipsis Our Team",
+          "sourcePageUrl": "https://cardioprolipsis.gr/el/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://cardioprolipsis.gr/el/contact",
+              "retrievedAt": "2026-03-31T13:22:23.459Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://cardioprolipsis.gr/el/contact",
+          "retrievedAt": "2026-03-31T13:22:23.461Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/cardioprolipsis.gr-home-cce933ff/contact-el-contact-071c430a.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "+30 211 01 02 558",
+      "+30 211 01 36 676",
+      "211-0102558",
+      "211-0136676",
+      "211010 2558 - 2110136676",
+      "211 0102558",
+      "211 0136676",
+      "6932355310",
+      "211 4110576"
+    ],
+    "emails": [
+      "info@cardioprolipsis.gr"
+    ],
+    "addresses": [
+      "LINKS Iatropedia Incardiology.gr Medispin Iatronet ΕΟΠΥΥ Isathens Hcs Acha Escardio SITEMAP Αρχική Ποιοι είμαστε Το ιατρείο Ο ιατρός μας Υπηρεσίες - Τμήματα Ιατρική Βιβλιοθήκη Συνεργασίες FAQ Επικοινωνία ΕΠΙΚΟΙΝΩΝΙΑ Ιωάννου Φωκά 40, Αθήνα Τ.Κ. 111 42Ιατρική Εστία (ημιώροφος)Τηλέφωνο: 211010 2558 - 2110136676Email: info@cardioprolipsis.grΏρες ιατρείου: 9:00π.μ. - 9:00μ.μ.",
+      "ΕΠΙΚΟΙΝΩΝΙΑ Ιωάννου Φωκά 40, Αθήνα Τ.Κ. 111 42Ιατρική Εστία (ημιώροφος)Τηλέφωνο: 211010 2558 - 2110136676Email: info@cardioprolipsis.grΏρες ιατρείου: 9:00π.μ. - 9:00μ.μ.",
+      "Επικοινωνία Στο ιατρείο μας μπορείτε να κλείσετε ραντεβού τηλεφωνικά (211 0102558, 211 0136676) ή να υποβάλετε ηλεκτρονικά το αίτημά σας για ραντεβού, ανεξαρτήτως των ωρών λειτουργίας της γραμματείας. Με τη λήψη του αιτήματός σας θα επικοινωνήσουμε μαζί σας στις ώρες που έχετε δηλώσει στη φόρμα, για να κλείσουμε το ραντεβού σας την ημέρα και ώρα που σας εξυπηρετεί. Ονοματεπώνυμο * Email * Θέμα * Μήνυμα * Αποστολή function onReCaptchaSuccess(){ var SMG = document.getElementsByName(\"submitFormMsg\")[0]; SMG.removeAttribute(\"disabled\"); SMG.classList.remove(\"_x\"); SMG.classList.add(\"__gcap\"); } function onExpired(){ var SMG = document.getElementsByName(\"submitFormMsg\")[0]; SMG.addAttribute(\"disabled\"); SMG.classList.add(\"_x\"); SMG.classList.remove(\"__gcap\"); } onloadCallback = () => { document.getElementById(\"g-recaptcha-response\").setAttribute( 'aria-label', 'g-recaptcha-response-hero' ); } ΠΛΗΡΟΦΟΡΙΕΣ Στο ιατρείο μας μπορείτε να κλείσετε ραντεβού τηλεφωνικά (211 0102558, 211 0136676) ή να υποβάλετε ηλεκτρονικά το αίτημά σας για ραντεβού, ανεξαρτήτως των ωρών λειτουργίας της γραμματείας. Με τη λήψη του αιτήματός σας θα επικοινωνήσουμε μαζί σας στις ώρες που έχετε δηλώσει στη φόρμα, για να κλείσουμε το ραντεβού σας την ημέρα και ώρα που σας εξυπηρετεί. Διεύθυνση Ιωάννου Φωκά 40, Αθήνα 111 42 , Ιατρική Εστία (ημιώροφος) Τ: 211 0102558, 211 0136676 Κ: 6932355310 F: 211 4110576 E: info@cardioprolipsis.gr W: cardioprolipsis.gr ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ ΓΡΑΜΜΑΤΕΙΑΣ Καθημερινά 9πμ-9μμ & Σάββατο 9πμ-1μμ ΔΕΧΟΜΑΣΤΕ Καθημερινά 9πμ-9μμ με ραντεβού ΣΤΟ ΙΑΤΡΕΙΟ ΜΑΣ ΜΠΟΡΕΙΤΕ ΝΑ ΕΡΘΕΤΕ: 1. Απευθείας, με τις γραμμές τρόλλεϋ 5 & 13 ή τη λεωφορειακή γραμμή 054 με αποβίβαση στη στάση ΦΩΚΑ 2. Μέσω ΗΣΑΠ, με αποβίβαση στη στάση ΑΝΩ ΠΑΤΗΣΙΑ και μετεπιβίβαση στη στάση ΑΓ. ΒΑΡΒΑΡΑ στο τρόλλεϋ 5 με αποβίβαση στη στάση ΦΩΚΑ ή στις λεωφορειακές γραμμές Α8 ή 605 με αποβίβαση στη στάση ΑΓ.ΑΝΤΩΝΙΟΣ ΑΠΟ ΤΟ ΙΑΤΡΕΙΟ ΜΑΣ ΜΠΟΡΕΙΤΕ ΝΑ ΑΝΑΧΩΡΗΣΕΤΕ: 1. Απευθείας, με τις γραμμές τρόλλεϋ 5 & 13 ή τη λεωφορειακή γραμμή 054 με επιβίβαση στη στάση ΣΧΟΛΕΙΟ 2. Μέσω ΗΣΑΠ, με επιβίβαση στο τρόλλεϋ 5 στη στάση ΣΧΟΛΕΙΟ ή στις λεωφορειακές γραμμές Α8 ή 605 στη στάση ΑΓ.ΑΝΤΩΝΙΟΣ, και αποβίβαση στη στάση ΑΓ.ΒΑΡΒΑΡΑ με μετεπιβίβαση στον ΗΣΑΠ στη στάση ΑΝΩ ΠΑΤΗΣΙΑ.",
+      "Επικοινωνία Στο ιατρείο μας μπορείτε να κλείσετε ραντεβού τηλεφωνικά (211 0102558, 211 0136676) ή να υποβάλετε ηλεκτρονικά το αίτημά σας για ραντεβού, ανεξαρτήτως των ωρών λειτουργίας της γραμματείας. Με τη λήψη του αιτήματός σας θα επικοινωνήσουμε μαζί σας στις ώρες που έχετε δηλώσει στη φόρμα, για να κλείσουμε το ραντεβού σας την ημέρα και ώρα που σας εξυπηρετεί. Ονοματεπώνυμο * Email * Θέμα * Μήνυμα * Αποστολή function onReCaptchaSuccess(){ var SMG = document.getElementsByName(\"submitFormMsg\")[0]; SMG.removeAttribute(\"disabled\"); SMG.classList.remove(\"_x\"); SMG.classList.add(\"__gcap\"); } function onExpired(){ var SMG = document.getElementsByName(\"submitFormMsg\")[0]; SMG.addAttribute(\"disabled\"); SMG.classList.add(\"_x\"); SMG.classList.remove(\"__gcap\"); } onloadCallback = () => { document.getElementById(\"g-recaptcha-response\").setAttribute( 'aria-label', 'g-recaptcha-response-hero' ); }",
+      "ΠΛΗΡΟΦΟΡΙΕΣ Στο ιατρείο μας μπορείτε να κλείσετε ραντεβού τηλεφωνικά (211 0102558, 211 0136676) ή να υποβάλετε ηλεκτρονικά το αίτημά σας για ραντεβού, ανεξαρτήτως των ωρών λειτουργίας της γραμματείας. Με τη λήψη του αιτήματός σας θα επικοινωνήσουμε μαζί σας στις ώρες που έχετε δηλώσει στη φόρμα, για να κλείσουμε το ραντεβού σας την ημέρα και ώρα που σας εξυπηρετεί. Διεύθυνση Ιωάννου Φωκά 40, Αθήνα 111 42 , Ιατρική Εστία (ημιώροφος) Τ: 211 0102558, 211 0136676 Κ: 6932355310 F: 211 4110576 E: info@cardioprolipsis.gr W: cardioprolipsis.gr ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ ΓΡΑΜΜΑΤΕΙΑΣ Καθημερινά 9πμ-9μμ & Σάββατο 9πμ-1μμ ΔΕΧΟΜΑΣΤΕ Καθημερινά 9πμ-9μμ με ραντεβού",
+      "Στο ιατρείο μας μπορείτε να κλείσετε ραντεβού τηλεφωνικά (211 0102558, 211 0136676) ή να υποβάλετε ηλεκτρονικά το αίτημά σας για ραντεβού, ανεξαρτήτως των ωρών λειτουργίας της γραμματείας. Με τη λήψη του αιτήματός σας θα επικοινωνήσουμε μαζί σας στις ώρες που έχετε δηλώσει στη φόρμα, για να κλείσουμε το ραντεβού σας την ημέρα και ώρα που σας εξυπηρετεί. Διεύθυνση Ιωάννου Φωκά 40, Αθήνα 111 42 , Ιατρική Εστία (ημιώροφος) Τ: 211 0102558, 211 0136676 Κ: 6932355310 F: 211 4110576 E: info@cardioprolipsis.gr W: cardioprolipsis.gr ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ ΓΡΑΜΜΑΤΕΙΑΣ Καθημερινά 9πμ-9μμ & Σάββατο 9πμ-1μμ ΔΕΧΟΜΑΣΤΕ Καθημερινά 9πμ-9μμ με ραντεβού"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/Cardioprolipsis/"
+      }
+    ],
+    "forms": [
+      {
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "bx-name",
+          "bx-email",
+          "bx-theme",
+          "bx-message",
+          "f1f2a32d1f8119e616b5b48e0d98711a"
+        ],
+        "submitLabels": [
+          "Αποστολή"
+        ],
+        "fields": [
+          {
+            "name": "bx-name",
+            "type": "text",
+            "label": "Ονοματεπώνυμο *",
+            "required": true
+          },
+          {
+            "name": "bx-email",
+            "type": "text",
+            "label": "Email *",
+            "required": true
+          },
+          {
+            "name": "bx-theme",
+            "type": "text",
+            "label": "Θέμα *",
+            "required": true
+          },
+          {
+            "name": "bx-message",
+            "type": "textarea",
+            "label": "Μήνυμα *",
+            "required": true
+          },
+          {
+            "name": "f1f2a32d1f8119e616b5b48e0d98711a",
+            "type": "hidden",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Cardioprolipsis - Το πολυδύναμο καρδιολογικό ιατρείο του κ. Βαχλιώτη",
+    "metaDescription": "Το καρδιολογικό ιατρείο του κ. Βαχλιώτη είναι μια σύγχρονη καρδιολογική μονάδα παροχής υψηλού επιπέδου ποιοτικών ιατρικών υπηρεσιών.",
+    "language": "el-gr",
+    "openGraphTitle": "Καρδιολογικό Ιατρείο Cardioprolipsis",
+    "openGraphDescription": "Cardioprolipsis - Το πολυδύναμο καρδιολογικό ιατρείο του κ. Βαχλιώτη",
+    "openGraphImage": "https://cardioprolipsis.gr/images/logo.png"
+  },
+  "imageReferences": [
+    {
+      "url": "https://cardioprolipsis.gr/images/logo.png",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.215Z"
+        }
+      ]
+    },
+    {
+      "url": "https://cardioprolipsis.gr/templates/cardio/images/loading.gif",
+      "alt": "Cardioprolipsis",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.215Z"
+        }
+      ]
+    },
+    {
+      "url": "https://cardioprolipsis.gr/templates/cardio/images/banner_espa_el.jpg",
+      "alt": "ESPA 2014-2020",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.215Z"
+        }
+      ]
+    },
+    {
+      "url": "https://cardioprolipsis.gr/templates/cardio/images/espa/mme_web_el.jpg",
+      "alt": "ESPA 2014-2020",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.215Z"
+        }
+      ]
+    },
+    {
+      "url": "https://cardioprolipsis.gr/templates/cardio/images/espa/antagonistikotita_web_el.jpg",
+      "alt": "ESPA 2014-2020",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.215Z"
+        }
+      ]
+    },
+    {
+      "url": "https://cardioprolipsis.gr/images/slideshowsmall.jpg",
+      "alt": "Cardioprolipsis Our Team",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.215Z"
+        }
+      ]
+    },
+    {
+      "url": "https://cardioprolipsis.gr/modules/mod_bx_provider/media/images/doctor-4.png",
+      "alt": "ΣΥΓΧΡΟΝΕΣ ΚΑΡΔΙΟΛΟΓΙΚΕΣ ΥΠΗΡΕΣΙΕΣ",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.215Z"
+        }
+      ]
+    },
+    {
+      "url": "https://cardioprolipsis.gr/modules/mod_bx_provider/media/images/img4.png",
+      "alt": "ΣΥΓΧΡΟΝΕΣ ΚΑΡΔΙΟΛΟΓΙΚΕΣ ΥΠΗΡΕΣΙΕΣ - MORE",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.215Z"
+        }
+      ]
+    },
+    {
+      "url": "https://cardioprolipsis.gr/modules/mod_bx_provider/media/images/doctor-2.png",
+      "alt": "ΜΟΝΑΔΙΚΕΣ ΕΞΕΙΔΙΚΕΥΜΕΝΕΣ ΥΠΗΡΕΣΙΕΣ",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.216Z"
+        }
+      ]
+    },
+    {
+      "url": "https://cardioprolipsis.gr/modules/mod_bx_provider/media/images/img2.png",
+      "alt": "ΜΟΝΑΔΙΚΕΣ ΕΞΕΙΔΙΚΕΥΜΕΝΕΣ ΥΠΗΡΕΣΙΕΣ - MORE",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.216Z"
+        }
+      ]
+    },
+    {
+      "url": "https://cardioprolipsis.gr/modules/mod_bx_provider/media/images/doctor-1.png",
+      "alt": "ΕΙΔΙΚΑ ΤΜΗΜΑΤΑ",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.216Z"
+        }
+      ]
+    },
+    {
+      "url": "https://cardioprolipsis.gr/modules/mod_bx_provider/media/images/img1.png",
+      "alt": "ΕΙΔΙΚΑ ΤΜΗΜΑΤΑ - MORE",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.216Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "+30 211 01 02 558",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.215Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 211 01 36 676",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.215Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "211-0102558",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.215Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "211-0136676",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.215Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "211010 2558 - 2110136676",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.215Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@cardioprolipsis.gr",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.215Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "LINKS Iatropedia Incardiology.gr Medispin Iatronet ΕΟΠΥΥ Isathens Hcs Acha Escardio SITEMAP Αρχική Ποιοι είμαστε Το ιατρείο Ο ιατρός μας Υπηρεσίες - Τμήματα Ιατρική Βιβλιοθήκη Συνεργασίες FAQ Επικοινωνία ΕΠΙΚΟΙΝΩΝΙΑ Ιωάννου Φωκά 40, Αθήνα Τ.Κ. 111 42Ιατρική Εστία (ημιώροφος)Τηλέφωνο: 211010 2558 - 2110136676Email: info@cardioprolipsis.grΏρες ιατρείου: 9:00π.μ. - 9:00μ.μ.",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.215Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "ΕΠΙΚΟΙΝΩΝΙΑ Ιωάννου Φωκά 40, Αθήνα Τ.Κ. 111 42Ιατρική Εστία (ημιώροφος)Τηλέφωνο: 211010 2558 - 2110136676Email: info@cardioprolipsis.grΏρες ιατρείου: 9:00π.μ. - 9:00μ.μ.",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://cardioprolipsis.gr/el",
+          "retrievedAt": "2026-03-31T13:22:22.215Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "211 0102558",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el/contact",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://cardioprolipsis.gr/el/contact",
+          "retrievedAt": "2026-03-31T13:22:23.459Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "211 0136676",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el/contact",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://cardioprolipsis.gr/el/contact",
+          "retrievedAt": "2026-03-31T13:22:23.459Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "6932355310",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el/contact",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://cardioprolipsis.gr/el/contact",
+          "retrievedAt": "2026-03-31T13:22:23.459Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "211 4110576",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el/contact",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://cardioprolipsis.gr/el/contact",
+          "retrievedAt": "2026-03-31T13:22:23.459Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Επικοινωνία Στο ιατρείο μας μπορείτε να κλείσετε ραντεβού τηλεφωνικά (211 0102558, 211 0136676) ή να υποβάλετε ηλεκτρονικά το αίτημά σας για ραντεβού, ανεξαρτήτως των ωρών λειτουργίας της γραμματείας. Με τη λήψη του αιτήματός σας θα επικοινωνήσουμε μαζί σας στις ώρες που έχετε δηλώσει στη φόρμα, για να κλείσουμε το ραντεβού σας την ημέρα και ώρα που σας εξυπηρετεί. Ονοματεπώνυμο * Email * Θέμα * Μήνυμα * Αποστολή function onReCaptchaSuccess(){ var SMG = document.getElementsByName(\"submitFormMsg\")[0]; SMG.removeAttribute(\"disabled\"); SMG.classList.remove(\"_x\"); SMG.classList.add(\"__gcap\"); } function onExpired(){ var SMG = document.getElementsByName(\"submitFormMsg\")[0]; SMG.addAttribute(\"disabled\"); SMG.classList.add(\"_x\"); SMG.classList.remove(\"__gcap\"); } onloadCallback = () => { document.getElementById(\"g-recaptcha-response\").setAttribute( 'aria-label', 'g-recaptcha-response-hero' ); } ΠΛΗΡΟΦΟΡΙΕΣ Στο ιατρείο μας μπορείτε να κλείσετε ραντεβού τηλεφωνικά (211 0102558, 211 0136676) ή να υποβάλετε ηλεκτρονικά το αίτημά σας για ραντεβού, ανεξαρτήτως των ωρών λειτουργίας της γραμματείας. Με τη λήψη του αιτήματός σας θα επικοινωνήσουμε μαζί σας στις ώρες που έχετε δηλώσει στη φόρμα, για να κλείσουμε το ραντεβού σας την ημέρα και ώρα που σας εξυπηρετεί. Διεύθυνση Ιωάννου Φωκά 40, Αθήνα 111 42 , Ιατρική Εστία (ημιώροφος) Τ: 211 0102558, 211 0136676 Κ: 6932355310 F: 211 4110576 E: info@cardioprolipsis.gr W: cardioprolipsis.gr ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ ΓΡΑΜΜΑΤΕΙΑΣ Καθημερινά 9πμ-9μμ & Σάββατο 9πμ-1μμ ΔΕΧΟΜΑΣΤΕ Καθημερινά 9πμ-9μμ με ραντεβού ΣΤΟ ΙΑΤΡΕΙΟ ΜΑΣ ΜΠΟΡΕΙΤΕ ΝΑ ΕΡΘΕΤΕ: 1. Απευθείας, με τις γραμμές τρόλλεϋ 5 & 13 ή τη λεωφορειακή γραμμή 054 με αποβίβαση στη στάση ΦΩΚΑ 2. Μέσω ΗΣΑΠ, με αποβίβαση στη στάση ΑΝΩ ΠΑΤΗΣΙΑ και μετεπιβίβαση στη στάση ΑΓ. ΒΑΡΒΑΡΑ στο τρόλλεϋ 5 με αποβίβαση στη στάση ΦΩΚΑ ή στις λεωφορειακές γραμμές Α8 ή 605 με αποβίβαση στη στάση ΑΓ.ΑΝΤΩΝΙΟΣ ΑΠΟ ΤΟ ΙΑΤΡΕΙΟ ΜΑΣ ΜΠΟΡΕΙΤΕ ΝΑ ΑΝΑΧΩΡΗΣΕΤΕ: 1. Απευθείας, με τις γραμμές τρόλλεϋ 5 & 13 ή τη λεωφορειακή γραμμή 054 με επιβίβαση στη στάση ΣΧΟΛΕΙΟ 2. Μέσω ΗΣΑΠ, με επιβίβαση στο τρόλλεϋ 5 στη στάση ΣΧΟΛΕΙΟ ή στις λεωφορειακές γραμμές Α8 ή 605 στη στάση ΑΓ.ΑΝΤΩΝΙΟΣ, και αποβίβαση στη στάση ΑΓ.ΒΑΡΒΑΡΑ με μετεπιβίβαση στον ΗΣΑΠ στη στάση ΑΝΩ ΠΑΤΗΣΙΑ.",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el/contact",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://cardioprolipsis.gr/el/contact",
+          "retrievedAt": "2026-03-31T13:22:23.459Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Επικοινωνία Στο ιατρείο μας μπορείτε να κλείσετε ραντεβού τηλεφωνικά (211 0102558, 211 0136676) ή να υποβάλετε ηλεκτρονικά το αίτημά σας για ραντεβού, ανεξαρτήτως των ωρών λειτουργίας της γραμματείας. Με τη λήψη του αιτήματός σας θα επικοινωνήσουμε μαζί σας στις ώρες που έχετε δηλώσει στη φόρμα, για να κλείσουμε το ραντεβού σας την ημέρα και ώρα που σας εξυπηρετεί. Ονοματεπώνυμο * Email * Θέμα * Μήνυμα * Αποστολή function onReCaptchaSuccess(){ var SMG = document.getElementsByName(\"submitFormMsg\")[0]; SMG.removeAttribute(\"disabled\"); SMG.classList.remove(\"_x\"); SMG.classList.add(\"__gcap\"); } function onExpired(){ var SMG = document.getElementsByName(\"submitFormMsg\")[0]; SMG.addAttribute(\"disabled\"); SMG.classList.add(\"_x\"); SMG.classList.remove(\"__gcap\"); } onloadCallback = () => { document.getElementById(\"g-recaptcha-response\").setAttribute( 'aria-label', 'g-recaptcha-response-hero' ); }",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el/contact",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://cardioprolipsis.gr/el/contact",
+          "retrievedAt": "2026-03-31T13:22:23.459Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "ΠΛΗΡΟΦΟΡΙΕΣ Στο ιατρείο μας μπορείτε να κλείσετε ραντεβού τηλεφωνικά (211 0102558, 211 0136676) ή να υποβάλετε ηλεκτρονικά το αίτημά σας για ραντεβού, ανεξαρτήτως των ωρών λειτουργίας της γραμματείας. Με τη λήψη του αιτήματός σας θα επικοινωνήσουμε μαζί σας στις ώρες που έχετε δηλώσει στη φόρμα, για να κλείσουμε το ραντεβού σας την ημέρα και ώρα που σας εξυπηρετεί. Διεύθυνση Ιωάννου Φωκά 40, Αθήνα 111 42 , Ιατρική Εστία (ημιώροφος) Τ: 211 0102558, 211 0136676 Κ: 6932355310 F: 211 4110576 E: info@cardioprolipsis.gr W: cardioprolipsis.gr ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ ΓΡΑΜΜΑΤΕΙΑΣ Καθημερινά 9πμ-9μμ & Σάββατο 9πμ-1μμ ΔΕΧΟΜΑΣΤΕ Καθημερινά 9πμ-9μμ με ραντεβού",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el/contact",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://cardioprolipsis.gr/el/contact",
+          "retrievedAt": "2026-03-31T13:22:23.459Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Στο ιατρείο μας μπορείτε να κλείσετε ραντεβού τηλεφωνικά (211 0102558, 211 0136676) ή να υποβάλετε ηλεκτρονικά το αίτημά σας για ραντεβού, ανεξαρτήτως των ωρών λειτουργίας της γραμματείας. Με τη λήψη του αιτήματός σας θα επικοινωνήσουμε μαζί σας στις ώρες που έχετε δηλώσει στη φόρμα, για να κλείσουμε το ραντεβού σας την ημέρα και ώρα που σας εξυπηρετεί. Διεύθυνση Ιωάννου Φωκά 40, Αθήνα 111 42 , Ιατρική Εστία (ημιώροφος) Τ: 211 0102558, 211 0136676 Κ: 6932355310 F: 211 4110576 E: info@cardioprolipsis.gr W: cardioprolipsis.gr ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ ΓΡΑΜΜΑΤΕΙΑΣ Καθημερινά 9πμ-9μμ & Σάββατο 9πμ-1μμ ΔΕΧΟΜΑΣΤΕ Καθημερινά 9πμ-9μμ με ραντεβού",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el/contact",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://cardioprolipsis.gr/el/contact",
+          "retrievedAt": "2026-03-31T13:22:23.459Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://cardioprolipsis.gr/el/contact",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el/contact",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://cardioprolipsis.gr/el/contact",
+          "retrievedAt": "2026-03-31T13:22:23.459Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://cardioprolipsis.gr/el/contact",
+      "sourcePageUrl": "https://cardioprolipsis.gr/el/contact",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://cardioprolipsis.gr/el/contact",
+          "retrievedAt": "2026-03-31T13:22:23.459Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://cardioprolipsis.gr/",
+    "finalOrigin": "https://cardioprolipsis.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://cardioprolipsis.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:22:21.536Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [],
+      "disallowRules": [
+        "/administrator/",
+        "/bin/",
+        "/cache/",
+        "/cli/",
+        "/components/",
+        "/includes/",
+        "/installation/",
+        "/language/",
+        "/layouts/",
+        "/libraries/",
+        "/logs/",
+        "/modules/",
+        "/plugins/",
+        "/tmp/"
+      ],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://cardioprolipsis.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:22:21.220Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://cardioprolipsis.gr/el",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://cardioprolipsis.gr/",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/el/cardio-services/2-tmima-diatrofis",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/el/cardio-services/3-frontida-egkuou",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/el/cardio-services/1-cp-program",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/our-doctor",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/faq",
+        "action": "queued",
+        "pageTypeHint": "faq",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/ipiresis-2/kardiologikes-ipiresies",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/ipiresis-2/eidikes-ipiresies",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/rules",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/who-are-we",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/iatreio",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/ipiresis-2/paraklinikes-eksetaseis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata/tmima-diatrofis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata/tmima-tileiatrikis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:22.218Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/el/contact",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:23.461Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/el/contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://cardioprolipsis.gr/el/contact",
+        "timestamp": "2026-03-31T13:22:23.461Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata/homecare",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://cardioprolipsis.gr/el/contact",
+        "timestamp": "2026-03-31T13:22:23.461Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/ipiresis-2/eidika-tmimata/tmima-kardiakis-apokatastasis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://cardioprolipsis.gr/el/contact",
+        "timestamp": "2026-03-31T13:22:23.462Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/iatriki-vivliothiki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://cardioprolipsis.gr/el/contact",
+        "timestamp": "2026-03-31T13:22:23.462Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/iatriki-vivliothiki/kliniki-simptomatologia",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://cardioprolipsis.gr/el/contact",
+        "timestamp": "2026-03-31T13:22:23.462Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/iatriki-vivliothiki/themata-pathiseis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://cardioprolipsis.gr/el/contact",
+        "timestamp": "2026-03-31T13:22:23.462Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/el/cardio-services/2-tmima-diatrofis",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:24.875Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/en/cardio-services",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://cardioprolipsis.gr/el/cardio-services/2-tmima-diatrofis",
+        "timestamp": "2026-03-31T13:22:24.875Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/en/cardio-services/167-tileatriki-2",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://cardioprolipsis.gr/el/cardio-services/2-tmima-diatrofis",
+        "timestamp": "2026-03-31T13:22:24.875Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/en/cardio-services/168-frontida-egkuou-2",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://cardioprolipsis.gr/el/cardio-services/2-tmima-diatrofis",
+        "timestamp": "2026-03-31T13:22:24.875Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/en/cardio-services/169-tmima-diatrofis-2",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://cardioprolipsis.gr/el/cardio-services/2-tmima-diatrofis",
+        "timestamp": "2026-03-31T13:22:24.875Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/en/cardio-services/170-cp-program-2",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://cardioprolipsis.gr/el/cardio-services/2-tmima-diatrofis",
+        "timestamp": "2026-03-31T13:22:24.875Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/el/cardio-services/3-frontida-egkuou",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:26.257Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:27.722Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/el/cardio-services/1-cp-program",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://cardioprolipsis.gr/el",
+        "timestamp": "2026-03-31T13:22:29.179Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/el",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:22:31.875Z"
+      },
+      {
+        "url": "https://cardioprolipsis.gr/el/contact",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:22:33.208Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

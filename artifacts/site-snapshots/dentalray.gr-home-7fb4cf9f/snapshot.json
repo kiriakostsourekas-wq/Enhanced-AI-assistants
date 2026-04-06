@@ -1,0 +1,2044 @@
+{
+  "domain": "dentalray.gr",
+  "collectedAt": "2026-03-31T13:08:18.445Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/dentalray.gr-home-7fb4cf9f",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://dentalray.gr/",
+      "finalUrl": "https://dentalray.gr/",
+      "fetchedAt": "2026-03-31T13:08:08.287Z",
+      "metadata": {
+        "title": "Dentalray - #1 Πανοραμική ακτινογραφία και διάγνωση στην Αθήνα",
+        "metaDescription": "✓Άμεσο ραντεβού Αθήνα ✓ Πανοραμική ακτινογραφία ✓ Full Mouth Ακτινογραφία ✓ Κεφαλομετρική ✓ Δήξεως ✓ 25 έτη εμπειρίας, Dr Αντωνία Χρηστάκου.",
+        "canonicalUrl": "https://dentalray.gr/",
+        "language": "el",
+        "robots": "max-image-preview:large",
+        "openGraphTitle": "Dentalray - #1 Πανοραμική ακτινογραφία και διάγνωση στην Αθήνα",
+        "openGraphDescription": "✓Άμεσο ραντεβού Αθήνα ✓ Πανοραμική ακτινογραφία ✓ Full Mouth Ακτινογραφία ✓ Κεφαλομετρική ✓ Δήξεως ✓ 25 έτη εμπειρίας, Dr Αντωνία Χρηστάκου.",
+        "openGraphImage": "https://framerusercontent.com/assets/agREaVrolXO0A08JFcUd378Jzro.png"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "To κορυφαίο οδοντιατρικό απεικονιστικό & διαγνωστικό κέντρο στην Αθήνα"
+        },
+        {
+          "level": "h2",
+          "text": "Η μεγαλύτερη γκάμα εξειδικευμένων απεικονιστικών εξετάσεων στην οδοντιατρική"
+        },
+        {
+          "level": "h2",
+          "text": "Οι υπηρεσίες μας"
+        },
+        {
+          "level": "h2",
+          "text": "Η Dentalray με αριθμούς"
+        },
+        {
+          "level": "h2",
+          "text": "Το ιατρείο μας"
+        },
+        {
+          "level": "h2",
+          "text": "Τεχνολογία & Εξοπλισμός"
+        },
+        {
+          "level": "h2",
+          "text": "VGi EVO 3D"
+        },
+        {
+          "level": "h2",
+          "text": "NewTom GiANO HR 2D CEPH"
+        },
+        {
+          "level": "h2",
+          "text": "CARESTREAM CS2200"
+        },
+        {
+          "level": "h2",
+          "text": "Dürr Vista soft Mini Plus"
+        },
+        {
+          "level": "h2",
+          "text": "NewTom Giano HR 3D"
+        },
+        {
+          "level": "h2",
+          "text": "Συχνές Ερωτήσεις"
+        },
+        {
+          "level": "h3",
+          "text": "Πανοραμική ακτινογραφία"
+        },
+        {
+          "level": "h3",
+          "text": "Υπολογιστική τομογραφία κωνικής δέσμης (CBCT)"
+        },
+        {
+          "level": "h3",
+          "text": "Full Mouth - πλήρης σειρά οπισθοφατνιακών ακτινογραφιών"
+        },
+        {
+          "level": "h3",
+          "text": "Οπισθοφατνιακή ενδοστοματική ακτινογραφία"
+        },
+        {
+          "level": "h3",
+          "text": "Bitewing X-Ray"
+        },
+        {
+          "level": "h3",
+          "text": "Κεφαλομετρική ακτινογραφία"
+        },
+        {
+          "level": "h3",
+          "text": "Κροταφογναθικών διαρθρώσεων (ΚΓΔ)"
+        },
+        {
+          "level": "h3",
+          "text": "Ακτινογραφία δήξεως"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://dentalray.gr/"
+        },
+        {
+          "href": "https://dentalray.gr/contact",
+          "label": "ΘΕΛΩ ΕΞΕΤΑΣΗ"
+        },
+        {
+          "href": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "label": "Πανοραμική ακτινογραφία"
+        },
+        {
+          "href": "https://dentalray.gr/services/cbct-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CF%84%CE%BF%CE%BC%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CE%BA%CF%89%CE%BD%CE%B9%CE%BA%CE%AE%CF%82-%CE%B4%CE%AD%CF%83%CE%BC%CE%B7%CF%82",
+          "label": "Υπολογιστική τομογραφία κωνικής δέσμης (CBCT)"
+        },
+        {
+          "href": "https://dentalray.gr/services/full-mouth-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+          "label": "Full Mouth - πλήρης σειρά οπισθοφατνιακών ακτινογραφιών"
+        },
+        {
+          "href": "https://dentalray.gr/services/%CE%BF%CF%80%CE%B9%CF%83%CE%B8%CE%BF%CF%86%CE%B1%CF%84%CE%BD%CE%B9%CE%B1%CE%BA%CE%B5%CF%82-full-mouth",
+          "label": "Οπισθοφατνιακή ενδοστοματική ακτινογραφία"
+        },
+        {
+          "href": "https://dentalray.gr/services/bite-wings",
+          "label": "Bitewing X-Ray"
+        },
+        {
+          "href": "https://dentalray.gr/services/%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%BF%CE%BC%CE%B5%CF%84%CF%81%CE%B9%CE%BA%CE%B7-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+          "label": "Κεφαλομετρική ακτινογραφία"
+        },
+        {
+          "href": "https://dentalray.gr/services/%CE%B1%CF%80%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B9%CF%83%CE%B7-%CE%BA%CF%81%CE%BF%CF%84%CE%B1%CF%86%CE%BF%CE%B3%CE%BD%CE%B1%CE%B8%CE%B9%CE%BA%CF%8E%CE%BD-%CE%B1%CF%81%CE%B8%CF%81%CF%8E%CF%83%CE%B5%CF%89%CE%BD",
+          "label": "Κροταφογναθικών διαρθρώσεων (ΚΓΔ)"
+        },
+        {
+          "href": "https://dentalray.gr/services/%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CE%B4%CE%AE%CE%BE%CE%B5%CF%89%CF%82",
+          "label": "Ακτινογραφία δήξεως"
+        },
+        {
+          "href": "https://dentalray.gr/equipment/vgi-evo-3d",
+          "label": "VGi EVO 3D"
+        },
+        {
+          "href": "https://dentalray.gr/equipment/newtom-giano-hr-2d",
+          "label": "NewTom GiANO HR 2D CEPH"
+        },
+        {
+          "href": "https://dentalray.gr/equipment/carestream-cs2200",
+          "label": "CARESTREAM CS2200"
+        },
+        {
+          "href": "https://dentalray.gr/equipment/d%C3%BCrr-vistasoft-mini-plus",
+          "label": "Dürr Vista soft Mini Plus"
+        },
+        {
+          "href": "https://dentalray.gr/equipment/giano-hr-3d",
+          "label": "NewTom Giano HR 3D"
+        },
+        {
+          "href": "https://dentalray.gr/equipment",
+          "label": "ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ"
+        },
+        {
+          "href": "https://dentalray.gr/about",
+          "label": "Σχετικά με εμάς"
+        },
+        {
+          "href": "https://dentalray.gr/privacy-policy",
+          "label": "Privacy Policy & GDPR"
+        },
+        {
+          "href": "https://dentalray.gr/cookies-policy",
+          "label": "Cookie Policy"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "+30 210 383 9012",
+          "+30 21 0383 9012",
+          "18020003000",
+          "+302103839012",
+          "+30 2103839012"
+        ],
+        "emails": [
+          "info@dentalray.gr"
+        ],
+        "addresses": [],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/dentalraygr"
+          },
+          {
+            "href": "https://www.instagram.com/dentalraygr/"
+          },
+          {
+            "href": "https://www.tiktok.com/@dentalraygr"
+          }
+        ],
+        "forms": []
+      },
+      "textContent": "Μετάβαση στο περιεχόμενο .skip-link:focus { top: 0 !important; } html body { background: var(--token-52a3c3e9-ba5d-4688-ac63-ccff899cd61e, rgb(46, 24, 123)); }Καλέστε μας+30 210 383 9012ENΚαλέστε μας+30 210 383 9012ENΚΑΛΩΣΗΡΘΑΤΕTo κορυφαίο οδοντιατρικό απεικονιστικό & διαγνωστικό κέντρο στην ΑθήναΗ μεγαλύτερη γκάμα εξειδικευμένων απεικονιστικών εξετάσεων στην οδοντιατρικήΘΕΛΩ ΕΞΕΤΑΣΗΟι υπηρεσίες μαςΠανοραμική ακτινογραφίαΠανοραμική ακτινογραφίαΠανοραμική ακτινογραφίαΥπολογιστική τομογραφία κωνικής δέσμης (CBCT)Υπολογιστική τομογραφία κωνικής δέσμης (CBCT)Υπολογιστική τομογραφία κωνικής δέσμης (CBCT)Full Mouth - πλήρης σειρά οπισθοφατνιακών ακτινογραφιώνFull Mouth - πλήρης σειρά οπισθοφατνιακών ακτινογραφιώνFull Mouth - πλήρης σειρά οπισθοφατνιακών ακτινογραφιώνΟπισθοφατνιακή ενδοστοματική ακτινογραφίαΟπισθοφατνιακή ενδοστοματική ακτινογραφίαΟπισθοφατνιακή ενδοστοματική ακτινογραφίαBitewing X-RayBitewing X-RayBitewing X-RayΚεφαλομετρική ακτινογραφίαΚεφαλομετρική ακτινογραφίαΚεφαλομετρική ακτινογραφίαΚροταφογναθικών διαρθρώσεων (ΚΓΔ)Κροταφογναθικών διαρθρώσεων (ΚΓΔ)Κροταφογναθικών διαρθρώσεων (ΚΓΔ)Ακτινογραφία δήξεωςΑκτινογραφία δήξεωςΑκτινογραφία δήξεωςΗ Dentalray με αριθμούς22Χρόνια εμπειρίας22Χρόνια εμπειρίας22Χρόνια εμπειρίας15Ομάδα εμπειρίας15Ομάδα εμπειρίας15Ομάδα εμπειρίας360.000Χαμόγελα ασθενών360.000Χαμόγελα ασθενών360.000Χαμόγελα ασθενώνΤο ιατρείο μαςΤεχνολογία & ΕξοπλισμόςΧρησιμοποιούμε τις πιο σύγχρονες μεθόδους, εξοπλισμό και τεχνικές για να διασφαλίσουμε ότι οι ασθενείς μας θα λάβουν την καλύτερη δυνατή διάγνωση. Η δέσμευσή μας στην αριστεία, σε συνδυασμό με τη δέσμευσή μας στην ικανοποίηση των ασθενών, μας καθιστά την ξεκάθαρη επιλογή για οδοντιατρική διάγνωση.VGi EVO 3DNewTom GiANO HR 2D CEPHCARESTREAM CS2200Dürr Vista soft Mini PlusNewTom Giano HR 3DΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑVGi EVO 3DNewTom GiANO HR 2D CEPHCARESTREAM CS2200Dürr Vista soft Mini PlusNewTom Giano HR 3DΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑΣυχνές ΕρωτήσειςΣυχνές ΕρωτήσειςΓιατί η dentalray υπερέχει στη διάγνωση;Πόσο χρόνο διαρκεί μια οδοντιατρική απεικονιστική εξέταση;Το CBCT συνοδεύεται από διάγνωση;Τι προσφέρουν στη διάγνωση και πως βοηθούν το γενικό οδοντίατρο οι απεικονιστικές εξετάσεις;Γιατί η dentalray υπερέχει στη διάγνωση;Πόσο χρόνο διαρκεί μια οδοντιατρική απεικονιστική εξέταση;Το CBCT συνοδεύεται από διάγνωση;Τι προσφέρουν στη διάγνωση και πως βοηθούν το γενικό οδοντίατρο οι απεικονιστικές εξετάσεις;Στουρνάρη 35, Αθήνα 106 82Δευ - Παρ 08:30 - 21:00+30 21 0383 9012info@dentalray.grΣχετικά με εμάςΕξοπλισμόςΕπικοινωνίαΠανοραμική ακτινογραφίαΥπολογιστική τομογραφία κωνικής δέσμης (CBCT)Full Mouth - πλήρης σειρά οπισθοφατνιακών ακτινογραφιώνΟπισθοφατνιακή ενδοστοματική ακτινογραφίαBitewing X-RayΚεφαλομετρική ακτινογραφίαΚροταφογναθικών διαρθρώσεων (ΚΓΔ)Ακτινογραφία δήξεως©2026 DentalRayΑρ. ΓΕΜΗ: 18020003000Privacy Policy & GDPR|Cookie PolicyCreated bydesignco.agencyΣτουρνάρη 35, Αθήνα 106 82Δευ - Παρ 08:30 - 21:00+30 21 0383 9012info@dentalray.grΣχετικά με εμάςΕξοπλισμόςΕπικοινωνίαΠανοραμική ακτινογραφίαΥπολογιστική τομογραφία κωνικής δέσμης (CBCT)Full Mouth - πλήρης σειρά οπισθοφατνιακών ακτινογραφιώνΟπισθοφατνιακή ενδοστοματική ακτινογραφίαBitewing X-RayΚεφαλομετρική ακτινογραφίαΚροταφογναθικών διαρθρώσεων (ΚΓΔ)Ακτινογραφία δήξεως©2026 DentalRayΑρ. ΓΕΜΗ: 18020003000Privacy Policy & GDPR|Cookie PolicyCreated bydesignco.agency(()=>{function u(){function n(t,e,i){let r=document.createElement(\"a\");r.href=t,r.target=i,r.rel=e,document.body.appendChild(r),r.click(),r.remove()}function o(t){if(this.dataset.hydrated){this.removeEventListener(\"click\",o);return}t.preventDefault(),t.stopPropagation();let e=this.getAttribute(\"href\");if(!e)return;if(/Mac|iPod|iPhone|iPad/u.test(navigator.userAgent)?t.metaKey:t.ctrlKey)return n(e,\"\",\"_blank\");let r=this.getAttribute(\"rel\")??\"\",c=this.getAttribute(\"target\")??\"\";n(e,r,c)}function a(t){if(this.dataset.hydrated){this.removeEventListener(\"auxclick\",o);return}t.preventDefault(),t.stopPropagation();let e=this.getAttribute(\"href\");e&&n(e,\"\",\"_blank\")}function s(t){if(this.dataset.hydrated){this.removeEventListener(\"keydown\",s);return}if(t.key!==\"Enter\")return;t.preventDefault(),t.stopPropagation();let e=this.getAttribute(\"href\");if(!e)return;let i=this.getAttribute(\"rel\")??\"\",r=this.getAttribute(\"target\")??\"\";n(e,i,r)}document.querySelectorAll(\"[data-nested-link]\").forEach(t=>{t instanceof HTMLElement&&(t.addEventListener(\"click\",o),t.addEventListener(\"auxclick\",a),t.addEventListener(\"keydown\",s))})}return u})()() !function(){var w=\"framer_variant\";function u(a,r){let e=r.indexOf(\"#\"),t=e===-1?r:r.substring(0,e),o=e===-1?\"\":r.substring(e),n=t.indexOf(\"?\"),h=n===-1?t:t.substring(0,n),d=n===-1?\"\":t.substring(n),s=new URLSearchParams(d),m=new URLSearchParams(a);for(let[i,l]of m)s.has(i)||i!==w&&s.append(i,l);let c=s.toString();return c===\"\"?t+o:h+\"?\"+c+o}var g='div#main a[href^=\"#\"],div#main a[href^=\"/\"],div#main a[href^=\".\"]',f=\"div#main a[data-framer-preserve-params]\",S=document.currentScript?.hasAttribute(\"data-preserve-internal-params\");if(window.location.search&&!navigator.webdriver&&!/bot|-google|google-|yandex|ia_archiver|crawl|spider/iu.test(navigator.userAgent)){let a=document.querySelectorAll(S?`${g},${f}`:f);for(let r of a){let e=u(window.location.search,r.href);r.setAttribute(\"href\",e)}} }() var animator=(()=>{var O=(e,r,t)=>t>r?r:t<e?e:t;var j=()=>{};function W(e){let r;return()=>(r===void 0&&(r=e()),r)}var q=e=>e;var v=e=>e*1e3,V=e=>e/1e3;function X(e,r){return r?e*(1e3/r):0}var Y=e=>Array.isArray(e)&&typeof e[0]==\"number\";var H={value:null,addProjectionMetrics:null};var Z={layout:0,mainThread:0,waapi:0};var L=(e,r,t=10)=>{let o=\"\",s=Math.max(Math.round(r/t),2);for(let n=0;n<s;n++)o+=Math.round(e(n/(s-1))*1e4)/1e4+\", \";return`linear(${o.substring(0,o.length-2)})`};function R(e){let r=0,t=50,o=e.next(r);for(;!o.done&&r<2e4;)r+=t,o=e.next(r);return r>=2e4?1/0:r}function fe(e,r=100,t){let o=t({...e,keyframes:[0,r]}),s=Math.min(R(o),2e4);return{type:\"keyframes\",ease:n=>o.next(s*n).value/r,duration:V(s)}}var Ee=5;function ce(e,r,t){let o=Math.max(r-Ee,0);return X(t-e(o),r-o)}var u={stiffness:100,damping:10,mass:1,velocity:0,duration:800,bounce:.3,visualDuration:.3,restSpeed:{granular:.01,default:2},restDelta:{granular:.005,default:.5},minDuration:.01,maxDuration:10,minDamping:.05,maxDamping:1};var _=.001;function le({duration:e=u.duration,bounce:r=u.bounce,velocity:t=u.velocity,mass:o=u.mass}){let s,n;j(e<=v(u.maxDuration),\"Spring duration must be 10 seconds or less\",\"spring-duration-limit\");let i=1-r;i=O(u.minDamping,u.maxDamping,i),e=O(u.minDuration,u.maxDuration,V(e)),i<1?(s=m=>{let p=m*i,c=p*e,l=p-t,x=z(m,i),g=Math.exp(-c);return _-l/x*g},n=m=>{let c=m*i*e,l=c*t+t,x=Math.pow(i,2)*Math.pow(m,2)*e,g=Math.exp(-c),y=z(Math.pow(m,2),i);return(-s(m)+_>0?-1:1)*((l-x)*g)/y}):(s=m=>{let p=Math.exp(-m*e),c=(m-t)*e+1;return-_+p*c},n=m=>{let p=Math.exp(-m*e),c=(t-m)*(e*e);return p*c});let f=5/e,a=Ce(s,n,f);if(e=v(e),isNaN(a))return{stiffness:u.stiffness,damping:u.damping,duration:e};{let m=Math.pow(a,2)*o;return{stiffness:m,damping:i*2*Math.sqrt(o*m),duration:e}}}var ke=12;function Ce(e,r,t){let o=t;for(let s=1;s<ke;s++)o=o-e(o)/r(o);return o}function z(e,r){return e*Math.sqrt(1-r*r)}var Be=[\"duration\",\"bounce\"],Ie=[\"stiffness\",\"damping\",\"mass\"];function ue(e,r){return r.some(t=>e[t]!==void 0)}function Ke(e){let r={velocity:u.velocity,stiffness:u.stiffness,damping:u.damping,mass:u.mass,isResolvedFromDuration:!1,...e};if(!ue(e,Ie)&&ue(e,Be))if(r.velocity=0,e.visualDuration){let t=e.visualDuration,o=2*Math.PI/(t*1.2),s=o*o,n=2*O(.05,1,1-(e.bounce||0))*Math.sqrt(s);r={...r,mass:u.mass,stiffness:s,damping:n}}else{let t=le({...e,velocity:0});r={...r,...t,mass:u.mass},r.isResolvedFromDuration=!0}return r}function D(e=u.visualDuration,r=u.bounce){let t=typeof e!=\"object\"?{visualDuration:e,keyframes:[0,1],bounce:r}:e,{restSpeed:o,restDelta:s}=t,n=t.keyframes[0],i=t.keyframes[t.keyframes.length-1],f={done:!1,value:n},{stiffness:a,damping:m,mass:p,duration:c,velocity:l,isResolvedFromDuration:x}=Ke({...t,velocity:-V(t.velocity||0)}),g=l||0,y=m/(2*Math.sqrt(a*p)),T=i-n,h=V(Math.sqrt(a/p)),K=Math.abs(T)<5;o||(o=K?u.restSpeed.granular:u.restSpeed.default),s||(s=K?u.restDelta.granular:u.restDelta.default);let S;if(y<1){let d=z(h,y);S=A=>{let b=Math.exp(-y*h*A);return i-b*((g+y*h*T)/d*Math.sin(d*A)+T*Math.cos(d*A))}}else if(y===1)S=d=>i-Math.exp(-h*d)*(T+(g+h*T)*d);else{let d=h*Math.sqrt(y*y-1);S=A=>{let b=Math.exp(-y*h*A),G=Math.min(d*A,300);return i-b*((g+y*h*T)*Math.sinh(G)+d*T*Math.cosh(G))/d}}let P={calculatedDuration:x&&c||null,next:d=>{let A=S(d);if(x)f.done=d>=c;else{let b=d===0?g:0;y<1&&(b=d===0?v(g):ce(S,d,A));let G=Math.abs(b)<=o,Oe=Math.abs(i-A)<=s;f.done=G&&Oe}return f.value=f.done?i:A,f},toString:()=>{let d=Math.min(R(P),2e4),A=L(b=>P.next(d*b).value,d,30);return d+\"ms \"+A},toTransition:()=>{}};return P}D.applyToOptions=e=>{let r=fe(e,100,D);return e.ease=r.ease,e.duration=v(r.duration),e.type=\"keyframes\",e};var xe=[\"transformPerspective\",\"x\",\"y\",\"z\",\"translateX\",\"translateY\",\"translateZ\",\"scale\",\"scaleX\",\"scaleY\",\"rotate\",\"rotateX\",\"rotateY\",\"rotateZ\",\"skew\",\"skewX\",\"skewY\"],Q=new Set(xe);var de={};function ge(e,r){let t=W(e);return()=>de[r]??t()}var ye=ge(()=>{try{document.createElement(\"div\").animate({opacity:0},{easing:\"linear(0, 1)\"})}catch{return!1}return!0},\"linearEasing\");var w=([e,r,t,o])=>`cubic-bezier(${e}, ${r}, ${t}, ${o})`;var J={linear:\"linear\",ease:\"ease\",easeIn:\"ease-in\",easeOut:\"ease-out\",easeInOut:\"ease-in-out\",circIn:w([0,.65,.55,1]),circOut:w([.55,0,1,.45]),backIn:w([.31,.01,.66,-.59]),backOut:w([.33,1.53,.69,.99])};function ee(e,r){if(e)return typeof e==\"function\"?ye()?L(e,r):\"ease-out\":Y(e)?w(e):Array.isArray(e)?e.map(t=>ee(t,r)||J.easeOut):J[e]}function F(e,r,t,{delay:o=0,duration:s=300,repeat:n=0,repeatType:i=\"loop\",ease:f=\"easeOut\",times:a}={},m=void 0){let p={[r]:t};a&&(p.offset=a);let c=ee(f,s);Array.isArray(c)&&(p.easing=c),H.value&&Z.waapi++;let l={delay:o,duration:s,easing:Array.isArray(c)?\"linear\":c,fill:\"both\",iterations:n+1,direction:i===\"reverse\"?\"alternate\":\"normal\"};m&&(l.pseudoElement=m);let x=e.animate(p,l);return H.value&&x.finished.finally(()=>{Z.waapi--}),x}function Ae(e){return e.replace(/([A-Z])/g,r=>`-${r.toLowerCase()}`)}var N=\"framerAppearId\",re=\"data-\"+Ae(N);function te(e){return e.props[re]}var M=new Map,E=new Map;var k=(e,r)=>{let t=Q.has(r)?\"transform\":r;return`${e}: ${t}`};function oe(e,r,t){let o=k(e,r),s=M.get(o);if(!s)return null;let{animation:n,startTime:i}=s;function f(){window.MotionCancelOptimisedAnimation?.(e,r,t)}return n.onfinish=f,i===null||window.MotionHandoffIsComplete?.(e)?(f(),null):i}var $,C,ne=new Set;function Ge(){ne.forEach(e=>{e.animation.play(),e.animation.startTime=e.startTime}),ne.clear()}function ie(e,r,t,o,s){if(window.MotionIsMounted)return;let n=e.dataset[N];if(!n)return;window.MotionHandoffAnimation=oe;let i=k(n,r);C||(C=F(e,r,[t[0],t[0]],{duration:1e4,ease:\"linear\"}),M.set(i,{animation:C,startTime:null}),window.MotionHandoffAnimation=oe,window.MotionHasOptimisedAnimation=(a,m)=>{if(!a)return!1;if(!m)return E.has(a);let p=k(a,m);return!!M.get(p)},window.MotionHandoffMarkAsComplete=a=>{E.has(a)&&E.set(a,!0)},window.MotionHandoffIsComplete=a=>E.get(a)===!0,window.MotionCancelOptimisedAnimation=(a,m,p,c)=>{let l=k(a,m),x=M.get(l);x&&(p&&c===void 0?p.postRender(()=>{p.postRender(()=>{x.animation.cancel()})}):x.animation.cancel(),p&&c?(ne.add(x),p.render(Ge)):(M.delete(l),M.size||(window.MotionCancelOptimisedAnimation=void 0)))},window.MotionCheckAppearSync=(a,m,p)=>{let c=te(a);if(!c)return;let l=window.MotionHasOptimisedAnimation?.(c,m),x=a.props.values?.[m];if(!l||!x)return;let g=p.on(\"change\",y=>{x.get()!==y&&(window.MotionCancelOptimisedAnimation?.(c,m),g())});return g});let f=()=>{C.cancel();let a=F(e,r,t,o);$===void 0&&($=performance.now()),a.startTime=$,M.set(i,{animation:a,startTime:$}),s&&s(a)};E.set(n,!1),C.ready?C.ready.then(f).catch(q):f()}var ae=[\"transformPerspective\",\"x\",\"y\",\"z\",\"translateX\",\"translateY\",\"translateZ\",\"scale\",\"scaleX\",\"scaleY\",\"rotate\",\"rotateX\",\"rotateY\",\"rotateZ\",\"skew\",\"skewX\",\"skewY\"],Le={x:\"translateX\",y:\"translateY\",z:\"translateZ\",transformPerspective:\"perspective\"},Re={translateX:\"px\",translateY:\"px\",translateZ:\"px\",x:\"px\",y:\"px\",z:\"px\",perspective:\"px\",transformPerspective:\"px\",rotate:\"deg\",rotateX:\"deg\",rotateY:\"deg\"};function Te(e,r){let t=Re[e];return!t||typeof r==\"string\"&&r.endsWith(t)?r:`${r}${t}`}function se(e){return ae.includes(e)}var ze=(e,r)=>ae.indexOf(e)-ae.indexOf(r);function he({transform:e,transformKeys:r},t){let o={},s=!0,n=\"\";r.sort(ze);for(let i of r){let f=e[i],a=!0;typeof f==\"number\"?a=f===(i.startsWith(\"scale\")?1:0):a=parseFloat(f)===0,a||(s=!1,n+=`${Le[i]||i}(${e[i]}) `),t&&(o[i]=e[i])}return n=n.trim(),t?n=t(o,n):s&&(n=\"none\"),n}function pe(e,r){let t=new Set(Object.keys(e));for(let o in r)t.add(o);return Array.from(t)}function me(e,r){let t=r-e.length;if(t<=0)return e;let o=new Array(t).fill(e[e.length-1]);return e.concat(o)}function B(e){return e*1e3}var be={duration:.001},I={opacity:1,scale:1,translateX:0,translateY:0,translateZ:0,x:0,y:0,z:0,rotate:0,rotateX:0,rotateY:0};function Ve(e,r,t,o,s){return t.delay&&(t.delay=B(t.delay)),t.type===\"spring\"?Ne(e,r,t,o,s):je(e,r,t,o,s)}function Fe(e,r,t){let o={},s=0,n=0;for(let i of pe(e,r)){let f=e[i]??I[i],a=r[i]??I[i];if(f===void 0||a===void 0||i!==\"transformPerspective\"&&f===a&&f===I[i])continue;i===\"transformPerspective\"&&(o[i]=[f,a]);let m=He(f,a,t),{duration:p,keyframes:c}=m;p===void 0||c===void 0||(p>s&&(s=p,n=c.length),o[i]=c)}return{keyframeValuesByProps:o,longestDuration:s,longestLength:n}}function Ne(e,r,t,o,s){let n={},{keyframeValuesByProps:i,longestDuration:f,longestLength:a}=Fe(e,r,t);if(!a)return n;let m={ease:\"linear\",duration:f,delay:t.delay},p=s?be:m,c={};for(let[x,g]of Object.entries(i))se(x)?c[x]=me(g,a):n[x]={keyframes:me(g,a),options:x===\"opacity\"?m:p};let l=De(c,o);return l&&(n.transform={keyframes:l,options:p}),n}function $e(e){let{type:r,duration:t,...o}=e;return{duration:B(t),...o}}function je(e,r,t,o,s){let n=$e(t);if(!n)return;let i={},f=s?be:n,a={};for(let p of pe(e,r)){let c=e[p]??I[p],l=r[p]??I[p];c===void 0||l===void 0||p!==\"transformPerspective\"&&c===l||(se(p)?a[p]=[c,l]:i[p]={keyframes:[c,l],options:p===\"opacity\"?n:f})}let m=De(a,o);return m&&(i.transform={keyframes:m,options:f}),i}var We=[\"duration\",\"bounce\"],qe=[\"stiffness\",\"damping\",\"mass\"];function ve(e){return qe.some(r=>r in e)?!1:We.some(r=>r in e)}function Xe(e,r,t){return ve(t)?`${e}-${r}-${t.duration}-${t.bounce}`:`${e}-${r}-${t.damping}-${t.stiffness}-${t.mass}`}function Ye(e){return ve(e)?{...e,duration:B(e.duration)}:e}var Me=new Map,Se=10;function He(e,r,t){let o=Xe(e,r,t),s=Me.get(o);if(s)return s;let n=[e,r],i=D({...Ye(t),keyframes:n}),f={done:!1,value:n[0]},a=[],m=0;for(;!f.done&&m<B(10);)f=i.next(m),a.push(f.value),m+=Se;n=a;let p=m-Se,l={keyframes:n,duration:p,ease:\"linear\"};return Me.set(o,l),l}function De(e,r){let t=[],o=Object.values(e)[0]?.length;if(!o)return;let s=Object.keys(e);for(let n=0;n<o;n++){let i={};for(let[a,m]of Object.entries(e)){let p=m[n];p!==void 0&&(i[a]=Te(a,p))}let f=he({transform:i,transformKeys:s},r);t.push(f)}return t}function Ze(e,r){if(!r)for(let t in e){let o=e[t];return o?.legacy===!0?o:void 0}}function we(e,r,t,o,s,n){for(let[i,f]of Object.entries(e)){let a=n?f[n]:void 0;if(a===null||!a&&f.default===null)continue;let m=a??f.default??Ze(f,n);if(!m)continue;let{initial:p,animate:c,transformTemplate:l}=m;if(!p||!c)continue;let{transition:x,...g}=c,y=Ve(p,g,x,Ue(l,o),s);if(!y)continue;let T={},h={};for(let[S,P]of Object.entries(y))T[S]=P.keyframes,h[S]=P.options;let K=n?`:not(.hidden-${n}) `:\"\";r(`${K}[${t}=\"${i}\"]`,T,h)}}function Ue(e,r){if(!(!e||!r))return(t,o)=>e.replace(r,o)}function Pe(e){return e?e.find(t=>t.mediaQuery?window.matchMedia(t.mediaQuery).matches===!0:!1)?.hash:void 0}var zt={animateAppearEffects:we,getActiveVariantHash:Pe,spring:D,startOptimizedAppearAnimation:ie};return zt})() {\"2j1p3x\":{\"default\":{\"initial\":{\"opacity\":0.001,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"x\":-150,\"y\":0},\"animate\":{\"opacity\":1,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"transition\":{\"damping\":30,\"delay\":0,\"mass\":1,\"stiffness\":400,\"type\":\"spring\"},\"x\":0,\"y\":0}}},\"1twlsef\":{\"default\":{\"initial\":{\"opacity\":0.001,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":0.5,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"x\":0,\"y\":0},\"animate\":{\"opacity\":1,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"transition\":{\"damping\":30,\"delay\":0,\"mass\":1,\"stiffness\":400,\"type\":\"spring\"},\"x\":0,\"y\":0}},\"wx6vut\":{\"initial\":{\"opacity\":0.001,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":0.5,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"x\":0,\"y\":0},\"animate\":{\"opacity\":1,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"transition\":{\"damping\":30,\"delay\":0,\"mass\":1,\"stiffness\":400,\"type\":\"spring\"},\"x\":0,\"y\":0}},\"1rog2k3\":{\"initial\":{\"opacity\":0.001,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":0.5,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"x\":0,\"y\":0},\"animate\":{\"opacity\":1,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"transition\":{\"damping\":30,\"delay\":0,\"mass\":1,\"stiffness\":400,\"type\":\"spring\"},\"x\":0,\"y\":0}}},\"6lcl44\":{\"default\":{\"initial\":{\"opacity\":0.001,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"x\":0,\"y\":0},\"animate\":{\"opacity\":1,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"transition\":{\"delay\":0,\"duration\":0.3,\"ease\":[0.44,0,0.56,1],\"type\":\"tween\"},\"x\":0,\"y\":0}},\"wx6vut\":{\"initial\":{\"opacity\":0.001,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"x\":0,\"y\":0},\"animate\":{\"opacity\":1,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"transition\":{\"delay\":0,\"duration\":0.3,\"ease\":[0.44,0,0.56,1],\"type\":\"tween\"},\"x\":0,\"y\":0}},\"1rog2k3\":{\"initial\":{\"opacity\":0.001,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"x\":0,\"y\":0},\"animate\":{\"opacity\":1,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"transition\":{\"delay\":0,\"duration\":0.3,\"ease\":[0.44,0,0.56,1],\"type\":\"tween\"},\"x\":0,\"y\":0}}}} [{\"hash\":\"72rtr7\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"1rog2k3\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"wx6vut\",\"mediaQuery\":\"(max-width: 809.98px)\"}](()=>{function c(i,o,s){if(window.__framer_disable_appear_effects_optimization__||typeof animator>\"u\")return;let e={detail:{bg:document.hidden}};requestAnimationFrame(()=>{let a=\"framer-appear-start\";performance.mark(a,e),animator.animateAppearEffects(JSON.parse(window.__framer__appearAnimationsContent.text),(m,p,d)=>{let t=document.querySelector(m);if(t)for(let[r,f]of Object.entries(p))animator.startOptimizedAppearAnimation(t,r,f,d[r])},i,o,s&&window.matchMedia(\"(prefers-reduced-motion:reduce)\").matches===!0,animator.getActiveVariantHash(JSON.parse(window.__framer__breakpoints.text)));let n=\"framer-appear-end\";performance.mark(n,e),performance.measure(\"framer-appear\",{start:a,end:n,detail:e.detail})})}return c})()(\"data-framer-appear-id\",\"__Appear_Animation_Transform__\",false) typeof document<\"u\"&&(window.process={...window.process,env:{...window.process?.env,NODE_ENV:\"production\"}}); [{\"0\":1,\"1\":164},[\"Map\",2,3,61,62,127,128],\"{\\\"from\\\":\\\"fe4ee592-26ee-45fc-8a21-2d753e8464a6\\\",\\\"select\\\":[{\\\"collection\\\":\\\"yxvld3nJg\\\",\\\"name\\\":\\\"Vh9MUTgV2\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"yxvld3nJg\\\",\\\"name\\\":\\\"bNouWtPdF\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"yxvld3nJg\\\",\\\"name\\\":\\\"id\\\",\\\"type\\\":\\\"Identifier\\\"}]}default\",[4,12,19,26,33,40,47,54],{\"Vh9MUTgV2\":5,\"bNouWtPdF\":8,\"id\":10},{\"type\":6,\"value\":7},\"string\",\"Πανοραμική ακτινογραφία\",{\"type\":6,\"value\":9},\"πανοραμική-panoramic-x-ray\",{\"type\":6,\"value\":11},\"sw2OlhJl_\",{\"Vh9MUTgV2\":13,\"bNouWtPdF\":15,\"id\":17},{\"type\":6,\"value\":14},\"Υπολογιστική τομογραφία κωνικής δέσμης (CBCT)\",{\"type\":6,\"value\":16},\"cbct-υπολογιστική-τομογραφία-κωνικής-δέσμης\",{\"type\":6,\"value\":18},\"lqsnnNY5t\",{\"Vh9MUTgV2\":20,\"bNouWtPdF\":22,\"id\":24},{\"type\":6,\"value\":21},\"Full Mouth - πλήρης σειρά οπισθοφατνιακών ακτινογραφιών\",{\"type\":6,\"value\":23},\"full-mouth-ακτινογραφία\",{\"type\":6,\"value\":25},\"POv8sMdK6\",{\"Vh9MUTgV2\":27,\"bNouWtPdF\":29,\"id\":31},{\"type\":6,\"value\":28},\"Οπισθοφατνιακή ενδοστοματική ακτινογραφία\",{\"type\":6,\"value\":30},\"οπισθοφατνιακες-full-mouth\",{\"type\":6,\"value\":32},\"Mu9obfYZh\",{\"Vh9MUTgV2\":34,\"bNouWtPdF\":36,\"id\":38},{\"type\":6,\"value\":35},\"Bitewing X-Ray\",{\"type\":6,\"value\":37},\"bite-wings\",{\"type\":6,\"value\":39},\"Xfl9Mrnzr\",{\"Vh9MUTgV2\":41,\"bNouWtPdF\":43,\"id\":45},{\"type\":6,\"value\":42},\"Κεφαλομετρική ακτινογραφία\",{\"type\":6,\"value\":44},\"κεφαλομετρικη-ακτινογραφία\",{\"type\":6,\"value\":46},\"F0QM2nn5u\",{\"Vh9MUTgV2\":48,\"bNouWtPdF\":50,\"id\":52},{\"type\":6,\"value\":49},\"Κροταφογναθικών διαρθρώσεων (ΚΓΔ)\",{\"type\":6,\"value\":51},\"απεικόνιση-κροταφογναθικών-αρθρώσεων\",{\"type\":6,\"value\":53},\"HGQqsJoow\",{\"Vh9MUTgV2\":55,\"bNouWtPdF\":57,\"id\":59},{\"type\":6,\"value\":56},\"Ακτινογραφία δήξεως\",{\"type\":6,\"value\":58},\"ακτινογραφία-δήξεως\",{\"type\":6,\"value\":60},\"Uaj0hjJG_\",\"{\\\"from\\\":\\\"fe4ee592-26ee-45fc-8a21-2d753e8464a6\\\",\\\"select\\\":[{\\\"collection\\\":\\\"HAMGyEJPV\\\",\\\"name\\\":\\\"lFkeDMpkC\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"HAMGyEJPV\\\",\\\"name\\\":\\\"p6R0Bu8KN\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"HAMGyEJPV\\\",\\\"name\\\":\\\"Vh9MUTgV2\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"HAMGyEJPV\\\",\\\"name\\\":\\\"bNouWtPdF\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"HAMGyEJPV\\\",\\\"name\\\":\\\"id\\\",\\\"type\\\":\\\"Identifier\\\"}]}default\",[63,74,81,89,96,104,112,120],{\"lFkeDMpkC\":64,\"p6R0Bu8KN\":71,\"Vh9MUTgV2\":5,\"bNouWtPdF\":8,\"id\":10},{\"type\":65,\"value\":66},\"responsiveimage\",{\"src\":67,\"srcSet\":68,\"pixelWidth\":69,\"pixelHeight\":69,\"alt\":70},\"https://framerusercontent.com/images/iTNoJZj2iLa2OejiUumNwT5nik.jpg?width=700&height=700\",\"https://framerusercontent.com/images/iTNoJZj2iLa2OejiUumNwT5nik.jpg?scale-down-to=512&width=700&height=700 512w,https://framerusercontent.com/images/iTNoJZj2iLa2OejiUumNwT5nik.jpg?width=700&height=700 700w\",700,\"Πανοραμική ακτινογραφία δοντιών\",{\"type\":72,\"value\":73},\"color\",\"rgb(245, 239, 230)\",{\"lFkeDMpkC\":75,\"p6R0Bu8KN\":79,\"Vh9MUTgV2\":13,\"bNouWtPdF\":15,\"id\":17},{\"type\":65,\"value\":76},{\"src\":77,\"srcSet\":78,\"pixelWidth\":69,\"pixelHeight\":69,\"alt\":14},\"https://framerusercontent.com/images/aDElfNsYH0u7t2qr12GASqQJQ5Q.jpg?width=700&height=700\",\"https://framerusercontent.com/images/aDElfNsYH0u7t2qr12GASqQJQ5Q.jpg?scale-down-to=512&width=700&height=700 512w,https://framerusercontent.com/images/aDElfNsYH0u7t2qr12GASqQJQ5Q.jpg?width=700&height=700 700w\",{\"type\":72,\"value\":80},\"rgb(253, 236, 198)\",{\"lFkeDMpkC\":82,\"p6R0Bu8KN\":87,\"Vh9MUTgV2\":20,\"bNouWtPdF\":22,\"id\":24},{\"type\":65,\"value\":83},{\"src\":84,\"srcSet\":85,\"pixelWidth\":69,\"pixelHeight\":69,\"alt\":86},\"https://framerusercontent.com/images/MPjVI1lVPmVXxfGsv571vCMp7AA.jpg?width=700&height=700\",\"https://framerusercontent.com/images/MPjVI1lVPmVXxfGsv571vCMp7AA.jpg?scale-down-to=512&width=700&height=700 512w,https://framerusercontent.com/images/MPjVI1lVPmVXxfGsv571vCMp7AA.jpg?width=700&height=700 700w\",\"fullmouth Πλήρης σειρά οπισθοφατνιακών ακτινογραφιών\",{\"type\":72,\"value\":88},\"rgb(141, 237, 215)\",{\"lFkeDMpkC\":90,\"p6R0Bu8KN\":94,\"Vh9MUTgV2\":27,\"bNouWtPdF\":29,\"id\":31},{\"type\":65,\"value\":91},{\"src\":92,\"srcSet\":93,\"pixelWidth\":69,\"pixelHeight\":69,\"alt\":28},\"https://framerusercontent.com/images/rQhbKdXbphWEgEERqVGRw6j69L4.jpg?width=700&height=700\",\"https://framerusercontent.com/images/rQhbKdXbphWEgEERqVGRw6j69L4.jpg?scale-down-to=512&width=700&height=700 512w,https://framerusercontent.com/images/rQhbKdXbphWEgEERqVGRw6j69L4.jpg?width=700&height=700 700w\",{\"type\":72,\"value\":95},\"rgb(247, 224, 209)\",{\"lFkeDMpkC\":97,\"p6R0Bu8KN\":102,\"Vh9MUTgV2\":34,\"bNouWtPdF\":36,\"id\":38},{\"type\":65,\"value\":98},{\"src\":99,\"srcSet\":100,\"pixelWidth\":69,\"pixelHeight\":69,\"alt\":101},\"https://framerusercontent.com/images/rXA8bATdQ17oqIgZLr1bYh3FbFw.jpg?width=700&height=700\",\"https://framerusercontent.com/images/rXA8bATdQ17oqIgZLr1bYh3FbFw.jpg?scale-down-to=512&width=700&height=700 512w,https://framerusercontent.com/images/rXA8bATdQ17oqIgZLr1bYh3FbFw.jpg?width=700&height=700 700w\",\"Ακτινογραφία Bitewing\",{\"type\":72,\"value\":103},\"rgb(130, 190, 188)\",{\"lFkeDMpkC\":105,\"p6R0Bu8KN\":110,\"Vh9MUTgV2\":41,\"bNouWtPdF\":43,\"id\":45},{\"type\":65,\"value\":106},{\"src\":107,\"srcSet\":108,\"pixelWidth\":69,\"pixelHeight\":69,\"alt\":109},\"https://framerusercontent.com/images/aDjF9bVezMZo7Q1mPh5w8eIYT4.jpg?width=700&height=700\",\"https://framerusercontent.com/images/aDjF9bVezMZo7Q1mPh5w8eIYT4.jpg?scale-down-to=512&width=700&height=700 512w,https://framerusercontent.com/images/aDjF9bVezMZo7Q1mPh5w8eIYT4.jpg?width=700&height=700 700w\",\"ceph - Κεφαλομετρική ακτινογραφία\",{\"type\":72,\"value\":111},\"rgb(226, 184, 185)\",{\"lFkeDMpkC\":113,\"p6R0Bu8KN\":118,\"Vh9MUTgV2\":48,\"bNouWtPdF\":50,\"id\":52},{\"type\":65,\"value\":114},{\"src\":115,\"srcSet\":116,\"pixelWidth\":69,\"pixelHeight\":69,\"alt\":117},\"https://framerusercontent.com/images/1f0bBE3hBCNzermQ5ogfmx298g.jpg?width=700&height=700\",\"https://framerusercontent.com/images/1f0bBE3hBCNzermQ5ogfmx298g.jpg?scale-down-to=512&width=700&height=700 512w,https://framerusercontent.com/images/1f0bBE3hBCNzermQ5ogfmx298g.jpg?width=700&height=700 700w\",\"TMJ - Ακτινογραφία κροταφογναθικών διαρθρώσεων\",{\"type\":72,\"value\":119},\"rgb(185, 211, 218)\",{\"lFkeDMpkC\":121,\"p6R0Bu8KN\":125,\"Vh9MUTgV2\":55,\"bNouWtPdF\":57,\"id\":59},{\"type\":65,\"value\":122},{\"src\":123,\"srcSet\":124,\"pixelWidth\":69,\"pixelHeight\":69,\"alt\":56},\"https://framerusercontent.com/images/idriIkD4QdcSGHyIft5rY6Un8.jpg?width=700&height=700\",\"https://framerusercontent.com/images/idriIkD4QdcSGHyIft5rY6Un8.jpg?scale-down-to=512&width=700&height=700 512w,https://framerusercontent.com/images/idriIkD4QdcSGHyIft5rY6Un8.jpg?width=700&height=700 700w\",{\"type\":72,\"value\":126},\"rgb(125, 199, 201)\",\"{\\\"from\\\":\\\"9265708e-ea2d-4f08-ae91-f56cf3cd24a1\\\",\\\"select\\\":[{\\\"collection\\\":\\\"kOltpvP1_\\\",\\\"name\\\":\\\"KGd49uHfe\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"kOltpvP1_\\\",\\\"name\\\":\\\"BjaLApTos\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"kOltpvP1_\\\",\\\"name\\\":\\\"id\\\",\\\"type\\\":\\\"Identifier\\\"}],\\\"where\\\":{\\\"collection\\\":\\\"kOltpvP1_\\\",\\\"name\\\":\\\"EAyhUARpS\\\",\\\"type\\\":\\\"Identifier\\\"}}default\",[129,136,143,150,157],{\"KGd49uHfe\":130,\"BjaLApTos\":132,\"id\":134},{\"type\":6,\"value\":131},\"vgi-evo-3d\",{\"type\":6,\"value\":133},\"VGi EVO 3D\",{\"type\":6,\"value\":135},\"h_HFQko4E\",{\"KGd49uHfe\":137,\"BjaLApTos\":139,\"id\":141},{\"type\":6,\"value\":138},\"newtom-giano-hr-2d\",{\"type\":6,\"value\":140},\"NewTom GiANO HR 2D CEPH\",{\"type\":6,\"value\":142},\"NmoF6826t\",{\"KGd49uHfe\":144,\"BjaLApTos\":146,\"id\":148},{\"type\":6,\"value\":145},\"carestream-cs2200\",{\"type\":6,\"value\":147},\"CARESTREAM CS2200\",{\"type\":6,\"value\":149},\"SvXIb8j0k\",{\"KGd49uHfe\":151,\"BjaLApTos\":153,\"id\":155},{\"type\":6,\"value\":152},\"dürr-vistasoft-mini-plus\",{\"type\":6,\"value\":154},\"Dürr Vista soft Mini Plus\",{\"type\":6,\"value\":156},\"IZBP5Ti7v\",{\"KGd49uHfe\":158,\"BjaLApTos\":160,\"id\":162},{\"type\":6,\"value\":159},\"giano-hr-3d\",{\"type\":6,\"value\":161},\"NewTom Giano HR 3D\",{\"type\":6,\"value\":163},\"pDzTIZ2fs\",[\"Map\"]] document.addEventListener('DOMContentLoaded', function() { // Add the target ID to the main content area // (first major section after the nav) const main = document.querySelector('main') || document.querySelector('section'); if (main) main.id = 'main-content'; }); document.addEventListener('DOMContentLoaded', function() { // Find FAQ items — they typically have a \"+\" or toggle icon // Adjust the selector to match your FAQ structure const faqItems = document.querySelectorAll('[data-framer-name*=\"FAQ\"] > div, [data-framer-name*=\"faq\"] > div'); // Fallback: target the FAQ section's clickable items if (faqItems.length === 0) { // Try targeting by the visible FAQ text content const allPs = document.querySelectorAll('p'); allPs.forEach(p => { const text = p.textContent.trim(); if (text.startsWith('Γιατί η dentalray') || text.startsWith('Πόσο χρόνο διαρκεί') || text.startsWith('Το CBCT συνοδεύεται') || text.startsWith('Τι προσφέρουν στη')) { const clickable = p.closest('div[style*=\"cursor\"]') || p.parentElement; if (clickable) { clickable.setAttribute('role', 'button'); clickable.setAttribute('aria-expanded', 'false'); clickable.setAttribute('tabindex', '0'); clickable.addEventListener('click', function() { const expanded = this.getAttribute('aria-expanded') === 'true'; this.setAttribute('aria-expanded', !expanded ? 'true' : 'false'); }); clickable.addEventListener('keydown', function(e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); this.click(); } }); } } }); } }); document.addEventListener('DOMContentLoaded', function() { // Find form success/error message containers // Add aria-live so screen readers announce changes const observer = new MutationObserver(function(mutations) { mutations.forEach(function(mutation) { mutation.addedNodes.forEach(function(node) { if (node.nodeType === 1) { const text = node.textContent.toLowerCase(); if (text.includes('success') || text.includes('error') || text.includes('επιτυχ') || text.includes('σφάλμα') || text.includes('ευχαριστ')) { node.setAttribute('role', 'status'); node.setAttribute('aria-live', 'polite'); } } }); }); }); observer.observe(document.body, { childList: true, subtree: true }); }); // Replace the existing hamburger button code with this: document.querySelectorAll('button').forEach(function(btn) { if (!btn.textContent.trim() && !btn.getAttribute('aria-label')) { btn.setAttribute('aria-label', 'Μενού πλοήγησης'); } }); // Also fix the menu_Opt div that the checker flagged document.querySelectorAll('[data-framer-name=\"menu_Opt\"]').forEach(function(el) { if (el.tagName === 'DIV' && el.getAttribute('aria-label')) { el.setAttribute('role', 'button'); } }); // Fix the uncrawlable operating hours link document.querySelectorAll('a').forEach(function(a) { if (!a.getAttribute('href') && a.textContent.includes('08:30')) { var span = document.createElement('span'); span.innerHTML = a.innerHTML; // Copy styles for (var i = 0; i < a.attributes.length; i++) { if (a.attributes[i].name !== 'href') { span.setAttribute(a.attributes[i].name, a.attributes[i].value); } } a.parentNode.replaceChild(span, a); } });",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/dentalray.gr-home-7fb4cf9f/homepage--7fb4cf9f.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/dentalray.gr-home-7fb4cf9f/homepage--7fb4cf9f.txt",
+      "imageReferences": [
+        {
+          "url": "https://framerusercontent.com/assets/agREaVrolXO0A08JFcUd378Jzro.png",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://dentalray.gr/",
+          "pageType": "homepage",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://dentalray.gr/",
+              "retrievedAt": "2026-03-31T13:08:08.285Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/T7pKX4CvA36HzneYU1CYNb9ka6g.png?width=1909&height=335",
+          "alt": "dentalray-logo",
+          "sourcePageUrl": "https://dentalray.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/",
+              "retrievedAt": "2026-03-31T13:08:08.285Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/T7pKX4CvA36HzneYU1CYNb9ka6g.png",
+          "sourcePageUrl": "https://dentalray.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/",
+              "retrievedAt": "2026-03-31T13:08:08.285Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/iTNoJZj2iLa2OejiUumNwT5nik.jpg?width=700&height=700",
+          "alt": "Πανοραμική ακτινογραφία δοντιών",
+          "sourcePageUrl": "https://dentalray.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/",
+              "retrievedAt": "2026-03-31T13:08:08.285Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/aDElfNsYH0u7t2qr12GASqQJQ5Q.jpg?width=700&height=700",
+          "alt": "Υπολογιστική τομογραφία κωνικής δέσμης (CBCT)",
+          "sourcePageUrl": "https://dentalray.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/",
+              "retrievedAt": "2026-03-31T13:08:08.285Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/MPjVI1lVPmVXxfGsv571vCMp7AA.jpg?width=700&height=700",
+          "alt": "fullmouth Πλήρης σειρά οπισθοφατνιακών ακτινογραφιών",
+          "sourcePageUrl": "https://dentalray.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/",
+              "retrievedAt": "2026-03-31T13:08:08.285Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/rQhbKdXbphWEgEERqVGRw6j69L4.jpg?width=700&height=700",
+          "alt": "Οπισθοφατνιακή ενδοστοματική ακτινογραφία",
+          "sourcePageUrl": "https://dentalray.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/",
+              "retrievedAt": "2026-03-31T13:08:08.285Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/rXA8bATdQ17oqIgZLr1bYh3FbFw.jpg?width=700&height=700",
+          "alt": "Ακτινογραφία Bitewing",
+          "sourcePageUrl": "https://dentalray.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/",
+              "retrievedAt": "2026-03-31T13:08:08.285Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/aDjF9bVezMZo7Q1mPh5w8eIYT4.jpg?width=700&height=700",
+          "alt": "ceph - Κεφαλομετρική ακτινογραφία",
+          "sourcePageUrl": "https://dentalray.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/",
+              "retrievedAt": "2026-03-31T13:08:08.285Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/1f0bBE3hBCNzermQ5ogfmx298g.jpg?width=700&height=700",
+          "alt": "TMJ - Ακτινογραφία κροταφογναθικών διαρθρώσεων",
+          "sourcePageUrl": "https://dentalray.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/",
+              "retrievedAt": "2026-03-31T13:08:08.285Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/idriIkD4QdcSGHyIft5rY6Un8.jpg?width=700&height=700",
+          "alt": "Ακτινογραφία δήξεως",
+          "sourcePageUrl": "https://dentalray.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/",
+              "retrievedAt": "2026-03-31T13:08:08.285Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/JCzX94YgEMWUSx6KFx5de4k6So.jpg?width=1920&height=1280",
+          "alt": "Μηχάνημα πανοραμικής ακτινογραφίας στο ιατρείο Dentalray",
+          "sourcePageUrl": "https://dentalray.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/",
+              "retrievedAt": "2026-03-31T13:08:08.285Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.287Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/dentalray.gr-home-7fb4cf9f/homepage-page-7fb4cf9f.png"
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+      "finalUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+      "fetchedAt": "2026-03-31T13:08:11.770Z",
+      "metadata": {
+        "title": "Πανοραμική ακτινογραφία - Οδοντιατρική διάγνωση στην Αθήνα",
+        "metaDescription": "Dentalray - Προσφέρουμε Πανοραμική ακτινογραφία με άμεσο ραντεβού στην Αθήνα. Καλέστε +302103839012 ✓ 25 έτη εμπειρίας, Η πανοραμική ακτινογραφία παρουσιάζει μια ολοκληρωμένη απεικόνιση των στοματικών δομών της άνω και της κάτω γνάθου καθώς και των παρακείμενων ιστών σε μια επίπεδη επιφάνεια. Πρόκειται για ένα βασικό διαγνωστικό εργαλείο στην οδοντιατρική, το οποίο παρέχει πολύτιμες πληροφορίες για τον θεραπευτικό σχεδιασμό, ιδίως στον τομέα της οδοντιατρικής χειρουργικής. Οι πανοραμικές ακτινογραφίες, ωστόσο, θα πρέπει να πραγματοποιούνται μόνο σε εξειδικευμένα διαγνωστικά κέντρα που διαθέτουν την απαραίτητη τεχνογνωσία και τον εξελιγμένο εξοπλισμό για την παραγωγή αποτελεσμάτων υψηλής ακρίβειας.",
+        "canonicalUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+        "language": "el",
+        "robots": "max-image-preview:large",
+        "openGraphTitle": "Πανοραμική ακτινογραφία - Οδοντιατρική διάγνωση στην Αθήνα",
+        "openGraphDescription": "Dentalray - Προσφέρουμε Πανοραμική ακτινογραφία με άμεσο ραντεβού στην Αθήνα. Καλέστε +302103839012 ✓ 25 έτη εμπειρίας, Η πανοραμική ακτινογραφία παρουσιάζει μια ολοκληρωμένη απεικόνιση των στοματικών δομών της άνω και της κάτω γνάθου καθώς και των παρακείμενων ιστών σε μια επίπεδη επιφάνεια. Πρόκειται για ένα βασικό διαγνωστικό εργαλείο στην οδοντιατρική, το οποίο παρέχει πολύτιμες πληροφορίες για τον θεραπευτικό σχεδιασμό, ιδίως στον τομέα της οδοντιατρικής χειρουργικής. Οι πανοραμικές ακτινογραφίες, ωστόσο, θα πρέπει να πραγματοποιούνται μόνο σε εξειδικευμένα διαγνωστικά κέντρα που διαθέτουν την απαραίτητη τεχνογνωσία και τον εξελιγμένο εξοπλισμό για την παραγωγή αποτελεσμάτων υψηλής ακρίβειας.",
+        "openGraphImage": "https://framerusercontent.com/images/iTNoJZj2iLa2OejiUumNwT5nik.jpg?width=700&height=700"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Πανοραμική ακτινογραφία"
+        },
+        {
+          "level": "h2",
+          "text": "Κατανόηση της πανοραμικής ακτινογραφίας"
+        },
+        {
+          "level": "h2",
+          "text": "Διαδικασία: Πώς γίνεται η πανοραμική ακτινογραφία;"
+        },
+        {
+          "level": "h2",
+          "text": "Εφαρμογές της πανοραμικής ακτινογραφίας"
+        },
+        {
+          "level": "h2",
+          "text": "Αποτελέσματα και Έκθεση σε ακτινοβολία"
+        },
+        {
+          "level": "h2",
+          "text": "Πλεονεκτήματα και ειδικά χαρακτηριστικά"
+        },
+        {
+          "level": "h2",
+          "text": "Γιατί να επιλέξετε τη Dentalray;"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://dentalray.gr/"
+        },
+        {
+          "href": "https://dentalray.gr/about",
+          "label": "Σχετικά με εμάς"
+        },
+        {
+          "href": "https://dentalray.gr/equipment",
+          "label": "Εξοπλισμός"
+        },
+        {
+          "href": "https://dentalray.gr/contact",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "label": "Πανοραμική ακτινογραφία"
+        },
+        {
+          "href": "https://dentalray.gr/services/cbct-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CF%84%CE%BF%CE%BC%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CE%BA%CF%89%CE%BD%CE%B9%CE%BA%CE%AE%CF%82-%CE%B4%CE%AD%CF%83%CE%BC%CE%B7%CF%82",
+          "label": "Υπολογιστική τομογραφία κωνικής δέσμης (CBCT)"
+        },
+        {
+          "href": "https://dentalray.gr/services/full-mouth-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+          "label": "Full Mouth - πλήρης σειρά οπισθοφατνιακών ακτινογραφιών"
+        },
+        {
+          "href": "https://dentalray.gr/services/%CE%BF%CF%80%CE%B9%CF%83%CE%B8%CE%BF%CF%86%CE%B1%CF%84%CE%BD%CE%B9%CE%B1%CE%BA%CE%B5%CF%82-full-mouth",
+          "label": "Οπισθοφατνιακή ενδοστοματική ακτινογραφία"
+        },
+        {
+          "href": "https://dentalray.gr/services/bite-wings",
+          "label": "Bitewing X-Ray"
+        },
+        {
+          "href": "https://dentalray.gr/services/%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%BF%CE%BC%CE%B5%CF%84%CF%81%CE%B9%CE%BA%CE%B7-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+          "label": "Κεφαλομετρική ακτινογραφία"
+        },
+        {
+          "href": "https://dentalray.gr/services/%CE%B1%CF%80%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B9%CF%83%CE%B7-%CE%BA%CF%81%CE%BF%CF%84%CE%B1%CF%86%CE%BF%CE%B3%CE%BD%CE%B1%CE%B8%CE%B9%CE%BA%CF%8E%CE%BD-%CE%B1%CF%81%CE%B8%CF%81%CF%8E%CF%83%CE%B5%CF%89%CE%BD",
+          "label": "Κροταφογναθικών διαρθρώσεων (ΚΓΔ)"
+        },
+        {
+          "href": "https://dentalray.gr/services/%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CE%B4%CE%AE%CE%BE%CE%B5%CF%89%CF%82",
+          "label": "Ακτινογραφία δήξεως"
+        },
+        {
+          "href": "https://dentalray.gr/privacy-policy",
+          "label": "Privacy Policy & GDPR"
+        },
+        {
+          "href": "https://dentalray.gr/cookies-policy",
+          "label": "Cookie Policy"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "+30 210 383 9012",
+          "+30 21 0383 9012",
+          "18020003000",
+          "902 1024",
+          "902 1274",
+          "1024 512",
+          "1024 1024",
+          "+302103839012",
+          "+30 2103839012"
+        ],
+        "emails": [
+          "info@dentalray.gr"
+        ],
+        "addresses": [],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/dentalraygr"
+          },
+          {
+            "href": "https://www.instagram.com/dentalraygr/"
+          },
+          {
+            "href": "https://www.tiktok.com/@dentalraygr"
+          }
+        ],
+        "forms": []
+      },
+      "textContent": "Μετάβαση στο περιεχόμενο .skip-link:focus { top: 0 !important; } html body { background: var(--token-52a3c3e9-ba5d-4688-ac63-ccff899cd61e, rgb(30, 22, 59)); }Καλέστε μας+30 210 383 9012ENΠανοραμική ακτινογραφίαΗ πανοραμική ακτινογραφία παρουσιάζει μια ολοκληρωμένη απεικόνιση των στοματικών δομών της άνω και της κάτω γνάθου καθώς και των παρακείμενων ιστών σε μια επίπεδη επιφάνεια. Πρόκειται για ένα βασικό διαγνωστικό εργαλείο στην οδοντιατρική, το οποίο παρέχει πολύτιμες πληροφορίες για τον θεραπευτικό σχεδιασμό, ιδίως στον τομέα της οδοντιατρικής χειρουργικής. Οι πανοραμικές ακτινογραφίες, ωστόσο, θα πρέπει να πραγματοποιούνται μόνο σε εξειδικευμένα διαγνωστικά κέντρα που διαθέτουν την απαραίτητη τεχνογνωσία και τον εξελιγμένο εξοπλισμό για την παραγωγή αποτελεσμάτων υψηλής ακρίβειας.Κατανόηση της πανοραμικής ακτινογραφίαςΗ πανοραμική ακτινογραφία αποτελεί μια ακτινολογική εξέταση και ένα βασικό εργαλείο στην καθημερινή κλινική πρακτική του οδοντιάτρου. Χρησιμοποιώντας ελάχιστη δόση ακτινοβολίας, η πανοραμική ακτινογραφία επιτρέπει τη δισδιάστατη (2-D) απεικόνιση ολόκληρης της στοματικής κοιλότητας. Αυτό περιλαμβάνει την άνω και την κάτω γνάθο, όλα τα δόντια, τις κροταφογναθικές αρθρώσεις, τη ρινική περιοχή και τα ιγμόρεια.Αν και η γνάθος είναι μια κοίλη δομή που μοιάζει με πέταλο, η πανοραμική ακτινογραφία το αποτυπώνει σε μια επίπεδη εικόνα, παρέχοντας πολύτιμες πληροφορίες στον οδοντίατρο. Η εξέταση διαρκεί μόλις λίγα δευτερόλεπτα και είναι απολύτως ασφαλής για τους ασθενείς.Διαδικασία: Πώς γίνεται η πανοραμική ακτινογραφία;Η διαδικασία της πανοραμικής ακτινογραφίας δεν απαιτεί ειδική προετοιμασία. Ωστόσο, είναι σημαντικό να ενημερώνεται ο τεχνολόγος ακτινολόγος για το ενδεχόμενο εγκυμοσύνης της ασθενούς. Τα γυαλιά, τα κοσμήματα ή άλλα μεταλλικά αντικείμενα που μπορεί να επηρεάσουν την εικόνα πρέπει να αφαιρούνται -πριν την εξέτασης.Η πανοραμική ακτινογραφία πραγματοποιείται με μια εξειδικευμένη συσκευή ακτίνων Χ, γνωστή ως ορθοπαντομογράφος. Ο όρος αυτός συνδυάζει τις λέξεις \"ορθός\" -που παραπέμπει στην ορθή γωνία που σχηματίζει η δέσμη των ακτίνων Χ με τη γνάθο, \"πανοραμική\" -που υποδηλώνει την ανεμπόδιστη θέαση ενός αντικειμένου προς οποιαδήποτε κατεύθυνση- και \"τομογραφία\" -που αφορά την επιλεκτική λήψη ενός αντικειμένου απαλλαγμένου από παρακείμενες και παρεμβαλλόμενες ανατομικές δομές.Ο ασθενής βρίσκεται σε όρθια θέση, δαγκώνει ένα ειδικό εξάρτημα (bite block) και με την βοήθεια ενός στηρίγματος κεφαλής εξασφαλίζεται η ακινησία κατά τη διάρκεια της διαδικασίας (η οποία διαρκεί 12-20 δευτερόλεπτα). Η θέση της κεφαλής και του σώματος είναι εξαιρετικής σημασίας, καθώς καθορίζουν πόσο ευκρινής, καθαρή και κλινικά χρήσιμη θα είναι η εικόνα. Η συσκευή ακτίνων Χ πραγματοποιεί μια περιστροφική κίνηση γύρω από το κεφάλι του ασθενούς, ακτινοβολώντας την περιοχή της άνω και κάτω γνάθου ταυτόχρονα. Η διαδικασία είναι ασφαλής, ανώδυνη και σύντομη, με την όλη διαδικασία να διαρκεί μόνο λίγα δευτερόλεπτα. Στη συνέχεια, η εξέταση μπορεί να εκτυπωθεί σε ακτινογραφικό φιλμ.Εφαρμογές της πανοραμικής ακτινογραφίαςΤο ορθοπαντομογραφημα προσφέρει λεπτομερή απεικόνιση όλων των σκληρών ιστών στο κάτω μισό του προσώπου. Εξοπλίζει τον έμπειρο οδοντίατρο με μια ολοκληρωμένη εικόνα του στόματος του ασθενούς, βοηθώντας σημαντικά στην καταγραφή και διάγνωση των οδοντιατρικών προβλημάτων και στη δημιουργία ενός πλήρους, ρεαλιστικού και εφικτού σχεδίου θεραπείας.Η ακτινολογική εξέταση είναι αναπόσπαστο στοιχείο για τον οδοντίατρο, καθώς πολλές παθήσεις των δοντιών και της γνάθου μπορούν να ανιχνευθούν μόνο ακτινογραφικά.Επιπλέον, χρησιμεύει ως προληπτικό μέτρο κατά των ασθενειών της στοματικής κοιλότητας, καθώς ο οδοντίατρος μπορεί να εντοπίσει εγκαίρως πιθανές παθολογίες.Αυτή η προληπτική προσέγγιση επιτρέπει στον ασθενή να αντιμετωπίσει τα οδοντιατρικά προβλήματα σε πρώιμο στάδιο, ελαχιστοποιώντας τον πόνο και λαμβάνοντας έγκαιρα την απαραίτητη θεραπεία.Συγκεκριμένα, η πανοραμική ακτινογραφία μπορεί να αποκαλύψει διάφορες καταστάσεις, όπως: Ανατομικές ανωμαλίες ή βλάβες στην άνω και κάτω γνάθοΓενετική ή συγγενής έλλειψη δοντιώνΈγκλειστα ή υπεράριθμα δόντιαΕντοπισμό των έγκλειστων φρονιμιτών και της επαφής τους με τις γειτονικές ανατομικές δομέςΟδοντική ηλικία των παιδιώνΤερηδόνα σε περιοχές που δεν είναι ορατές κατά την κλινική εξέτασηΥπάρχοντα σφραγίσματαΑπώλεια περιοδοντικού οστούΠεριακρορριζική φλεγμονή και κοκκιώματαΘέση οδοντικών εμφυτευμάτων και αξιολόγηση του οστού που τα περιβάλλειΠοιότητα, όγκου και ενσωμάτωση του οστικού μοσχεύματοςΑξιολόγηση σφραγισμάτων για τυχόν εργασίες και τοποθέτηση προσθετικών εργασιώνΗ ακτινολογική εξέταση με πανοραμική ακτινογραφία είναι απαραίτητη σε περιπτώσεις όπως:Τραυματισμό στην άνω και κάτω γνάθοΙατρικό ιστορικό τραύματος στην περιοχή της κεφαλής ή του προσώπουΠαρουσία ξένου σώματος στην άνω και κάτω γνάθο Κατάγματα δοντιώνΥποψία παθολογικών αλλοιώσεων στην άνω και κάτω γνάθοΈγκλειστα δόντια ή συγγενή έλλειψη δοντιώνΔυσλειτουργία της κροταφογναθικής άρθρωσηςΑποκατάσταση της οδοντοστοιχίας με την τοποθέτηση οστεοενσωματούμενων εμφυτευμάτων Σχεδιασμό και έλεγχο ορθοδοντικής θεραπείαςΜερικές φορές, η πανοραμική ακτινογραφία από μόνη της δεν αρκεί για μια πλήρη διάγνωση. Σε αυτές τις περιπτώσεις, συνδυάζεται με άλλες διαγνωστικές εξετάσεις, όπως οπισθοφατνιακές ακτινογραφίες υπολογιστική τομογραφία κωνικής δέσμης, βιοψία ιστού και παρακέντηση.Αποτελέσματα και Έκθεση σε ακτινοβολίαΗ εκτύπωση της εξέτασης σε φιλμ και η ψηφιακή εγγραφή γίνεται αμέσως. Τα αποτελέσματα μπορούν να αποσταλούν ηλεκτρονικά τόσο στον ασθενή όσο και στον θεράποντα οδοντίατρο κατόπιν αιτήματος.Η ακτινοβολία βρίσκεται γύρω μας με διάφορες μορφές. Η δόση που λαμβάνει ο ασθενής κατά τη διάρκεια μιας πανοραμικής ακτινογραφίας είναι αμελητέα - αντιστοιχεί στην περιβαλλοντική δόση που θα λάμβανε κάποιος μετά από 12 ώρες έκθεση σε κοσμική ακτινοβολία. Παρ' όλα αυτά, όπως και κάθε ιατρική πράξη θα πρέπει πάντα να διενεργείται μόνο εφόσον κρίνεται απαραίτητο από τον θεράποντα οδοντίατρο.Πλεονεκτήματα και ειδικά χαρακτηριστικάΠΛΕΟΝΕΚΤΗΜΑΤΑΓρήγορη διαδικασία απεικόνισης που διαρκεί λίγα μόνο δευτερόλεπταΧαμηλότερη δόση ακτινοβολίας σε σύγκριση με άλλες απεικονιστικές μεθόδουςΟλοκληρωμένη εικόνα και των δύο γνάθων σε μία μόνο λήψηΩς εξωστοματική ακτινογραφία, είναι μια απλή διαδικασία για τον ασθενή, αλλά απαιτεί εξειδικευμένο χειρισμό από το προσωπικόΚατάλληλη για παιδιά ηλικίας τεσσάρων ετών και άνω, καθώς και για άτομα με αναπηρία ή κινητικές δυσκολίεςΣΗΜΕΙΩΣΗ: Οι γυναίκες θα πρέπει πάντα να ενημερώνουν την ιατρική ομάδα σχετικά με το ενδεχόμενο εγκυμοσύνης καθώς και θηλασμού.Γιατί να επιλέξετε τη Dentalray;Στη Dentalray, είμαστε υπερήφανοι για την πολυετή εμπειρία μας και την εξειδίκευσή μας στην εκτέλεση πανοραμικών ακτινογραφιών. Δεσμευόμαστε να παρέχουμε τις καλύτερες δυνατές υπηρεσίες και τη μέγιστη δυνατή φροντίδα στους ασθενείς μας. Οι εγκαταστάσεις μας είναι εξοπλισμένες με τελευταίας τεχνολογίας απεικονιστικά συστήματα και το προσωπικό μας είναι έμπειρο στη χρήση υπερσύγχρονων λογισμικών. Κατά τη διάρκεια οποιασδήποτε εξέτασης ή ακτινογραφίας, ανταποδίδουμε την εμπιστοσύνη των ασθενών μας προσφέροντας υπηρεσίες υψηλής ποιότητας που παρέχονται από ομάδα κορυφαίων επιστημόνων στον τομέα της οδοντιατρικής ακτινοδιαγνωστικής.Η Dentalray αποτελεί υψηλής εξειδίκευσης διαγνωστικό ιατρείο κορυφαίων επιστημόνων στον τομέα της γναθοπροσωπικής ακτινολογίας. Το γεγονός αυτό διασφαλίζει την λήψη και επεξεργασία απεικονίσεων που παρέχουν την υψηλότερη δυνατή διαγνωστική αξία. Οι πανοραμικές ακτινογραφίες μπορούν να συμπληρωθούν δωρεάν με συμπληρωματικές ακτινογραφίες (π.χ. οπισθοφατνιακές), για τη διευκρίνιση και μεγέθυνση περιοχών που χρήζουν περαιτέρω διερεύνηση.Το προσωπικό μας είναι πάντα διαθέσιμο να σας εξυπηρετήσει και για να προγραμματίσει ένα ραντεβού ανάλογα με τις ανάγκες σας. Κατά τη διάρκεια της επίσκεψής σας, θεωρούμε υποχρέωσή μας να σας ενημερώσουμε για την όλη διαδικασία και να διασφαλίσουμε την άνεσή σας. Εμπιστευτείτε τη Dentalray για κορυφαία οδοντιατρική διάγνωση.Στουρνάρη 35, Αθήνα 106 82Δευ - Παρ 08:30 - 21:00+30 21 0383 9012info@dentalray.grΣχετικά με εμάςΕξοπλισμόςΕπικοινωνίαΠανοραμική ακτινογραφίαΥπολογιστική τομογραφία κωνικής δέσμης (CBCT)Full Mouth - πλήρης σειρά οπισθοφατνιακών ακτινογραφιώνΟπισθοφατνιακή ενδοστοματική ακτινογραφίαBitewing X-RayΚεφαλομετρική ακτινογραφίαΚροταφογναθικών διαρθρώσεων (ΚΓΔ)Ακτινογραφία δήξεως©2026 DentalRayΑρ. ΓΕΜΗ: 18020003000Privacy Policy & GDPR|Cookie PolicyCreated bydesignco.agencyΣτουρνάρη 35, Αθήνα 106 82Δευ - Παρ 08:30 - 21:00+30 21 0383 9012info@dentalray.grΣχετικά με εμάςΕξοπλισμόςΕπικοινωνίαΠανοραμική ακτινογραφίαΥπολογιστική τομογραφία κωνικής δέσμης (CBCT)Full Mouth - πλήρης σειρά οπισθοφατνιακών ακτινογραφιώνΟπισθοφατνιακή ενδοστοματική ακτινογραφίαBitewing X-RayΚεφαλομετρική ακτινογραφίαΚροταφογναθικών διαρθρώσεων (ΚΓΔ)Ακτινογραφία δήξεως©2026 DentalRayΑρ. ΓΕΜΗ: 18020003000Privacy Policy & GDPR|Cookie PolicyCreated bydesignco.agencyΣτουρνάρη 35, Αθήνα 106 82Δευ - Παρ 08:30 - 21:00+30 21 0383 9012info@dentalray.grΣχετικά με εμάςΕξοπλισμόςΕπικοινωνίαΠανοραμική ακτινογραφίαΥπολογιστική τομογραφία κωνικής δέσμης (CBCT)Full Mouth - πλήρης σειρά οπισθοφατνιακών ακτινογραφιώνΟπισθοφατνιακή ενδοστοματική ακτινογραφίαBitewing X-RayΚεφαλομετρική ακτινογραφίαΚροταφογναθικών διαρθρώσεων (ΚΓΔ)Ακτινογραφία δήξεως©2026 DentalRayΑρ. ΓΕΜΗ: 18020003000Privacy Policy & GDPR|Cookie PolicyCreated bydesignco.agency(()=>{function u(){function n(t,e,i){let r=document.createElement(\"a\");r.href=t,r.target=i,r.rel=e,document.body.appendChild(r),r.click(),r.remove()}function o(t){if(this.dataset.hydrated){this.removeEventListener(\"click\",o);return}t.preventDefault(),t.stopPropagation();let e=this.getAttribute(\"href\");if(!e)return;if(/Mac|iPod|iPhone|iPad/u.test(navigator.userAgent)?t.metaKey:t.ctrlKey)return n(e,\"\",\"_blank\");let r=this.getAttribute(\"rel\")??\"\",c=this.getAttribute(\"target\")??\"\";n(e,r,c)}function a(t){if(this.dataset.hydrated){this.removeEventListener(\"auxclick\",o);return}t.preventDefault(),t.stopPropagation();let e=this.getAttribute(\"href\");e&&n(e,\"\",\"_blank\")}function s(t){if(this.dataset.hydrated){this.removeEventListener(\"keydown\",s);return}if(t.key!==\"Enter\")return;t.preventDefault(),t.stopPropagation();let e=this.getAttribute(\"href\");if(!e)return;let i=this.getAttribute(\"rel\")??\"\",r=this.getAttribute(\"target\")??\"\";n(e,i,r)}document.querySelectorAll(\"[data-nested-link]\").forEach(t=>{t instanceof HTMLElement&&(t.addEventListener(\"click\",o),t.addEventListener(\"auxclick\",a),t.addEventListener(\"keydown\",s))})}return u})()() !function(){var w=\"framer_variant\";function u(a,r){let e=r.indexOf(\"#\"),t=e===-1?r:r.substring(0,e),o=e===-1?\"\":r.substring(e),n=t.indexOf(\"?\"),h=n===-1?t:t.substring(0,n),d=n===-1?\"\":t.substring(n),s=new URLSearchParams(d),m=new URLSearchParams(a);for(let[i,l]of m)s.has(i)||i!==w&&s.append(i,l);let c=s.toString();return c===\"\"?t+o:h+\"?\"+c+o}var g='div#main a[href^=\"#\"],div#main a[href^=\"/\"],div#main a[href^=\".\"]',f=\"div#main a[data-framer-preserve-params]\",S=document.currentScript?.hasAttribute(\"data-preserve-internal-params\");if(window.location.search&&!navigator.webdriver&&!/bot|-google|google-|yandex|ia_archiver|crawl|spider/iu.test(navigator.userAgent)){let a=document.querySelectorAll(S?`${g},${f}`:f);for(let r of a){let e=u(window.location.search,r.href);r.setAttribute(\"href\",e)}} }() typeof document<\"u\"&&(window.process={...window.process,env:{...window.process?.env,NODE_ENV:\"production\"}}); [{\"0\":1,\"1\":179},[\"Map\",2,3,24,25,80,81],\"{\\\"from\\\":\\\"fe4ee592-26ee-45fc-8a21-2d753e8464a6\\\",\\\"select\\\":[{\\\"collection\\\":\\\"UkOvuG0EG\\\",\\\"name\\\":\\\"Vh9MUTgV2\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"UkOvuG0EG\\\",\\\"name\\\":\\\"t3KALtFeE\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"UkOvuG0EG\\\",\\\"name\\\":\\\"lFkeDMpkC\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"UkOvuG0EG\\\",\\\"name\\\":\\\"KGTNVBYe3\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"UkOvuG0EG\\\",\\\"name\\\":\\\"KthW1oqxa\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"UkOvuG0EG\\\",\\\"name\\\":\\\"p6R0Bu8KN\\\",\\\"type\\\":\\\"Identifier\\\"}],\\\"where\\\":{\\\"type\\\":\\\"BinaryOperation\\\",\\\"operator\\\":\\\"==\\\",\\\"left\\\":{\\\"type\\\":\\\"TypeCast\\\",\\\"value\\\":{\\\"type\\\":\\\"Identifier\\\",\\\"name\\\":\\\"bNouWtPdF\\\",\\\"collection\\\":\\\"UkOvuG0EG\\\"},\\\"dataType\\\":\\\"STRING\\\"},\\\"right\\\":{\\\"type\\\":\\\"LiteralValue\\\",\\\"value\\\":\\\"πανοραμική-panoramic-x-ray\\\"}}}default\",[4],{\"Vh9MUTgV2\":5,\"t3KALtFeE\":8,\"lFkeDMpkC\":10,\"KGTNVBYe3\":17,\"KthW1oqxa\":19,\"p6R0Bu8KN\":21},{\"type\":6,\"value\":7},\"string\",\"Πανοραμική ακτινογραφία\",{\"type\":6,\"value\":9},\"Panoramic X-ray\",{\"type\":11,\"value\":12},\"responsiveimage\",{\"src\":13,\"srcSet\":14,\"pixelWidth\":15,\"pixelHeight\":15,\"alt\":16},\"https://framerusercontent.com/images/iTNoJZj2iLa2OejiUumNwT5nik.jpg?width=700&height=700\",\"https://framerusercontent.com/images/iTNoJZj2iLa2OejiUumNwT5nik.jpg?scale-down-to=512&width=700&height=700 512w,https://framerusercontent.com/images/iTNoJZj2iLa2OejiUumNwT5nik.jpg?width=700&height=700 700w\",700,\"Πανοραμική ακτινογραφία δοντιών\",{\"type\":6,\"value\":18},\"https://cloud.designco.agency/dentalray/services/panoramic.mp4\",{\"type\":6,\"value\":20},\"Η πανοραμική ακτινογραφία παρουσιάζει μια ολοκληρωμένη απεικόνιση των στοματικών δομών της άνω και της κάτω γνάθου καθώς και των παρακείμενων ιστών σε μια επίπεδη επιφάνεια. Πρόκειται για ένα βασικό διαγνωστικό εργαλείο στην οδοντιατρική, το οποίο παρέχει πολύτιμες πληροφορίες για τον θεραπευτικό σχεδιασμό, ιδίως στον τομέα της οδοντιατρικής χειρουργικής. Οι πανοραμικές ακτινογραφίες, ωστόσο, θα πρέπει να πραγματοποιούνται μόνο σε εξειδικευμένα διαγνωστικά κέντρα που διαθέτουν την απαραίτητη τεχνογνωσία και τον εξελιγμένο εξοπλισμό για την παραγωγή αποτελεσμάτων υψηλής ακρίβειας.\",{\"type\":22,\"value\":23},\"color\",\"rgb(245, 239, 230)\",\"{\\\"from\\\":\\\"fe4ee592-26ee-45fc-8a21-2d753e8464a6\\\",\\\"select\\\":[{\\\"collection\\\":\\\"yxvld3nJg\\\",\\\"name\\\":\\\"Vh9MUTgV2\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"yxvld3nJg\\\",\\\"name\\\":\\\"bNouWtPdF\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"yxvld3nJg\\\",\\\"name\\\":\\\"id\\\",\\\"type\\\":\\\"Identifier\\\"}]}default\",[26,31,38,45,52,59,66,73],{\"Vh9MUTgV2\":5,\"bNouWtPdF\":27,\"id\":29},{\"type\":6,\"value\":28},\"πανοραμική-panoramic-x-ray\",{\"type\":6,\"value\":30},\"sw2OlhJl_\",{\"Vh9MUTgV2\":32,\"bNouWtPdF\":34,\"id\":36},{\"type\":6,\"value\":33},\"Υπολογιστική τομογραφία κωνικής δέσμης (CBCT)\",{\"type\":6,\"value\":35},\"cbct-υπολογιστική-τομογραφία-κωνικής-δέσμης\",{\"type\":6,\"value\":37},\"lqsnnNY5t\",{\"Vh9MUTgV2\":39,\"bNouWtPdF\":41,\"id\":43},{\"type\":6,\"value\":40},\"Full Mouth - πλήρης σειρά οπισθοφατνιακών ακτινογραφιών\",{\"type\":6,\"value\":42},\"full-mouth-ακτινογραφία\",{\"type\":6,\"value\":44},\"POv8sMdK6\",{\"Vh9MUTgV2\":46,\"bNouWtPdF\":48,\"id\":50},{\"type\":6,\"value\":47},\"Οπισθοφατνιακή ενδοστοματική ακτινογραφία\",{\"type\":6,\"value\":49},\"οπισθοφατνιακες-full-mouth\",{\"type\":6,\"value\":51},\"Mu9obfYZh\",{\"Vh9MUTgV2\":53,\"bNouWtPdF\":55,\"id\":57},{\"type\":6,\"value\":54},\"Bitewing X-Ray\",{\"type\":6,\"value\":56},\"bite-wings\",{\"type\":6,\"value\":58},\"Xfl9Mrnzr\",{\"Vh9MUTgV2\":60,\"bNouWtPdF\":62,\"id\":64},{\"type\":6,\"value\":61},\"Κεφαλομετρική ακτινογραφία\",{\"type\":6,\"value\":63},\"κεφαλομετρικη-ακτινογραφία\",{\"type\":6,\"value\":65},\"F0QM2nn5u\",{\"Vh9MUTgV2\":67,\"bNouWtPdF\":69,\"id\":71},{\"type\":6,\"value\":68},\"Κροταφογναθικών διαρθρώσεων (ΚΓΔ)\",{\"type\":6,\"value\":70},\"απεικόνιση-κροταφογναθικών-αρθρώσεων\",{\"type\":6,\"value\":72},\"HGQqsJoow\",{\"Vh9MUTgV2\":74,\"bNouWtPdF\":76,\"id\":78},{\"type\":6,\"value\":75},\"Ακτινογραφία δήξεως\",{\"type\":6,\"value\":77},\"ακτινογραφία-δήξεως\",{\"type\":6,\"value\":79},\"Uaj0hjJG_\",\"{\\\"from\\\":\\\"196d8356-9a60-4036-b018-552fad7f5654\\\",\\\"select\\\":[{\\\"collection\\\":\\\"Lcl2esj0D\\\",\\\"name\\\":\\\"vl_ZgRRcA\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"Lcl2esj0D\\\",\\\"name\\\":\\\"ZHCWi2QJ6\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"Lcl2esj0D\\\",\\\"name\\\":\\\"M0tYOuDiS\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"Lcl2esj0D\\\",\\\"name\\\":\\\"VXi8RYKeN\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"Lcl2esj0D\\\",\\\"name\\\":\\\"id\\\",\\\"type\\\":\\\"Identifier\\\"}],\\\"where\\\":{\\\"arguments\\\":[{\\\"collection\\\":\\\"Lcl2esj0D\\\",\\\"name\\\":\\\"n8zP3X1ap\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"type\\\":\\\"LiteralValue\\\",\\\"value\\\":\\\"Panoramic X-ray\\\"}],\\\"functionName\\\":\\\"CONTAINS\\\",\\\"type\\\":\\\"FunctionCall\\\"}}default\",[82,101,116,133,148,163],{\"vl_ZgRRcA\":83,\"ZHCWi2QJ6\":90,\"M0tYOuDiS\":92,\"VXi8RYKeN\":97,\"id\":99},{\"type\":11,\"value\":84},{\"src\":85,\"srcSet\":86,\"pixelWidth\":87,\"pixelHeight\":88,\"alt\":89},\"https://framerusercontent.com/images/RkBcHSKhFPxhN9ycROBbSxCMbY.jpg?width=1274&height=902\",\"https://framerusercontent.com/images/RkBcHSKhFPxhN9ycROBbSxCMbY.jpg?scale-down-to=512&width=1274&height=902 512w,https://framerusercontent.com/images/RkBcHSKhFPxhN9ycROBbSxCMbY.jpg?scale-down-to=1024&width=1274&height=902 1024w,https://framerusercontent.com/images/RkBcHSKhFPxhN9ycROBbSxCMbY.jpg?width=1274&height=902 1274w\",1274,902,\"Πανοραμική\",{\"type\":6,\"value\":91},\"Κατανόηση της πανοραμικής ακτινογραφίας\",{\"type\":93,\"value\":94},\"richtext\",{\"collectionId\":95,\"pointer\":96},\"196d8356-9a60-4036-b018-552fad7f5654default\",\"[1,[4,\\\"p\\\",null,[5,\\\"Η πανοραμική ακτινογραφία αποτελεί μια ακτινολογική εξέταση και ένα βασικό εργαλείο στην καθημερινή κλινική πρακτική του οδοντιάτρου. Χρησιμοποιώντας ελάχιστη δόση ακτινοβολίας, η πανοραμική ακτινογραφία επιτρέπει τη δισδιάστατη (2-D) απεικόνιση ολόκληρης της στοματικής κοιλότητας. Αυτό περιλαμβάνει την άνω και την κάτω γνάθο, όλα τα δόντια, τις κροταφογναθικές αρθρώσεις, τη ρινική περιοχή και τα ιγμόρεια.\\\"]],[4,\\\"p\\\",null,[5,\\\"Αν και η γνάθος είναι μια κοίλη δομή που μοιάζει με πέταλο, η πανοραμική ακτινογραφία το αποτυπώνει σε μια επίπεδη εικόνα, παρέχοντας πολύτιμες πληροφορίες στον οδοντίατρο. Η εξέταση διαρκεί μόλις λίγα δευτερόλεπτα και είναι απολύτως ασφαλής για τους ασθενείς.\\\"]]]\",{\"type\":6,\"value\":98},\"τι-είναι-η-πανοραμική-ακτινογραφία\",{\"type\":6,\"value\":100},\"OjUkl8qMa\",{\"vl_ZgRRcA\":102,\"ZHCWi2QJ6\":107,\"M0tYOuDiS\":109,\"VXi8RYKeN\":112,\"id\":114},{\"type\":11,\"value\":103},{\"src\":104,\"pixelWidth\":105,\"pixelHeight\":105,\"alt\":106},\"https://framerusercontent.com/images/eIIkR26WRQYo13VoaH5hRcFkRI.png?width=300&height=300\",300,\"panoramic-xray-procedure\",{\"type\":6,\"value\":108},\"Διαδικασία: Πώς γίνεται η πανοραμική ακτινογραφία;\",{\"type\":93,\"value\":110},{\"collectionId\":95,\"pointer\":111},\"[1,[4,\\\"p\\\",null,[5,\\\"Η διαδικασία της πανοραμικής ακτινογραφίας δεν απαιτεί ειδική προετοιμασία. Ωστόσο, είναι σημαντικό να ενημερώνεται ο τεχνολόγος ακτινολόγος για το ενδεχόμενο εγκυμοσύνης της ασθενούς. Τα γυαλιά, τα κοσμήματα ή άλλα μεταλλικά αντικείμενα που μπορεί να επηρεάσουν την εικόνα πρέπει να αφαιρούνται -πριν την εξέτασης.\\\"]],[4,\\\"p\\\",null,[5,\\\"Η πανοραμική ακτινογραφία πραγματοποιείται με μια εξειδικευμένη συσκευή ακτίνων Χ, γνωστή ως ορθοπαντομογράφος. Ο όρος αυτός συνδυάζει τις λέξεις \\\\\\\"ορθός\\\\\\\" -που παραπέμπει στην ορθή γωνία που σχηματίζει η δέσμη των ακτίνων Χ με τη γνάθο, \\\\\\\"πανοραμική\\\\\\\" -που υποδηλώνει την ανεμπόδιστη θέαση ενός αντικειμένου προς οποιαδήποτε κατεύθυνση- και \\\\\\\"τομογραφία\\\\\\\" -που αφορά την επιλεκτική λήψη ενός αντικειμένου απαλλαγμένου από παρακείμενες και παρεμβαλλόμενες ανατομικές δομές.\\\"]],[4,\\\"p\\\",null,[5,\\\"Ο ασθενής βρίσκεται σε όρθια θέση, δαγκώνει ένα ειδικό εξάρτημα (bite block) και με την βοήθεια ενός στηρίγματος κεφαλής εξασφαλίζεται η ακινησία κατά τη διάρκεια της διαδικασίας (η οποία διαρκεί 12-20 δευτερόλεπτα). Η θέση της κεφαλής και του σώματος είναι εξαιρετικής σημασίας, καθώς καθορίζουν πόσο ευκρινής, καθαρή και κλινικά χρήσιμη θα είναι η εικόνα. Η συσκευή ακτίνων Χ πραγματοποιεί μια περιστροφική κίνηση γύρω από το κεφάλι του ασθενούς, ακτινοβολώντας την περιοχή της άνω και κάτω γνάθου ταυτόχρονα. Η διαδικασία είναι ασφαλής, ανώδυνη και σύντομη, με την όλη διαδικασία να διαρκεί μόνο λίγα δευτερόλεπτα. Στη συνέχεια, η εξέταση μπορεί να εκτυπωθεί σε ακτινογραφικό φιλμ.\\\"]]]\",{\"type\":6,\"value\":113},\"προετοιμασία-πώς-γίνεται-μια-πανοραμική-ακτινογραφία\",{\"type\":6,\"value\":115},\"w44vQenIk\",{\"vl_ZgRRcA\":117,\"ZHCWi2QJ6\":124,\"M0tYOuDiS\":126,\"VXi8RYKeN\":129,\"id\":131},{\"type\":11,\"value\":118},{\"src\":119,\"srcSet\":120,\"pixelWidth\":121,\"pixelHeight\":122,\"alt\":123},\"https://framerusercontent.com/images/Q0jlVp5RMnOmI4kyI1ID8msVM.png?width=540&height=672\",\"https://framerusercontent.com/images/Q0jlVp5RMnOmI4kyI1ID8msVM.png?width=540&height=672 540w\",540,672,\"\",{\"type\":6,\"value\":125},\"Εφαρμογές της πανοραμικής ακτινογραφίας\",{\"type\":93,\"value\":127},{\"collectionId\":95,\"pointer\":128},\"[1,[4,\\\"p\\\",null,[5,\\\"Το ορθοπαντομογραφημα προσφέρει λεπτομερή απεικόνιση όλων των σκληρών ιστών στο κάτω μισό του προσώπου. Εξοπλίζει τον έμπειρο οδοντίατρο με μια ολοκληρωμένη εικόνα του στόματος του ασθενούς, βοηθώντας σημαντικά στην καταγραφή και διάγνωση των οδοντιατρικών προβλημάτων και στη δημιουργία ενός πλήρους, ρεαλιστικού και εφικτού σχεδίου θεραπείας.\\\"]],[4,\\\"p\\\",null,[5,\\\"Η ακτινολογική εξέταση είναι αναπόσπαστο στοιχείο για τον οδοντίατρο, καθώς πολλές παθήσεις των δοντιών και της γνάθου μπορούν να ανιχνευθούν μόνο ακτινογραφικά.\\\"]],[4,\\\"p\\\",null,[5,\\\"Επιπλέον, χρησιμεύει ως προληπτικό μέτρο κατά των ασθενειών της στοματικής κοιλότητας, καθώς ο οδοντίατρος μπορεί να εντοπίσει εγκαίρως πιθανές παθολογίες.\\\"]],[4,\\\"p\\\",null,[5,\\\"Αυτή η προληπτική προσέγγιση επιτρέπει στον ασθενή να αντιμετωπίσει τα οδοντιατρικά προβλήματα σε πρώιμο στάδιο, ελαχιστοποιώντας τον πόνο και λαμβάνοντας έγκαιρα την απαραίτητη θεραπεία.\\\"]],[4,\\\"p\\\",null,[5,\\\"Συγκεκριμένα, η πανοραμική ακτινογραφία μπορεί να αποκαλύψει διάφορες καταστάσεις, όπως: \\\"]],[4,\\\"ul\\\",null,[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Ανατομικές ανωμαλίες ή βλάβες στην άνω και κάτω γνάθο\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Γενετική ή συγγενής έλλειψη δοντιών\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Έγκλειστα ή υπεράριθμα δόντια\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Εντοπισμό των έγκλειστων φρονιμιτών και της επαφής τους με τις γειτονικές ανατομικές δομές\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Οδοντική ηλικία των παιδιών\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Τερηδόνα σε περιοχές που δεν είναι ορατές κατά την κλινική εξέταση\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Υπάρχοντα σφραγίσματα\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Απώλεια περιοδοντικού οστού\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Περιακρορριζική φλεγμονή και κοκκιώματα\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Θέση οδοντικών εμφυτευμάτων και αξιολόγηση του οστού που τα περιβάλλει\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Ποιότητα, όγκου και ενσωμάτωση του οστικού μοσχεύματος\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Αξιολόγηση σφραγισμάτων για τυχόν εργασίες και τοποθέτηση προσθετικών εργασιών\\\"]]]],[4,\\\"p\\\",null,[5,\\\"Η ακτινολογική εξέταση με πανοραμική ακτινογραφία είναι απαραίτητη σε περιπτώσεις όπως:\\\"]],[4,\\\"ul\\\",null,[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Τραυματισμό στην άνω και κάτω γνάθο\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Ιατρικό ιστορικό τραύματος στην περιοχή της κεφαλής ή του προσώπου\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Παρουσία ξένου σώματος στην άνω και κάτω γνάθο \\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Κατάγματα δοντιών\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Υποψία παθολογικών αλλοιώσεων στην άνω και κάτω γνάθο\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Έγκλειστα δόντια ή συγγενή έλλειψη δοντιών\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Δυσλειτουργία της κροταφογναθικής άρθρωσης\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Αποκατάσταση της οδοντοστοιχίας με την τοποθέτηση οστεοενσωματούμενων εμφυτευμάτων \\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Σχεδιασμό και έλεγχο ορθοδοντικής θεραπείας\\\"]]]],[4,\\\"p\\\",null,[5,\\\"Μερικές φορές, η πανοραμική ακτινογραφία από μόνη της δεν αρκεί για μια πλήρη διάγνωση. Σε αυτές τις περιπτώσεις, συνδυάζεται με άλλες διαγνωστικές εξετάσεις, όπως οπισθοφατνιακές ακτινογραφίες υπολογιστική τομογραφία κωνικής δέσμης, βιοψία ιστού και παρακέντηση.\\\"]],[4,\\\"p\\\",null,[4,\\\"br\\\",{\\\"className\\\":\\\"trailing-break\\\"}]]]\",{\"type\":6,\"value\":130},\"ενδείξεις-panoramic\",{\"type\":6,\"value\":132},\"ni8IKv5zv\",{\"vl_ZgRRcA\":134,\"ZHCWi2QJ6\":139,\"M0tYOuDiS\":141,\"VXi8RYKeN\":144,\"id\":146},{\"type\":11,\"value\":135},{\"src\":136,\"pixelWidth\":137,\"pixelHeight\":137,\"alt\":138},\"https://framerusercontent.com/images/9LxjuQFeIJgJqOwUGYG2WSOg50g.png?width=150&height=150\",150,\"results\",{\"type\":6,\"value\":140},\"Αποτελέσματα και Έκθεση σε ακτινοβολία\",{\"type\":93,\"value\":142},{\"collectionId\":95,\"pointer\":143},\"[1,[4,\\\"p\\\",null,[5,\\\"Η εκτύπωση της εξέτασης σε φιλμ και η ψηφιακή εγγραφή γίνεται αμέσως. Τα αποτελέσματα μπορούν να αποσταλούν ηλεκτρονικά τόσο στον ασθενή όσο και στον θεράποντα οδοντίατρο κατόπιν αιτήματος.\\\"]],[4,\\\"p\\\",null,[5,\\\"Η ακτινοβολία βρίσκεται γύρω μας με διάφορες μορφές. Η δόση που λαμβάνει ο ασθενής κατά τη διάρκεια μιας πανοραμικής ακτινογραφίας είναι αμελητέα - αντιστοιχεί στην περιβαλλοντική δόση που θα λάμβανε κάποιος μετά από 12 ώρες έκθεση σε κοσμική ακτινοβολία. Παρ' όλα αυτά, όπως και κάθε ιατρική πράξη θα πρέπει πάντα να διενεργείται μόνο εφόσον κρίνεται απαραίτητο από τον θεράποντα οδοντίατρο.\\\"]]]\",{\"type\":6,\"value\":145},\"πότε-λαμβάνονται-οι-απαντήσεις-των-εξετάσεων\",{\"type\":6,\"value\":147},\"yV92UZTt8\",{\"vl_ZgRRcA\":149,\"ZHCWi2QJ6\":154,\"M0tYOuDiS\":156,\"VXi8RYKeN\":159,\"id\":161},{\"type\":11,\"value\":150},{\"src\":151,\"srcSet\":152,\"pixelWidth\":153,\"pixelHeight\":153,\"alt\":123},\"https://framerusercontent.com/images/lalX4UBJpwReSnkgYxta5CUna0.png?width=1024&height=1024\",\"https://framerusercontent.com/images/lalX4UBJpwReSnkgYxta5CUna0.png?scale-down-to=512&width=1024&height=1024 512w,https://framerusercontent.com/images/lalX4UBJpwReSnkgYxta5CUna0.png?width=1024&height=1024 1024w\",1024,{\"type\":6,\"value\":155},\"Πλεονεκτήματα και ειδικά χαρακτηριστικά\",{\"type\":93,\"value\":157},{\"collectionId\":95,\"pointer\":158},\"[1,[4,\\\"p\\\",null,[5,\\\"ΠΛΕΟΝΕΚΤΗΜΑΤΑ\\\"]],[4,\\\"ul\\\",null,[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Γρήγορη διαδικασία απεικόνισης που διαρκεί λίγα μόνο δευτερόλεπτα\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Χαμηλότερη δόση ακτινοβολίας σε σύγκριση με άλλες απεικονιστικές μεθόδους\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Ολοκληρωμένη εικόνα και των δύο γνάθων σε μία μόνο λήψη\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Ως εξωστοματική ακτινογραφία, είναι μια απλή διαδικασία για τον ασθενή, αλλά απαιτεί εξειδικευμένο χειρισμό από το προσωπικό\\\"]]],[4,\\\"li\\\",{\\\"data-preset-tag\\\":\\\"p\\\"},[4,\\\"p\\\",null,[5,\\\"Κατάλληλη για παιδιά ηλικίας τεσσάρων ετών και άνω, καθώς και για άτομα με αναπηρία ή κινητικές δυσκολίες\\\"]]]],[4,\\\"p\\\",null,[5,\\\"ΣΗΜΕΙΩΣΗ: Οι γυναίκες θα πρέπει πάντα να ενημερώνουν την ιατρική ομάδα σχετικά με το ενδεχόμενο εγκυμοσύνης καθώς και θηλασμού.\\\"]]]\",{\"type\":6,\"value\":160},\"πλεονεκτήματα-και-ιδιαιτερότητες\",{\"type\":6,\"value\":162},\"LYCtA0Xvv\",{\"vl_ZgRRcA\":164,\"ZHCWi2QJ6\":170,\"M0tYOuDiS\":172,\"VXi8RYKeN\":175,\"id\":177},{\"type\":11,\"value\":165},{\"src\":166,\"srcSet\":167,\"pixelWidth\":168,\"pixelHeight\":169,\"alt\":123},\"https://framerusercontent.com/images/7vVx3lttFSuuLI6b9x5nfOD67Pc.png?width=998&height=652\",\"https://framerusercontent.com/images/7vVx3lttFSuuLI6b9x5nfOD67Pc.png?scale-down-to=512&width=998&height=652 512w,https://framerusercontent.com/images/7vVx3lttFSuuLI6b9x5nfOD67Pc.png?width=998&height=652 998w\",998,652,{\"type\":6,\"value\":171},\"Γιατί να επιλέξετε τη Dentalray;\",{\"type\":93,\"value\":173},{\"collectionId\":95,\"pointer\":174},\"[1,[4,\\\"p\\\",null,[5,\\\"Στη Dentalray, είμαστε υπερήφανοι για την πολυετή εμπειρία μας και την εξειδίκευσή μας στην εκτέλεση πανοραμικών ακτινογραφιών. Δεσμευόμαστε να παρέχουμε τις καλύτερες δυνατές υπηρεσίες και τη μέγιστη δυνατή φροντίδα στους ασθενείς μας. \\\"]],[4,\\\"p\\\",null,[5,\\\"Οι εγκαταστάσεις μας είναι εξοπλισμένες με τελευταίας τεχνολογίας απεικονιστικά συστήματα και το προσωπικό μας είναι έμπειρο στη χρήση υπερσύγχρονων λογισμικών. Κατά τη διάρκεια οποιασδήποτε εξέτασης ή ακτινογραφίας, ανταποδίδουμε την εμπιστοσύνη των ασθενών μας προσφέροντας υπηρεσίες υψηλής ποιότητας που παρέχονται από ομάδα κορυφαίων επιστημόνων στον τομέα της οδοντιατρικής ακτινοδιαγνωστικής.\\\"]],[4,\\\"p\\\",null,[5,\\\"Η Dentalray αποτελεί υψηλής εξειδίκευσης διαγνωστικό ιατρείο κορυφαίων επιστημόνων στον τομέα της γναθοπροσωπικής ακτινολογίας. Το γεγονός αυτό διασφαλίζει την λήψη και επεξεργασία απεικονίσεων που παρέχουν την υψηλότερη δυνατή διαγνωστική αξία. Οι πανοραμικές ακτινογραφίες μπορούν να συμπληρωθούν δωρεάν με συμπληρωματικές ακτινογραφίες (π.χ. οπισθοφατνιακές), για τη διευκρίνιση και μεγέθυνση περιοχών που χρήζουν περαιτέρω διερεύνηση.\\\"]],[4,\\\"p\\\",null,[5,\\\"Το προσωπικό μας είναι πάντα διαθέσιμο να σας εξυπηρετήσει και για να προγραμματίσει ένα ραντεβού ανάλογα με τις ανάγκες σας. Κατά τη διάρκεια της επίσκεψής σας, θεωρούμε υποχρέωσή μας να σας ενημερώσουμε για την όλη διαδικασία και να διασφαλίσουμε την άνεσή σας. Εμπιστευτείτε τη Dentalray για κορυφαία οδοντιατρική διάγνωση.\\\"]]]\",{\"type\":6,\"value\":176},\"γιατί-σε-εμάς-panoramic\",{\"type\":6,\"value\":178},\"wglf13QVv\",[\"Map\"]] document.addEventListener('DOMContentLoaded', function() { // Add the target ID to the main content area // (first major section after the nav) const main = document.querySelector('main') || document.querySelector('section'); if (main) main.id = 'main-content'; }); document.addEventListener('DOMContentLoaded', function() { // Find form success/error message containers // Add aria-live so screen readers announce changes const observer = new MutationObserver(function(mutations) { mutations.forEach(function(mutation) { mutation.addedNodes.forEach(function(node) { if (node.nodeType === 1) { const text = node.textContent.toLowerCase(); if (text.includes('success') || text.includes('error') || text.includes('επιτυχ') || text.includes('σφάλμα') || text.includes('ευχαριστ')) { node.setAttribute('role', 'status'); node.setAttribute('aria-live', 'polite'); } } }); }); }); observer.observe(document.body, { childList: true, subtree: true }); }); // Replace the existing hamburger button code with this: document.querySelectorAll('button').forEach(function(btn) { if (!btn.textContent.trim() && !btn.getAttribute('aria-label')) { btn.setAttribute('aria-label', 'Μενού πλοήγησης'); } }); // Also fix the menu_Opt div that the checker flagged document.querySelectorAll('[data-framer-name=\"menu_Opt\"]').forEach(function(el) { if (el.tagName === 'DIV' && el.getAttribute('aria-label')) { el.setAttribute('role', 'button'); } }); // Fix the uncrawlable operating hours link document.querySelectorAll('a').forEach(function(a) { if (!a.getAttribute('href') && a.textContent.includes('08:30')) { var span = document.createElement('span'); span.innerHTML = a.innerHTML; // Copy styles for (var i = 0; i < a.attributes.length; i++) { if (a.attributes[i].name !== 'href') { span.setAttribute(a.attributes[i].name, a.attributes[i].value); } } a.parentNode.replaceChild(span, a); } });",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/dentalray.gr-home-7fb4cf9f/services-services-cf-80-ce-b1-ce-bd-ce-bf-cf-81-ce-b1-ce-bc-ce-b9-ce-ba-ce-ae-panoramic-x-108ea2ec.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/dentalray.gr-home-7fb4cf9f/services-services-cf-80-ce-b1-ce-bd-ce-bf-cf-81-ce-b1-ce-bc-ce-b9-ce-ba-ce-ae-panoramic-x-108ea2ec.txt",
+      "imageReferences": [
+        {
+          "url": "https://framerusercontent.com/images/iTNoJZj2iLa2OejiUumNwT5nik.jpg?width=700&height=700",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "pageType": "services",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+              "retrievedAt": "2026-03-31T13:08:11.767Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/T7pKX4CvA36HzneYU1CYNb9ka6g.png?width=1909&height=335",
+          "alt": "dentalray-logo",
+          "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+              "retrievedAt": "2026-03-31T13:08:11.768Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/T7pKX4CvA36HzneYU1CYNb9ka6g.png",
+          "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+              "retrievedAt": "2026-03-31T13:08:11.768Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/RkBcHSKhFPxhN9ycROBbSxCMbY.jpg?width=1274&height=902",
+          "alt": "Πανοραμική",
+          "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+              "retrievedAt": "2026-03-31T13:08:11.768Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/eIIkR26WRQYo13VoaH5hRcFkRI.png?width=300&height=300",
+          "alt": "panoramic-xray-procedure",
+          "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+              "retrievedAt": "2026-03-31T13:08:11.768Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/Q0jlVp5RMnOmI4kyI1ID8msVM.png?width=540&height=672",
+          "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+              "retrievedAt": "2026-03-31T13:08:11.768Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/9LxjuQFeIJgJqOwUGYG2WSOg50g.png?width=150&height=150",
+          "alt": "results",
+          "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+              "retrievedAt": "2026-03-31T13:08:11.768Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/lalX4UBJpwReSnkgYxta5CUna0.png?width=1024&height=1024",
+          "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+              "retrievedAt": "2026-03-31T13:08:11.768Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/7vVx3lttFSuuLI6b9x5nfOD67Pc.png?width=998&height=652",
+          "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+              "retrievedAt": "2026-03-31T13:08:11.768Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/WHoXQ8ROvL1wV0nXmLjE1yd8.png?width=1909&height=335",
+          "alt": "logo-footer",
+          "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+              "retrievedAt": "2026-03-31T13:08:11.768Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/LnFvi331oGvGIhSOphfbJkraqM.png?width=670&height=523",
+          "alt": "dentalray-logo",
+          "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+              "retrievedAt": "2026-03-31T13:08:11.768Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/lT7bgksPXjxlO3Tfkyz6pXjwGFw.png?width=750&height=132",
+          "alt": "Σήμα ΕΣΠΑ - Συγχρηματοδότηση Ευρωπαϊκής Ένωσης",
+          "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+              "retrievedAt": "2026-03-31T13:08:11.768Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "retrievedAt": "2026-03-31T13:08:11.770Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://dentalray.gr/contact",
+      "finalUrl": "https://dentalray.gr/contact",
+      "fetchedAt": "2026-03-31T13:08:09.746Z",
+      "metadata": {
+        "title": "Κλείστε άμεσα ραντεβού στην Αθήνα για Οδοντιατρική διάγνωση",
+        "metaDescription": "Σας περιμένουμε άμεσα, καλέστε μας στο +30 2103839012, η με φόρμα online, μηδέν αναμονές και άμεση καταρτισμένη εξυπηρέτηση σε όλες τις οδοντιατρικές διαγνώσεις",
+        "canonicalUrl": "https://dentalray.gr/contact",
+        "language": "el",
+        "robots": "max-image-preview:large",
+        "openGraphTitle": "Κλείστε άμεσα ραντεβού στην Αθήνα για Οδοντιατρική διάγνωση",
+        "openGraphDescription": "Σας περιμένουμε άμεσα, καλέστε μας στο +30 2103839012, η με φόρμα online, μηδέν αναμονές και άμεση καταρτισμένη εξυπηρέτηση σε όλες τις οδοντιατρικές διαγνώσεις",
+        "openGraphImage": "https://framerusercontent.com/assets/NgSc8t0KC7nuq4TimVvlCfxD3w.png"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Επικοινωνήστε μαζί μας"
+        },
+        {
+          "level": "h3",
+          "text": "Στουρνάρη 35, Αθήνα 106 82"
+        },
+        {
+          "level": "h3",
+          "text": "+30 21 0383 9012"
+        },
+        {
+          "level": "h3",
+          "text": "info@dentalray.gr"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://dentalray.gr/"
+        },
+        {
+          "href": "https://dentalray.gr/about",
+          "label": "Σχετικά με εμάς"
+        },
+        {
+          "href": "https://dentalray.gr/equipment",
+          "label": "Εξοπλισμός"
+        },
+        {
+          "href": "https://dentalray.gr/contact",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "label": "Πανοραμική ακτινογραφία"
+        },
+        {
+          "href": "https://dentalray.gr/services/cbct-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CF%84%CE%BF%CE%BC%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CE%BA%CF%89%CE%BD%CE%B9%CE%BA%CE%AE%CF%82-%CE%B4%CE%AD%CF%83%CE%BC%CE%B7%CF%82",
+          "label": "Υπολογιστική τομογραφία κωνικής δέσμης (CBCT)"
+        },
+        {
+          "href": "https://dentalray.gr/services/full-mouth-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+          "label": "Full Mouth - πλήρης σειρά οπισθοφατνιακών ακτινογραφιών"
+        },
+        {
+          "href": "https://dentalray.gr/services/%CE%BF%CF%80%CE%B9%CF%83%CE%B8%CE%BF%CF%86%CE%B1%CF%84%CE%BD%CE%B9%CE%B1%CE%BA%CE%B5%CF%82-full-mouth",
+          "label": "Οπισθοφατνιακή ενδοστοματική ακτινογραφία"
+        },
+        {
+          "href": "https://dentalray.gr/services/bite-wings",
+          "label": "Bitewing X-Ray"
+        },
+        {
+          "href": "https://dentalray.gr/services/%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%BF%CE%BC%CE%B5%CF%84%CF%81%CE%B9%CE%BA%CE%B7-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+          "label": "Κεφαλομετρική ακτινογραφία"
+        },
+        {
+          "href": "https://dentalray.gr/services/%CE%B1%CF%80%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B9%CF%83%CE%B7-%CE%BA%CF%81%CE%BF%CF%84%CE%B1%CF%86%CE%BF%CE%B3%CE%BD%CE%B1%CE%B8%CE%B9%CE%BA%CF%8E%CE%BD-%CE%B1%CF%81%CE%B8%CF%81%CF%8E%CF%83%CE%B5%CF%89%CE%BD",
+          "label": "Κροταφογναθικών διαρθρώσεων (ΚΓΔ)"
+        },
+        {
+          "href": "https://dentalray.gr/services/%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CE%B4%CE%AE%CE%BE%CE%B5%CF%89%CF%82",
+          "label": "Ακτινογραφία δήξεως"
+        },
+        {
+          "href": "https://dentalray.gr/privacy-policy",
+          "label": "Privacy Policy & GDPR"
+        },
+        {
+          "href": "https://dentalray.gr/cookies-policy",
+          "label": "Cookie Policy"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "+30 210 383 9012",
+          "+30 21 0383 9012",
+          "18020003000",
+          "+302103839012",
+          "00302103839012",
+          "+30 2103839012"
+        ],
+        "emails": [
+          "info@dentalray.gr",
+          "info@logo.gr"
+        ],
+        "addresses": [],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/dentalraygr"
+          },
+          {
+            "href": "https://www.instagram.com/dentalraygr/"
+          },
+          {
+            "href": "https://www.tiktok.com/@dentalraygr"
+          }
+        ],
+        "forms": []
+      },
+      "textContent": "Μετάβαση στο περιεχόμενο .skip-link:focus { top: 0 !important; } html body { background: var(--token-52a3c3e9-ba5d-4688-ac63-ccff899cd61e, rgb(46, 24, 123)); }Καλέστε μας+30 210 383 9012ENΚαλέστε μας+30 210 383 9012ENΕπικοινωνήστε μαζί μαςΗ ομάδα έμπειρων επαγγελματιών μας έχει δεσμευτεί να παρέχει υψηλής ποιότητας υπηρεσίες απεικόνισης για την οδοντιατρική κοινότητα. Στην DentalRay, είμαστε παθιασμένοι με την παροχή της καλύτερης τεχνολογίας οδοντιατρικής απεικόνισης. Ο σύγχρονος εξοπλισμός και οι προηγμένες τεχνικές μας παρέχουν ακριβείς εικόνες υψηλής ανάλυσης που βοηθούν στη διάγνωση και τη θεραπεία προβλημάτων στοματικής υγείας γρήγορα και με ακρίβεια.Εάν έχετε οποιεσδήποτε ερωτήσεις, επικοινωνήστε μαζί μας στο info@dentalray.gr και θα χαρούμε να σας βοηθήσουμε. Ανυπομονούμε να σας παρέχουμε τις καλύτερες υπηρεσίες οδοντιατρικής απεικόνισης.Στουρνάρη 35, Αθήνα 106 82Στουρνάρη 35, Αθήνα 106 82+30 21 0383 9012+30 21 0383 9012info@dentalray.gr .placeholderFontSize::-webkit-input-placeholder { /* WebKit browsers */ font-size: 16px; color: #b3b3b3; } .placeholderFontSize:-moz-placeholder { /* Mozilla Firefox 4 to 18 */ font-size: 16px; color: #b3b3b3; } .placeholderFontSize::-moz-placeholder { /* Mozilla Firefox 19+ */ font-size: 16px; color: #b3b3b3; } .placeholderFontSize:-ms-input-placeholder { /* Internet Explorer 10+ */ font-size: 16px; color: #b3b3b3; } .placeholderFontSize::-webkit-input-placeholder { /* WebKit browsers */ font-size: 16px; color: #b3b3b3; } .placeholderFontSize:-moz-placeholder { /* Mozilla Firefox 4 to 18 */ font-size: 16px; color: #b3b3b3; } .placeholderFontSize::-moz-placeholder { /* Mozilla Firefox 19+ */ font-size: 16px; color: #b3b3b3; } .placeholderFontSize:-ms-input-placeholder { /* Internet Explorer 10+ */ font-size: 16px; color: #b3b3b3; } Επιθυμώ να:I would like to:Επιθυμώ να:ΑΠΟΣΤΟΛΗ ΜΗΝΥΜΑΤΟΣΣτουρνάρη 35, Αθήνα 106 82Δευ - Παρ 08:30 - 21:00+30 21 0383 9012info@dentalray.grΣχετικά με εμάςΕξοπλισμόςΕπικοινωνίαΠανοραμική ακτινογραφίαΥπολογιστική τομογραφία κωνικής δέσμης (CBCT)Full Mouth - πλήρης σειρά οπισθοφατνιακών ακτινογραφιώνΟπισθοφατνιακή ενδοστοματική ακτινογραφίαBitewing X-RayΚεφαλομετρική ακτινογραφίαΚροταφογναθικών διαρθρώσεων (ΚΓΔ)Ακτινογραφία δήξεως©2026 DentalRayΑρ. ΓΕΜΗ: 18020003000Privacy Policy & GDPR|Cookie PolicyCreated bydesignco.agencyΣτουρνάρη 35, Αθήνα 106 82Δευ - Παρ 08:30 - 21:00+30 21 0383 9012info@dentalray.grΣχετικά με εμάςΕξοπλισμόςΕπικοινωνίαΠανοραμική ακτινογραφίαΥπολογιστική τομογραφία κωνικής δέσμης (CBCT)Full Mouth - πλήρης σειρά οπισθοφατνιακών ακτινογραφιώνΟπισθοφατνιακή ενδοστοματική ακτινογραφίαBitewing X-RayΚεφαλομετρική ακτινογραφίαΚροταφογναθικών διαρθρώσεων (ΚΓΔ)Ακτινογραφία δήξεως©2026 DentalRayΑρ. ΓΕΜΗ: 18020003000Privacy Policy & GDPR|Cookie PolicyCreated bydesignco.agency(()=>{function u(){function n(t,e,i){let r=document.createElement(\"a\");r.href=t,r.target=i,r.rel=e,document.body.appendChild(r),r.click(),r.remove()}function o(t){if(this.dataset.hydrated){this.removeEventListener(\"click\",o);return}t.preventDefault(),t.stopPropagation();let e=this.getAttribute(\"href\");if(!e)return;if(/Mac|iPod|iPhone|iPad/u.test(navigator.userAgent)?t.metaKey:t.ctrlKey)return n(e,\"\",\"_blank\");let r=this.getAttribute(\"rel\")??\"\",c=this.getAttribute(\"target\")??\"\";n(e,r,c)}function a(t){if(this.dataset.hydrated){this.removeEventListener(\"auxclick\",o);return}t.preventDefault(),t.stopPropagation();let e=this.getAttribute(\"href\");e&&n(e,\"\",\"_blank\")}function s(t){if(this.dataset.hydrated){this.removeEventListener(\"keydown\",s);return}if(t.key!==\"Enter\")return;t.preventDefault(),t.stopPropagation();let e=this.getAttribute(\"href\");if(!e)return;let i=this.getAttribute(\"rel\")??\"\",r=this.getAttribute(\"target\")??\"\";n(e,i,r)}document.querySelectorAll(\"[data-nested-link]\").forEach(t=>{t instanceof HTMLElement&&(t.addEventListener(\"click\",o),t.addEventListener(\"auxclick\",a),t.addEventListener(\"keydown\",s))})}return u})()() !function(){var w=\"framer_variant\";function u(a,r){let e=r.indexOf(\"#\"),t=e===-1?r:r.substring(0,e),o=e===-1?\"\":r.substring(e),n=t.indexOf(\"?\"),h=n===-1?t:t.substring(0,n),d=n===-1?\"\":t.substring(n),s=new URLSearchParams(d),m=new URLSearchParams(a);for(let[i,l]of m)s.has(i)||i!==w&&s.append(i,l);let c=s.toString();return c===\"\"?t+o:h+\"?\"+c+o}var g='div#main a[href^=\"#\"],div#main a[href^=\"/\"],div#main a[href^=\".\"]',f=\"div#main a[data-framer-preserve-params]\",S=document.currentScript?.hasAttribute(\"data-preserve-internal-params\");if(window.location.search&&!navigator.webdriver&&!/bot|-google|google-|yandex|ia_archiver|crawl|spider/iu.test(navigator.userAgent)){let a=document.querySelectorAll(S?`${g},${f}`:f);for(let r of a){let e=u(window.location.search,r.href);r.setAttribute(\"href\",e)}} }() var animator=(()=>{var O=(e,r,t)=>t>r?r:t<e?e:t;var j=()=>{};function W(e){let r;return()=>(r===void 0&&(r=e()),r)}var q=e=>e;var v=e=>e*1e3,V=e=>e/1e3;function X(e,r){return r?e*(1e3/r):0}var Y=e=>Array.isArray(e)&&typeof e[0]==\"number\";var H={value:null,addProjectionMetrics:null};var Z={layout:0,mainThread:0,waapi:0};var L=(e,r,t=10)=>{let o=\"\",s=Math.max(Math.round(r/t),2);for(let n=0;n<s;n++)o+=Math.round(e(n/(s-1))*1e4)/1e4+\", \";return`linear(${o.substring(0,o.length-2)})`};function R(e){let r=0,t=50,o=e.next(r);for(;!o.done&&r<2e4;)r+=t,o=e.next(r);return r>=2e4?1/0:r}function fe(e,r=100,t){let o=t({...e,keyframes:[0,r]}),s=Math.min(R(o),2e4);return{type:\"keyframes\",ease:n=>o.next(s*n).value/r,duration:V(s)}}var Ee=5;function ce(e,r,t){let o=Math.max(r-Ee,0);return X(t-e(o),r-o)}var u={stiffness:100,damping:10,mass:1,velocity:0,duration:800,bounce:.3,visualDuration:.3,restSpeed:{granular:.01,default:2},restDelta:{granular:.005,default:.5},minDuration:.01,maxDuration:10,minDamping:.05,maxDamping:1};var _=.001;function le({duration:e=u.duration,bounce:r=u.bounce,velocity:t=u.velocity,mass:o=u.mass}){let s,n;j(e<=v(u.maxDuration),\"Spring duration must be 10 seconds or less\",\"spring-duration-limit\");let i=1-r;i=O(u.minDamping,u.maxDamping,i),e=O(u.minDuration,u.maxDuration,V(e)),i<1?(s=m=>{let p=m*i,c=p*e,l=p-t,x=z(m,i),g=Math.exp(-c);return _-l/x*g},n=m=>{let c=m*i*e,l=c*t+t,x=Math.pow(i,2)*Math.pow(m,2)*e,g=Math.exp(-c),y=z(Math.pow(m,2),i);return(-s(m)+_>0?-1:1)*((l-x)*g)/y}):(s=m=>{let p=Math.exp(-m*e),c=(m-t)*e+1;return-_+p*c},n=m=>{let p=Math.exp(-m*e),c=(t-m)*(e*e);return p*c});let f=5/e,a=Ce(s,n,f);if(e=v(e),isNaN(a))return{stiffness:u.stiffness,damping:u.damping,duration:e};{let m=Math.pow(a,2)*o;return{stiffness:m,damping:i*2*Math.sqrt(o*m),duration:e}}}var ke=12;function Ce(e,r,t){let o=t;for(let s=1;s<ke;s++)o=o-e(o)/r(o);return o}function z(e,r){return e*Math.sqrt(1-r*r)}var Be=[\"duration\",\"bounce\"],Ie=[\"stiffness\",\"damping\",\"mass\"];function ue(e,r){return r.some(t=>e[t]!==void 0)}function Ke(e){let r={velocity:u.velocity,stiffness:u.stiffness,damping:u.damping,mass:u.mass,isResolvedFromDuration:!1,...e};if(!ue(e,Ie)&&ue(e,Be))if(r.velocity=0,e.visualDuration){let t=e.visualDuration,o=2*Math.PI/(t*1.2),s=o*o,n=2*O(.05,1,1-(e.bounce||0))*Math.sqrt(s);r={...r,mass:u.mass,stiffness:s,damping:n}}else{let t=le({...e,velocity:0});r={...r,...t,mass:u.mass},r.isResolvedFromDuration=!0}return r}function D(e=u.visualDuration,r=u.bounce){let t=typeof e!=\"object\"?{visualDuration:e,keyframes:[0,1],bounce:r}:e,{restSpeed:o,restDelta:s}=t,n=t.keyframes[0],i=t.keyframes[t.keyframes.length-1],f={done:!1,value:n},{stiffness:a,damping:m,mass:p,duration:c,velocity:l,isResolvedFromDuration:x}=Ke({...t,velocity:-V(t.velocity||0)}),g=l||0,y=m/(2*Math.sqrt(a*p)),T=i-n,h=V(Math.sqrt(a/p)),K=Math.abs(T)<5;o||(o=K?u.restSpeed.granular:u.restSpeed.default),s||(s=K?u.restDelta.granular:u.restDelta.default);let S;if(y<1){let d=z(h,y);S=A=>{let b=Math.exp(-y*h*A);return i-b*((g+y*h*T)/d*Math.sin(d*A)+T*Math.cos(d*A))}}else if(y===1)S=d=>i-Math.exp(-h*d)*(T+(g+h*T)*d);else{let d=h*Math.sqrt(y*y-1);S=A=>{let b=Math.exp(-y*h*A),G=Math.min(d*A,300);return i-b*((g+y*h*T)*Math.sinh(G)+d*T*Math.cosh(G))/d}}let P={calculatedDuration:x&&c||null,next:d=>{let A=S(d);if(x)f.done=d>=c;else{let b=d===0?g:0;y<1&&(b=d===0?v(g):ce(S,d,A));let G=Math.abs(b)<=o,Oe=Math.abs(i-A)<=s;f.done=G&&Oe}return f.value=f.done?i:A,f},toString:()=>{let d=Math.min(R(P),2e4),A=L(b=>P.next(d*b).value,d,30);return d+\"ms \"+A},toTransition:()=>{}};return P}D.applyToOptions=e=>{let r=fe(e,100,D);return e.ease=r.ease,e.duration=v(r.duration),e.type=\"keyframes\",e};var xe=[\"transformPerspective\",\"x\",\"y\",\"z\",\"translateX\",\"translateY\",\"translateZ\",\"scale\",\"scaleX\",\"scaleY\",\"rotate\",\"rotateX\",\"rotateY\",\"rotateZ\",\"skew\",\"skewX\",\"skewY\"],Q=new Set(xe);var de={};function ge(e,r){let t=W(e);return()=>de[r]??t()}var ye=ge(()=>{try{document.createElement(\"div\").animate({opacity:0},{easing:\"linear(0, 1)\"})}catch{return!1}return!0},\"linearEasing\");var w=([e,r,t,o])=>`cubic-bezier(${e}, ${r}, ${t}, ${o})`;var J={linear:\"linear\",ease:\"ease\",easeIn:\"ease-in\",easeOut:\"ease-out\",easeInOut:\"ease-in-out\",circIn:w([0,.65,.55,1]),circOut:w([.55,0,1,.45]),backIn:w([.31,.01,.66,-.59]),backOut:w([.33,1.53,.69,.99])};function ee(e,r){if(e)return typeof e==\"function\"?ye()?L(e,r):\"ease-out\":Y(e)?w(e):Array.isArray(e)?e.map(t=>ee(t,r)||J.easeOut):J[e]}function F(e,r,t,{delay:o=0,duration:s=300,repeat:n=0,repeatType:i=\"loop\",ease:f=\"easeOut\",times:a}={},m=void 0){let p={[r]:t};a&&(p.offset=a);let c=ee(f,s);Array.isArray(c)&&(p.easing=c),H.value&&Z.waapi++;let l={delay:o,duration:s,easing:Array.isArray(c)?\"linear\":c,fill:\"both\",iterations:n+1,direction:i===\"reverse\"?\"alternate\":\"normal\"};m&&(l.pseudoElement=m);let x=e.animate(p,l);return H.value&&x.finished.finally(()=>{Z.waapi--}),x}function Ae(e){return e.replace(/([A-Z])/g,r=>`-${r.toLowerCase()}`)}var N=\"framerAppearId\",re=\"data-\"+Ae(N);function te(e){return e.props[re]}var M=new Map,E=new Map;var k=(e,r)=>{let t=Q.has(r)?\"transform\":r;return`${e}: ${t}`};function oe(e,r,t){let o=k(e,r),s=M.get(o);if(!s)return null;let{animation:n,startTime:i}=s;function f(){window.MotionCancelOptimisedAnimation?.(e,r,t)}return n.onfinish=f,i===null||window.MotionHandoffIsComplete?.(e)?(f(),null):i}var $,C,ne=new Set;function Ge(){ne.forEach(e=>{e.animation.play(),e.animation.startTime=e.startTime}),ne.clear()}function ie(e,r,t,o,s){if(window.MotionIsMounted)return;let n=e.dataset[N];if(!n)return;window.MotionHandoffAnimation=oe;let i=k(n,r);C||(C=F(e,r,[t[0],t[0]],{duration:1e4,ease:\"linear\"}),M.set(i,{animation:C,startTime:null}),window.MotionHandoffAnimation=oe,window.MotionHasOptimisedAnimation=(a,m)=>{if(!a)return!1;if(!m)return E.has(a);let p=k(a,m);return!!M.get(p)},window.MotionHandoffMarkAsComplete=a=>{E.has(a)&&E.set(a,!0)},window.MotionHandoffIsComplete=a=>E.get(a)===!0,window.MotionCancelOptimisedAnimation=(a,m,p,c)=>{let l=k(a,m),x=M.get(l);x&&(p&&c===void 0?p.postRender(()=>{p.postRender(()=>{x.animation.cancel()})}):x.animation.cancel(),p&&c?(ne.add(x),p.render(Ge)):(M.delete(l),M.size||(window.MotionCancelOptimisedAnimation=void 0)))},window.MotionCheckAppearSync=(a,m,p)=>{let c=te(a);if(!c)return;let l=window.MotionHasOptimisedAnimation?.(c,m),x=a.props.values?.[m];if(!l||!x)return;let g=p.on(\"change\",y=>{x.get()!==y&&(window.MotionCancelOptimisedAnimation?.(c,m),g())});return g});let f=()=>{C.cancel();let a=F(e,r,t,o);$===void 0&&($=performance.now()),a.startTime=$,M.set(i,{animation:a,startTime:$}),s&&s(a)};E.set(n,!1),C.ready?C.ready.then(f).catch(q):f()}var ae=[\"transformPerspective\",\"x\",\"y\",\"z\",\"translateX\",\"translateY\",\"translateZ\",\"scale\",\"scaleX\",\"scaleY\",\"rotate\",\"rotateX\",\"rotateY\",\"rotateZ\",\"skew\",\"skewX\",\"skewY\"],Le={x:\"translateX\",y:\"translateY\",z:\"translateZ\",transformPerspective:\"perspective\"},Re={translateX:\"px\",translateY:\"px\",translateZ:\"px\",x:\"px\",y:\"px\",z:\"px\",perspective:\"px\",transformPerspective:\"px\",rotate:\"deg\",rotateX:\"deg\",rotateY:\"deg\"};function Te(e,r){let t=Re[e];return!t||typeof r==\"string\"&&r.endsWith(t)?r:`${r}${t}`}function se(e){return ae.includes(e)}var ze=(e,r)=>ae.indexOf(e)-ae.indexOf(r);function he({transform:e,transformKeys:r},t){let o={},s=!0,n=\"\";r.sort(ze);for(let i of r){let f=e[i],a=!0;typeof f==\"number\"?a=f===(i.startsWith(\"scale\")?1:0):a=parseFloat(f)===0,a||(s=!1,n+=`${Le[i]||i}(${e[i]}) `),t&&(o[i]=e[i])}return n=n.trim(),t?n=t(o,n):s&&(n=\"none\"),n}function pe(e,r){let t=new Set(Object.keys(e));for(let o in r)t.add(o);return Array.from(t)}function me(e,r){let t=r-e.length;if(t<=0)return e;let o=new Array(t).fill(e[e.length-1]);return e.concat(o)}function B(e){return e*1e3}var be={duration:.001},I={opacity:1,scale:1,translateX:0,translateY:0,translateZ:0,x:0,y:0,z:0,rotate:0,rotateX:0,rotateY:0};function Ve(e,r,t,o,s){return t.delay&&(t.delay=B(t.delay)),t.type===\"spring\"?Ne(e,r,t,o,s):je(e,r,t,o,s)}function Fe(e,r,t){let o={},s=0,n=0;for(let i of pe(e,r)){let f=e[i]??I[i],a=r[i]??I[i];if(f===void 0||a===void 0||i!==\"transformPerspective\"&&f===a&&f===I[i])continue;i===\"transformPerspective\"&&(o[i]=[f,a]);let m=He(f,a,t),{duration:p,keyframes:c}=m;p===void 0||c===void 0||(p>s&&(s=p,n=c.length),o[i]=c)}return{keyframeValuesByProps:o,longestDuration:s,longestLength:n}}function Ne(e,r,t,o,s){let n={},{keyframeValuesByProps:i,longestDuration:f,longestLength:a}=Fe(e,r,t);if(!a)return n;let m={ease:\"linear\",duration:f,delay:t.delay},p=s?be:m,c={};for(let[x,g]of Object.entries(i))se(x)?c[x]=me(g,a):n[x]={keyframes:me(g,a),options:x===\"opacity\"?m:p};let l=De(c,o);return l&&(n.transform={keyframes:l,options:p}),n}function $e(e){let{type:r,duration:t,...o}=e;return{duration:B(t),...o}}function je(e,r,t,o,s){let n=$e(t);if(!n)return;let i={},f=s?be:n,a={};for(let p of pe(e,r)){let c=e[p]??I[p],l=r[p]??I[p];c===void 0||l===void 0||p!==\"transformPerspective\"&&c===l||(se(p)?a[p]=[c,l]:i[p]={keyframes:[c,l],options:p===\"opacity\"?n:f})}let m=De(a,o);return m&&(i.transform={keyframes:m,options:f}),i}var We=[\"duration\",\"bounce\"],qe=[\"stiffness\",\"damping\",\"mass\"];function ve(e){return qe.some(r=>r in e)?!1:We.some(r=>r in e)}function Xe(e,r,t){return ve(t)?`${e}-${r}-${t.duration}-${t.bounce}`:`${e}-${r}-${t.damping}-${t.stiffness}-${t.mass}`}function Ye(e){return ve(e)?{...e,duration:B(e.duration)}:e}var Me=new Map,Se=10;function He(e,r,t){let o=Xe(e,r,t),s=Me.get(o);if(s)return s;let n=[e,r],i=D({...Ye(t),keyframes:n}),f={done:!1,value:n[0]},a=[],m=0;for(;!f.done&&m<B(10);)f=i.next(m),a.push(f.value),m+=Se;n=a;let p=m-Se,l={keyframes:n,duration:p,ease:\"linear\"};return Me.set(o,l),l}function De(e,r){let t=[],o=Object.values(e)[0]?.length;if(!o)return;let s=Object.keys(e);for(let n=0;n<o;n++){let i={};for(let[a,m]of Object.entries(e)){let p=m[n];p!==void 0&&(i[a]=Te(a,p))}let f=he({transform:i,transformKeys:s},r);t.push(f)}return t}function Ze(e,r){if(!r)for(let t in e){let o=e[t];return o?.legacy===!0?o:void 0}}function we(e,r,t,o,s,n){for(let[i,f]of Object.entries(e)){let a=n?f[n]:void 0;if(a===null||!a&&f.default===null)continue;let m=a??f.default??Ze(f,n);if(!m)continue;let{initial:p,animate:c,transformTemplate:l}=m;if(!p||!c)continue;let{transition:x,...g}=c,y=Ve(p,g,x,Ue(l,o),s);if(!y)continue;let T={},h={};for(let[S,P]of Object.entries(y))T[S]=P.keyframes,h[S]=P.options;let K=n?`:not(.hidden-${n}) `:\"\";r(`${K}[${t}=\"${i}\"]`,T,h)}}function Ue(e,r){if(!(!e||!r))return(t,o)=>e.replace(r,o)}function Pe(e){return e?e.find(t=>t.mediaQuery?window.matchMedia(t.mediaQuery).matches===!0:!1)?.hash:void 0}var zt={animateAppearEffects:we,getActiveVariantHash:Pe,spring:D,startOptimizedAppearAnimation:ie};return zt})() {\"19boekw\":{\"default\":{\"initial\":{\"opacity\":0.1,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"x\":150,\"y\":0},\"animate\":{\"opacity\":1,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"transition\":{\"damping\":30,\"delay\":0,\"mass\":1,\"stiffness\":133,\"type\":\"spring\"},\"x\":0,\"y\":0}}},\"nu6g99\":{\"default\":{\"initial\":{\"opacity\":0.001,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"x\":0,\"y\":0},\"animate\":{\"opacity\":1,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"transition\":{\"damping\":30,\"delay\":0,\"mass\":1,\"stiffness\":400,\"type\":\"spring\"},\"x\":0,\"y\":0}},\"1tyc61m\":{\"initial\":{\"opacity\":0.001,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"x\":0,\"y\":0},\"animate\":{\"opacity\":1,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"transition\":{\"damping\":30,\"delay\":0,\"mass\":1,\"stiffness\":400,\"type\":\"spring\"},\"x\":0,\"y\":0}},\"1mchsmb\":{\"initial\":{\"opacity\":0.001,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"x\":0,\"y\":0},\"animate\":{\"opacity\":1,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"transition\":{\"damping\":30,\"delay\":0,\"mass\":1,\"stiffness\":400,\"type\":\"spring\"},\"x\":0,\"y\":0}}},\"1122jau\":{\"default\":{\"initial\":{\"opacity\":0.001,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"x\":100,\"y\":0},\"animate\":{\"opacity\":1,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"transition\":{\"damping\":30,\"delay\":0,\"mass\":1,\"stiffness\":75,\"type\":\"spring\"},\"x\":0,\"y\":0}},\"1tyc61m\":{\"initial\":{\"opacity\":0.001,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"x\":100,\"y\":0},\"animate\":{\"opacity\":1,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"transition\":{\"damping\":30,\"delay\":0,\"mass\":1,\"stiffness\":75,\"type\":\"spring\"},\"x\":0,\"y\":0}},\"1mchsmb\":{\"initial\":{\"opacity\":0.001,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"x\":100,\"y\":0},\"animate\":{\"opacity\":1,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"transition\":{\"damping\":30,\"delay\":0,\"mass\":1,\"stiffness\":75,\"type\":\"spring\"},\"x\":0,\"y\":0}}},\"nmdeeb\":{\"default\":{\"initial\":{\"opacity\":0.1,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"x\":150,\"y\":0},\"animate\":{\"opacity\":1,\"rotate\":0,\"rotateX\":0,\"rotateY\":0,\"scale\":1,\"skewX\":0,\"skewY\":0,\"transformPerspective\":1200,\"transition\":{\"damping\":30,\"delay\":0,\"mass\":1,\"stiffness\":133,\"type\":\"spring\"},\"x\":0,\"y\":0}}}} [{\"hash\":\"423itt\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"1mchsmb\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"1tyc61m\",\"mediaQuery\":\"(max-width: 809.98px)\"}](()=>{function c(i,o,s){if(window.__framer_disable_appear_effects_optimization__||typeof animator>\"u\")return;let e={detail:{bg:document.hidden}};requestAnimationFrame(()=>{let a=\"framer-appear-start\";performance.mark(a,e),animator.animateAppearEffects(JSON.parse(window.__framer__appearAnimationsContent.text),(m,p,d)=>{let t=document.querySelector(m);if(t)for(let[r,f]of Object.entries(p))animator.startOptimizedAppearAnimation(t,r,f,d[r])},i,o,s&&window.matchMedia(\"(prefers-reduced-motion:reduce)\").matches===!0,animator.getActiveVariantHash(JSON.parse(window.__framer__breakpoints.text)));let n=\"framer-appear-end\";performance.mark(n,e),performance.measure(\"framer-appear\",{start:a,end:n,detail:e.detail})})}return c})()(\"data-framer-appear-id\",\"__Appear_Animation_Transform__\",false) typeof document<\"u\"&&(window.process={...window.process,env:{...window.process?.env,NODE_ENV:\"production\"}}); [{\"0\":1,\"1\":61},[\"Map\",2,3],\"{\\\"from\\\":\\\"fe4ee592-26ee-45fc-8a21-2d753e8464a6\\\",\\\"select\\\":[{\\\"collection\\\":\\\"yxvld3nJg\\\",\\\"name\\\":\\\"Vh9MUTgV2\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"yxvld3nJg\\\",\\\"name\\\":\\\"bNouWtPdF\\\",\\\"type\\\":\\\"Identifier\\\"},{\\\"collection\\\":\\\"yxvld3nJg\\\",\\\"name\\\":\\\"id\\\",\\\"type\\\":\\\"Identifier\\\"}]}default\",[4,12,19,26,33,40,47,54],{\"Vh9MUTgV2\":5,\"bNouWtPdF\":8,\"id\":10},{\"type\":6,\"value\":7},\"string\",\"Πανοραμική ακτινογραφία\",{\"type\":6,\"value\":9},\"πανοραμική-panoramic-x-ray\",{\"type\":6,\"value\":11},\"sw2OlhJl_\",{\"Vh9MUTgV2\":13,\"bNouWtPdF\":15,\"id\":17},{\"type\":6,\"value\":14},\"Υπολογιστική τομογραφία κωνικής δέσμης (CBCT)\",{\"type\":6,\"value\":16},\"cbct-υπολογιστική-τομογραφία-κωνικής-δέσμης\",{\"type\":6,\"value\":18},\"lqsnnNY5t\",{\"Vh9MUTgV2\":20,\"bNouWtPdF\":22,\"id\":24},{\"type\":6,\"value\":21},\"Full Mouth - πλήρης σειρά οπισθοφατνιακών ακτινογραφιών\",{\"type\":6,\"value\":23},\"full-mouth-ακτινογραφία\",{\"type\":6,\"value\":25},\"POv8sMdK6\",{\"Vh9MUTgV2\":27,\"bNouWtPdF\":29,\"id\":31},{\"type\":6,\"value\":28},\"Οπισθοφατνιακή ενδοστοματική ακτινογραφία\",{\"type\":6,\"value\":30},\"οπισθοφατνιακες-full-mouth\",{\"type\":6,\"value\":32},\"Mu9obfYZh\",{\"Vh9MUTgV2\":34,\"bNouWtPdF\":36,\"id\":38},{\"type\":6,\"value\":35},\"Bitewing X-Ray\",{\"type\":6,\"value\":37},\"bite-wings\",{\"type\":6,\"value\":39},\"Xfl9Mrnzr\",{\"Vh9MUTgV2\":41,\"bNouWtPdF\":43,\"id\":45},{\"type\":6,\"value\":42},\"Κεφαλομετρική ακτινογραφία\",{\"type\":6,\"value\":44},\"κεφαλομετρικη-ακτινογραφία\",{\"type\":6,\"value\":46},\"F0QM2nn5u\",{\"Vh9MUTgV2\":48,\"bNouWtPdF\":50,\"id\":52},{\"type\":6,\"value\":49},\"Κροταφογναθικών διαρθρώσεων (ΚΓΔ)\",{\"type\":6,\"value\":51},\"απεικόνιση-κροταφογναθικών-αρθρώσεων\",{\"type\":6,\"value\":53},\"HGQqsJoow\",{\"Vh9MUTgV2\":55,\"bNouWtPdF\":57,\"id\":59},{\"type\":6,\"value\":56},\"Ακτινογραφία δήξεως\",{\"type\":6,\"value\":58},\"ακτινογραφία-δήξεως\",{\"type\":6,\"value\":60},\"Uaj0hjJG_\",[\"Map\"]] document.addEventListener('DOMContentLoaded', function() { // Add the target ID to the main content area // (first major section after the nav) const main = document.querySelector('main') || document.querySelector('section'); if (main) main.id = 'main-content'; }); document.addEventListener('DOMContentLoaded', function() { // Find form success/error message containers // Add aria-live so screen readers announce changes const observer = new MutationObserver(function(mutations) { mutations.forEach(function(mutation) { mutation.addedNodes.forEach(function(node) { if (node.nodeType === 1) { const text = node.textContent.toLowerCase(); if (text.includes('success') || text.includes('error') || text.includes('επιτυχ') || text.includes('σφάλμα') || text.includes('ευχαριστ')) { node.setAttribute('role', 'status'); node.setAttribute('aria-live', 'polite'); } } }); }); }); observer.observe(document.body, { childList: true, subtree: true }); }); // Replace the existing hamburger button code with this: document.querySelectorAll('button').forEach(function(btn) { if (!btn.textContent.trim() && !btn.getAttribute('aria-label')) { btn.setAttribute('aria-label', 'Μενού πλοήγησης'); } }); // Also fix the menu_Opt div that the checker flagged document.querySelectorAll('[data-framer-name=\"menu_Opt\"]').forEach(function(el) { if (el.tagName === 'DIV' && el.getAttribute('aria-label')) { el.setAttribute('role', 'button'); } }); // Fix the uncrawlable operating hours link document.querySelectorAll('a').forEach(function(a) { if (!a.getAttribute('href') && a.textContent.includes('08:30')) { var span = document.createElement('span'); span.innerHTML = a.innerHTML; // Copy styles for (var i = 0; i < a.attributes.length; i++) { if (a.attributes[i].name !== 'href') { span.setAttribute(a.attributes[i].name, a.attributes[i].value); } } a.parentNode.replaceChild(span, a); } });",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/dentalray.gr-home-7fb4cf9f/contact-contact-5ff16d8c.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/dentalray.gr-home-7fb4cf9f/contact-contact-5ff16d8c.txt",
+      "imageReferences": [
+        {
+          "url": "https://framerusercontent.com/assets/NgSc8t0KC7nuq4TimVvlCfxD3w.png",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://dentalray.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://dentalray.gr/contact",
+              "retrievedAt": "2026-03-31T13:08:09.744Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/T7pKX4CvA36HzneYU1CYNb9ka6g.png?width=1909&height=335",
+          "alt": "dentalray-logo",
+          "sourcePageUrl": "https://dentalray.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/contact",
+              "retrievedAt": "2026-03-31T13:08:09.745Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/T7pKX4CvA36HzneYU1CYNb9ka6g.png",
+          "sourcePageUrl": "https://dentalray.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/contact",
+              "retrievedAt": "2026-03-31T13:08:09.745Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/icvKGTGGectJszbX856TYCgts.jpg?width=2331&height=1077",
+          "sourcePageUrl": "https://dentalray.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/contact",
+              "retrievedAt": "2026-03-31T13:08:09.745Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/WHoXQ8ROvL1wV0nXmLjE1yd8.png?width=1909&height=335",
+          "alt": "logo-footer",
+          "sourcePageUrl": "https://dentalray.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/contact",
+              "retrievedAt": "2026-03-31T13:08:09.745Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/LnFvi331oGvGIhSOphfbJkraqM.png?width=670&height=523",
+          "alt": "dentalray-logo",
+          "sourcePageUrl": "https://dentalray.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/contact",
+              "retrievedAt": "2026-03-31T13:08:09.745Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/lT7bgksPXjxlO3Tfkyz6pXjwGFw.png?width=750&height=132",
+          "alt": "Σήμα ΕΣΠΑ - Συγχρηματοδότηση Ευρωπαϊκής Ένωσης",
+          "sourcePageUrl": "https://dentalray.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/contact",
+              "retrievedAt": "2026-03-31T13:08:09.745Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/ngaYfjw0Dl0J9jDpTIdf7T1JYc.png?width=1593&height=352",
+          "alt": "Ελλάδα 2.0 - Εθνικό Σχέδιο Ανάκαμψης",
+          "sourcePageUrl": "https://dentalray.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/contact",
+              "retrievedAt": "2026-03-31T13:08:09.745Z"
+            }
+          ]
+        },
+        {
+          "url": "https://framerusercontent.com/images/IcVHpJKyhOLJroBkURt28sKnWR4.png?width=87&height=71",
+          "alt": "designco.agency",
+          "sourcePageUrl": "https://dentalray.gr/contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://dentalray.gr/contact",
+              "retrievedAt": "2026-03-31T13:08:09.745Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://dentalray.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:09.746Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/dentalray.gr-home-7fb4cf9f/contact-contact-5ff16d8c.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "+30 210 383 9012",
+      "+30 21 0383 9012",
+      "18020003000",
+      "+302103839012",
+      "+30 2103839012",
+      "00302103839012",
+      "902 1024",
+      "902 1274",
+      "1024 512",
+      "1024 1024",
+      "800 1024",
+      "800 1200"
+    ],
+    "emails": [
+      "info@dentalray.gr",
+      "info@logo.gr"
+    ],
+    "addresses": [],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/dentalraygr"
+      },
+      {
+        "href": "https://www.instagram.com/dentalraygr/"
+      },
+      {
+        "href": "https://www.tiktok.com/@dentalraygr"
+      }
+    ],
+    "forms": []
+  },
+  "metadata": {
+    "title": "Dentalray - #1 Πανοραμική ακτινογραφία και διάγνωση στην Αθήνα",
+    "metaDescription": "✓Άμεσο ραντεβού Αθήνα ✓ Πανοραμική ακτινογραφία ✓ Full Mouth Ακτινογραφία ✓ Κεφαλομετρική ✓ Δήξεως ✓ 25 έτη εμπειρίας, Dr Αντωνία Χρηστάκου.",
+    "canonicalUrl": "https://dentalray.gr/",
+    "language": "el",
+    "robots": "max-image-preview:large",
+    "openGraphTitle": "Dentalray - #1 Πανοραμική ακτινογραφία και διάγνωση στην Αθήνα",
+    "openGraphDescription": "✓Άμεσο ραντεβού Αθήνα ✓ Πανοραμική ακτινογραφία ✓ Full Mouth Ακτινογραφία ✓ Κεφαλομετρική ✓ Δήξεως ✓ 25 έτη εμπειρίας, Dr Αντωνία Χρηστάκου.",
+    "openGraphImage": "https://framerusercontent.com/assets/agREaVrolXO0A08JFcUd378Jzro.png"
+  },
+  "imageReferences": [
+    {
+      "url": "https://framerusercontent.com/assets/agREaVrolXO0A08JFcUd378Jzro.png",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.285Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/T7pKX4CvA36HzneYU1CYNb9ka6g.png?width=1909&height=335",
+      "alt": "dentalray-logo",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.285Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/T7pKX4CvA36HzneYU1CYNb9ka6g.png",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.285Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/iTNoJZj2iLa2OejiUumNwT5nik.jpg?width=700&height=700",
+      "alt": "Πανοραμική ακτινογραφία δοντιών",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.285Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/aDElfNsYH0u7t2qr12GASqQJQ5Q.jpg?width=700&height=700",
+      "alt": "Υπολογιστική τομογραφία κωνικής δέσμης (CBCT)",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.285Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/MPjVI1lVPmVXxfGsv571vCMp7AA.jpg?width=700&height=700",
+      "alt": "fullmouth Πλήρης σειρά οπισθοφατνιακών ακτινογραφιών",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.285Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/rQhbKdXbphWEgEERqVGRw6j69L4.jpg?width=700&height=700",
+      "alt": "Οπισθοφατνιακή ενδοστοματική ακτινογραφία",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.285Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/rXA8bATdQ17oqIgZLr1bYh3FbFw.jpg?width=700&height=700",
+      "alt": "Ακτινογραφία Bitewing",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.285Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/aDjF9bVezMZo7Q1mPh5w8eIYT4.jpg?width=700&height=700",
+      "alt": "ceph - Κεφαλομετρική ακτινογραφία",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.285Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/1f0bBE3hBCNzermQ5ogfmx298g.jpg?width=700&height=700",
+      "alt": "TMJ - Ακτινογραφία κροταφογναθικών διαρθρώσεων",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.285Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/idriIkD4QdcSGHyIft5rY6Un8.jpg?width=700&height=700",
+      "alt": "Ακτινογραφία δήξεως",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.285Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/JCzX94YgEMWUSx6KFx5de4k6So.jpg?width=1920&height=1280",
+      "alt": "Μηχάνημα πανοραμικής ακτινογραφίας στο ιατρείο Dentalray",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.285Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/assets/NgSc8t0KC7nuq4TimVvlCfxD3w.png",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://dentalray.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://dentalray.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:09.744Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/icvKGTGGectJszbX856TYCgts.jpg?width=2331&height=1077",
+      "sourcePageUrl": "https://dentalray.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:09.745Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/WHoXQ8ROvL1wV0nXmLjE1yd8.png?width=1909&height=335",
+      "alt": "logo-footer",
+      "sourcePageUrl": "https://dentalray.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:09.745Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/LnFvi331oGvGIhSOphfbJkraqM.png?width=670&height=523",
+      "alt": "dentalray-logo",
+      "sourcePageUrl": "https://dentalray.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:09.745Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/lT7bgksPXjxlO3Tfkyz6pXjwGFw.png?width=750&height=132",
+      "alt": "Σήμα ΕΣΠΑ - Συγχρηματοδότηση Ευρωπαϊκής Ένωσης",
+      "sourcePageUrl": "https://dentalray.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:09.745Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/ngaYfjw0Dl0J9jDpTIdf7T1JYc.png?width=1593&height=352",
+      "alt": "Ελλάδα 2.0 - Εθνικό Σχέδιο Ανάκαμψης",
+      "sourcePageUrl": "https://dentalray.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:09.745Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/IcVHpJKyhOLJroBkURt28sKnWR4.png?width=87&height=71",
+      "alt": "designco.agency",
+      "sourcePageUrl": "https://dentalray.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:09.745Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/RkBcHSKhFPxhN9ycROBbSxCMbY.jpg?width=1274&height=902",
+      "alt": "Πανοραμική",
+      "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "retrievedAt": "2026-03-31T13:08:11.768Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/eIIkR26WRQYo13VoaH5hRcFkRI.png?width=300&height=300",
+      "alt": "panoramic-xray-procedure",
+      "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "retrievedAt": "2026-03-31T13:08:11.768Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/Q0jlVp5RMnOmI4kyI1ID8msVM.png?width=540&height=672",
+      "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "retrievedAt": "2026-03-31T13:08:11.768Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/9LxjuQFeIJgJqOwUGYG2WSOg50g.png?width=150&height=150",
+      "alt": "results",
+      "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "retrievedAt": "2026-03-31T13:08:11.768Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/lalX4UBJpwReSnkgYxta5CUna0.png?width=1024&height=1024",
+      "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "retrievedAt": "2026-03-31T13:08:11.768Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/7vVx3lttFSuuLI6b9x5nfOD67Pc.png?width=998&height=652",
+      "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "retrievedAt": "2026-03-31T13:08:11.768Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/Jk6jhyy09KL3GyUsPtegMj2LnY.jpg?width=471&height=473",
+      "sourcePageUrl": "https://dentalray.gr/services/cbct-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CF%84%CE%BF%CE%BC%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CE%BA%CF%89%CE%BD%CE%B9%CE%BA%CE%AE%CF%82-%CE%B4%CE%AD%CF%83%CE%BC%CE%B7%CF%82",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/cbct-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CF%84%CE%BF%CE%BC%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CE%BA%CF%89%CE%BD%CE%B9%CE%BA%CE%AE%CF%82-%CE%B4%CE%AD%CF%83%CE%BC%CE%B7%CF%82",
+          "retrievedAt": "2026-03-31T13:08:13.033Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/wrls7w2WdtvldpIfKWtrPXsLi4.jpg?width=474&height=472",
+      "sourcePageUrl": "https://dentalray.gr/services/cbct-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CF%84%CE%BF%CE%BC%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CE%BA%CF%89%CE%BD%CE%B9%CE%BA%CE%AE%CF%82-%CE%B4%CE%AD%CF%83%CE%BC%CE%B7%CF%82",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/cbct-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CF%84%CE%BF%CE%BC%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CE%BA%CF%89%CE%BD%CE%B9%CE%BA%CE%AE%CF%82-%CE%B4%CE%AD%CF%83%CE%BC%CE%B7%CF%82",
+          "retrievedAt": "2026-03-31T13:08:13.033Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/TdpUE1AfarUxFPWsbhmqdaoq8A.jpg?width=472&height=473",
+      "sourcePageUrl": "https://dentalray.gr/services/cbct-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CF%84%CE%BF%CE%BC%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CE%BA%CF%89%CE%BD%CE%B9%CE%BA%CE%AE%CF%82-%CE%B4%CE%AD%CF%83%CE%BC%CE%B7%CF%82",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/cbct-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CF%84%CE%BF%CE%BC%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CE%BA%CF%89%CE%BD%CE%B9%CE%BA%CE%AE%CF%82-%CE%B4%CE%AD%CF%83%CE%BC%CE%B7%CF%82",
+          "retrievedAt": "2026-03-31T13:08:13.033Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/2pZCCgaebEsqO2DxxHKSesl2cU.png?width=694&height=824",
+      "alt": "advantages",
+      "sourcePageUrl": "https://dentalray.gr/services/cbct-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CF%84%CE%BF%CE%BC%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CE%BA%CF%89%CE%BD%CE%B9%CE%BA%CE%AE%CF%82-%CE%B4%CE%AD%CF%83%CE%BC%CE%B7%CF%82",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/cbct-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CF%84%CE%BF%CE%BC%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CE%BA%CF%89%CE%BD%CE%B9%CE%BA%CE%AE%CF%82-%CE%B4%CE%AD%CF%83%CE%BC%CE%B7%CF%82",
+          "retrievedAt": "2026-03-31T13:08:13.033Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/HkLOfvuRpJmBEkROfmkwVAT5js.png?width=1024&height=1024",
+      "alt": "full-mouth",
+      "sourcePageUrl": "https://dentalray.gr/services/full-mouth-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/full-mouth-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+          "retrievedAt": "2026-03-31T13:08:14.267Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/4v6kN7WvyJgeo1JvuIIh91z1VI.png?width=1200&height=800",
+      "alt": "full-mouth-preperation",
+      "sourcePageUrl": "https://dentalray.gr/services/full-mouth-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/full-mouth-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+          "retrievedAt": "2026-03-31T13:08:14.267Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/413s3icfhhAKgNNJRGIUL0UhvT0.png?width=150&height=150",
+      "alt": "implants",
+      "sourcePageUrl": "https://dentalray.gr/services/full-mouth-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/full-mouth-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+          "retrievedAt": "2026-03-31T13:08:14.267Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/HamZ33SnekOMkbGdCFuitQvlBc.png?width=1024&height=1024",
+      "alt": "full-mouth",
+      "sourcePageUrl": "https://dentalray.gr/services/full-mouth-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/full-mouth-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+          "retrievedAt": "2026-03-31T13:08:14.267Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/BYW19s6j45StYo3pSsuJiEtA13Q.png?width=700&height=700",
+      "sourcePageUrl": "https://dentalray.gr/services/%CE%BF%CF%80%CE%B9%CF%83%CE%B8%CE%BF%CF%86%CE%B1%CF%84%CE%BD%CE%B9%CE%B1%CE%BA%CE%B5%CF%82-full-mouth",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/%CE%BF%CF%80%CE%B9%CF%83%CE%B8%CE%BF%CF%86%CE%B1%CF%84%CE%BD%CE%B9%CE%B1%CE%BA%CE%B5%CF%82-full-mouth",
+          "retrievedAt": "2026-03-31T13:08:15.761Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/RKw4iM5N4qznOiZS2ll72YDO6I.jpg?width=420&height=415",
+      "sourcePageUrl": "https://dentalray.gr/services/%CE%BF%CF%80%CE%B9%CF%83%CE%B8%CE%BF%CF%86%CE%B1%CF%84%CE%BD%CE%B9%CE%B1%CE%BA%CE%B5%CF%82-full-mouth",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/%CE%BF%CF%80%CE%B9%CF%83%CE%B8%CE%BF%CF%86%CE%B1%CF%84%CE%BD%CE%B9%CE%B1%CE%BA%CE%B5%CF%82-full-mouth",
+          "retrievedAt": "2026-03-31T13:08:15.761Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/DTieQIGBijaalNpkoRBWkbwH65c.png?width=150&height=150",
+      "alt": "endixeis-opisthofatniakis",
+      "sourcePageUrl": "https://dentalray.gr/services/%CE%BF%CF%80%CE%B9%CF%83%CE%B8%CE%BF%CF%86%CE%B1%CF%84%CE%BD%CE%B9%CE%B1%CE%BA%CE%B5%CF%82-full-mouth",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/%CE%BF%CF%80%CE%B9%CF%83%CE%B8%CE%BF%CF%86%CE%B1%CF%84%CE%BD%CE%B9%CE%B1%CE%BA%CE%B5%CF%82-full-mouth",
+          "retrievedAt": "2026-03-31T13:08:15.761Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/5GtordNWO7RUVw2zmr1YDqYkUM.png?width=150&height=150",
+      "alt": "advantages",
+      "sourcePageUrl": "https://dentalray.gr/services/%CE%BF%CF%80%CE%B9%CF%83%CE%B8%CE%BF%CF%86%CE%B1%CF%84%CE%BD%CE%B9%CE%B1%CE%BA%CE%B5%CF%82-full-mouth",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/%CE%BF%CF%80%CE%B9%CF%83%CE%B8%CE%BF%CF%86%CE%B1%CF%84%CE%BD%CE%B9%CE%B1%CE%BA%CE%B5%CF%82-full-mouth",
+          "retrievedAt": "2026-03-31T13:08:15.761Z"
+        }
+      ]
+    },
+    {
+      "url": "https://framerusercontent.com/images/6y4MvzOrrRw8ssU6GkjMbnk2nOc.png?width=150&height=150",
+      "alt": "pathisis",
+      "sourcePageUrl": "https://dentalray.gr/services/%CE%BF%CF%80%CE%B9%CF%83%CE%B8%CE%BF%CF%86%CE%B1%CF%84%CE%BD%CE%B9%CE%B1%CE%BA%CE%B5%CF%82-full-mouth",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://dentalray.gr/services/%CE%BF%CF%80%CE%B9%CF%83%CE%B8%CE%BF%CF%86%CE%B1%CF%84%CE%BD%CE%B9%CE%B1%CE%BA%CE%B5%CF%82-full-mouth",
+          "retrievedAt": "2026-03-31T13:08:15.761Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "+30 210 383 9012",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.284Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 21 0383 9012",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.284Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "18020003000",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.284Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+302103839012",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.284Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 2103839012",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.284Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@dentalray.gr",
+      "sourcePageUrl": "https://dentalray.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://dentalray.gr/",
+          "retrievedAt": "2026-03-31T13:08:08.284Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "00302103839012",
+      "sourcePageUrl": "https://dentalray.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://dentalray.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:09.744Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@logo.gr",
+      "sourcePageUrl": "https://dentalray.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://dentalray.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:09.744Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://dentalray.gr/contact",
+      "sourcePageUrl": "https://dentalray.gr/contact",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://dentalray.gr/contact",
+          "retrievedAt": "2026-03-31T13:08:09.744Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "902 1024",
+      "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "retrievedAt": "2026-03-31T13:08:11.767Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "902 1274",
+      "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "retrievedAt": "2026-03-31T13:08:11.767Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1024 512",
+      "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "retrievedAt": "2026-03-31T13:08:11.767Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "1024 1024",
+      "sourcePageUrl": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+          "retrievedAt": "2026-03-31T13:08:11.767Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "800 1024",
+      "sourcePageUrl": "https://dentalray.gr/services/full-mouth-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://dentalray.gr/services/full-mouth-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+          "retrievedAt": "2026-03-31T13:08:14.267Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "800 1200",
+      "sourcePageUrl": "https://dentalray.gr/services/full-mouth-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://dentalray.gr/services/full-mouth-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+          "retrievedAt": "2026-03-31T13:08:14.267Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://dentalray.gr/",
+    "finalOrigin": "https://dentalray.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://dentalray.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:08:08.152Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [
+        "/"
+      ],
+      "disallowRules": [],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://dentalray.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:08:07.704Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://dentalray.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/services/cbct-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CF%84%CE%BF%CE%BC%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CE%BA%CF%89%CE%BD%CE%B9%CE%BA%CE%AE%CF%82-%CE%B4%CE%AD%CF%83%CE%BC%CE%B7%CF%82",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/services/full-mouth-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/services/%CE%BF%CF%80%CE%B9%CF%83%CE%B8%CE%BF%CF%86%CE%B1%CF%84%CE%BD%CE%B9%CE%B1%CE%BA%CE%B5%CF%82-full-mouth",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/services/bite-wings",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/services/%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%BF%CE%BC%CE%B5%CF%84%CF%81%CE%B9%CE%BA%CE%B7-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/services/%CE%B1%CF%80%CE%B5%CE%B9%CE%BA%CF%8C%CE%BD%CE%B9%CF%83%CE%B7-%CE%BA%CF%81%CE%BF%CF%84%CE%B1%CF%86%CE%BF%CE%B3%CE%BD%CE%B1%CE%B8%CE%B9%CE%BA%CF%8E%CE%BD-%CE%B1%CF%81%CE%B8%CF%81%CF%8E%CF%83%CE%B5%CF%89%CE%BD",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/services/%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CE%B4%CE%AE%CE%BE%CE%B5%CF%89%CF%82",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/about",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/equipment/vgi-evo-3d",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/equipment/newtom-giano-hr-2d",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/equipment/carestream-cs2200",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/equipment/d%C3%BCrr-vistasoft-mini-plus",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/equipment/giano-hr-3d",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/equipment",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/privacy-policy",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/cookies-policy",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:08.287Z"
+      },
+      {
+        "url": "https://dentalray.gr/contact",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:09.746Z"
+      },
+      {
+        "url": "https://dentalray.gr/services/%CF%80%CE%B1%CE%BD%CE%BF%CF%81%CE%B1%CE%BC%CE%B9%CE%BA%CE%AE-panoramic-x-ray",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:11.770Z"
+      },
+      {
+        "url": "https://dentalray.gr/services/cbct-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE-%CF%84%CE%BF%CE%BC%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CE%BA%CF%89%CE%BD%CE%B9%CE%BA%CE%AE%CF%82-%CE%B4%CE%AD%CF%83%CE%BC%CE%B7%CF%82",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:13.036Z"
+      },
+      {
+        "url": "https://dentalray.gr/services/full-mouth-%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:14.269Z"
+      },
+      {
+        "url": "https://dentalray.gr/services/%CE%BF%CF%80%CE%B9%CF%83%CE%B8%CE%BF%CF%86%CE%B1%CF%84%CE%BD%CE%B9%CE%B1%CE%BA%CE%B5%CF%82-full-mouth",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://dentalray.gr/",
+        "timestamp": "2026-03-31T13:08:15.767Z"
+      },
+      {
+        "url": "https://dentalray.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:08:17.297Z"
+      },
+      {
+        "url": "https://dentalray.gr/contact",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:08:18.417Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

@@ -1,0 +1,2270 @@
+{
+  "domain": "facemed.gr",
+  "collectedAt": "2026-03-31T13:15:59.290Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/facemed.gr-home-2ee2a40f",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://facemed.gr/",
+      "finalUrl": "https://facemed.gr/",
+      "fetchedAt": "2026-03-31T13:15:48.545Z",
+      "metadata": {
+        "title": "Πλαστική Χειρουργική | Αισθητική Ιατρική | Facemed Clinicsearchcross",
+        "metaDescription": "Ανακαλύψτε κορυφαίες θεραπείες αισθητικής ιατρικής και επεμβάσεις πλαστικής χειρουργικής. Η ομάδα μας προσφέρει Botox, μεσοθεραπεία, laser αποτρίχωση & άλλα.",
+        "canonicalUrl": "https://facemed.gr/",
+        "language": "el",
+        "openGraphTitle": "Πλαστική Χειρουργική | Αισθητική Ιατρική | Facemed Clinic",
+        "openGraphDescription": "Ανακαλύψτε κορυφαίες θεραπείες αισθητικής ιατρικής και επεμβάσεις πλαστικής χειρουργικής. Η ομάδα μας προσφέρει Botox, μεσοθεραπεία, laser αποτρίχωση & άλλα.",
+        "openGraphImage": "https://facemed.gr/assets/images/meta_image.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Πλαστική Χειρουργική & Αισθητική Ιατρική σε Αθήνα, Γέρακα & Τρίπολη"
+        },
+        {
+          "level": "h2",
+          "text": "Η ομάδα μας αποτελείται από υψηλά καταρτισμένους επαγγελματίες στον τομέα, πάντα κοντά σας για να σας βοηθήσουν αποτελεσματικά"
+        },
+        {
+          "level": "h2",
+          "text": "Οι υπηρεσίες μας"
+        },
+        {
+          "level": "h2",
+          "text": "Γνώρισε την ομάδα μας"
+        },
+        {
+          "level": "h2",
+          "text": "Frequently Asked Questions"
+        },
+        {
+          "level": "h2",
+          "text": "Τι Είπαν για Εμάς"
+        },
+        {
+          "level": "h2",
+          "text": "Νέα"
+        },
+        {
+          "level": "h2",
+          "text": "ΜΑΣ ΕΧΟΥΝ ΑΝΑΦΕΡΕΙ"
+        },
+        {
+          "level": "h3",
+          "text": "ΚΛΕΙΣΕ ΡΑΝΤΕΒΟΥ ONLINE"
+        },
+        {
+          "level": "h3",
+          "text": "ΕΠΙΣΚΕΨΟΥ ΤΟΝ ΓΙΑΤΡΟ ΑΠΟ ΤΟ ΣΠΙΤΙ"
+        },
+        {
+          "level": "h3",
+          "text": "Ιατρικες Θεραπείες"
+        },
+        {
+          "level": "h3",
+          "text": "Αισθητικές Θεραπείες"
+        },
+        {
+          "level": "h3",
+          "text": "Θεραπείες Σώματος"
+        },
+        {
+          "level": "h3",
+          "text": "Πλαστική Χειρουργική"
+        },
+        {
+          "level": "h3",
+          "text": "Δρ. Δημήτρουλας Νικόλαος"
+        },
+        {
+          "level": "h3",
+          "text": "Δρ. Λοϊζίδης Χριστόφορος"
+        },
+        {
+          "level": "h3",
+          "text": "Δρ. Τζώνης Παναγιώτης"
+        },
+        {
+          "level": "h3",
+          "text": "Ανδριανάκη Αικατερίνη"
+        },
+        {
+          "level": "h3",
+          "text": "Σαχίνη Ελεονώρα"
+        },
+        {
+          "level": "h3",
+          "text": "Πως να επιλέξω την κατάλληλη θεραπεία προσώπου για μένα;"
+        },
+        {
+          "level": "h3",
+          "text": "Πότε φαίνονται τα αποτελέσματα από το υαλουρονικό οξύ;"
+        },
+        {
+          "level": "h3",
+          "text": "Ποια είναι η καλύτερη μεσοθεραπεία;"
+        },
+        {
+          "level": "h3",
+          "text": "Πόσο διαρκεί το υαλουρονικό στα χείλη;"
+        },
+        {
+          "level": "h3",
+          "text": "Ποια είναι τα υπέρ και κατά του fractional laser;"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://facemed.gr/"
+        },
+        {
+          "href": "https://facemed.gr/book",
+          "label": "ΚΛΕΙΣΕ ΡΑΝΤΕΒΟΥ"
+        },
+        {
+          "href": "https://facemed.gr/assets/espa/poster_A3.pdf"
+        },
+        {
+          "href": "https://facemed.gr/about",
+          "label": "Σχετικά με εμάς"
+        },
+        {
+          "href": "https://facemed.gr/a/fractional-laser",
+          "label": "Fractional Laser"
+        },
+        {
+          "href": "https://facemed.gr/a/prp-8erapeia",
+          "label": "PRP"
+        },
+        {
+          "href": "https://facemed.gr/a/ximiko-peeling",
+          "label": "Χημικό Peeling"
+        },
+        {
+          "href": "https://facemed.gr/a/hydra-udrodermoapoksesi",
+          "label": "Hydra"
+        },
+        {
+          "href": "https://facemed.gr/a/dermoapoksesi",
+          "label": "Δερμοαπόξεση"
+        },
+        {
+          "href": "https://facemed.gr/a/eyecon-therapy",
+          "label": "Θεραπεία για μαύρους κύκλους"
+        },
+        {
+          "href": "https://facemed.gr/a/ems",
+          "label": "EMS"
+        },
+        {
+          "href": "https://facemed.gr/a/exilis-elite",
+          "label": "Exilis Elite"
+        },
+        {
+          "href": "https://facemed.gr/a/x-wave",
+          "label": "X-Wave"
+        },
+        {
+          "href": "https://facemed.gr/a/lipoanarrofhsh",
+          "label": "Λιποαναρρόφηση"
+        },
+        {
+          "href": "https://facemed.gr/a/blefaroplastikh",
+          "label": "Βλεφαροπλαστική"
+        },
+        {
+          "href": "https://facemed.gr/a/rinoplastikh",
+          "label": "Ρινοπλαστική"
+        },
+        {
+          "href": "https://facemed.gr/about/dimitroulas-nikolaos",
+          "label": "Δρ. Δημήτρουλας Νικόλαος Πλαστικός Χειρουργός"
+        },
+        {
+          "href": "https://facemed.gr/about/xristoforos-loizidis",
+          "label": "Δρ. Λοϊζίδης Χριστόφορος Δερματολόγος - Αφροδισιολόγος"
+        },
+        {
+          "href": "https://facemed.gr/about/dr-tzonis-panagiotis",
+          "label": "Δρ. Τζώνης Παναγιώτης Μαιευτήρας-Γυναικολόγος"
+        },
+        {
+          "href": "https://facemed.gr/about/andrianakh-aikaterinh",
+          "label": "Ανδριανάκη Αικατερίνη Αισθητικός"
+        },
+        {
+          "href": "https://facemed.gr/about/sahini-eleonora",
+          "label": "Σαχίνη Ελεονώρα Αισθητικός"
+        },
+        {
+          "href": "https://facemed.gr/blog/epilogh-therapeias-prosopou",
+          "label": "επιλογή θεραπείας"
+        },
+        {
+          "href": "https://facemed.gr/a/ualouroniko-oksu-fillers",
+          "label": "υαλουρονικό οξύ"
+        },
+        {
+          "href": "https://facemed.gr/blog/poia-einai-h-kaluterh-mesotherapeia",
+          "label": "καλύτερη μεσοθεραπεία"
+        },
+        {
+          "href": "https://facemed.gr/a/ualouroniko-oksu-fillers/ualouroniko-oksu-xeili",
+          "label": "υαλουρονικού στα χείλη"
+        },
+        {
+          "href": "https://facemed.gr/blog/yper-kata-fractional-laser",
+          "label": "υπέρ και κατά"
+        },
+        {
+          "href": "https://facemed.gr/blog/ti-apagoreyetai-meta-to-botox-odhgies-gia-asfalh-apotelesmata",
+          "label": "οδηγίες μετά το Botox"
+        },
+        {
+          "href": "https://facemed.gr/blog",
+          "label": "ΔΕΣ ΠΕΡΙΣΣΟΤΕΡΑ"
+        },
+        {
+          "href": "https://facemed.gr/blog/kyttaritida-sta-mpratsa-antimetopisi",
+          "label": "Κυτταρίτιδα στα Μπράτσα: Αντιμετώπιση"
+        },
+        {
+          "href": "https://facemed.gr/blog/nefertiti-lift",
+          "label": "Nefertiti Lift: Η Μη Επεμβατική Ανόρθωση Λαιμού"
+        },
+        {
+          "href": "https://facemed.gr/blog/therapeies-omorfias-prin-to-pasxa",
+          "label": "Θεραπείες προσώπου πριν το Πάσχα: Τι να επιλέξεις"
+        },
+        {
+          "href": "https://facemed.gr/cdn-cgi/l/email-protection#177e79717857717674727a7273397065",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://facemed.gr/cdn-cgi/l/email-protection#1e777078715e787f7d7b737b7a30796c",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://facemed.gr/cdn-cgi/l/email-protection#3851565e57785e595b5d555d5c165f4a",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://facemed.gr/kritikes-testimonials",
+          "label": "Είπαν για εμάς"
+        },
+        {
+          "href": "https://facemed.gr/c/therapeies-prosopou",
+          "label": "Θεραπείες Προσώπου"
+        },
+        {
+          "href": "https://facemed.gr/c/therapeies-somatos",
+          "label": "Θεραπείες Σώματος"
+        },
+        {
+          "href": "https://facemed.gr/c/klinikh-dermatologia",
+          "label": "Κλινική Δερματολογία"
+        },
+        {
+          "href": "https://facemed.gr/c/therapeies-apotrixosis",
+          "label": "Θεραπείες Αποτρίχωσης"
+        },
+        {
+          "href": "https://facemed.gr/c/aisthitiko-imimonimo-makigiaz",
+          "label": "Ημιμόνιμο μακιγιάζ"
+        },
+        {
+          "href": "https://facemed.gr/c/therapeies-hpv",
+          "label": "HPV - Κονδυλώματα"
+        },
+        {
+          "href": "https://facemed.gr/c/gynaikologia",
+          "label": "Γυναικολογία"
+        },
+        {
+          "href": "https://facemed.gr/c/plastiki-xeirourgiki",
+          "label": "Πλαστική Χειρουργική"
+        },
+        {
+          "href": "https://facemed.gr/c/therapeies-mallion",
+          "label": "Θεραπείες Μαλλιών"
+        },
+        {
+          "href": "https://facemed.gr/p/privacy-policy",
+          "label": "Πολιτική Απορρήτου"
+        },
+        {
+          "href": "https://facemed.gr/p/terms-of-use",
+          "label": "Όροι Χρήσης"
+        },
+        {
+          "href": "https://facemed.gr/p/politikh-periexomenoy",
+          "label": "Πολιτική Περιεχομένου"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "+30 210 69 29 999",
+          "+30 6947 195 333",
+          "+30 210 60 47 777",
+          "+30 6977 855 000",
+          "+30 2711 71 71 71",
+          "+30 6987 484 333"
+        ],
+        "emails": [
+          "info@facemed.gr"
+        ],
+        "addresses": [
+          "Αμπελόκηποι Αργολίδος 2, Αθήνα +30 210 69 29 999 +30 6947 195 333 [email protected] Γέρακας Θεσσαλονίκης 14, Γέρακας +30 210 60 47 777 +30 6977 855 000 [email protected] Τρίπολη Δήμητρος 64, Τρίπολη +30 2711 71 71 71 +30 6987 484 333 [email protected] Η Εταιρεία Ποίοι είμαστε Είπαν για εμάς Ο Χώρος μας Online Ραντεβού Υπηρεσίες Θεραπείες Προσώπου Θεραπείες Σώματος Κλινική Δερματολογία Θεραπείες Αποτρίχωσης Ημιμόνιμο μακιγιάζ HPV - Κονδυλώματα Γυναικολογία Πλαστική Χειρουργική Θεραπείες Μαλλιών Ακολούθησε μας Instagram Facebook TikTok Youtube LinkedIn Πληροφορίες Νέα Πολιτική Απορρήτου Όροι Χρήσης Copyright © 2026 Facemed Clinic Δημιουργήθηκε από Top Medical Το περιεχόμενο των ιστοσελίδων του παρόντος διαδικτυακού ιστότοπου δεν αποτελεί και δεν μπορεί να εκληφθεί ως ιατρική συμβουλή, διάγνωση, θεραπεία ή υπόδειξη. Όλες οι πληροφορίες παρέχονται αποκλειστικά και μόνο για ενημερωτικούς σκοπούς. Δεν υπάρχει καμία πρόθεση το περιεχόμενο αυτό να υποκαταστήσει την εξατομικευμένη ιατρική συμβουλή, διάγνωση, πρόγνωση ή θεραπεία. Πολιτική Περιεχομένου"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.instagram.com/facemedclinic/",
+            "label": "Instagram"
+          },
+          {
+            "href": "https://www.facebook.com/facemedgr",
+            "label": "Facebook"
+          },
+          {
+            "href": "https://www.tiktok.com/@facemedclinic",
+            "label": "TikTok"
+          },
+          {
+            "href": "https://www.youtube.com/@facemedclinic",
+            "label": "Youtube"
+          },
+          {
+            "href": "https://www.linkedin.com/company/facemed-clinic/",
+            "label": "LinkedIn"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "Αμπελόκηποι Αργολίδος 2, Αθήνα +30 210 69 29 999 +30 6947 195 333 [email protected] Γέρακας Θεσσαλονίκης 14, Γέρακας +30 210 60 47 777 +30 6977 855 000 [email protected] Τρίπολη Δήμητρος 64, Τρίπολη +30 2711 71 71 71 +30 6987 484 333 [email protected] Η Εταιρεία Ποίοι είμαστε Είπαν για εμάς Ο Χώρος μας Online Ραντεβού Υπηρεσίες Θεραπείες Προσώπου Θεραπείες Σώματος Κλινική Δερματολογία Θεραπείες Αποτρίχωσης Ημιμόνιμο μακιγιάζ HPV - Κονδυλώματα Γυναικολογία Πλαστική Χειρουργική Θεραπείες Μαλλιών Ακολούθησε μας Instagram Facebook TikTok Youtube LinkedIn Πληροφορίες Νέα Πολιτική Απορρήτου Όροι Χρήσης Copyright © 2026 Facemed Clinic Δημιουργήθηκε από Top Medical Το περιεχόμενο των ιστοσελίδων του παρόντος διαδικτυακού ιστότοπου δεν αποτελεί και δεν μπορεί να εκληφθεί ως ιατρική συμβουλή, διάγνωση, θεραπεία ή υπόδειξη. Όλες οι πληροφορίες παρέχονται αποκλειστικά και μόνο για ενημερωτικούς σκοπούς. Δεν υπάρχει καμία πρόθεση το περιεχόμενο αυτό να υποκαταστήσει την εξατομικευμένη ιατρική συμβουλή, διάγνωση, πρόγνωση ή θεραπεία. Πολιτική Περιεχομένου",
+      "textContent": "function gtmPush() { } addEventListener(\"load\", gtmPush); <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PZPJNV3\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\" ></iframe> ΚΛΕΙΣΕ ΡΑΝΤΕΒΟΥ Skip to main content Skip to navigation We Create Happy Faces Πλαστική Χειρουργική & Αισθητική Ιατρική σε Αθήνα, Γέρακα & Τρίπολη <p>Your browser does not support embedded videos. <a href=\"https://www.youtube.com/watch?v=AY5L8szXT50\" target=\"_blank\" rel=\"noopener\">Watch our introduction video on YouTube</a></p> Σχετικά με εμάς Η ομάδα μας αποτελείται από υψηλά καταρτισμένους επαγγελματίες στον τομέα, πάντα κοντά σας για να σας βοηθήσουν αποτελεσματικά ΚΛΕΙΣΕ ΡΑΝΤΕΒΟΥ ONLINE Κλείσε ραντεβού εύκολα και γρήγορα μέσω της πλατφόρμας μας! ΚΛΕΙΣΕ ΡΑΝΤΕΒΟΥ ΕΠΙΣΚΕΨΟΥ ΤΟΝ ΓΙΑΤΡΟ ΑΠΟ ΤΟ ΣΠΙΤΙ Ο πιο ασφαλής και εύκολος τρόπος να επισκέπτεσαι τον γιατρό! Ραντεβού για βιντεοκλήση Οι υπηρεσίες μας Κλείσε Ραντεβού Ιατρικες Θεραπείες Fractional Laser PRP Χημικό Peeling Αισθητικές Θεραπείες Hydra Δερμοαπόξεση Θεραπεία για μαύρους κύκλους Θεραπείες Σώματος EMS Exilis Elite X-Wave Πλαστική Χειρουργική Λιποαναρρόφηση Βλεφαροπλαστική Ρινοπλαστική Γνώρισε την ομάδα μας Σχετικά με εμάς Η ομάδα μας από πλαστικούς χειρουργούς, γιατρούς και αισθητικούς σε βοηθά να αναδείξεις την καλύτερη εκδοχή του εαυτού σου. Δρ. Δημήτρουλας Νικόλαος Πλαστικός Χειρουργός Δρ. Λοϊζίδης Χριστόφορος Δερματολόγος - Αφροδισιολόγος Δρ. Τζώνης Παναγιώτης Μαιευτήρας-Γυναικολόγος Ανδριανάκη Αικατερίνη Αισθητικός Σαχίνη Ελεονώρα Αισθητικός Frequently Asked Questions Πως να επιλέξω την κατάλληλη θεραπεία προσώπου για μένα; + Η επιλογή θεραπείας γίνεται με βάση τις ανάγκες σου και το πρόβλημα που θέλεις να αντιμετωπίσεις. Στη Facemed Clinic προσφέρουμε εξατομικευμένη αξιολόγηση με Dermascan ώστε να δούμε σε βάθος τις ανάγκες της επιδερμίδας σου και σε καθοδηγούμε στην ιδανική θεραπεία και πλάνο φροντίδας. Δες περισσότερα για την επιλογή θεραπείας. Πότε φαίνονται τα αποτελέσματα από το υαλουρονικό οξύ; + Τα αποτελέσματα από τη θεραπεία με υαλουρονικό οξύ τα βλέπεις άμεσα και στη συνέχεια θα βελτιώνονται τις επόμενες μέρες όσο απορροφάται το υαλουρονικό από τον οργανισμό. Ωστόσο, τα αποτελέσματα του ενέσιμου υαλουρονικού δεν είναι μόνιμα, καθώς το υλικό διασπάται και απορροφάται. Ποια είναι η καλύτερη μεσοθεραπεία; + Η καλύτερη μεσοθεραπεία για σένα εξαρτάται από διάφορους παράγοντες όπως η ηλικία, οι ανάγκες του δέρματος σου, τι θέλεις να πετύχεις από τη θεραπεία, το ιστορικό σε αισθητικές θεραπείες και σε κάποιες περιπτώσεις ο τρόπος ζωής σου. Για αυτόν τον λόγο είναι σημαντικό να επικοινωνήσεις με έναν εξειδικευμένο γιατρό για να βρεις ιδανική θεραπεία. Πόσο διαρκεί το υαλουρονικό στα χείλη; + Το αποτέλεσμα του υαλουρονικού στα χείλη συνήθως διαρκεί από 8 μήνες έως 1 χρόνο. Η διάρκεια σίγουρα δεν είναι ίδια για όλους και υπάρχουν περιπτώσεις όπου το υλικό απορροφάται πιο γρήγορα ή άλλες φορές που κρατάει περισσότερο. Επίσης στην διάρκεια παίζει ρόλο ο τύπος του υλικού που χρησιμοποιήθηκε, ο μεταβολισμός σου, καθώς και ο τρόπος ζωής (π.χ. κάπνισμα). Ποια είναι τα υπέρ και κατά του fractional laser; + Το fractional laser είναι μια αποτελεσματική μέθοδος ανάπλασης του δέρματος που διεγείρει την παραγωγή κολλαγόνου και βελτιώνει την υφή της επιδερμίδας, αντιμετωπίζοντας ουλές, ρυτίδες και λεπτές γραμμές. Είναι μη χειρουργικό, με σχετικά σύντομο διάστημα αποθεραπείας. Ωστόσο, χρειάζονται συνήθως 2-4 συνεδρίες για τα βέλτιστα αποτελέσματα, ενώ μπορεί να εμφανιστούν προσωρινός ερεθισμός, κοκκίνισμα ή ήπιο πρήξιμο. Σπάνια, υπάρχει κίνδυνος επιπλοκών όπως δυσχρωμίες ή λοίμωξη, γι' αυτό και είναι απαραίτητη η επιλογή ενός έμπειρου γιατρού και η πιστή τήρηση των οδηγιών μετά τη θεραπεία. Δες αναλυτικά τα υπέρ και κατά. Τι απαγορεύεται μετά το Botox; + Μετά το Botox, συνιστάται να αποφύγεις το ξάπλωμα για 4 ώρες, την έντονη σωματική άσκηση για 24 ώρες, το τρίψιμο της περιοχής, την έκθεση σε υπερβολική θερμότητα (σάουνα, ζεστά μπάνια) και την κατανάλωση αλκοόλ ή αντιφλεγμονωδών φαρμάκων για 24 ώρες. Ακολουθώντας αυτές τις οδηγίες, εξασφαλίζεις τα καλύτερα δυνατά αποτελέσματα. Μάθε αναλυτικά τις οδηγίες μετά το Botox. Πόσο διαρκεί η ανάρρωση από βλεφαροπλαστική; + Η περίοδος ανάρρωσης μετά από βλεφαροπλαστική διαφέρει ελαφρώς ανάλογα με το είδος της επέμβασης που έκανες. Γενικά, η αρχική φάση αποθεραπείας διαρκεί από μία έως δύο εβδομάδες, κατά τη διάρκεια των οποίων θα δεις τα πιο εμφανή συμπτώματα να υποχωρούν σταδιακά.Η πλήρης επούλωση και το τελικό αποτέλεσμα της επέμβασης γίνεται ορατό μετά από τρεις έως έξι μήνες, όταν το δέρμα έχει αποκτήσει την τελική του υφή και τα σημάδια της επέμβασης έχουν μειωθεί αισθητά. Πόσο κοστίζει το ραντεβού με πλαστικό χειρουργό; + Το συμβουλευτικό ραντεβού αξιολόγησης με πλαστικό χειρουργό στο ιατρείο κοστίζει 50€. Τι Είπαν για Εμάς Κλείσε Ραντεβού \"10/10 η δερματολόγος ήταν πολύ κατατοπιστική και άριστα καταρτισμένη ευγενική και πολύ...\" Ferdi B \"Στην ώρα τους! Η κυρία Εξηνταβελωνη έδειξε προσοχή στο πρόβλημα μου και κατανόηση.\" Ελένη Π \"Φιλικό προσωπικό, μοντέρνος χώρος! Άμεσα αποτελέσματα!!\" Meropi Chaleplidou \"Φοβερή εξυπηρέτηση!!! Είχα καιρό θέμα με την ακμή και επιτέλους βρήκα κάποιον που με...\" Γεωργία Καρίπ \"Ευγενικοί,εξυπηρετικοί, πρόσχαροι και επαγγελματικά καταρτισμένοι. Διερευνούν σε...\" George K \"polu kalh kai stin ora tous\" Besim B \"Απόλυτα ικανοποιημένος από την όλη αντιμετώπιση από reception και φυσικά από τον...\" hristos A \"Σπάνια γράφω κριτικές αλλά έμεινα πάρα πολύ ευχαριστημένη από την κλινική και την...\" Δημητρα Δερβισογλου \"Είναι μια από τις καλύτερες κλινικές της Αθήνας με πολύ καλό περιβάλλον, με φιλικό και...\" Konstantinos Gkaravelos \"Πολύ καλή εξυπηρέτηση και λεπτομερειακή!!\" Παναγιώτης Μ \"Η κυρία Τετζελιδου,είναι εξαιρετική και ανθρώπινη!!!Σας ευχαριστώ πολύ!\" Κωνσταντίνος Φ \"Έμεινα απολύτως ικανοποιημένη από τη γιατρό!\" Μυρσίνη Ο \"Εξαιρετικός Γιατρός! Το τατουάζ θηλής είναι απίστευτο!! Ευχαριστώ Facemed!!\" Vana Vrioni \"Εξαιρετικός χώρος και πολύ προσεγμένος. Άψογη εξυπηρέτηση από εξειδικευμένο...\" maria baki \"Υπέροχος κ καθαρός χώρος! Ευγενικό προσωπικό με εξαιρετική εξυπηρέτηση. Η δουλειά των...\" ΕΦΗ ΣΤΑΥΡΟΠΟΥΛΟΥ \"Πολύ ευγενικό προσωπικό. Καθαρός χώρος. Πρόθυμοι να σε συμβουλέψουν για ανάλογα με το...\" 'σοφια κ. \"Πρώτη φορά και έμεινα πολύ ευχαριστημένη! Ο χώρος είναι πολύ προσεγμένος και καθαρός,...\" KATERINA LIONTI \"Πολύ ωραίος χώρος, αναλυτική επεξήγηση της γνωμάτευσης, ευγενέστατοι όλοι! 10/10\" Anastasios tsavalos \"Έκανα ραντεβού με την δερματολόγο η οποία με εξέτασε και μου εξήγησε με σαφήνεια και...\" Yiota N \"Απόλυτα φιλική και προσιτή σε μια υπέροχη κλινική που με έχει εξυπηρετήσει αρκετές...\" Δημήτρης Μ \"H δερματολόγος κυρία Εξηνταβελώνη Σταυρούλα είναι εκπληκτική! 20 στα 10!!!!!\" Sissy D \"Όλα άψογα για μια ακόμη φορά!Η Βάσια εξαιρετική. Εννοείται πως θα ξαναπάω σύντομα!\" ΘΩΜΗ Π \"Φιλικο και προσιτό περιβάλλον και εξαιρετικες υπηρεσίες\" Ανθη κ Τι λένε για εμάς Νέα ΔΕΣ ΠΕΡΙΣΣΟΤΕΡΑ Κυτταρίτιδα στα Μπράτσα: Αντιμετώπιση 31 Μαρ, 2026 7 λεπτά διάβασμα Διάβασε Περισσότερα Nefertiti Lift: Η Μη Επεμβατική Ανόρθωση Λαιμού 23 Μαρ, 2026 7 λεπτά διάβασμα Διάβασε Περισσότερα Θεραπείες προσώπου πριν το Πάσχα: Τι να επιλέξεις 16 Μαρ, 2026 3 λεπτά διάβασμα Διάβασε Περισσότερα ΜΑΣ ΕΧΟΥΝ ΑΝΑΦΕΡΕΙ Madame Figaro Laser Αποτρίχωση LADYLIKE Μεσοθεραπεία Προσώπου Miss Bloom Μανδελικό Peeling Plan Be Μεσοθεραπεία Σώματος Athens Voice Ιατρικό Τατουάζ Θηλής /* Skip Links for Keyboard Navigation */ .skip-link { position: absolute; left: -10000px; top: auto; width: 1px; height: 1px; overflow: hidden; z-index: 9999; background: #000; color: #fff; padding: 8px 16px; text-decoration: none; border-radius: 4px; } .skip-link:focus { position: static; width: auto; height: auto; overflow: visible; } /* Focus Indicators */ *:focus { outline: 2px solid #FC5856 !important; outline-offset: 2px; } /* Improved button focus styles */ button:focus, .btn:focus, a:focus { box-shadow: 0 0 0 3px rgba(252, 88, 86, 0.3) !important; } /* Color Contrast Improvements */ .text-white { color: #ffffff !important; } .bg-black { background-color: #000000 !important; } /* Button accessibility */ button[aria-expanded=\"true\"] .faq-toggle-icon::before { content: \"−\"; } button[aria-expanded=\"false\"] .faq-toggle-icon::before { content: \"+\"; } /* Screen reader only text */ .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; } /* Ensure proper heading hierarchy visibility */ h1, h2, h3, h4, h5, h6 { position: relative; } /* Video container accessibility */ .video-bg iframe { border: none; } /* Improved hover states */ a:hover, button:hover { opacity: 0.8; transition: opacity 0.3s ease; } /* Ensure text meets color contrast requirements */ .section-description, .promo-card-title, .section-title { color: inherit; } /* Remove pointer cursor from non-clickable elements */ .pointer { cursor: pointer; } /* List styling for accessibility */ ul[role=\"list\"], ol[role=\"list\"] { list-style: none; margin: 0; padding: 0; } li[role=\"listitem\"] { margin-bottom: 1rem; } $(document).ready(function () { // Enhanced FAQ accessibility $('.faq-header').click(function () { const $button = $(this); const $content = $('[aria-labelledby=\"' + $button.attr('id') + '\"]'); const isExpanded = $button.attr('aria-expanded') === 'true'; $button.attr('aria-expanded', !isExpanded); $content.attr('aria-hidden', isExpanded); if (!isExpanded) { $content.collapse('show'); } else { $content.collapse('hide'); } }); // Improve keyboard navigation for FAQ $('.faq-header').keydown(function(e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); $(this).click(); } }); // Remove border from last FAQ item $('.faq-item:last-child').removeClass('border-bottom'); // Add keyboard support for carousel buttons $('.arrow-test-prev, .arrow-test-next, .arrow-pub-prev, .arrow-pub-next').keydown(function(e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); $(this).click(); } }); // Announce dynamic content changes if (typeof window.announceToScreenReader === 'undefined') { window.announceToScreenReader = function(message) { const announcement = document.createElement('div'); announcement.setAttribute('aria-live', 'polite'); announcement.setAttribute('aria-atomic', 'true'); announcement.className = 'sr-only'; announcement.textContent = message; document.body.appendChild(announcement); setTimeout(() => { document.body.removeChild(announcement); }, 1000); }; } }); Αμπελόκηποι Αργολίδος 2, Αθήνα +30 210 69 29 999 +30 6947 195 333 [email protected] Γέρακας Θεσσαλονίκης 14, Γέρακας +30 210 60 47 777 +30 6977 855 000 [email protected] Τρίπολη Δήμητρος 64, Τρίπολη +30 2711 71 71 71 +30 6987 484 333 [email protected] Η Εταιρεία Ποίοι είμαστε Είπαν για εμάς Ο Χώρος μας Online Ραντεβού Υπηρεσίες Θεραπείες Προσώπου Θεραπείες Σώματος Κλινική Δερματολογία Θεραπείες Αποτρίχωσης Ημιμόνιμο μακιγιάζ HPV - Κονδυλώματα Γυναικολογία Πλαστική Χειρουργική Θεραπείες Μαλλιών Ακολούθησε μας Instagram Facebook TikTok Youtube LinkedIn Πληροφορίες Νέα Πολιτική Απορρήτου Όροι Χρήσης Copyright © 2026 Facemed Clinic Δημιουργήθηκε από Top Medical Το περιεχόμενο των ιστοσελίδων του παρόντος διαδικτυακού ιστότοπου δεν αποτελεί και δεν μπορεί να εκληφθεί ως ιατρική συμβουλή, διάγνωση, θεραπεία ή υπόδειξη. Όλες οι πληροφορίες παρέχονται αποκλειστικά και μόνο για ενημερωτικούς σκοπούς. Δεν υπάρχει καμία πρόθεση το περιεχόμενο αυτό να υποκαταστήσει την εξατομικευμένη ιατρική συμβουλή, διάγνωση, πρόγνωση ή θεραπεία. Πολιτική Περιεχομένου .banner-image-espa { max-width: 100%; /* Makes the image responsive */ height: auto; /* Maintains aspect ratio */ width: 700px; /* Reduced from original 1956px but still wide enough to be legible */ display: block; /* Removes any extra spacing below the image */ margin: 8px auto; /* Centers the image with minimal spacing */ opacity: 0.95; /* Very slight opacity reduction */ border-radius: 4px; /* Slightly rounded corners */ } /* For smaller screens */ @media (max-width: 850px) { .banner-image-espa { width: 95%; /* Use percentage on smaller screens */ } } search cross .banner-image-espa { max-width: 100%; /* Makes the image responsive */ height: auto; /* Maintains aspect ratio */ width: 700px; /* Reduced from original 1956px but still wide enough to be legible */ display: block; /* Removes any extra spacing below the image */ margin: 8px auto; /* Centers the image with minimal spacing */ opacity: 0.95; /* Very slight opacity reduction */ border-radius: 4px; /* Slightly rounded corners */ } /* For smaller screens */ @media (max-width: 850px) { .banner-image-espa { width: 95%; /* Use percentage on smaller screens */ } } .v-application--wrap { background-color: rgb(248, 248, 255) !important; } @font-face { font-family: FacemedNeue; src: url('/assets/css/FacemedNeue.woff') format('woff'); font-display: block } .f__font { font-family: FacemedNeue; } .theme--light.v-tabs-items { background: transparent !important; } .v-application--wrap { min-height: auto !important; } .v-application--wrap { min-height: auto !important; } .v-overlay { z-index: 200 !important; } @media (min-width: 767px) { body::-webkit-scrollbar { width: 8px; cursor: pointer; } body::-webkit-scrollbar-track { box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); } body::-webkit-scrollbar-thumb { background-color: #fc5856; } } $(function() { var loading = true; window.onload = (e) => { loading = false; doneLoad() } setTimeout(() => { if(loading) { // gsap.to('.__close', { // opacity: 1, // autoAlpha: 1 // }) doneLoad() } }, 3000) $('#load__close').on('click', () => { doneLoad() }) gsap.set('html, body', { overflowY: 'hidden' }) function doneLoad() { gsap.timeline() .set('html, body', { overflowY: 'unset' }) .set('#app', { visibility: 'visible', }) .add('do') .to('.turbo__lines', { stagger: .3, height: '0%' }) .to('.turbo__logo, .__loader', { duration: .3, opacity: 0 }, 'do') .to('.turbo__loader', { visibility: 'hidden' }) .set('.turbo__logo, __loader', { visibility: 'hidden' }) } }); .__close { position: absolute; right: 20px; top: 20px; color: white; border-radius: 50%; border: 1px solid #fff; z-index: 100; width: 30px; height: 30px; display: grid; align-items: center; justify-content: center; visibility: hidden; opacity: 0; cursor: pointer; } .lds-ellipsis { display: inline-block; position: relative; width: 80px; height: 80px; position: absolute; left: 0; right: 0; margin: 0 auto; z-index: 100; top: 55%; } .lds-ellipsis div { position: absolute; top: 33px; width: 13px; height: 13px; border-radius: 50%; background: #fff; animation-timing-function: cubic-bezier(0, 1, 1, 0); } .lds-ellipsis div:nth-child(1) { left: 8px; animation: lds-ellipsis1 0.6s infinite; } .lds-ellipsis div:nth-child(2) { left: 8px; animation: lds-ellipsis2 0.6s infinite; } .lds-ellipsis div:nth-child(3) { left: 32px; animation: lds-ellipsis2 0.6s infinite; } .lds-ellipsis div:nth-child(4) { left: 56px; animation: lds-ellipsis3 0.6s infinite; } @keyframes lds-ellipsis1 { 0% { transform: scale(0); } 100% { transform: scale(1); } } @keyframes lds-ellipsis3 { 0% { transform: scale(1); } 100% { transform: scale(0); } } @keyframes lds-ellipsis2 { 0% { transform: translate(0, 0); } 100% { transform: translate(24px, 0); } } .turbo__logo { width: 500px; height: 200px; z-index: 999; } #app { visibility: hidden; } .__left { position: absolute; left: 0%; background: #000; width: 50%; height: 100%; transform: translate(0%, 0%); top: 0; }.__right { position: absolute; left: 50%; background: #000; width: 50%; height: 100%; transform: translate(0%, 0%); top: 0; } /* ##Device = Most of the Smartphones Mobiles (Portrait) ##Screen = B/w 320px to 479px */ @media (min-width: 320px) and (max-width: 767px) { .turbo__logo { width: 300px; } }",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/facemed.gr-home-2ee2a40f/homepage--2ee2a40f.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/facemed.gr-home-2ee2a40f/homepage--2ee2a40f.txt",
+      "imageReferences": [
+        {
+          "url": "https://facemed.gr/assets/images/meta_image.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://facemed.gr/",
+          "pageType": "homepage",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://facemed.gr/",
+              "retrievedAt": "2026-03-31T13:15:48.543Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/logo.svg",
+          "alt": "Facemed Logo Icon",
+          "sourcePageUrl": "https://facemed.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/",
+              "retrievedAt": "2026-03-31T13:15:48.543Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/icons/arrow.svg",
+          "alt": "Book Arrow Icon",
+          "sourcePageUrl": "https://facemed.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/",
+              "retrievedAt": "2026-03-31T13:15:48.543Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/logo-white.svg",
+          "alt": "Facemed Logo Icon",
+          "sourcePageUrl": "https://facemed.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/",
+              "retrievedAt": "2026-03-31T13:15:48.543Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/icons/phone.svg",
+          "alt": "Phone Icon",
+          "sourcePageUrl": "https://facemed.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/",
+              "retrievedAt": "2026-03-31T13:15:48.543Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/espa/antagonistikotitaframeEL.jpg",
+          "alt": "Banner Image",
+          "sourcePageUrl": "https://facemed.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/",
+              "retrievedAt": "2026-03-31T13:15:48.543Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/icons/arrow-black.svg",
+          "sourcePageUrl": "https://facemed.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/",
+              "retrievedAt": "2026-03-31T13:15:48.543Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/images/home_services/service1.jpg",
+          "alt": "Image showcasing Ιατρικες Θεραπείες services",
+          "sourcePageUrl": "https://facemed.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/",
+              "retrievedAt": "2026-03-31T13:15:48.543Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/images/home_services/service2.jpg",
+          "alt": "Image showcasing Αισθητικές Θεραπείες services",
+          "sourcePageUrl": "https://facemed.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/",
+              "retrievedAt": "2026-03-31T13:15:48.543Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/images/home_services/service3.jpg",
+          "alt": "Image showcasing Θεραπείες Σώματος services",
+          "sourcePageUrl": "https://facemed.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/",
+              "retrievedAt": "2026-03-31T13:15:48.543Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.fra1.digitaloceanspaces.com/members/April2025/GHG2zdt3VCQWyHI0uP27.png",
+          "alt": "Professional headshot of Δρ. Δημήτρουλας Νικόλαος",
+          "sourcePageUrl": "https://facemed.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/",
+              "retrievedAt": "2026-03-31T13:15:48.543Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.fra1.digitaloceanspaces.com/members/March2020/67pNJrZx98S1Kq7Janxd.jpg",
+          "alt": "Professional headshot of Δρ. Λοϊζίδης Χριστόφορος",
+          "sourcePageUrl": "https://facemed.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/",
+              "retrievedAt": "2026-03-31T13:15:48.543Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.545Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/facemed.gr-home-2ee2a40f/homepage-page-2ee2a40f.png"
+    },
+    "about": {
+      "pageType": "about",
+      "requestedUrl": "https://facemed.gr/about",
+      "finalUrl": "https://facemed.gr/about",
+      "fetchedAt": "2026-03-31T13:15:49.971Z",
+      "metadata": {
+        "title": "Σχετικά με εμάςsearchcross",
+        "metaDescription": "Ανακάλυψε τον χώρο μας και γνώρισε τους ειδικούς που θα σε βοηθήσουν να γίνεις η καλύτερη εκδοχή του εαυτού σου",
+        "canonicalUrl": "https://facemed.gr/about",
+        "language": "el",
+        "openGraphTitle": "Σχετικά με εμάς",
+        "openGraphDescription": "Ανακάλυψε τον χώρο μας και γνώρισε τους ειδικούς που θα σε βοηθήσουν να γίνεις η καλύτερη εκδοχή του εαυτού σου",
+        "openGraphImage": "https://facemed.gr/assets/images/meta_image.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Σχετικά με εμάς"
+        },
+        {
+          "level": "h2",
+          "text": "/Κλινικές"
+        },
+        {
+          "level": "h2",
+          "text": "ΕΞΕΛΙΣΣΟΜΑΣΤΕ ΜΕ ΤΟΝ ΧΡΟΝΟ"
+        },
+        {
+          "level": "h2",
+          "text": "Γνώρισε μας καλύτερα"
+        },
+        {
+          "level": "h2",
+          "text": "Η φιλοσοφία μας"
+        },
+        {
+          "level": "h2",
+          "text": "Το όραμα μας"
+        },
+        {
+          "level": "h2",
+          "text": "Οι αξίες μας"
+        },
+        {
+          "level": "h2",
+          "text": "Οι υπερσύγχρονες εγκαταστάσεις μας"
+        },
+        {
+          "level": "h2",
+          "text": "Πιστοποιημένοι και έμπειροι"
+        },
+        {
+          "level": "h2",
+          "text": "Οι γιατροί μας"
+        },
+        {
+          "level": "h2",
+          "text": "Το προσωπικό μας"
+        },
+        {
+          "level": "h3",
+          "text": "Κλινική Αθήνας"
+        },
+        {
+          "level": "h3",
+          "text": "Κλινική Γέρακα"
+        },
+        {
+          "level": "h3",
+          "text": "Κλινική Τρίπολης"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://facemed.gr/"
+        },
+        {
+          "href": "https://facemed.gr/book",
+          "label": "ΚΛΕΙΣΕ ΡΑΝΤΕΒΟΥ"
+        },
+        {
+          "href": "https://facemed.gr/assets/espa/poster_A3.pdf"
+        },
+        {
+          "href": "https://facemed.gr/about",
+          "label": "Σχετικά με εμάς"
+        },
+        {
+          "href": "https://facemed.gr/about/xristoforos-loizidis",
+          "label": "Dr. Loizidis Christoforos"
+        },
+        {
+          "href": "https://facemed.gr/about/dr-tzonis-panagiotis",
+          "label": "Dr. Tzonis Panagiotis"
+        },
+        {
+          "href": "https://facemed.gr/about/dimitroulas-nikolaos",
+          "label": "Dr. Dimitroulas Nikolaos"
+        },
+        {
+          "href": "https://facemed.gr/cdn-cgi/l/email-protection#7b12151d143b1d1a181e161e1f551c09",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://facemed.gr/cdn-cgi/l/email-protection#a3cacdc5cce3c5c2c0c6cec6c78dc4d1",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://facemed.gr/cdn-cgi/l/email-protection#ea83848c85aa8c8b898f878f8ec48d98",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://facemed.gr/kritikes-testimonials",
+          "label": "Είπαν για εμάς"
+        },
+        {
+          "href": "https://facemed.gr/c/therapeies-prosopou",
+          "label": "Θεραπείες Προσώπου"
+        },
+        {
+          "href": "https://facemed.gr/c/therapeies-somatos",
+          "label": "Θεραπείες Σώματος"
+        },
+        {
+          "href": "https://facemed.gr/c/klinikh-dermatologia",
+          "label": "Κλινική Δερματολογία"
+        },
+        {
+          "href": "https://facemed.gr/c/therapeies-apotrixosis",
+          "label": "Θεραπείες Αποτρίχωσης"
+        },
+        {
+          "href": "https://facemed.gr/c/aisthitiko-imimonimo-makigiaz",
+          "label": "Ημιμόνιμο μακιγιάζ"
+        },
+        {
+          "href": "https://facemed.gr/c/therapeies-hpv",
+          "label": "HPV - Κονδυλώματα"
+        },
+        {
+          "href": "https://facemed.gr/c/gynaikologia",
+          "label": "Γυναικολογία"
+        },
+        {
+          "href": "https://facemed.gr/c/plastiki-xeirourgiki",
+          "label": "Πλαστική Χειρουργική"
+        },
+        {
+          "href": "https://facemed.gr/c/therapeies-mallion",
+          "label": "Θεραπείες Μαλλιών"
+        },
+        {
+          "href": "https://facemed.gr/blog",
+          "label": "Νέα"
+        },
+        {
+          "href": "https://facemed.gr/p/privacy-policy",
+          "label": "Πολιτική Απορρήτου"
+        },
+        {
+          "href": "https://facemed.gr/p/terms-of-use",
+          "label": "Όροι Χρήσης"
+        },
+        {
+          "href": "https://facemed.gr/p/politikh-periexomenoy",
+          "label": "Πολιτική Περιεχομένου"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "2015 2015",
+          "+30 210 69 29 999",
+          "+30 6947 195 333",
+          "+30 210 60 47 777",
+          "+30 6977 855 000",
+          "+30 2711 71 71 71",
+          "+30 6987 484 333"
+        ],
+        "emails": [
+          "info@facemed.gr"
+        ],
+        "addresses": [
+          "Αμπελόκηποι Αργολίδος 2, Αθήνα +30 210 69 29 999 +30 6947 195 333 [email protected] Γέρακας Θεσσαλονίκης 14, Γέρακας +30 210 60 47 777 +30 6977 855 000 [email protected] Τρίπολη Δήμητρος 64, Τρίπολη +30 2711 71 71 71 +30 6987 484 333 [email protected] Η Εταιρεία Ποίοι είμαστε Είπαν για εμάς Ο Χώρος μας Online Ραντεβού Υπηρεσίες Θεραπείες Προσώπου Θεραπείες Σώματος Κλινική Δερματολογία Θεραπείες Αποτρίχωσης Ημιμόνιμο μακιγιάζ HPV - Κονδυλώματα Γυναικολογία Πλαστική Χειρουργική Θεραπείες Μαλλιών Ακολούθησε μας Instagram Facebook TikTok Youtube LinkedIn Πληροφορίες Νέα Πολιτική Απορρήτου Όροι Χρήσης Copyright © 2026 Facemed Clinic Δημιουργήθηκε από Top Medical Το περιεχόμενο των ιστοσελίδων του παρόντος διαδικτυακού ιστότοπου δεν αποτελεί και δεν μπορεί να εκληφθεί ως ιατρική συμβουλή, διάγνωση, θεραπεία ή υπόδειξη. Όλες οι πληροφορίες παρέχονται αποκλειστικά και μόνο για ενημερωτικούς σκοπούς. Δεν υπάρχει καμία πρόθεση το περιεχόμενο αυτό να υποκαταστήσει την εξατομικευμένη ιατρική συμβουλή, διάγνωση, πρόγνωση ή θεραπεία. Πολιτική Περιεχομένου"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.instagram.com/facemedclinic/",
+            "label": "Instagram"
+          },
+          {
+            "href": "https://www.facebook.com/facemedgr",
+            "label": "Facebook"
+          },
+          {
+            "href": "https://www.tiktok.com/@facemedclinic",
+            "label": "TikTok"
+          },
+          {
+            "href": "https://www.youtube.com/@facemedclinic",
+            "label": "Youtube"
+          },
+          {
+            "href": "https://www.linkedin.com/company/facemed-clinic/",
+            "label": "LinkedIn"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "Αμπελόκηποι Αργολίδος 2, Αθήνα +30 210 69 29 999 +30 6947 195 333 [email protected] Γέρακας Θεσσαλονίκης 14, Γέρακας +30 210 60 47 777 +30 6977 855 000 [email protected] Τρίπολη Δήμητρος 64, Τρίπολη +30 2711 71 71 71 +30 6987 484 333 [email protected] Η Εταιρεία Ποίοι είμαστε Είπαν για εμάς Ο Χώρος μας Online Ραντεβού Υπηρεσίες Θεραπείες Προσώπου Θεραπείες Σώματος Κλινική Δερματολογία Θεραπείες Αποτρίχωσης Ημιμόνιμο μακιγιάζ HPV - Κονδυλώματα Γυναικολογία Πλαστική Χειρουργική Θεραπείες Μαλλιών Ακολούθησε μας Instagram Facebook TikTok Youtube LinkedIn Πληροφορίες Νέα Πολιτική Απορρήτου Όροι Χρήσης Copyright © 2026 Facemed Clinic Δημιουργήθηκε από Top Medical Το περιεχόμενο των ιστοσελίδων του παρόντος διαδικτυακού ιστότοπου δεν αποτελεί και δεν μπορεί να εκληφθεί ως ιατρική συμβουλή, διάγνωση, θεραπεία ή υπόδειξη. Όλες οι πληροφορίες παρέχονται αποκλειστικά και μόνο για ενημερωτικούς σκοπούς. Δεν υπάρχει καμία πρόθεση το περιεχόμενο αυτό να υποκαταστήσει την εξατομικευμένη ιατρική συμβουλή, διάγνωση, πρόγνωση ή θεραπεία. Πολιτική Περιεχομένου",
+      "textContent": "function gtmPush() { } addEventListener(\"load\", gtmPush); <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PZPJNV3\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\" ></iframe> ΚΛΕΙΣΕ ΡΑΝΤΕΒΟΥ Αρχική Σχετικά με εμάς Σχετικά με εμάς Δεσμευόμαστε να παρέχουμε την υψηλότερη δυνατή ποιότητα φροντίδας σε όλους τους ασθενείς μας ΚΛΕΙΣΕ ΡΑΝΤΕΒΟΥ /Κλινικές Οι υπερσύγχρονες εγκαταστάσεις μας είναι εξοπλισμένες με τελευταίας τεχνολογίας μηχανήματα και τεχνικές, διασφαλίζοντας ότι μπορούμε να προσφέρουμε τις πιο προηγμένες διαθέσιμες θεραπείες. Προσφέρουμε ένα ευρύ φάσμα υπηρεσιών, συμπεριλαμβανομένων των γενικών δερματολογία, αισθητικές επεμβάσεις και εξετάσεις για τον καρκίνο του δέρματος. Γίνε ασθενής μας /Ιστορία Facemed ΕΞΕΛΙΣΣΟΜΑΣΤΕ ΜΕ ΤΟΝ ΧΡΟΝΟ Ήρθαμε για να προσφέρουμε Η κλινική μας έχει μακρά ιστορία στην παροχή εξαιρετικής δερματολογικής φροντίδας στους ασθενείς μας. Ιδρυθήκαμε το 2015 και είμαστε αφοσιωμένοι και δεσμευμένοι στην πρόοδο του τομέα και στη βελτίωση της ζωής των ανθρώπων στην κοινωνία μας. 2015 2015 /Η κουλτούρα μας Γνώρισε μας καλύτερα 01 Η φιλοσοφία μας 02 Το όραμα μας 03 Οι αξίες μας Η φιλοσοφία μας 01 Από την ίδρυσή μας, έχουμε παραμείνει στην πρώτη γραμμή της καινοτομίας στη δερματολογία. Ενημερώνουμε συνεχώς τις τεχνολογίες και τις θεραπείες μας για να προσφέρουμε την πιο προηγμένη διαθέσιμη φροντίδα. Καταλαβαίνουμε ότι κάθε άτομο είναι μοναδικό και έχει διαφορετικές ανάγκες και ανησυχίες για τη φροντίδα του δέρματος και προσπαθούμε να προσφέρουμε εξατομικευμένα σχέδια θεραπείας που είναι προσαρμοσμένα σε κάθε άτομο. Το όραμα μας 02Όραμα μας είναι να προσπαθήσουμε να δημιουργήσουμε ένα φιλόξενο και χωρίς αποκλεισμούς περιβάλλον όπου όλοι οι ασθενείς θα αισθάνονται άνετα και θα λαμβάνουν φροντίδα. Οι αξίες μας 03Αυτές είναι οι θεμελιώδεις αξίες που μας οδηγούν μπροστά Συμπόνια Η συμπόνια είναι το θεμέλιο της πρακτικής μας. Καταλαβαίνουμε ότι η αναζήτηση ιατρικής φροντίδας μπορεί να είναι μια ευάλωτη εμπειρία, γι' αυτό και προσπαθούμε να δημιουργήσουμε ένα ζεστό και φιλόξενο περιβάλλον για όλους τους ασθενείς μας. Από τη στιγμή που θα περάσετε την πόρτα μας, μπορείτε να περιμένετε να σας αντιμετωπίσουμε με ενσυναίσθηση, ευγένεια και σεβασμό. Τεχνογνωσία Η τεχνογνωσία βρίσκεται στο επίκεντρο της δέσμευσής μας για αριστεία. Η ομάδα μας από άρτια καταρτισμένους επαγγελματίες υγείας διαθέτει πολυετή εμπειρία και εξειδίκευση στους αντίστοιχους τομείς. Είτε αναζητάτε ιατρική περίθαλψη, αισθητικές επεμβάσεις ή υπηρεσίες υγείας, μπορείτε να εμπιστευτείτε ότι βρίσκεστε σε ικανά χέρια στη Facemed. Εξατομίκευση Η εξατομίκευση είναι το κλειδί για την παροχή της καλύτερης δυνατής φροντίδας. Αναγνωρίζουμε ότι κάθε ασθενής είναι μοναδικός, με τις δικές του ανάγκες, προτιμήσεις και στόχους. Γι' αυτό αφιερώνουμε χρόνο για να ακούσουμε προσεκτικά τις ανησυχίες σας και να προσαρμόσουμε τα θεραπευτικά μας σχέδια ώστε να καλύψουμε τις ατομικές σας ανάγκες, διασφαλίζοντας ότι θα λάβετε εξατομικευμένη φροντίδα που θα επικεντρώνεται πραγματικά σε εσάς. Ποιότητα Η ποιότητα είναι η υπόσχεσή μας σε εσάς. Από τις υπερσύγχρονες εγκαταστάσεις μας μέχρι τα αυστηρά πρότυπα ελέγχου ποιότητας, δεσμευόμαστε να παρέχουμε υπηρεσίες υγείας υψηλού επιπέδου. Τηρούμε αυστηρά πρωτόκολλα και οδηγίες για να διασφαλίσουμε την ασφάλεια, την άνεση και την ικανοποίησή σας σε κάθε βήμα του ταξιδιού σας μαζί μας. /Τα ιατρεία μας Οι υπερσύγχρονες εγκαταστάσεις μας Κλινική Αθήνας Μια σύγχρονη και ευρύχωρη εγκατάσταση που βρίσκεται στην καρδιά της πόλης. Είναι εύκολα προσβάσιμη, με άφθονο χώρο στάθμευσης και βολικό ωράριο για να ταιριάζει στο πολυάσχολο πρόγραμμα των ασθενών μας. Στο εσωτερικό, τα γραφεία μας είναι ζεστά και φιλόξενα, με μια σειρά από εξειδικευμένες αίθουσες θεραπείας για να φιλοξενήσουν ένα ευρύ φάσμα δερματολογικών διαδικασιών. Είμαστε εξοπλισμένοι με τις τελευταίες τεχνολογίες και τεχνικές, διασφαλίζοντας ότι μπορούμε να προσφέρουμε τις πιο προηγμένες διαθέσιμες θεραπείες. Δες την τοποθεσία Κλινική Γέρακα Ένα άλλο από τα γραφεία μας βρίσκεται σε ένα όμορφο και μοντέρνο κτίριο που βρίσκεται σε μια ήσυχη και γαλήνια γειτονιά. Είναι εύκολα προσβάσιμο με τα μέσα μαζικής μεταφοράς και υπάρχει άφθονος χώρος στάθμευσης για όσους προτιμούν να οδηγούν. Τα γραφεία μας είναι ευρύχωρα και φωτεινά, με μια ζεστή και φιλόξενη ατμόσφαιρα που κάνει τους ασθενείς μας να αισθάνονται άνετα. Διαθέτουμε μια σειρά από εξειδικευμένες αίθουσες θεραπείας για να φιλοξενήσουμε ένα ευρύ φάσμα δερματολογικών επεμβάσεων και είμαστε εξοπλισμένοι με τις τελευταίες τεχνολογίες και τεχνικές για να προσφέρουμε την πιο προηγμένη διαθέσιμη φροντίδα. Δες την τοποθεσία Κλινική Τρίπολης Το τρίτο μας γραφείο βρίσκεται σε ένα όμορφο και μοντέρνο κτίριο που βρίσκεται σε μια πολυσύχναστη και ζωντανή γειτονιά. Είναι εύκολα προσβάσιμο με τα μέσα μαζικής μεταφοράς, ενώ υπάρχει άφθονος χώρος στάθμευσης για όσους προτιμούν να οδηγούν. Δες την τοποθεσία /Η ομάδα μας Πιστοποιημένοι και έμπειροι Η ομάδα μας αποτελείται από άρτια εκπαιδευμένους και έμπειρους δερματολόγους, καθώς και από ένα αφοσιωμένο προσωπικό υποστήριξης. Μαζί, δεσμευόμαστε να παρέχουμε την υψηλότερη δυνατή ποιότητα φροντίδας στους ασθενείς μας. Οι γιατροί μας Dr. Loizidis Christoforos Dermatologist - Venereologist Dr. Tzonis Panagiotis Μαιευτήρας-Γυναικολόγος Dr. Dimitroulas Nikolaos Plastic Surgeon Το προσωπικό μας Αndrianaki Katerina Beautician Sahini Eleonora Beautician Αμπελόκηποι Αργολίδος 2, Αθήνα +30 210 69 29 999 +30 6947 195 333 [email protected] Γέρακας Θεσσαλονίκης 14, Γέρακας +30 210 60 47 777 +30 6977 855 000 [email protected] Τρίπολη Δήμητρος 64, Τρίπολη +30 2711 71 71 71 +30 6987 484 333 [email protected] Η Εταιρεία Ποίοι είμαστε Είπαν για εμάς Ο Χώρος μας Online Ραντεβού Υπηρεσίες Θεραπείες Προσώπου Θεραπείες Σώματος Κλινική Δερματολογία Θεραπείες Αποτρίχωσης Ημιμόνιμο μακιγιάζ HPV - Κονδυλώματα Γυναικολογία Πλαστική Χειρουργική Θεραπείες Μαλλιών Ακολούθησε μας Instagram Facebook TikTok Youtube LinkedIn Πληροφορίες Νέα Πολιτική Απορρήτου Όροι Χρήσης Copyright © 2026 Facemed Clinic Δημιουργήθηκε από Top Medical Το περιεχόμενο των ιστοσελίδων του παρόντος διαδικτυακού ιστότοπου δεν αποτελεί και δεν μπορεί να εκληφθεί ως ιατρική συμβουλή, διάγνωση, θεραπεία ή υπόδειξη. Όλες οι πληροφορίες παρέχονται αποκλειστικά και μόνο για ενημερωτικούς σκοπούς. Δεν υπάρχει καμία πρόθεση το περιεχόμενο αυτό να υποκαταστήσει την εξατομικευμένη ιατρική συμβουλή, διάγνωση, πρόγνωση ή θεραπεία. Πολιτική Περιεχομένου .banner-image-espa { max-width: 100%; /* Makes the image responsive */ height: auto; /* Maintains aspect ratio */ width: 700px; /* Reduced from original 1956px but still wide enough to be legible */ display: block; /* Removes any extra spacing below the image */ margin: 8px auto; /* Centers the image with minimal spacing */ opacity: 0.95; /* Very slight opacity reduction */ border-radius: 4px; /* Slightly rounded corners */ } /* For smaller screens */ @media (max-width: 850px) { .banner-image-espa { width: 95%; /* Use percentage on smaller screens */ } } search cross .banner-image-espa { max-width: 100%; /* Makes the image responsive */ height: auto; /* Maintains aspect ratio */ width: 700px; /* Reduced from original 1956px but still wide enough to be legible */ display: block; /* Removes any extra spacing below the image */ margin: 8px auto; /* Centers the image with minimal spacing */ opacity: 0.95; /* Very slight opacity reduction */ border-radius: 4px; /* Slightly rounded corners */ } /* For smaller screens */ @media (max-width: 850px) { .banner-image-espa { width: 95%; /* Use percentage on smaller screens */ } } .v-application--wrap { background-color: rgb(248, 248, 255) !important; } @font-face { font-family: FacemedNeue; src: url('/assets/css/FacemedNeue.woff') format('woff'); font-display: block } .f__font { font-family: FacemedNeue; } .theme--light.v-tabs-items { background: transparent !important; } .v-application--wrap { min-height: auto !important; } .v-application--wrap { min-height: auto !important; } .v-overlay { z-index: 200 !important; } @media (min-width: 767px) { body::-webkit-scrollbar { width: 8px; cursor: pointer; } body::-webkit-scrollbar-track { box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); } body::-webkit-scrollbar-thumb { background-color: #fc5856; } } $(function() { var loading = true; window.onload = (e) => { loading = false; doneLoad() } setTimeout(() => { if(loading) { // gsap.to('.__close', { // opacity: 1, // autoAlpha: 1 // }) doneLoad() } }, 3000) $('#load__close').on('click', () => { doneLoad() }) gsap.set('html, body', { overflowY: 'hidden' }) function doneLoad() { gsap.timeline() .set('html, body', { overflowY: 'unset' }) .set('#app', { visibility: 'visible', }) .add('do') .to('.turbo__lines', { stagger: .3, height: '0%' }) .to('.turbo__logo, .__loader', { duration: .3, opacity: 0 }, 'do') .to('.turbo__loader', { visibility: 'hidden' }) .set('.turbo__logo, __loader', { visibility: 'hidden' }) } }); .__close { position: absolute; right: 20px; top: 20px; color: white; border-radius: 50%; border: 1px solid #fff; z-index: 100; width: 30px; height: 30px; display: grid; align-items: center; justify-content: center; visibility: hidden; opacity: 0; cursor: pointer; } .lds-ellipsis { display: inline-block; position: relative; width: 80px; height: 80px; position: absolute; left: 0; right: 0; margin: 0 auto; z-index: 100; top: 55%; } .lds-ellipsis div { position: absolute; top: 33px; width: 13px; height: 13px; border-radius: 50%; background: #fff; animation-timing-function: cubic-bezier(0, 1, 1, 0); } .lds-ellipsis div:nth-child(1) { left: 8px; animation: lds-ellipsis1 0.6s infinite; } .lds-ellipsis div:nth-child(2) { left: 8px; animation: lds-ellipsis2 0.6s infinite; } .lds-ellipsis div:nth-child(3) { left: 32px; animation: lds-ellipsis2 0.6s infinite; } .lds-ellipsis div:nth-child(4) { left: 56px; animation: lds-ellipsis3 0.6s infinite; } @keyframes lds-ellipsis1 { 0% { transform: scale(0); } 100% { transform: scale(1); } } @keyframes lds-ellipsis3 { 0% { transform: scale(1); } 100% { transform: scale(0); } } @keyframes lds-ellipsis2 { 0% { transform: translate(0, 0); } 100% { transform: translate(24px, 0); } } .turbo__logo { width: 500px; height: 200px; z-index: 999; } #app { visibility: hidden; } .__left { position: absolute; left: 0%; background: #000; width: 50%; height: 100%; transform: translate(0%, 0%); top: 0; }.__right { position: absolute; left: 50%; background: #000; width: 50%; height: 100%; transform: translate(0%, 0%); top: 0; } /* ##Device = Most of the Smartphones Mobiles (Portrait) ##Screen = B/w 320px to 479px */ @media (min-width: 320px) and (max-width: 767px) { .turbo__logo { width: 300px; } }",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/facemed.gr-home-2ee2a40f/about-about-63c5d62d.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/facemed.gr-home-2ee2a40f/about-about-63c5d62d.txt",
+      "imageReferences": [
+        {
+          "url": "https://facemed.gr/assets/images/meta_image.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://facemed.gr/about",
+          "pageType": "about",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://facemed.gr/about",
+              "retrievedAt": "2026-03-31T13:15:49.969Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/logo.svg",
+          "alt": "Facemed Logo Icon",
+          "sourcePageUrl": "https://facemed.gr/about",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/about",
+              "retrievedAt": "2026-03-31T13:15:49.969Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/icons/arrow.svg",
+          "alt": "Book Arrow Icon",
+          "sourcePageUrl": "https://facemed.gr/about",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/about",
+              "retrievedAt": "2026-03-31T13:15:49.969Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/logo-white.svg",
+          "alt": "Facemed Logo Icon",
+          "sourcePageUrl": "https://facemed.gr/about",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/about",
+              "retrievedAt": "2026-03-31T13:15:49.969Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/icons/phone.svg",
+          "alt": "Phone Icon",
+          "sourcePageUrl": "https://facemed.gr/about",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/about",
+              "retrievedAt": "2026-03-31T13:15:49.969Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/espa/antagonistikotitaframeEL.jpg",
+          "alt": "Banner Image",
+          "sourcePageUrl": "https://facemed.gr/about",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/about",
+              "retrievedAt": "2026-03-31T13:15:49.969Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/core/public/images/places/athens/IMG_2602.JPG",
+          "sourcePageUrl": "https://facemed.gr/about",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/about",
+              "retrievedAt": "2026-03-31T13:15:49.969Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/core/public/images/places/athens/IMG_2596.JPG",
+          "alt": "Office image",
+          "sourcePageUrl": "https://facemed.gr/about",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/about",
+              "retrievedAt": "2026-03-31T13:15:49.969Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/images/vision.png",
+          "sourcePageUrl": "https://facemed.gr/about",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/about",
+              "retrievedAt": "2026-03-31T13:15:49.969Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/icons/prev.svg",
+          "sourcePageUrl": "https://facemed.gr/about",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/about",
+              "retrievedAt": "2026-03-31T13:15:49.969Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/icons/next.svg",
+          "sourcePageUrl": "https://facemed.gr/about",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/about",
+              "retrievedAt": "2026-03-31T13:15:49.969Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.fra1.digitaloceanspaces.com/members/March2020/67pNJrZx98S1Kq7Janxd.jpg",
+          "alt": "Dr. Loizidis Christoforos",
+          "sourcePageUrl": "https://facemed.gr/about",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/about",
+              "retrievedAt": "2026-03-31T13:15:49.969Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page fetch",
+          "uri": "https://facemed.gr/about",
+          "retrievedAt": "2026-03-31T13:15:49.971Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "https://facemed.gr/a/eyecon-therapy",
+      "finalUrl": "https://facemed.gr/a/eyecon-therapy",
+      "fetchedAt": "2026-03-31T13:15:51.652Z",
+      "metadata": {
+        "title": "Μαύροι Κύκλοι, Ρυτίδες & Σακούλες κάτω απο τα Μάτια ΤΕΛΟΣ!searchcross",
+        "metaDescription": "Η Eyecon Therapy αποτελεί μία ολοκληρωμένη θεραπεία ματιών. Αντιμετωπίζονται δραστικάοι μαύροι κύκλοι, οι σακούλες κάτω από τα μάτια & οι ρυτίδες ματιών.",
+        "canonicalUrl": "https://facemed.gr/a/eyecon-therapy",
+        "language": "el",
+        "openGraphTitle": "Μαύροι Κύκλοι, Ρυτίδες & Σακούλες κάτω απο τα Μάτια ΤΕΛΟΣ!",
+        "openGraphDescription": "Η Eyecon Therapy αποτελεί μία ολοκληρωμένη θεραπεία ματιών. Αντιμετωπίζονται δραστικάοι μαύροι κύκλοι, οι σακούλες κάτω από τα μάτια & οι ρυτίδες ματιών.",
+        "openGraphImage": "https://facemed.fra1.digitaloceanspaces.com/uploads/1194438899.jpeg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Μαύροι Κύκλοι, Ρυτίδες & Σακούλες κάτω απο τα Μάτια ΤΕΛΟΣ!"
+        },
+        {
+          "level": "h2",
+          "text": "Μαύροι Κύκλοι στα Μάτια: Πως φεύγουν & Τιμή θεραπείας"
+        },
+        {
+          "level": "h2",
+          "text": "Φωτογραφίες Πριν και Μετά την Θεραπεία για Μαύρους Κύκλους"
+        },
+        {
+          "level": "h2",
+          "text": "Τι είναι η θεραπεία για μαύρους κύκλους Eyecon;"
+        },
+        {
+          "level": "h2",
+          "text": "Διαδικασία Θεραπείας"
+        },
+        {
+          "level": "h2",
+          "text": "Συμπέρασμα"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://facemed.gr/"
+        },
+        {
+          "href": "https://facemed.gr/book?category=82",
+          "label": "ΚΛΕΙΣΕ ΡΑΝΤΕΒΟΥ"
+        },
+        {
+          "href": "https://facemed.gr/assets/espa/poster_A3.pdf"
+        },
+        {
+          "href": "https://facemed.gr/c/therapeies-prosopou",
+          "label": "Θεραπείες Προσώπου"
+        },
+        {
+          "href": "https://facemed.gr/a/eyecon-therapy",
+          "label": "Θεραπεία για Μαύρους Κύκλους Eyecon"
+        },
+        {
+          "href": "https://facemed.gr/cdn-cgi/l/email-protection#fc95929a93bc9a9d9f99919998d29b8e",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://facemed.gr/cdn-cgi/l/email-protection#5d34333b321d3b3c3e38303839733a2f",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://facemed.gr/cdn-cgi/l/email-protection#e68f888089a6808785838b8382c88194",
+          "label": "[email protected]"
+        },
+        {
+          "href": "https://facemed.gr/about",
+          "label": "Ποίοι είμαστε"
+        },
+        {
+          "href": "https://facemed.gr/kritikes-testimonials",
+          "label": "Είπαν για εμάς"
+        },
+        {
+          "href": "https://facemed.gr/book",
+          "label": "Online Ραντεβού"
+        },
+        {
+          "href": "https://facemed.gr/c/therapeies-somatos",
+          "label": "Θεραπείες Σώματος"
+        },
+        {
+          "href": "https://facemed.gr/c/klinikh-dermatologia",
+          "label": "Κλινική Δερματολογία"
+        },
+        {
+          "href": "https://facemed.gr/c/therapeies-apotrixosis",
+          "label": "Θεραπείες Αποτρίχωσης"
+        },
+        {
+          "href": "https://facemed.gr/c/aisthitiko-imimonimo-makigiaz",
+          "label": "Ημιμόνιμο μακιγιάζ"
+        },
+        {
+          "href": "https://facemed.gr/c/therapeies-hpv",
+          "label": "HPV - Κονδυλώματα"
+        },
+        {
+          "href": "https://facemed.gr/c/gynaikologia",
+          "label": "Γυναικολογία"
+        },
+        {
+          "href": "https://facemed.gr/c/plastiki-xeirourgiki",
+          "label": "Πλαστική Χειρουργική"
+        },
+        {
+          "href": "https://facemed.gr/c/therapeies-mallion",
+          "label": "Θεραπείες Μαλλιών"
+        },
+        {
+          "href": "https://facemed.gr/blog",
+          "label": "Νέα"
+        },
+        {
+          "href": "https://facemed.gr/p/privacy-policy",
+          "label": "Πολιτική Απορρήτου"
+        },
+        {
+          "href": "https://facemed.gr/p/terms-of-use",
+          "label": "Όροι Χρήσης"
+        },
+        {
+          "href": "https://facemed.gr/p/politikh-periexomenoy",
+          "label": "Πολιτική Περιεχομένου"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "+30 210 69 29 999",
+          "+30 6947 195 333",
+          "+30 210 60 47 777",
+          "+30 6977 855 000",
+          "+30 2711 71 71 71",
+          "+30 6987 484 333"
+        ],
+        "emails": [],
+        "addresses": [
+          "Αμπελόκηποι Αργολίδος 2, Αθήνα +30 210 69 29 999 +30 6947 195 333 [email protected] Γέρακας Θεσσαλονίκης 14, Γέρακας +30 210 60 47 777 +30 6977 855 000 [email protected] Τρίπολη Δήμητρος 64, Τρίπολη +30 2711 71 71 71 +30 6987 484 333 [email protected] Η Εταιρεία Ποίοι είμαστε Είπαν για εμάς Ο Χώρος μας Online Ραντεβού Υπηρεσίες Θεραπείες Προσώπου Θεραπείες Σώματος Κλινική Δερματολογία Θεραπείες Αποτρίχωσης Ημιμόνιμο μακιγιάζ HPV - Κονδυλώματα Γυναικολογία Πλαστική Χειρουργική Θεραπείες Μαλλιών Ακολούθησε μας Instagram Facebook TikTok Youtube LinkedIn Πληροφορίες Νέα Πολιτική Απορρήτου Όροι Χρήσης Copyright © 2026 Facemed Clinic Δημιουργήθηκε από Top Medical Το περιεχόμενο των ιστοσελίδων του παρόντος διαδικτυακού ιστότοπου δεν αποτελεί και δεν μπορεί να εκληφθεί ως ιατρική συμβουλή, διάγνωση, θεραπεία ή υπόδειξη. Όλες οι πληροφορίες παρέχονται αποκλειστικά και μόνο για ενημερωτικούς σκοπούς. Δεν υπάρχει καμία πρόθεση το περιεχόμενο αυτό να υποκαταστήσει την εξατομικευμένη ιατρική συμβουλή, διάγνωση, πρόγνωση ή θεραπεία. Πολιτική Περιεχομένου"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.instagram.com/facemedclinic/",
+            "label": "Instagram"
+          },
+          {
+            "href": "https://www.facebook.com/facemedgr",
+            "label": "Facebook"
+          },
+          {
+            "href": "https://www.tiktok.com/@facemedclinic",
+            "label": "TikTok"
+          },
+          {
+            "href": "https://www.youtube.com/@facemedclinic",
+            "label": "Youtube"
+          },
+          {
+            "href": "https://www.linkedin.com/company/facemed-clinic/",
+            "label": "LinkedIn"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "Αμπελόκηποι Αργολίδος 2, Αθήνα +30 210 69 29 999 +30 6947 195 333 [email protected] Γέρακας Θεσσαλονίκης 14, Γέρακας +30 210 60 47 777 +30 6977 855 000 [email protected] Τρίπολη Δήμητρος 64, Τρίπολη +30 2711 71 71 71 +30 6987 484 333 [email protected] Η Εταιρεία Ποίοι είμαστε Είπαν για εμάς Ο Χώρος μας Online Ραντεβού Υπηρεσίες Θεραπείες Προσώπου Θεραπείες Σώματος Κλινική Δερματολογία Θεραπείες Αποτρίχωσης Ημιμόνιμο μακιγιάζ HPV - Κονδυλώματα Γυναικολογία Πλαστική Χειρουργική Θεραπείες Μαλλιών Ακολούθησε μας Instagram Facebook TikTok Youtube LinkedIn Πληροφορίες Νέα Πολιτική Απορρήτου Όροι Χρήσης Copyright © 2026 Facemed Clinic Δημιουργήθηκε από Top Medical Το περιεχόμενο των ιστοσελίδων του παρόντος διαδικτυακού ιστότοπου δεν αποτελεί και δεν μπορεί να εκληφθεί ως ιατρική συμβουλή, διάγνωση, θεραπεία ή υπόδειξη. Όλες οι πληροφορίες παρέχονται αποκλειστικά και μόνο για ενημερωτικούς σκοπούς. Δεν υπάρχει καμία πρόθεση το περιεχόμενο αυτό να υποκαταστήσει την εξατομικευμένη ιατρική συμβουλή, διάγνωση, πρόγνωση ή θεραπεία. Πολιτική Περιεχομένου",
+      "textContent": "function gtmPush() { } addEventListener(\"load\", gtmPush); <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PZPJNV3\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\" ></iframe> ΚΛΕΙΣΕ ΡΑΝΤΕΒΟΥ Αρχική Θεραπείες Προσώπου Θεραπεία για Μαύρους Κύκλους Eyecon Μαύροι Κύκλοι, Ρυτίδες & Σακούλες κάτω απο τα Μάτια ΤΕΛΟΣ! Μαύροι Κύκλοι στα Μάτια: Πως φεύγουν & Τιμή θεραπείας Φωτογραφίες Πριν και Μετά την Θεραπεία για Μαύρους ΚύκλουςΤι είναι η θεραπεία για μαύρους κύκλους Eyecon;Η Eyecon είναι μια θεραπεία ματιών η οποία συνδυάζει επιφανειακή και βαθιά αντιμετώπιση των προβλημάτων στην περιοχή των ματιών.Χάρη στην δράση της αποτελεί μία ολοκληρωμένη θεραπεία ματιών, καθώς αντιμετωπίζονται παράλληλα και αποτελεσματικά οι μαύροι κύκλοι, οι σακούλες κάτω από τα μάτια και οι ρυτίδες των ματιών (πόδι της χήνας). Με τη διαδικασία του peeling που αποτελεί μέρος της θεραπείας βελτιώνονται οι επιδερμικές επιφανειακές βλάβες, όπως υπερμελαγχρώσεις, μαύροι κύκλοι και ρυτίδες (πόδι της χήνας), ενώ με την διαδικασία της μεσοθεραπείας βελτιώνονται οι εσωτερικές βλάβες όπως η κατακράτηση υγρών (σακούλες κάτω από τα μάτια) και η υπερμελάγχρωση στο χώριο όπως οι πανάδες.Για το μέγιστο δυνατό αποτέλεσμα είναι ιδανικό να πραγματοποιηθούν 4 συνεδρίες με μεσοδιάστημα 15-20 ημερών.Διαδικασία Θεραπείας1ο ΒήμαΓίνεται ένας γενικός καθαρισμός και ντεμακιγιάζ στην περιοχή των ματιών.2ο ΒήμαΎστερα από τον καθαρισμό απλώνεται το ειδικό peel με δύο εμποτισμένες μπατονέτες, ξεκινώντας απο το κάτω βλέφαρο και καταλήγοντας στο κινητό άνω βλέφαρο. Η ίδια διαδικασία πραγματοποιείται και στο άλλο μάτι.3ο ΒήμαΠραγματοποιείται ένα δεύτερο πέρασμα του peel και ένα τρίτο άν υπάρχει η ανοχή από τον ασθενή. Το peel αφήνεται 5 λεπτά το μέγιστο στην επιφάνεια της επιδερμίδας και καθ' όλη την διάρκεια της θεραπείας υπάρχει ένα ανεμηστηράκι που δίνεται στον ασθενή για την ελαχιστοποίηση των ενοχλήσεων.4ο ΒήμαΜε μία γάζα εμποτισμένη με το neutralizing spray εξουδετερώνεται το peel και στη συνέχεια πραγματοποιείται ένα πέρασμα με μία γάζα εμποτισμένη με κρύο νερό.5ο ΒήμαΕφαρμόζεται το υλικό της μεσοθεραπείας στην περιοχή των ματιών και με το ειδικό m.pen δουλεύονται η αντίστοιχες περιοχές μέχρι να απορροφηθεί τελείως το υλικό.6ο ΒήμαΤέλος εφαρμόζεται η crystal fiber eye mask για 5-10 λεπτά για να αποροφηθεί το μεγαλύτερο τμήμα του ερεθισμού που μπορεί δικαιολογημένα να προκύψει στην περιοχή.« Η θεραπεία για μαύρους κύκλους Eyecon μπορεί να γίνει συνδυαστικά με την μεσοθεραπεία ματιών ή στο πλαίσιο συντήρηση της »ΣυμπέρασμαΗ θεραπεία για μαύρους Eyecon προσφέρει μια ολοκληρωμένη και αποτελεσματική λύση αν θέλεις να αντιμετωπίσεις τους μαύρους κύκλους, τις σακούλες και τις ρυτίδες γύρω από τα μάτια. Συνδυάζοντας την επιφανειακή δράση του peeling με τη βαθύτερη δράση της μεσοθεραπείας, η Eyecon στοχεύει τόσο στις επιφανειακές όσο και στις βαθύτερες αιτίες που προκαλούν αυτά τα προβλήματα. Με μια διαδικασία απλή που έχει ελάχιστη ενόχληση, το βλέμμα σου ανακτά τη χαμένη του φωτεινότητα και νεανικότητα. Αν ψάχνεις μια σύγχρονη και αποδεδειγμένη θεραπεία που θα ανανεώσει ουσιαστικά την εικόνα των ματιών σου, η Eyecon είναι η ιδανική επιλογή για σένα. Κλείσε το ραντεβού σου στη Facemed Clinic και ανανέωσε το βλέμμα σου. try { $(function() { $(\".res-image-container img\").each(function(){ if (!$(this).closest(\".rounded-image-con\").length && !$(this).closest('.res-image-container').hasClass('link-image')) { if($(this).closest('.swiper-slide').length) { $(this).wrap(\"<a class='fancybox' data-fancybox='\"+$(this).closest('.swiper-container').attr('title')+\"' href='\"+$(this).attr('src')+\"'></a>\"); } else { $(this).wrap(\"<a class='fancybox' data-fancybox href='\"+$(this).attr('src')+\"'></a>\"); } if($(this).closest('.masked').length) { $(this).before(\"<p class='masked-text'>Κάνε κλικ εδώ για να δεις την φωτογραφία</p>\"); } } }); setTimeout(() => { var container = $('.gallery-container'); container.each(function () { $(this).attr('title', $('.service__title').text()) }); }, 200) }) } catch(er) { } Αμπελόκηποι Αργολίδος 2, Αθήνα +30 210 69 29 999 +30 6947 195 333 [email protected] Γέρακας Θεσσαλονίκης 14, Γέρακας +30 210 60 47 777 +30 6977 855 000 [email protected] Τρίπολη Δήμητρος 64, Τρίπολη +30 2711 71 71 71 +30 6987 484 333 [email protected] Η Εταιρεία Ποίοι είμαστε Είπαν για εμάς Ο Χώρος μας Online Ραντεβού Υπηρεσίες Θεραπείες Προσώπου Θεραπείες Σώματος Κλινική Δερματολογία Θεραπείες Αποτρίχωσης Ημιμόνιμο μακιγιάζ HPV - Κονδυλώματα Γυναικολογία Πλαστική Χειρουργική Θεραπείες Μαλλιών Ακολούθησε μας Instagram Facebook TikTok Youtube LinkedIn Πληροφορίες Νέα Πολιτική Απορρήτου Όροι Χρήσης Copyright © 2026 Facemed Clinic Δημιουργήθηκε από Top Medical Το περιεχόμενο των ιστοσελίδων του παρόντος διαδικτυακού ιστότοπου δεν αποτελεί και δεν μπορεί να εκληφθεί ως ιατρική συμβουλή, διάγνωση, θεραπεία ή υπόδειξη. Όλες οι πληροφορίες παρέχονται αποκλειστικά και μόνο για ενημερωτικούς σκοπούς. Δεν υπάρχει καμία πρόθεση το περιεχόμενο αυτό να υποκαταστήσει την εξατομικευμένη ιατρική συμβουλή, διάγνωση, πρόγνωση ή θεραπεία. Πολιτική Περιεχομένου .banner-image-espa { max-width: 100%; /* Makes the image responsive */ height: auto; /* Maintains aspect ratio */ width: 700px; /* Reduced from original 1956px but still wide enough to be legible */ display: block; /* Removes any extra spacing below the image */ margin: 8px auto; /* Centers the image with minimal spacing */ opacity: 0.95; /* Very slight opacity reduction */ border-radius: 4px; /* Slightly rounded corners */ } /* For smaller screens */ @media (max-width: 850px) { .banner-image-espa { width: 95%; /* Use percentage on smaller screens */ } } search cross * { box-sizing: border-box; } body {margin: 0;} /* Βασικά styles για video container - διατηρούν σωστό width μετά το save */ .res-video-container { width: 100%; position: relative; overflow: hidden; } .res-video-container::before { content: \"\"; display: block; padding-bottom: 56.25%; /* 16:9 aspect ratio */ } .res-video-container video, .res-video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: contain; } .masked { filter: blur(10px); } .masked::before { border: 1px solid #000; content: ''; } .masked-text { font-size: 20px !important; position: absolute; color: white !important; text-align: center; z-index: 9999; margin: auto !important; justify-content: center; top: 0; left: 0; bottom: 0; right: 0; display: flex; align-items: center; } .thumbnail__img { object-fit: cover; height: calc(10vw + 30vh); width: 100%; } body, html { -webkit-overflow-scrolling: touch; } .swiper-pointer-events { overflow: hidden; } .service__font { font-family: \"Nunito\", sans-serif !important; font-size: 18px; } .list-inline-item:after { content: \"-\"; display: inline-block; margin-left: 1rem; vertical-align: middle; position: relative; } .list-inline-item:last-child:after { content: \"\"; } .list-inline-item:last-child > a { color: #000; font-weight: 800; } .bread-text { color: #000; font-weight: 600; } .bread-col { white-space: nowrap; overflow: auto; margin-bottom: 40px; } .bread-col::-webkit-scrollbar { height: 3px; } /* Track */ .bread-col::-webkit-scrollbar-track { background: #f1f1f1; } /* Handle */ .bread-col::-webkit-scrollbar-thumb { background: #888; } /* Handle on hover */ .bread-col::-webkit-scrollbar-thumb:hover { background: #555; } .bibliography-block > h2:after { content: \"\\002B\"; } .bibliography-block > h2 { background: rgb(56, 56, 56); color: #fff; display: flex; justify-content: space-between; padding: 10px; } .bibliography-block .text-in { max-height: 0; overflow: hidden; transition: max-height 0.2s ease-out; } .bibliography-block { cursor: pointer; } /* Style the button that is used to open and close the collapsible content */ .faq-block-question { cursor: pointer; padding: 8px; width: 100%; border: none; text-align: left; outline: none; transition: .2s ease-in-out; background-color: rgb(56, 56, 56); backdrop-filter: blur( 4px ); -webkit-backdrop-filter: blur( 4px ); color: white; border-radius: 5px; } .faq_active:after { content: \"\\2212\" !important; /* Unicode character for \"minus\" sign (-) */ } /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */ .faq_active, .faq-block-question:hover { transition: .2s ease-in-out; background-color: #fc5856; } /* Style the collapsible content. Note: hidden by default */ .faq-block-answer { overflow: hidden; transition: max-height 0.2s ease-out; max-height: 0; } .readCol:hover { background: white; border-bottom: white; transition: .3s ease-in-out; } .readCol:hover > h5 { color: #fc5856; } .readCol:hover > i { color: #fc5856; } .author-contact { font-weight: 600; } .phone-icon { border-radius: 50%; padding: 10px; box-shadow: 0px 4px 19px -9px rgb(0 0 0 / 75%); margin-right: 10px; color: #000; } .readText { font-weight: bold; margin: 0; color: #000; } .doc-contact { place-content: flex-end; place-items: center; } .service__title { margin-top: 10px; } @media (max-width: 765px) { .doc-contact { place-content: center; place-items: center; } .service__title { font-size: 32px; } } .authornotes-block h4 { font-size: 23px; font-weight: 600; margin: 0 0 15px 0; color: #000; } .authornotes-block h4:after { margin-top: 15px; content: \"\"; display: block; height: 2px; width: 100%; background: #000; } .docspecialty { font-weight: 600; color: #000; white-space: nowrap; } .swiper-wrapper { height: auto !important; margin-bottom: 30px !important; } .res-gallery-container .swiper-button-next, .res-gallery-container .swiper-button-prev, .services-carousel .swiper-button-next, .services-carousel .swiper-button-prev { background-color: white !important; font-size: 16px !important; box-shadow: 0px 0px 11px -2px rgb(0 0 0 / 26%); color: #000 !important; } /* hr { height: 7px !important; background: rgb(248, 248, 255) !important; } */ .border-block h2 { color: #000; } .menuText { color: grey; } .border-block .text-in a, .simple-block .text-in a, .simple-block a.link { color: #000; } .bgcolor-block { position: relative; z-index: 10; } .bgcolor-block:before { background-color: #fc5856 !important; } .bgcolor-block:after { background-color: #fc5856 !important; } ul.item-list li:before { color: #000; } .row-cell h3 { color: #000; } .service-member-title a { color: #000; } .text-in a, .flex-box-col a, .item-list a { color: #000; } .bgcolor-block a{ color:#111; text-decoration:underline; } .large-text { font-size: 23px; margin-bottom: 10px; } .cta-button { background: linear-gradient(rgb(248, 248, 255) -30%, #fc5856 50%); box-shadow: 0 3px 1px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%); color:#fff; } .backToService { animation: scale 2s infinite; -webkit-animation: scale 2s infinite; -moz-animation: scale 2s infinite; -o-animation: scale 2s infinite; } .price-header { background-color: #000; color: #fff; border-radius: 10px 10px 0px 0px; } .price-subheader { background-color: #000; color: #fff; filter: sepia(0.3); } .price-container { max-width: 800px !important; } .price-title { font-size: 22px; } .banner-image-espa { max-width: 100%; /* Makes the image responsive */ height: auto; /* Maintains aspect ratio */ width: 700px; /* Reduced from original 1956px but still wide enough to be legible */ display: block; /* Removes any extra spacing below the image */ margin: 8px auto; /* Centers the image with minimal spacing */ opacity: 0.95; /* Very slight opacity reduction */ border-radius: 4px; /* Slightly rounded corners */ } /* For smaller screens */ @media (max-width: 850px) { .banner-image-espa { width: 95%; /* Use percentage on smaller screens */ } } .v-application--wrap { background-color: rgb(248, 248, 255) !important; } @font-face { font-family: FacemedNeue; src: url('/assets/css/FacemedNeue.woff') format('woff'); font-display: block } .f__font { font-family: FacemedNeue; } .theme--light.v-tabs-items { background: transparent !important; } .v-application--wrap { min-height: auto !important; } .v-application--wrap { min-height: auto !important; } .v-overlay { z-index: 200 !important; } @media (min-width: 767px) { body::-webkit-scrollbar { width: 8px; cursor: pointer; } body::-webkit-scrollbar-track { box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); } body::-webkit-scrollbar-thumb { background-color: #fc5856; } } $(function() { var loading = true; window.onload = (e) => { loading = false; doneLoad() } setTimeout(() => { if(loading) { // gsap.to('.__close', { // opacity: 1, // autoAlpha: 1 // }) doneLoad() } }, 3000) $('#load__close').on('click', () => { doneLoad() }) gsap.set('html, body', { overflowY: 'hidden' }) function doneLoad() { gsap.timeline() .set('html, body', { overflowY: 'unset' }) .set('#app', { visibility: 'visible', }) .add('do') .to('.turbo__lines', { stagger: .3, height: '0%' }) .to('.turbo__logo, .__loader', { duration: .3, opacity: 0 }, 'do') .to('.turbo__loader', { visibility: 'hidden' }) .set('.turbo__logo, __loader', { visibility: 'hidden' }) } }); .__close { position: absolute; right: 20px; top: 20px; color: white; border-radius: 50%; border: 1px solid #fff; z-index: 100; width: 30px; height: 30px; display: grid; align-items: center; justify-content: center; visibility: hidden; opacity: 0; cursor: pointer; } .lds-ellipsis { display: inline-block; position: relative; width: 80px; height: 80px; position: absolute; left: 0; right: 0; margin: 0 auto; z-index: 100; top: 55%; } .lds-ellipsis div { position: absolute; top: 33px; width: 13px; height: 13px; border-radius: 50%; background: #fff; animation-timing-function: cubic-bezier(0, 1, 1, 0); } .lds-ellipsis div:nth-child(1) { left: 8px; animation: lds-ellipsis1 0.6s infinite; } .lds-ellipsis div:nth-child(2) { left: 8px; animation: lds-ellipsis2 0.6s infinite; } .lds-ellipsis div:nth-child(3) { left: 32px; animation: lds-ellipsis2 0.6s infinite; } .lds-ellipsis div:nth-child(4) { left: 56px; animation: lds-ellipsis3 0.6s infinite; } @keyframes lds-ellipsis1 { 0% { transform: scale(0); } 100% { transform: scale(1); } } @keyframes lds-ellipsis3 { 0% { transform: scale(1); } 100% { transform: scale(0); } } @keyframes lds-ellipsis2 { 0% { transform: translate(0, 0); } 100% { transform: translate(24px, 0); } } .turbo__logo { width: 500px; height: 200px; z-index: 999; } #app { visibility: hidden; } .__left { position: absolute; left: 0%; background: #000; width: 50%; height: 100%; transform: translate(0%, 0%); top: 0; }.__right { position: absolute; left: 50%; background: #000; width: 50%; height: 100%; transform: translate(0%, 0%); top: 0; } /* ##Device = Most of the Smartphones Mobiles (Portrait) ##Screen = B/w 320px to 479px */ @media (min-width: 320px) and (max-width: 767px) { .turbo__logo { width: 300px; } }",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/facemed.gr-home-2ee2a40f/services-a-eyecon-therapy-03d07101.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/facemed.gr-home-2ee2a40f/services-a-eyecon-therapy-03d07101.txt",
+      "imageReferences": [
+        {
+          "url": "https://facemed.fra1.digitaloceanspaces.com/uploads/1194438899.jpeg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+          "pageType": "services",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://facemed.gr/a/eyecon-therapy",
+              "retrievedAt": "2026-03-31T13:15:51.650Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/logo.svg",
+          "alt": "Facemed Logo Icon",
+          "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/a/eyecon-therapy",
+              "retrievedAt": "2026-03-31T13:15:51.650Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/icons/arrow.svg",
+          "alt": "Book Arrow Icon",
+          "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/a/eyecon-therapy",
+              "retrievedAt": "2026-03-31T13:15:51.650Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/logo-white.svg",
+          "alt": "Facemed Logo Icon",
+          "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/a/eyecon-therapy",
+              "retrievedAt": "2026-03-31T13:15:51.650Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/icons/phone.svg",
+          "alt": "Phone Icon",
+          "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/a/eyecon-therapy",
+              "retrievedAt": "2026-03-31T13:15:51.650Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.gr/assets/espa/antagonistikotitaframeEL.jpg",
+          "alt": "Banner Image",
+          "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/a/eyecon-therapy",
+              "retrievedAt": "2026-03-31T13:15:51.650Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.fra1.digitaloceanspaces.com/grapejs/IMG_1588.JPG",
+          "alt": "Θεραπεία για μαύρους κύκλους",
+          "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/a/eyecon-therapy",
+              "retrievedAt": "2026-03-31T13:15:51.650Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.fra1.digitaloceanspaces.com/grapejs/IMG_1520.JPG",
+          "alt": "αντιμετώπιση διαφημί",
+          "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/a/eyecon-therapy",
+              "retrievedAt": "2026-03-31T13:15:51.650Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.fra1.digitaloceanspaces.com/grapejs/IMG_6690.JPG",
+          "alt": "Θεραπεία για μαύρους κύκλους",
+          "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/a/eyecon-therapy",
+              "retrievedAt": "2026-03-31T13:15:51.650Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.fra1.digitaloceanspaces.com/grapejs/Eye%2Btreatment%2BMalvern.png",
+          "alt": "Πως φεύγουν οι μαύροι κύκλοι",
+          "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/a/eyecon-therapy",
+              "retrievedAt": "2026-03-31T13:15:51.650Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.fra1.digitaloceanspaces.com/grapejs/t-peye0001_global_eyecon_pack-ps%20%281%29.png",
+          "alt": "Eyecon Therapy: Τέλος οι μαυροι κυκλοι",
+          "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/a/eyecon-therapy",
+              "retrievedAt": "2026-03-31T13:15:51.650Z"
+            }
+          ]
+        },
+        {
+          "url": "https://facemed.fra1.digitaloceanspaces.com/services/Vectors%202/Quick-tip.jpg",
+          "alt": "« Η Eyecon είναι μια θεραπεία η οποία μπορεί να γίνει συνδυαστικά με την μεσοθεραπεία ματιών ή στο πλαίσιο συντήρηση της »",
+          "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://facemed.gr/a/eyecon-therapy",
+              "retrievedAt": "2026-03-31T13:15:51.650Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://facemed.gr/a/eyecon-therapy",
+          "retrievedAt": "2026-03-31T13:15:51.652Z"
+        }
+      ],
+      "statusCode": 200
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "+30 210 69 29 999",
+      "+30 6947 195 333",
+      "+30 210 60 47 777",
+      "+30 6977 855 000",
+      "+30 2711 71 71 71",
+      "+30 6987 484 333",
+      "2015 2015"
+    ],
+    "emails": [
+      "info@facemed.gr",
+      "ptzonis@facemed.gr"
+    ],
+    "addresses": [
+      "Αμπελόκηποι Αργολίδος 2, Αθήνα +30 210 69 29 999 +30 6947 195 333 [email protected] Γέρακας Θεσσαλονίκης 14, Γέρακας +30 210 60 47 777 +30 6977 855 000 [email protected] Τρίπολη Δήμητρος 64, Τρίπολη +30 2711 71 71 71 +30 6987 484 333 [email protected] Η Εταιρεία Ποίοι είμαστε Είπαν για εμάς Ο Χώρος μας Online Ραντεβού Υπηρεσίες Θεραπείες Προσώπου Θεραπείες Σώματος Κλινική Δερματολογία Θεραπείες Αποτρίχωσης Ημιμόνιμο μακιγιάζ HPV - Κονδυλώματα Γυναικολογία Πλαστική Χειρουργική Θεραπείες Μαλλιών Ακολούθησε μας Instagram Facebook TikTok Youtube LinkedIn Πληροφορίες Νέα Πολιτική Απορρήτου Όροι Χρήσης Copyright © 2026 Facemed Clinic Δημιουργήθηκε από Top Medical Το περιεχόμενο των ιστοσελίδων του παρόντος διαδικτυακού ιστότοπου δεν αποτελεί και δεν μπορεί να εκληφθεί ως ιατρική συμβουλή, διάγνωση, θεραπεία ή υπόδειξη. Όλες οι πληροφορίες παρέχονται αποκλειστικά και μόνο για ενημερωτικούς σκοπούς. Δεν υπάρχει καμία πρόθεση το περιεχόμενο αυτό να υποκαταστήσει την εξατομικευμένη ιατρική συμβουλή, διάγνωση, πρόγνωση ή θεραπεία. Πολιτική Περιεχομένου"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.instagram.com/facemedclinic/",
+        "label": "Instagram"
+      },
+      {
+        "href": "https://www.facebook.com/facemedgr",
+        "label": "Facebook"
+      },
+      {
+        "href": "https://www.tiktok.com/@facemedclinic",
+        "label": "TikTok"
+      },
+      {
+        "href": "https://www.youtube.com/@facemedclinic",
+        "label": "Youtube"
+      },
+      {
+        "href": "https://www.linkedin.com/company/facemed-clinic/",
+        "label": "LinkedIn"
+      }
+    ],
+    "forms": []
+  },
+  "metadata": {
+    "title": "Πλαστική Χειρουργική | Αισθητική Ιατρική | Facemed Clinicsearchcross",
+    "metaDescription": "Ανακαλύψτε κορυφαίες θεραπείες αισθητικής ιατρικής και επεμβάσεις πλαστικής χειρουργικής. Η ομάδα μας προσφέρει Botox, μεσοθεραπεία, laser αποτρίχωση & άλλα.",
+    "canonicalUrl": "https://facemed.gr/",
+    "language": "el",
+    "openGraphTitle": "Πλαστική Χειρουργική | Αισθητική Ιατρική | Facemed Clinic",
+    "openGraphDescription": "Ανακαλύψτε κορυφαίες θεραπείες αισθητικής ιατρικής και επεμβάσεις πλαστικής χειρουργικής. Η ομάδα μας προσφέρει Botox, μεσοθεραπεία, laser αποτρίχωση & άλλα.",
+    "openGraphImage": "https://facemed.gr/assets/images/meta_image.jpg"
+  },
+  "imageReferences": [
+    {
+      "url": "https://facemed.gr/assets/images/meta_image.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.gr/assets/logo.svg",
+      "alt": "Facemed Logo Icon",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.gr/assets/icons/arrow.svg",
+      "alt": "Book Arrow Icon",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.gr/assets/logo-white.svg",
+      "alt": "Facemed Logo Icon",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.gr/assets/icons/phone.svg",
+      "alt": "Phone Icon",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.gr/assets/espa/antagonistikotitaframeEL.jpg",
+      "alt": "Banner Image",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.gr/assets/icons/arrow-black.svg",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.gr/assets/images/home_services/service1.jpg",
+      "alt": "Image showcasing Ιατρικες Θεραπείες services",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.gr/assets/images/home_services/service2.jpg",
+      "alt": "Image showcasing Αισθητικές Θεραπείες services",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.gr/assets/images/home_services/service3.jpg",
+      "alt": "Image showcasing Θεραπείες Σώματος services",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.fra1.digitaloceanspaces.com/members/April2025/GHG2zdt3VCQWyHI0uP27.png",
+      "alt": "Professional headshot of Δρ. Δημήτρουλας Νικόλαος",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.fra1.digitaloceanspaces.com/members/March2020/67pNJrZx98S1Kq7Janxd.jpg",
+      "alt": "Professional headshot of Δρ. Λοϊζίδης Χριστόφορος",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.gr/core/public/images/places/athens/IMG_2602.JPG",
+      "sourcePageUrl": "https://facemed.gr/about",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/about",
+          "retrievedAt": "2026-03-31T13:15:49.969Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.gr/core/public/images/places/athens/IMG_2596.JPG",
+      "alt": "Office image",
+      "sourcePageUrl": "https://facemed.gr/about",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/about",
+          "retrievedAt": "2026-03-31T13:15:49.969Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.gr/assets/images/vision.png",
+      "sourcePageUrl": "https://facemed.gr/about",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/about",
+          "retrievedAt": "2026-03-31T13:15:49.969Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.gr/assets/icons/prev.svg",
+      "sourcePageUrl": "https://facemed.gr/about",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/about",
+          "retrievedAt": "2026-03-31T13:15:49.969Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.gr/assets/icons/next.svg",
+      "sourcePageUrl": "https://facemed.gr/about",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/about",
+          "retrievedAt": "2026-03-31T13:15:49.969Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.fra1.digitaloceanspaces.com/uploads/1194438899.jpeg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+      "pageType": "services",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://facemed.gr/a/eyecon-therapy",
+          "retrievedAt": "2026-03-31T13:15:51.650Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.fra1.digitaloceanspaces.com/grapejs/IMG_1588.JPG",
+      "alt": "Θεραπεία για μαύρους κύκλους",
+      "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/a/eyecon-therapy",
+          "retrievedAt": "2026-03-31T13:15:51.650Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.fra1.digitaloceanspaces.com/grapejs/IMG_1520.JPG",
+      "alt": "αντιμετώπιση διαφημί",
+      "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/a/eyecon-therapy",
+          "retrievedAt": "2026-03-31T13:15:51.650Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.fra1.digitaloceanspaces.com/grapejs/IMG_6690.JPG",
+      "alt": "Θεραπεία για μαύρους κύκλους",
+      "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/a/eyecon-therapy",
+          "retrievedAt": "2026-03-31T13:15:51.650Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.fra1.digitaloceanspaces.com/grapejs/Eye%2Btreatment%2BMalvern.png",
+      "alt": "Πως φεύγουν οι μαύροι κύκλοι",
+      "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/a/eyecon-therapy",
+          "retrievedAt": "2026-03-31T13:15:51.650Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.fra1.digitaloceanspaces.com/grapejs/t-peye0001_global_eyecon_pack-ps%20%281%29.png",
+      "alt": "Eyecon Therapy: Τέλος οι μαυροι κυκλοι",
+      "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/a/eyecon-therapy",
+          "retrievedAt": "2026-03-31T13:15:51.650Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.fra1.digitaloceanspaces.com/services/Vectors%202/Quick-tip.jpg",
+      "alt": "« Η Eyecon είναι μια θεραπεία η οποία μπορεί να γίνει συνδυαστικά με την μεσοθεραπεία ματιών ή στο πλαίσιο συντήρηση της »",
+      "sourcePageUrl": "https://facemed.gr/a/eyecon-therapy",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/a/eyecon-therapy",
+          "retrievedAt": "2026-03-31T13:15:51.650Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.gr/assets/icons/email.svg",
+      "alt": "Email icon",
+      "sourcePageUrl": "https://facemed.gr/about/dimitroulas-nikolaos",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/about/dimitroulas-nikolaos",
+          "retrievedAt": "2026-03-31T13:15:53.015Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.gr/core/public/images/logo_white_straight.svg",
+      "alt": "Facemed Logo",
+      "sourcePageUrl": "https://facemed.gr/about/dimitroulas-nikolaos",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://facemed.gr/about/dimitroulas-nikolaos",
+          "retrievedAt": "2026-03-31T13:15:53.015Z"
+        }
+      ]
+    },
+    {
+      "url": "https://facemed.fra1.digitaloceanspaces.com/members/March2020/Aj8GZ7PHKXuR91TvD4Aq.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://facemed.gr/about/dr-tzonis-panagiotis",
+      "pageType": "about",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://facemed.gr/about/dr-tzonis-panagiotis",
+          "retrievedAt": "2026-03-31T13:15:55.933Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "+30 210 69 29 999",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 6947 195 333",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 210 60 47 777",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 6977 855 000",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 2711 71 71 71",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 6987 484 333",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@facemed.gr",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Αμπελόκηποι Αργολίδος 2, Αθήνα +30 210 69 29 999 +30 6947 195 333 [email protected] Γέρακας Θεσσαλονίκης 14, Γέρακας +30 210 60 47 777 +30 6977 855 000 [email protected] Τρίπολη Δήμητρος 64, Τρίπολη +30 2711 71 71 71 +30 6987 484 333 [email protected] Η Εταιρεία Ποίοι είμαστε Είπαν για εμάς Ο Χώρος μας Online Ραντεβού Υπηρεσίες Θεραπείες Προσώπου Θεραπείες Σώματος Κλινική Δερματολογία Θεραπείες Αποτρίχωσης Ημιμόνιμο μακιγιάζ HPV - Κονδυλώματα Γυναικολογία Πλαστική Χειρουργική Θεραπείες Μαλλιών Ακολούθησε μας Instagram Facebook TikTok Youtube LinkedIn Πληροφορίες Νέα Πολιτική Απορρήτου Όροι Χρήσης Copyright © 2026 Facemed Clinic Δημιουργήθηκε από Top Medical Το περιεχόμενο των ιστοσελίδων του παρόντος διαδικτυακού ιστότοπου δεν αποτελεί και δεν μπορεί να εκληφθεί ως ιατρική συμβουλή, διάγνωση, θεραπεία ή υπόδειξη. Όλες οι πληροφορίες παρέχονται αποκλειστικά και μόνο για ενημερωτικούς σκοπούς. Δεν υπάρχει καμία πρόθεση το περιεχόμενο αυτό να υποκαταστήσει την εξατομικευμένη ιατρική συμβουλή, διάγνωση, πρόγνωση ή θεραπεία. Πολιτική Περιεχομένου",
+      "sourcePageUrl": "https://facemed.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://facemed.gr/",
+          "retrievedAt": "2026-03-31T13:15:48.543Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2015 2015",
+      "sourcePageUrl": "https://facemed.gr/about",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://facemed.gr/about",
+          "retrievedAt": "2026-03-31T13:15:49.969Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "ptzonis@facemed.gr",
+      "sourcePageUrl": "https://facemed.gr/about/dr-tzonis-panagiotis",
+      "pageType": "about",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://facemed.gr/about/dr-tzonis-panagiotis",
+          "retrievedAt": "2026-03-31T13:15:55.933Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://facemed.gr/",
+    "finalOrigin": "https://facemed.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://facemed.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:15:48.208Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [],
+      "disallowRules": [
+        "/old/",
+        "/book*"
+      ],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://facemed.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:15:47.926Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 2,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://facemed.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.545Z"
+      },
+      {
+        "url": "https://facemed.gr/book",
+        "action": "queued",
+        "pageTypeHint": "booking",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/about",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/a/eyecon-therapy",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/about/dimitroulas-nikolaos",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/about/xristoforos-loizidis",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/about/dr-tzonis-panagiotis",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/about/andrianakh-aikaterinh",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/about/sahini-eleonora",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/a/fractional-laser",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/a/prp-8erapeia",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/a/ximiko-peeling",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/a/hydra-udrodermoapoksesi",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/a/dermoapoksesi",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/a/ems",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/a/exilis-elite",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/a/x-wave",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/a/lipoanarrofhsh",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/a/blefaroplastikh",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/book",
+        "action": "blocked_by_robots",
+        "reason": "Path is disallowed by robots.txt",
+        "pageTypeHint": "booking",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/about",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:49.971Z"
+      },
+      {
+        "url": "https://facemed.gr/cdn-cgi/l/email-protection",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/about",
+        "timestamp": "2026-03-31T13:15:49.971Z"
+      },
+      {
+        "url": "https://facemed.gr/kritikes-testimonials",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/about",
+        "timestamp": "2026-03-31T13:15:49.971Z"
+      },
+      {
+        "url": "https://facemed.gr/c/therapeies-prosopou",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/about",
+        "timestamp": "2026-03-31T13:15:49.971Z"
+      },
+      {
+        "url": "https://facemed.gr/c/therapeies-somatos",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/about",
+        "timestamp": "2026-03-31T13:15:49.971Z"
+      },
+      {
+        "url": "https://facemed.gr/c/klinikh-dermatologia",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/about",
+        "timestamp": "2026-03-31T13:15:49.971Z"
+      },
+      {
+        "url": "https://facemed.gr/c/therapeies-apotrixosis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/about",
+        "timestamp": "2026-03-31T13:15:49.971Z"
+      },
+      {
+        "url": "https://facemed.gr/c/aisthitiko-imimonimo-makigiaz",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/about",
+        "timestamp": "2026-03-31T13:15:49.971Z"
+      },
+      {
+        "url": "https://facemed.gr/c/therapeies-hpv",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/about",
+        "timestamp": "2026-03-31T13:15:49.971Z"
+      },
+      {
+        "url": "https://facemed.gr/c/gynaikologia",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/about",
+        "timestamp": "2026-03-31T13:15:49.972Z"
+      },
+      {
+        "url": "https://facemed.gr/c/plastiki-xeirourgiki",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/about",
+        "timestamp": "2026-03-31T13:15:49.972Z"
+      },
+      {
+        "url": "https://facemed.gr/c/therapeies-mallion",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/about",
+        "timestamp": "2026-03-31T13:15:49.972Z"
+      },
+      {
+        "url": "https://facemed.gr/blog",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/about",
+        "timestamp": "2026-03-31T13:15:49.972Z"
+      },
+      {
+        "url": "https://facemed.gr/p/privacy-policy",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/about",
+        "timestamp": "2026-03-31T13:15:49.972Z"
+      },
+      {
+        "url": "https://facemed.gr/p/terms-of-use",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/about",
+        "timestamp": "2026-03-31T13:15:49.972Z"
+      },
+      {
+        "url": "https://facemed.gr/p/politikh-periexomenoy",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://facemed.gr/about",
+        "timestamp": "2026-03-31T13:15:49.972Z"
+      },
+      {
+        "url": "https://facemed.gr/a/eyecon-therapy",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:51.652Z"
+      },
+      {
+        "url": "https://facemed.gr/book?category=82",
+        "action": "queued",
+        "pageTypeHint": "booking",
+        "reason": "Discovered from https://facemed.gr/a/eyecon-therapy",
+        "timestamp": "2026-03-31T13:15:51.652Z"
+      },
+      {
+        "url": "https://facemed.gr/book?category=82",
+        "action": "blocked_by_robots",
+        "reason": "Path is disallowed by robots.txt",
+        "pageTypeHint": "booking",
+        "timestamp": "2026-03-31T13:15:51.652Z"
+      },
+      {
+        "url": "https://facemed.gr/about/dimitroulas-nikolaos",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:53.016Z"
+      },
+      {
+        "url": "https://facemed.gr/about/xristoforos-loizidis",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:54.535Z"
+      },
+      {
+        "url": "https://facemed.gr/about/dr-tzonis-panagiotis",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://facemed.gr/",
+        "timestamp": "2026-03-31T13:15:55.935Z"
+      },
+      {
+        "url": "https://facemed.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:15:59.267Z"
+      }
+    ],
+    "skippedUrls": [
+      {
+        "url": "https://facemed.gr/book",
+        "action": "blocked_by_robots",
+        "reason": "Path is disallowed by robots.txt",
+        "pageTypeHint": "booking",
+        "timestamp": "2026-03-31T13:15:48.546Z"
+      },
+      {
+        "url": "https://facemed.gr/book?category=82",
+        "action": "blocked_by_robots",
+        "reason": "Path is disallowed by robots.txt",
+        "pageTypeHint": "booking",
+        "timestamp": "2026-03-31T13:15:51.652Z"
+      }
+    ]
+  }
+}

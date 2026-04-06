@@ -105,12 +105,12 @@ const primaryCtaHref = getPublicDemoUrl();
 
 const siteContentByLocale = {
   en: {
-    brandName: "Northline AI",
+    brandName: "Northline",
     shortName: "Northline",
-    brandStatement: "Turn more inquiries into booked appointments.",
-    tagline: "AI assistants and booking systems for appointment-based businesses.",
+    brandStatement: "Quality websites that turn more inquiries into booked work.",
+    tagline: "Custom websites with integrated chat for service businesses.",
     description:
-      "Northline helps appointment-based businesses turn more inquiries into booked appointments through AI assistants, lead capture systems, booking flows, and modern websites.",
+      "Northline builds quality websites for service businesses with integrated chat, lead capture, booking flows, and tailored demo setups.",
     founder: {
       name: "Kyriakos Tsourekas",
       title: "CEO",
@@ -141,11 +141,11 @@ const siteContentByLocale = {
       href: "/industries",
     },
     hero: {
-      eyebrow: "Northline AI",
+      eyebrow: "Northline",
       kicker: "Website enquiries, handled properly.",
-      headline: "Turn website enquiries into appointments.",
+      headline: "Quality websites built to convert enquiries.",
       description:
-        "Northline combines a website assistant, smarter intake, and clearer next steps so interested visitors do not drift before booking.",
+        "Northline combines modern website design, integrated chat, smarter intake, and clearer next steps so interested visitors do not drift before booking.",
       audienceLine:
         "Built for clinics, dentists, med spas, salons, consultants, and service businesses where the website should be doing more of the front-end work.",
       primaryActionLabel: "See the Booking Flow",
@@ -201,7 +201,7 @@ const siteContentByLocale = {
     },
     footer: {
       description:
-        "Northline builds AI assistants, lead capture systems, booking flows, and modern websites for appointment-based businesses. Based in Greece.",
+        "Northline builds quality websites, integrated chat, lead capture systems, and booking flows for service businesses. Based in Greece.",
     },
     contact: {
       email: "kiriakos.tsourekas@gmail.com",
@@ -212,7 +212,7 @@ const siteContentByLocale = {
       { href: "/", label: "Home" },
       { href: "/solutions", label: "Solutions" },
       { href: "/how-it-works", label: "How It Works" },
-      { href: "/industries", label: "AI Demos" },
+      { href: "/industries", label: "Website Demos" },
     ] satisfies NavItem[],
     trustStrip: ["Med Spas", "Dentists", "Clinics", "Salons", "Consultants", "Home Services"],
     painPoints: [
@@ -253,10 +253,10 @@ const siteContentByLocale = {
     ] satisfies SolutionPoint[],
     services: [
       {
-        eyebrow: "AI Assistant",
-        title: "Instant first response for new inquiries",
+        eyebrow: "Integrated Chat",
+        title: "Chatbot-first response for new inquiries",
         summary:
-          "The assistant answers common questions, handles first-contact engagement, and keeps the lead moving.",
+          "The chatbot answers common questions, handles first-contact engagement, and keeps the lead moving inside the website.",
         bullets: [
           "Handles FAQs, service questions, and first-contact replies",
           "Reduces drop-off from slow or missed responses",
@@ -550,7 +550,7 @@ const siteContentByLocale = {
       finalCtaLabel: "Book a Demo",
       hero: {
         description:
-          "Northline combines faster first response, stronger lead capture, better booking flow, and cleaner website messaging into one service-business system.",
+          "Northline combines quality websites, integrated chat, stronger lead capture, and better booking flow into one service-business system.",
         eyebrow: "Solutions",
         highlights: [
           "Instant first response for new inquiries",
@@ -570,7 +570,7 @@ const siteContentByLocale = {
     industriesPage: {
       bottomCta: {
         description:
-          "We tailor the assistant around your offer, your lead flow, and the way your team actually handles appointments.",
+          "We tailor the website and chat flow around your offer, your lead flow, and the way your team actually handles appointments.",
         label: "Next step",
         title: "Book a demo built around your business.",
       },
@@ -580,19 +580,19 @@ const siteContentByLocale = {
         label: "How to use this page",
         title: "Choose the demo that matches how your business books.",
       },
-      cardBadge: "AI Demo",
+      cardBadge: "Website Demo",
       cardButtonLabel: "Book a Demo",
       hero: {
         description:
-          "Preview how AI assistants can answer inquiries, capture lead details, and guide booking flows for different appointment-based businesses.",
-        eyebrow: "AI Demos",
+          "Preview how tailored websites with integrated chat can answer inquiries, capture lead details, and guide booking flows for different appointment-based businesses.",
+        eyebrow: "Website Demos",
         highlights: [
           "Booking-focused demos for service businesses",
           "Built around real inquiry and scheduling situations",
           "Easy to tailor to one niche or offer later",
         ],
         secondaryAction: { label: "View solutions", href: "/solutions" },
-        title: "AI demos for real booking situations",
+        title: "Website demos for real booking situations",
       },
     },
     howItWorksPage: {
@@ -837,12 +837,12 @@ const siteContentByLocale = {
     },
   },
   gr: {
-    brandName: "Northline AI",
+    brandName: "Northline",
     shortName: "Northline",
-    brandStatement: "Κάντε περισσότερα αιτήματα να καταλήγουν σε ραντεβού.",
-    tagline: "Βοηθοί AI και συστήματα κράτησης για επιχειρήσεις που λειτουργούν με ραντεβού.",
+    brandStatement: "Ποιοτικές ιστοσελίδες που μετατρέπουν περισσότερα αιτήματα σε δουλειά και ραντεβού.",
+    tagline: "Ποιοτικές ιστοσελίδες με ενσωματωμένο chat για επιχειρήσεις υπηρεσιών.",
     description:
-      "Η Northline βοηθά επιχειρήσεις που λειτουργούν με ραντεβού να μετατρέπουν περισσότερα αιτήματα σε κλεισμένα ραντεβού, με βοηθούς AI, καλύτερη καταγραφή ενδιαφέροντος, καθαρότερη πορεία προς την κράτηση και σύγχρονες ιστοσελίδες.",
+      "Η Northline δημιουργεί ποιοτικές ιστοσελίδες για επιχειρήσεις υπηρεσιών, με ενσωματωμένο chat, καλύτερη καταγραφή ενδιαφέροντος, καθαρότερη πορεία προς την κράτηση και προσαρμοσμένα demos.",
     founder: {
       name: "Kyriakos Tsourekas",
       title: "CEO",
@@ -873,11 +873,11 @@ const siteContentByLocale = {
       href: "/industries",
     },
     hero: {
-      eyebrow: "Northline AI",
+      eyebrow: "Northline",
       kicker: "Το ενδιαφέρον από το site, με σωστή συνέχεια.",
-      headline: "Κάντε τα αιτήματα από το site να γίνονται ραντεβού.",
+      headline: "Ποιοτικές ιστοσελίδες που μετατρέπουν τα αιτήματα σε ραντεβού.",
       description:
-        "Η Northline συνδυάζει βοηθό στο site, πιο σωστή καταγραφή του ενδιαφέροντος και καθαρή πορεία προς το επόμενο βήμα, ώστε οι επισκέπτες που ενδιαφέρονται να μη χάνονται πριν κλείσουν.",
+        "Η Northline συνδυάζει σύγχρονο website design, ενσωματωμένο chat, πιο σωστή καταγραφή του ενδιαφέροντος και καθαρή πορεία προς το επόμενο βήμα, ώστε οι επισκέπτες που ενδιαφέρονται να μη χάνονται πριν κλείσουν.",
       audienceLine:
         "Φτιαγμένο για κλινικές, οδοντιατρεία, med spas, κομμωτήρια, συμβούλους και επιχειρήσεις υπηρεσιών, όπου το site πρέπει να δουλεύει περισσότερο από την πρώτη επαφή.",
       primaryActionLabel: "Δείτε τη ροή προς το ραντεβού",
@@ -937,7 +937,7 @@ const siteContentByLocale = {
     },
     footer: {
       description:
-        "Η Northline δημιουργεί βοηθούς AI, συστήματα καταγραφής ενδιαφέροντος, πορεία προς την κράτηση και σύγχρονες ιστοσελίδες για επιχειρήσεις που λειτουργούν με ραντεβού. Με έδρα την Ελλάδα.",
+        "Η Northline δημιουργεί ποιοτικές ιστοσελίδες, ενσωματωμένο chat, συστήματα καταγραφής ενδιαφέροντος και πορεία προς την κράτηση για επιχειρήσεις υπηρεσιών. Με έδρα την Ελλάδα.",
     },
     contact: {
       email: "kiriakos.tsourekas@gmail.com",
@@ -948,7 +948,7 @@ const siteContentByLocale = {
       { href: "/", label: "Αρχική" },
       { href: "/solutions", label: "Λύσεις" },
       { href: "/how-it-works", label: "Πώς Λειτουργεί" },
-      { href: "/industries", label: "Παραδείγματα AI" },
+      { href: "/industries", label: "Website Demos" },
     ] satisfies NavItem[],
     trustStrip: ["Med Spas", "Οδοντιατρεία", "Κλινικές", "Κομμωτήρια", "Σύμβουλοι", "Υπηρεσίες Κατ’ Οίκον"],
     painPoints: [
@@ -989,10 +989,10 @@ const siteContentByLocale = {
     ] satisfies SolutionPoint[],
     services: [
       {
-        eyebrow: "Βοηθός AI",
-        title: "Άμεση πρώτη απάντηση για νέα αιτήματα",
+        eyebrow: "Ενσωματωμένο Chat",
+        title: "Chatbot για την πρώτη απάντηση σε νέα αιτήματα",
         summary:
-          "Ο βοηθός απαντά στις βασικές ερωτήσεις, αναλαμβάνει την πρώτη επαφή και κρατά το ενδιαφέρον ζωντανό.",
+          "Το chatbot απαντά στις βασικές ερωτήσεις, αναλαμβάνει την πρώτη επαφή και κρατά το ενδιαφέρον ζωντανό μέσα στο ίδιο το site.",
         bullets: [
           "Απαντά σε συχνές ερωτήσεις και βασικές απορίες για τις υπηρεσίες",
           "Μειώνει τις απώλειες από αργές ή χαμένες απαντήσεις",
@@ -1306,7 +1306,7 @@ const siteContentByLocale = {
     industriesPage: {
       bottomCta: {
         description:
-          "Προσαρμόζουμε τον βοηθό γύρω από την προσφορά σας, τη ροή των αιτημάτων σας και τον τρόπο που η ομάδα σας διαχειρίζεται στην πράξη τα ραντεβού.",
+          "Προσαρμόζουμε το website και το chat γύρω από την προσφορά σας, τη ροή των αιτημάτων σας και τον τρόπο που η ομάδα σας διαχειρίζεται στην πράξη τα ραντεβού.",
         label: "Επόμενο βήμα",
         title: "Κλείστε ένα demo προσαρμοσμένο στη δική σας επιχείρηση.",
       },
@@ -1316,19 +1316,19 @@ const siteContentByLocale = {
         label: "Πώς να χρησιμοποιήσετε αυτή τη σελίδα",
         title: "Επιλέξτε το demo που ταιριάζει στον τρόπο με τον οποίο κλείνει ραντεβού η επιχείρησή σας.",
       },
-      cardBadge: "AI Demo",
+      cardBadge: "Website Demo",
       cardButtonLabel: "Κλείστε demo",
       hero: {
         description:
-          "Δείτε πώς βοηθοί AI μπορούν να απαντούν σε αιτήματα, να συλλέγουν χρήσιμα στοιχεία και να κατευθύνουν τη διαδρομή προς το ραντεβού για διαφορετικές επιχειρήσεις που λειτουργούν με ραντεβού.",
-        eyebrow: "Παραδείγματα AI",
+          "Δείτε πώς προσαρμοσμένες ιστοσελίδες με ενσωματωμένο chat μπορούν να απαντούν σε αιτήματα, να συλλέγουν χρήσιμα στοιχεία και να κατευθύνουν τη διαδρομή προς το ραντεβού για διαφορετικές επιχειρήσεις που λειτουργούν με ραντεβού.",
+        eyebrow: "Website Demos",
         highlights: [
           "Παραδείγματα με έμφαση στο ραντεβού για επιχειρήσεις υπηρεσιών",
           "Χτισμένα γύρω από πραγματικές περιπτώσεις ενδιαφέροντος και προγραμματισμού",
           "Εύκολα στην προσαρμογή για συγκεκριμένο κοινό ή προσφορά",
         ],
         secondaryAction: { label: "Δείτε λύσεις", href: "/solutions" },
-        title: "Παραδείγματα AI για πραγματικές καταστάσεις κράτησης",
+        title: "Website demos για πραγματικές καταστάσεις κράτησης",
       },
     },
     howItWorksPage: {

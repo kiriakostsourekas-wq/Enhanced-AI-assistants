@@ -1,0 +1,1618 @@
+{
+  "domain": "orthorobotics.gr",
+  "collectedAt": "2026-03-31T13:10:13.732Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orthorobotics.gr-home-2560c3dd",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://orthorobotics.gr/",
+      "finalUrl": "https://orthorobotics.gr/el",
+      "fetchedAt": "2026-03-31T13:09:51.134Z",
+      "metadata": {
+        "title": "Αρχική Σελίδα - Μένης Παπανικολάου",
+        "canonicalUrl": "https://orthorobotics.gr/el/",
+        "language": "el",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Αρχική Σελίδα - Μένης Παπανικολάου",
+        "openGraphDescription": "Ακολουθήστε μας για να μαθαίνετε Ορθοπαιδικές εξελίξεις"
+      },
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Εξειδικευσεις"
+        },
+        {
+          "level": "h3",
+          "text": "Ρομποτική Ορθοπεδική Χειρουργική και Επεμβάσεις με τη Καθοδήγηση Ηλεκτρονικού Υπολογιστή"
+        },
+        {
+          "level": "h3",
+          "text": "Επεμβάσεις Ελάχιστης Επεμβατικότητας"
+        },
+        {
+          "level": "h3",
+          "text": "Πρωτόκολλα Ταχείας Αποκατάστασης και Αποθεραπείας"
+        },
+        {
+          "level": "h3",
+          "text": "Υπέρηχος Μυοσκελετικού, PRP και άλλες Σύγχρονες Ορθοπεδικές Λύσεις"
+        },
+        {
+          "level": "h3",
+          "text": "Αθλητικές Κακώσεις"
+        },
+        {
+          "level": "h3",
+          "text": "Για περισσότερες πληροφορίες ή για να κλείσετε ραντεβού"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://orthorobotics.gr/el/"
+        },
+        {
+          "href": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d/",
+          "label": "Βιογραφικό Σημείωμα"
+        },
+        {
+          "href": "https://orthorobotics.gr/el/services/",
+          "label": "Εξειδικεύσεις"
+        },
+        {
+          "href": "https://orthorobotics.gr/%ce%b4%ce%b9%ce%b5%cf%8d%ce%b8%cf%85%ce%bd%cf%83%ce%b7-%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1/",
+          "label": "Διεύθυνση – Επικοινωνία"
+        },
+        {
+          "href": "https://orthorobotics.gr/en/",
+          "label": "English"
+        },
+        {
+          "href": "https://orthorobotics.gr/cdn-cgi/l/email-protection#bdd0d89b9e8c8c8d86d49b9e8c8c888693cddc9b9e8c8c8f86dcd39b9e8c8d8886d69b9e8c8c8c869b9e8c8d85869b9e848a86d2c89b9e8b8986dad0dcd4d19b9e898b86ded29b9e8c8d8486",
+          "label": "menis.papanikolaou@gmail.com"
+        },
+        {
+          "href": "https://orthorobotics.gr/cdn-cgi/l/email-protection#dbb6beb5b2a8f5abbaabbab5b2b0b4b7bab4ae9bbcb6bab2b7f5b8b4b6"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://orthorobotics.gr/el/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Αναζήτηση"
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Αναζήτηση…",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://orthorobotics.gr/el/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Αναζήτηση"
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Αναζήτηση…",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://orthorobotics.gr/el/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Αναζήτηση"
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Αναζήτηση…",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "115286979721237",
+          "2107246205",
+          "6979721237",
+          "31536000"
+        ],
+        "emails": [],
+        "addresses": [
+          "Β.Σοφίας & Παπαδιαμαντοπούλου 9, Ιλίσια, Αθήνα, 115286979721237 , 2107246205menis.papanikolaou@gmail.com",
+          "Β.Σοφίας & Παπαδιαμαντοπούλου 9, Ιλίσια, Αθήνα, 11528"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/menis.papanikolaou.5"
+          },
+          {
+            "href": "https://www.facebook.com/OrthoRoboticsGr-399900497091799/"
+          },
+          {
+            "href": "http://www.linkedin.com/in/menis-papanikolaou-51528382"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://orthorobotics.gr/el/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Αναζήτηση"
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Αναζήτηση…",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://orthorobotics.gr/el/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Αναζήτηση"
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Αναζήτηση…",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://orthorobotics.gr/el/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Αναζήτηση"
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Αναζήτηση…",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "© 2026 Μένης Παπανικολάου. Proudly powered by Sydney",
+      "textContent": "Skip to content Αρχική Σελίδα Βιογραφικό Σημείωμα Εξειδικεύσεις Διεύθυνση – Επικοινωνία English Αναζήτηση για: Αναζήτηση για: Αρχική Σελίδα Βιογραφικό Σημείωμα Εξειδικεύσεις Διεύθυνση – Επικοινωνία English Αναζήτηση για: Εξειδικευσεις Ρομποτική Ορθοπεδική Χειρουργική και Επεμβάσεις με τη Καθοδήγηση Ηλεκτρονικού Υπολογιστή Η χρήση ηλεκτρονικού υπολογιστή στην Ορθοπεδική Χειρουργική επιτρέπει στο χειρουργό να εκτελεί επεμβάσεις με ακρίβεια ενός χιλιοστού και απόκλιση μιας μοίρας. Αυτή η ακρίβεια εγγυάται καλύτερα χειρουργικά αποτελέσματα με αποδεδειγμένα μεγαλύτερη διάρκεια στον χρόνο. Συνοδεύεται με Μετεγχειρητικό Πιστοποιητικό Ακριβείας και Εύρους Κίνησης. Επεμβάσεις Ελάχιστης Επεμβατικότητας Προσφέρουν το ίδιο χειρουργικό αποτέλεσμα μέσα από μικρότερες τομές και με σεβασμό στους ιστούς του ασθενούς. Συμβάλλουν στη μικρότερη διάρκεια νοσηλείας, ελαχιστοποιούν τον μετεγχειρητικό πόνο και την απώλεια αίματος. Πρωτόκολλα Ταχείας Αποκατάστασης και Αποθεραπείας Πρόκειται για καινοτόμo εξέλιξη της Ορθοπεδικής Χειρουργικής που απαιτεί γνώση, εμπειρία σε τέτοια πρωτόκολλα και εξειδίκευση από όλη την ομάδα (Χειρουργός, Αναισθησιολόγος και Φυσιοθεραπευτής). Επιτυγχάνει τη μείωση του χρόνου νοσηλείας σε 2-3 ημέρες, ακόμα και μετά απο μεγάλης βαρύτητας χειρουργικές επεμβάσεις. Υπέρηχος Μυοσκελετικού, PRP και άλλες Σύγχρονες Ορθοπεδικές Λύσεις Ο ιατρός χρησιμοποιεί Υπέρηχο ως περαιτέρω βοήθημα για την διάγνωσή σας και την διενέργεια καθοδηγούμενων θεραπευτικών εγχύσεων (ενέσεις) με ακρίβεια στο απαραίτητο σημείο της πάθησης σας έτσι ώστε να επιτευχθεί το καλύτερο δυνατόν θεραπευτικό αποτέλεσμα. Κατά περίπτωση μπορεί να επωφεληθείτε απο ένεση με βλαστοκυτταρα του αίματός σας (PRP) που πραγματοποιούνται στο ιατρείο σε συγκεκριμένες ημερομηνίες του μήνα κατόπιν συνεννόησης. Αθλητικές Κακώσεις Ο ιατρός έχει εμπειρία από αθλητικές κακώσεις Ποδοσφαίρου, Καλαθοσφαίρισης, Scottish Rugby, Γκολφ και άλλων αθλημάτων. Ανάμεσα στους πρόσφατους ασθένεις του συγκαταλέγονται Καλαθοσφαιριστες με παρουσία στην EuroLeague τόσο με Ελληνικές όσο και ξένες ομάδες. Πριν τις Ιατρικές σπουδές ητανε παίκτης της Ελληνικής Εθνικής Ομάδας Μπάσκετ Παίδων και αργότερα Εφήβων. Ακολουθήστε μας για να μαθαίνετε Ορθοπαιδικές εξελίξεις Ο Ιατρός δέχεται Δευτέρα, Τετάρτη και Παρασκευή 6-8μμ κατόπιν ραντεβού.Επείγοντα περιστατικά γίνονται δεκτά όλες τις ημέρες και ώρες κατόπιν συνεννόησης. Β.Σοφίας & Παπαδιαμαντοπούλου 9, Ιλίσια, Αθήνα, 115286979721237 , 2107246205menis.papanikolaou@gmail.com Για περισσότερες πληροφορίες ή για να κλείσετε ραντεβού 6979721237 © 2026 Μένης Παπανικολάου. Proudly powered by Sydney /* <![CDATA[ */ (function() { var expirationDate = new Date(); expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 ); document.cookie = \"pll_language=el; expires=\" + expirationDate.toUTCString() + \"; path=/; secure; SameSite=Lax\"; }()); /* ]]> */ /* <![CDATA[ */ var panelsStyles = {\"fullContainer\":\"body\",\"stretchRows\":\"1\"}; /* ]]> */ /* <![CDATA[ */ var wpgmza_google_api_status = {\"message\":\"Enqueued\",\"code\":\"ENQUEUED\"}; /* ]]> */ /* <![CDATA[ */ var WPGMZA_localized_data = {\"adminurl\":\"https:\\/\\/orthorobotics.gr\\/wp-admin\\/\",\"siteHash\":\"2918b50df316161bb59a67080b0288af\",\"ajaxurl\":\"https:\\/\\/orthorobotics.gr\\/wp-admin\\/admin-ajax.php\",\"pluginDirURL\":\"https:\\/\\/orthorobotics.gr\\/wp-content\\/plugins\\/wp-google-maps\\/\",\"ajaxnonce\":\"870125f3dc\",\"legacyajaxnonce\":\"865f6124ee\",\"html\":{\"googleMapsAPIErrorDialog\":\"<div>\\r\\n\\r\\n\\t<h2>Maps API Error<\\/h2>\\r\\n\\t\\r\\n\\t<div>\\r\\n\\t\\r\\n\\t\\t<p>\\r\\n\\t\\t\\tOne or more error(s) have occured attempting to initialize the Maps API:\\t\\t<\\/p>\\r\\n\\t\\r\\n\\t\\t<ul class=\\\"wpgmza-google-api-error-list\\\">\\r\\n\\t\\t\\t<li class=\\\"template notice notice-error\\\">\\r\\n\\t\\t\\t\\t<span class=\\\"wpgmza-message\\\"><\\/span>\\r\\n\\t\\t\\t\\t<span class=\\\"wpgmza-documentation-buttons\\\">\\r\\n\\t\\t\\t\\t\\t<a target=\\\"_blank\\\">\\r\\n\\t\\t\\t\\t\\t\\t<i class=\\\"fa\\\" aria-hidden=\\\"true\\\"><\\/i>\\r\\n\\t\\t\\t\\t\\t<\\/a>\\r\\n\\t\\t\\t\\t<\\/span>\\r\\n\\t\\t\\t<\\/li>\\r\\n\\t\\t<\\/ul>\\r\\n\\t\\r\\n\\t<\\/div>\\r\\n\\t\\t\\t<p class=\\\"wpgmza-front-end-only\\\">\\r\\n\\t\\t<i class=\\\"fa fa-eye\\\" aria-hidden=\\\"true\\\"><\\/i>\\r\\n\\t\\tThis dialog is only visible to administrators\\t<\\/p>\\r\\n\\t\\r\\n\\t<!--<button data-remodal-action=\\\"confirm\\\" class=\\\"remodal-confirm\\\">\\r\\n\\t\\tDismiss\\t<\\/button>-->\\r\\n\\r\\n<\\/div>\"},\"imageFolderURL\":\"https:\\/\\/orthorobotics.gr\\/wp-content\\/plugins\\/wp-google-maps\\/images\\/\",\"resturl\":\"https:\\/\\/orthorobotics.gr\\/wp-json\\/wpgmza\\/v1\",\"restnonce\":\"669c998ede\",\"restnoncetable\":{\"\\/(polygons|polylines|circles|rectangles|pointlabels)(\\\\\\/\\\\d+)?\\/\":\"96efced853\",\"\\/markers(\\\\\\/\\\\d+)?\\/\":\"39e090005b\",\"\\/datatables\":\"fe1dd52b21\"},\"settings\":{\"wpgmza_settings_marker_pull\":\"0\",\"wpgmza_google_maps_api_key\":\"QUl6YVN5QW1Fa2FvbExuTk1IMDBNN296YkdBczV4Q1NjWWVWdUg0\",\"wpgmza_marker_xml_url\":\"https:\\/\\/orthorobotics.gr\\/wp-content\\/uploads\\/wp-google-maps\\/\",\"googleMapsApiKey\":\"QUl6YVN5QW1Fa2FvbExuTk1IMDBNN296YkdBczV4Q1NjWWVWdUg0\",\"markerPull\":\"database\",\"markerXmlUrl\":\"https:\\/\\/orthorobotics.gr\\/wp-content\\/uploads\\/wp-google-maps\\/\"},\"stylingSettings\":{},\"currentPage\":null,\"userCanAdministrator\":\"0\",\"serverCanInflate\":\"1\",\"localized_strings\":{\"unsecure_geolocation\":\"Many browsers are no longer allowing geolocation from unsecured origins. You will need to secure your site with an SSL certificate (HTTPS) or this feature may not work for your visitors\",\"use_my_location\":\"Use my location\",\"google_api_not_loaded\":\"The map cannot be initialized because the Maps API has not been loaded. Please check your settings.\",\"no_google_maps_api_key\":\"You have not entered a <b>Google Maps API Key<\\/b>.<br \\/><br \\/>Please go to the your admin area, then Maps, then Settings, then the Advanced tab to <a href=\\\"https:\\/\\/orthorobotics.gr\\/wp-admin\\/admin.php?page=wp-google-maps-menu-settings&highlight=wpgmza_google_maps_api_key#advanced-settings\\\">enter your Google Maps API key<\\/a>.<br \\/><br \\/>Alternatively, <a href=\\\"https:\\/\\/orthorobotics.gr\\/wp-admin\\/admin.php?page=wp-google-maps-menu-settings&highlight=wpgmza_maps_engine\\\">choose the Open Layers engine<\\/a> to avoid getting an API key.\",\"documentation\":\"Documentation\",\"api_dashboard\":\"API Dashboard\",\"verify_project\":\"Verify Project\",\"no_shape_circle\":\"Please create the circle first.\",\"no_shape_rectangle\":\"Please create the rectangle first.\",\"no_shape_polygon\":\"Please create the polygon first.\",\"no_shape_polyline\":\"Please create the polyline first.\",\"failed_to_get_address\":\"Failed to get address\",\"failed_to_create_marker\":\"Failed to create marker %d - this marker cannot be placed on the map.\",\"my_location\":\"My Location\",\"kilometers_away\":\"km away\",\"miles_away\":\"miles away\",\"import_completed\":\"Import completed.\",\"importing_please_wait\":\"Importing, this may take a moment...\",\"no_address_specified\":\"No address specified\",\"add_marker\":\"Add Marker\",\"save_marker\":\"Save Marker\",\"please_wait\":\"Please Wait...\",\"zero_results\":\"No results found in this location. Please try again.\",\"address_not_found\":\"This address could not be found. WP Go Maps uses a 3rd party service (eg Google) to convert addresses to geographic coordinates. Unfortunately, the service has no records for this address at present. Please try an alternative format, or manually position the marker using right click.\",\"geocode_fail\":\"Geocode failed due to technical reasons\",\"you_must_check_gdpr_consent\":\"You must check the GDPR consent box to continue\",\"no_gps_coordinates\":\"No GPS coordinates found\",\"fetching_directions\":\"Fetching directions...\",\"unknown_directions_service_status\":\"Unknown directions service status\",\"please_fill_out_both_from_and_to_fields\":\"Please fill out both the \\\"from\\\" and \\\"to\\\" fields\",\"no_picture_found\":\"No picture found\",\"overwrite_theme_data\":\"Are you sure you want to overwrite the existing theme data?\",\"upload_complete\":\"Upload Complete\",\"uploading_file\":\"Uploading file\",\"bulk_jpeg_media_title\":\"WP Go Maps - Bulk JPEG Upload\",\"from_your_location\":\"from your location\",\"from_searched_location\":\"from searched location\",\"yes\":\"Yes\",\"no\":\"No\",\"requires_gold_v5\":\"Requires WP Go Maps - Gold add-on 5.0.0 or above\",\"confirm_remove_duplicates\":\"This operation is not reversable. We recommend you take a backup before proceeding. Would you like to continue?\",\"invalid_theme_data\":\"Invalid theme data\",\"duplicate_custom_field_name\":\"Duplicate custom field names, please ensure you only add unique custom field names.\",\"disabled_interactions_notice\":\"Some interactions are disabled.\",\"interactions_enabled_notice\":\"Interactions Enabled\",\"disabled_interactions_button\":\"Re-Enable Interactions\",\"use_two_fingers\":\"Use two fingers to move the map\",\"use_ctrl_scroll_to_zoom\":\"Use ctrl + scroll to zoom the map\",\"geocode_was_not_successful\":\"Geocode was not successful for the following reason: \",\"geocoding_library_notice\":\"Geocoding this address failed. Please check you have enabled the Geocoding API for your Google Maps API project.\",\"map_delete_prompt_text\":\"Are you sure you want to delete this map?\",\"map_bulk_delete_prompt_text\":\"Are you sure you want to delete these maps?\",\"general_delete_prompt_text\":\"Are you sure you want to delete this data?\",\"new_map\":\"New Map\",\"all\":\"All\",\"cloud_api_key_error_1\":\"Autocomplete disabled. <a href=\\\"https:\\/\\/wpgmaps.com\\/documentation\\/autocomplete-disabled\\/\\\" target=\\\"_BLANK\\\">Find out more<\\/a>.\",\"autcomplete_placeholder\":\"Enter a location\"},\"api_consent_html\":\"<div class=\\\"wpgmza-gdpr-compliance\\\"><p>\\r\\n\\tI agree for my personal data to be processed by <span name=\\\"wpgmza_gdpr_company_name\\\">\\u039c\\u03ad\\u03bd\\u03b7\\u03c2 \\u03a0\\u03b1\\u03c0\\u03b1\\u03bd\\u03b9\\u03ba\\u03bf\\u03bb\\u03ac\\u03bf\\u03c5<\\/span>, for the purpose(s) of <span name=\\\"wpgmza_gdpr_retention_purpose\\\">displaying map tiles, geocoding addresses and calculating and display directions.<\\/span>.\\r\\n<\\/p>\\r\\n\\r\\n<p>\\t\\r\\n\\tI agree for my personal data, provided via map API calls, to be processed by the API provider, for the purposes of geocoding (converting addresses to coordinates), reverse geocoding and\\tgenerating directions.\\r\\n<\\/p>\\r\\n<p>\\r\\n\\tSome visual components of WP Go Maps use 3rd party libraries which are loaded over the network. At present the libraries are Google Maps, Open Street Map, jQuery DataTables and FontAwesome. When loading resources over a network, the 3rd party server will receive your IP address and User Agent string amongst other details. Please refer to the Privacy Policy of the respective libraries for details on how they use data and the process to exercise your rights under the GDPR regulations.\\r\\n<\\/p>\\r\\n<p>\\r\\n\\tWP Go Maps uses jQuery DataTables to display sortable, searchable tables, such as that seen in the Advanced Marker Listing and on the Map Edit Page. jQuery DataTables in certain circumstances uses a cookie to save and later recall the \\\"state\\\" of a given table - that is, the search term, sort column and order and current page. This data is held in local storage and retained until this is cleared manually. No libraries used by WP Go Maps transmit this information.\\r\\n<\\/p>\\r\\n<p>\\r\\n\\tPlease <a href=\\\"https:\\/\\/developers.google.com\\/maps\\/terms\\\">see here<\\/a> and <a href=\\\"https:\\/\\/maps.google.com\\/help\\/terms_maps.html\\\">here<\\/a> for Google's terms. Please also see <a href=\\\"https:\\/\\/policies.google.com\\/privacy?hl=en-GB&gl=uk\\\">Google's Privacy Policy<\\/a>. We do not send the API provider any personally identifying information, or information that could uniquely identify your device.\\r\\n<\\/p>\\r\\n<p>\\r\\n\\tWhere this notice is displayed in place of a map, agreeing to this notice will store a cookie recording your agreement so you are not prompted again.\\r\\n<\\/p><p class='wpgmza-centered'><button class='wpgmza-api-consent'>I agree<\\/button><\\/div><\\/p>\",\"basic_version\":\"9.0.45\",\"_isProVersion\":\"\",\"defaultMarkerIcon\":\"https:\\/\\/orthorobotics.gr\\/wp-content\\/plugins\\/wp-google-maps\\/images\\/spotlight-poi3.png\",\"markerXMLPathURL\":\"\\/\\/orthorobotics.gr\\/wp-content\\/uploads\\/wp-google-maps\\/\",\"is_admin\":\"0\",\"locale\":\"el\",\"isServerIIS\":\"\",\"labelpointIcon\":\"https:\\/\\/orthorobotics.gr\\/wp-content\\/plugins\\/wp-google-maps\\/images\\/label-point.png\",\"buildCode\":\"B.9.0.45::L\",\"postID\":\"220\"}; /* ]]> */ /(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener(\"hashchange\",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1); document.body.className = document.body.className.replace(\"siteorigin-panels-before-js\",\"\");",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orthorobotics.gr-home-2560c3dd/homepage-el-dbcdcad6.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orthorobotics.gr-home-2560c3dd/homepage-el-dbcdcad6.txt",
+      "imageReferences": [
+        {
+          "url": "https://orthorobotics.gr/wp-content/uploads/2017/10/cropped-logo-e1509232588256.jpg",
+          "alt": "Μένης Παπανικολάου",
+          "sourcePageUrl": "https://orthorobotics.gr/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orthorobotics.gr/el",
+              "retrievedAt": "2026-03-31T13:09:51.132Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAt1BMVEWSmb66z+18msdig8La3u+tYX9IaLc7W7BagbmcUW+kqMr/q6n+//+hsNv/lIr/jIGMnNLJyOP9/fyQttT/wb3/////aWn+YWF5kNT0oqz0i4ueqtIZNJjhvt/8gn//WVr/6+rN1+o9RKZwgcMPJpX/VFT9UEn+RUX8Ozv2Ly+FGzdYZrfU1e/8LS/lQkG/mbVUX60AE231hHtcdMb0mp3qYFTFwNu3w9prcqSURGNDaaIUMX5FNW5wYt7AAAAAjklEQVR4AR3HNUJEMQCGwf+L8RR36ajR+1+CEuvRdd8kK9MNAiRQNgJmVDAt1yM6kSzYVJUsPNssAk5N7ZFKjVNFAY4co6TAOI+kyQm+LFUEBEKKzuWUNB7rSH/rSnvOulOGk+QlXTBqMIrfYX4tSe2nP3iRa/KNK7uTmWJ5a9+erZ3d+18od4ytiZdvZyuKWy8o3UpTVAAAAABJRU5ErkJggg==",
+          "sourcePageUrl": "https://orthorobotics.gr/el",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orthorobotics.gr/el",
+              "retrievedAt": "2026-03-31T13:09:51.132Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://orthorobotics.gr/el",
+          "retrievedAt": "2026-03-31T13:09:51.134Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orthorobotics.gr-home-2560c3dd/homepage-el-dbcdcad6.png"
+    },
+    "about": {
+      "pageType": "about",
+      "requestedUrl": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+      "finalUrl": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+      "fetchedAt": "2026-03-31T13:09:57.862Z",
+      "metadata": {
+        "title": "Βιογραφικό Σημείωμα - Δρ Παπανικολάου Κλεομένης (Μένης)",
+        "metaDescription": "Εδώ μπορείτε να δείτε το βιογραφικό σημείωμα του ιατρού για να τον γνωρίσετε καλύτερα και να μάθετε την εργασιακή του εμπειρία και εξειδικεύσεις.",
+        "canonicalUrl": "https://orthorobotics.gr/%CE%B2%CE%B9%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C-%CF%83%CE%B7%CE%BC%CE%B5%CE%AF%CF%89%CE%BC%CE%B1-%CE%B9%CE%B1%CF%84%CF%81%CE%BF%CF%8D/",
+        "language": "el",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Βιογραφικό Σημείωμα - Δρ Παπανικολάου Κλεομένης (Μένης)",
+        "openGraphDescription": "Εδώ μπορείτε να δείτε το βιογραφικό σημείωμα του ιατρού για να τον γνωρίσετε καλύτερα και να μάθετε την εργασιακή του εμπειρία και εξειδικεύσεις."
+      },
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Βιογραφικό Σημείωμα"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://orthorobotics.gr/el/"
+        },
+        {
+          "href": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d/",
+          "label": "Βιογραφικό Σημείωμα"
+        },
+        {
+          "href": "https://orthorobotics.gr/el/services/",
+          "label": "Εξειδικεύσεις"
+        },
+        {
+          "href": "https://orthorobotics.gr/%ce%b4%ce%b9%ce%b5%cf%8d%ce%b8%cf%85%ce%bd%cf%83%ce%b7-%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1/",
+          "label": "Διεύθυνση – Επικοινωνία"
+        },
+        {
+          "href": "https://orthorobotics.gr/curriculum-vitae/",
+          "label": "English"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://orthorobotics.gr/el/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Αναζήτηση"
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Αναζήτηση…",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://orthorobotics.gr/el/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Αναζήτηση"
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Αναζήτηση…",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://orthorobotics.gr/el/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Αναζήτηση"
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Αναζήτηση…",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "2020-2021",
+          "2021-2022",
+          "31536000"
+        ],
+        "emails": [],
+        "addresses": [],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/IonikosNikaiaBC/photos/a.117025533447943/122262336257596/?type=3",
+            "label": "ΚΑΕ Ιωνικός Νικαίας"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://orthorobotics.gr/el/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Αναζήτηση"
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Αναζήτηση…",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://orthorobotics.gr/el/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Αναζήτηση"
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Αναζήτηση…",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://orthorobotics.gr/el/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Αναζήτηση"
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Αναζήτηση…",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "© 2026 Μένης Παπανικολάου. Proudly powered by Sydney",
+      "textContent": "Skip to content Αρχική Σελίδα Βιογραφικό Σημείωμα Εξειδικεύσεις Διεύθυνση – Επικοινωνία English Αναζήτηση για: Αναζήτηση για: Αρχική Σελίδα Βιογραφικό Σημείωμα Εξειδικεύσεις Διεύθυνση – Επικοινωνία English Αναζήτηση για: Βιογραφικό Σημείωμα Γεννήθηκε στις 4/6/1976 στην Αθήνα. Είναι δεύτερης γενιάς Ορθοπεδικός Χειρουργός έχοντας διαδεχθεί τον Παναγιώτη Παπανικολάου. Απο το 2016 ανέλαβε το ανωτέρω ιατρείο στην Αθήνα και χειρουργεί σε Ιδιωτικές Κλινικές. Διετέλεσε υπεύθυνος ιατρός, επικεφαλής του ιατρικού επιτελείου της επαγγελματικής ομάδας καλαθοσφαίρισης ΚΑΕ Ιωνικός Νικαίας (Α1 κατηγορία Greek Basket League) τις αγωνιστικές χρονιές 2020-2021 και 2021-2022, όπου αντιμετώπισε όλο το φάσμα των αθλητικών τραυματισμών σε αθλητές ελίτ επιπέδου και υψηλών επιδόσεων αλλά και υψηλών απαιτήσεων. Επίσης αποτελεί μέλος της επιστημονικής ομάδας των Αθλητικών Ακαδημιών του ΟΠΑΠ με στοχο την ορθή άσκηση και υγιή εξέλιξη νέων αθλητών. Το 2011 μετέβη στη Γλασκώβη, Σκωτία όπου και εργάστηκε σε όλο το φάσμα της Ορθοπεδικής Χειρουργικής και απέκτησε υποεξειδίκευση σε Ρομποτική Χειρουργική και Επεμβάσεις Καθοδηγούμενες απο Ηλεκτρονικό Υπολογιστή, σε σύνθετες και δύσκολες παθήσεις γονατος, σε αρθροπλαστικές και αρθροσκοπήσεις. Παρακολούθησε Μεταπτυχιακές Σπουδές σε Αρθροπλαστικές με Καθοδήγηση Υπολογιστή και Πιστοποιημένα Σεμινάρια Υπερήχων Μυοσκελετικού. Έχει συμμετοχη σε Επιστημονικές Έρευνες που έχουν παρουσιαστεί σε Συνέδρια της Ελλάδας και του Εξωτερικού και Διεθνείς Δημοσιεύσεις σε επιστημονικά ιατρικά περιοδικα. Είναι μέλος του Βρετανικού Ιατρικού Συλλόγου (GMC) και αλλων Ορθοπεδικών Συλλόγων. Έλαβε τον τίτλο ειδικότητας Ορθοπεδικής και Τραυματιολογίας το 2011. Το 2007 σύνεχισε της ειδικότητα Ορθοπεδικής στο Γ.Ν.Α ¨Ευαγγελισμός¨ στην Αθήνα ενώ για 1 έτος υποεξειδικεύτηκε στο Γ.Ν. ΚΑΤ σε Αθλητικές Κακώσεις και Χειρουργική Άνω Άκρου-Μικροχειρουργική. Το 2006 έκανε μέρος της ειδικότητας Ορθοπεδικης στο Γ.Ν. Άργους για 12 μήνες. Το 2005-6 υπηρέτησε την στρατιωτική του θητεία ως Έφεδρος Σμηνίας Ιατρός σε ΝΑΤΟϊκές βάσεις της Πολεμικής Αεροπορίας και στην Ορθοπεδική Κλινικη του 251 ΓΝΑ. Το 2003-4 έκανε την προαπαιτούμενη εκπαίδευση στην Γενική Χειρουργική στο Νοσοκομείο Σητείας για 18 μήνες. Εκτέλεσε την υπηρεσία υπαίθρου το 2002-3 στο Π.Ι Μοχού Ηρακλείου Κρήτης (6000 πληθυσμός) εφημερευοντας στο Κ.Υ. Καστελλίου (140.000 πληθυσμός). Αποφοίτησε το 2002 με βαθμό ¨Λίαν Καλώς¨. Εισήχθη το 1995 στην Ιατρική Σχολή του Πανεπιστημιού Κρήτης μέσα απο το σύστημα των Πανελλήνιων Εισαγωγικών Εξετάσεων χωρίς επιπρόσθετη αθλητική μοριοδότηση. Παρακολούθησε Δημόσια Πρωτοβάθμια και Δευτεροβάθμια Εκπαίδευση σε σχολεία της Αγίας Παρασκευής Αττικής με συνεχή αριστεία. Παράλληλα ήτανε παίκτης καλαθοσφαίρισης στις νεανικές και ανδρική ομάδα του Γ.Σ.Αμαρουσίου με συμμετοχή στην Ελληνική Εθνική Ομάδα Καλαθοσφαίρισης στις ηλικίες Παίδων και Εφήβων. © 2026 Μένης Παπανικολάου. Proudly powered by Sydney /* <![CDATA[ */ (function() { var expirationDate = new Date(); expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 ); document.cookie = \"pll_language=el; expires=\" + expirationDate.toUTCString() + \"; path=/; secure; SameSite=Lax\"; }()); /* ]]> */ /(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener(\"hashchange\",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1); document.body.className = document.body.className.replace(\"siteorigin-panels-before-js\",\"\");",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orthorobotics.gr-home-2560c3dd/about-ce-b2-ce-b9-ce-bf-ce-b3-cf-81-ce-b1-cf-86-ce-b9-ce-ba-cf-8c-cf-83-ce-b7-ce-bc-ce-ee8d185d.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orthorobotics.gr-home-2560c3dd/about-ce-b2-ce-b9-ce-bf-ce-b3-cf-81-ce-b1-cf-86-ce-b9-ce-ba-cf-8c-cf-83-ce-b7-ce-bc-ce-ee8d185d.txt",
+      "imageReferences": [
+        {
+          "url": "https://orthorobotics.gr/wp-content/uploads/2017/10/cropped-logo-e1509232588256.jpg",
+          "alt": "Μένης Παπανικολάου",
+          "sourcePageUrl": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+              "retrievedAt": "2026-03-31T13:09:57.861Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAt1BMVEWSmb66z+18msdig8La3u+tYX9IaLc7W7BagbmcUW+kqMr/q6n+//+hsNv/lIr/jIGMnNLJyOP9/fyQttT/wb3/////aWn+YWF5kNT0oqz0i4ueqtIZNJjhvt/8gn//WVr/6+rN1+o9RKZwgcMPJpX/VFT9UEn+RUX8Ozv2Ly+FGzdYZrfU1e/8LS/lQkG/mbVUX60AE231hHtcdMb0mp3qYFTFwNu3w9prcqSURGNDaaIUMX5FNW5wYt7AAAAAjklEQVR4AR3HNUJEMQCGwf+L8RR36ajR+1+CEuvRdd8kK9MNAiRQNgJmVDAt1yM6kSzYVJUsPNssAk5N7ZFKjVNFAY4co6TAOI+kyQm+LFUEBEKKzuWUNB7rSH/rSnvOulOGk+QlXTBqMIrfYX4tSe2nP3iRa/KNK7uTmWJ5a9+erZ3d+18od4ytiZdvZyuKWy8o3UpTVAAAAABJRU5ErkJggg==",
+          "sourcePageUrl": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+              "retrievedAt": "2026-03-31T13:09:57.861Z"
+            }
+          ]
+        },
+        {
+          "url": "https://orthorobotics.gr/wp-content/uploads/2015/03/library-488678_1920-300x200.jpg",
+          "sourcePageUrl": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+              "retrievedAt": "2026-03-31T13:09:57.861Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page fetch",
+          "uri": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+          "retrievedAt": "2026-03-31T13:09:57.862Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "https://orthorobotics.gr/el/services",
+      "finalUrl": "https://orthorobotics.gr/el/services",
+      "fetchedAt": "2026-03-31T13:09:52.794Z",
+      "metadata": {
+        "title": "Services Archive - Μένης Παπανικολάου",
+        "canonicalUrl": "https://orthorobotics.gr/el/services/",
+        "language": "el",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Services Archive - Μένης Παπανικολάου"
+      },
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Ρομποτική Ορθοπεδική Χειρουργική και Επεμβάσεις με τη Καθοδήγηση Ηλεκτρονικού Υπολογιστή"
+        },
+        {
+          "level": "h3",
+          "text": "Επεμβάσεις Ελάχιστης Επεμβατικότητας"
+        },
+        {
+          "level": "h3",
+          "text": "Πρωτόκολλα Ταχείας Αποκατάστασης και Αποθεραπείας"
+        },
+        {
+          "level": "h3",
+          "text": "Υπέρηχος Μυοσκελετικού, PRP και άλλες Σύγχρονες Ορθοπεδικές Λύσεις"
+        },
+        {
+          "level": "h3",
+          "text": "Αθλητικές Κακώσεις"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://orthorobotics.gr/el/"
+        },
+        {
+          "href": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d/",
+          "label": "Βιογραφικό Σημείωμα"
+        },
+        {
+          "href": "https://orthorobotics.gr/el/services/",
+          "label": "Εξειδικεύσεις"
+        },
+        {
+          "href": "https://orthorobotics.gr/%ce%b4%ce%b9%ce%b5%cf%8d%ce%b8%cf%85%ce%bd%cf%83%ce%b7-%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1/",
+          "label": "Διεύθυνση – Επικοινωνία"
+        },
+        {
+          "href": "https://orthorobotics.gr/en/services/",
+          "label": "English"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://orthorobotics.gr/el/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Αναζήτηση"
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Αναζήτηση…",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://orthorobotics.gr/el/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Αναζήτηση"
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Αναζήτηση…",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://orthorobotics.gr/el/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Αναζήτηση"
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Αναζήτηση…",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "31536000"
+        ],
+        "emails": [],
+        "addresses": [],
+        "socialLinks": [],
+        "forms": [
+          {
+            "action": "https://orthorobotics.gr/el/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Αναζήτηση"
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Αναζήτηση…",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://orthorobotics.gr/el/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Αναζήτηση"
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Αναζήτηση…",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://orthorobotics.gr/el/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Αναζήτηση"
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Αναζήτηση…",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "© 2026 Μένης Παπανικολάου. Proudly powered by Sydney",
+      "textContent": "Skip to content Αρχική Σελίδα Βιογραφικό Σημείωμα Εξειδικεύσεις Διεύθυνση – Επικοινωνία English Αναζήτηση για: Αναζήτηση για: Αρχική Σελίδα Βιογραφικό Σημείωμα Εξειδικεύσεις Διεύθυνση – Επικοινωνία English Αναζήτηση για: Ρομποτική Ορθοπεδική Χειρουργική και Επεμβάσεις με τη Καθοδήγηση Ηλεκτρονικού Υπολογιστή Η χρήση ηλεκτρονικού υπολογιστή στην Ορθοπεδική Χειρουργική επιτρέπει στο χειρουργό να εκτελεί επεμβάσεις με ακρίβεια ενός χιλιοστού και απόκλιση μιας μοίρας. Αυτή η ακρίβεια εγγυάται καλύτερα χειρουργικά αποτελέσματα με αποδεδειγμένα μεγαλύτερη διάρκεια στον χρόνο. Συνοδεύεται με Μετεγχειρητικό Πιστοποιητικό Ακριβείας και Εύρους Κίνησης. Επεμβάσεις Ελάχιστης Επεμβατικότητας Προσφέρουν το ίδιο χειρουργικό αποτέλεσμα μέσα από μικρότερες τομές και με σεβασμό στους ιστούς του ασθενούς. Συμβάλλουν στη μικρότερη διάρκεια νοσηλείας, ελαχιστοποιούν τον μετεγχειρητικό πόνο και την απώλεια αίματος. Πρωτόκολλα Ταχείας Αποκατάστασης και Αποθεραπείας Πρόκειται για καινοτόμo εξέλιξη της Ορθοπεδικής Χειρουργικής που απαιτεί γνώση, εμπειρία σε τέτοια πρωτόκολλα και εξειδίκευση από όλη την ομάδα (Χειρουργός, Αναισθησιολόγος και Φυσιοθεραπευτής). Επιτυγχάνει τη μείωση του χρόνου νοσηλείας σε 2-3 ημέρες, ακόμα και μετά απο μεγάλης βαρύτητας χειρουργικές επεμβάσεις. Υπέρηχος Μυοσκελετικού, PRP και άλλες Σύγχρονες Ορθοπεδικές Λύσεις Ο ιατρός χρησιμοποιεί Υπέρηχο ως περαιτέρω βοήθημα για την διάγνωσή σας και την διενέργεια καθοδηγούμενων θεραπευτικών εγχύσεων (ενέσεις) με ακρίβεια στο απαραίτητο σημείο της πάθησης σας έτσι ώστε να επιτευχθεί το καλύτερο δυνατόν θεραπευτικό αποτέλεσμα. Κατά περίπτωση μπορεί να επωφεληθείτε απο ένεση με βλαστοκυτταρα του αίματός σας (PRP) που πραγματοποιούνται στο ιατρείο σε συγκεκριμένες ημερομηνίες του μήνα κατόπιν συνεννόησης. Αθλητικές Κακώσεις Ο ιατρός έχει εμπειρία από αθλητικές κακώσεις Ποδοσφαίρου, Καλαθοσφαίρισης, Scottish Rugby, Γκολφ και άλλων αθλημάτων. Ανάμεσα στους πρόσφατους ασθένεις του συγκαταλέγονται Καλαθοσφαιριστες με παρουσία στην EuroLeague τόσο με Ελληνικές όσο και ξένες ομάδες. Πριν τις Ιατρικές σπουδές ητανε παίκτης της Ελληνικής Εθνικής Ομάδας Μπάσκετ Παίδων και αργότερα Εφήβων. © 2026 Μένης Παπανικολάου. Proudly powered by Sydney /* <![CDATA[ */ (function() { var expirationDate = new Date(); expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 ); document.cookie = \"pll_language=el; expires=\" + expirationDate.toUTCString() + \"; path=/; secure; SameSite=Lax\"; }()); /* ]]> */ /(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener(\"hashchange\",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orthorobotics.gr-home-2560c3dd/services-el-services-876b6eb3.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orthorobotics.gr-home-2560c3dd/services-el-services-876b6eb3.txt",
+      "imageReferences": [
+        {
+          "url": "https://orthorobotics.gr/wp-content/uploads/2017/10/cropped-logo-e1509232588256.jpg",
+          "alt": "Μένης Παπανικολάου",
+          "sourcePageUrl": "https://orthorobotics.gr/el/services",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orthorobotics.gr/el/services",
+              "retrievedAt": "2026-03-31T13:09:52.792Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAt1BMVEWSmb66z+18msdig8La3u+tYX9IaLc7W7BagbmcUW+kqMr/q6n+//+hsNv/lIr/jIGMnNLJyOP9/fyQttT/wb3/////aWn+YWF5kNT0oqz0i4ueqtIZNJjhvt/8gn//WVr/6+rN1+o9RKZwgcMPJpX/VFT9UEn+RUX8Ozv2Ly+FGzdYZrfU1e/8LS/lQkG/mbVUX60AE231hHtcdMb0mp3qYFTFwNu3w9prcqSURGNDaaIUMX5FNW5wYt7AAAAAjklEQVR4AR3HNUJEMQCGwf+L8RR36ajR+1+CEuvRdd8kK9MNAiRQNgJmVDAt1yM6kSzYVJUsPNssAk5N7ZFKjVNFAY4co6TAOI+kyQm+LFUEBEKKzuWUNB7rSH/rSnvOulOGk+QlXTBqMIrfYX4tSe2nP3iRa/KNK7uTmWJ5a9+erZ3d+18od4ytiZdvZyuKWy8o3UpTVAAAAABJRU5ErkJggg==",
+          "sourcePageUrl": "https://orthorobotics.gr/el/services",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orthorobotics.gr/el/services",
+              "retrievedAt": "2026-03-31T13:09:52.792Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://orthorobotics.gr/el/services",
+          "retrievedAt": "2026-03-31T13:09:52.794Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://orthorobotics.gr/address-contact",
+      "finalUrl": "https://orthorobotics.gr/address-contact",
+      "fetchedAt": "2026-03-31T13:09:56.083Z",
+      "metadata": {
+        "title": "Address - Contact - Menis Papanikolaou",
+        "canonicalUrl": "https://orthorobotics.gr/address-contact/",
+        "language": "en-GB",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Address - Contact - Menis Papanikolaou",
+        "openGraphDescription": "Medical Office Hours: Monday, Wednesday and Friday 6-8pm (an appointment is necessary)The doctor is happy to review orthopaedic emergencies at any other […]"
+      },
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Address - Contact"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://orthorobotics.gr/en/"
+        },
+        {
+          "href": "https://orthorobotics.gr/",
+          "label": "Home"
+        },
+        {
+          "href": "https://orthorobotics.gr/curriculum-vitae/",
+          "label": "Curriculum Vitae"
+        },
+        {
+          "href": "https://orthorobotics.gr/en/services/",
+          "label": "Sub-Specialties"
+        },
+        {
+          "href": "https://orthorobotics.gr/address-contact/",
+          "label": "Address – Contact"
+        },
+        {
+          "href": "https://orthorobotics.gr/%ce%b4%ce%b9%ce%b5%cf%8d%ce%b8%cf%85%ce%bd%cf%83%ce%b7-%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1/",
+          "label": "Ελληνικά"
+        },
+        {
+          "href": "https://orthorobotics.gr/cdn-cgi/l/email-protection#d9b4bcb7b0aaf7a9b8a9b8b7b0b2b6b5b8b6ac99beb4b8b0b5f7bab6b4",
+          "label": "[email protected]"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://orthorobotics.gr/en/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Search"
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Search …",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://orthorobotics.gr/en/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Search"
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Search …",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        },
+        {
+          "action": "https://orthorobotics.gr/en/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Search"
+          ],
+          "fields": [
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Search …",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "2107246205",
+          "6979721237",
+          "31536000"
+        ],
+        "emails": [],
+        "addresses": [],
+        "socialLinks": [],
+        "forms": [
+          {
+            "action": "https://orthorobotics.gr/en/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Search"
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Search …",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://orthorobotics.gr/en/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Search"
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Search …",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          },
+          {
+            "action": "https://orthorobotics.gr/en/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Search"
+            ],
+            "fields": [
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Search …",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "© 2026 Menis Papanikolaou. Proudly powered by Sydney",
+      "textContent": "Skip to content Home Curriculum Vitae Sub-Specialties Address – Contact Ελληνικά Search for: Search for: Home Curriculum Vitae Sub-Specialties Address – Contact Ελληνικά Search for: Address - Contact Medical Office Hours: Monday, Wednesday and Friday 6-8pm (an appointment is necessary)The doctor is happy to review orthopaedic emergencies at any other time and day (prior communication is again necessary). Address: Papadiamantopoulou 9, Athens, Greece, 2nd floor Tel.: 2107246205, 6979721237 Email: [email protected] © 2026 Menis Papanikolaou. Proudly powered by Sydney /* <![CDATA[ */ (function() { var expirationDate = new Date(); expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 ); document.cookie = \"pll_language=en; expires=\" + expirationDate.toUTCString() + \"; path=/; secure; SameSite=Lax\"; }()); /* ]]> */ /* <![CDATA[ */ var soWidgetsGoogleMap = {\"geocode\":{\"noResults\":\"There were no results for the place you entered. Please try another.\"}}; /* ]]> */ /(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener(\"hashchange\",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1); document.body.className = document.body.className.replace(\"siteorigin-panels-before-js\",\"\");",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orthorobotics.gr-home-2560c3dd/contact-address-contact-3cb99312.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orthorobotics.gr-home-2560c3dd/contact-address-contact-3cb99312.txt",
+      "imageReferences": [
+        {
+          "url": "https://orthorobotics.gr/wp-content/uploads/2017/10/cropped-logo-e1509232588256.jpg",
+          "alt": "Menis Papanikolaou",
+          "sourcePageUrl": "https://orthorobotics.gr/address-contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orthorobotics.gr/address-contact",
+              "retrievedAt": "2026-03-31T13:09:56.081Z"
+            }
+          ]
+        },
+        {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAaVBMVEUJO8bU1dgENMQAILwACbAABKNNctT////+/v74+fv09fjj4+PDzuy9yOm3xOeBhM6OpN6Hn919ltw5ZNHw8vXr7fXJy9czXs4tWs0oVcoGG6rl5++ZrOHV3PCBgsmmt+YIMKKrscgAAI7AuEORAAAAXUlEQVR4ATXKgQbDMACE4e/ayGgMG8DW93+6GmwCWztE8bvDF+KYhFHUZDdD0NO+QRHDjqcQYf9kKpOms5wCXE8x57EFwgJbnnkhI8ct9XLHD2/SStYeUI1JQbAC/u0uEcnG0vheAAAAAElFTkSuQmCC",
+          "sourcePageUrl": "https://orthorobotics.gr/address-contact",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://orthorobotics.gr/address-contact",
+              "retrievedAt": "2026-03-31T13:09:56.081Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://orthorobotics.gr/address-contact",
+          "retrievedAt": "2026-03-31T13:09:56.083Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/orthorobotics.gr-home-2560c3dd/contact-address-contact-3cb99312.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "115286979721237",
+      "2107246205",
+      "6979721237",
+      "31536000",
+      "2020-2021",
+      "2021-2022"
+    ],
+    "emails": [],
+    "addresses": [
+      "Β.Σοφίας & Παπαδιαμαντοπούλου 9, Ιλίσια, Αθήνα, 115286979721237 , 2107246205menis.papanikolaou@gmail.com",
+      "Β.Σοφίας & Παπαδιαμαντοπούλου 9, Ιλίσια, Αθήνα, 11528"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/menis.papanikolaou.5"
+      },
+      {
+        "href": "https://www.facebook.com/OrthoRoboticsGr-399900497091799/"
+      },
+      {
+        "href": "http://www.linkedin.com/in/menis-papanikolaou-51528382"
+      },
+      {
+        "href": "https://www.facebook.com/IonikosNikaiaBC/photos/a.117025533447943/122262336257596/?type=3",
+        "label": "ΚΑΕ Ιωνικός Νικαίας"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://orthorobotics.gr/el/",
+        "method": "get",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "s",
+          "submit"
+        ],
+        "submitLabels": [
+          "Αναζήτηση"
+        ],
+        "fields": [
+          {
+            "name": "s",
+            "type": "search",
+            "label": "Αναζήτηση…",
+            "required": false
+          },
+          {
+            "type": "submit",
+            "required": false
+          }
+        ]
+      },
+      {
+        "action": "https://orthorobotics.gr/en/",
+        "method": "get",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "s",
+          "submit"
+        ],
+        "submitLabels": [
+          "Search"
+        ],
+        "fields": [
+          {
+            "name": "s",
+            "type": "search",
+            "label": "Search …",
+            "required": false
+          },
+          {
+            "type": "submit",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Αρχική Σελίδα - Μένης Παπανικολάου",
+    "canonicalUrl": "https://orthorobotics.gr/el/",
+    "language": "el",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "openGraphTitle": "Αρχική Σελίδα - Μένης Παπανικολάου",
+    "openGraphDescription": "Ακολουθήστε μας για να μαθαίνετε Ορθοπαιδικές εξελίξεις"
+  },
+  "imageReferences": [
+    {
+      "url": "https://orthorobotics.gr/wp-content/uploads/2017/10/cropped-logo-e1509232588256.jpg",
+      "alt": "Μένης Παπανικολάου",
+      "sourcePageUrl": "https://orthorobotics.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orthorobotics.gr/el",
+          "retrievedAt": "2026-03-31T13:09:51.132Z"
+        }
+      ]
+    },
+    {
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAt1BMVEWSmb66z+18msdig8La3u+tYX9IaLc7W7BagbmcUW+kqMr/q6n+//+hsNv/lIr/jIGMnNLJyOP9/fyQttT/wb3/////aWn+YWF5kNT0oqz0i4ueqtIZNJjhvt/8gn//WVr/6+rN1+o9RKZwgcMPJpX/VFT9UEn+RUX8Ozv2Ly+FGzdYZrfU1e/8LS/lQkG/mbVUX60AE231hHtcdMb0mp3qYFTFwNu3w9prcqSURGNDaaIUMX5FNW5wYt7AAAAAjklEQVR4AR3HNUJEMQCGwf+L8RR36ajR+1+CEuvRdd8kK9MNAiRQNgJmVDAt1yM6kSzYVJUsPNssAk5N7ZFKjVNFAY4co6TAOI+kyQm+LFUEBEKKzuWUNB7rSH/rSnvOulOGk+QlXTBqMIrfYX4tSe2nP3iRa/KNK7uTmWJ5a9+erZ3d+18od4ytiZdvZyuKWy8o3UpTVAAAAABJRU5ErkJggg==",
+      "sourcePageUrl": "https://orthorobotics.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orthorobotics.gr/el",
+          "retrievedAt": "2026-03-31T13:09:51.132Z"
+        }
+      ]
+    },
+    {
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAaVBMVEUJO8bU1dgENMQAILwACbAABKNNctT////+/v74+fv09fjj4+PDzuy9yOm3xOeBhM6OpN6Hn919ltw5ZNHw8vXr7fXJy9czXs4tWs0oVcoGG6rl5++ZrOHV3PCBgsmmt+YIMKKrscgAAI7AuEORAAAAXUlEQVR4ATXKgQbDMACE4e/ayGgMG8DW93+6GmwCWztE8bvDF+KYhFHUZDdD0NO+QRHDjqcQYf9kKpOms5wCXE8x57EFwgJbnnkhI8ct9XLHD2/SStYeUI1JQbAC/u0uEcnG0vheAAAAAElFTkSuQmCC",
+      "sourcePageUrl": "https://orthorobotics.gr/en/services",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orthorobotics.gr/en/services",
+          "retrievedAt": "2026-03-31T13:09:54.407Z"
+        }
+      ]
+    },
+    {
+      "url": "https://orthorobotics.gr/wp-content/uploads/2015/03/library-488678_1920-300x200.jpg",
+      "sourcePageUrl": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+          "retrievedAt": "2026-03-31T13:09:57.861Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "115286979721237",
+      "sourcePageUrl": "https://orthorobotics.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://orthorobotics.gr/el",
+          "retrievedAt": "2026-03-31T13:09:51.132Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2107246205",
+      "sourcePageUrl": "https://orthorobotics.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://orthorobotics.gr/el",
+          "retrievedAt": "2026-03-31T13:09:51.132Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "6979721237",
+      "sourcePageUrl": "https://orthorobotics.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://orthorobotics.gr/el",
+          "retrievedAt": "2026-03-31T13:09:51.132Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "31536000",
+      "sourcePageUrl": "https://orthorobotics.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://orthorobotics.gr/el",
+          "retrievedAt": "2026-03-31T13:09:51.132Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Β.Σοφίας & Παπαδιαμαντοπούλου 9, Ιλίσια, Αθήνα, 115286979721237 , 2107246205menis.papanikolaou@gmail.com",
+      "sourcePageUrl": "https://orthorobotics.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://orthorobotics.gr/el",
+          "retrievedAt": "2026-03-31T13:09:51.132Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Β.Σοφίας & Παπαδιαμαντοπούλου 9, Ιλίσια, Αθήνα, 11528",
+      "sourcePageUrl": "https://orthorobotics.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://orthorobotics.gr/el",
+          "retrievedAt": "2026-03-31T13:09:51.132Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://orthorobotics.gr/el",
+      "sourcePageUrl": "https://orthorobotics.gr/el",
+      "pageType": "homepage",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://orthorobotics.gr/el",
+          "retrievedAt": "2026-03-31T13:09:51.132Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://orthorobotics.gr/el/services",
+      "sourcePageUrl": "https://orthorobotics.gr/el/services",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://orthorobotics.gr/el/services",
+          "retrievedAt": "2026-03-31T13:09:52.792Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://orthorobotics.gr/en/services",
+      "sourcePageUrl": "https://orthorobotics.gr/en/services",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://orthorobotics.gr/en/services",
+          "retrievedAt": "2026-03-31T13:09:54.407Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://orthorobotics.gr/address-contact",
+      "sourcePageUrl": "https://orthorobotics.gr/address-contact",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://orthorobotics.gr/address-contact",
+          "retrievedAt": "2026-03-31T13:09:56.081Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://orthorobotics.gr/address-contact",
+      "sourcePageUrl": "https://orthorobotics.gr/address-contact",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://orthorobotics.gr/address-contact",
+          "retrievedAt": "2026-03-31T13:09:56.081Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2020-2021",
+      "sourcePageUrl": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+          "retrievedAt": "2026-03-31T13:09:57.861Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2021-2022",
+      "sourcePageUrl": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+          "retrievedAt": "2026-03-31T13:09:57.861Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+      "sourcePageUrl": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+      "pageType": "about",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+          "retrievedAt": "2026-03-31T13:09:57.861Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://orthorobotics.gr/%ce%b4%ce%b9%ce%b5%cf%8d%ce%b8%cf%85%ce%bd%cf%83%ce%b7-%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "sourcePageUrl": "https://orthorobotics.gr/%ce%b4%ce%b9%ce%b5%cf%8d%ce%b8%cf%85%ce%bd%cf%83%ce%b7-%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://orthorobotics.gr/%ce%b4%ce%b9%ce%b5%cf%8d%ce%b8%cf%85%ce%bd%cf%83%ce%b7-%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:09:59.587Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://orthorobotics.gr/%ce%b4%ce%b9%ce%b5%cf%8d%ce%b8%cf%85%ce%bd%cf%83%ce%b7-%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "sourcePageUrl": "https://orthorobotics.gr/%ce%b4%ce%b9%ce%b5%cf%8d%ce%b8%cf%85%ce%bd%cf%83%ce%b7-%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://orthorobotics.gr/%ce%b4%ce%b9%ce%b5%cf%8d%ce%b8%cf%85%ce%bd%cf%83%ce%b7-%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:09:59.587Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://orthorobotics.gr/",
+    "finalOrigin": "https://orthorobotics.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://orthorobotics.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:09:49.310Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [],
+      "disallowRules": [],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://orthorobotics.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:09:47.688Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://orthorobotics.gr/el",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://orthorobotics.gr/",
+        "timestamp": "2026-03-31T13:09:51.134Z"
+      },
+      {
+        "url": "https://orthorobotics.gr/el/services",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://orthorobotics.gr/el",
+        "timestamp": "2026-03-31T13:09:51.134Z"
+      },
+      {
+        "url": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://orthorobotics.gr/el",
+        "timestamp": "2026-03-31T13:09:51.134Z"
+      },
+      {
+        "url": "https://orthorobotics.gr/%ce%b4%ce%b9%ce%b5%cf%8d%ce%b8%cf%85%ce%bd%cf%83%ce%b7-%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://orthorobotics.gr/el",
+        "timestamp": "2026-03-31T13:09:51.134Z"
+      },
+      {
+        "url": "https://orthorobotics.gr/el",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orthorobotics.gr/el",
+        "timestamp": "2026-03-31T13:09:51.134Z"
+      },
+      {
+        "url": "https://orthorobotics.gr/en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orthorobotics.gr/el",
+        "timestamp": "2026-03-31T13:09:51.134Z"
+      },
+      {
+        "url": "https://orthorobotics.gr/cdn-cgi/l/email-protection",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orthorobotics.gr/el",
+        "timestamp": "2026-03-31T13:09:51.134Z"
+      },
+      {
+        "url": "https://orthorobotics.gr/el/services",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://orthorobotics.gr/el",
+        "timestamp": "2026-03-31T13:09:52.794Z"
+      },
+      {
+        "url": "https://orthorobotics.gr/en/services",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://orthorobotics.gr/el/services",
+        "timestamp": "2026-03-31T13:09:52.794Z"
+      },
+      {
+        "url": "https://orthorobotics.gr/en/services",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://orthorobotics.gr/el/services",
+        "timestamp": "2026-03-31T13:09:54.412Z"
+      },
+      {
+        "url": "https://orthorobotics.gr/address-contact",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://orthorobotics.gr/en/services",
+        "timestamp": "2026-03-31T13:09:54.413Z"
+      },
+      {
+        "url": "https://orthorobotics.gr/curriculum-vitae",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://orthorobotics.gr/en/services",
+        "timestamp": "2026-03-31T13:09:54.413Z"
+      },
+      {
+        "url": "https://orthorobotics.gr/address-contact",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://orthorobotics.gr/en/services",
+        "timestamp": "2026-03-31T13:09:56.083Z"
+      },
+      {
+        "url": "https://orthorobotics.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%cf%83%ce%b7%ce%bc%ce%b5%ce%af%cf%89%ce%bc%ce%b1-%ce%b9%ce%b1%cf%84%cf%81%ce%bf%cf%8d",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://orthorobotics.gr/el",
+        "timestamp": "2026-03-31T13:09:57.862Z"
+      },
+      {
+        "url": "https://orthorobotics.gr/%ce%b4%ce%b9%ce%b5%cf%8d%ce%b8%cf%85%ce%bd%cf%83%ce%b7-%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://orthorobotics.gr/el",
+        "timestamp": "2026-03-31T13:09:59.589Z"
+      },
+      {
+        "url": "https://orthorobotics.gr/el",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:10:04.298Z"
+      },
+      {
+        "url": "https://orthorobotics.gr/address-contact",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:10:11.035Z"
+      },
+      {
+        "url": "https://orthorobotics.gr/%ce%b4%ce%b9%ce%b5%cf%8d%ce%b8%cf%85%ce%bd%cf%83%ce%b7-%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:10:13.710Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

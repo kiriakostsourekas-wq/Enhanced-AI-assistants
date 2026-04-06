@@ -1,0 +1,2428 @@
+{
+  "domain": "homed.gr",
+  "collectedAt": "2026-03-31T13:15:00.210Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/homed.gr-home-999579f8",
+  "canonicalPages": {
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "https://www.homed.gr/en/healthcare-services-in-athens",
+      "finalUrl": "https://www.homed.gr/en/healthcare-services-in-athens",
+      "fetchedAt": "2026-03-31T13:14:43.792Z",
+      "metadata": {
+        "title": "Healthcare Services: Find Us Easily on Google Maps in athens",
+        "metaDescription": "Ready to take advantage of our healthcare services? Search for us on Google Maps & book your appointment today! Healthcare Services in athens",
+        "canonicalUrl": "https://www.homed.gr/en/healthcare-services-in-athens/",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Health Services in Hotels & Emergency Medical Home Care Services in Athens | HOMED",
+        "openGraphDescription": "Receive fast and professional medical services at your hotel or home in Athens, Greece. HOMED ensures you get the care you need, when and where you need it.",
+        "openGraphImage": "https://www.homed.gr/wp-content/uploads/ypiresies-homed.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "HEALTHCARE-SERVICES-IN-ATHENS/"
+        },
+        {
+          "level": "h2",
+          "text": "24/7 medical care, designed exclusively for international travelers"
+        },
+        {
+          "level": "h2",
+          "text": "🔹 What Makes HOMED Different"
+        },
+        {
+          "level": "h2",
+          "text": "🔹 Our Core Medical Services"
+        },
+        {
+          "level": "h2",
+          "text": "🔹 Medical Reporting & Insurance Coordination"
+        },
+        {
+          "level": "h2",
+          "text": "🔹 Geographic Coverage"
+        },
+        {
+          "level": "h2",
+          "text": "🔹 Need Immediate Assistance?"
+        },
+        {
+          "level": "h2",
+          "text": "24/7 MEDICAL CARE, DESIGNED EXCLUSIVELY FOR INTERNATIONAL TRAVELERS"
+        },
+        {
+          "level": "h2",
+          "text": "WHEN MEDICINE IS NEEDED,"
+        },
+        {
+          "level": "h2",
+          "text": "Presence comes first."
+        },
+        {
+          "level": "h3",
+          "text": "▶ Hotel & Accommodation Doctor Visits"
+        },
+        {
+          "level": "h3",
+          "text": "▶ Outpatient Medical Care (Clinic-Based)"
+        },
+        {
+          "level": "h3",
+          "text": "▶ Diagnostic Services (24/7)"
+        },
+        {
+          "level": "h3",
+          "text": "▶ Inpatient Care & Hospital Coordination"
+        },
+        {
+          "level": "h3",
+          "text": "▶ Travel Medicine Services"
+        },
+        {
+          "level": "h3",
+          "text": "▶ Telemedicine Services"
+        },
+        {
+          "level": "h3",
+          "text": "PRESCRIPTION"
+        },
+        {
+          "level": "h3",
+          "text": "URGENT CARE"
+        },
+        {
+          "level": "h3",
+          "text": "FIT TO FLY"
+        },
+        {
+          "level": "h3",
+          "text": "CARDIOLOGY"
+        },
+        {
+          "level": "h3",
+          "text": "HEAD TRAUMA"
+        },
+        {
+          "level": "h3",
+          "text": "STITCHES"
+        },
+        {
+          "level": "h3",
+          "text": "DVT (DEEP VEIN THROMBOSIS)"
+        },
+        {
+          "level": "h3",
+          "text": "LIMB INJURIES"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.homed.gr/"
+        },
+        {
+          "href": "https://www.homed.gr/en/",
+          "label": "HOME"
+        },
+        {
+          "href": "https://www.homed.gr/en/24-7-home-healthcare-athens/",
+          "label": "ABOUT US"
+        },
+        {
+          "href": "https://www.homed.gr/en/medical-team/",
+          "label": "OUR TEAM"
+        },
+        {
+          "href": "https://www.homed.gr/en/health-news-homed/list-a-z/",
+          "label": "MEDICAL LIBRARY"
+        },
+        {
+          "href": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care/",
+          "label": "ONLINE APPOINTMENT"
+        },
+        {
+          "href": "https://www.homed.gr/en/contact-homed-athens-healthcare/",
+          "label": "CONTACT"
+        },
+        {
+          "href": "https://www.homed.gr/en/emergency-department-near-me/",
+          "label": "HOMED EMERGENCY"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/",
+          "label": "SERVICES"
+        },
+        {
+          "href": "https://www.homed.gr/en/travel-medicine-guide/",
+          "label": "Travel Medicine"
+        },
+        {
+          "href": "https://www.homed.gr/en/maritime-telemedicine-services/",
+          "label": "MARITIME HEALTH"
+        },
+        {
+          "href": "https://www.homed.gr/en/client-testimonials-for-homed-services/",
+          "label": "GOOGLE REVIEWS"
+        },
+        {
+          "href": "https://www.homed.gr/en/homed-insurance-reimbursement-process/",
+          "label": "PRICING"
+        },
+        {
+          "href": "https://www.homed.gr/en/book-online-doctor-consultation/",
+          "label": "TELEMEDICINE BOOKING"
+        },
+        {
+          "href": "https://www.homed.gr/el/iatrikes-ypiresies-sto-spiti/",
+          "label": "GR"
+        },
+        {
+          "href": "https://www.homed.gr/en/homed-privacy-policy/",
+          "label": "Privacy Policy"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/emergency-medical-assistance/",
+          "label": "PRESCRIPTION"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/see-a-doctor/",
+          "label": "URGENT CARE"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/fit-to-fly/",
+          "label": "FIT TO FLY"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/heart-related-discomfort/",
+          "label": "CARDIOLOGY"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/head-injury-immediate-care/",
+          "label": "HEAD TRAUMA"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/cutaneous-wound-care-and-management/",
+          "label": "STITCHES"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/dvt-deep-vein-thrombosis/",
+          "label": "DVT (DEEP VEIN THROMBOSIS)"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/limb-trauma-treatment-essentials/",
+          "label": "LIMB INJURIES"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/homed-insurance-billing-services/",
+          "label": "INSURANCE COVERAGE"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/emergency-medical-care-homed/",
+          "label": "EMERGENCIES"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/general-practitioner-services-athens/",
+          "label": "GENERAL PRACTITIONER"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/telemedicine-booking/",
+          "label": "TELEMEDICINE BOOKING"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/telemedicine-with-nurse-visit-in-thessaloniki-book-online/",
+          "label": "TELEMEDICINE WITH NURSE VISIT IN THESSALONIKI"
+        },
+        {
+          "href": "https://www.homed.gr/en/family-doctor-for-tourists/",
+          "label": "travelers"
+        },
+        {
+          "href": "https://www.homed.gr/en/midnight-doctor-in-greece/",
+          "label": "24/7 availability"
+        },
+        {
+          "href": "https://www.homed.gr/en/24-7-ambulance-transfer-service/",
+          "label": "Ambulance"
+        },
+        {
+          "href": "https://www.homed.gr/en/athens-medical-care-nearby/health-insurance-partners-list/",
+          "label": "coordination with insurance"
+        },
+        {
+          "href": "https://www.homed.gr/en/find-doctor-athens/",
+          "label": "centrally located medical clinic"
+        },
+        {
+          "href": "https://www.homed.gr/en/advanced-diagnostic-laboratory-services/",
+          "label": "blood tests"
+        },
+        {
+          "href": "https://www.homed.gr/en/quality-home-x-ray-services/",
+          "label": "X-ray"
+        },
+        {
+          "href": "https://www.homed.gr/en/reliable-home-ultrasound-services/",
+          "label": "ultrasound"
+        },
+        {
+          "href": "https://www.homed.gr/en/uncategorized/homed-mediterraneo-hospital-collaboration/",
+          "label": "designated private hospitals"
+        },
+        {
+          "href": "https://www.homed.gr/en/pre-travel-medical-consultation/",
+          "label": "Pre-travel"
+        },
+        {
+          "href": "https://www.homed.gr/en/telemedicine/telemedicine-benefits/",
+          "label": "Telemedicine"
+        },
+        {
+          "href": "https://www.homed.gr/en/need-a-doctor-in-thessaloniki-homed/",
+          "label": "Thessaloniki"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-provider-terms/",
+          "label": "TERMS & CONDITIONS"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.homed.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "lang",
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Search"
+          ],
+          "fields": [
+            {
+              "name": "lang",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Type here",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "+30 210 80 600 98",
+          "37.976006",
+          "23.731924",
+          "+30 697.69.13.046",
+          "+30 210 8060098",
+          "+30 697 6913046",
+          "2021-2026",
+          "982447354",
+          "209754583-1",
+          "+306976913046"
+        ],
+        "emails": [
+          "info@homed.gr"
+        ],
+        "addresses": [
+          "CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.instagram.com/homed.clinic/",
+            "label": "homed.clinic"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.homed.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "lang",
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Search"
+            ],
+            "fields": [
+              {
+                "name": "lang",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Type here",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21",
+      "textContent": "{ \"@context\": \"https://schema.org\", \"@type\": \"MedicalBusiness\", \"name\": \"Homed\", \"url\": \"https://www.homed.gr\", \"legalName\": \"Homed\", \"logo\": \"https://www.homed.gr/wp-content/themes/homed/images/logo.png\", \"image\": \"https://www.homed.gr/wp-content/themes/homed/images/logo.png\", \"description\": \"Ιατροί διακεκριμένοι στον Πανεπιστημιακό και το Νοσοκομειακό χώρο με μακρά κλινική εμπειρία βρίσκονται σε ετοιμότητα να σας προσφέρουν άμεσα τις υπηρεσίες τους, μέρα και νύχτα, όλο το χρόνο.\", \"email\": \"info@homed.gr\", \"telephone\": \"+30 210 80 600 98\", \"faxNumber\": \"\", \"founder\": { \"@type\": \"Person\", \"name\": \"Elias Papazisis\" }, \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"addressLocality\": \"Attica\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"hasPOS\":{ \"@type\": \"Place\", \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"geo\":{ \"@type\":\"GeoCoordinates\", \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"latitude\": \"37.976006\", \"longitude\": \"23.731924\" } } } Skip to content HOMEABOUT USOUR TEAMMEDICAL LIBRARYONLINE APPOINTMENTCONTACT HOMED EMERGENCYSERVICESSERVICESTravel MedicineSERVICESMARITIME HEALTHGOOGLE REVIEWSPRICINGTELEMEDICINE BOOKING MENU Open search GR We use cookies. Privacy Policy I agree Close close Type a keyword HEALTHCARE-SERVICES-IN-ATHENS/ HEALTHCARE-SERVICES-IN-ATHENS/ PRESCRIPTIONURGENT CAREFIT TO FLYCARDIOLOGYHEAD TRAUMASTITCHESDVT (DEEP VEIN THROMBOSIS)LIMB INJURIESINSURANCE COVERAGEEMERGENCIESGENERAL PRACTITIONERTELEMEDICINE BOOKINGTELEMEDICINE WITH NURSE VISIT IN THESSALONIKI WHATSAPP +30 697.69.13.046 Continuous operation In the center of Athens Hotel visits Private hospital Collaboration with insurance companies Immediate service Quick coordination High patient satisfaction WHATSAPP +30 697.69.13.046 About us HEALTHCARE-SERVICES-IN-ATHENS/ 24/7 medical care, designed exclusively for international travelers HOMED Medical Clinic provides comprehensive, traveler-focused medical services across Greece, with immediate response, clinical continuity, and full coordination with international insurance and assistance companies. Our services are designed to ensure: fast medical access, minimal disruption to the traveler’s stay, and smooth insurance reimbursement without disputes. 🔹 What Makes HOMED Different Exclusive focus on travelers (short-term visitors, tourists, business travelers) 24/7 availability, with response target within 1 hour where feasible Hospital continuity: our medical team remains the treating team in selected private hospitals. Highly structured medical reports, tailored to insurance requirements Full coordination across outpatient, inpatient, and diagnostic care Experienced Professionals: Our team of doctors is highly qualified and experienced. Over 510 Google Reviews with an average rating of 4.8/5, reflecting consistent quality and patient satisfaction worldwide 🔹 Our Core Medical Services ▶ Hotel & Accommodation Doctor Visits Immediate medical visits directly at the hotel or place of stay, 24/7. Includes: Full clinical consultation Ambulance Transfer (if required) Hospital continuity: our medical team remains the treating team in selected private hospitals. e-prescription where required coordination with insurance / assistance companies follow-up instructions and documentation ▶ Outpatient Medical Care (Clinic-Based) Our centrally located medical clinic operates year-round in central Athens, providing fast and discreet outpatient care for travelers. Ideal for: non-urgent medical conditions follow-up evaluations diagnostic coordination ▶ Diagnostic Services (24/7) We coordinate same-day diagnostic testing, either at the clinic or at the patient’s location when feasible. Includes: blood tests imaging (X-ray, ultrasound) rapid diagnostics ▶ Inpatient Care & Hospital Coordination HOMED collaborates with selected private hospitals in Athens, where our own medical team acts as the treating physicians, maintaining full clinical and administrative oversight. Key advantages: daily medical reports and updated invoices strict limitation to medically necessary actions focus on early, medically safe discharge to reduce length of stay continuous communication with insurers and assistance partners For highly specialized cases (e.g. complex cardiology or advanced surgical emergencies), patients are referred to other designated private hospitals. In such cases, full clinical responsibility is transferred to the receiving hospital’s medical team. ▶ Travel Medicine Services Pre-travel consultations, vaccinations, and medical advice tailored to international travel needs. ▶ Telemedicine Services Remote medical consultations in English, supporting travelers worldwide. 🔹 Medical Reporting & Insurance Coordination For every case, HOMED issues a comprehensive, insurance-ready medical report, which: includes all examinations and results within the narrative clearly documents the medical necessity of each action follows a chronological, easy-to-review structure aligns with international clinical guidelines This reporting model significantly reduces delays, objections, and reimbursement disputes, contributing directly to traveler satisfaction. 🔹 Geographic Coverage Athens Metropolitan Area (all central districts & suburbs) Thessaloniki Metropolitan Area (same operational model & 24/7 readiness) Selected locations across Greece via HOMED’s partner network (case-by-case) 🔹 Need Immediate Assistance? 📞 24/7 : +30 210 8060098 💬 WhatsApp (07:00–23:00): +30 697 6913046 📍 Central Athens Medical Clinic – Ermou 16 Street If your request is non-urgent, you can book an appointment online using the link below /* Animation effect for the image */ .animated-img { display: block; margin: 0 auto; width: 242px; height: 150px; transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth animation */ } /* Hover animation: scaling and shadow */ .animated-img:hover { transform: scale(1.1); /* Enlarge the image slightly */ box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3); /* Add shadow */ } Healthcare Services in Athens 24/7 MEDICAL CARE, DESIGNED EXCLUSIVELY FOR INTERNATIONAL TRAVELERS PRESCRIPTION MORE URGENT CARE MORE FIT TO FLY MORE CARDIOLOGY MORE HEAD TRAUMA MORE STITCHES MORE DVT (DEEP VEIN THROMBOSIS) MORE LIMB INJURIES MORE INSURANCE COVERAGE MORE EMERGENCIES MORE GENERAL PRACTITIONER MORE TELEMEDICINE BOOKING MORE TELEMEDICINE WITH NURSE VISIT IN THESSALONIKI MORE ALWAYS BY YOUR SIDE 24 HOURS A DAY 365 DAYS A YEAR For any question CONTACT US WHEN MEDICINE IS NEEDED,Presence comes first. CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21 In order to properly view this page you need JavaScript enabled! /* <![CDATA[ */ var wpml_cookies = {\"wp-wpml_current_language\":{\"value\":\"en\",\"expires\":1,\"path\":\"/\"}}; var wpml_cookies = {\"wp-wpml_current_language\":{\"value\":\"en\",\"expires\":1,\"path\":\"/\"}}; //# sourceURL=wpml-cookie-js-extra /* ]]> */ /* <![CDATA[ */ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag(\"set\",\"linker\",{\"domains\":[\"www.homed.gr\"]}); gtag(\"js\", new Date()); gtag(\"set\", \"developer_id.dZTNiMT\", true); gtag(\"config\", \"GT-KV5GM4X\", {\"googlesitekit_post_type\":\"page\"}); gtag(\"config\", \"AW-982447354\"); window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( \"event\", name, { ...data, event_source: \"site-kit\" } ); }; //# sourceURL=google_gtagjs-js-after /* ]]> */ {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/en/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/homed/*\",\"/en/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} var Tawk_API = Tawk_API || {}; var Tawk_LoadStart=new Date(); (function(){ var s1 = document.createElement( 'script' ),s0=document.getElementsByTagName( 'script' )[0]; s1.async = true; s1.src = 'https://embed.tawk.to/66d6e42a50c10f7a00a36860/1i6rmmhlv'; s1.charset = 'UTF-8'; s1.setAttribute( 'crossorigin','*' ); s0.parentNode.insertBefore( s1, s0 ); })(); <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-T93TBW9F\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\" loading=\"lazy\"></iframe> Multilingual WordPress with WPML window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-209754583-1');",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/homed.gr-home-999579f8/services-en-healthcare-services-in-athens-8426f793.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/homed.gr-home-999579f8/services-en-healthcare-services-in-athens-8426f793.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.homed.gr/wp-content/uploads/ypiresies-homed.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.homed.gr/en/healthcare-services-in-athens",
+          "pageType": "services",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.homed.gr/en/healthcare-services-in-athens",
+              "retrievedAt": "2026-03-31T13:14:43.735Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.homed.gr/wp-content/uploads/on-line-appointment.jpg",
+          "alt": "Πάτημα κουμπιού για ραντεβού on line",
+          "sourcePageUrl": "https://www.homed.gr/en/healthcare-services-in-athens",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.homed.gr/en/healthcare-services-in-athens",
+              "retrievedAt": "2026-03-31T13:14:43.735Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://www.homed.gr/en/healthcare-services-in-athens",
+          "retrievedAt": "2026-03-31T13:14:43.792Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+      "finalUrl": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+      "fetchedAt": "2026-03-31T13:14:38.895Z",
+      "metadata": {
+        "title": "Contact Homed - Accessible Healthcare Services 24/7",
+        "metaDescription": "Reach out to Homed in Athens for healthcare services. Contact Homed Athens anytime for appointments and inquiries.",
+        "canonicalUrl": "https://www.homed.gr/en/contact-homed-athens-healthcare/",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Contact HOMED | Medical Support & Appointments 24/7",
+        "openGraphDescription": "Get in touch with HOMED for immediate medical assistance, clinic appointments in Athens, telemedicine services, or bookings in Thessaloniki. Call, WhatsApp, or chat with us we're here 24/7 to help.",
+        "openGraphImage": "https://www.homed.gr/wp-content/uploads/%CE%B3%CE%B9%CE%B1%CF%84%CF%81%CE%BF%CF%82-%CE%BE%CE%B5%CE%BD%CE%BF%CE%B4%CE%BF%CF%87%CE%B5%CE%AF%CE%B1-%CE%B1%CE%BC%CE%B5%CF%83%CE%B1-%CE%B3%CE%B9%CE%B1%CF%84%CF%81%CE%BF%CE%B9-%CF%83%CE%BF%CF%83-%CF%83%CF%80%CE%B9%CF%84%CE%B9-homed.webp"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "CONTACT A DOCTOR NEAR YOU"
+        },
+        {
+          "level": "h2",
+          "text": "Find Us"
+        },
+        {
+          "level": "h2",
+          "text": "Book Your Appointment"
+        },
+        {
+          "level": "h2",
+          "text": "HOMED Headquarters – Clinics"
+        },
+        {
+          "level": "h2",
+          "text": "Get in Touch Easily"
+        },
+        {
+          "level": "h2",
+          "text": "Call or Message Us"
+        },
+        {
+          "level": "h2",
+          "text": "Stay Updated with Medical News"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.homed.gr/"
+        },
+        {
+          "href": "https://www.homed.gr/en/",
+          "label": "HOME"
+        },
+        {
+          "href": "https://www.homed.gr/en/24-7-home-healthcare-athens/",
+          "label": "ABOUT US"
+        },
+        {
+          "href": "https://www.homed.gr/en/medical-team/",
+          "label": "OUR TEAM"
+        },
+        {
+          "href": "https://www.homed.gr/en/health-news-homed/list-a-z/",
+          "label": "MEDICAL LIBRARY"
+        },
+        {
+          "href": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care/",
+          "label": "ONLINE APPOINTMENT"
+        },
+        {
+          "href": "https://www.homed.gr/en/contact-homed-athens-healthcare/",
+          "label": "CONTACT"
+        },
+        {
+          "href": "https://www.homed.gr/en/emergency-department-near-me/",
+          "label": "HOMED EMERGENCY"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/",
+          "label": "SERVICES"
+        },
+        {
+          "href": "https://www.homed.gr/en/travel-medicine-guide/",
+          "label": "Travel Medicine"
+        },
+        {
+          "href": "https://www.homed.gr/en/maritime-telemedicine-services/",
+          "label": "MARITIME HEALTH"
+        },
+        {
+          "href": "https://www.homed.gr/en/client-testimonials-for-homed-services/",
+          "label": "GOOGLE REVIEWS"
+        },
+        {
+          "href": "https://www.homed.gr/en/homed-insurance-reimbursement-process/",
+          "label": "PRICING"
+        },
+        {
+          "href": "https://www.homed.gr/en/book-online-doctor-consultation/",
+          "label": "TELEMEDICINE BOOKING"
+        },
+        {
+          "href": "https://www.homed.gr/el/epikoinonia/",
+          "label": "GR"
+        },
+        {
+          "href": "https://www.homed.gr/en/homed-privacy-policy/",
+          "label": "Privacy Policy"
+        },
+        {
+          "href": "https://www.homed.gr/en/health-news-homed/",
+          "label": "here"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/emergency-medical-care-homed/",
+          "label": "URGENT CASES"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/limb-trauma-treatment-essentials/",
+          "label": "INJURIES"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/cutaneous-wound-care-and-management/",
+          "label": "WOUNDS"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/dvt-deep-vein-thrombosis/",
+          "label": "DVT"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/see-a-doctor/",
+          "label": "CONSULTATION"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/fit-to-fly/",
+          "label": "FIT-TO-FLY"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/heart-related-discomfort/",
+          "label": "CARDIOLOGY"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/head-injury-immediate-care/",
+          "label": "HEAD TRAUMA"
+        },
+        {
+          "href": "https://www.homed.gr/en/uncategorized/homed-mediterraneo-hospital-collaboration/",
+          "label": "Homed & Mediterraneo Hospital: A Partnership for Advanced Care"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-provider-terms/",
+          "label": "TERMS & CONDITIONS"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.homed.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "lang",
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Search"
+          ],
+          "fields": [
+            {
+              "name": "lang",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Type here",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "+30 210 80 600 98",
+          "37.976006",
+          "23.731924",
+          "+30 697.69.13.046",
+          "+30 231 231 7220",
+          "+30 697 6913 046",
+          "+30 697 6913046",
+          "2021-2026",
+          "982447354",
+          "209754583-1"
+        ],
+        "emails": [
+          "info@homed.gr"
+        ],
+        "addresses": [
+          "{ \"@context\": \"https://schema.org\", \"@type\": \"MedicalBusiness\", \"name\": \"Homed\", \"url\": \"https://www.homed.gr\", \"legalName\": \"Homed\", \"logo\": \"https://www.homed.gr/wp-content/themes/homed/images/logo.png\", \"image\": \"https://www.homed.gr/wp-content/themes/homed/images/logo.png\", \"description\": \"Ιατροί διακεκριμένοι στον Πανεπιστημιακό και το Νοσοκομειακό χώρο με μακρά κλινική εμπειρία βρίσκονται σε ετοιμότητα να σας προσφέρουν άμεσα τις υπηρεσίες τους, μέρα και νύχτα, όλο το χρόνο.\", \"email\": \"info@homed.gr\", \"telephone\": \"+30 210 80 600 98\", \"faxNumber\": \"\", \"founder\": { \"@type\": \"Person\", \"name\": \"Elias Papazisis\" }, \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"addressLocality\": \"Attica\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"hasPOS\":{ \"@type\": \"Place\", \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"geo\":{ \"@type\":\"GeoCoordinates\", \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"latitude\": \"37.976006\", \"longitude\": \"23.731924\" } } } Skip to content HOMEABOUT USOUR TEAMMEDICAL LIBRARYONLINE APPOINTMENTCONTACT HOMED EMERGENCYSERVICESSERVICESTravel MedicineSERVICESMARITIME HEALTHGOOGLE REVIEWSPRICINGTELEMEDICINE BOOKING MENU Open search GR We use cookies. Privacy Policy I agree Close close Type a keyword WHATSAPP +30 697.69.13.046 Continuous operation In the center of Athens Hotel visits Private hospital Collaboration with insurance companies Immediate service Quick coordination High patient satisfaction WHATSAPP +30 697.69.13.046 About us CONTACT A DOCTOR NEAR YOU Find Us Contact HOMED Book Your Appointment Telemedicine Medical Appointment in our Clinic Medical Appointment only for Thessaloniki HOMED Headquarters – Clinics Address Ermou 16, 3rd Floor, Syntagma Square, Athens Phone +30 210 80 600 98 – +30 231 231 7220 Email info@homed.gr Google Maps Find us on Google Maps WhatsApp +30 697 6913 046 Get in Touch Easily HOMED is located in the heart of Athens, at Ermou 16, 3rd Floor, Syntagma Square. Whether you need immediate medical assistance, have questions about our services, or want to collaborate, we are just a call or message away. Call or Message Us For urgent medical needs or questions, call us at +30 210 80 600 98. You can also message us on WhatsApp at +30 697 6913 046. Our dedicated team is available 24/7 to assist you. Stay Updated with Medical News Stay informed with the latest healthcare updates by visiting our Medical News section. Learn about new treatments, medical research, and health policies. Click here to explore. You can also make your appointment via our online chat, visible at the bottom-right corner of your screen ↘️ Contact HOMED BOOK YOUR APPOINTMENT BY CALLING WhatsApp OR AT +30 210 80 600 98 ALWAYS BY YOUR SIDE 24 HOURS A DAY 365 DAYS A YEAR For any question CONTACT US CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21 In order to properly view this page you need JavaScript enabled! /* <![CDATA[ */ var wpml_cookies = {\"wp-wpml_current_language\":{\"value\":\"en\",\"expires\":1,\"path\":\"/\"}}; var wpml_cookies = {\"wp-wpml_current_language\":{\"value\":\"en\",\"expires\":1,\"path\":\"/\"}}; //# sourceURL=wpml-cookie-js-extra /* ]]> */ /* <![CDATA[ */ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag(\"set\",\"linker\",{\"domains\":[\"www.homed.gr\"]}); gtag(\"js\", new Date()); gtag(\"set\", \"developer_id.dZTNiMT\", true); gtag(\"config\", \"GT-KV5GM4X\", {\"googlesitekit_post_type\":\"page\"}); gtag(\"config\", \"AW-982447354\"); window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( \"event\", name, { ...data, event_source: \"site-kit\" } ); }; //# sourceURL=google_gtagjs-js-after /* ]]> */ {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/en/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/homed/*\",\"/en/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} var Tawk_API = Tawk_API || {}; var Tawk_LoadStart=new Date(); (function(){ var s1 = document.createElement( 'script' ),s0=document.getElementsByTagName( 'script' )[0]; s1.async = true; s1.src = 'https://embed.tawk.to/66d6e42a50c10f7a00a36860/1i6rmmhlv'; s1.charset = 'UTF-8'; s1.setAttribute( 'crossorigin','*' ); s0.parentNode.insertBefore( s1, s0 ); })(); <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-T93TBW9F\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\" loading=\"lazy\"></iframe> Multilingual WordPress with WPML window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-209754583-1');",
+          "CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.instagram.com/homed.clinic/",
+            "label": "homed.clinic"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.homed.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "lang",
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Search"
+            ],
+            "fields": [
+              {
+                "name": "lang",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Type here",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21",
+      "textContent": "{ \"@context\": \"https://schema.org\", \"@type\": \"MedicalBusiness\", \"name\": \"Homed\", \"url\": \"https://www.homed.gr\", \"legalName\": \"Homed\", \"logo\": \"https://www.homed.gr/wp-content/themes/homed/images/logo.png\", \"image\": \"https://www.homed.gr/wp-content/themes/homed/images/logo.png\", \"description\": \"Ιατροί διακεκριμένοι στον Πανεπιστημιακό και το Νοσοκομειακό χώρο με μακρά κλινική εμπειρία βρίσκονται σε ετοιμότητα να σας προσφέρουν άμεσα τις υπηρεσίες τους, μέρα και νύχτα, όλο το χρόνο.\", \"email\": \"info@homed.gr\", \"telephone\": \"+30 210 80 600 98\", \"faxNumber\": \"\", \"founder\": { \"@type\": \"Person\", \"name\": \"Elias Papazisis\" }, \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"addressLocality\": \"Attica\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"hasPOS\":{ \"@type\": \"Place\", \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"geo\":{ \"@type\":\"GeoCoordinates\", \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"latitude\": \"37.976006\", \"longitude\": \"23.731924\" } } } Skip to content HOMEABOUT USOUR TEAMMEDICAL LIBRARYONLINE APPOINTMENTCONTACT HOMED EMERGENCYSERVICESSERVICESTravel MedicineSERVICESMARITIME HEALTHGOOGLE REVIEWSPRICINGTELEMEDICINE BOOKING MENU Open search GR We use cookies. Privacy Policy I agree Close close Type a keyword WHATSAPP +30 697.69.13.046 Continuous operation In the center of Athens Hotel visits Private hospital Collaboration with insurance companies Immediate service Quick coordination High patient satisfaction WHATSAPP +30 697.69.13.046 About us CONTACT A DOCTOR NEAR YOU Find Us Contact HOMED Book Your Appointment Telemedicine Medical Appointment in our Clinic Medical Appointment only for Thessaloniki HOMED Headquarters – Clinics Address Ermou 16, 3rd Floor, Syntagma Square, Athens Phone +30 210 80 600 98 – +30 231 231 7220 Email info@homed.gr Google Maps Find us on Google Maps WhatsApp +30 697 6913 046 Get in Touch Easily HOMED is located in the heart of Athens, at Ermou 16, 3rd Floor, Syntagma Square. Whether you need immediate medical assistance, have questions about our services, or want to collaborate, we are just a call or message away. Call or Message Us For urgent medical needs or questions, call us at +30 210 80 600 98. You can also message us on WhatsApp at +30 697 6913 046. Our dedicated team is available 24/7 to assist you. Stay Updated with Medical News Stay informed with the latest healthcare updates by visiting our Medical News section. Learn about new treatments, medical research, and health policies. Click here to explore. You can also make your appointment via our online chat, visible at the bottom-right corner of your screen ↘️ Contact HOMED BOOK YOUR APPOINTMENT BY CALLING WhatsApp OR AT +30 210 80 600 98 ALWAYS BY YOUR SIDE 24 HOURS A DAY 365 DAYS A YEAR For any question CONTACT US CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21 In order to properly view this page you need JavaScript enabled! /* <![CDATA[ */ var wpml_cookies = {\"wp-wpml_current_language\":{\"value\":\"en\",\"expires\":1,\"path\":\"/\"}}; var wpml_cookies = {\"wp-wpml_current_language\":{\"value\":\"en\",\"expires\":1,\"path\":\"/\"}}; //# sourceURL=wpml-cookie-js-extra /* ]]> */ /* <![CDATA[ */ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag(\"set\",\"linker\",{\"domains\":[\"www.homed.gr\"]}); gtag(\"js\", new Date()); gtag(\"set\", \"developer_id.dZTNiMT\", true); gtag(\"config\", \"GT-KV5GM4X\", {\"googlesitekit_post_type\":\"page\"}); gtag(\"config\", \"AW-982447354\"); window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( \"event\", name, { ...data, event_source: \"site-kit\" } ); }; //# sourceURL=google_gtagjs-js-after /* ]]> */ {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/en/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/homed/*\",\"/en/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} var Tawk_API = Tawk_API || {}; var Tawk_LoadStart=new Date(); (function(){ var s1 = document.createElement( 'script' ),s0=document.getElementsByTagName( 'script' )[0]; s1.async = true; s1.src = 'https://embed.tawk.to/66d6e42a50c10f7a00a36860/1i6rmmhlv'; s1.charset = 'UTF-8'; s1.setAttribute( 'crossorigin','*' ); s0.parentNode.insertBefore( s1, s0 ); })(); <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-T93TBW9F\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\" loading=\"lazy\"></iframe> Multilingual WordPress with WPML window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-209754583-1');",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/homed.gr-home-999579f8/contact-en-contact-homed-athens-healthcare-e3275d3d.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/homed.gr-home-999579f8/contact-en-contact-homed-athens-healthcare-e3275d3d.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.homed.gr/wp-content/uploads/%CE%B3%CE%B9%CE%B1%CF%84%CF%81%CE%BF%CF%82-%CE%BE%CE%B5%CE%BD%CE%BF%CE%B4%CE%BF%CF%87%CE%B5%CE%AF%CE%B1-%CE%B1%CE%BC%CE%B5%CF%83%CE%B1-%CE%B3%CE%B9%CE%B1%CF%84%CF%81%CE%BF%CE%B9-%CF%83%CE%BF%CF%83-%CF%83%CF%80%CE%B9%CF%84%CE%B9-homed.webp",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+          "pageType": "contact",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+              "retrievedAt": "2026-03-31T13:14:38.893Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+          "retrievedAt": "2026-03-31T13:14:38.895Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/homed.gr-home-999579f8/contact-en-contact-homed-athens-healthcare-e3275d3d.png"
+    },
+    "booking": {
+      "pageType": "booking",
+      "requestedUrl": "https://www.homed.gr/en/book-online-doctor-consultation",
+      "finalUrl": "https://www.homed.gr/en/book-online-doctor-consultation",
+      "fetchedAt": "2026-03-31T13:14:28.960Z",
+      "metadata": {
+        "title": "Book Online Doctor Consultation",
+        "metaDescription": "Book an online doctor consultation with HOMED in Athens. Get medical advice from certified doctors anytime, anywhere fast, easy, and secure.",
+        "canonicalUrl": "https://www.homed.gr/en/book-online-doctor-consultation/",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Book Online Doctor Consultation in Athens | 24/7 Medical Help by HOMED",
+        "openGraphDescription": "Consult a licensed doctor online from your home or hotel. Fast, secure, 24/7 virtual care in Athens. Book now with HOMED — no waiting, no hassle.",
+        "openGraphImage": "https://www.homed.gr/wp-content/uploads/online-doctor-athens-telemedicine-banner.webp"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "ONLINE DOCTOR IN ATHENS – 24/7 TELEMEDICINE APPOINTMENTS"
+        },
+        {
+          "level": "h1",
+          "text": "Online Doctor in Athens – 24/7 Telemedicine Appointments"
+        },
+        {
+          "level": "h2",
+          "text": "Talk to a Doctor Online Anytime, Anywhere"
+        },
+        {
+          "level": "h2",
+          "text": "Talk to a Doctor Online, Anytime"
+        },
+        {
+          "level": "h2",
+          "text": "Why Choose HOMED for Telemedicine?"
+        },
+        {
+          "level": "h2",
+          "text": "Services We Offer Online"
+        },
+        {
+          "level": "h2",
+          "text": "How Telemedicine Works"
+        },
+        {
+          "level": "h2",
+          "text": "Terms and Conditions of Teleconsultation Service"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.homed.gr/"
+        },
+        {
+          "href": "https://www.homed.gr/en/",
+          "label": "HOME"
+        },
+        {
+          "href": "https://www.homed.gr/en/24-7-home-healthcare-athens/",
+          "label": "ABOUT US"
+        },
+        {
+          "href": "https://www.homed.gr/en/medical-team/",
+          "label": "OUR TEAM"
+        },
+        {
+          "href": "https://www.homed.gr/en/health-news-homed/list-a-z/",
+          "label": "MEDICAL LIBRARY"
+        },
+        {
+          "href": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care/",
+          "label": "ONLINE APPOINTMENT"
+        },
+        {
+          "href": "https://www.homed.gr/en/contact-homed-athens-healthcare/",
+          "label": "CONTACT"
+        },
+        {
+          "href": "https://www.homed.gr/en/emergency-department-near-me/",
+          "label": "HOMED EMERGENCY"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/",
+          "label": "SERVICES"
+        },
+        {
+          "href": "https://www.homed.gr/en/travel-medicine-guide/",
+          "label": "Travel Medicine"
+        },
+        {
+          "href": "https://www.homed.gr/en/maritime-telemedicine-services/",
+          "label": "MARITIME HEALTH"
+        },
+        {
+          "href": "https://www.homed.gr/en/client-testimonials-for-homed-services/",
+          "label": "GOOGLE REVIEWS"
+        },
+        {
+          "href": "https://www.homed.gr/en/homed-insurance-reimbursement-process/",
+          "label": "PRICING"
+        },
+        {
+          "href": "https://www.homed.gr/en/book-online-doctor-consultation/",
+          "label": "TELEMEDICINE BOOKING"
+        },
+        {
+          "href": "https://www.homed.gr/el/",
+          "label": "GR"
+        },
+        {
+          "href": "https://www.homed.gr/en/homed-privacy-policy/",
+          "label": "Privacy Policy"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/emergency-medical-care-homed/",
+          "label": "URGENT CASES"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/limb-trauma-treatment-essentials/",
+          "label": "INJURIES"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/cutaneous-wound-care-and-management/",
+          "label": "WOUNDS"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/dvt-deep-vein-thrombosis/",
+          "label": "DVT"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/see-a-doctor/",
+          "label": "CONSULTATION"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/fit-to-fly/",
+          "label": "FIT-TO-FLY"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/heart-related-discomfort/",
+          "label": "CARDIOLOGY"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/head-injury-immediate-care/",
+          "label": "HEAD TRAUMA"
+        },
+        {
+          "href": "https://www.homed.gr/en/uncategorized/homed-mediterraneo-hospital-collaboration/",
+          "label": "Homed & Mediterraneo Hospital: A Partnership for Advanced Care"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-provider-terms/",
+          "label": "TERMS & CONDITIONS"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.homed.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "lang",
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Search"
+          ],
+          "fields": [
+            {
+              "name": "lang",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Type here",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "+30 210 80 600 98",
+          "37.976006",
+          "23.731924",
+          "+30 697.69.13.046",
+          "+30 697 6913046",
+          "2021-2026",
+          "982447354",
+          "209754583-1",
+          "+306976913046"
+        ],
+        "emails": [
+          "info@homed.gr"
+        ],
+        "addresses": [
+          "CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.instagram.com/homed.clinic/",
+            "label": "homed.clinic"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.homed.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "lang",
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Search"
+            ],
+            "fields": [
+              {
+                "name": "lang",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Type here",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21",
+      "textContent": "{ \"@context\": \"https://schema.org\", \"@type\": \"MedicalBusiness\", \"name\": \"Homed\", \"url\": \"https://www.homed.gr\", \"legalName\": \"Homed\", \"logo\": \"https://www.homed.gr/wp-content/themes/homed/images/logo.png\", \"image\": \"https://www.homed.gr/wp-content/themes/homed/images/logo.png\", \"description\": \"Ιατροί διακεκριμένοι στον Πανεπιστημιακό και το Νοσοκομειακό χώρο με μακρά κλινική εμπειρία βρίσκονται σε ετοιμότητα να σας προσφέρουν άμεσα τις υπηρεσίες τους, μέρα και νύχτα, όλο το χρόνο.\", \"email\": \"info@homed.gr\", \"telephone\": \"+30 210 80 600 98\", \"faxNumber\": \"\", \"founder\": { \"@type\": \"Person\", \"name\": \"Elias Papazisis\" }, \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"addressLocality\": \"Attica\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"hasPOS\":{ \"@type\": \"Place\", \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"geo\":{ \"@type\":\"GeoCoordinates\", \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"latitude\": \"37.976006\", \"longitude\": \"23.731924\" } } } Skip to content HOMEABOUT USOUR TEAMMEDICAL LIBRARYONLINE APPOINTMENTCONTACT HOMED EMERGENCYSERVICESSERVICESTravel MedicineSERVICESMARITIME HEALTHGOOGLE REVIEWSPRICINGTELEMEDICINE BOOKING MENU Open search GR We use cookies. Privacy Policy I agree Close close Type a keyword WHATSAPP +30 697.69.13.046 Continuous operation In the center of Athens Hotel visits Private hospital Collaboration with insurance companies Immediate service Quick coordination High patient satisfaction WHATSAPP +30 697.69.13.046 About us ONLINE DOCTOR IN ATHENS – 24/7 TELEMEDICINE APPOINTMENTS Talk to a Doctor Online Anytime, Anywhere Book Online Doctor Consultation body { font-family: 'Segoe UI', sans-serif; margin: 0; background-color: #f4f7fa; color: #222; } .container { max-width: 1000px; margin: auto; padding: 40px 20px; background: #fff; } h1, h2 { color: #004080; } h1 { font-size: 28px; margin-bottom: 10px; } h2 { font-size: 22px; margin-top: 30px; margin-bottom: 10px; } p { line-height: 1.6; } ul, ol { margin-left: 20px; } ul li::marker { color: #007BFF; } .terms-box { border: 1px solid #ccc; background-color: #fefefe; padding: 30px; margin-top: 40px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); } .terms-box ul { list-style: none; padding-left: 0; } .terms-box li { margin-bottom: 15px; } .terms-box li::before { content: \"→ \"; color: #007BFF; font-weight: bold; margin-right: 5px; } .highlight { font-weight: bold; color: #007BFF; } blockquote { font-style: italic; color: #555; border-left: 4px solid #007BFF; padding-left: 15px; margin: 20px 0; } footer { text-align: center; margin-top: 50px; font-size: 14px; color: #666; } .hero-img { width: 100%; max-height: 300px; object-fit: cover; border-radius: 6px; margin: 20px 0; } .btn-wrapper { text-align: center; margin-top: 30px; } .appointment-btn { display: inline-block; background-color: #007BFF; color: white; padding: 12px 24px; border-radius: 6px; font-weight: 500; font-size: 16px; text-decoration: none; transition: background-color 0.3s ease; } .appointment-btn:hover { background-color: #0056b3; } Online Doctor in Athens – 24/7 Telemedicine Appointments Talk to a Doctor Online, Anytime Need quick medical help without leaving your home or hotel? Our telemedicine service allows you to consult a doctor online in just minutes. Whether you’re in Athens or anywhere in Greece, HOMED offers secure, 24/7 virtual medical care. Why Choose HOMED for Telemedicine? Instant online consultations with certified doctors Available 7:00 AM – 11:00 PM daily 24/7 doctor access via emergency line Prescriptions, referrals, and medical reports issued online We speak Greek and English Services We Offer Online Our virtual doctors can help with: Cold, flu, fever, infections Skin issues (dermatology) Prescription refills Women’s health (gynecology) General consultations and second opinions How Telemedicine Works Click the button below to book your online doctor appointment. Choose a time and fill in your details. You’ll receive a secure video call link via email. Connect with our doctor and get your diagnosis, advice, or prescription. 💬 Book Online Consultation Terms and Conditions of Teleconsultation Service The teleconsultation service provided by HOMED is strictly intended for informational purposes. During the session, the doctor will listen to the patient’s concerns, collect relevant medical history, and provide general guidance related to the issue. If necessary, the doctor may consult with other specialists to enhance the accuracy of the information shared. It must be explicitly understood that: Firstly, the doctor and any consulting specialists do not bear responsibility for the patient’s interpretation or use of the information provided. Secondly, HOMED, the participating doctors, or any consulting physicians are not liable for any harm, health complications, or life-threatening situations that may result from misinterpretation or misuse of the shared information. Furthermore, the patient agrees that teleconsultation is not a replacement for an in-person medical evaluation, diagnosis, or treatment by a licensed healthcare provider. Lastly, before proceeding with the teleconsultation, the patient must confirm their understanding and agreement with these terms by acknowledging the following statement: I agree to the terms and conditions of the teleconsultation service, as outlined above. I understand that the information provided is for general informational purposes only and does not constitute medical advice or treatment. In case you want to book an appointment in our clinic instead, click the button below: Book at Our Clinic Book Online Doctor Consultation CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21 In order to properly view this page you need JavaScript enabled! /* <![CDATA[ */ var wpml_cookies = {\"wp-wpml_current_language\":{\"value\":\"en\",\"expires\":1,\"path\":\"/\"}}; var wpml_cookies = {\"wp-wpml_current_language\":{\"value\":\"en\",\"expires\":1,\"path\":\"/\"}}; //# sourceURL=wpml-cookie-js-extra /* ]]> */ /* <![CDATA[ */ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag(\"set\",\"linker\",{\"domains\":[\"www.homed.gr\"]}); gtag(\"js\", new Date()); gtag(\"set\", \"developer_id.dZTNiMT\", true); gtag(\"config\", \"GT-KV5GM4X\", {\"googlesitekit_post_type\":\"page\"}); gtag(\"config\", \"AW-982447354\"); window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( \"event\", name, { ...data, event_source: \"site-kit\" } ); }; //# sourceURL=google_gtagjs-js-after /* ]]> */ {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/en/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/homed/*\",\"/en/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} var Tawk_API = Tawk_API || {}; var Tawk_LoadStart=new Date(); (function(){ var s1 = document.createElement( 'script' ),s0=document.getElementsByTagName( 'script' )[0]; s1.async = true; s1.src = 'https://embed.tawk.to/66d6e42a50c10f7a00a36860/1i6rmmhlv'; s1.charset = 'UTF-8'; s1.setAttribute( 'crossorigin','*' ); s0.parentNode.insertBefore( s1, s0 ); })(); <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-T93TBW9F\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\" loading=\"lazy\"></iframe> Multilingual WordPress with WPML window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-209754583-1');",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/homed.gr-home-999579f8/booking-en-book-online-doctor-consultation-3fbe61a5.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/homed.gr-home-999579f8/booking-en-book-online-doctor-consultation-3fbe61a5.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.homed.gr/wp-content/uploads/online-doctor-athens-telemedicine-banner.webp",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.homed.gr/en/book-online-doctor-consultation",
+          "pageType": "booking",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.homed.gr/en/book-online-doctor-consultation",
+              "retrievedAt": "2026-03-31T13:14:28.958Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page fetch",
+          "uri": "https://www.homed.gr/en/book-online-doctor-consultation",
+          "retrievedAt": "2026-03-31T13:14:28.960Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/homed.gr-home-999579f8/booking-en-book-online-doctor-consultation-3fbe61a5.png"
+    },
+    "homepage": {
+      "pageType": "services",
+      "requestedUrl": "https://www.homed.gr/",
+      "finalUrl": "https://www.homed.gr/en",
+      "fetchedAt": "2026-03-31T13:14:19.324Z",
+      "metadata": {
+        "title": "Doctor in Athens 24/7",
+        "metaDescription": "Need a doctor in Athens 24/7? HOMED offers urgent care, home visits & walk-ins for locals and tourists. Book now online or call us.",
+        "canonicalUrl": "https://www.homed.gr/en/",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Doctor in Athens Available 24/7 – Home Visits, Walk-Ins & Urgent Care",
+        "openGraphDescription": "Need a doctor fast? HOMED offers 24/7 urgent care in Athens. English-speaking doctors, home visits, and same-day appointments. Book now.",
+        "openGraphImage": "https://www.homed.gr/wp-content/uploads/DermacisPortraits-site-dimentions.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Doctor in Athens: 24/7 Medical Services, Home Visits & Walk-ins"
+        },
+        {
+          "level": "h2",
+          "text": "MODERN MEDICAL SERVICES IN GREECE"
+        },
+        {
+          "level": "h2",
+          "text": "Medical Care, with a Human Touch"
+        },
+        {
+          "level": "h2",
+          "text": "OUR CLINIC IN CENTRAL ATHENS"
+        },
+        {
+          "level": "h2",
+          "text": "Our Clinic in Central Athens"
+        },
+        {
+          "level": "h2",
+          "text": "HOME DOCTORS"
+        },
+        {
+          "level": "h2",
+          "text": "ONLINE MEDICAL CONSULTATION"
+        },
+        {
+          "level": "h2",
+          "text": "Talk to a Doctor Online"
+        },
+        {
+          "level": "h2",
+          "text": "WHEN MEDICINE IS NEEDED,"
+        },
+        {
+          "level": "h2",
+          "text": "Presence comes first."
+        },
+        {
+          "level": "h3",
+          "text": "Location & Operating Hours"
+        },
+        {
+          "level": "h3",
+          "text": "Our Clinic in the Heart of Athens"
+        },
+        {
+          "level": "h3",
+          "text": "Medical Care at Your Location — Home & Hotel Visits"
+        },
+        {
+          "level": "h3",
+          "text": "Medical Care at Your Location"
+        },
+        {
+          "level": "h3",
+          "text": "Talk to a Doctor Online"
+        },
+        {
+          "level": "h3",
+          "text": "Doctor at Your Hotel in Athens – What Tourists Should Know"
+        },
+        {
+          "level": "h3",
+          "text": "Homed & Mediterraneo Hospital: A Partnership for Advanced Care"
+        },
+        {
+          "level": "h3",
+          "text": "Tourism and Natural Disasters: Professor Efthymis Lekkas on the Challenge of Resilience"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.homed.gr/"
+        },
+        {
+          "href": "https://www.homed.gr/en/",
+          "label": "HOME"
+        },
+        {
+          "href": "https://www.homed.gr/en/24-7-home-healthcare-athens/",
+          "label": "ABOUT US"
+        },
+        {
+          "href": "https://www.homed.gr/en/medical-team/",
+          "label": "OUR TEAM"
+        },
+        {
+          "href": "https://www.homed.gr/en/health-news-homed/list-a-z/",
+          "label": "MEDICAL LIBRARY"
+        },
+        {
+          "href": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care/",
+          "label": "ONLINE APPOINTMENT"
+        },
+        {
+          "href": "https://www.homed.gr/en/contact-homed-athens-healthcare/",
+          "label": "CONTACT"
+        },
+        {
+          "href": "https://www.homed.gr/en/emergency-department-near-me/",
+          "label": "HOMED EMERGENCY"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/",
+          "label": "SERVICES"
+        },
+        {
+          "href": "https://www.homed.gr/en/travel-medicine-guide/",
+          "label": "Travel Medicine"
+        },
+        {
+          "href": "https://www.homed.gr/en/maritime-telemedicine-services/",
+          "label": "MARITIME HEALTH"
+        },
+        {
+          "href": "https://www.homed.gr/en/client-testimonials-for-homed-services/",
+          "label": "GOOGLE REVIEWS"
+        },
+        {
+          "href": "https://www.homed.gr/en/homed-insurance-reimbursement-process/",
+          "label": "PRICING"
+        },
+        {
+          "href": "https://www.homed.gr/en/book-online-doctor-consultation/",
+          "label": "TELEMEDICINE BOOKING"
+        },
+        {
+          "href": "https://www.homed.gr/el/",
+          "label": "GR"
+        },
+        {
+          "href": "https://www.homed.gr/en/homed-privacy-policy/",
+          "label": "Privacy Policy"
+        },
+        {
+          "href": "https://www.homed.gr/en/medical-encyclopedia/doctor-hotel-athens/",
+          "label": "MEDICAL ENCYCLOPEDIA Mar 27, 2026 Doctor at Your Hotel in Athens – What Tourists Should Know Need a doctor at your hotel in Athens? Get fast, 24/7 medical care with English-speaking doctors. Book your appointment easily online. MORE"
+        },
+        {
+          "href": "https://www.homed.gr/en/uncategorized/homed-mediterraneo-hospital-collaboration/",
+          "label": "GENERIC Oct 02, 2025 Homed & Mediterraneo Hospital: A Partnership for Advanced Care MORE"
+        },
+        {
+          "href": "https://www.homed.gr/en/uncategorized/tourism-natural-disasters-hospitality/",
+          "label": "GENERIC Oct 01, 2025 Tourism and Natural Disasters: Professor Efthymis Lekkas on the Challenge of Resilience Professor Efthymios Lekkas warns that Greece’s tourism industry is highly exposed to natural disasters—and resilience is the key to safety. MORE"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/emergency-medical-care-homed/",
+          "label": "URGENT CASES"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/limb-trauma-treatment-essentials/",
+          "label": "INJURIES"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/cutaneous-wound-care-and-management/",
+          "label": "WOUNDS"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/dvt-deep-vein-thrombosis/",
+          "label": "DVT"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/see-a-doctor/",
+          "label": "CONSULTATION"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/fit-to-fly/",
+          "label": "FIT-TO-FLY"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/heart-related-discomfort/",
+          "label": "CARDIOLOGY"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-services-in-athens/head-injury-immediate-care/",
+          "label": "HEAD TRAUMA"
+        },
+        {
+          "href": "https://www.homed.gr/en/healthcare-provider-terms/",
+          "label": "TERMS & CONDITIONS"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://www.homed.gr/",
+          "method": "get",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "lang",
+            "s",
+            "submit"
+          ],
+          "submitLabels": [
+            "Search"
+          ],
+          "fields": [
+            {
+              "name": "lang",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "s",
+              "type": "search",
+              "label": "Type here",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "+30 210 80 600 98",
+          "37.976006",
+          "23.731924",
+          "+30 697 6913046",
+          "2021-2026",
+          "982447354",
+          "209754583-1",
+          "+306976913046",
+          "+302108060098"
+        ],
+        "emails": [
+          "info@homed.gr"
+        ],
+        "addresses": [
+          "CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.instagram.com/homed.clinic/",
+            "label": "homed.clinic"
+          }
+        ],
+        "forms": [
+          {
+            "action": "https://www.homed.gr/",
+            "method": "get",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "lang",
+              "s",
+              "submit"
+            ],
+            "submitLabels": [
+              "Search"
+            ],
+            "fields": [
+              {
+                "name": "lang",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "s",
+                "type": "search",
+                "label": "Type here",
+                "required": false
+              },
+              {
+                "type": "submit",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21",
+      "textContent": "{ \"@context\": \"https://schema.org\", \"@type\": \"MedicalBusiness\", \"name\": \"Homed\", \"url\": \"https://www.homed.gr\", \"legalName\": \"Homed\", \"logo\": \"https://www.homed.gr/wp-content/themes/homed/images/logo.png\", \"image\": \"https://www.homed.gr/wp-content/themes/homed/images/logo.png\", \"description\": \"Ιατροί διακεκριμένοι στον Πανεπιστημιακό και το Νοσοκομειακό χώρο με μακρά κλινική εμπειρία βρίσκονται σε ετοιμότητα να σας προσφέρουν άμεσα τις υπηρεσίες τους, μέρα και νύχτα, όλο το χρόνο.\", \"email\": \"info@homed.gr\", \"telephone\": \"+30 210 80 600 98\", \"faxNumber\": \"\", \"founder\": { \"@type\": \"Person\", \"name\": \"Elias Papazisis\" }, \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"addressLocality\": \"Attica\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"hasPOS\":{ \"@type\": \"Place\", \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"geo\":{ \"@type\":\"GeoCoordinates\", \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"latitude\": \"37.976006\", \"longitude\": \"23.731924\" } } } Skip to content HOMEABOUT USOUR TEAMMEDICAL LIBRARYONLINE APPOINTMENTCONTACT HOMED EMERGENCYSERVICESSERVICESTravel MedicineSERVICESMARITIME HEALTHGOOGLE REVIEWSPRICINGTELEMEDICINE BOOKING MENU Open search GR We use cookies. Privacy Policy I agree Close close Type a keyword Doctor in Athens: 24/7 Medical Services, Home Visits & Walk-ins MODERN MEDICAL SERVICES IN GREECELocation & Operating Hours Medical Care, with a Human Touch I am Dr. Elias Papazissis, Founder and Medical Director of HOMED. We created a modern medical organization focused on prompt, reliable and human-centered care — at your location or within trusted medical facilities. Our clinic in central Athens operates daily, offering General Medicine services, a Microbiology Department, and access to additional specialties upon request. At HOMED, medical care is not an impersonal service. It is a relationship built on trust. Book an Appointment Online After 11:00 PM, our doctors are available for home or hotel visits only. For late-night appointments, we recommend contacting us by phone. Speak with the doctor on duty OUR CLINIC IN CENTRAL ATHENSOur Clinic in the Heart of Athens Our Clinic in Central Athens Our clinic is located at Ermou Street 16, on the 3rd floor, near Syntagma Square, in the heart of Athens. We provide General Medicine services and operate a Microbiology Department, with access to additional medical specialties — including Gynecology, Orthopedics, and minor medical procedures — when clinically indicated. The clinic operates daily and welcomes both local and international patients seeking reliable medical care in Athens. View clinic location on the map EXPLORE OUR MEDICAL SERVICES HOME DOCTORSMedical Care at Your Location — Home & Hotel Visits Medical Care at Your Location Our licensed doctors provide medical care directly at your home, hotel, or office, offering professional and reliable treatment where you are. Home medical services are also available in Thessaloniki, delivered through our established medical network and following the same standards of care. ONLINE MEDICAL CONSULTATIONTalk to a Doctor Online Talk to a Doctor Online Book a secure 15-minute telemedicine consultation with a licensed doctor — from your home, hotel, or office. Consultation fee: €49 Availability: 7 days a week (subject to schedule) Payment: secure checkout via Stripe (Visa, Mastercard, Apple Pay) Connection: Zoom link provided after confirmation Book Online Consultation WHEN MEDICINE IS NEEDED,Presence comes first. MEDICAL ENCYCLOPEDIA Mar 27, 2026 Doctor at Your Hotel in Athens – What Tourists Should Know Need a doctor at your hotel in Athens? Get fast, 24/7 medical care with English-speaking doctors. Book your appointment easily online. MORE GENERIC Oct 02, 2025 Homed & Mediterraneo Hospital: A Partnership for Advanced Care MORE GENERIC Oct 01, 2025 Tourism and Natural Disasters: Professor Efthymis Lekkas on the Challenge of Resilience Professor Efthymios Lekkas warns that Greece’s tourism industry is highly exposed to natural disasters—and resilience is the key to safety. MORE CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21 In order to properly view this page you need JavaScript enabled! /* <![CDATA[ */ var wpml_cookies = {\"wp-wpml_current_language\":{\"value\":\"en\",\"expires\":1,\"path\":\"/\"}}; var wpml_cookies = {\"wp-wpml_current_language\":{\"value\":\"en\",\"expires\":1,\"path\":\"/\"}}; //# sourceURL=wpml-cookie-js-extra /* ]]> */ /* <![CDATA[ */ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag(\"set\",\"linker\",{\"domains\":[\"www.homed.gr\"]}); gtag(\"js\", new Date()); gtag(\"set\", \"developer_id.dZTNiMT\", true); gtag(\"config\", \"GT-KV5GM4X\", {\"googlesitekit_post_type\":\"page\"}); gtag(\"config\", \"AW-982447354\"); window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( \"event\", name, { ...data, event_source: \"site-kit\" } ); }; //# sourceURL=google_gtagjs-js-after /* ]]> */ {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/en/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/homed/*\",\"/en/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} var Tawk_API = Tawk_API || {}; var Tawk_LoadStart=new Date(); (function(){ var s1 = document.createElement( 'script' ),s0=document.getElementsByTagName( 'script' )[0]; s1.async = true; s1.src = 'https://embed.tawk.to/66d6e42a50c10f7a00a36860/1i6rmmhlv'; s1.charset = 'UTF-8'; s1.setAttribute( 'crossorigin','*' ); s0.parentNode.insertBefore( s1, s0 ); })(); <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-T93TBW9F\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\" loading=\"lazy\"></iframe> Multilingual WordPress with WPML window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-209754583-1');",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/homed.gr-home-999579f8/services-en-43f203b2.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/homed.gr-home-999579f8/services-en-43f203b2.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.homed.gr/wp-content/uploads/DermacisPortraits-site-dimentions.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.homed.gr/en",
+          "pageType": "services",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.homed.gr/en",
+              "retrievedAt": "2026-03-31T13:14:19.321Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.homed.gr/wp-content/uploads/Dr-Elias-papazisis-Homed-medical-director.webp",
+          "alt": "Homed-Location & Operating Hours",
+          "sourcePageUrl": "https://www.homed.gr/en",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.homed.gr/en",
+              "retrievedAt": "2026-03-31T13:14:19.322Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.homed.gr/wp-content/uploads/receptionist-welcoming-patient-homed-clinic-athens.webp",
+          "alt": "Homed-Our Clinic in the Heart of Athens",
+          "sourcePageUrl": "https://www.homed.gr/en",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.homed.gr/en",
+              "retrievedAt": "2026-03-31T13:14:19.322Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.homed.gr/wp-content/uploads/home-visit-doctor-athens-homed.webp",
+          "alt": "Homed-Medical Care at Your Location — Home & Hotel Visits",
+          "sourcePageUrl": "https://www.homed.gr/en",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.homed.gr/en",
+              "retrievedAt": "2026-03-31T13:14:19.322Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.homed.gr/wp-content/uploads/cover-up-your-safety-counts-on-it-homed.webp",
+          "alt": "Homed-Talk to a Doctor Online",
+          "sourcePageUrl": "https://www.homed.gr/en",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.homed.gr/en",
+              "retrievedAt": "2026-03-31T13:14:19.322Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.homed.gr/wp-content/uploads/doctor-hotel-athens-330x220.webp",
+          "alt": "Homed-Doctor at Your Hotel in Athens – What Tourists Should Know",
+          "sourcePageUrl": "https://www.homed.gr/en",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.homed.gr/en",
+              "retrievedAt": "2026-03-31T13:14:19.322Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.homed.gr/wp-content/uploads/mediterraneo-equipment1-383x220.jpg",
+          "alt": "Homed-Homed & Mediterraneo Hospital: A Partnership for Advanced Care",
+          "sourcePageUrl": "https://www.homed.gr/en",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.homed.gr/en",
+              "retrievedAt": "2026-03-31T13:14:19.322Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.homed.gr/wp-content/themes/homed/images/default-med.jpg",
+          "alt": "Homed-Tourism and Natural Disasters: Professor Efthymis Lekkas on the Challenge of Resilience",
+          "sourcePageUrl": "https://www.homed.gr/en",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.homed.gr/en",
+              "retrievedAt": "2026-03-31T13:14:19.322Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.324Z"
+        }
+      ],
+      "statusCode": 200
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "+30 210 80 600 98",
+      "37.976006",
+      "23.731924",
+      "+30 697 6913046",
+      "2021-2026",
+      "982447354",
+      "209754583-1",
+      "+306976913046",
+      "+302108060098",
+      "+30 697.69.13.046",
+      "+30 231 231 7220",
+      "+30 697 6913 046",
+      "+30 210 8060098"
+    ],
+    "emails": [
+      "info@homed.gr"
+    ],
+    "addresses": [
+      "CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21",
+      "{ \"@context\": \"https://schema.org\", \"@type\": \"MedicalBusiness\", \"name\": \"Homed\", \"url\": \"https://www.homed.gr\", \"legalName\": \"Homed\", \"logo\": \"https://www.homed.gr/wp-content/themes/homed/images/logo.png\", \"image\": \"https://www.homed.gr/wp-content/themes/homed/images/logo.png\", \"description\": \"Ιατροί διακεκριμένοι στον Πανεπιστημιακό και το Νοσοκομειακό χώρο με μακρά κλινική εμπειρία βρίσκονται σε ετοιμότητα να σας προσφέρουν άμεσα τις υπηρεσίες τους, μέρα και νύχτα, όλο το χρόνο.\", \"email\": \"info@homed.gr\", \"telephone\": \"+30 210 80 600 98\", \"faxNumber\": \"\", \"founder\": { \"@type\": \"Person\", \"name\": \"Elias Papazisis\" }, \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"addressLocality\": \"Attica\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"hasPOS\":{ \"@type\": \"Place\", \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"geo\":{ \"@type\":\"GeoCoordinates\", \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"latitude\": \"37.976006\", \"longitude\": \"23.731924\" } } } Skip to content HOMEABOUT USOUR TEAMMEDICAL LIBRARYONLINE APPOINTMENTCONTACT HOMED EMERGENCYSERVICESSERVICESTravel MedicineSERVICESMARITIME HEALTHGOOGLE REVIEWSPRICINGTELEMEDICINE BOOKING MENU Open search GR We use cookies. Privacy Policy I agree Close close Type a keyword WHATSAPP +30 697.69.13.046 Continuous operation In the center of Athens Hotel visits Private hospital Collaboration with insurance companies Immediate service Quick coordination High patient satisfaction WHATSAPP +30 697.69.13.046 About us CONTACT A DOCTOR NEAR YOU Find Us Contact HOMED Book Your Appointment Telemedicine Medical Appointment in our Clinic Medical Appointment only for Thessaloniki HOMED Headquarters – Clinics Address Ermou 16, 3rd Floor, Syntagma Square, Athens Phone +30 210 80 600 98 – +30 231 231 7220 Email info@homed.gr Google Maps Find us on Google Maps WhatsApp +30 697 6913 046 Get in Touch Easily HOMED is located in the heart of Athens, at Ermou 16, 3rd Floor, Syntagma Square. Whether you need immediate medical assistance, have questions about our services, or want to collaborate, we are just a call or message away. Call or Message Us For urgent medical needs or questions, call us at +30 210 80 600 98. You can also message us on WhatsApp at +30 697 6913 046. Our dedicated team is available 24/7 to assist you. Stay Updated with Medical News Stay informed with the latest healthcare updates by visiting our Medical News section. Learn about new treatments, medical research, and health policies. Click here to explore. You can also make your appointment via our online chat, visible at the bottom-right corner of your screen ↘️ Contact HOMED BOOK YOUR APPOINTMENT BY CALLING WhatsApp OR AT +30 210 80 600 98 ALWAYS BY YOUR SIDE 24 HOURS A DAY 365 DAYS A YEAR For any question CONTACT US CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21 In order to properly view this page you need JavaScript enabled! /* <![CDATA[ */ var wpml_cookies = {\"wp-wpml_current_language\":{\"value\":\"en\",\"expires\":1,\"path\":\"/\"}}; var wpml_cookies = {\"wp-wpml_current_language\":{\"value\":\"en\",\"expires\":1,\"path\":\"/\"}}; //# sourceURL=wpml-cookie-js-extra /* ]]> */ /* <![CDATA[ */ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag(\"set\",\"linker\",{\"domains\":[\"www.homed.gr\"]}); gtag(\"js\", new Date()); gtag(\"set\", \"developer_id.dZTNiMT\", true); gtag(\"config\", \"GT-KV5GM4X\", {\"googlesitekit_post_type\":\"page\"}); gtag(\"config\", \"AW-982447354\"); window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( \"event\", name, { ...data, event_source: \"site-kit\" } ); }; //# sourceURL=google_gtagjs-js-after /* ]]> */ {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/en/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/homed/*\",\"/en/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} var Tawk_API = Tawk_API || {}; var Tawk_LoadStart=new Date(); (function(){ var s1 = document.createElement( 'script' ),s0=document.getElementsByTagName( 'script' )[0]; s1.async = true; s1.src = 'https://embed.tawk.to/66d6e42a50c10f7a00a36860/1i6rmmhlv'; s1.charset = 'UTF-8'; s1.setAttribute( 'crossorigin','*' ); s0.parentNode.insertBefore( s1, s0 ); })(); <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-T93TBW9F\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\" loading=\"lazy\"></iframe> Multilingual WordPress with WPML window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-209754583-1');"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.instagram.com/homed.clinic/",
+        "label": "homed.clinic"
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://www.homed.gr/",
+        "method": "get",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "lang",
+          "s",
+          "submit"
+        ],
+        "submitLabels": [
+          "Search"
+        ],
+        "fields": [
+          {
+            "name": "lang",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "s",
+            "type": "search",
+            "label": "Type here",
+            "required": false
+          },
+          {
+            "type": "submit",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Doctor in Athens 24/7",
+    "metaDescription": "Need a doctor in Athens 24/7? HOMED offers urgent care, home visits & walk-ins for locals and tourists. Book now online or call us.",
+    "canonicalUrl": "https://www.homed.gr/en/",
+    "language": "en-US",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "openGraphTitle": "Doctor in Athens Available 24/7 – Home Visits, Walk-Ins & Urgent Care",
+    "openGraphDescription": "Need a doctor fast? HOMED offers 24/7 urgent care in Athens. English-speaking doctors, home visits, and same-day appointments. Book now.",
+    "openGraphImage": "https://www.homed.gr/wp-content/uploads/DermacisPortraits-site-dimentions.jpg"
+  },
+  "imageReferences": [
+    {
+      "url": "https://www.homed.gr/wp-content/uploads/DermacisPortraits-site-dimentions.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.321Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.homed.gr/wp-content/uploads/Dr-Elias-papazisis-Homed-medical-director.webp",
+      "alt": "Homed-Location & Operating Hours",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.322Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.homed.gr/wp-content/uploads/receptionist-welcoming-patient-homed-clinic-athens.webp",
+      "alt": "Homed-Our Clinic in the Heart of Athens",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.322Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.homed.gr/wp-content/uploads/home-visit-doctor-athens-homed.webp",
+      "alt": "Homed-Medical Care at Your Location — Home & Hotel Visits",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.322Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.homed.gr/wp-content/uploads/cover-up-your-safety-counts-on-it-homed.webp",
+      "alt": "Homed-Talk to a Doctor Online",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.322Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.homed.gr/wp-content/uploads/doctor-hotel-athens-330x220.webp",
+      "alt": "Homed-Doctor at Your Hotel in Athens – What Tourists Should Know",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.322Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.homed.gr/wp-content/uploads/mediterraneo-equipment1-383x220.jpg",
+      "alt": "Homed-Homed & Mediterraneo Hospital: A Partnership for Advanced Care",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.322Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.homed.gr/wp-content/themes/homed/images/default-med.jpg",
+      "alt": "Homed-Tourism and Natural Disasters: Professor Efthymis Lekkas on the Challenge of Resilience",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.322Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.homed.gr/wp-content/uploads/online-appointment-by-expert-doctors-visits-healthcare-urgent-dcotors-homed-1-1.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+      "pageType": "booking",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+          "retrievedAt": "2026-03-31T13:14:24.084Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.homed.gr/wp-content/uploads/on-line-appointment.jpg",
+      "alt": "Click button to book an online appointment",
+      "sourcePageUrl": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+      "pageType": "booking",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+          "retrievedAt": "2026-03-31T13:14:24.084Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.homed.gr/wp-content/uploads/doctors-healthcare-at-homed-medicine-homed-1.jpg",
+      "alt": "Doctor examining a patient with a stethoscope.",
+      "sourcePageUrl": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+      "pageType": "booking",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+          "retrievedAt": "2026-03-31T13:14:24.084Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.homed.gr/wp-content/uploads/homed-hospital-clinic-near-doctors-entry.jpg",
+      "alt": "Entrance of a building with a sign reading 'Medical Clinic' and the address '16 Ermou,' showcasing the clinic's central location in Athens.",
+      "sourcePageUrl": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+      "pageType": "booking",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+          "retrievedAt": "2026-03-31T13:14:24.084Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.homed.gr/wp-content/uploads/online-doctor-athens-telemedicine-banner.webp",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.homed.gr/en/book-online-doctor-consultation",
+      "pageType": "booking",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.homed.gr/en/book-online-doctor-consultation",
+          "retrievedAt": "2026-03-31T13:14:28.958Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.homed.gr/wp-content/uploads/Limb-injury.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.homed.gr/en/healthcare-services-in-athens/limb-trauma-treatment-essentials",
+      "pageType": "services",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.homed.gr/en/healthcare-services-in-athens/limb-trauma-treatment-essentials",
+          "retrievedAt": "2026-03-31T13:14:34.021Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.homed.gr/wp-content/uploads/online-appointment-expert-doctors-383x220.jpg",
+      "sourcePageUrl": "https://www.homed.gr/en/healthcare-services-in-athens/limb-trauma-treatment-essentials",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.homed.gr/en/healthcare-services-in-athens/limb-trauma-treatment-essentials",
+          "retrievedAt": "2026-03-31T13:14:34.021Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.homed.gr/wp-content/uploads/%CE%B3%CE%B9%CE%B1%CF%84%CF%81%CE%BF%CF%82-%CE%BE%CE%B5%CE%BD%CE%BF%CE%B4%CE%BF%CF%87%CE%B5%CE%AF%CE%B1-%CE%B1%CE%BC%CE%B5%CF%83%CE%B1-%CE%B3%CE%B9%CE%B1%CF%84%CF%81%CE%BF%CE%B9-%CF%83%CE%BF%CF%83-%CF%83%CF%80%CE%B9%CF%84%CE%B9-homed.webp",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+      "pageType": "contact",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+          "retrievedAt": "2026-03-31T13:14:38.893Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.homed.gr/wp-content/uploads/ypiresies-homed.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.homed.gr/en/healthcare-services-in-athens",
+      "pageType": "services",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.homed.gr/en/healthcare-services-in-athens",
+          "retrievedAt": "2026-03-31T13:14:43.735Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "+30 210 80 600 98",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.321Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "37.976006",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.321Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "23.731924",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.321Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 697 6913046",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.321Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2021-2026",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.321Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "982447354",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.321Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "209754583-1",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.321Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+306976913046",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.321Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+302108060098",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.321Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@homed.gr",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.321Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.321Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.homed.gr/en",
+      "sourcePageUrl": "https://www.homed.gr/en",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.homed.gr/en",
+          "retrievedAt": "2026-03-31T13:14:19.321Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 697.69.13.046",
+      "sourcePageUrl": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+      "pageType": "booking",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+          "retrievedAt": "2026-03-31T13:14:24.083Z"
+        }
+      ]
+    },
+    {
+      "type": "booking_page",
+      "value": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+      "sourcePageUrl": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+      "pageType": "booking",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+          "retrievedAt": "2026-03-31T13:14:24.083Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+      "sourcePageUrl": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+      "pageType": "booking",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+          "retrievedAt": "2026-03-31T13:14:24.083Z"
+        }
+      ]
+    },
+    {
+      "type": "booking_page",
+      "value": "https://www.homed.gr/en/book-online-doctor-consultation",
+      "sourcePageUrl": "https://www.homed.gr/en/book-online-doctor-consultation",
+      "pageType": "booking",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://www.homed.gr/en/book-online-doctor-consultation",
+          "retrievedAt": "2026-03-31T13:14:28.958Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.homed.gr/en/book-online-doctor-consultation",
+      "sourcePageUrl": "https://www.homed.gr/en/book-online-doctor-consultation",
+      "pageType": "booking",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "booking page",
+          "uri": "https://www.homed.gr/en/book-online-doctor-consultation",
+          "retrievedAt": "2026-03-31T13:14:28.958Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.homed.gr/en/healthcare-services-in-athens/limb-trauma-treatment-essentials",
+      "sourcePageUrl": "https://www.homed.gr/en/healthcare-services-in-athens/limb-trauma-treatment-essentials",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.homed.gr/en/healthcare-services-in-athens/limb-trauma-treatment-essentials",
+          "retrievedAt": "2026-03-31T13:14:34.021Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 231 231 7220",
+      "sourcePageUrl": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+          "retrievedAt": "2026-03-31T13:14:38.893Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 697 6913 046",
+      "sourcePageUrl": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+          "retrievedAt": "2026-03-31T13:14:38.893Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "{ \"@context\": \"https://schema.org\", \"@type\": \"MedicalBusiness\", \"name\": \"Homed\", \"url\": \"https://www.homed.gr\", \"legalName\": \"Homed\", \"logo\": \"https://www.homed.gr/wp-content/themes/homed/images/logo.png\", \"image\": \"https://www.homed.gr/wp-content/themes/homed/images/logo.png\", \"description\": \"Ιατροί διακεκριμένοι στον Πανεπιστημιακό και το Νοσοκομειακό χώρο με μακρά κλινική εμπειρία βρίσκονται σε ετοιμότητα να σας προσφέρουν άμεσα τις υπηρεσίες τους, μέρα και νύχτα, όλο το χρόνο.\", \"email\": \"info@homed.gr\", \"telephone\": \"+30 210 80 600 98\", \"faxNumber\": \"\", \"founder\": { \"@type\": \"Person\", \"name\": \"Elias Papazisis\" }, \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"addressLocality\": \"Attica\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"hasPOS\":{ \"@type\": \"Place\", \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"geo\":{ \"@type\":\"GeoCoordinates\", \"address\": { \"@type\": \"PostalAddress\", \"addressCountry\": \"GR\", \"addressRegion\": \"Athens\", \"postalCode\": \"10563\", \"streetAddress\": \"Ερμού 18, Πλατεία Συντάγματος, Αθήνα\" }, \"latitude\": \"37.976006\", \"longitude\": \"23.731924\" } } } Skip to content HOMEABOUT USOUR TEAMMEDICAL LIBRARYONLINE APPOINTMENTCONTACT HOMED EMERGENCYSERVICESSERVICESTravel MedicineSERVICESMARITIME HEALTHGOOGLE REVIEWSPRICINGTELEMEDICINE BOOKING MENU Open search GR We use cookies. Privacy Policy I agree Close close Type a keyword WHATSAPP +30 697.69.13.046 Continuous operation In the center of Athens Hotel visits Private hospital Collaboration with insurance companies Immediate service Quick coordination High patient satisfaction WHATSAPP +30 697.69.13.046 About us CONTACT A DOCTOR NEAR YOU Find Us Contact HOMED Book Your Appointment Telemedicine Medical Appointment in our Clinic Medical Appointment only for Thessaloniki HOMED Headquarters – Clinics Address Ermou 16, 3rd Floor, Syntagma Square, Athens Phone +30 210 80 600 98 – +30 231 231 7220 Email info@homed.gr Google Maps Find us on Google Maps WhatsApp +30 697 6913 046 Get in Touch Easily HOMED is located in the heart of Athens, at Ermou 16, 3rd Floor, Syntagma Square. Whether you need immediate medical assistance, have questions about our services, or want to collaborate, we are just a call or message away. Call or Message Us For urgent medical needs or questions, call us at +30 210 80 600 98. You can also message us on WhatsApp at +30 697 6913 046. Our dedicated team is available 24/7 to assist you. Stay Updated with Medical News Stay informed with the latest healthcare updates by visiting our Medical News section. Learn about new treatments, medical research, and health policies. Click here to explore. You can also make your appointment via our online chat, visible at the bottom-right corner of your screen ↘️ Contact HOMED BOOK YOUR APPOINTMENT BY CALLING WhatsApp OR AT +30 210 80 600 98 ALWAYS BY YOUR SIDE 24 HOURS A DAY 365 DAYS A YEAR For any question CONTACT US CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21 In order to properly view this page you need JavaScript enabled! /* <![CDATA[ */ var wpml_cookies = {\"wp-wpml_current_language\":{\"value\":\"en\",\"expires\":1,\"path\":\"/\"}}; var wpml_cookies = {\"wp-wpml_current_language\":{\"value\":\"en\",\"expires\":1,\"path\":\"/\"}}; //# sourceURL=wpml-cookie-js-extra /* ]]> */ /* <![CDATA[ */ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag(\"set\",\"linker\",{\"domains\":[\"www.homed.gr\"]}); gtag(\"js\", new Date()); gtag(\"set\", \"developer_id.dZTNiMT\", true); gtag(\"config\", \"GT-KV5GM4X\", {\"googlesitekit_post_type\":\"page\"}); gtag(\"config\", \"AW-982447354\"); window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( \"event\", name, { ...data, event_source: \"site-kit\" } ); }; //# sourceURL=google_gtagjs-js-after /* ]]> */ {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/en/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/homed/*\",\"/en/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} var Tawk_API = Tawk_API || {}; var Tawk_LoadStart=new Date(); (function(){ var s1 = document.createElement( 'script' ),s0=document.getElementsByTagName( 'script' )[0]; s1.async = true; s1.src = 'https://embed.tawk.to/66d6e42a50c10f7a00a36860/1i6rmmhlv'; s1.charset = 'UTF-8'; s1.setAttribute( 'crossorigin','*' ); s0.parentNode.insertBefore( s1, s0 ); })(); <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-T93TBW9F\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\" loading=\"lazy\"></iframe> Multilingual WordPress with WPML window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-209754583-1');",
+      "sourcePageUrl": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+      "pageType": "contact",
+      "confidence": 0.88,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+          "retrievedAt": "2026-03-31T13:14:38.893Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+      "sourcePageUrl": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+          "retrievedAt": "2026-03-31T13:14:38.893Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+      "sourcePageUrl": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+          "retrievedAt": "2026-03-31T13:14:38.893Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "+30 210 8060098",
+      "sourcePageUrl": "https://www.homed.gr/en/healthcare-services-in-athens",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.homed.gr/en/healthcare-services-in-athens",
+          "retrievedAt": "2026-03-31T13:14:43.735Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.homed.gr/en/healthcare-services-in-athens",
+      "sourcePageUrl": "https://www.homed.gr/en/healthcare-services-in-athens",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.homed.gr/en/healthcare-services-in-athens",
+          "retrievedAt": "2026-03-31T13:14:43.735Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://www.homed.gr/",
+    "finalOrigin": "https://www.homed.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://www.homed.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:14:14.316Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "crawlDelayMs": 1000,
+      "allowRules": [
+        "/"
+      ],
+      "disallowRules": [],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://www.homed.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:14:13.660Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://www.homed.gr/en",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.homed.gr/",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+        "action": "queued",
+        "pageTypeHint": "booking",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/book-online-doctor-consultation",
+        "action": "queued",
+        "pageTypeHint": "booking",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/healthcare-services-in-athens/limb-trauma-treatment-essentials",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/healthcare-services-in-athens",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/maritime-telemedicine-services",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/client-testimonials-for-homed-services",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/healthcare-services-in-athens/emergency-medical-care-homed",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/healthcare-services-in-athens/cutaneous-wound-care-and-management",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/healthcare-services-in-athens/dvt-deep-vein-thrombosis",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/healthcare-services-in-athens/see-a-doctor",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/healthcare-services-in-athens/fit-to-fly",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/healthcare-services-in-athens/heart-related-discomfort",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/healthcare-services-in-athens/head-injury-immediate-care",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/medical-team",
+        "action": "queued",
+        "pageTypeHint": "team",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/medical-encyclopedia/doctor-hotel-athens",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/24-7-home-healthcare-athens",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:19.324Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+        "action": "fetched",
+        "pageTypeHint": "booking",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:24.085Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/healthcare-services-in-athens/telemedicine-booking",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+        "timestamp": "2026-03-31T13:14:24.085Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/healthcare-services-in-athens/emergency-medical-assistance",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+        "timestamp": "2026-03-31T13:14:24.085Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/book-online-doctor-consultation",
+        "action": "fetched",
+        "pageTypeHint": "booking",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:28.960Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/health-news-homed/list-a-z",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.homed.gr/en/book-online-doctor-consultation",
+        "timestamp": "2026-03-31T13:14:28.960Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/emergency-department-near-me",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.homed.gr/en/book-online-doctor-consultation",
+        "timestamp": "2026-03-31T13:14:28.960Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/travel-medicine-guide",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.homed.gr/en/book-online-doctor-consultation",
+        "timestamp": "2026-03-31T13:14:28.960Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/healthcare-services-in-athens/limb-trauma-treatment-essentials",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:34.023Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/homed-insurance-reimbursement-process",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.homed.gr/en/healthcare-services-in-athens/limb-trauma-treatment-essentials",
+        "timestamp": "2026-03-31T13:14:34.023Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:38.895Z"
+      },
+      {
+        "url": "https://www.homed.gr/el/epikoinonia",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.homed.gr/en/contact-homed-athens-healthcare",
+        "timestamp": "2026-03-31T13:14:38.895Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/healthcare-services-in-athens",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.homed.gr/en",
+        "timestamp": "2026-03-31T13:14:43.792Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/healthcare-services-in-athens/telemedicine-with-nurse-visit-in-thessaloniki-book-online",
+        "action": "queued",
+        "pageTypeHint": "booking",
+        "reason": "Discovered from https://www.homed.gr/en/healthcare-services-in-athens",
+        "timestamp": "2026-03-31T13:14:43.792Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/healthcare-services-in-athens/homed-insurance-billing-services",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.homed.gr/en/healthcare-services-in-athens",
+        "timestamp": "2026-03-31T13:14:43.792Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/healthcare-services-in-athens/general-practitioner-services-athens",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.homed.gr/en/healthcare-services-in-athens",
+        "timestamp": "2026-03-31T13:14:43.792Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/24-7-ambulance-transfer-service",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.homed.gr/en/healthcare-services-in-athens",
+        "timestamp": "2026-03-31T13:14:43.792Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/find-doctor-athens",
+        "action": "queued",
+        "pageTypeHint": "about",
+        "reason": "Discovered from https://www.homed.gr/en/healthcare-services-in-athens",
+        "timestamp": "2026-03-31T13:14:43.792Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/advanced-diagnostic-laboratory-services",
+        "action": "queued",
+        "pageTypeHint": "services",
+        "reason": "Discovered from https://www.homed.gr/en/healthcare-services-in-athens",
+        "timestamp": "2026-03-31T13:14:43.792Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/effortless-digital-health-appointment-scheduling-for-convenient-care",
+        "action": "screenshot_captured",
+        "pageTypeHint": "booking",
+        "timestamp": "2026-03-31T13:14:49.931Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/book-online-doctor-consultation",
+        "action": "screenshot_captured",
+        "pageTypeHint": "booking",
+        "timestamp": "2026-03-31T13:14:54.739Z"
+      },
+      {
+        "url": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:15:00.188Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

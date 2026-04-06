@@ -1,89 +1,50 @@
 import Link from "next/link";
 
+import { DemoTemplateCard } from "@/components/demo-library/template-card";
 import { ChatDemo } from "@/components/sections/chat-demo";
 import { Reveal } from "@/components/ui/reveal";
 import { SectionIntro } from "@/components/ui/section-intro";
+import { getTemplateCatalog } from "@/lib/demo-library/template-catalog";
 import { getRequestLocale } from "@/lib/i18n-server";
-import { getSiteContent, type SiteContent } from "@/lib/site-content";
+import { getSiteContent } from "@/lib/site-content";
 
-type HomeDemo = SiteContent["aiDemos"][number];
-
-function HomeDemoCard({
-  cardActionLabel,
-  demoLinkHref,
-  demo,
-  badge,
-  delay,
-  featured = false,
-  handlesLabel,
-  outcomeLabel,
-  showsLabel,
-}: {
-  cardActionLabel: string;
-  demoLinkHref: string;
-  demo: HomeDemo;
-  badge: string;
-  delay: number;
-  featured?: boolean;
-  handlesLabel: string;
-  outcomeLabel: string;
-  showsLabel: string;
-}) {
-  return (
-    <Reveal delay={delay}>
-      <Link
-        aria-label={`${cardActionLabel}: ${demo.title}`}
-        className={`demo-card card demo-card-link${featured ? " demo-card-featured" : ""}`}
-        href={demoLinkHref}
-      >
-        <div className="demo-card-top">
-          <div>
-            <h3>{demo.title}</h3>
-            <p className="demo-audience">{demo.audience}</p>
-          </div>
-          <span className="demo-badge">{badge}</span>
-        </div>
-
-        <div className="demo-card-body">
-          <div>
-            <span className="demo-card-label">{showsLabel}</span>
-            <p>{demo.summary}</p>
-          </div>
-
-          <div>
-            <span className="demo-card-label">{handlesLabel}</span>
-            <div className="demo-chip-list">
-              {demo.handles.map((item) => (
-                <span className="mini-pill" key={item}>
-                  {item}
-                </span>
-              ))}
-            </div>
-          </div>
-        </div>
-
-        <div className="demo-card-footer">
-          <div>
-            <span className="demo-card-label">{outcomeLabel}</span>
-            <strong className="demo-outcome">{demo.outcome}</strong>
-          </div>
-          <span className="demo-card-action">{cardActionLabel}</span>
-        </div>
-      </Link>
-    </Reveal>
-  );
-}
+const DEMO_SECTION_COPY = {
+  en: {
+    eyebrow: "Core demo sites",
+    title: "The website demos now live inside the main site.",
+    description:
+      "These are the read-only Virtual Pros website templates surfaced directly in Northline, so we can use them as the stable base for niche-specific sites with an integrated chatbot.",
+    cardActionLabel: "Open template",
+    featuredBadge: "Featured",
+    useCaseBadge: "Core template",
+    handlesLabel: "Built for",
+    outcomeLabel: "Best fit",
+    showsLabel: "Template direction",
+  },
+  gr: {
+    eyebrow: "Βασικά demo sites",
+    title: "Τα website demos υπάρχουν πλέον μέσα στο ίδιο το main site.",
+    description:
+      "Τα read-only website templates του Virtual Pros προβάλλονται πλέον απευθείας μέσα στη Northline, ώστε να λειτουργούν ως σταθερή βάση για niche-specific sites με ενσωματωμένο chatbot.",
+    cardActionLabel: "Άνοιγμα template",
+    featuredBadge: "Προτεινόμενο",
+    useCaseBadge: "Core template",
+    handlesLabel: "Κατάλληλο για",
+    outcomeLabel: "Καλύτερη χρήση",
+    showsLabel: "Κατεύθυνση template",
+  },
+} as const;
 
 export default async function HomePage() {
   const locale = await getRequestLocale();
   const siteContent = getSiteContent(locale);
-  const featuredDemoTitles = new Set<string>(siteContent.homepage.demos.featuredTitles);
-  const featuredDemos = siteContent.aiDemos.filter((demo) => featuredDemoTitles.has(demo.title));
-  const primaryDemo = featuredDemos[0];
-  const supportingDemos = featuredDemos.slice(1);
+  const demoSectionCopy = DEMO_SECTION_COPY[locale];
+  const templates = await getTemplateCatalog();
+  const featuredTemplates = templates.filter((template) => template.featured);
+  const primaryTemplate = featuredTemplates[0] ?? templates[0];
+  const supportingTemplates = featuredTemplates.slice(1, 3);
   const testimonial = siteContent.testimonials[1];
   const primaryCtaHref = siteContent.primaryCta.href;
-  const demoLinkHref = siteContent.homepage.demos.linkHref;
 
   return (
     <>
@@ -190,39 +151,39 @@ export default async function HomePage() {
         <div className="container">
           <Reveal>
             <SectionIntro
-              eyebrow={siteContent.homepage.demos.eyebrow}
-              title={siteContent.homepage.demos.title}
-              description={siteContent.homepage.demos.description}
+              eyebrow={demoSectionCopy.eyebrow}
+              title={demoSectionCopy.title}
+              description={demoSectionCopy.description}
             />
           </Reveal>
 
           <div className="home-demo-stage">
-            {primaryDemo ? (
-              <HomeDemoCard
-                badge={siteContent.homepage.demos.featuredBadge}
-                cardActionLabel={siteContent.homepage.demos.cardActionLabel}
+            {primaryTemplate ? (
+              <DemoTemplateCard
+                actionLabel={demoSectionCopy.cardActionLabel}
+                badge={demoSectionCopy.featuredBadge}
                 delay={0.04}
-                demo={primaryDemo}
-                demoLinkHref={demoLinkHref}
                 featured
-                handlesLabel={siteContent.homepage.demos.handlesLabel}
-                outcomeLabel={siteContent.homepage.demos.outcomeLabel}
-                showsLabel={siteContent.homepage.demos.showsLabel}
+                handlesLabel={demoSectionCopy.handlesLabel}
+                href={primaryTemplate.pageHref}
+                outcomeLabel={demoSectionCopy.outcomeLabel}
+                showsLabel={demoSectionCopy.showsLabel}
+                template={primaryTemplate}
               />
             ) : null}
 
             <div className="home-demo-stack">
-              {supportingDemos.map((demo, index) => (
-                <HomeDemoCard
-                  badge={siteContent.homepage.demos.useCaseBadge}
-                  cardActionLabel={siteContent.homepage.demos.cardActionLabel}
+              {supportingTemplates.map((template, index) => (
+                <DemoTemplateCard
+                  actionLabel={demoSectionCopy.cardActionLabel}
+                  badge={demoSectionCopy.useCaseBadge}
                   delay={0.1 + index * 0.05}
-                  demo={demo}
-                  demoLinkHref={demoLinkHref}
-                  handlesLabel={siteContent.homepage.demos.handlesLabel}
-                  key={demo.title}
-                  outcomeLabel={siteContent.homepage.demos.outcomeLabel}
-                  showsLabel={siteContent.homepage.demos.showsLabel}
+                  handlesLabel={demoSectionCopy.handlesLabel}
+                  href={template.pageHref}
+                  key={template.slug}
+                  outcomeLabel={demoSectionCopy.outcomeLabel}
+                  showsLabel={demoSectionCopy.showsLabel}
+                  template={template}
                 />
               ))}
             </div>

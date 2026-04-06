@@ -1,0 +1,239 @@
+{
+  "slug": "restaurant",
+  "source_url": "https://restaurant.virtualpros.com/",
+  "fetched_at_utc": "2026-04-06T11:43:52.862712+00:00",
+  "title": "Home",
+  "meta_description": "",
+  "hero": {
+    "heading": "Indulge in our delectable steaks and exceptional dining experience.",
+    "subheading": "Discover the mouthwatering dishes that make us a steak lover's paradise",
+    "primary_cta": "Contact Us"
+  },
+  "sections": [
+    "Frequently Asked Questions"
+  ],
+  "ctas": [
+    "Home",
+    "About Us",
+    "Services",
+    "Contact Us",
+    "Reservations",
+    "Virtual Pros.",
+    "Talk to Our AI Agent+1 (469) 960-3835",
+    "Get Your FREE Dessert",
+    "Price $19",
+    "Read More",
+    "Price $24",
+    "Price $18"
+  ],
+  "nav_labels": [
+    "Home",
+    "About Us",
+    "Services",
+    "Contact Us",
+    "Reservations",
+    "Virtual Pros."
+  ],
+  "paragraph_samples": [
+    "Indulge in our delectable steaks and exceptional dining experience.",
+    "We take pride in our time-honored recipes,",
+    "quality ingredients, and warm hospitality.",
+    "Discover the mouthwatering dishes that make us a steak lover's paradise",
+    "Our perfectly grilled, hand-cut steaks",
+    "are seasoned to perfection, delivering",
+    "our delightful desserts that are the",
+    "Absolutely loved the experience! The food was fresh, flavorful, and beautifully presented. The staff was friendly and made sure we were comfortable throughout. Definitely coming back with family."
+  ],
+  "fonts": [
+    "Lato",
+    "Open Sans",
+    "Montserrat",
+    "Red Hat Display",
+    "Roboto",
+    "'Roboto'",
+    "Poppins",
+    "'Poppins'"
+  ],
+  "palette": {
+    "css_variables": [
+      {
+        "name": "primary",
+        "value": "#37CA37"
+      },
+      {
+        "name": "secondary",
+        "value": "#188BF6"
+      },
+      {
+        "name": "white",
+        "value": "#FFFFFF"
+      },
+      {
+        "name": "gray",
+        "value": "#CBD5E0"
+      },
+      {
+        "name": "black",
+        "value": "#000000"
+      },
+      {
+        "name": "red",
+        "value": "#E93D3D"
+      },
+      {
+        "name": "orange",
+        "value": "#F6AD55"
+      },
+      {
+        "name": "yellow",
+        "value": "#FAF089"
+      },
+      {
+        "name": "green",
+        "value": "#9AE6B4"
+      },
+      {
+        "name": "teal",
+        "value": "#81E6D9"
+      },
+      {
+        "name": "malibu",
+        "value": "#63B3ED"
+      },
+      {
+        "name": "indigo",
+        "value": "#757BBD"
+      },
+      {
+        "name": "purple",
+        "value": "#D6BCFA"
+      },
+      {
+        "name": "pink",
+        "value": "#FBB6CE"
+      },
+      {
+        "name": "overlay",
+        "value": "rgba(0,0,0,0.5)"
+      },
+      {
+        "name": "color-ljn1ecb0",
+        "value": "#062D97"
+      },
+      {
+        "name": "color-ljn1zn5v",
+        "value": "#F4FAFE"
+      },
+      {
+        "name": "color-ljn2bjhz",
+        "value": "#2667FF"
+      },
+      {
+        "name": "color-ljn4i7ro",
+        "value": "#EFF4FF"
+      },
+      {
+        "name": "color-ljn6qg27",
+        "value": "rgba(1,24,88,0.91)"
+      }
+    ],
+    "dominant_colors": [
+      {
+        "value": "#000000",
+        "count": 11
+      },
+      {
+        "value": "#FFFFFF",
+        "count": 10
+      },
+      {
+        "value": "#A26B0A",
+        "count": 8
+      },
+      {
+        "value": "#3B82F6",
+        "count": 7
+      },
+      {
+        "value": "#188BF6",
+        "count": 4
+      },
+      {
+        "value": "#2876E7",
+        "count": 4
+      },
+      {
+        "value": "#D1D5DB",
+        "count": 4
+      },
+      {
+        "value": "rgb(255,255,255)",
+        "count": 4
+      },
+      {
+        "value": "rgba(0,0,0,0.5)",
+        "count": 3
+      },
+      {
+        "value": "#2667FF",
+        "count": 3
+      },
+      {
+        "value": "#062D97",
+        "count": 2
+      },
+      {
+        "value": "#BB7C39",
+        "count": 2
+      },
+      {
+        "value": "#EFF8FF",
+        "count": 2
+      },
+      {
+        "value": "#155EEF",
+        "count": 2
+      },
+      {
+        "value": "#CACACA",
+        "count": 2
+      },
+      {
+        "value": "#37CA37",
+        "count": 1
+      }
+    ],
+    "theme": {
+      "primary": "#A26B0A",
+      "secondary": "#3B82F6",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#3B82F6"
+    }
+  },
+  "assets": {
+    "images": [
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/69a5cce5320ef4dcc6ce3746.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/49bfb77d-5703-4069-bb54-cda72e818ad6.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/500725e7-063a-42a7-89e7-c3f73d2e4b69.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/92884835-6584-404d-b682-f0684d5ab934.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/e24cfa30-e362-47de-a329-03b4da985bc0.jpeg",
+      "https://images.unsplash.com/photo-1663760888753-dded0a4e47e3?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/ee80c06a-e792-4cc8-b80d-c78180ed3859.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/75e24384-01c5-4218-8d00-82ca040e44cb.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/75076f8a-9f7f-4f99-ab53-723606c6a122.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/4f1558c7-6125-4d3a-84a8-3f0a6100282d.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/a1e8e9fd-6757-4907-9c9c-d5eacdc6a759.png",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_768/u_https://assets.cdn.filesafe.space/BwT4JVvxX2y70wQAWy0Z/media/64cd7b5fc0e793905de10759.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_900/u_https://assets.cdn.filesafe.space/BwT4JVvxX2y70wQAWy0Z/media/64cd7b5fc0e793905de10759.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/BwT4JVvxX2y70wQAWy0Z/media/64cd7b5fc0e793905de10759.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_768/u_https://assets.cdn.filesafe.space/BwT4JVvxX2y70wQAWy0Z/media/64cd81628926156516f3d5a2.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_900/u_https://assets.cdn.filesafe.space/BwT4JVvxX2y70wQAWy0Z/media/64cd81628926156516f3d5a2.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/BwT4JVvxX2y70wQAWy0Z/media/64cd81628926156516f3d5a2.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_768/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/b9643ad9-ebbb-472d-b0fa-606fcbc91afc.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_900/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/b9643ad9-ebbb-472d-b0fa-606fcbc91afc.jpeg",
+      "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/cI2vnxzjpwwUkm8WVE0S/media/b9643ad9-ebbb-472d-b0fa-606fcbc91afc.jpeg"
+    ]
+  }
+}

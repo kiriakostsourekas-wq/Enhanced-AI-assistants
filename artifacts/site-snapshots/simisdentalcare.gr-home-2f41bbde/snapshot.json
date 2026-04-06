@@ -1,0 +1,2875 @@
+{
+  "domain": "simisdentalcare.gr",
+  "collectedAt": "2026-03-31T13:07:56.703Z",
+  "artifactDirectory": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/simisdentalcare.gr-home-2f41bbde",
+  "canonicalPages": {
+    "homepage": {
+      "pageType": "homepage",
+      "requestedUrl": "https://www.simisdentalcare.gr/",
+      "finalUrl": "https://www.simisdentalcare.gr/",
+      "fetchedAt": "2026-03-31T13:07:42.477Z",
+      "metadata": {
+        "title": "Simis Dental Care - Εξειδικευμένος Οδοντίατρος στην Αθήνα",
+        "metaDescription": "Εξειδικευμένη οδοντιατρική φροντίδα στην Αθήνα από τον Dr. Σίμη Χρήστο, DMD, MS. και την ομάδα του.",
+        "canonicalUrl": "https://www.simisdentalcare.gr/",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Simis Dental Care - Εξειδικευμένος Οδοντίατρος στην Αθήνα",
+        "openGraphDescription": "Εξειδικευμένη οδοντιατρική φροντίδα στην Αθήνα από τον Dr. Σίμη Χρήστο, DMD, MS. και την ομάδα του.",
+        "openGraphImage": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/gr1.png"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "SIMIS DENTAL CARE"
+        },
+        {
+          "level": "h2",
+          "text": "Εξειδικευμένο Οδοντιατρείο"
+        },
+        {
+          "level": "h2",
+          "text": "Η οδοντιατρική μας προσέγγιση"
+        },
+        {
+          "level": "h2",
+          "text": "Dr. Christos Simis"
+        },
+        {
+          "level": "h2",
+          "text": "DMD, MS Aesthetic Medicine/Oral Surgery and Implantology Università degli Studi di Bari Aldo Moro Greek Combat Support Officer"
+        },
+        {
+          "level": "h2",
+          "text": "Ο χώρος του Οδοντιατρείου"
+        },
+        {
+          "level": "h2",
+          "text": "01."
+        },
+        {
+          "level": "h2",
+          "text": "02."
+        },
+        {
+          "level": "h2",
+          "text": "03."
+        },
+        {
+          "level": "h2",
+          "text": "04."
+        },
+        {
+          "level": "h2",
+          "text": "Αισθητική οδοντιατρική"
+        },
+        {
+          "level": "h2",
+          "text": "Ορθοδοντική"
+        },
+        {
+          "level": "h2",
+          "text": "Εμφυτεύματα"
+        },
+        {
+          "level": "h2",
+          "text": "Όψεις ρητίνης και πορσελάνης"
+        },
+        {
+          "level": "h2",
+          "text": "Θεραπεία περιοδοντίτιδας"
+        },
+        {
+          "level": "h2",
+          "text": "Ψηφιακές ακτινογραφίες"
+        },
+        {
+          "level": "h2",
+          "text": "Χειρουργικές αφαιρέσεις φρονιμιτών"
+        },
+        {
+          "level": "h2",
+          "text": "Ουλοπλαστική"
+        },
+        {
+          "level": "h2",
+          "text": "Νάρθηκες"
+        },
+        {
+          "level": "h2",
+          "text": "Φυγοκέντριση του αίματος"
+        },
+        {
+          "level": "h2",
+          "text": "Τι λένε οι ασθενείς μας για εμάς"
+        },
+        {
+          "level": "h2",
+          "text": "Συχνές Ερωτήσεις"
+        },
+        {
+          "level": "h2",
+          "text": "Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα."
+        },
+        {
+          "level": "h2",
+          "text": "Που θα μας βρείτε"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.simisdentalcare.gr/",
+          "label": "Simis Dental Care"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82/",
+          "label": "Ο ιδρυτής"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1/",
+          "label": "Η ομάδα"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1/",
+          "label": "Εμφυτεύματα"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b1%ce%b9%cf%83%ce%b8%ce%b7%cf%84%ce%b9%ce%ba%ce%ae-%ce%bf%ce%b4%ce%bf%ce%bd%cf%84%ce%b9%ce%b1%cf%84%cf%81%ce%b9%ce%ba%ce%ae/",
+          "label": "Αισθητική οδοντιατρική"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%bf%cf%81%ce%b8%ce%bf%ce%b4%ce%bf%ce%bd%cf%84%ce%b9%ce%ba%ce%ae/",
+          "label": "Ορθοδοντική"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%cf%80%ce%b5%cf%81%ce%b9%ce%bf%ce%b4%ce%bf%ce%bd%cf%84%ce%af%cf%84%ce%b9%ce%b4%ce%b1/",
+          "label": "Περιοδοντίτιδα"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%cf%87%ce%b5%ce%b9%cf%81%ce%bf%cf%85%cf%81%ce%b3%ce%b9%ce%ba%ce%ad%cf%82-%ce%b5%ce%be%ce%b1%ce%b3%cf%89%ce%b3%ce%ad%cf%82/",
+          "label": "Χειρουργικές εξαγωγές"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%bf%cf%85%ce%bb%ce%bf%cf%80%ce%bb%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%ae/",
+          "label": "Ουλοπλαστική"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%bd%ce%ac%cf%81%ce%b8%ce%b7%ce%ba%ce%b1%cf%82-%ce%b2%cf%81%cf%85%ce%b3%ce%bc%ce%bf%cf%8d/",
+          "label": "Νάρθηκας βρυγμού"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%cf%86%cf%85%ce%b3%ce%bf%ce%ba%ce%ad%ce%bd%cf%84%cf%81%ce%b9%cf%83%ce%b7-%ce%b1%ce%af%ce%bc%ce%b1%cf%84%ce%bf%cf%82/",
+          "label": "Φυγοκέντριση του αίματος"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b7-%ce%ba%ce%bb%ce%b9%ce%bd%ce%b9%ce%ba%ce%ae/",
+          "label": "Το Οδοντιατρείο"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%cf%80%ce%b5%cf%81%ce%b9%cf%83%cf%84%ce%b1%cf%84%ce%b9%ce%ba%ce%ac/",
+          "label": "Περιστατικά"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/#services",
+          "label": "Υπηρεσίες"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "210 6456 105",
+          "01. 02. 03. 04",
+          "2106456105"
+        ],
+        "emails": [
+          "info@simisdentalcare.gr"
+        ],
+        "addresses": [
+          "Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα. Που θα μας βρείτε Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 2106456105 ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Το Οδοντιατρείο Περιστατικά Επικοινωνία © Simis Dental Clinic 2025 | all rights reserved website by Domi"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/christos.simis",
+            "label": "Facebook-f"
+          },
+          {
+            "href": "https://www.instagram.com/xristo.s",
+            "label": "Icon-instagram-1"
+          },
+          {
+            "href": "https://www.linkedin.com/in/simischristos",
+            "label": "Icon-linkedin"
+          },
+          {
+            "href": "https://www.tiktok.com/@simisdent",
+            "label": "Tiktok"
+          },
+          {
+            "href": "https://www.youtube.com/@simisdentalcare",
+            "label": "Youtube"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα. Που θα μας βρείτε Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 2106456105 ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Το Οδοντιατρείο Περιστατικά Επικοινωνία © Simis Dental Clinic 2025 | all rights reserved website by Domi",
+      "textContent": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-59CJGT94\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-M4F7CBW5\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Simis Dental Care Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 210 6456 105 Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 210 6456 105 Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Menu Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Αισθητική οδοντιατρική Ορθοδοντική Εμφυτεύματα Περιοδοντίτιδα Χειρουργικές εξαγωγές Ουλοπλαστική Νάρθηκας βρυγμού Φυγοκέντριση του αίματος Το Οδοντιατρείο Περιστατικά Επικοινωνία SIMIS DENTAL CARE Σε κάθε βήμα του ταξιδιού σας προς ένα υγιές χαμόγελο, δημιουργούμε ένα περιβάλλον όπου κάθε ασθενής αισθάνεται άνετα.Με τη χρήση της πιο προηγμένης τεχνολογίας οδοντιατρικής, εξασφαλίζουμε ότι κάθε παρέμβαση είναι ακριβής, αποτελεσματική και, πάνω από όλα, ασφαλής. Εξειδικευμένο Οδοντιατρείο Επικοινωνία ΜΕΡΙΚΑ ΛΟΓΙΑ ΓΙΑ ΕΜΑΣ Η οδοντιατρική μας προσέγγιση Dr. Christos Simis DMD, MS Aesthetic Medicine/Oral Surgery and Implantology Università degli Studi di Bari Aldo Moro Greek Combat Support Officer Καλωσορίσατε στο Οδοντιατρείο Simis Dental Care. Η ιατρική ομάδα μας αποτελείται από εξαιρετικά καταρτισμένους επαγγελματίες, αφοσιωμένους στην παροχή φροντίδας υψηλού επιπέδου.Στο Οδοντιατρείο μας, κάθε ασθενής αντιμετωπίζεται ως μοναδικό πρόσωπο με ιδιαίτερες ανάγκες και προσδοκίες. Προσφέρουμε προσωποποιημένη φροντίδα, επικεντρωμένη στην πρόληψη και την αντιμετώπιση, ενώ παράλληλα ενισχύουμε τη σχέση μεταξύ οδοντιάτρων και ασθενών.Δεσμευόμαστε να δημιουργήσουμε ένα περιβάλλον όπου κάθε επίσκεψη είναι ευχάριστη και άνετη. Με χρήση των πιο σύγχρονων τεχνολογιών και με έμφαση στην προσωπική επαφή, προσφέρουμε μια ολοκληρωμένη εμπειρία οδοντιατρικής φροντίδας. Σύγχρονη οδοντιατρική φροντίδα 0% .particles-js-canvas-el { width: 15%; height: 5%; position: absolute; z-index: 0; top: 0; } particlesJS(\"particles-js\", { \"particles\": { \"number\": { \"value\": 80, \"density\": { \"enable\": true, \"value_area\": 800 } }, \"color\": { \"value\": \"#54aad4\" }, \"shape\": { \"type\": \"circle\", \"stroke\": { \"width\": 0, \"color\": \"#000000\" }, \"polygon\": { \"nb_sides\": 5 }, \"image\": { \"src\": \"img/github.svg\", \"width\": 100, \"height\": 100 } }, \"opacity\": { \"value\": 0.5, \"random\": false, \"anim\": { \"enable\": false, \"speed\": 1, \"opacity_min\": 0.1, \"sync\": false } }, \"size\": { \"value\": 3, \"random\": true, \"anim\": { \"enable\": false, \"speed\": 40, \"size_min\": 0.1, \"sync\": false } }, \"line_linked\": { \"enable\": true, \"distance\": 150, \"color\": \"#54aad4\", \"opacity\": 0.4, \"width\": 1 }, \"move\": { \"enable\": true, \"speed\": 1.5, \"direction\": \"none\", \"random\": false, \"straight\": false, \"out_mode\": \"out\", \"bounce\": false, \"attract\": { \"enable\": false, \"rotateX\": 600, \"rotateY\": 1200 } } }, \"interactivity\": { \"detect_on\": \"canvas\", \"events\": { \"onhover\": { \"enable\": true, \"mode\": \"grab\" }, \"onclick\": { \"enable\": true, \"mode\": \"push\" }, \"resize\": true }, \"modes\": { \"grab\": { \"distance\": 400, \"line_linked\": { \"opacity\": 1 } }, \"bubble\": { \"distance\": 400, \"size\": 40, \"duration\": 2, \"opacity\": 8, \"speed\": 3 }, \"repulse\": { \"distance\": 200, \"duration\": 0.4 }, \"push\": { \"particles_nb\": 4 }, \"remove\": { \"particles_nb\": 2 } } }, \"retina_detect\": true }); ΦΩΤΟΓΡΑΦΙΚΟ ΥΛΙΚΟ Ο χώρος του Οδοντιατρείου 01. 02. 03. 04. ⟶ Δείτε παραπάνω φωτογραφίες Αισθητική οδοντιατρική Βελτίωση της εμφάνισης των δοντιών και του χαμόγελου. Ορθοδοντική Διόρθωση δυσλειτουργιών της οδοντοστοιχίας και ευθυγράμμιση των δοντιών. ΥΠΗΡΕΣΙΕΣ Οι παροχές του Οδοντιατρείου μας Εμφυτεύματα Τα οδοντικά εμφυτεύματα αντικαθιστούν χαμένα δόντια με μια μόνιμη λύση που μοιάζει και λειτουργεί σαν φυσικά δόντια. Όψεις ρητίνης και πορσελάνης Οι οψές ρητίνης και πορσελάνης είναι λεπτές επικαλύψεις που τοποθετούνται πάνω στην επιφάνεια των δοντιών για να βελτιώσουν την εμφάνιση τους. Θεραπεία περιοδοντίτιδας Η θεραπεία περιοδοντίτιδας αναφέρεται στην αντιμετώπιση των προβλημάτων υγείας των ούλων και του οδοντοστοιχία. Ψηφιακές ακτινογραφίες Οι ψηφιακές ακτινογραφίες προσφέρουν εναλλακτική λύση στις παραδοσιακές ακτινογραφίες, παρέχοντας υψηλής ποιότητας εικόνες με μειωμένη έκθεση στην ακτινοβολία. Χειρουργικές αφαιρέσεις φρονιμιτών Οι χειρουργικές εξαγωγές φρονιμιτών είναι μια διαδικασία που χρησιμοποιείται για την αφαίρεση φρονιμιτών που έχουν προκαλέσει προβλήματα στο στοματικό και οδοντικό σύστημα. Ουλοπλαστική Η ουλοπλαστική αφορά την αναδιαμόρφωση ή την ανακατασκευή των ούλων για τη βελτίωση της υγείας και της εμφάνισής τους. Νάρθηκες Οι ναρθήκες αποτελούν προσαρμοσμένες οδοντικές συσκευές που τοποθετούνται στο στόμα για να προστατεύουν τα δόντια και τα γνάθο σας κατά τη διάρκεια της νύχτας από τον τριβή και τη φθορά. Φυγοκέντριση του αίματος Η φυγοκέντριση του αίματος είναι μια θεραπευτική διαδικασία που χρησιμοποιείται για την αντιμετώπιση των προβλημάτων του ούλου και του στοματικού συστήματος. ΚΡΙΤΙΚΕΣ Τι λένε οι ασθενείς μας για εμάς Εξαιρετικός γιατρός με πολλές γνώσεις στο αντικείμενό του και πάνω απ' όλα άνθρωπος. Έτοιμος κάθε στιγμή να σου λύσει οποιαδήποτε απορία έχεις. Αγαπάει τη δουλεία του. Είναι πολύ προσεκτικός και μεθοδικός. Σας τον συστήνω ανεπιφύλακτα Πολύ σωστός επαγγελματίας και πολύ καλός άνθρωπος. Ήπιος, ήρεμος, εξηγεί σωστά και κατανοητά αυτό που πρόκειται να κάνει, το κάνει γρήγορα και σωστά, κάτι σχετικά σπάνιο στον χώρο. Πολύ ποιοτικά οδοντιατρικα υλικά, σύγχρονα μηχανήματα και όμορφος, προσεγμένος, φροντισμενος χώρος. Μακράν ο καλύτερος, καταπληκτικός! Πάρα πολύ ευγενικός και υπομονετικός και η ομάδα του επίσης καλύτερη! Άποψη και άμεση εξυπηρέτηση, με το χαμόγελο στα χείλη συνεχώς όλοι τους. Ο κύριος Χρήστος είναι εξαιρετικός επιστημονας και υπέροχος άνθρωπος. Ήπιος, ήρεμος, εξηγεί σωστά και κατανοητά το πρόβλημα που υπάρχει και τι πρέπει να γίνει. Η εμπειρία μου εξαιρετική!.Η διαδικασία του χειρουργείου ήταν ακριβώς όπως με είχε ενημερώσει.Δεν πόνεσα,δεν είχα πρηστεί η επικοινωνία μας σε οτιδήποτε χρειάστηκε ήταν άμεση !!Τον εμπιστεύομαι απόλυτα γιατί κάνει πραγματικά πολύ καλή και υψηλής ποιότητας δουλειά μαζί με την υπέροχη ομάδα του!! Του έχω τυφλή εμπιστοσύνη και τον συστήνω ανεπιφύλακτα ! μου.Θα τα πούμε σύντομα απο κοντά γιατρέ μου σε ευχαριστώ για όλα!!! Δηλώνω ενθουσιασμένος… με τον γιατρό που είναι εξαιρετικός και αποτελεσματικός, με τον χώρο που είναι προσεγμένος και πεντακάθαρος, με το υπόλοιπο επιτελείο του ιατρείου που είναι εξυπηρετικό και ευγενικό. Ωστόσο, αυτό που πραγματικά μετράει για μένα είναι ότι ο Dr. Σίμης μου δίνει μια αίσθηση ασφαλείας και με τον τρόπο του μου επιτρέπει να δημιουργήσω μια επανορθωτική εμπειρία με τους οδοντιάτρους! Εξαιρετικός γιατρός. Έτοιμος να δώσει λύση σε κάθε πρόβλημα. Πάντα δίπλα στον ασθενή και πάνω από όλα διαθέτει έναν άψογο χώρο. Ειδικά για εμάς μετά και από άσχημη εμπειρία προηγούμενου γιατρού ο κύριος Σιμης μας έδωσε τις λυσεις και φυσικά το λόγο να εμπιστευτούμε και πάλι χωρίς φόβο οδοντίατρο!!! Πολλά μπράβο συνεχίστε την εξαιρετική δουλειά γιατρε μας!! Άριστος ιατρός με επαγγελματισμό και σεβασμό προς τον ασθενή. Διαθέσιμος ανά πάσα ώρα & στιγμή να σου λύσει την παραμικρή απορία με ευγένεια στην διαφορετικοτητα του κάθε περιστατικού. Εμπιστευτείτε τον με κλειστά μάτια. Θα φέρει ξανά το ΧΑΜΌΓΕΛΟ στα χείλη σας! Τόσο ο Χρήστος όσο και οι συνεργάτες του είναι εξαιρετικοί στο αντικείμενό τους, πλήρως καταρτισμένοι, αποτελεσματικοί κι ευγενικότατοι! Επίσης ο χώρος του ιατρείου είναι πολύ καθαρός, πλήρως εξοπλισμένος κι ευχάριστος με πολυ ωραία θέα!Συνιστώ το Simis Dental Care ανεπιφύλακτα! Μοιραστείτε την εμπειρία σας μαζί μας! Στο Οδοντιατρείο μας, η φροντίδα των ασθενών είναι η απόλυτη προτεραιότητά μας.Θέλουμε να ακούσουμε την άποψή σας και να μοιραστείτε την εμπειρία σας από την επίσκεψή σας στο ιατρείο μας.Η γνώμη και η επισήμανσή σας είναι πολύτιμες για εμάς καθώς μας βοηθούν να βελτιώσουμε συνεχώς τις υπηρεσίες μας και να προσφέρουμε την καλύτερη δυνατή φροντίδα σε εσάς και στους αγαπημένους σας. ⟶ Αφήστε μία κριτική FAQ Συχνές Ερωτήσεις Πως καταλαβαίνει κάποιος αν πάσχει από βρουξισμό; Οι απαντήσεις των παρακάτω ερωτήσεων είναι δείγματα για να καταλάβει κάποιος αν πάσχει από βρουξισμό.Σας έχει ακούσει ποτέ κανένας να τρίζετε τα δόντια; Μήπως έχετε ακούσει εσείς ο ίδιος τον εαυτό σας;Όταν ξυπνάτε το πρωί, νιώθετε τις γνάθους σας πιασμένες ή κουρασμένες; Είναι τα δόντια ή τα ούλα σας ευαίσθητα ή έχετε πονοκέφαλο όταν ξυπνάτε το πρωί;Έχετε παρατηρήσει να τρίζετε τα δόντια σας κατά τη διάρκεια της μέρας; Έχετε παρατηρήσει να σφίγγετε τα δόντια σας κατά τη διάρκεια της μέρας;Συνοψίζοντας λοιπόν τα γενικά συμπτώματα του βρουξισμού είναι:• Πόνος στη γνάθο ή στην άρθρωση (κοντά στο αυτί)• Πονοκέφαλοι• Πόνος στους μυς της κεφαλής και της κάτω γνάθου• Θόρυβος (clicking) κατά το άνοιγμα του στόματος• Περιορισμός στο άνοιγμα του στόματος Οι λευκαντικές οδοντόκρεμες λευκαίνουν τα δόντια; Έχει αποδειχθεί από πειράματα και μελέτες ότι η αίσθηση λεύκανσης που δίνουν οι λευκαντικές οδοντόκρεμες είναι placebo.Οι λευκαντικές οδοντόκρεμες απομακρύνουν αποτελεσματικά, τις περισσότερες φορές, τους λεκέδες γιατί πολλές από αυτές περιέχουν κόκκους με αποτριπτικές ιδιότητες χωρίς όμως να επεμβαίνουν στο χρώμα των δοντιών.Επίσης, επειδή ο ασθενής συχνά πιστεύει ότι οι λευκαντικές οδοντόκρεμες «κάνουν δουλειά» βουρτσίζει κατά μέσο όρο περισσότερες φορές την ημέρα συγκριτικά με πριν τη χρήση λευκαντικής οδοντόκρεμας οπότε τα δόντια είναι απαλλαγμένα από την πλάκα, είναι δηλαδή πραγματικά καθαρά, οπότε πιο λευκά και λαμπερά! Clean and shine! Πόσο καιρό θα διαρκέσουν τα αποτελέσματα της λεύκανσης; Σίγουρα η λεύκανση δοντιών (με όποια μέθοδο και αν διενεργηθεί) ΔΕΝ είναι μια μόνιμη λύση. Τα αποτελέσματά της φθίνουν με τη πάροδο του χρόνου.Συνήθως, όταν οι ασθενείς μας πιέζουν να απαντήσουμε σε αυτή την ερώτηση, απαντάμε ότι τα αποτελέσματα της λεύκανσης κρατάνε από 6 μήνες μέχρι 2 χρόνια. Το μόνο σίγουρο είναι ότι τα δόντια τείνουν να πάρουν το αρχικό τους χρώμα και σίγουρα το πόσο γρήγορα θα συμβεί αυτό εξαρτάται από τις διατροφικές συνήθειες του ασθενούς, από το αν καπνίζει και από τη συχνότητα και την ποιότητα της στοματικής υγιεινής που εφαρμόζει. Γι’ αυτούς τους λόγους, στους περισσότερους ασθενείς που μπαίνουν στη διαδικασία της λεύκανσης συστήνουμε μια μικρή επανάληψη της θεραπείας για 3-4 μέρες 1-2 φορές το χρόνο. Τι είναι τα οδοντικά εμφυτεύματα; Από τι υλικά είναι φτιαγμένα; Το οδοντικό εμφύτευμα είναι ουσιαστικά μια “τεχνητή ρίζα δοντιού”, το οποίο είναι κατασκευασμένο από τιτάνιο ή Ζιρκόνιο.Πάνω στο εμφύτευμα εφαρμόζεται ένα εξάρτημα το οποίο ονομάζεται abutment, το οποίο αντικαθιστά την μύλη του δοντιού και τέλος πάνω σε αυτό σταθεροποιείται το τεχνητό δόντι. Με πιο απλά λόγια, το οδοντικό εμφύτευμα είναι μία μικρή κατασκευή, κάτι σαν βίδα η οποία τοποθετείται στο οστό της γνάθου για να αντικαταστήσει το φυσικό δόντι.Λειτουργεί όπως και η ρίζα του δοντιού και με το πέρασμα του χρόνου γίνεται ένα με το οστό κι έτσι μένει σταθερό. Τι είναι η μέθοδος a-PRF; Η μέθοδος a-PRF (advanced Platelet Rich Fibrin) βασίζεται στη φυγοκέντρηση του αίματος.Κατά τη φυγοκέντρηση διαχωρίζουμε τα ερυθρά αιμοσφαίρια και λαμβάνουμε ένα διάλυμα πλούσιο σε αιμοπετάλια. Αυτό το διάλυμα απελευθερώνει διάφορους αυξητικούς παράγοντες Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα. Που θα μας βρείτε Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 2106456105 ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Το Οδοντιατρείο Περιστατικά Επικοινωνία © Simis Dental Clinic 2025 | all rights reserved website by Domi {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/hello-elementor/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} const lazyloadRunObserver = () => { const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` ); const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => { entries.forEach( ( entry ) => { if ( entry.isIntersecting ) { let lazyloadBackground = entry.target; if( lazyloadBackground ) { lazyloadBackground.classList.add( 'e-lazyloaded' ); } lazyloadBackgroundObserver.unobserve( entry.target ); } }); }, { rootMargin: '200px 0px 200px 0px' } ); lazyloadBackgrounds.forEach( ( lazyloadBackground ) => { lazyloadBackgroundObserver.observe( lazyloadBackground ); } ); }; const events = [ 'DOMContentLoaded', 'elementor/lazyload/observe', ]; events.forEach( ( event ) => { document.addEventListener( event, lazyloadRunObserver ); } ); var elementorFrontendConfig = {\"environmentMode\":{\"edit\":false,\"wpPreview\":false,\"isScriptDebug\":false},\"i18n\":{\"shareOnFacebook\":\"Share on Facebook\",\"shareOnTwitter\":\"Share on Twitter\",\"pinIt\":\"Pin it\",\"download\":\"Download\",\"downloadImage\":\"Download image\",\"fullscreen\":\"Fullscreen\",\"zoom\":\"Zoom\",\"share\":\"Share\",\"playVideo\":\"Play Video\",\"previous\":\"Previous\",\"next\":\"Next\",\"close\":\"Close\",\"a11yCarouselPrevSlideMessage\":\"Previous slide\",\"a11yCarouselNextSlideMessage\":\"Next slide\",\"a11yCarouselFirstSlideMessage\":\"This is the first slide\",\"a11yCarouselLastSlideMessage\":\"This is the last slide\",\"a11yCarouselPaginationBulletMessage\":\"Go to slide\"},\"is_rtl\":false,\"breakpoints\":{\"xs\":0,\"sm\":480,\"md\":768,\"lg\":1025,\"xl\":1440,\"xxl\":1600},\"responsive\":{\"breakpoints\":{\"mobile\":{\"label\":\"Mobile Portrait\",\"value\":767,\"default_value\":767,\"direction\":\"max\",\"is_enabled\":true},\"mobile_extra\":{\"label\":\"Mobile Landscape\",\"value\":880,\"default_value\":880,\"direction\":\"max\",\"is_enabled\":false},\"tablet\":{\"label\":\"Tablet Portrait\",\"value\":1024,\"default_value\":1024,\"direction\":\"max\",\"is_enabled\":true},\"tablet_extra\":{\"label\":\"Tablet Landscape\",\"value\":1200,\"default_value\":1200,\"direction\":\"max\",\"is_enabled\":false},\"laptop\":{\"label\":\"Laptop\",\"value\":1366,\"default_value\":1366,\"direction\":\"max\",\"is_enabled\":false},\"widescreen\":{\"label\":\"Widescreen\",\"value\":2400,\"default_value\":2400,\"direction\":\"min\",\"is_enabled\":false}},\"hasCustomBreakpoints\":false},\"version\":\"3.34.1\",\"is_static\":false,\"experimentalFeatures\":{\"e_font_icon_svg\":true,\"additional_custom_breakpoints\":true,\"container\":true,\"theme_builder_v2\":true,\"hello-theme-header-footer\":true,\"nested-elements\":true,\"home_screen\":true,\"global_classes_should_enforce_capabilities\":true,\"e_variables\":true,\"cloud-library\":true,\"e_opt_in_v4_page\":true,\"e_interactions\":true,\"import-export-customization\":true,\"e_pro_variables\":true},\"urls\":{\"assets\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-content\\/plugins\\/elementor\\/assets\\/\",\"ajaxurl\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-admin\\/admin-ajax.php\",\"uploadUrl\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-content\\/uploads\"},\"nonces\":{\"floatingButtonsClickTracking\":\"57573a9e99\"},\"swiperClass\":\"swiper\",\"settings\":{\"page\":[],\"editorPreferences\":[]},\"kit\":{\"body_background_background\":\"classic\",\"active_breakpoints\":[\"viewport_mobile\",\"viewport_tablet\"],\"global_image_lightbox\":\"yes\",\"lightbox_enable_counter\":\"yes\",\"lightbox_enable_fullscreen\":\"yes\",\"lightbox_enable_zoom\":\"yes\",\"lightbox_enable_share\":\"yes\",\"lightbox_title_src\":\"title\",\"lightbox_description_src\":\"description\",\"hello_header_logo_type\":\"title\",\"hello_header_menu_layout\":\"horizontal\",\"hello_footer_logo_type\":\"logo\"},\"post\":{\"id\":1813,\"title\":\"Simis%20Dental%20Care%20-%20%CE%95%CE%BE%CE%B5%CE%B9%CE%B4%CE%B9%CE%BA%CE%B5%CF%85%CE%BC%CE%AD%CE%BD%CE%BF%CF%82%20%CE%9F%CE%B4%CE%BF%CE%BD%CF%84%CE%AF%CE%B1%CF%84%CF%81%CE%BF%CF%82%20%CF%83%CF%84%CE%B7%CE%BD%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1\",\"excerpt\":\"\",\"featuredImage\":false}}; //# sourceURL=elementor-frontend-js-before var elementskit = { resturl: 'https://www.simisdentalcare.gr/wp-json/elementskit/v1/', } //# sourceURL=elementskit-framework-js-frontend-js-after wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); //# sourceURL=wp-i18n-js-after var ElementorProFrontendConfig = {\"ajaxurl\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-admin\\/admin-ajax.php\",\"nonce\":\"9f5b2c5576\",\"urls\":{\"assets\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/\",\"rest\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-json\\/\"},\"settings\":{\"lazy_load_background_images\":true},\"popup\":{\"hasPopUps\":false},\"shareButtonsNetworks\":{\"facebook\":{\"title\":\"Facebook\",\"has_counter\":true},\"twitter\":{\"title\":\"Twitter\"},\"linkedin\":{\"title\":\"LinkedIn\",\"has_counter\":true},\"pinterest\":{\"title\":\"Pinterest\",\"has_counter\":true},\"reddit\":{\"title\":\"Reddit\",\"has_counter\":true},\"vk\":{\"title\":\"VK\",\"has_counter\":true},\"odnoklassniki\":{\"title\":\"OK\",\"has_counter\":true},\"tumblr\":{\"title\":\"Tumblr\"},\"digg\":{\"title\":\"Digg\"},\"skype\":{\"title\":\"Skype\"},\"stumbleupon\":{\"title\":\"StumbleUpon\",\"has_counter\":true},\"mix\":{\"title\":\"Mix\"},\"telegram\":{\"title\":\"Telegram\"},\"pocket\":{\"title\":\"Pocket\",\"has_counter\":true},\"xing\":{\"title\":\"XING\",\"has_counter\":true},\"whatsapp\":{\"title\":\"WhatsApp\"},\"email\":{\"title\":\"Email\"},\"print\":{\"title\":\"Print\"},\"x-twitter\":{\"title\":\"X\"},\"threads\":{\"title\":\"Threads\"}},\"facebook_sdk\":{\"lang\":\"en_US\",\"app_id\":\"\"},\"lottie\":{\"defaultAnimationUrl\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json\"}}; //# sourceURL=elementor-pro-frontend-js-before var DeStickySettings = {\"elements_data\":{\"sections\":[],\"columns\":[]}}; //# sourceURL=de-sticky-frontend-js-extra var ekit_config = {\"ajaxurl\":\"https://www.simisdentalcare.gr/wp-admin/admin-ajax.php\",\"nonce\":\"4fb3a35834\"}; //# sourceURL=elementskit-elementor-js-extra {\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://www.simisdentalcare.gr/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4\"}} /*! This file is auto-generated */ const a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://www.simisdentalcare.gr/wp-includes/js/wp-emoji-loader.min.js <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-M4F7CBW5\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/simisdentalcare.gr-home-2f41bbde/homepage--2f41bbde.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/simisdentalcare.gr-home-2f41bbde/homepage--2f41bbde.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/gr1.png",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.simisdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:07:42.475Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/output-onlinepngtools-2024-0.png",
+          "alt": "output-onlinepngtools - 2024-0",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:07:42.475Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/gr2.png",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:07:42.475Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-11-9-23-07-46-21-min-scaled.jpg",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:07:42.475Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-11-9-23-07-36-36-min-1-scaled.jpg",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:07:42.475Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-11-9-23-07-38-58-min-1-scaled.jpg",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:07:42.475Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-11-9-23-07-48-15-min-scaled.jpg",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:07:42.475Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/output-onlinepngtools-4.png",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:07:42.475Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/output-onlinepngtools-2024-0-142x300.png",
+          "alt": "output-onlinepngtools - 2024-0",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/",
+          "pageType": "homepage",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/",
+              "retrievedAt": "2026-03-31T13:07:42.475Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.85,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page fetch",
+          "uri": "https://www.simisdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:07:42.477Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/simisdentalcare.gr-home-2f41bbde/homepage-page-2f41bbde.png"
+    },
+    "about": {
+      "pageType": "about",
+      "requestedUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+      "finalUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+      "fetchedAt": "2026-03-31T13:07:47.095Z",
+      "metadata": {
+        "title": "Η Ομάδα του Simis Dental Care | Εξειδικευμένοι Οδοντίατροι",
+        "metaDescription": "Η έμπειρη ομάδα του Simis Dental Care αποτελείται από εξειδικευμένους οδοντιάτρους που προσφέρουν εξατομικευμένη φροντίδα και σύγχρονες θεραπείες στόματος.",
+        "canonicalUrl": "https://www.simisdentalcare.gr/%CE%B7-%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1/",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Η Ομάδα του Simis Dental Care | Εξειδικευμένοι Οδοντίατροι",
+        "openGraphDescription": "Η έμπειρη ομάδα του Simis Dental Care αποτελείται από εξειδικευμένους οδοντιάτρους που προσφέρουν εξατομικευμένη φροντίδα και σύγχρονες θεραπείες στόματος.",
+        "openGraphImage": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-9-9-23-19-19-15-min.png"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Γνωρίστε την ομάδα μας"
+        },
+        {
+          "level": "h2",
+          "text": "Προσθετολόγος"
+        },
+        {
+          "level": "h2",
+          "text": "Dr. Παναγιώτης Ντόβας"
+        },
+        {
+          "level": "h2",
+          "text": "Ορθοδοντικός"
+        },
+        {
+          "level": "h2",
+          "text": "Dr. Γεώργιος Εμμανουηλίδης"
+        },
+        {
+          "level": "h2",
+          "text": "Ενδοδοντιστής"
+        },
+        {
+          "level": "h2",
+          "text": "Dr. Μεκιάμης Αλέξανδρος"
+        },
+        {
+          "level": "h2",
+          "text": "Στιγμιότυπα φροντίδας"
+        },
+        {
+          "level": "h2",
+          "text": "Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα."
+        },
+        {
+          "level": "h2",
+          "text": "Που θα μας βρείτε"
+        },
+        {
+          "level": "h2",
+          "text": "© Simis Dental Clinic 2025 | all rights reserved website by Domi"
+        },
+        {
+          "level": "h3",
+          "text": "Ανακαλύψτε την καλύτερη εκδοχή του χαμόγελου σας"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.simisdentalcare.gr/",
+          "label": "Simis Dental Care"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82/",
+          "label": "Ο ιδρυτής"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1/",
+          "label": "Η ομάδα"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1/",
+          "label": "Εμφυτεύματα"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b1%ce%b9%cf%83%ce%b8%ce%b7%cf%84%ce%b9%ce%ba%ce%ae-%ce%bf%ce%b4%ce%bf%ce%bd%cf%84%ce%b9%ce%b1%cf%84%cf%81%ce%b9%ce%ba%ce%ae/",
+          "label": "Αισθητική οδοντιατρική"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%bf%cf%81%ce%b8%ce%bf%ce%b4%ce%bf%ce%bd%cf%84%ce%b9%ce%ba%ce%ae/",
+          "label": "Ορθοδοντική"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%cf%80%ce%b5%cf%81%ce%b9%ce%bf%ce%b4%ce%bf%ce%bd%cf%84%ce%af%cf%84%ce%b9%ce%b4%ce%b1/",
+          "label": "Περιοδοντίτιδα"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%cf%87%ce%b5%ce%b9%cf%81%ce%bf%cf%85%cf%81%ce%b3%ce%b9%ce%ba%ce%ad%cf%82-%ce%b5%ce%be%ce%b1%ce%b3%cf%89%ce%b3%ce%ad%cf%82/",
+          "label": "Χειρουργικές εξαγωγές"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%bf%cf%85%ce%bb%ce%bf%cf%80%ce%bb%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%ae/",
+          "label": "Ουλοπλαστική"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%bd%ce%ac%cf%81%ce%b8%ce%b7%ce%ba%ce%b1%cf%82-%ce%b2%cf%81%cf%85%ce%b3%ce%bc%ce%bf%cf%8d/",
+          "label": "Νάρθηκας βρυγμού"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%cf%86%cf%85%ce%b3%ce%bf%ce%ba%ce%ad%ce%bd%cf%84%cf%81%ce%b9%cf%83%ce%b7-%ce%b1%ce%af%ce%bc%ce%b1%cf%84%ce%bf%cf%82/",
+          "label": "Φυγοκέντριση του αίματος"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b7-%ce%ba%ce%bb%ce%b9%ce%bd%ce%b9%ce%ba%ce%ae/",
+          "label": "Το Οδοντιατρείο"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%cf%80%ce%b5%cf%81%ce%b9%cf%83%cf%84%ce%b1%cf%84%ce%b9%ce%ba%ce%ac/",
+          "label": "Περιστατικά"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/#services",
+          "label": "Υπηρεσίες"
+        }
+      ],
+      "forms": [],
+      "visibleElements": {
+        "phones": [
+          "210 6456 105",
+          "2106456105"
+        ],
+        "emails": [
+          "info@simisdentalcare.gr"
+        ],
+        "addresses": [
+          "Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα. Που θα μας βρείτε Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 2106456105 ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Το Οδοντιατρείο Περιστατικά Επικοινωνία © Simis Dental Clinic 2025 | all rights reserved website by Domi"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/christos.simis",
+            "label": "Facebook-f"
+          },
+          {
+            "href": "https://www.instagram.com/xristo.s",
+            "label": "Icon-instagram-1"
+          },
+          {
+            "href": "https://www.linkedin.com/in/simischristos",
+            "label": "Icon-linkedin"
+          },
+          {
+            "href": "https://www.tiktok.com/@simisdent",
+            "label": "Tiktok"
+          },
+          {
+            "href": "https://www.youtube.com/@simisdentalcare",
+            "label": "Youtube"
+          }
+        ],
+        "forms": []
+      },
+      "footerText": "Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα. Που θα μας βρείτε Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 2106456105 ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Το Οδοντιατρείο Περιστατικά Επικοινωνία © Simis Dental Clinic 2025 | all rights reserved website by Domi",
+      "textContent": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-59CJGT94\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-M4F7CBW5\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Simis Dental Care Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 210 6456 105 Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 210 6456 105 Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Menu Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Αισθητική οδοντιατρική Ορθοδοντική Εμφυτεύματα Περιοδοντίτιδα Χειρουργικές εξαγωγές Ουλοπλαστική Νάρθηκας βρυγμού Φυγοκέντριση του αίματος Το Οδοντιατρείο Περιστατικά Επικοινωνία Ανακαλύψτε την καλύτερη εκδοχή του χαμόγελου σας Επικοινωνία Η ΜΕΘΟΔΟΛΟΓΙΑ ΜΑΣ Η διαδικασία αυτή προσφέρει μια ομαλή εμπειρία για τους ασθενείς μας, από την αρχική διάγνωση μέχρι τη θεραπεία, εξασφαλίζοντας την ιδανική προσωποποιημένη φροντίδα που χρειάζεστε για τη βελτίωση της οδοντικής σας υγείας. Κλείστε ραντεβούΤο πρώτο βήμα είναι απλό. Επικοινωνήστε μαζί μας τηλεφωνικά ή μέσω της ηλεκτρονικής μας φόρμας ραντεβού για να επιλέξετε την κατάλληλη ημερομηνία και ώρα που σας βολεύει. Διάγνωση:Κατά τη διάρκεια του πρώτου σας ραντεβού, οι έμπειροι ιατροί μας θα κάνουν λήψη του οδοντιατρικού σας ιστορικού και θα πραγματοποιήσουν μια λεπτομερή εξέταση και συζήτηση μαζί σας για να κατανοήσουν τις ανάγκες και τις επιθυμίες σας. Εξειδικευμένη θεραπεία:Με βάση τη διάγνωση, θα αναπτυχθεί ένα εξειδικευμένο σχέδιο θεραπείας που θα προσαρμόζεται στις ατομικές σας ανάγκες. Σε κάθε στάδιο, εξασφαλίζουμε ότι είστε ενήμεροι και άνετοι. ΒΙΟΓΡΑΦΙΚA ΙΑΤΡΙΚΩΝ ΣΥΝΕΡΓΑΤΩΝ Γνωρίστε την ομάδα μας Προσθετολόγος Dr. Παναγιώτης Ντόβας Ο Παναγιώτης Ντόβας αποφοίτησε από την Οδοντιατρική Σχολή του Εθνικού καιΚαποδιστριακού Πανεπιστημίου Αθηνών στην Ελλάδα το 2014. Στο διάστημα2017 έως 2020, πραγματοποίησε τις μεταπτυχιακές του σπουδές στην ΕπανορθωτικήΟδοντιατρική στο ίδιο πανεπιστήμιο. Το 2022 βραβεύτηκε με την υποτροφία της ITI(International Team for Implantology) για να συνεχίσει τις σπουδές του στα οδοντικάεμφυτεύματα και την εφαρμογή των ψηφιακών τεχνολογιών στο τμήμα Προσθετικής, τηςΟδοντιατρικής Σχολής του πανεπιστημίου Tufts στην Βοστόνη (ΗΠΑ). Από το 2024 είναιυποψήφιος διδάκτωρ στην Οδοντιατρική Σχολή του Πανεπιστημίου Αθηνών και ανήκει στοδιδακτικό προσωπικό του προπτυχιακού και του μεταπτυχιακού προγράμματος σπουδών.Έχει πραγματοποιήσει περισσότερες από 50 επιστημονικές δημοσιεύσεις σε Ελληνικά καιξενόγλωσσα περιοδικά, έχει λάβει μέρος στη συγγραφή κεφαλαίων σεΟδοντιατρικά συγγράμματα, ενώ έχει περισσότερες από 170 συμμετοχές στο πρόγραμμασυνεδρίων στην Ελλάδα και το εξωτερικό. Παράλληλα είναι κριτής για μερικά από τασπουδαιότερα διεθνή επιστημονικά περιοδικά. Ορθοδοντικός Dr. Γεώργιος Εμμανουηλίδης Ο Γεώργιος Εμμανουηλίδης είναι ειδικός ορθοδοντικός και ασχολείται αποκλειστικά με την άσκηση της ορθοδοντικής ειδικότητας σε παιδιά και ενήλικες. Φοίτησε στην Οδοντιατρική Σχολή του Πανεπιστημίου Ovidius στην Κωνστάντζα και συνέχισε τις σπουδές του στην ειδικότητα της ορθοδοντικής, το 2009 απέκτησε την άδεια τίτλου και άσκησης της Ορθοδοντικής Ειδικότητας της Οδοντιατρικής στην Ελλάδα και από τότε μέχρι σήμερα εργάζεται στο ιδιωτικό του ιατρείο «Ορθοδοντική Ανάπλαση».Υπηρέτησε τη στρατιωτική του θητεία στο Οδοντιατρείο Φρουράς Αθηνών στο 401 Γ.Σ.Ν.Α ως επιμελητής του Ορθοδοντικού Τμήματος και συνέχισε να παρέχει τις υπηρεσίες του σε ένστολους ασθενείς συνολικά για 2 χρόνια. Έχει μεταπτυχιακό στην Ειδική Αγωγή στο Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών και παρακολουθεί μεταπτυχιακό στην Παιδοψυχολογία ΕΚΠΑ. Είναι εγγεγραμμένος στον Οδοντιατρικό Σύλλογο Αττικής ως ειδικός ορθοδοντικός και είναι πιστοποιημένος πάροχος στις πιο σύγχρονες θεραπευτικές τεχνικές της ορθοδοντικής.Έχει παρακολουθήσει σεμινάρια και συνέδρια σε Ελλάδα κ εξωτερικό, της Ορθοδοντικής Εταιρίας Ελλάδος, της Εταιρίας Ορθοδοντικής & Γναθοπροσωπικής Μελέτης & Έρευνας, της Societa Italiana Di Ortodonzia, της European Orthodontic Society και της World Federation of Orthodontists Ενδοδοντιστής Dr. Μεκιάμης Αλέξανδρος Ο Μεκιάμης Αλέξανδρος αποφοίτησε από την Οδοντιατρική Σχολή του Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης (ΑΠΘ), το 2013. Στην περίοδο της στρατιωτικής του θητείας, υπηρέτησε ως οπλίτης-οδοντίατρος στο 424 Γενικό Στρατιωτικό Νοσοκομείο Εκπαιδεύσεως. Στη συνέχεια, εργάστηκε ως γενικός οδοντίατρος σε ιδιωτικό οδοντιατρείο στη Θεσσαλονίκη, με αποκλειστική δραστηριότητα την Ενδοδοντία και την Χειρουργική Στόματος.Την περίοδο 2015 έως 2023, εργάστηκε σε ιδιωτικά ιατρεία της Βαυαρίας και του Βερολίνου, με εξειδίκευση την Ενδοδοντία, τη Μικροχειρουργική Ενδοδοντία και τη Χειρουργική Στόματος, κατά τη διάρκεια της οποίας διαχειρίστηκε και αντιμετώπισε πληθώρα περιστατικών, τόσο σε παιδιά, όσο και σε ενήλικες.Το 2016 εισήχθη στο τριετές πρόγραμμα εξειδίκευσης στην Ενδοδοντία στο DANUBE PRIVATE UNIVERSITY, στο Krems της Αυστρίας, το οποίο και ολοκλήρωσε με επιτυχία το 2019. Από τον Νοέμβριο του 2023, εργάζεται ως Ενδοδοντολόγος σε αρκετά ιδιωτικά ιατρεία στην της Αθήνας. Εχει παρακολουθήσει πολλά επιστημονικά συνέδρια και σεμινάρια στην Ελλάδα και στο εξωτερικό, με σκοπό τη συνεχή μετεκπαίδευση και παροχή άριστων υπηρεσιών στους ασθενείς του. Στιγμιότυπα φροντίδας Στις φωτογραφίες αυτές, μπορείτε να δείτε την ομάδα μας σε δράση, να αλληλεπιδρά με τους ασθενείς μας και να επιδεικνύει το πάθος της για την διασφάλιση της οδοντικής σας υγιεινής.Εδώ, η φροντίδα είναι περισσότερο από επάγγελμα – είναι αφοσίωση, είναι προσωπική σχέση, είναι μια ολιστική εμπειρία.Στην κλινική μας, πίσω από κάθε επιτυχημένη θεραπεία υπάρχει μια ομάδα εξειδικευμένων ιατρών, υγειονομικού προσωπικού και ασφαλώς, εσάς. Σας ευχαριστούμε για τη συνεχή εμπιστοσύνη σας. Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα. Που θα μας βρείτε Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 2106456105 ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Το Οδοντιατρείο Περιστατικά Επικοινωνία © Simis Dental Clinic 2025 | all rights reserved website by Domi {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/hello-elementor/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} const lazyloadRunObserver = () => { const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` ); const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => { entries.forEach( ( entry ) => { if ( entry.isIntersecting ) { let lazyloadBackground = entry.target; if( lazyloadBackground ) { lazyloadBackground.classList.add( 'e-lazyloaded' ); } lazyloadBackgroundObserver.unobserve( entry.target ); } }); }, { rootMargin: '200px 0px 200px 0px' } ); lazyloadBackgrounds.forEach( ( lazyloadBackground ) => { lazyloadBackgroundObserver.observe( lazyloadBackground ); } ); }; const events = [ 'DOMContentLoaded', 'elementor/lazyload/observe', ]; events.forEach( ( event ) => { document.addEventListener( event, lazyloadRunObserver ); } ); var elementorFrontendConfig = {\"environmentMode\":{\"edit\":false,\"wpPreview\":false,\"isScriptDebug\":false},\"i18n\":{\"shareOnFacebook\":\"Share on Facebook\",\"shareOnTwitter\":\"Share on Twitter\",\"pinIt\":\"Pin it\",\"download\":\"Download\",\"downloadImage\":\"Download image\",\"fullscreen\":\"Fullscreen\",\"zoom\":\"Zoom\",\"share\":\"Share\",\"playVideo\":\"Play Video\",\"previous\":\"Previous\",\"next\":\"Next\",\"close\":\"Close\",\"a11yCarouselPrevSlideMessage\":\"Previous slide\",\"a11yCarouselNextSlideMessage\":\"Next slide\",\"a11yCarouselFirstSlideMessage\":\"This is the first slide\",\"a11yCarouselLastSlideMessage\":\"This is the last slide\",\"a11yCarouselPaginationBulletMessage\":\"Go to slide\"},\"is_rtl\":false,\"breakpoints\":{\"xs\":0,\"sm\":480,\"md\":768,\"lg\":1025,\"xl\":1440,\"xxl\":1600},\"responsive\":{\"breakpoints\":{\"mobile\":{\"label\":\"Mobile Portrait\",\"value\":767,\"default_value\":767,\"direction\":\"max\",\"is_enabled\":true},\"mobile_extra\":{\"label\":\"Mobile Landscape\",\"value\":880,\"default_value\":880,\"direction\":\"max\",\"is_enabled\":false},\"tablet\":{\"label\":\"Tablet Portrait\",\"value\":1024,\"default_value\":1024,\"direction\":\"max\",\"is_enabled\":true},\"tablet_extra\":{\"label\":\"Tablet Landscape\",\"value\":1200,\"default_value\":1200,\"direction\":\"max\",\"is_enabled\":false},\"laptop\":{\"label\":\"Laptop\",\"value\":1366,\"default_value\":1366,\"direction\":\"max\",\"is_enabled\":false},\"widescreen\":{\"label\":\"Widescreen\",\"value\":2400,\"default_value\":2400,\"direction\":\"min\",\"is_enabled\":false}},\"hasCustomBreakpoints\":false},\"version\":\"3.34.1\",\"is_static\":false,\"experimentalFeatures\":{\"e_font_icon_svg\":true,\"additional_custom_breakpoints\":true,\"container\":true,\"theme_builder_v2\":true,\"hello-theme-header-footer\":true,\"nested-elements\":true,\"home_screen\":true,\"global_classes_should_enforce_capabilities\":true,\"e_variables\":true,\"cloud-library\":true,\"e_opt_in_v4_page\":true,\"e_interactions\":true,\"import-export-customization\":true,\"e_pro_variables\":true},\"urls\":{\"assets\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-content\\/plugins\\/elementor\\/assets\\/\",\"ajaxurl\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-admin\\/admin-ajax.php\",\"uploadUrl\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-content\\/uploads\"},\"nonces\":{\"floatingButtonsClickTracking\":\"57573a9e99\"},\"swiperClass\":\"swiper\",\"settings\":{\"page\":[],\"editorPreferences\":[]},\"kit\":{\"body_background_background\":\"classic\",\"active_breakpoints\":[\"viewport_mobile\",\"viewport_tablet\"],\"global_image_lightbox\":\"yes\",\"lightbox_enable_counter\":\"yes\",\"lightbox_enable_fullscreen\":\"yes\",\"lightbox_enable_zoom\":\"yes\",\"lightbox_enable_share\":\"yes\",\"lightbox_title_src\":\"title\",\"lightbox_description_src\":\"description\",\"hello_header_logo_type\":\"title\",\"hello_header_menu_layout\":\"horizontal\",\"hello_footer_logo_type\":\"logo\"},\"post\":{\"id\":124,\"title\":\"%CE%97%20%CE%9F%CE%BC%CE%AC%CE%B4%CE%B1%20%CF%84%CE%BF%CF%85%20Simis%20Dental%20Care%20%7C%20%CE%95%CE%BE%CE%B5%CE%B9%CE%B4%CE%B9%CE%BA%CE%B5%CF%85%CE%BC%CE%AD%CE%BD%CE%BF%CE%B9%20%CE%9F%CE%B4%CE%BF%CE%BD%CF%84%CE%AF%CE%B1%CF%84%CF%81%CE%BF%CE%B9\",\"excerpt\":\"\",\"featuredImage\":false}}; //# sourceURL=elementor-frontend-js-before var elementskit = { resturl: 'https://www.simisdentalcare.gr/wp-json/elementskit/v1/', } //# sourceURL=elementskit-framework-js-frontend-js-after wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); //# sourceURL=wp-i18n-js-after var ElementorProFrontendConfig = {\"ajaxurl\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-admin\\/admin-ajax.php\",\"nonce\":\"9f5b2c5576\",\"urls\":{\"assets\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/\",\"rest\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-json\\/\"},\"settings\":{\"lazy_load_background_images\":true},\"popup\":{\"hasPopUps\":false},\"shareButtonsNetworks\":{\"facebook\":{\"title\":\"Facebook\",\"has_counter\":true},\"twitter\":{\"title\":\"Twitter\"},\"linkedin\":{\"title\":\"LinkedIn\",\"has_counter\":true},\"pinterest\":{\"title\":\"Pinterest\",\"has_counter\":true},\"reddit\":{\"title\":\"Reddit\",\"has_counter\":true},\"vk\":{\"title\":\"VK\",\"has_counter\":true},\"odnoklassniki\":{\"title\":\"OK\",\"has_counter\":true},\"tumblr\":{\"title\":\"Tumblr\"},\"digg\":{\"title\":\"Digg\"},\"skype\":{\"title\":\"Skype\"},\"stumbleupon\":{\"title\":\"StumbleUpon\",\"has_counter\":true},\"mix\":{\"title\":\"Mix\"},\"telegram\":{\"title\":\"Telegram\"},\"pocket\":{\"title\":\"Pocket\",\"has_counter\":true},\"xing\":{\"title\":\"XING\",\"has_counter\":true},\"whatsapp\":{\"title\":\"WhatsApp\"},\"email\":{\"title\":\"Email\"},\"print\":{\"title\":\"Print\"},\"x-twitter\":{\"title\":\"X\"},\"threads\":{\"title\":\"Threads\"}},\"facebook_sdk\":{\"lang\":\"en_US\",\"app_id\":\"\"},\"lottie\":{\"defaultAnimationUrl\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json\"}}; //# sourceURL=elementor-pro-frontend-js-before var DeStickySettings = {\"elements_data\":{\"sections\":[],\"columns\":[]}}; //# sourceURL=de-sticky-frontend-js-extra var ekit_config = {\"ajaxurl\":\"https://www.simisdentalcare.gr/wp-admin/admin-ajax.php\",\"nonce\":\"4fb3a35834\"}; //# sourceURL=elementskit-elementor-js-extra {\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://www.simisdentalcare.gr/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4\"}} /*! This file is auto-generated */ const a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://www.simisdentalcare.gr/wp-includes/js/wp-emoji-loader.min.js <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-M4F7CBW5\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/simisdentalcare.gr-home-2f41bbde/about-ce-b7-ce-bf-ce-bc-ce-ac-ce-b4-ce-b1-7d0a61ea.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/simisdentalcare.gr-home-2f41bbde/about-ce-b7-ce-bf-ce-bc-ce-ac-ce-b4-ce-b1-7d0a61ea.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-9-9-23-19-19-15-min.png",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "pageType": "about",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:47.093Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/output-onlinepngtools-2024-0.png",
+          "alt": "output-onlinepngtools - 2024-0",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:47.093Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/1b.png",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:47.093Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/2b.png",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:47.093Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/3b.png",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:47.093Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/11/IMG_4130.jpeg",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:47.093Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/gewrgios-emanouilidis-1.png",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:47.093Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/01/IMG_4727-2048x1360.jpeg",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:47.093Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/gr1.png",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:47.093Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-9-9-23-22-27-41-min.png",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:47.093Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-9-9-23-15-51-53-min-scaled.jpg",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:47.093Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-9-9-23-22-31-37-min.png",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "pageType": "about",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:47.093Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.55,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page fetch",
+          "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:47.095Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "services": {
+      "pageType": "services",
+      "requestedUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "finalUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "fetchedAt": "2026-03-31T13:07:48.733Z",
+      "metadata": {
+        "title": "Εμφυτεύματα Δοντιών – 1.200 Κριτικές 5 Αστέρων - Simis Dental Care",
+        "metaDescription": "Εμφυτεύματα Δοντιών Υψηλής Ποιότητας Σε 1 Ημέρα, Χωρίς Πόνο από τον Ειδικό στα Εμφυτεύματα. 1.200 Κριτικές 5 Αστέρων.",
+        "canonicalUrl": "https://www.simisdentalcare.gr/%CE%B5%CE%BC%CF%86%CF%85%CF%84%CE%B5%CF%8D%CE%BC%CE%B1%CF%84%CE%B1/",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Εμφυτεύματα Δοντιών – 1.200 Κριτικές 5 Αστέρων - Simis Dental Care",
+        "openGraphDescription": "Εμφυτεύματα Δοντιών Υψηλής Ποιότητας Σε 1 Ημέρα, Χωρίς Πόνο από τον Ειδικό στα Εμφυτεύματα. 1.200 Κριτικές 5 Αστέρων.",
+        "openGraphImage": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Εμφυτεύματα Δοντιών - 1.200 Κριτικές 5 Αστέρων"
+        },
+        {
+          "level": "h1",
+          "text": "Ελάτε σε επικοινωνία με την ομάδα μας"
+        },
+        {
+          "level": "h2",
+          "text": "Οδοντικά Εμφυτεύματα Υψηλής Ποιότητας σαν Φυσικά Δόντια"
+        },
+        {
+          "level": "h2",
+          "text": "Σταθερή Λύση, Ανώδυνη Τοποθέτηση, Φυσικό Χαμόγελο"
+        },
+        {
+          "level": "h2",
+          "text": "Εξειδίκευση & Εμπειρία στα Εμφυτεύματα – Η Διαδικασία που ακολουθούμε"
+        },
+        {
+          "level": "h2",
+          "text": "Τα 5 στάδια στην τοποθέτηση εμφυτευμάτων"
+        },
+        {
+          "level": "h2",
+          "text": "Φροντίδα των οδοντικών εμφυτευμάτων"
+        },
+        {
+          "level": "h2",
+          "text": "5 Πράγματα που πρέπει να γνωρίζετε"
+        },
+        {
+          "level": "h2",
+          "text": "Ποσοστά επιτυχίας"
+        },
+        {
+          "level": "h2",
+          "text": "Εγγύηση εμφυτευμάτων"
+        },
+        {
+          "level": "h2",
+          "text": "Διάρκεια ζωής των εμφυτευμάτων δοντιών"
+        },
+        {
+          "level": "h2",
+          "text": "Εμφυτεύματα Δοντιών Τιμές"
+        },
+        {
+          "level": "h2",
+          "text": "01."
+        },
+        {
+          "level": "h2",
+          "text": "ΤΗΛΕΦΩΝΟ"
+        },
+        {
+          "level": "h2",
+          "text": "210 6456 105"
+        },
+        {
+          "level": "h2",
+          "text": "02."
+        },
+        {
+          "level": "h2",
+          "text": "EMAIL"
+        },
+        {
+          "level": "h2",
+          "text": "info@simisdentalcare.gr"
+        },
+        {
+          "level": "h2",
+          "text": "03."
+        },
+        {
+          "level": "h2",
+          "text": "ΔΙΕΥΘΥΝΣΗ"
+        },
+        {
+          "level": "h2",
+          "text": "Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522"
+        },
+        {
+          "level": "h2",
+          "text": "04."
+        },
+        {
+          "level": "h2",
+          "text": "FACEBOOK"
+        },
+        {
+          "level": "h2",
+          "text": "Dr. Christos Simis, DMD, MS"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.simisdentalcare.gr/",
+          "label": "Simis Dental Care"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82/",
+          "label": "Ο ιδρυτής"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1/",
+          "label": "Η ομάδα"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1/",
+          "label": "Εμφυτεύματα"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b1%ce%b9%cf%83%ce%b8%ce%b7%cf%84%ce%b9%ce%ba%ce%ae-%ce%bf%ce%b4%ce%bf%ce%bd%cf%84%ce%b9%ce%b1%cf%84%cf%81%ce%b9%ce%ba%ce%ae/",
+          "label": "Αισθητική οδοντιατρική"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%bf%cf%81%ce%b8%ce%bf%ce%b4%ce%bf%ce%bd%cf%84%ce%b9%ce%ba%ce%ae/",
+          "label": "Ορθοδοντική"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%cf%80%ce%b5%cf%81%ce%b9%ce%bf%ce%b4%ce%bf%ce%bd%cf%84%ce%af%cf%84%ce%b9%ce%b4%ce%b1/",
+          "label": "Περιοδοντίτιδα"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%cf%87%ce%b5%ce%b9%cf%81%ce%bf%cf%85%cf%81%ce%b3%ce%b9%ce%ba%ce%ad%cf%82-%ce%b5%ce%be%ce%b1%ce%b3%cf%89%ce%b3%ce%ad%cf%82/",
+          "label": "Χειρουργικές εξαγωγές"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%bf%cf%85%ce%bb%ce%bf%cf%80%ce%bb%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%ae/",
+          "label": "Ουλοπλαστική"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%bd%ce%ac%cf%81%ce%b8%ce%b7%ce%ba%ce%b1%cf%82-%ce%b2%cf%81%cf%85%ce%b3%ce%bc%ce%bf%cf%8d/",
+          "label": "Νάρθηκας βρυγμού"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%cf%86%cf%85%ce%b3%ce%bf%ce%ba%ce%ad%ce%bd%cf%84%cf%81%ce%b9%cf%83%ce%b7-%ce%b1%ce%af%ce%bc%ce%b1%cf%84%ce%bf%cf%82/",
+          "label": "Φυγοκέντριση του αίματος"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b7-%ce%ba%ce%bb%ce%b9%ce%bd%ce%b9%ce%ba%ce%ae/",
+          "label": "Το Οδοντιατρείο"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%cf%80%ce%b5%cf%81%ce%b9%cf%83%cf%84%ce%b1%cf%84%ce%b9%ce%ba%ce%ac/",
+          "label": "Περιστατικά"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-5.jpg"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/osteoensomatosi/",
+          "label": "Τι είναι η οστεοενσωμάτωση και γιατί είναι κρίσιμη στα εμφυτεύματα δοντιών"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1-%cf%83%ce%b5-%ce%b7%ce%bb%ce%b9%ce%ba%ce%b9%cf%89%ce%bc%ce%ad%ce%bd%ce%bf%cf%85%cf%82/",
+          "label": "Εμφυτεύματα σε ηλικιωμένους ασθενείς"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/diafora-gefira-emfiteumaton/",
+          "label": "Ποια η Διαφορά εμφυτευμάτων και οδοντικής γέφυρας"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/viologiko-epipedo/",
+          "label": "Πως λειτουργούν σε βιολογικό επίπεδο τα εμφυτεύματα δοντιών"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/idanikos-ipopsifios/",
+          "label": "Ποιος είναι κατάλληλος υποψήφιος για εμφυτεύματα δοντιών; Προϋποθέσεις & αξιολόγηση"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/xronos-apokatastasis/",
+          "label": "Χρόνος αποκατάστασης μετά από εμφύτευμα δοντιού – Πόσο διαρκεί κάθε στάδιο"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/ponaei-emfuteumatos/",
+          "label": "Πονάει η τοποθέτηση εμφυτεύματος; Τι να περιμένετε από τα οδοντικά εμφυτεύματα"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/ti-na-prosexete-emfiteumata/",
+          "label": "Τι να προσέχετε μετά την τοποθέτηση εμφυτεύματος – Οδηγός φροντίδας οδοντικών εμφυτευμάτων"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/#services",
+          "label": "Υπηρεσίες"
+        }
+      ],
+      "forms": [
+        {
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "post_id",
+            "form_id",
+            "referer_title",
+            "queried_id",
+            "form_fields[name]",
+            "form_fields[email]",
+            "form_fields[field_82d3e9c]",
+            "form_fields[field_3818a9a]",
+            "form_fields[message]"
+          ],
+          "submitLabels": [
+            "Αποστολή"
+          ],
+          "fields": [
+            {
+              "name": "post_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "form_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "referer_title",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "queried_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "form_fields[name]",
+              "type": "text",
+              "label": "Ονοματεπώνυμο:",
+              "required": true
+            },
+            {
+              "name": "form_fields[email]",
+              "type": "email",
+              "label": "Email:",
+              "required": true
+            },
+            {
+              "name": "form_fields[field_82d3e9c]",
+              "type": "text",
+              "label": "Αριθμός Τηλεφώνου:",
+              "required": true
+            },
+            {
+              "name": "form_fields[field_3818a9a]",
+              "type": "text",
+              "label": "Θέμα Μηνύματος:",
+              "required": true
+            },
+            {
+              "name": "form_fields[message]",
+              "type": "textarea",
+              "label": "Γράψτε μας ό,τι επιθυμείτε:",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "210 6456 105",
+          "210 64 56 105",
+          "06/09/2025",
+          "210 6456 105 02",
+          "11522 04",
+          "2106456105"
+        ],
+        "emails": [
+          "info@simisdentalcare.gr",
+          "info@simisdentalcre.gr"
+        ],
+        "addresses": [
+          "Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα. Που θα μας βρείτε Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 2106456105 ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Το Οδοντιατρείο Περιστατικά Επικοινωνία © Simis Dental Clinic 2025 | all rights reserved website by Domi"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/christos.simis",
+            "label": "Facebook-f"
+          },
+          {
+            "href": "https://www.instagram.com/xristo.s",
+            "label": "Icon-instagram-1"
+          },
+          {
+            "href": "https://www.linkedin.com/in/simischristos",
+            "label": "Icon-linkedin"
+          },
+          {
+            "href": "https://www.tiktok.com/@simisdent",
+            "label": "Tiktok"
+          },
+          {
+            "href": "https://www.youtube.com/@simisdentalcare",
+            "label": "Youtube"
+          },
+          {
+            "href": "https://www.facebook.com/christos.simis/",
+            "label": "Dr. Christos Simis, DMD, MS"
+          }
+        ],
+        "forms": [
+          {
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "post_id",
+              "form_id",
+              "referer_title",
+              "queried_id",
+              "form_fields[name]",
+              "form_fields[email]",
+              "form_fields[field_82d3e9c]",
+              "form_fields[field_3818a9a]",
+              "form_fields[message]"
+            ],
+            "submitLabels": [
+              "Αποστολή"
+            ],
+            "fields": [
+              {
+                "name": "post_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "form_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "referer_title",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "queried_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "form_fields[name]",
+                "type": "text",
+                "label": "Ονοματεπώνυμο:",
+                "required": true
+              },
+              {
+                "name": "form_fields[email]",
+                "type": "email",
+                "label": "Email:",
+                "required": true
+              },
+              {
+                "name": "form_fields[field_82d3e9c]",
+                "type": "text",
+                "label": "Αριθμός Τηλεφώνου:",
+                "required": true
+              },
+              {
+                "name": "form_fields[field_3818a9a]",
+                "type": "text",
+                "label": "Θέμα Μηνύματος:",
+                "required": true
+              },
+              {
+                "name": "form_fields[message]",
+                "type": "textarea",
+                "label": "Γράψτε μας ό,τι επιθυμείτε:",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα. Που θα μας βρείτε Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 2106456105 ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Το Οδοντιατρείο Περιστατικά Επικοινωνία © Simis Dental Clinic 2025 | all rights reserved website by Domi",
+      "textContent": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-59CJGT94\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-M4F7CBW5\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Simis Dental Care Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 210 6456 105 Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 210 6456 105 Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Menu Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Αισθητική οδοντιατρική Ορθοδοντική Εμφυτεύματα Περιοδοντίτιδα Χειρουργικές εξαγωγές Ουλοπλαστική Νάρθηκας βρυγμού Φυγοκέντριση του αίματος Το Οδοντιατρείο Περιστατικά Επικοινωνία ΟΙ ΥΠΗΡΕΣΙΕΣ ΠΟΥ ΠΑΡΕΧΟΥΜΕ ΣΤΟ ΟΔΟΝΤΙΑΤΡΕΙΟ ΜΑΣ Εμφυτεύματα Δοντιών - 1.200 Κριτικές 5 Αστέρων Τα οδοντικά εμφυτεύματα είναι η ιδανικότερη λύση για να αντικαταστήσουν δόντια που λείπουν. Είναι σαν φυσικά δόντια που λύνουν οριστικά το πρόβλημα.Τα εμφυτεύματα που εφαρμόζει ο Dr. Χρήστος Σίμης είναι υψηλής ποιότητας, μπορούν να τοποθετηθούν σε 1 ημέρα και αποτελούν μια σταθερή λύση. Η τοποθέτηση είναι ανώδυνη, με μεγάλη διάρκεια ζωής και εγγύηση επιτυχίας.Ο Dr. Χρήστος Σίμης σε κάθε χειρουργείο εμφυτευμάτων χρησιμοποιεί βλαστοκύτταταρα που φυγοκεντρούνται από το αίμα του ίδιου του ασθενή! Μετά από φυγοκέντριση του αίματος φτιάχνει αυτόλογα μοσχεύματα και αυξητικούς παράγοντες με τα οποία προσφέρει 100% επιτυχία, τέλεια επούλωση, ταχεία ανάρρωση και εξαλείφει τον μετεγχειρητικό πόνο, την δυσφορία και το οίδημα. Χρησιμοποιεί αποκλειστικά ψηφιακά αποτυπώματα με ενδοστοματικό σκάνερ.Ο Dr. Χρήστος Σίμης, στρατιωτικός οδοντίατρος, μέλος των Γιατρών Χωρίς Σύνορα και των Γιατρών του Κόσμου, διαθέτει εμπειρία 20.000 εμφυτευμάτων και είναι πρωτοπόρος στα εμφυτεύματα στην Ελλάδα. Με τη λύση που προσφέρει εγγυάται φυσικό χαμόγελο που διαρκεί.Στο Εξειδικευμένο Οδοντιατρείο που έχει έδρα στην οδό Σολιώτη στην Αθήνα υπάρχει εξειδίκευση και εμπειρία στα εμφυτεύματα.Κλείστε Σήμερα Ραντεβού Χωρίς Αναμονή για να σας δει ο Ιατρός στο 210 64 56 105.Οδοντικά Εμφυτεύματα Υψηλής Ποιότητας σαν Φυσικά ΔόντιαΤο οδοντικό εμφύτευμα είναι ουσιαστικά μια “τεχνητή ρίζα δοντιού”, το οποίο είναι κατασκευασμένο από τιτάνιο ή Ζιρκόνιο. Πάνω στο εμφύτευμα εφαρμόζεται ένα εξάρτημα το οποίο ονομάζεται abutment, το οποίο αντικαθιστά την μύλη του δοντιού και τέλος πάνω σε αυτό σταθεροποιείται το τεχνητό δόντι. Με πιο απλά λόγια, το οδοντικό εμφύτευμα είναι μία μικρή κατασκευή, κάτι σαν βίδα η οποία τοποθετείται στο οστό της γνάθου για να αντικαταστήσει το φυσικό δόντι. Λειτουργεί όπως και η ρίζα του δοντιού και με το πέρασμα του χρόνου γίνεται ένα με το οστό κι έτσι μένει σταθερό.Σταθερή Λύση, Ανώδυνη Τοποθέτηση, Φυσικό ΧαμόγελοΓενικότερα οι 3 σημαντικότεροι παράγοντες που καθορίζουν εάν ένας ασθενής μπορεί να βάλει εμφυτεύματα ή όχι είναι:α) η γενική υγεία του ασθενούς, β) η ύπαρξη περιοδοντίτιδας, γ) και αν το ποσοστό του οστού είναι αρκετό. Εάν το οστό της γνάθου στην οποία θέλουμε να τοποθετήσουμε τα εμφυτεύματα έχει απορριφθεί ιδιαίτερα ή για κάποιο λόγο δεν διαπλάστηκε ποτέ άρτια, μπορεί να γίνει τοποθέτηση οστικού μοσχεύματος σε πρώτη φάση και μετά να ακολουθήσει η τοποθέτηση των εμφυτευμάτων.Τα εμφυτεύματα δοντιών χρησιμοποιούνται από ασθενείς που τους λείπουν κάποια ή όλα τα δόντια και ψάχνουν για μία σταθερή, μόνιμη λύση που θα τους επιτρέπει να νιώθουν άνετα με την εμφάνισή τους, όπως και να τρώνε αλλά και να μιλάνε χωρίς προβλήματα.(Πριν & Μετά Ασθενών μας) Εξειδίκευση & Εμπειρία στα Εμφυτεύματα – Η Διαδικασία που ακολουθούμεΚανονικά το εμφύτευμα τοποθετείται στη γνάθο κι έπειτα ο χρόνος που χρειάζεται για να οστεοενσωματωθεί απόλυτα κυμαίνεται από 3 μέχρι 6 μήνες. Έτσι επουλώνεται χωρίς να δημιουργείται επιπλέον πίεση κατά τη διάρκεια της μάσησης και μειώνεται ο κίνδυνος της αποτυχίας της εμφύτευσης. Όταν το εμφύτευμα σταθεροποιηθεί πλήρως τότε ο οδοντίατρος εξετάζει προσεχτικά το στόμα προκειμένου να δημιουργήσει τη κατάλληλη στεφάνη (θήκη) για να καλύψει το εμφύτευμα και το κολόβωμα (Abutment) που τα συνδέει. Ένα εμφύτευμα δοντιού μπορεί να χρησιμοποιηθεί για να αποκαταστήσει ένα χαμένο δόντι ακόμα και για μία πλήρη στοματική αποκατάσταση. Άλλες μέθοδοι όπως οι γέφυρες ή η μέθοδος All-on-4 χρησιμοποιούν εμφυτεύματα για να δημιουργήσουν ένα τόξο αποτελούμενο από 10-12 δόντια.Τα 5 στάδια στην τοποθέτηση εμφυτευμάτωνΑρχικά πρέπει να γίνει προσεκτική κλινική και ακτινογραφική εξέταση της στοματικής κοιλότητας και ειδικότερα της περιοχής που πρόκειται να μπει το εμφύτευμα.Αφού οριστικοποιηθεί η θέση και το μέγεθος του εμφυτεύματος, τοποθετείται μέσα στο οστό της γνάθου κάτω από τα ούλα. Δεν θα αναφερθούμε σε τεχνικές και τρόπους τοποθέτησης των εμφυτευμάτων – άμεση φόρτιση ή όχι, εμφυτεύματα εσωτερικού ή εξωτερικού συνδέσμου με το abutment, τρόπος σύνδεσης εμφυτεύματος με abutment – καθώς οι ιατρικοί όροι και η ορολογία θα σας δυσκολέψουν να καταλάβετε την ουσία και πώς εσείς τελικά θα ωφεληθείτε. Υπάρχει η εμπειρία από μέρους μας να κάνουμε την καλύτερη επιλογή για να σας προφέρουμε το καλύτερο κλινικό και αισθητικό αποτέλεσμα.Έπειτα λοιπόν από την τοποθέτηση του εμφυτεύματος, τα ούλα συρράφονται στην αρχική τους θέση. Σιγά σιγά ξεκινά η διαδικασία της οστεοενσωμάτωσης, κατά την οποία συντίθενται οστό από τους οστεοβλάστες γύρω από το εμφύτευμα. Για την άνω γνάθο αυτή η διαδικασία ολοκληρώνεται σε περίπου 5 μήνες ενώ για την κάτω γνάθο σε 3 μήνες.Αφού περάσει ο απαιτούμενος χρόνος και γίνει σωστή αποτύπωση του εμφυτεύματος και των μαλακών ιστών γύρω από αυτό, τοποθετείται στο εμφύτευμα το abutment. Πάνω στο abutment συγκολλάται ή κοχλιώνεται το τεχνητό δόντι που έχει κατασκευάσει το εργαστήριο.Όταν λείπουν περισσότερα από ένα δόντια, τότε αυτά αναπληρώνονται με την τοποθέτηση μιας γέφυρας, η οποία έχει σαν ακραία στηρίγματα εμφυτεύματα.(Πριν & Μετά Ασθενών μας)Φροντίδα των οδοντικών εμφυτευμάτωνΠαρ´ όλο που τα εμφυτεύματα είναι “τεχνητά δόντια” δε θα πρέπει να ξεχνάμε ότι είναι τοποθετημένα στη γνάθο μας και για αυτό θα πρέπει να τους συμπεριφερόμαστε όπως και στα φυσικά δόντια! Όπως και τα φυσικά δόντια, έτσι και τα εμφυτεύματα πρέπει να καθαρίζονται καθημερινά και με ιδιαίτερη φειδώ. Το οδοντιατρικό σας check up θα πρέπει πλέον να είναι συχνότερο και “αναπόφευκτο”! Είναι σημαντικό ο οδοντίατρός σας να μπορεί να ελέγχει σε τακτά χρονικά διαστήματα τη σύγκλεισή σας και τη σωστή συγκόλληση και σταθερότητα των εμφυτευμάτων σας.5 Πράγματα που πρέπει να γνωρίζετε– Ίσως χρειαστούν αρκετές επισκέψεις στον οδοντίατρό σας μέχρι να ολοκληρωθεί ολόκληρη η διαδικασία.– Τα check up πλέον θα καθορίζονται εκ των προτέρων για ολόκληρο το χρόνο έτσι ώστε ο θεράποντας να είναι σίγουρος ότι όλα λειτουργούν όπως πρέπει.– Πλέον η στοματική σας υγιεινή θα πρέπει να είναι άριστη ! Θα πρέπει να φροντίζετε τα εμφυτεύματά σας με ιδιαίτερη προσοχή καθημερινά .– Τα εμφυτεύματα πιθανότατα συμπεριλαμβάνονται στις πιο ακριβές οδοντιατρικές πράξεις αλλά λάβετε υπόψιν ότι τις περισσότερες φορές αποτελούν και την τελική αποκατάσταση ( δεν χρειάζεται δηλαδή είτε να ασχοληθείτε πάλι είτε να ξανά πληρώσετε για την αποκατάσταση της περιοχής ).Όπως σε όλες τις διαδικασίες έτσι και στα εμφυτεύματα υπάρχει ένα ποσοστό αποτυχίας το οποίο δε θα πρέπει να ξεχνάμε. Κάποιες φορές το εμφύτευμα δεν ενσωματώνεται με το οστό λόγω κάποιας φλεγμονής, λόγω γειτνίασης με το ιγμόρειο, λόγω καπνίσματος ή εμφάνισης συστηματικής νόσου.Ποσοστά επιτυχίαςΗ επιτυχία στα οδοντικά εμφυτεύματα εξαρτάται από διάφορους παράγοντες όπως τη θέση τους στην γνάθο, το πάχος και την ποιότητα του οστού, την στοματική υγιεινή του ασθενούς πρίν και μετά την εμφύτευση, κα. Όπως στην ιατρική έτσι και στην οδοντιατρική, δεν υπάρχει 100% επιτυχία σε καμία θεραπεία. Τα διφασικά εμφυτεύματα δοντιών – απόσταση εμφύτευσης από φόρτιση τουλάχιστον 2 μήνες – έχουν επιτυχία σύμφωνα με την διεθνή βιβλιογραφία 95%-97%, με το ποσοστό να μειώνεται για μονοφασικά συστήματα άμεσης φόρτισης. Τα μονοφασικά συστήματα άμεσης φόρτισης γνώρισαν άνθηση για να εξυπηρετήσουν τις ανάγκες του διεθνούς οδοντιατρικού τουρισμού όπου ο ασθενής έχει περιορισμούς στις ημέρες που μπορεί να περιμένει και στο πόσες φορές θα επισκεφθεί τον οδοντίατρο. Όταν ο χρονικός περιορισμός δεν υπάρχει προτιμάμε συστήματα διφασικά. Τα μονοφασικά εμφυτεύματα έχουν διαφορετική σχεδίαση – πιο ”επιθετικό” σπείρωμα – για να πετυχαίνουν μεγαλύτερη αρχική σταθερότητα η οποία είναι απαραίτητη, ταυτόχρονα όμως συμπιέζουν αρκετά το οστό, γεγονός που μπορεί να δημιουργήσει προβλήματα εάν δεν έχει γίνει καλή παρασκευή του χώρου εμφύτευσης.Τα εμφυτεύματα δοντιών δεν συνίσταται σεΑσθενείς με χαμηλό ανοσοποιητικό σύστημαΑρρύθμιστους Διαβητικούς ή με γλυκοζυλιωμένη πάνω από 7%Βαριούς καπνιστέςΑσθενείς που πέρασαν πρόσφατα κάποιο καρδιακό επεισόδιοΆτομα που τρίζουν τα δόντια τουςΆτομα που έχουν υποβληθεί πρόσφατα σε θεραπεία με ακτινοβολίες και χημειοθεραπείαΑσθενείς που έχουν λάβει διάφορες κατηγορίες φαρμάκων και ειδικά διφωσφονικά για οστεοπόρωση και άλλες ενδείξεις.Εγγύηση εμφυτευμάτωνΗ εγγύηση οστεοενσωμάτωσης που δίνει ο κάθε κατασκευαστής διαφέρει. Υπάρχουν εμφυτεύματα με εγγύηση από 10 έτη μέχρι και εφόρου ζωής με δεδομένο ότι ο ασθενής ακολουθεί τις οδηγίες του οδοντίατρου του και η στοματική του υγεία είναι σε καλά επίπεδα.Διάρκεια ζωής των εμφυτευμάτων δοντιώνΗ διάρκεια ζωής τους βάση προδιαγραφών του κατασκευαστή είναι ανεξάντλητη καθώς όταν οστεοενσωματωθούν ουσιαστικά αποτελούν μέρος της γνάθου. ‘’Βιβλιογραφικά’’ τα εμφυτεύματα δοντιών έχουν διάρκεια ζωής τα 20 χρόνια όμως όλα εξαρτώνται από την φροντίδα που θα ακολουθήσετε για τα εμφυτεύματά σας και την στοματική σας υγεία συνολικά. Άρα στην ερώτηση ‘’πόσο κρατάνε τα οδοντιατρικά εμφυτεύματα’’ θα σας λέγαμε ότι όσο εσείς φροντίζετε για αυτά, τόσο και αυτά θα είναι στο στόμα σας και θα βελτιώνουν την καθημερινότητά σας.Εμφυτεύματα Δοντιών ΤιμέςΗ πιο συχνή ερώτηση που αφορά τα εμφυτεύματα είναι ” πόσο κοστίζουν? ”Ποιά είναι η τιμή των εμφυτευμάτων?”Το κόστος του εμφυτεύματος καθώς και της προσθετικής αποκατάστασης που θα μπει πάνω από το/τα εμφύτευμα/τα εάν διαβάσατε όσα έχουμε γράψει στην σελίδα μας θα καταλάβατε ότι είναι συνάρτηση πολλών παραγόντων, οπότε σας ζητάμε να κλείσετε ένα ραντεβού μαζί μας και να σας δώσουμε μια εκτίμηση του κόστους αφού πρώτα σας εξετάσουμε! Θεωρούμε ότι το κριτήριο της τιμής είναι σημαντικό ,καθώς οι εποχές είναι δύσκολες οικονομικά , γι’ αυτό έχουμε προσαρμόσει τις τιμές μας ώστε να μπορέσετε να προχωρήσετε στην αποκατάσταση του χαμόγελού σας, όμως σας ζητάμε να καταλάβετε ότι τα οδοντιατρικά εμφυτεύματα δεν είναι προϊόντα με τιμή πώλησης, αλλά μια αποκατάσταση που πρέπει να αντιμετωπιστεί με την δέουσα σοβαρότητα και επιμέλεια.Η χρήση του LASER για τις τομές και η χρήση αυξητικών παραγόντων και βλαστοκυττάρων για ανάπλαση, κάνουν τη διαδικασία ανώδυνη και ατραυματική, επιταχύνουν την ανάπλαση της περιοχής και εξαλείφουν τις πιθανότητες μολύνσεων ή επιπλοκών.Καλέστε στο 210 6456 105 για να ενημερωθείτε ή να κλείσετε ραντεβού. Αισθητική οδοντιατρική Ορθοδοντική Περιοδοντίτιδα Χειρουργικές εξαγωγές Ουλοπλαστική Νάρθηκας βρυγμού Φυγοκέντριση του αίματος Που θα μας βρείτε Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 Ακολουθήστε μας Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Διαβάστε Περισσότερα: Τι είναι η οστεοενσωμάτωση και γιατί είναι κρίσιμη στα εμφυτεύματα δοντιών Διαβάστε Περισσότερα » Εμφυτεύματα σε ηλικιωμένους ασθενείς Διαβάστε Περισσότερα » Ποια η Διαφορά εμφυτευμάτων και οδοντικής γέφυρας Διαβάστε Περισσότερα » Πως λειτουργούν σε βιολογικό επίπεδο τα εμφυτεύματα δοντιών Διαβάστε Περισσότερα » Ποιος είναι κατάλληλος υποψήφιος για εμφυτεύματα δοντιών; Προϋποθέσεις & αξιολόγηση Διαβάστε Περισσότερα » Χρόνος αποκατάστασης μετά από εμφύτευμα δοντιού – Πόσο διαρκεί κάθε στάδιο Διαβάστε Περισσότερα » Πονάει η τοποθέτηση εμφυτεύματος; Τι να περιμένετε από τα οδοντικά εμφυτεύματα Διαβάστε Περισσότερα » Τι να προσέχετε μετά την τοποθέτηση εμφυτεύματος – Οδηγός φροντίδας οδοντικών εμφυτευμάτων Διαβάστε Περισσότερα » ΆΡΙΣΤΗ Με βάση 1153 κριτικές Νικος Κεχρης 06/09/2025 Το Trustindex επαληθεύει ότι η αρχική πηγή της κριτικής είναι Google. Εξαιρετική εμπειρία στη Simis Dental Care! Επισκέφθηκα τον Dr. Σίμη και από την αρχή ένιωσα ασφάλεια. Ο γιατρός είναι ήρεμος, προσεκτικός και εξηγεί τα πάντα με τρόπο που καταλαβαίνεις. Ο χώρος είναι καθαρός, μοντέρνος, με κορυφαία τεχνολογία. Το προσωπικό είναι ευγενικό και πολύ εξυπηρετικό. Η διαδικασία ήταν χωρίς πόνο, ακριβώς όπως μου είχαν πει. Το αποτέλεσμα ήταν εξαιρετικό. Θέλω να ευχαριστήσω όλη την ομάδα και τον συστήνω ανεπιφύλακτα ! ΧΡΥΣΟΣΤΟΜΟΣ ΚΑΡΒΟΥΝΑΣ 06/09/2025 Το Trustindex επαληθεύει ότι η αρχική πηγή της κριτικής είναι Google. Katerina S 06/09/2025 Το Trustindex επαληθεύει ότι η αρχική πηγή της κριτικής είναι Google. Elena Flokou 06/09/2025 Το Trustindex επαληθεύει ότι η αρχική πηγή της κριτικής είναι Google. Θοδωρής 06/09/2025 Το Trustindex επαληθεύει ότι η αρχική πηγή της κριτικής είναι Google. Vladimiros Michailidis 06/09/2025 Το Trustindex επαληθεύει ότι η αρχική πηγή της κριτικής είναι Google. George “Georgeres” Resvanis 06/09/2025 Το Trustindex επαληθεύει ότι η αρχική πηγή της κριτικής είναι Google. ΜΑΡΙΑ ΚΑΡ 06/09/2025 Το Trustindex επαληθεύει ότι η αρχική πηγή της κριτικής είναι Google. Μαριος Περουκιδης 06/09/2025 Το Trustindex επαληθεύει ότι η αρχική πηγή της κριτικής είναι Google. Maria Gargoulaki 06/09/2025 Το Trustindex επαληθεύει ότι η αρχική πηγή της κριτικής είναι Google. ΤΑ ΣΤΟΙΧΕΙΑ ΤΗΣ ΚΛΙΝΙΚΗΣ Ελάτε σε επικοινωνία με την ομάδα μας 01. ΤΗΛΕΦΩΝΟ 210 6456 105 02. EMAIL info@simisdentalcare.gr 03. ΔΙΕΥΘΥΝΣΗ Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 04. FACEBOOK Dr. Christos Simis, DMD, MS Φόρμα επικοινωνίας: Ονοματεπώνυμο: Email: Αριθμός Τηλεφώνου: Θέμα Μηνύματος: Γράψτε μας ό,τι επιθυμείτε: Αποστολή Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα. Που θα μας βρείτε Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 2106456105 ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Το Οδοντιατρείο Περιστατικά Επικοινωνία © Simis Dental Clinic 2025 | all rights reserved website by Domi {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/hello-elementor/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} const lazyloadRunObserver = () => { const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` ); const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => { entries.forEach( ( entry ) => { if ( entry.isIntersecting ) { let lazyloadBackground = entry.target; if( lazyloadBackground ) { lazyloadBackground.classList.add( 'e-lazyloaded' ); } lazyloadBackgroundObserver.unobserve( entry.target ); } }); }, { rootMargin: '200px 0px 200px 0px' } ); lazyloadBackgrounds.forEach( ( lazyloadBackground ) => { lazyloadBackgroundObserver.observe( lazyloadBackground ); } ); }; const events = [ 'DOMContentLoaded', 'elementor/lazyload/observe', ]; events.forEach( ( event ) => { document.addEventListener( event, lazyloadRunObserver ); } ); var elementorFrontendConfig = {\"environmentMode\":{\"edit\":false,\"wpPreview\":false,\"isScriptDebug\":false},\"i18n\":{\"shareOnFacebook\":\"Share on Facebook\",\"shareOnTwitter\":\"Share on Twitter\",\"pinIt\":\"Pin it\",\"download\":\"Download\",\"downloadImage\":\"Download image\",\"fullscreen\":\"Fullscreen\",\"zoom\":\"Zoom\",\"share\":\"Share\",\"playVideo\":\"Play Video\",\"previous\":\"Previous\",\"next\":\"Next\",\"close\":\"Close\",\"a11yCarouselPrevSlideMessage\":\"Previous slide\",\"a11yCarouselNextSlideMessage\":\"Next slide\",\"a11yCarouselFirstSlideMessage\":\"This is the first slide\",\"a11yCarouselLastSlideMessage\":\"This is the last slide\",\"a11yCarouselPaginationBulletMessage\":\"Go to slide\"},\"is_rtl\":false,\"breakpoints\":{\"xs\":0,\"sm\":480,\"md\":768,\"lg\":1025,\"xl\":1440,\"xxl\":1600},\"responsive\":{\"breakpoints\":{\"mobile\":{\"label\":\"Mobile Portrait\",\"value\":767,\"default_value\":767,\"direction\":\"max\",\"is_enabled\":true},\"mobile_extra\":{\"label\":\"Mobile Landscape\",\"value\":880,\"default_value\":880,\"direction\":\"max\",\"is_enabled\":false},\"tablet\":{\"label\":\"Tablet Portrait\",\"value\":1024,\"default_value\":1024,\"direction\":\"max\",\"is_enabled\":true},\"tablet_extra\":{\"label\":\"Tablet Landscape\",\"value\":1200,\"default_value\":1200,\"direction\":\"max\",\"is_enabled\":false},\"laptop\":{\"label\":\"Laptop\",\"value\":1366,\"default_value\":1366,\"direction\":\"max\",\"is_enabled\":false},\"widescreen\":{\"label\":\"Widescreen\",\"value\":2400,\"default_value\":2400,\"direction\":\"min\",\"is_enabled\":false}},\"hasCustomBreakpoints\":false},\"version\":\"3.34.1\",\"is_static\":false,\"experimentalFeatures\":{\"e_font_icon_svg\":true,\"additional_custom_breakpoints\":true,\"container\":true,\"theme_builder_v2\":true,\"hello-theme-header-footer\":true,\"nested-elements\":true,\"home_screen\":true,\"global_classes_should_enforce_capabilities\":true,\"e_variables\":true,\"cloud-library\":true,\"e_opt_in_v4_page\":true,\"e_interactions\":true,\"import-export-customization\":true,\"e_pro_variables\":true},\"urls\":{\"assets\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-content\\/plugins\\/elementor\\/assets\\/\",\"ajaxurl\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-admin\\/admin-ajax.php\",\"uploadUrl\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-content\\/uploads\"},\"nonces\":{\"floatingButtonsClickTracking\":\"57573a9e99\"},\"swiperClass\":\"swiper\",\"settings\":{\"page\":[],\"editorPreferences\":[]},\"kit\":{\"body_background_background\":\"classic\",\"active_breakpoints\":[\"viewport_mobile\",\"viewport_tablet\"],\"global_image_lightbox\":\"yes\",\"lightbox_enable_counter\":\"yes\",\"lightbox_enable_fullscreen\":\"yes\",\"lightbox_enable_zoom\":\"yes\",\"lightbox_enable_share\":\"yes\",\"lightbox_title_src\":\"title\",\"lightbox_description_src\":\"description\",\"hello_header_logo_type\":\"title\",\"hello_header_menu_layout\":\"horizontal\",\"hello_footer_logo_type\":\"logo\"},\"post\":{\"id\":1857,\"title\":\"%CE%95%CE%BC%CF%86%CF%85%CF%84%CE%B5%CF%8D%CE%BC%CE%B1%CF%84%CE%B1%20%CE%94%CE%BF%CE%BD%CF%84%CE%B9%CF%8E%CE%BD%20%E2%80%93%201.200%20%CE%9A%CF%81%CE%B9%CF%84%CE%B9%CE%BA%CE%AD%CF%82%205%20%CE%91%CF%83%CF%84%CE%AD%CF%81%CF%89%CE%BD%20-%20Simis%20Dental%20Care\",\"excerpt\":\"\",\"featuredImage\":false}}; //# sourceURL=elementor-frontend-js-before var elementskit = { resturl: 'https://www.simisdentalcare.gr/wp-json/elementskit/v1/', } //# sourceURL=elementskit-framework-js-frontend-js-after wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); //# sourceURL=wp-i18n-js-after var ElementorProFrontendConfig = {\"ajaxurl\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-admin\\/admin-ajax.php\",\"nonce\":\"9f5b2c5576\",\"urls\":{\"assets\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/\",\"rest\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-json\\/\"},\"settings\":{\"lazy_load_background_images\":true},\"popup\":{\"hasPopUps\":false},\"shareButtonsNetworks\":{\"facebook\":{\"title\":\"Facebook\",\"has_counter\":true},\"twitter\":{\"title\":\"Twitter\"},\"linkedin\":{\"title\":\"LinkedIn\",\"has_counter\":true},\"pinterest\":{\"title\":\"Pinterest\",\"has_counter\":true},\"reddit\":{\"title\":\"Reddit\",\"has_counter\":true},\"vk\":{\"title\":\"VK\",\"has_counter\":true},\"odnoklassniki\":{\"title\":\"OK\",\"has_counter\":true},\"tumblr\":{\"title\":\"Tumblr\"},\"digg\":{\"title\":\"Digg\"},\"skype\":{\"title\":\"Skype\"},\"stumbleupon\":{\"title\":\"StumbleUpon\",\"has_counter\":true},\"mix\":{\"title\":\"Mix\"},\"telegram\":{\"title\":\"Telegram\"},\"pocket\":{\"title\":\"Pocket\",\"has_counter\":true},\"xing\":{\"title\":\"XING\",\"has_counter\":true},\"whatsapp\":{\"title\":\"WhatsApp\"},\"email\":{\"title\":\"Email\"},\"print\":{\"title\":\"Print\"},\"x-twitter\":{\"title\":\"X\"},\"threads\":{\"title\":\"Threads\"}},\"facebook_sdk\":{\"lang\":\"en_US\",\"app_id\":\"\"},\"lottie\":{\"defaultAnimationUrl\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json\"}}; //# sourceURL=elementor-pro-frontend-js-before var DeStickySettings = {\"elements_data\":{\"sections\":[],\"columns\":[]}}; //# sourceURL=de-sticky-frontend-js-extra var ekit_config = {\"ajaxurl\":\"https://www.simisdentalcare.gr/wp-admin/admin-ajax.php\",\"nonce\":\"4fb3a35834\"}; //# sourceURL=elementskit-elementor-js-extra {\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://www.simisdentalcare.gr/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4\"}} /*! This file is auto-generated */ const a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://www.simisdentalcare.gr/wp-includes/js/wp-emoji-loader.min.js <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-M4F7CBW5\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/simisdentalcare.gr-home-2f41bbde/services-ce-b5-ce-bc-cf-86-cf-85-cf-84-ce-b5-cf-8d-ce-bc-ce-b1-cf-84-ce-b1-9fb7fa3f.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/simisdentalcare.gr-home-2f41bbde/services-ce-b5-ce-bc-cf-86-cf-85-cf-84-ce-b5-cf-8d-ce-bc-ce-b1-cf-84-ce-b1-9fb7fa3f.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "pageType": "services",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:48.731Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/output-onlinepngtools-2024-0.png",
+          "alt": "output-onlinepngtools - 2024-0",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:48.731Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/03/ifigeneia.jpg",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:48.731Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-1.jpg",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:48.731Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-5.jpg",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:48.731Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-6.jpg",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:48.731Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-3.jpg",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:48.731Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-4.jpg",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:48.731Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-7.jpg",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:48.731Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-8.jpg",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:48.731Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-9.jpg",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:48.731Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-10.jpg",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "pageType": "services",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:48.731Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.55,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page fetch",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:48.733Z"
+        }
+      ],
+      "statusCode": 200
+    },
+    "contact": {
+      "pageType": "contact",
+      "requestedUrl": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "finalUrl": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "fetchedAt": "2026-03-31T13:07:44.297Z",
+      "metadata": {
+        "title": "Επικοινωνία | Simis Dental Care | Οδοντιατρείο Αθήνα",
+        "metaDescription": "Κλείστε ραντεβού ή επικοινωνήστε με το Simis Dental Care. Βρισκόμαστε στην Αθήνα και προσφέρουμε πλήρη φροντίδα στόματος & αισθητικής οδοντιατρικής.",
+        "canonicalUrl": "https://www.simisdentalcare.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%AF%CE%B1/",
+        "language": "en-US",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "openGraphTitle": "Επικοινωνία | Simis Dental Care | Οδοντιατρείο Αθήνα",
+        "openGraphDescription": "Κλείστε ραντεβού ή επικοινωνήστε με το Simis Dental Care. Βρισκόμαστε στην Αθήνα και προσφέρουμε πλήρη φροντίδα στόματος & αισθητικής οδοντιατρικής.",
+        "openGraphImage": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-11-9-23-07-40-31-min-scaled.jpg"
+      },
+      "headings": [
+        {
+          "level": "h1",
+          "text": "Ελάτε σε επικοινωνία με την ομάδα μας"
+        },
+        {
+          "level": "h2",
+          "text": "Πως θα φτάσετε σε εμάς:"
+        },
+        {
+          "level": "h2",
+          "text": "01."
+        },
+        {
+          "level": "h2",
+          "text": "ΤΗΛΕΦΩΝΟ"
+        },
+        {
+          "level": "h2",
+          "text": "210 6456 105"
+        },
+        {
+          "level": "h2",
+          "text": "02."
+        },
+        {
+          "level": "h2",
+          "text": "EMAIL"
+        },
+        {
+          "level": "h2",
+          "text": "info@simisdentalcare.gr"
+        },
+        {
+          "level": "h2",
+          "text": "03."
+        },
+        {
+          "level": "h2",
+          "text": "ΔΙΕΥΘΥΝΣΗ"
+        },
+        {
+          "level": "h2",
+          "text": "Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522"
+        },
+        {
+          "level": "h2",
+          "text": "04."
+        },
+        {
+          "level": "h2",
+          "text": "FACEBOOK"
+        },
+        {
+          "level": "h2",
+          "text": "Dr. Christos Simis, DMD, MS"
+        },
+        {
+          "level": "h2",
+          "text": "Φόρμα επικοινωνίας:"
+        },
+        {
+          "level": "h2",
+          "text": "Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα."
+        },
+        {
+          "level": "h2",
+          "text": "Που θα μας βρείτε"
+        },
+        {
+          "level": "h2",
+          "text": "© Simis Dental Clinic 2025 | all rights reserved website by Domi"
+        }
+      ],
+      "internalLinks": [
+        {
+          "href": "https://www.simisdentalcare.gr/",
+          "label": "Simis Dental Care"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82/",
+          "label": "Ο ιδρυτής"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1/",
+          "label": "Η ομάδα"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1/",
+          "label": "Εμφυτεύματα"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b1%ce%b9%cf%83%ce%b8%ce%b7%cf%84%ce%b9%ce%ba%ce%ae-%ce%bf%ce%b4%ce%bf%ce%bd%cf%84%ce%b9%ce%b1%cf%84%cf%81%ce%b9%ce%ba%ce%ae/",
+          "label": "Αισθητική οδοντιατρική"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%bf%cf%81%ce%b8%ce%bf%ce%b4%ce%bf%ce%bd%cf%84%ce%b9%ce%ba%ce%ae/",
+          "label": "Ορθοδοντική"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%cf%80%ce%b5%cf%81%ce%b9%ce%bf%ce%b4%ce%bf%ce%bd%cf%84%ce%af%cf%84%ce%b9%ce%b4%ce%b1/",
+          "label": "Περιοδοντίτιδα"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%cf%87%ce%b5%ce%b9%cf%81%ce%bf%cf%85%cf%81%ce%b3%ce%b9%ce%ba%ce%ad%cf%82-%ce%b5%ce%be%ce%b1%ce%b3%cf%89%ce%b3%ce%ad%cf%82/",
+          "label": "Χειρουργικές εξαγωγές"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%bf%cf%85%ce%bb%ce%bf%cf%80%ce%bb%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%ae/",
+          "label": "Ουλοπλαστική"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%bd%ce%ac%cf%81%ce%b8%ce%b7%ce%ba%ce%b1%cf%82-%ce%b2%cf%81%cf%85%ce%b3%ce%bc%ce%bf%cf%8d/",
+          "label": "Νάρθηκας βρυγμού"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%cf%86%cf%85%ce%b3%ce%bf%ce%ba%ce%ad%ce%bd%cf%84%cf%81%ce%b9%cf%83%ce%b7-%ce%b1%ce%af%ce%bc%ce%b1%cf%84%ce%bf%cf%82/",
+          "label": "Φυγοκέντριση του αίματος"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b7-%ce%ba%ce%bb%ce%b9%ce%bd%ce%b9%ce%ba%ce%ae/",
+          "label": "Το Οδοντιατρείο"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%cf%80%ce%b5%cf%81%ce%b9%cf%83%cf%84%ce%b1%cf%84%ce%b9%ce%ba%ce%ac/",
+          "label": "Περιστατικά"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1/",
+          "label": "Επικοινωνία"
+        },
+        {
+          "href": "https://www.simisdentalcare.gr/#services",
+          "label": "Υπηρεσίες"
+        }
+      ],
+      "forms": [
+        {
+          "method": "post",
+          "purposeHint": "generic",
+          "fieldNames": [
+            "post_id",
+            "form_id",
+            "referer_title",
+            "queried_id",
+            "form_fields[name]",
+            "form_fields[email]",
+            "form_fields[field_82d3e9c]",
+            "form_fields[field_3818a9a]",
+            "form_fields[message]"
+          ],
+          "submitLabels": [
+            "Αποστολή"
+          ],
+          "fields": [
+            {
+              "name": "post_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "form_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "referer_title",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "queried_id",
+              "type": "hidden",
+              "required": false
+            },
+            {
+              "name": "form_fields[name]",
+              "type": "text",
+              "label": "Ονοματεπώνυμο:",
+              "required": true
+            },
+            {
+              "name": "form_fields[email]",
+              "type": "email",
+              "label": "Email:",
+              "required": true
+            },
+            {
+              "name": "form_fields[field_82d3e9c]",
+              "type": "text",
+              "label": "Αριθμός Τηλεφώνου:",
+              "required": true
+            },
+            {
+              "name": "form_fields[field_3818a9a]",
+              "type": "text",
+              "label": "Θέμα Μηνύματος:",
+              "required": true
+            },
+            {
+              "name": "form_fields[message]",
+              "type": "textarea",
+              "label": "Γράψτε μας ό,τι επιθυμείτε:",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "visibleElements": {
+        "phones": [
+          "210 6456 105",
+          "210 6456 105 02",
+          "11522 04",
+          "2106456105"
+        ],
+        "emails": [
+          "info@simisdentalcare.gr",
+          "info@simisdentalcre.gr"
+        ],
+        "addresses": [
+          "Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα. Που θα μας βρείτε Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 2106456105 ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Το Οδοντιατρείο Περιστατικά Επικοινωνία © Simis Dental Clinic 2025 | all rights reserved website by Domi"
+        ],
+        "socialLinks": [
+          {
+            "href": "https://www.facebook.com/christos.simis",
+            "label": "Facebook-f"
+          },
+          {
+            "href": "https://www.instagram.com/xristo.s",
+            "label": "Icon-instagram-1"
+          },
+          {
+            "href": "https://www.linkedin.com/in/simischristos",
+            "label": "Icon-linkedin"
+          },
+          {
+            "href": "https://www.tiktok.com/@simisdent",
+            "label": "Tiktok"
+          },
+          {
+            "href": "https://www.youtube.com/@simisdentalcare",
+            "label": "Youtube"
+          },
+          {
+            "href": "https://www.facebook.com/christos.simis/",
+            "label": "Dr. Christos Simis, DMD, MS"
+          }
+        ],
+        "forms": [
+          {
+            "method": "post",
+            "purposeHint": "generic",
+            "fieldNames": [
+              "post_id",
+              "form_id",
+              "referer_title",
+              "queried_id",
+              "form_fields[name]",
+              "form_fields[email]",
+              "form_fields[field_82d3e9c]",
+              "form_fields[field_3818a9a]",
+              "form_fields[message]"
+            ],
+            "submitLabels": [
+              "Αποστολή"
+            ],
+            "fields": [
+              {
+                "name": "post_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "form_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "referer_title",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "queried_id",
+                "type": "hidden",
+                "required": false
+              },
+              {
+                "name": "form_fields[name]",
+                "type": "text",
+                "label": "Ονοματεπώνυμο:",
+                "required": true
+              },
+              {
+                "name": "form_fields[email]",
+                "type": "email",
+                "label": "Email:",
+                "required": true
+              },
+              {
+                "name": "form_fields[field_82d3e9c]",
+                "type": "text",
+                "label": "Αριθμός Τηλεφώνου:",
+                "required": true
+              },
+              {
+                "name": "form_fields[field_3818a9a]",
+                "type": "text",
+                "label": "Θέμα Μηνύματος:",
+                "required": true
+              },
+              {
+                "name": "form_fields[message]",
+                "type": "textarea",
+                "label": "Γράψτε μας ό,τι επιθυμείτε:",
+                "required": false
+              }
+            ]
+          }
+        ]
+      },
+      "footerText": "Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα. Που θα μας βρείτε Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 2106456105 ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Το Οδοντιατρείο Περιστατικά Επικοινωνία © Simis Dental Clinic 2025 | all rights reserved website by Domi",
+      "textContent": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-59CJGT94\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-M4F7CBW5\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Simis Dental Care Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 210 6456 105 Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 210 6456 105 Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Menu Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Αισθητική οδοντιατρική Ορθοδοντική Εμφυτεύματα Περιοδοντίτιδα Χειρουργικές εξαγωγές Ουλοπλαστική Νάρθηκας βρυγμού Φυγοκέντριση του αίματος Το Οδοντιατρείο Περιστατικά Επικοινωνία ΤΑ ΣΤΟΙΧΕΙΑ ΤΗΣ ΚΛΙΝΙΚΗΣ Ελάτε σε επικοινωνία με την ομάδα μας Παρακαλούμε, μην διστάσετε να επικοινωνήσετε μαζί μας για οποιαδήποτε ερώτηση, πληροφορία ή για να κλείσετε το ραντεβού σας. Πως θα φτάσετε σε εμάς: ΜΕ ΜΕΤΡΟ• Στάση Αμπελόκηποι, έξοδος Λεωφόρος Αλεξάνδρας, 5’ περπάτημαΜΕ ΛΕΩΦΟΡΕΙΑ• 46 Στάση ‘Παπαστράτου’, 1’ περπάτημα• 813 Στάση ‘Παπαστράτου’, 2’ περπάτημα• Β5 Στάση ‘Νοσοκομείο Άγιος Σάββας’, 5’ περπάτημα• Α7 Στάση ‘Νοσοκομείο Άγιος Σάββας’, 5’ περπάτημα• 230 Στάση ‘Νοσοκομείο Άγιος Σάββας’, 5’ περπάτημα• 14 Στάση ‘Νοσοκομείο Άγιος Σάββας’, 5’ περπάτημα• 19Β Στάση ‘Νοσοκομείο Άγιος Σάββας’, 5’ περπάτημα• 18 Στάση ‘Νοσοκομείο Άγιος Σάββας’, 5’ περπάτημα• 19 Στάση ‘Νοσοκομείο Άγιος Σάββας’, 5’ περπάτημαΜΕ ΑΥΤΟΚΙΝΗΤΟ• PARKING μεσω ParkAround• PMC Parking Κυριάκου 1 & Λεωφόρος Αλεξάνδρας 162 400m, 5€ την ώρα 6€ τις δυο ώρες• Dear Parking 500m, 6€ 1 εως 2 ώρες• Parking Panormou 550m Καρύστου 8 & Πανόρμου 70, 6€ 1 εως 2 ώρες• Ελεύθερες θέσεις πάρκινγκ στη περιοχή κάτω απο το ιατρείο χώρις ελεγχόμενες ζώνεις στάθμευσεις 01. ΤΗΛΕΦΩΝΟ 210 6456 105 02. EMAIL info@simisdentalcare.gr 03. ΔΙΕΥΘΥΝΣΗ Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 04. FACEBOOK Dr. Christos Simis, DMD, MS Φόρμα επικοινωνίας: Ονοματεπώνυμο: Email: Αριθμός Τηλεφώνου: Θέμα Μηνύματος: Γράψτε μας ό,τι επιθυμείτε: Αποστολή Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα. Που θα μας βρείτε Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 2106456105 ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Το Οδοντιατρείο Περιστατικά Επικοινωνία © Simis Dental Clinic 2025 | all rights reserved website by Domi {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/hello-elementor/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} const lazyloadRunObserver = () => { const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` ); const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => { entries.forEach( ( entry ) => { if ( entry.isIntersecting ) { let lazyloadBackground = entry.target; if( lazyloadBackground ) { lazyloadBackground.classList.add( 'e-lazyloaded' ); } lazyloadBackgroundObserver.unobserve( entry.target ); } }); }, { rootMargin: '200px 0px 200px 0px' } ); lazyloadBackgrounds.forEach( ( lazyloadBackground ) => { lazyloadBackgroundObserver.observe( lazyloadBackground ); } ); }; const events = [ 'DOMContentLoaded', 'elementor/lazyload/observe', ]; events.forEach( ( event ) => { document.addEventListener( event, lazyloadRunObserver ); } ); var elementorFrontendConfig = {\"environmentMode\":{\"edit\":false,\"wpPreview\":false,\"isScriptDebug\":false},\"i18n\":{\"shareOnFacebook\":\"Share on Facebook\",\"shareOnTwitter\":\"Share on Twitter\",\"pinIt\":\"Pin it\",\"download\":\"Download\",\"downloadImage\":\"Download image\",\"fullscreen\":\"Fullscreen\",\"zoom\":\"Zoom\",\"share\":\"Share\",\"playVideo\":\"Play Video\",\"previous\":\"Previous\",\"next\":\"Next\",\"close\":\"Close\",\"a11yCarouselPrevSlideMessage\":\"Previous slide\",\"a11yCarouselNextSlideMessage\":\"Next slide\",\"a11yCarouselFirstSlideMessage\":\"This is the first slide\",\"a11yCarouselLastSlideMessage\":\"This is the last slide\",\"a11yCarouselPaginationBulletMessage\":\"Go to slide\"},\"is_rtl\":false,\"breakpoints\":{\"xs\":0,\"sm\":480,\"md\":768,\"lg\":1025,\"xl\":1440,\"xxl\":1600},\"responsive\":{\"breakpoints\":{\"mobile\":{\"label\":\"Mobile Portrait\",\"value\":767,\"default_value\":767,\"direction\":\"max\",\"is_enabled\":true},\"mobile_extra\":{\"label\":\"Mobile Landscape\",\"value\":880,\"default_value\":880,\"direction\":\"max\",\"is_enabled\":false},\"tablet\":{\"label\":\"Tablet Portrait\",\"value\":1024,\"default_value\":1024,\"direction\":\"max\",\"is_enabled\":true},\"tablet_extra\":{\"label\":\"Tablet Landscape\",\"value\":1200,\"default_value\":1200,\"direction\":\"max\",\"is_enabled\":false},\"laptop\":{\"label\":\"Laptop\",\"value\":1366,\"default_value\":1366,\"direction\":\"max\",\"is_enabled\":false},\"widescreen\":{\"label\":\"Widescreen\",\"value\":2400,\"default_value\":2400,\"direction\":\"min\",\"is_enabled\":false}},\"hasCustomBreakpoints\":false},\"version\":\"3.34.1\",\"is_static\":false,\"experimentalFeatures\":{\"e_font_icon_svg\":true,\"additional_custom_breakpoints\":true,\"container\":true,\"theme_builder_v2\":true,\"hello-theme-header-footer\":true,\"nested-elements\":true,\"home_screen\":true,\"global_classes_should_enforce_capabilities\":true,\"e_variables\":true,\"cloud-library\":true,\"e_opt_in_v4_page\":true,\"e_interactions\":true,\"import-export-customization\":true,\"e_pro_variables\":true},\"urls\":{\"assets\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-content\\/plugins\\/elementor\\/assets\\/\",\"ajaxurl\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-admin\\/admin-ajax.php\",\"uploadUrl\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-content\\/uploads\"},\"nonces\":{\"floatingButtonsClickTracking\":\"57573a9e99\"},\"swiperClass\":\"swiper\",\"settings\":{\"page\":[],\"editorPreferences\":[]},\"kit\":{\"body_background_background\":\"classic\",\"active_breakpoints\":[\"viewport_mobile\",\"viewport_tablet\"],\"global_image_lightbox\":\"yes\",\"lightbox_enable_counter\":\"yes\",\"lightbox_enable_fullscreen\":\"yes\",\"lightbox_enable_zoom\":\"yes\",\"lightbox_enable_share\":\"yes\",\"lightbox_title_src\":\"title\",\"lightbox_description_src\":\"description\",\"hello_header_logo_type\":\"title\",\"hello_header_menu_layout\":\"horizontal\",\"hello_footer_logo_type\":\"logo\"},\"post\":{\"id\":134,\"title\":\"%CE%95%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%AF%CE%B1%20%7C%20Simis%20Dental%20Care%20%7C%20%CE%9F%CE%B4%CE%BF%CE%BD%CF%84%CE%B9%CE%B1%CF%84%CF%81%CE%B5%CE%AF%CE%BF%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1\",\"excerpt\":\"\",\"featuredImage\":false}}; //# sourceURL=elementor-frontend-js-before var elementskit = { resturl: 'https://www.simisdentalcare.gr/wp-json/elementskit/v1/', } //# sourceURL=elementskit-framework-js-frontend-js-after wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); //# sourceURL=wp-i18n-js-after var ElementorProFrontendConfig = {\"ajaxurl\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-admin\\/admin-ajax.php\",\"nonce\":\"9f5b2c5576\",\"urls\":{\"assets\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/\",\"rest\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-json\\/\"},\"settings\":{\"lazy_load_background_images\":true},\"popup\":{\"hasPopUps\":false},\"shareButtonsNetworks\":{\"facebook\":{\"title\":\"Facebook\",\"has_counter\":true},\"twitter\":{\"title\":\"Twitter\"},\"linkedin\":{\"title\":\"LinkedIn\",\"has_counter\":true},\"pinterest\":{\"title\":\"Pinterest\",\"has_counter\":true},\"reddit\":{\"title\":\"Reddit\",\"has_counter\":true},\"vk\":{\"title\":\"VK\",\"has_counter\":true},\"odnoklassniki\":{\"title\":\"OK\",\"has_counter\":true},\"tumblr\":{\"title\":\"Tumblr\"},\"digg\":{\"title\":\"Digg\"},\"skype\":{\"title\":\"Skype\"},\"stumbleupon\":{\"title\":\"StumbleUpon\",\"has_counter\":true},\"mix\":{\"title\":\"Mix\"},\"telegram\":{\"title\":\"Telegram\"},\"pocket\":{\"title\":\"Pocket\",\"has_counter\":true},\"xing\":{\"title\":\"XING\",\"has_counter\":true},\"whatsapp\":{\"title\":\"WhatsApp\"},\"email\":{\"title\":\"Email\"},\"print\":{\"title\":\"Print\"},\"x-twitter\":{\"title\":\"X\"},\"threads\":{\"title\":\"Threads\"}},\"facebook_sdk\":{\"lang\":\"en_US\",\"app_id\":\"\"},\"lottie\":{\"defaultAnimationUrl\":\"https:\\/\\/www.simisdentalcare.gr\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json\"}}; //# sourceURL=elementor-pro-frontend-js-before var DeStickySettings = {\"elements_data\":{\"sections\":[],\"columns\":[]}}; //# sourceURL=de-sticky-frontend-js-extra var ekit_config = {\"ajaxurl\":\"https://www.simisdentalcare.gr/wp-admin/admin-ajax.php\",\"nonce\":\"4fb3a35834\"}; //# sourceURL=elementskit-elementor-js-extra {\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://www.simisdentalcare.gr/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4\"}} /*! This file is auto-generated */ const a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://www.simisdentalcare.gr/wp-includes/js/wp-emoji-loader.min.js <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-M4F7CBW5\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>",
+      "rawHtmlPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/simisdentalcare.gr-home-2f41bbde/contact-ce-b5-cf-80-ce-b9-ce-ba-ce-bf-ce-b9-ce-bd-cf-89-ce-bd-ce-af-ce-b1-f9b0339f.html",
+      "cleanedTextPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/simisdentalcare.gr-home-2f41bbde/contact-ce-b5-cf-80-ce-b9-ce-ba-ce-bf-ce-b9-ce-bd-cf-89-ce-bd-ce-af-ce-b1-f9b0339f.txt",
+      "imageReferences": [
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-11-9-23-07-40-31-min-scaled.jpg",
+          "alt": "Open Graph image",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "pageType": "contact",
+          "confidence": 0.92,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Open Graph image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:44.295Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/output-onlinepngtools-2024-0.png",
+          "alt": "output-onlinepngtools - 2024-0",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:44.295Z"
+            }
+          ]
+        },
+        {
+          "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/output-onlinepngtools-2024-0-142x300.png",
+          "alt": "output-onlinepngtools - 2024-0",
+          "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "pageType": "contact",
+          "confidence": 0.72,
+          "provenance": [
+            {
+              "sourceType": "website_crawl",
+              "label": "Page image",
+              "uri": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+              "retrievedAt": "2026-03-31T13:07:44.295Z"
+            }
+          ]
+        }
+      ],
+      "classificationConfidence": 0.74,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page fetch",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:44.297Z"
+        }
+      ],
+      "statusCode": 200,
+      "screenshotPath": "/Users/kyriakos.tsourekas/Desktop/enhanced_chatbot/artifacts/site-snapshots/simisdentalcare.gr-home-2f41bbde/contact-ce-b5-cf-80-ce-b9-ce-ba-ce-bf-ce-b9-ce-bd-cf-89-ce-bd-ce-af-ce-b1-f9b0339f.png"
+    }
+  },
+  "extractedVisibleElements": {
+    "phones": [
+      "210 6456 105",
+      "01. 02. 03. 04",
+      "2106456105",
+      "210 6456 105 02",
+      "11522 04",
+      "2013-2014",
+      "2018-2019",
+      "2020-2023",
+      "210 64 56 105",
+      "06/09/2025"
+    ],
+    "emails": [
+      "info@simisdentalcare.gr",
+      "info@simisdentalcre.gr"
+    ],
+    "addresses": [
+      "Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα. Που θα μας βρείτε Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 2106456105 ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Το Οδοντιατρείο Περιστατικά Επικοινωνία © Simis Dental Clinic 2025 | all rights reserved website by Domi"
+    ],
+    "socialLinks": [
+      {
+        "href": "https://www.facebook.com/christos.simis",
+        "label": "Facebook-f"
+      },
+      {
+        "href": "https://www.instagram.com/xristo.s",
+        "label": "Icon-instagram-1"
+      },
+      {
+        "href": "https://www.linkedin.com/in/simischristos",
+        "label": "Icon-linkedin"
+      },
+      {
+        "href": "https://www.tiktok.com/@simisdent",
+        "label": "Tiktok"
+      },
+      {
+        "href": "https://www.youtube.com/@simisdentalcare",
+        "label": "Youtube"
+      },
+      {
+        "href": "https://www.facebook.com/christos.simis/",
+        "label": "Dr. Christos Simis, DMD, MS"
+      }
+    ],
+    "forms": [
+      {
+        "method": "post",
+        "purposeHint": "generic",
+        "fieldNames": [
+          "post_id",
+          "form_id",
+          "referer_title",
+          "queried_id",
+          "form_fields[name]",
+          "form_fields[email]",
+          "form_fields[field_82d3e9c]",
+          "form_fields[field_3818a9a]",
+          "form_fields[message]"
+        ],
+        "submitLabels": [
+          "Αποστολή"
+        ],
+        "fields": [
+          {
+            "name": "post_id",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "form_id",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "referer_title",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "queried_id",
+            "type": "hidden",
+            "required": false
+          },
+          {
+            "name": "form_fields[name]",
+            "type": "text",
+            "label": "Ονοματεπώνυμο:",
+            "required": true
+          },
+          {
+            "name": "form_fields[email]",
+            "type": "email",
+            "label": "Email:",
+            "required": true
+          },
+          {
+            "name": "form_fields[field_82d3e9c]",
+            "type": "text",
+            "label": "Αριθμός Τηλεφώνου:",
+            "required": true
+          },
+          {
+            "name": "form_fields[field_3818a9a]",
+            "type": "text",
+            "label": "Θέμα Μηνύματος:",
+            "required": true
+          },
+          {
+            "name": "form_fields[message]",
+            "type": "textarea",
+            "label": "Γράψτε μας ό,τι επιθυμείτε:",
+            "required": false
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "title": "Simis Dental Care - Εξειδικευμένος Οδοντίατρος στην Αθήνα",
+    "metaDescription": "Εξειδικευμένη οδοντιατρική φροντίδα στην Αθήνα από τον Dr. Σίμη Χρήστο, DMD, MS. και την ομάδα του.",
+    "canonicalUrl": "https://www.simisdentalcare.gr/",
+    "language": "en-US",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "openGraphTitle": "Simis Dental Care - Εξειδικευμένος Οδοντίατρος στην Αθήνα",
+    "openGraphDescription": "Εξειδικευμένη οδοντιατρική φροντίδα στην Αθήνα από τον Dr. Σίμη Χρήστο, DMD, MS. και την ομάδα του.",
+    "openGraphImage": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/gr1.png"
+  },
+  "imageReferences": [
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/gr1.png",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.simisdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:07:42.475Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/output-onlinepngtools-2024-0.png",
+      "alt": "output-onlinepngtools - 2024-0",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:07:42.475Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/gr2.png",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:07:42.475Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-11-9-23-07-46-21-min-scaled.jpg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:07:42.475Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-11-9-23-07-36-36-min-1-scaled.jpg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:07:42.475Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-11-9-23-07-38-58-min-1-scaled.jpg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:07:42.475Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-11-9-23-07-48-15-min-scaled.jpg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:07:42.475Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/output-onlinepngtools-4.png",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:07:42.475Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/output-onlinepngtools-2024-0-142x300.png",
+      "alt": "output-onlinepngtools - 2024-0",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:07:42.475Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-11-9-23-07-40-31-min-scaled.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:44.295Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-9-9-23-16-17-38-min-scaled.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+      "pageType": "about",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+          "retrievedAt": "2026-03-31T13:07:45.603Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-9-9-23-22-59-58-min.png",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+          "retrievedAt": "2026-03-31T13:07:45.604Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-9-9-23-19-22-46-min.png",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+          "retrievedAt": "2026-03-31T13:07:45.604Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/icn1s.png",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+          "retrievedAt": "2026-03-31T13:07:45.604Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/icn2s.png",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+          "retrievedAt": "2026-03-31T13:07:45.604Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/icn3s.png",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+          "retrievedAt": "2026-03-31T13:07:45.604Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-11-9-23-07-46-25-min.png",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+          "retrievedAt": "2026-03-31T13:07:45.604Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-11-9-23-07-46-50-min-scaled.jpg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+          "retrievedAt": "2026-03-31T13:07:45.604Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-11.jpg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+          "retrievedAt": "2026-03-31T13:07:45.604Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-9-9-23-19-19-15-min.png",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+      "pageType": "about",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:47.093Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/1b.png",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:47.093Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/2b.png",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:47.093Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/3b.png",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:47.093Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/11/IMG_4130.jpeg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:47.093Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/gewrgios-emanouilidis-1.png",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:47.093Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/01/IMG_4727-2048x1360.jpeg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:47.093Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-9-9-23-22-27-41-min.png",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:47.093Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-9-9-23-15-51-53-min-scaled.jpg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:47.093Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2024/01/Photo-9-9-23-22-31-37-min.png",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+      "pageType": "about",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:47.093Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design.jpg",
+      "alt": "Open Graph image",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "pageType": "services",
+      "confidence": 0.92,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Open Graph image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:48.731Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/03/ifigeneia.jpg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:48.731Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-1.jpg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:48.731Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-5.jpg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:48.731Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-6.jpg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:48.731Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-3.jpg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:48.731Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-4.jpg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:48.731Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-7.jpg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:48.731Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-8.jpg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:48.731Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-9.jpg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:48.731Z"
+        }
+      ]
+    },
+    {
+      "url": "https://www.simisdentalcare.gr/wp-content/uploads/2025/02/Untitled-design-10.jpg",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "pageType": "services",
+      "confidence": 0.72,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "Page image",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:48.731Z"
+        }
+      ]
+    }
+  ],
+  "contactCandidates": [
+    {
+      "type": "phone",
+      "value": "210 6456 105",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.simisdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:07:42.474Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "01. 02. 03. 04",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.simisdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:07:42.474Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2106456105",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.simisdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:07:42.474Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@simisdentalcare.gr",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.86,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.simisdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:07:42.474Z"
+        }
+      ]
+    },
+    {
+      "type": "address",
+      "value": "Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα. Που θα μας βρείτε Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 2106456105 ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Το Οδοντιατρείο Περιστατικά Επικοινωνία © Simis Dental Clinic 2025 | all rights reserved website by Domi",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/",
+      "pageType": "homepage",
+      "confidence": 0.78,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "homepage page",
+          "uri": "https://www.simisdentalcare.gr/",
+          "retrievedAt": "2026-03-31T13:07:42.474Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 6456 105 02",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:44.295Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "11522 04",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.94,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:44.295Z"
+        }
+      ]
+    },
+    {
+      "type": "email",
+      "value": "info@simisdentalcre.gr",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.95,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:44.295Z"
+        }
+      ]
+    },
+    {
+      "type": "contact_page",
+      "value": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.96,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:44.295Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "pageType": "contact",
+      "confidence": 0.9,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "contact page",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:44.295Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2013-2014",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+          "retrievedAt": "2026-03-31T13:07:45.603Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2018-2019",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+          "retrievedAt": "2026-03-31T13:07:45.603Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "2020-2023",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+      "pageType": "about",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "about page",
+          "uri": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+          "retrievedAt": "2026-03-31T13:07:45.603Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "210 64 56 105",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:48.731Z"
+        }
+      ]
+    },
+    {
+      "type": "phone",
+      "value": "06/09/2025",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "pageType": "services",
+      "confidence": 0.84,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:48.731Z"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "value": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "sourcePageUrl": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "pageType": "services",
+      "confidence": 0.75,
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "services page",
+          "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+          "retrievedAt": "2026-03-31T13:07:48.731Z"
+        }
+      ]
+    }
+  ],
+  "crawlReport": {
+    "requestedUrl": "https://www.simisdentalcare.gr/",
+    "finalOrigin": "https://www.simisdentalcare.gr",
+    "maxPages": 6,
+    "fetchTimeoutMs": 10000,
+    "rateLimitMs": 1500,
+    "robots": {
+      "robotsUrl": "https://www.simisdentalcare.gr/robots.txt",
+      "fetchedAt": "2026-03-31T13:07:42.084Z",
+      "status": "present",
+      "matchedUserAgent": "*",
+      "allowRules": [],
+      "disallowRules": [],
+      "provenance": [
+        {
+          "sourceType": "website_crawl",
+          "label": "robots.txt",
+          "uri": "https://www.simisdentalcare.gr/robots.txt",
+          "retrievedAt": "2026-03-31T13:07:41.645Z"
+        }
+      ]
+    },
+    "fetchedPageCount": 6,
+    "skippedCount": 0,
+    "screenshotStatus": "captured",
+    "decisions": [
+      {
+        "url": "https://www.simisdentalcare.gr/",
+        "action": "fetched",
+        "pageTypeHint": "homepage",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:42.477Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "contact",
+        "reason": "Discovered from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:42.477Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:42.477Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:42.477Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:42.477Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%ce%b1%ce%b9%cf%83%ce%b8%ce%b7%cf%84%ce%b9%ce%ba%ce%ae-%ce%bf%ce%b4%ce%bf%ce%bd%cf%84%ce%b9%ce%b1%cf%84%cf%81%ce%b9%ce%ba%ce%ae",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:42.477Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%ce%bf%cf%81%ce%b8%ce%bf%ce%b4%ce%bf%ce%bd%cf%84%ce%b9%ce%ba%ce%ae",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:42.477Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%cf%80%ce%b5%cf%81%ce%b9%ce%bf%ce%b4%ce%bf%ce%bd%cf%84%ce%af%cf%84%ce%b9%ce%b4%ce%b1",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:42.477Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%cf%87%ce%b5%ce%b9%cf%81%ce%bf%cf%85%cf%81%ce%b3%ce%b9%ce%ba%ce%ad%cf%82-%ce%b5%ce%be%ce%b1%ce%b3%cf%89%ce%b3%ce%ad%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:42.477Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%ce%bf%cf%85%ce%bb%ce%bf%cf%80%ce%bb%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%ae",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:42.477Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%ce%bd%ce%ac%cf%81%ce%b8%ce%b7%ce%ba%ce%b1%cf%82-%ce%b2%cf%81%cf%85%ce%b3%ce%bc%ce%bf%cf%8d",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:42.477Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%cf%86%cf%85%ce%b3%ce%bf%ce%ba%ce%ad%ce%bd%cf%84%cf%81%ce%b9%cf%83%ce%b7-%ce%b1%ce%af%ce%bc%ce%b1%cf%84%ce%bf%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:42.477Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%ce%b7-%ce%ba%ce%bb%ce%b9%ce%bd%ce%b9%ce%ba%ce%ae",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:42.477Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%cf%80%ce%b5%cf%81%ce%b9%cf%83%cf%84%ce%b1%cf%84%ce%b9%ce%ba%ce%ac",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:42.477Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "action": "fetched",
+        "pageTypeHint": "contact",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:44.297Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%ce%bf-%ce%b9%ce%b4%cf%81%cf%85%cf%84%ce%ae%cf%82",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:45.606Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+        "action": "fetched",
+        "pageTypeHint": "about",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:47.095Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:48.733Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/osteoensomatosi",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+        "timestamp": "2026-03-31T13:07:48.734Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1-%cf%83%ce%b5-%ce%b7%ce%bb%ce%b9%ce%ba%ce%b9%cf%89%ce%bc%ce%ad%ce%bd%ce%bf%cf%85%cf%82",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+        "timestamp": "2026-03-31T13:07:48.734Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/diafora-gefira-emfiteumaton",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+        "timestamp": "2026-03-31T13:07:48.734Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/viologiko-epipedo",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+        "timestamp": "2026-03-31T13:07:48.734Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/idanikos-ipopsifios",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+        "timestamp": "2026-03-31T13:07:48.734Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/xronos-apokatastasis",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+        "timestamp": "2026-03-31T13:07:48.734Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/ponaei-emfuteumatos",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+        "timestamp": "2026-03-31T13:07:48.734Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/ti-na-prosexete-emfiteumata",
+        "action": "queued",
+        "pageTypeHint": "generic",
+        "reason": "Discovered from https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+        "timestamp": "2026-03-31T13:07:48.734Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%ce%b1%ce%b9%cf%83%ce%b8%ce%b7%cf%84%ce%b9%ce%ba%ce%ae-%ce%bf%ce%b4%ce%bf%ce%bd%cf%84%ce%b9%ce%b1%cf%84%cf%81%ce%b9%ce%ba%ce%ae",
+        "action": "fetched",
+        "pageTypeHint": "services",
+        "statusCode": 200,
+        "reason": "Fetched from https://www.simisdentalcare.gr/",
+        "timestamp": "2026-03-31T13:07:50.106Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/",
+        "action": "screenshot_captured",
+        "pageTypeHint": "homepage",
+        "timestamp": "2026-03-31T13:07:55.025Z"
+      },
+      {
+        "url": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+        "action": "screenshot_captured",
+        "pageTypeHint": "contact",
+        "timestamp": "2026-03-31T13:07:56.676Z"
+      }
+    ],
+    "skippedUrls": []
+  }
+}

@@ -57,7 +57,13 @@ export function SiteHeader({ locale, siteContent }: SiteHeaderProps) {
     <header className={`site-header${isScrolled ? " is-scrolled" : ""}`}>
       <div className="container header-bar">
         <Link className="brand-mark" href="/">
-          <span className="brand-symbol">N</span>
+          <span
+            aria-hidden="true"
+            className="brand-symbol"
+            style={{ overflow: "hidden", background: "transparent", boxShadow: "0 12px 24px rgba(14, 91, 94, 0.2)" }}
+          >
+            <img alt="" height={40} src="/favicon.svg" style={{ display: "block", width: "100%", height: "100%" }} width={40} />
+          </span>
           <span className="brand-text">
             <strong>{siteContent.brandName}</strong>
             <small>{siteContent.tagline}</small>
