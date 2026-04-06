@@ -96,32 +96,34 @@ export default async function ClinicDemoLeadPage({ params }: ClinicDemoPageProps
             </div>
           </Reveal>
 
-          <Reveal className="card" delay={0.08} style={{ padding: 0, overflow: "hidden" }}>
-            <div
-              style={{
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "space-between",
-                gap: "1rem",
-                padding: "1rem 1rem 0",
-                flexWrap: "wrap",
-              }}
-            >
-              <strong>{profile.template.title} with clinic overlay</strong>
-              <a
-                className="button button-secondary"
-                href={`${profile.template.mirrorHref}?lead=${profile.slug}`}
-                target="_blank"
-                rel="noreferrer"
+          <Reveal delay={0.08}>
+            <div className="card" style={{ padding: 0, overflow: "hidden" }}>
+              <div
+                style={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  gap: "1rem",
+                  padding: "1rem 1rem 0",
+                  flexWrap: "wrap",
+                }}
               >
-                Open in new tab
-              </a>
+                <strong>{profile.template.title} with clinic overlay</strong>
+                <a
+                  className="button button-secondary"
+                  href={`${profile.template.mirrorHref}?lead=${profile.slug}`}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Open in new tab
+                </a>
+              </div>
+              <iframe
+                src={`${profile.template.mirrorHref}?lead=${profile.slug}`}
+                style={{ width: "100%", minHeight: "920px", border: 0, background: "#ffffff", borderRadius: "0 0 22px 22px" }}
+                title={`${profile.businessName} merged demo preview`}
+              />
             </div>
-            <iframe
-              src={`${profile.template.mirrorHref}?lead=${profile.slug}`}
-              style={{ width: "100%", minHeight: "920px", border: 0, background: "#ffffff", borderRadius: "0 0 22px 22px" }}
-              title={`${profile.businessName} merged demo preview`}
-            />
           </Reveal>
         </div>
       </section>

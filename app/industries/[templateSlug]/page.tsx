@@ -73,27 +73,29 @@ export default async function TemplateDetailPage({ params }: TemplatePageProps) 
             </div>
           </Reveal>
 
-          <Reveal className="card" delay={0.08} style={{ padding: 0, overflow: "hidden" }}>
-            <div
-              style={{
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "space-between",
-                gap: "1rem",
-                padding: "1rem 1rem 0",
-                flexWrap: "wrap",
-              }}
-            >
-              <strong>{template.title} mirror</strong>
-              <a className="button button-secondary" href={template.mirrorHref} target="_blank" rel="noreferrer">
-                Open in new tab
-              </a>
+          <Reveal delay={0.08}>
+            <div className="card" style={{ padding: 0, overflow: "hidden" }}>
+              <div
+                style={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  gap: "1rem",
+                  padding: "1rem 1rem 0",
+                  flexWrap: "wrap",
+                }}
+              >
+                <strong>{template.title} mirror</strong>
+                <a className="button button-secondary" href={template.mirrorHref} target="_blank" rel="noreferrer">
+                  Open in new tab
+                </a>
+              </div>
+              <iframe
+                src={template.mirrorHref}
+                style={{ width: "100%", minHeight: "920px", border: 0, background: "#ffffff", borderRadius: "0 0 22px 22px" }}
+                title={`${template.title} mirrored template`}
+              />
             </div>
-            <iframe
-              src={template.mirrorHref}
-              style={{ width: "100%", minHeight: "920px", border: 0, background: "#ffffff", borderRadius: "0 0 22px 22px" }}
-              title={`${template.title} mirrored template`}
-            />
           </Reveal>
         </div>
       </section>
