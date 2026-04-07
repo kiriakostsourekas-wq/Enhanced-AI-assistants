@@ -56,8 +56,8 @@ export default async function AntigravityReviewQueuePage() {
           <p className="eyebrow">Internal review</p>
           <h1>Athens clinic demo queue</h1>
           <p>
-            Operator-first review flow for current-site screenshots, grade reports, extracted facts, verification gates,
-            demo previews, and Greek outreach drafts. No send action exists on this dashboard.
+            Operator-first review flow for current-site screenshots, grade reports, redesign briefs, Stitch adapter
+            outputs, normalized design schemas, demo previews, and Greek outreach drafts. No send action exists on this dashboard.
           </p>
         </div>
 
@@ -82,60 +82,76 @@ export default async function AntigravityReviewQueuePage() {
       </section>
 
       <section className="ag-review-queue-grid">
-        {queue.map(({ summary, review }) => (
-          <article className="ag-review-queue-card card" key={`${summary.campaignSlug}:${summary.prospectSlug}`}>
-            {summary.screenshotUrl ? (
-              <img
-                alt={`${summary.prospect.businessName} current site screenshot`}
-                className="ag-review-queue-shot"
-                src={summary.screenshotUrl}
-              />
-            ) : (
-              <div className="ag-review-queue-shot ag-review-queue-shot-empty">No screenshot</div>
-            )}
+        {queue.length > 0 ? (
+          queue.map(({ summary, review }) => (
+            <article className="ag-review-queue-card card" key={`${summary.campaignSlug}:${summary.prospectSlug}`}>
+              {summary.screenshotUrl ? (
+                <img
+                  alt={`${summary.prospect.businessName} current site screenshot`}
+                  className="ag-review-queue-shot"
+                  src={summary.screenshotUrl}
+                />
+              ) : (
+                <div className="ag-review-queue-shot ag-review-queue-shot-empty">No screenshot</div>
+              )}
 
+              <div className="ag-review-queue-copy">
+                <div className="ag-review-inline-row">
+                  <span className={`ag-review-status-chip ag-review-status-${review.decisionStatus}`}>
+                    {reviewLabel(review.decisionStatus)}
+                  </span>
+                  <span className={`ag-review-mode-chip ag-review-mode-${summary.landingPage.renderingMode}`}>
+                    {summary.landingPage.renderingMode === "live_demo" ? "Live demo" : "Concept demo"}
+                  </span>
+                </div>
+
+                <h2>{summary.prospect.businessName}</h2>
+                <p>{summary.prospect.category ?? "Clinic prospect"}</p>
+                <p>
+                  {summary.prospect.city ?? "Athens"}, {summary.prospect.country ?? "Greece"}
+                </p>
+
+                <div className="ag-review-queue-metrics">
+                  <div>
+                    <span>Demo score</span>
+                    <strong>{summary.websiteGrade?.demoOpportunityScore ?? "n/a"}</strong>
+                  </div>
+                  <div>
+                    <span>Theme</span>
+                    <strong>{summary.designSchema ? summary.designSchema.themeVariant.replace(/_/g, " ") : "legacy"}</strong>
+                  </div>
+                  <div>
+                    <span>Validation</span>
+                    <strong>{summary.contactValidation?.recommendedRenderMode ?? "n/a"}</strong>
+                  </div>
+                </div>
+
+                <div className="ag-review-queue-actions">
+                  <Link className="button button-primary" href={`/antigravity-review/${summary.campaignSlug}/${summary.prospectSlug}`}>
+                    Open review
+                  </Link>
+                  <a className="button button-secondary" href={`/antigravity-previews/${summary.campaignSlug}/${summary.prospectSlug}`} target="_blank" rel="noreferrer">
+                    Open demo
+                  </a>
+                </div>
+              </div>
+            </article>
+          ))
+        ) : (
+          <article className="ag-review-queue-card card">
             <div className="ag-review-queue-copy">
-              <div className="ag-review-inline-row">
-                <span className={`ag-review-status-chip ag-review-status-${review.decisionStatus}`}>
-                  {reviewLabel(review.decisionStatus)}
-                </span>
-                <span className={`ag-review-mode-chip ag-review-mode-${summary.landingPage.renderingMode}`}>
-                  {summary.landingPage.renderingMode === "live_demo" ? "Live demo" : "Concept demo"}
-                </span>
-              </div>
-
-              <h2>{summary.prospect.businessName}</h2>
-              <p>{summary.prospect.category ?? "Clinic prospect"}</p>
+              <h2>No reviewable clinic demos yet</h2>
               <p>
-                {summary.prospect.city ?? "Athens"}, {summary.prospect.country ?? "Greece"}
+                No preview artifacts were found under <code>public/antigravity-previews/</code>. Run a local Athens clinic
+                test campaign first, then refresh this dashboard.
               </p>
-
-              <div className="ag-review-queue-metrics">
-                <div>
-                  <span>Demo score</span>
-                  <strong>{summary.websiteGrade?.demoOpportunityScore ?? "n/a"}</strong>
-                </div>
-                <div>
-                  <span>Validation</span>
-                  <strong>{summary.contactValidation?.recommendedRenderMode ?? "n/a"}</strong>
-                </div>
-                <div>
-                  <span>Draft</span>
-                  <strong>{summary.outreachDraft ? "ready" : "missing"}</strong>
-                </div>
-              </div>
-
-              <div className="ag-review-queue-actions">
-                <Link className="button button-primary" href={`/antigravity-review/${summary.campaignSlug}/${summary.prospectSlug}`}>
-                  Open review
-                </Link>
-                <a className="button button-secondary" href={`/antigravity-previews/${summary.campaignSlug}/${summary.prospectSlug}`} target="_blank" rel="noreferrer">
-                  Open demo
-                </a>
-              </div>
+              <p>
+                If a run failed before preview deployment, inspect the terminal summary or Postgres run state because failed
+                clinics do not appear here until a preview artifact exists.
+              </p>
             </div>
           </article>
-        ))}
+        )}
       </section>
     </main>
   );

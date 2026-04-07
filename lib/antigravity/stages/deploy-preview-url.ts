@@ -39,9 +39,17 @@ export const deployPreviewUrlStage: ProspectStage<typeof DeployPreviewUrlStageOu
     maxDelayMs: 0,
   },
   async execute(input, context) {
-    if (!input.landingPage || !input.chatbotConfig || !input.knowledgePack || !input.contactValidation) {
+    if (
+      !input.landingPage ||
+      !input.chatbotConfig ||
+      !input.knowledgePack ||
+      !input.contactValidation ||
+      !input.redesignBrief ||
+      !input.stitchDesignOutput ||
+      !input.designSchema
+    ) {
       throw new StageBlockedError(
-        "Landing page, chatbot config, knowledge pack, and contact validation are required before deployment.",
+        "Landing page, chatbot config, knowledge pack, redesign artifacts, contact validation, and design schema are required before deployment.",
       );
     }
 
@@ -61,6 +69,7 @@ export const deployPreviewUrlStage: ProspectStage<typeof DeployPreviewUrlStageOu
     await writeFile(`${artifactDirectory}/landing-page.json`, JSON.stringify(input.landingPage, null, 2), "utf8");
     await writeFile(`${artifactDirectory}/chatbot-config.json`, JSON.stringify(input.chatbotConfig, null, 2), "utf8");
     await writeFile(`${artifactDirectory}/knowledge-pack.json`, JSON.stringify(input.knowledgePack, null, 2), "utf8");
+    await writeFile(`${artifactDirectory}/normalized-design-schema.json`, JSON.stringify(input.designSchema, null, 2), "utf8");
     await writeFile(`${artifactDirectory}/contact-validation.json`, JSON.stringify(input.contactValidation, null, 2), "utf8");
     await writeFile(`${artifactDirectory}/prospect.json`, JSON.stringify(input.prospect, null, 2), "utf8");
 
@@ -70,6 +79,14 @@ export const deployPreviewUrlStage: ProspectStage<typeof DeployPreviewUrlStageOu
 
     if (input.businessData) {
       await writeFile(`${artifactDirectory}/business-data.json`, JSON.stringify(input.businessData, null, 2), "utf8");
+    }
+
+    if (input.redesignBrief) {
+      await writeFile(`${artifactDirectory}/redesign-brief.json`, JSON.stringify(input.redesignBrief, null, 2), "utf8");
+    }
+
+    if (input.stitchDesignOutput) {
+      await writeFile(`${artifactDirectory}/stitch-design-output.json`, JSON.stringify(input.stitchDesignOutput, null, 2), "utf8");
     }
 
     if (input.crawl) {

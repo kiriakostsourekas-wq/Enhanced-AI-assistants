@@ -443,7 +443,7 @@ function buildProspect(lead: ClinicLeadSummary) {
   });
 }
 
-async function loadSavedClinicDemoProfile(leadSlug: string) {
+export async function getSavedClinicDemoProfile(leadSlug: string) {
   const profilePath = getClinicDemoProfilePath(leadSlug);
 
   try {
@@ -466,7 +466,7 @@ async function loadSavedClinicDemoProfile(leadSlug: string) {
 
 export async function buildClinicDemoProfile(leadSlug: string, options?: { refreshSnapshot?: boolean }) {
   if (!options?.refreshSnapshot) {
-    const savedProfile = await loadSavedClinicDemoProfile(leadSlug);
+    const savedProfile = await getSavedClinicDemoProfile(leadSlug);
 
     if (savedProfile) {
       return savedProfile;

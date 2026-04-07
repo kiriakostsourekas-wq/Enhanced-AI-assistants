@@ -7,12 +7,13 @@ import type {
 import type { AntigravityRepository } from "@/lib/antigravity/persistence/repository";
 import type { AntigravityLogger } from "@/lib/antigravity/runtime/logger";
 import { createAttemptId, createIdempotencyKey, createRunId } from "@/lib/antigravity/runtime/idempotency";
-import { nowIso } from "@/lib/antigravity/runtime/utils";
+import { nowIso, slugify } from "@/lib/antigravity/runtime/utils";
 import type { AntigravityDependencies } from "@/lib/antigravity/stages/interfaces";
 import { runCampaignStage } from "@/lib/antigravity/runtime/stage-runner";
 import { discoverProspectsStage } from "@/lib/antigravity/stages/discover-prospects";
 import { createProspectPipeline } from "@/lib/antigravity/orchestrator/create-pipeline";
 import { StageBlockedError } from "@/lib/antigravity/runtime/errors";
+import { loadOrCreateReviewRecord } from "@/lib/antigravity/review/review-store";
 
 type OrchestratorArgs = {
   repository: AntigravityRepository;
@@ -177,6 +178,10 @@ export class AntigravityCampaignOrchestrator {
           finalState = ProspectRunStateSchema.parse({
             ...finalState,
             status: "awaiting_review",
+          });
+          await loadOrCreateReviewRecord({
+            campaignSlug: slugify(campaign.campaignId),
+            prospectSlug: slugify(finalState.prospect.businessName),
           });
           await this.args.repository.saveProspectState(finalState);
         }

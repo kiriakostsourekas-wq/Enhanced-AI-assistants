@@ -21,7 +21,10 @@ import type {
   StructuredClinicField,
 } from "@/lib/antigravity/schemas";
 import { buildDemoChatbotConfig } from "@/lib/antigravity/chatbot/build-demo-chatbot-config";
+import { buildAthensClinicRedesignBrief } from "@/lib/antigravity/demo-site/build-redesign-brief";
 import { buildClinicDemoLandingPage } from "@/lib/antigravity/demo-site/build-clinic-demo-page";
+import { generateStitchDesignOutput } from "@/lib/antigravity/demo-site/generate-stitch-design-output";
+import { normalizeStitchDesignSchema } from "@/lib/antigravity/demo-site/normalize-design-schema";
 import { buildAthensClinicKnowledgePack } from "@/lib/antigravity/extraction/knowledge-pack";
 import { detectLanguageCode } from "@/lib/antigravity/extraction/language";
 import { buildAthensClinicOutreachDraft } from "@/lib/antigravity/outreach/athens-clinic-outreach-drafts";
@@ -517,6 +520,20 @@ async function regenerateArtifacts(args: {
     businessData,
     contactValidation,
   });
+  const redesignBrief = buildAthensClinicRedesignBrief({
+    prospect: preview.prospect,
+    crawl: preview.crawl,
+    websiteGrade: preview.websiteGrade,
+    knowledgePack,
+    contactValidation,
+  });
+  const stitchDesignOutput = generateStitchDesignOutput({
+    redesignBrief,
+  });
+  const designSchema = normalizeStitchDesignSchema({
+    redesignBrief,
+    stitchDesignOutput,
+  });
   const landingPage = buildClinicDemoLandingPage({
     campaignId: preview.campaignSlug,
     prospect: preview.prospect,
@@ -524,6 +541,8 @@ async function regenerateArtifacts(args: {
     websiteGrade: preview.websiteGrade,
     chatbotConfig,
     contactValidation,
+    crawl: preview.crawl,
+    designSchema,
   });
   const outreachDraft = preview.outreachDraft
     ? {
@@ -548,6 +567,9 @@ async function regenerateArtifacts(args: {
   await Promise.all([
     writeJsonFile(path.join(preview.artifactDirectory, "business-data.json"), businessData),
     writeJsonFile(path.join(preview.artifactDirectory, "knowledge-pack.json"), knowledgePack),
+    writeJsonFile(path.join(preview.artifactDirectory, "redesign-brief.json"), redesignBrief),
+    writeJsonFile(path.join(preview.artifactDirectory, "stitch-design-output.json"), stitchDesignOutput),
+    writeJsonFile(path.join(preview.artifactDirectory, "normalized-design-schema.json"), designSchema),
     writeJsonFile(path.join(preview.artifactDirectory, "contact-validation.json"), contactValidation),
     writeJsonFile(path.join(preview.artifactDirectory, "chatbot-config.json"), chatbotConfig),
     writeJsonFile(path.join(preview.artifactDirectory, "landing-page.json"), landingPage),

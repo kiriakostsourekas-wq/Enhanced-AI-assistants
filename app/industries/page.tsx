@@ -11,15 +11,15 @@ import { getRequestLocale } from "@/lib/i18n-server";
 export const metadata: Metadata = {
   title: "Core Demo Library",
   description:
-    "Browse the read-only Virtual Pros website templates integrated directly into the Northline site.",
+    "Browse Northline's core website demo templates integrated directly into the main site.",
 };
 
 const PAGE_COPY = {
   en: {
     eyebrow: "Core demo library",
-    title: "Virtual Pros website templates are now integrated into the site.",
+    title: "Northline's core website demos are now integrated into the site.",
     description:
-      "Each template page serves the read-only mirrored website directly from `virtualprosmax`, so Northline can use those demos as the base for tailored business sites with integrated chat.",
+      "Each template page serves a stable mirrored demo directly inside Northline, so those demos can act as the base for tailored business sites with integrated chat.",
     highlights: [
       "11 core website templates served from the immutable source library",
       "Dedicated template pages with live mirrored previews",
@@ -44,9 +44,9 @@ const PAGE_COPY = {
   },
   gr: {
     eyebrow: "Βιβλιοθήκη core demos",
-    title: "Τα website templates του Virtual Pros είναι πλέον ενσωματωμένα μέσα στο site.",
+    title: "Τα core website demos της Northline είναι πλέον ενσωματωμένα μέσα στο site.",
     description:
-      "Κάθε template page σερβίρει το read-only mirrored website απευθείας από το `virtualprosmax`, ώστε η Northline να χρησιμοποιεί αυτά τα demos ως βάση για προσαρμοσμένα business sites με ενσωματωμένο chat.",
+      "Κάθε template page σερβίρει ένα σταθερό mirrored demo απευθείας μέσα στη Northline, ώστε αυτά τα demos να λειτουργούν ως βάση για προσαρμοσμένα business sites με ενσωματωμένο chat.",
     highlights: [
       "11 core website templates από την αμετάβλητη source library",
       "Ξεχωριστές σελίδες template με live mirrored previews",

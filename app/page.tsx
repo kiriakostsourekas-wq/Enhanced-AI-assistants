@@ -13,7 +13,7 @@ const DEMO_SECTION_COPY = {
     eyebrow: "Core demo sites",
     title: "The website demos now live inside the main site.",
     description:
-      "These are the read-only Virtual Pros website templates surfaced directly in Northline, so we can use them as the stable base for niche-specific sites with an integrated chatbot.",
+      "These are Northline's core demo templates surfaced directly inside the site, so we can use them as the stable base for niche-specific websites with integrated chat.",
     cardActionLabel: "Open template",
     featuredBadge: "Featured",
     useCaseBadge: "Core template",
@@ -25,7 +25,7 @@ const DEMO_SECTION_COPY = {
     eyebrow: "Βασικά demo sites",
     title: "Τα website demos υπάρχουν πλέον μέσα στο ίδιο το main site.",
     description:
-      "Τα read-only website templates του Virtual Pros προβάλλονται πλέον απευθείας μέσα στη Northline, ώστε να λειτουργούν ως σταθερή βάση για niche-specific sites με ενσωματωμένο chatbot.",
+      "Τα core demo templates της Northline προβάλλονται πλέον απευθείας μέσα στο site, ώστε να λειτουργούν ως σταθερή βάση για niche-specific ιστοσελίδες με ενσωματωμένο chatbot.",
     cardActionLabel: "Άνοιγμα template",
     featuredBadge: "Προτεινόμενο",
     useCaseBadge: "Core template",

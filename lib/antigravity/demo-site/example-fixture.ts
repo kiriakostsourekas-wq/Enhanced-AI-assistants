@@ -7,11 +7,16 @@ import type {
   DiscoveredProspect,
   FactSource,
   KnowledgePack,
+  RedesignBrief,
+  StitchDesignOutput,
   StructuredClinicField,
   StructuredFieldStatus,
   WebsiteGrade,
 } from "@/lib/antigravity/schemas";
+import { buildAthensClinicRedesignBrief } from "@/lib/antigravity/demo-site/build-redesign-brief";
 import { buildClinicDemoLandingPage } from "@/lib/antigravity/demo-site/build-clinic-demo-page";
+import { generateStitchDesignOutput } from "@/lib/antigravity/demo-site/generate-stitch-design-output";
+import { normalizeStitchDesignSchema } from "@/lib/antigravity/demo-site/normalize-design-schema";
 import { buildFactSource } from "@/lib/antigravity/runtime/utils";
 
 const FIXTURE_TIMESTAMP = "2026-03-31T08:00:00.000Z";
@@ -460,10 +465,26 @@ export const exampleProspect: DiscoveredProspect = {
   provenance: [fixtureSource("Example prospect")],
 };
 
+export const exampleRedesignBrief: RedesignBrief = buildAthensClinicRedesignBrief({
+  prospect: exampleProspect,
+  websiteGrade: exampleWebsiteGrade,
+  knowledgePack: exampleKnowledgePack,
+});
+
+export const exampleStitchDesignOutput: StitchDesignOutput = generateStitchDesignOutput({
+  redesignBrief: exampleRedesignBrief,
+});
+
+export const exampleDesignSchema = normalizeStitchDesignSchema({
+  redesignBrief: exampleRedesignBrief,
+  stitchDesignOutput: exampleStitchDesignOutput,
+});
+
 export const exampleDemoLandingPage = buildClinicDemoLandingPage({
   campaignId: "example",
   prospect: exampleProspect,
   knowledgePack: exampleKnowledgePack,
   websiteGrade: exampleWebsiteGrade,
   chatbotConfig: exampleChatbotConfig,
+  designSchema: exampleDesignSchema,
 });

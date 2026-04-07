@@ -7,11 +7,15 @@
     "build": "next build",
     "start": "next start",
     "typecheck": "tsc --noEmit -p tsconfig.typecheck.json",
+    "clinic-demos:build-profiles": "tsx scripts/build-clinic-demo-profiles.ts",
+    "clinic-demos:generate-from-url": "tsx scripts/run-template-business-demo-chain.ts",
     "antigravity:run": "tsx scripts/run-antigravity-campaign.ts",
+    "antigravity:test-athens-clinics": "tsx scripts/run-athens-clinic-test.ts",
     "antigravity:enrich-clinic-sites": "tsx scripts/enrich-clinic-site-snapshots.ts"
   },
   "dependencies": {
     "@langchain/core": "^1.1.38",
+    "@stripe/stripe-js": "^9.1.0",
     "cheerio": "^1.2.0",
     "langchain": "^1.2.39",
     "next": "^16.2.0",
@@ -19,6 +23,7 @@
     "playwright": "^1.58.2",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
+    "stripe": "^22.0.0",
     "zod": "^4.3.6"
   },
   "devDependencies": {
@@ -26,6 +31,6 @@
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "tsx": "^4.21.0",
-    "typescript": "^5.9.3"
+    "typescript": "5.8.3"
   }
 }

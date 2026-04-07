@@ -6,7 +6,10 @@ import {
   DemoLandingPageSchema,
   DiscoveredProspectSchema,
   KnowledgePackSchema,
+  NormalizedDesignSchema,
   OutreachDraftSchema,
+  RedesignBriefSchema,
+  StitchDesignOutputSchema,
   StructuredBusinessDataSchema,
   WebsiteCrawlResultSchema,
   WebsiteGradeSchema,
@@ -17,7 +20,10 @@ import type {
   DemoLandingPage,
   DiscoveredProspect,
   KnowledgePack,
+  NormalizedDesignSchema as NormalizedDesignSchemaType,
   OutreachDraft,
+  RedesignBrief,
+  StitchDesignOutput,
   StructuredBusinessData,
   WebsiteCrawlResult,
   WebsiteGrade,
@@ -65,6 +71,9 @@ export type ReviewPreviewArtifacts = {
   websiteGrade?: WebsiteGrade;
   businessData?: StructuredBusinessData;
   knowledgePack: KnowledgePack;
+  redesignBrief?: RedesignBrief;
+  stitchDesignOutput?: StitchDesignOutput;
+  designSchema?: NormalizedDesignSchemaType;
   chatbotConfig: DemoChatbotConfig;
   landingPage: DemoLandingPage;
   contactValidation?: ContactValidation;
@@ -81,13 +90,29 @@ export async function loadReviewPreviewArtifacts(args: {
   prospectSlug: string;
 }): Promise<ReviewPreviewArtifacts> {
   const artifactDirectory = getPreviewArtifactsDirectory(args.campaignSlug, args.prospectSlug);
-  const [prospect, crawl, websiteGrade, businessData, knowledgePack, chatbotConfig, landingPage, contactValidation, outreachDraft] =
+  const [
+    prospect,
+    crawl,
+    websiteGrade,
+    businessData,
+    knowledgePack,
+    redesignBrief,
+    stitchDesignOutput,
+    designSchema,
+    chatbotConfig,
+    landingPage,
+    contactValidation,
+    outreachDraft,
+  ] =
     await Promise.all([
       readJsonFile(path.join(artifactDirectory, "prospect.json"), DiscoveredProspectSchema),
       readOptionalJsonFile(path.join(artifactDirectory, "crawl.json"), WebsiteCrawlResultSchema),
       readOptionalJsonFile(path.join(artifactDirectory, "website-grade.json"), WebsiteGradeSchema),
       readOptionalJsonFile(path.join(artifactDirectory, "business-data.json"), StructuredBusinessDataSchema),
       readJsonFile(path.join(artifactDirectory, "knowledge-pack.json"), KnowledgePackSchema),
+      readOptionalJsonFile(path.join(artifactDirectory, "redesign-brief.json"), RedesignBriefSchema),
+      readOptionalJsonFile(path.join(artifactDirectory, "stitch-design-output.json"), StitchDesignOutputSchema),
+      readOptionalJsonFile(path.join(artifactDirectory, "normalized-design-schema.json"), NormalizedDesignSchema),
       readJsonFile(path.join(artifactDirectory, "chatbot-config.json"), DemoChatbotConfigSchema),
       readJsonFile(path.join(artifactDirectory, "landing-page.json"), DemoLandingPageSchema),
       readOptionalJsonFile(path.join(artifactDirectory, "contact-validation.json"), ContactValidationSchema),
@@ -109,6 +134,9 @@ export async function loadReviewPreviewArtifacts(args: {
     websiteGrade,
     businessData,
     knowledgePack,
+    redesignBrief,
+    stitchDesignOutput,
+    designSchema,
     chatbotConfig,
     landingPage,
     contactValidation,
@@ -126,6 +154,7 @@ export type ReviewPreviewSummary = {
   prospectSlug: string;
   prospect: DiscoveredProspect;
   landingPage: DemoLandingPage;
+  designSchema?: NormalizedDesignSchemaType;
   websiteGrade?: WebsiteGrade;
   contactValidation?: ContactValidation;
   outreachDraft?: OutreachDraft;
@@ -159,9 +188,10 @@ export async function listReviewPreviewSummaries(): Promise<ReviewPreviewSummary
           continue;
         }
 
-        const [prospect, landingPage, websiteGrade, contactValidation, outreachDraft, hasHomepageShot] = await Promise.all([
+        const [prospect, landingPage, designSchema, websiteGrade, contactValidation, outreachDraft, hasHomepageShot] = await Promise.all([
           readJsonFile(path.join(artifactDirectory, "prospect.json"), DiscoveredProspectSchema),
           readJsonFile(landingPageFile, DemoLandingPageSchema),
+          readOptionalJsonFile(path.join(artifactDirectory, "normalized-design-schema.json"), NormalizedDesignSchema),
           readOptionalJsonFile(path.join(artifactDirectory, "website-grade.json"), WebsiteGradeSchema),
           readOptionalJsonFile(path.join(artifactDirectory, "contact-validation.json"), ContactValidationSchema),
           readOptionalJsonFile(path.join(artifactDirectory, "outreach-draft.json"), OutreachDraftSchema),
@@ -173,6 +203,7 @@ export async function listReviewPreviewSummaries(): Promise<ReviewPreviewSummary
           prospectSlug,
           prospect,
           landingPage,
+          designSchema,
           websiteGrade,
           contactValidation,
           outreachDraft,

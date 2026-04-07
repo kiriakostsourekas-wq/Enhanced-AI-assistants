@@ -107,6 +107,10 @@ function fieldDefaults(structuredJson: Awaited<ReturnType<typeof loadReviewPrevi
   } satisfies Record<string, string>;
 }
 
+function humanizeEnum(value: string) {
+  return value.replace(/_/g, " ");
+}
+
 async function loadPageData(params: Awaited<ReviewPageProps["params"]>) {
   try {
     const preview = await loadReviewPreviewArtifacts(params);
@@ -134,6 +138,12 @@ export default async function AntigravityReviewDetailPage({ params }: ReviewPage
   const { preview, review } = await loadPageData(await params);
   const facts = flattenStructuredFacts(preview.knowledgePack.structuredJson);
   const overrideKeys = new Set(review.factOverrides.map((item) => item.fieldKey));
+  const demoUrl = `/antigravity-previews/${preview.campaignSlug}/${preview.prospectSlug}`;
+  const screenshots = [
+    preview.screenshotUrls.homepage ? { label: "Homepage", url: preview.screenshotUrls.homepage } : null,
+    preview.screenshotUrls.contact ? { label: "Contact", url: preview.screenshotUrls.contact } : null,
+    preview.screenshotUrls.booking ? { label: "Booking", url: preview.screenshotUrls.booking } : null,
+  ].filter(Boolean) as Array<{ label: string; url: string }>;
 
   return (
     <main className="ag-review-shell ag-review-shell-detail" data-antigravity-review-root>
@@ -179,8 +189,8 @@ export default async function AntigravityReviewDetailPage({ params }: ReviewPage
             </div>
             <div>
               <span>Demo URL</span>
-              <a href={`/antigravity-previews/${preview.campaignSlug}/${preview.prospectSlug}`} target="_blank" rel="noreferrer">
-                /antigravity-previews/{preview.campaignSlug}/{preview.prospectSlug}
+              <a href={demoUrl} target="_blank" rel="noreferrer">
+                {demoUrl}
               </a>
             </div>
             <div>
@@ -216,18 +226,25 @@ export default async function AntigravityReviewDetailPage({ params }: ReviewPage
           <div className="ag-review-section-heading">
             <div>
               <p className="eyebrow">Current site</p>
-              <h2>Screenshot</h2>
+              <h2>Screenshots</h2>
             </div>
           </div>
 
-          {preview.screenshotUrls.homepage ? (
-            <img
-              alt={`${preview.prospect.businessName} current site homepage`}
-              className="ag-review-detail-shot"
-              src={preview.screenshotUrls.homepage}
-            />
+          {screenshots.length > 0 ? (
+            <div className="ag-review-screenshot-grid">
+              {screenshots.map((shot) => (
+                <figure className="ag-review-screenshot-card" key={shot.label}>
+                  <img
+                    alt={`${preview.prospect.businessName} current site ${shot.label.toLowerCase()}`}
+                    className="ag-review-detail-shot"
+                    src={shot.url}
+                  />
+                  <figcaption>{shot.label}</figcaption>
+                </figure>
+              ))}
+            </div>
           ) : (
-            <p className="ag-review-muted">No homepage screenshot was captured for this clinic.</p>
+            <p className="ag-review-muted">No current-site screenshots were captured for this clinic.</p>
           )}
         </section>
 
@@ -299,6 +316,128 @@ export default async function AntigravityReviewDetailPage({ params }: ReviewPage
         </section>
       </div>
 
+      <div className="ag-review-two-column">
+        <section className="card">
+          <div className="ag-review-section-heading">
+            <div>
+              <p className="eyebrow">Redesign brief</p>
+              <h2>Critique-first generation inputs</h2>
+            </div>
+          </div>
+
+          {preview.redesignBrief ? (
+            <>
+              <div className="ag-review-score-grid">
+                <div>
+                  <span>Target audience</span>
+                  <strong>{preview.redesignBrief.clinicIdentity.targetAudience}</strong>
+                </div>
+                <div>
+                  <span>Mode</span>
+                  <strong>{preview.redesignBrief.renderingContext.mode}</strong>
+                </div>
+                <div>
+                  <span>Language</span>
+                  <strong>{preview.redesignBrief.clinicIdentity.languageStrategy}</strong>
+                </div>
+              </div>
+
+              <p>{preview.redesignBrief.visualStyleGuidance.heroIntent}</p>
+
+              <div className="ag-review-list-columns">
+                <div>
+                  <h3>Required sections</h3>
+                  <ul>
+                    {preview.redesignBrief.requiredSections.map((item) => (
+                      <li key={item}>{humanizeEnum(item)}</li>
+                    ))}
+                  </ul>
+                </div>
+                <div>
+                  <h3>Truth constraints</h3>
+                  <ul>
+                    {preview.redesignBrief.truthfulnessConstraints.map((item) => (
+                      <li key={item}>{item}</li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+
+              <div className="ag-review-grade-categories">
+                <div className="ag-review-grade-card">
+                  <strong>Direction</strong>
+                  <span>{preview.redesignBrief.visualStyleGuidance.directionName}</span>
+                  <p>{preview.redesignBrief.visualStyleGuidance.tone}</p>
+                </div>
+                <div className="ag-review-grade-card">
+                  <strong>Palette</strong>
+                  <span>Visual guidance</span>
+                  <p>{preview.redesignBrief.visualStyleGuidance.paletteMood}</p>
+                </div>
+                <div className="ag-review-grade-card">
+                  <strong>Rhythm</strong>
+                  <span>Section flow</span>
+                  <p>{preview.redesignBrief.visualStyleGuidance.sectionRhythm}</p>
+                </div>
+              </div>
+            </>
+          ) : (
+            <p className="ag-review-muted">Redesign brief artifact not found.</p>
+          )}
+        </section>
+
+        <section className="card">
+          <div className="ag-review-section-heading">
+            <div>
+              <p className="eyebrow">Stitch adapter</p>
+              <h2>Raw redesign output summary</h2>
+            </div>
+          </div>
+
+          {preview.stitchDesignOutput ? (
+            <>
+              <div className="ag-review-grade-categories">
+                <div className="ag-review-grade-card">
+                  <strong>Theme</strong>
+                  <span>{humanizeEnum(preview.stitchDesignOutput.themeVariant)}</span>
+                  <p>{preview.stitchDesignOutput.designRationale}</p>
+                </div>
+                <div className="ag-review-grade-card">
+                  <strong>Hero</strong>
+                  <span>{humanizeEnum(preview.stitchDesignOutput.heroType)}</span>
+                  <p>{preview.stitchDesignOutput.notes.join(" ")}</p>
+                </div>
+                <div className="ag-review-grade-card">
+                  <strong>Section order</strong>
+                  <span>{preview.stitchDesignOutput.sectionOrder.length} sections</span>
+                  <p>{preview.stitchDesignOutput.sectionOrder.map(humanizeEnum).join(" -> ")}</p>
+                </div>
+              </div>
+
+              <div className="ag-review-list-columns">
+                <div>
+                  <h3>Critique responses</h3>
+                  <ul>
+                    {preview.stitchDesignOutput.critiqueResponses.map((item) => (
+                      <li key={item.weaknessTitle}>
+                        <strong>{item.weaknessTitle}</strong>
+                        <p>{item.designMove}</p>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+                <div>
+                  <h3>Adapter prompt</h3>
+                  <pre className="ag-review-pre">{preview.stitchDesignOutput.prompt}</pre>
+                </div>
+              </div>
+            </>
+          ) : (
+            <p className="ag-review-muted">Stitch design output artifact not found.</p>
+          )}
+        </section>
+      </div>
+
       <section className="card">
         <div className="ag-review-section-heading">
           <div>
@@ -348,68 +487,120 @@ export default async function AntigravityReviewDetailPage({ params }: ReviewPage
         <section className="card">
           <div className="ag-review-section-heading">
             <div>
-              <p className="eyebrow">Verification</p>
-              <h2>Contact and map gate</h2>
+              <p className="eyebrow">Design schema</p>
+              <h2>Normalized renderer contract</h2>
             </div>
           </div>
 
-          {preview.contactValidation ? (
+          {preview.designSchema ? (
             <>
-              <div className="ag-review-score-grid">
-                <div>
-                  <span>Pass</span>
-                  <strong>{preview.contactValidation.pass ? "yes" : "no"}</strong>
+              <div className="ag-review-grade-categories">
+                <div className="ag-review-grade-card">
+                  <strong>Theme</strong>
+                  <span>{humanizeEnum(preview.designSchema.themeVariant)}</span>
+                  <p>{preview.designSchema.designSummary}</p>
                 </div>
-                <div>
-                  <span>Recommended mode</span>
-                  <strong>{preview.contactValidation.recommendedRenderMode}</strong>
+                <div className="ag-review-grade-card">
+                  <strong>Hero</strong>
+                  <span>{humanizeEnum(preview.designSchema.hero.type)}</span>
+                  <p>{preview.designSchema.hero.visualFocus}</p>
                 </div>
-                <div>
-                  <span>Confidence</span>
-                  <strong>{Math.round(preview.contactValidation.overallConfidence * 100)}%</strong>
+                <div className="ag-review-grade-card">
+                  <strong>CTA strategy</strong>
+                  <span>{humanizeEnum(preview.designSchema.ctaStrategy.primaryGoal)}</span>
+                  <p>{humanizeEnum(preview.designSchema.ctaStrategy.layout)}</p>
                 </div>
               </div>
-
-              <p>{preview.contactValidation.operatorSummary}</p>
 
               <div className="ag-review-list-columns">
                 <div>
-                  <h3>Blockers</h3>
+                  <h3>Section order</h3>
                   <ul>
-                    {preview.contactValidation.blockers.length > 0 ? (
-                      preview.contactValidation.blockers.map((item) => <li key={item}>{item}</li>)
-                    ) : (
-                      <li>No blockers</li>
-                    )}
+                    {preview.designSchema.sectionOrder.map((item) => (
+                      <li key={item}>{humanizeEnum(item)}</li>
+                    ))}
                   </ul>
                 </div>
                 <div>
-                  <h3>Warnings</h3>
+                  <h3>Mobile hints</h3>
                   <ul>
-                    {preview.contactValidation.warnings.length > 0 ? (
-                      preview.contactValidation.warnings.map((item) => <li key={item}>{item}</li>)
-                    ) : (
-                      <li>No warnings</li>
-                    )}
+                    {preview.designSchema.mobileHints.map((item) => (
+                      <li key={item}>{item}</li>
+                    ))}
                   </ul>
                 </div>
               </div>
-
-              <div className="ag-review-grade-categories">
-                {preview.contactValidation.checks.map((check) => (
-                  <div className="ag-review-grade-card" key={check.name}>
-                    <strong>{check.name}</strong>
-                    <span>{Math.round(check.confidence * 100)}%</span>
-                    <p>{check.summary}</p>
-                  </div>
-                ))}
-              </div>
             </>
           ) : (
-            <p className="ag-review-muted">Verification artifact not found.</p>
+            <p className="ag-review-muted">Normalized design schema artifact not found.</p>
           )}
         </section>
       </div>
+
+      <section className="card">
+        <div className="ag-review-section-heading">
+          <div>
+            <p className="eyebrow">Verification</p>
+            <h2>Contact and map gate</h2>
+          </div>
+        </div>
+
+        {preview.contactValidation ? (
+          <>
+            <div className="ag-review-score-grid">
+              <div>
+                <span>Pass</span>
+                <strong>{preview.contactValidation.pass ? "yes" : "no"}</strong>
+              </div>
+              <div>
+                <span>Recommended mode</span>
+                <strong>{preview.contactValidation.recommendedRenderMode}</strong>
+              </div>
+              <div>
+                <span>Confidence</span>
+                <strong>{Math.round(preview.contactValidation.overallConfidence * 100)}%</strong>
+              </div>
+            </div>
+
+            <p>{preview.contactValidation.operatorSummary}</p>
+
+            <div className="ag-review-list-columns">
+              <div>
+                <h3>Blockers</h3>
+                <ul>
+                  {preview.contactValidation.blockers.length > 0 ? (
+                    preview.contactValidation.blockers.map((item) => <li key={item}>{item}</li>)
+                  ) : (
+                    <li>No blockers</li>
+                  )}
+                </ul>
+              </div>
+              <div>
+                <h3>Warnings</h3>
+                <ul>
+                  {preview.contactValidation.warnings.length > 0 ? (
+                    preview.contactValidation.warnings.map((item) => <li key={item}>{item}</li>)
+                  ) : (
+                    <li>No warnings</li>
+                  )}
+                </ul>
+              </div>
+            </div>
+
+            <div className="ag-review-grade-categories">
+              {preview.contactValidation.checks.map((check) => (
+                <div className="ag-review-grade-card" key={check.name}>
+                  <strong>{check.name}</strong>
+                  <span>{Math.round(check.confidence * 100)}%</span>
+                  <p>{check.summary}</p>
+                </div>
+              ))}
+            </div>
+          </>
+        ) : (
+          <p className="ag-review-muted">Verification artifact not found.</p>
+        )}
+      </section>
 
       <div className="ag-review-two-column">
         <section className="card">
@@ -450,6 +641,20 @@ export default async function AntigravityReviewDetailPage({ params }: ReviewPage
 
         <ClinicDemoChatPanel chatbot={preview.landingPage.chatbot} />
       </div>
+
+      <section className="card">
+        <div className="ag-review-section-heading">
+          <div>
+            <p className="eyebrow">Rendered demo</p>
+            <h2>Final preview in context</h2>
+          </div>
+          <a className="button button-secondary" href={demoUrl} target="_blank" rel="noreferrer">
+            Open full demo
+          </a>
+        </div>
+
+        <iframe className="ag-review-preview-frame" src={demoUrl} title={`${preview.prospect.businessName} final demo preview`} />
+      </section>
 
       <section className="card">
         <div className="ag-review-section-heading">

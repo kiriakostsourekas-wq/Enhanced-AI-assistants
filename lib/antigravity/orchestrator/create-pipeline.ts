@@ -5,6 +5,9 @@ import { crawlWebsiteStage } from "@/lib/antigravity/stages/crawl-website";
 import { gradeWebsiteStage } from "@/lib/antigravity/stages/grade-website";
 import { extractBusinessDataStage } from "@/lib/antigravity/stages/extract-business-data";
 import { buildKnowledgePackStage } from "@/lib/antigravity/stages/build-knowledge-pack";
+import { buildRedesignBriefStage } from "@/lib/antigravity/stages/build-redesign-brief";
+import { generateStitchDesignStage } from "@/lib/antigravity/stages/generate-stitch-design";
+import { normalizeDesignSchemaStage } from "@/lib/antigravity/stages/normalize-design-schema";
 import { generateDemoChatbotConfigStage } from "@/lib/antigravity/stages/generate-demo-chatbot-config";
 import { generateDemoLandingPageStage } from "@/lib/antigravity/stages/generate-demo-landing-page";
 import { validateContactsAndMapsStage } from "@/lib/antigravity/stages/validate-contacts-maps";
@@ -21,6 +24,9 @@ export function createProspectPipeline(context: StageRuntimeContext & { dependen
     createProspectStageRunnable(extractBusinessDataStage, context),
     createProspectStageRunnable(buildKnowledgePackStage, context),
     createProspectStageRunnable(validateContactsAndMapsStage, context),
+    createProspectStageRunnable(buildRedesignBriefStage, context),
+    createProspectStageRunnable(generateStitchDesignStage, context),
+    createProspectStageRunnable(normalizeDesignSchemaStage, context),
     createProspectStageRunnable(generateDemoChatbotConfigStage, context),
     createProspectStageRunnable(generateDemoLandingPageStage, context),
     createProspectStageRunnable(deployPreviewUrlStage, context),

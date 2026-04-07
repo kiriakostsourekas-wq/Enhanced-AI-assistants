@@ -8,6 +8,9 @@ export const PipelineStageNameSchema = z.enum([
   "grade_website",
   "extract_business_data",
   "build_knowledge_pack",
+  "build_redesign_brief",
+  "generate_stitch_design",
+  "normalize_design_schema",
   "generate_demo_chatbot_config",
   "generate_demo_landing_page",
   "validate_contacts_and_maps",
@@ -107,6 +110,7 @@ export const CampaignConfigSchema = z
         seedQueries: z.array(z.string().trim().min(1)).default([]),
         seedProspects: z.array(SeedProspectSchema).default([]),
         csvDatasetPath: z.string().trim().min(1).optional(),
+        leadSelectors: z.array(z.string().trim().min(1)).max(25).default([]),
         minimumOverallScore: ConfidenceScoreSchema.default(0.55),
         excludeDomains: z.array(z.string().trim().min(1)).default([]),
         excludeBusinessNames: z.array(z.string().trim().min(1)).default([]),
@@ -115,6 +119,7 @@ export const CampaignConfigSchema = z
         provider: "static_seed",
         seedQueries: [],
         seedProspects: [],
+        leadSelectors: [],
         minimumOverallScore: 0.55,
         excludeDomains: [],
         excludeBusinessNames: [],
@@ -533,8 +538,20 @@ export const DemoLandingPageHeroSchema = z.object({
   secondaryCta: DemoLandingPageCtaSchema.optional(),
   badges: z.array(z.string().trim().min(1)).default([]),
   stats: z.array(DemoLandingPageHeroStatSchema).default([]),
+  logoUrl: z.string().url().optional(),
+  logoAlt: z.string().trim().min(1).optional(),
   imageUrl: z.string().url().optional(),
   imageAlt: z.string().trim().min(1).optional(),
+});
+
+export const DemoLandingPageMediaItemKindSchema = z.enum(["portrait", "service", "clinic", "team", "logo"]);
+
+export const DemoLandingPageMediaItemSchema = z.object({
+  url: z.string().url(),
+  alt: z.string().trim().min(1).optional(),
+  caption: z.string().trim().min(1).optional(),
+  sourceLabel: z.string().trim().min(1).optional(),
+  emphasis: DemoLandingPageMediaItemKindSchema.default("clinic"),
 });
 
 export const DemoLandingPageInsightSchema = z.object({
@@ -544,13 +561,19 @@ export const DemoLandingPageInsightSchema = z.object({
 
 export const DemoLandingPageServiceSchema = z.object({
   title: z.string().trim().min(1),
+  eyebrow: z.string().trim().min(1).optional(),
   detail: z.string().trim().min(1).optional(),
+  imageUrl: z.string().url().optional(),
+  imageAlt: z.string().trim().min(1).optional(),
 });
 
 export const DemoLandingPageDoctorSchema = z.object({
   name: z.string().trim().min(1),
   role: z.string().trim().min(1).optional(),
   bio: z.string().trim().min(1).optional(),
+  facts: z.array(z.string().trim().min(1)).default([]),
+  imageUrl: z.string().url().optional(),
+  imageAlt: z.string().trim().min(1).optional(),
 });
 
 export const DemoLandingPageTestimonialSchema = z.object({
@@ -603,6 +626,7 @@ export const DemoLandingPageSchema = z.object({
   subheadline: z.string().trim().min(1),
   callToActionLabel: z.string().trim().min(1),
   hero: DemoLandingPageHeroSchema,
+  mediaGallery: z.array(DemoLandingPageMediaItemSchema).default([]),
   improvementHighlights: z.array(DemoLandingPageInsightSchema).default([]),
   services: z.array(DemoLandingPageServiceSchema).default([]),
   trustItems: z.array(z.string().trim().min(1)).default([]),
@@ -667,6 +691,217 @@ export const ContactValidationSchema = z.object({
   overallConfidence: ConfidenceScoreSchema,
   checks: z.array(ContactValidationCheckSchema).default([]),
   operatorSummary: z.string().trim().min(1),
+  provenance: z.array(FactSourceSchema).min(1),
+});
+
+export const DesignSectionKindSchema = z.enum([
+  "hero",
+  "gallery",
+  "services",
+  "trust",
+  "story",
+  "team",
+  "testimonials",
+  "faq",
+  "summary",
+  "chat",
+  "contact",
+  "footer",
+]);
+
+export const DesignThemeVariantSchema = z.enum([
+  "editorial_precision",
+  "warm_local_clinic",
+  "modern_specialist",
+  "calm_conversion",
+]);
+
+export const DesignVoiceSchema = z.enum([
+  "warm_reassuring",
+  "precise_specialist",
+  "local_trust",
+  "modern_premium",
+]);
+
+export const DesignHeroTypeSchema = z.enum([
+  "split_image",
+  "split_insight",
+  "split_contact",
+  "split_credentials",
+]);
+
+export const DesignCtaGoalSchema = z.enum(["booking", "call", "contact", "demo_request"]);
+export const DesignCtaLayoutSchema = z.enum(["paired_buttons", "stacked_actions", "sticky_bar"]);
+export const DesignTrustTreatmentSchema = z.enum([
+  "credential_grid",
+  "doctor_spotlight",
+  "proof_tiles",
+  "quote_band",
+]);
+export const DesignServicesLayoutSchema = z.enum(["card_grid", "feature_split", "stacked_list"]);
+export const DesignTeamLayoutSchema = z.enum(["profile_grid", "story_split", "credentials_stack"]);
+export const DesignFaqPlacementSchema = z.enum(["after_services", "after_team", "before_contact"]);
+export const DesignContactPlacementSchema = z.enum(["dark_split", "light_card", "footer_focus"]);
+export const DesignMapPlacementSchema = z.enum(["contact_panel", "footer", "hidden"]);
+export const DesignGalleryLayoutSchema = z.enum(["mosaic", "portrait_stack", "service_triptych", "editorial_strip"]);
+export const DesignSurfaceSchema = z.enum(["transparent", "muted", "highlight", "dark"]);
+export const DesignSectionEmphasisSchema = z.enum(["conversion", "trust", "story", "utility"]);
+
+export const CurrentSiteScreenshotSchema = z.object({
+  pageType: SitePageTypeSchema,
+  pageLabel: z.string().trim().min(1),
+  sourceUrl: z.string().url(),
+  screenshotPath: z.string().trim().min(1).optional(),
+  title: z.string().trim().min(1).optional(),
+  primaryHeading: z.string().trim().min(1).optional(),
+  observationSummary: z.string().trim().min(1),
+});
+
+export const RedesignVerifiedFactsSchema = z.object({
+  clinicName: z.string().trim().min(1),
+  specialty: z.string().trim().min(1).optional(),
+  neighborhood: z.string().trim().min(1).optional(),
+  address: z.string().trim().min(1).optional(),
+  services: z.array(z.string().trim().min(1)).default([]),
+  trustMarkers: z.array(z.string().trim().min(1)).default([]),
+  doctorNames: z.array(z.string().trim().min(1)).default([]),
+  teamNames: z.array(z.string().trim().min(1)).default([]),
+  phones: z.array(z.string().trim().min(1)).default([]),
+  emails: z.array(z.string().trim().min(1)).default([]),
+  galleryImageUrls: z.array(z.string().url()).default([]),
+  logoUrl: z.string().url().optional(),
+  bookingUrl: z.string().url().optional(),
+  contactUrl: z.string().url().optional(),
+  liveDemoEligibility: LiveDemoEligibilitySchema,
+});
+
+export const RedesignGradingSummarySchema = z.object({
+  overallScore: z.number().int().min(0).max(100),
+  gradeBand: WebsiteGradeSchema.shape.gradeBand,
+  demoOpportunityScore: z.number().int().min(0).max(100),
+  operatorSummary: z.string().trim().min(1),
+  diagnosis: z.string().trim().min(1),
+});
+
+export const RedesignProblemSummarySchema = z.object({
+  trust: z.array(z.string().trim().min(1)).default([]),
+  conversion: z.array(z.string().trim().min(1)).default([]),
+  mobile: z.array(z.string().trim().min(1)).default([]),
+  language: z.array(z.string().trim().min(1)).default([]),
+  localCredibility: z.array(z.string().trim().min(1)).default([]),
+});
+
+export const RedesignResponsePlanItemSchema = z.object({
+  weaknessTitle: z.string().trim().min(1),
+  designMove: z.string().trim().min(1),
+  sectionTarget: DesignSectionKindSchema,
+  commercialGoal: z.string().trim().min(1),
+});
+
+export const RedesignVisualStyleGuidanceSchema = z.object({
+  directionName: z.string().trim().min(1),
+  tone: z.string().trim().min(1),
+  paletteMood: z.string().trim().min(1),
+  heroIntent: z.string().trim().min(1),
+  sectionRhythm: z.string().trim().min(1),
+  variationSignals: z.array(z.string().trim().min(1)).default([]),
+  avoidPatterns: z.array(z.string().trim().min(1)).default([]),
+});
+
+export const RedesignBriefSchema = z.object({
+  generatedAt: z.string().datetime(),
+  clinicIdentity: z.object({
+    businessName: z.string().trim().min(1),
+    specialty: z.string().trim().min(1).optional(),
+    targetAudience: z.string().trim().min(1),
+    languageStrategy: z.literal("greek_first"),
+  }),
+  currentSiteScreenshots: z.array(CurrentSiteScreenshotSchema).default([]),
+  verifiedFacts: RedesignVerifiedFactsSchema,
+  gradingSummary: RedesignGradingSummarySchema,
+  topWeaknesses: z.array(WebsiteGradeInsightSchema).min(1).max(5),
+  keyOpportunities: z.array(WebsiteGradeInsightSchema).min(1).max(5),
+  problemSummary: RedesignProblemSummarySchema,
+  responsePlan: z.array(RedesignResponsePlanItemSchema).min(1),
+  requiredSections: z.array(DesignSectionKindSchema).min(4),
+  visualStyleGuidance: RedesignVisualStyleGuidanceSchema,
+  truthfulnessConstraints: z.array(z.string().trim().min(1)).min(3),
+  renderingContext: z.object({
+    mode: DemoLandingPageRenderModeSchema,
+    rationale: z.string().trim().min(1),
+    safeContactStrategy: z.string().trim().min(1),
+  }),
+  provenance: z.array(FactSourceSchema).min(1),
+});
+
+export const StitchCritiqueResponseSchema = z.object({
+  weaknessTitle: z.string().trim().min(1),
+  designMove: z.string().trim().min(1),
+  sectionTarget: DesignSectionKindSchema,
+});
+
+export const StitchDesignOutputSchema = z.object({
+  generatedAt: z.string().datetime(),
+  source: z.enum(["deterministic_adapter", "stitch"]),
+  prompt: z.string().trim().min(1),
+  designRationale: z.string().trim().min(1),
+  themeVariant: DesignThemeVariantSchema,
+  voice: DesignVoiceSchema,
+  heroType: DesignHeroTypeSchema,
+  ctaLayout: DesignCtaLayoutSchema,
+  trustTreatment: DesignTrustTreatmentSchema,
+  servicesLayout: DesignServicesLayoutSchema,
+  teamLayout: DesignTeamLayoutSchema,
+  galleryLayout: DesignGalleryLayoutSchema.default("mosaic"),
+  faqPlacement: DesignFaqPlacementSchema,
+  contactPlacement: DesignContactPlacementSchema,
+  mapPlacement: DesignMapPlacementSchema,
+  sectionOrder: z.array(DesignSectionKindSchema).min(4),
+  critiqueResponses: z.array(StitchCritiqueResponseSchema).min(1),
+  mobileFirstMoves: z.array(z.string().trim().min(1)).default([]),
+  notes: z.array(z.string().trim().min(1)).default([]),
+  warnings: z.array(z.string().trim().min(1)).default([]),
+  provenance: z.array(FactSourceSchema).min(1),
+});
+
+export const NormalizedDesignSectionSchema = z.object({
+  kind: DesignSectionKindSchema,
+  variant: z.string().trim().min(1),
+  surface: DesignSurfaceSchema,
+  emphasis: DesignSectionEmphasisSchema,
+  eyebrow: z.string().trim().min(1).optional(),
+  title: z.string().trim().min(1).optional(),
+  description: z.string().trim().min(1).optional(),
+});
+
+export const NormalizedDesignSchema = z.object({
+  version: z.literal("v1"),
+  generatedAt: z.string().datetime(),
+  designId: z.string().trim().min(1),
+  themeVariant: DesignThemeVariantSchema,
+  voice: DesignVoiceSchema,
+  hero: z.object({
+    type: DesignHeroTypeSchema,
+    visualFocus: z.string().trim().min(1),
+    rationale: z.string().trim().min(1),
+  }),
+  ctaStrategy: z.object({
+    primaryGoal: DesignCtaGoalSchema,
+    layout: DesignCtaLayoutSchema,
+    persistentStyle: z.enum(["dark_float", "soft_float"]),
+  }),
+  trustTreatment: DesignTrustTreatmentSchema,
+  servicesLayout: DesignServicesLayoutSchema,
+  teamLayout: DesignTeamLayoutSchema,
+  galleryLayout: DesignGalleryLayoutSchema.default("mosaic"),
+  faqPlacement: DesignFaqPlacementSchema,
+  contactPlacement: DesignContactPlacementSchema,
+  mapPlacement: DesignMapPlacementSchema,
+  mobileHints: z.array(z.string().trim().min(1)).default([]),
+  sectionOrder: z.array(DesignSectionKindSchema).min(4),
+  sections: z.array(NormalizedDesignSectionSchema).min(4),
+  critiqueResponses: z.array(StitchCritiqueResponseSchema).min(1),
+  designSummary: z.string().trim().min(1),
   provenance: z.array(FactSourceSchema).min(1),
 });
 
@@ -779,6 +1014,9 @@ export const ProspectRunStateSchema = z.object({
   websiteGrade: WebsiteGradeSchema.optional(),
   businessData: StructuredBusinessDataSchema.optional(),
   knowledgePack: KnowledgePackSchema.optional(),
+  redesignBrief: RedesignBriefSchema.optional(),
+  stitchDesignOutput: StitchDesignOutputSchema.optional(),
+  designSchema: NormalizedDesignSchema.optional(),
   chatbotConfig: DemoChatbotConfigSchema.optional(),
   landingPage: DemoLandingPageSchema.optional(),
   contactValidation: ContactValidationSchema.optional(),
@@ -811,9 +1049,27 @@ export type ContactValidationCheck = z.infer<typeof ContactValidationCheckSchema
 export type ContactValidationCheckName = z.infer<typeof ContactValidationCheckNameSchema>;
 export type ContactValidationCheckStatus = z.infer<typeof ContactValidationCheckStatusSchema>;
 export type ContactValidation = z.infer<typeof ContactValidationSchema>;
+export type CurrentSiteScreenshot = z.infer<typeof CurrentSiteScreenshotSchema>;
 export type CrawlDecision = z.infer<typeof CrawlDecisionSchema>;
+export type DesignGalleryLayout = z.infer<typeof DesignGalleryLayoutSchema>;
+export type DesignContactPlacement = z.infer<typeof DesignContactPlacementSchema>;
+export type DesignCtaGoal = z.infer<typeof DesignCtaGoalSchema>;
+export type DesignCtaLayout = z.infer<typeof DesignCtaLayoutSchema>;
+export type DesignFaqPlacement = z.infer<typeof DesignFaqPlacementSchema>;
+export type DesignHeroType = z.infer<typeof DesignHeroTypeSchema>;
+export type DesignMapPlacement = z.infer<typeof DesignMapPlacementSchema>;
+export type DesignSectionEmphasis = z.infer<typeof DesignSectionEmphasisSchema>;
+export type DesignSectionKind = z.infer<typeof DesignSectionKindSchema>;
+export type DesignServicesLayout = z.infer<typeof DesignServicesLayoutSchema>;
+export type DesignSurface = z.infer<typeof DesignSurfaceSchema>;
+export type DesignTeamLayout = z.infer<typeof DesignTeamLayoutSchema>;
+export type DesignThemeVariant = z.infer<typeof DesignThemeVariantSchema>;
+export type DesignTrustTreatment = z.infer<typeof DesignTrustTreatmentSchema>;
+export type DesignVoice = z.infer<typeof DesignVoiceSchema>;
 export type DemoChatbotConfig = z.infer<typeof DemoChatbotConfigSchema>;
 export type DemoLandingPage = z.infer<typeof DemoLandingPageSchema>;
+export type DemoLandingPageMediaItem = z.infer<typeof DemoLandingPageMediaItemSchema>;
+export type DemoLandingPageMediaItemKind = z.infer<typeof DemoLandingPageMediaItemKindSchema>;
 export type DiscoveryProvider = z.infer<typeof DiscoveryProviderSchema>;
 export type DiscoveredProspect = z.infer<typeof DiscoveredProspectSchema>;
 export type DiscoveryBatch = z.infer<typeof DiscoveryBatchSchema>;
@@ -824,6 +1080,8 @@ export type LeadScore = z.infer<typeof LeadScoreSchema>;
 export type LanguageAssessment = z.infer<typeof LanguageAssessmentSchema>;
 export type LanguageCode = z.infer<typeof LanguageCodeSchema>;
 export type LiveDemoEligibility = z.infer<typeof LiveDemoEligibilitySchema>;
+export type NormalizedDesignSchema = z.infer<typeof NormalizedDesignSchema>;
+export type NormalizedDesignSection = z.infer<typeof NormalizedDesignSectionSchema>;
 export type OutreachEnglishTranslation = z.infer<typeof OutreachEnglishTranslationSchema>;
 export type OutreachDraft = z.infer<typeof OutreachDraftSchema>;
 export type OutreachVariantStyle = z.infer<typeof OutreachVariantStyleSchema>;
@@ -831,6 +1089,9 @@ export type PageLanguageAssessment = z.infer<typeof PageLanguageAssessmentSchema
 export type PipelineStageName = z.infer<typeof PipelineStageNameSchema>;
 export type ProspectRunState = z.infer<typeof ProspectRunStateSchema>;
 export type PreviewDeployment = z.infer<typeof PreviewDeploymentSchema>;
+export type RedesignBrief = z.infer<typeof RedesignBriefSchema>;
+export type RedesignProblemSummary = z.infer<typeof RedesignProblemSummarySchema>;
+export type RedesignResponsePlanItem = z.infer<typeof RedesignResponsePlanItemSchema>;
 export type ReviewAuditAction = z.infer<typeof ReviewAuditActionSchema>;
 export type ReviewAuditEvent = z.infer<typeof ReviewAuditEventSchema>;
 export type ReviewDecisionStatus = z.infer<typeof ReviewDecisionStatusSchema>;
@@ -850,6 +1111,8 @@ export type SitePageType = z.infer<typeof SitePageTypeSchema>;
 export type SiteSnapshot = z.infer<typeof SiteSnapshotSchema>;
 export type SiteVisibleElements = z.infer<typeof SiteVisibleElementsSchema>;
 export type StageAttemptRecord = z.infer<typeof StageAttemptRecordSchema>;
+export type StitchCritiqueResponse = z.infer<typeof StitchCritiqueResponseSchema>;
+export type StitchDesignOutput = z.infer<typeof StitchDesignOutputSchema>;
 export type StructuredClinicField = z.infer<typeof StructuredClinicFieldSchema>;
 export type StructuredFieldStatus = z.infer<typeof StructuredFieldStatusSchema>;
 export type StructuredBusinessData = z.infer<typeof StructuredBusinessDataSchema>;

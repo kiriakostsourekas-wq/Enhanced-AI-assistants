@@ -34,5 +34,5 @@ export async function generateMetadata({ params }: PreviewPageProps): Promise<Me
 export default async function AntigravityPreviewPage({ params }: PreviewPageProps) {
   const data = await loadPageData(await params);
 
-  return <ClinicDemoPage landingPage={data.landingPage} />;
+  return <ClinicDemoPage landingPage={data.landingPage} designSchema={data.designSchema} />;
 }

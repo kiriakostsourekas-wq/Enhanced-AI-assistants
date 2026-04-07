@@ -1,6 +1,7 @@
 import { readFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { loadEnvConfig } from "@next/env";
 import { createDefaultAntigravityDependencies } from "@/lib/antigravity/dependencies";
 import { getAntigravityEnv } from "@/lib/antigravity/config";
 import { InMemoryAntigravityRepository } from "@/lib/antigravity/persistence/in-memory-repository";
@@ -18,6 +19,8 @@ function resolveConfigPath(cliValue?: string) {
 }
 
 async function main() {
+  loadEnvConfig(process.cwd());
+
   const configPath = resolveConfigPath(process.argv[2]);
   const env = getAntigravityEnv();
   const logger = createAntigravityLogger({ app: "antigravity-runner" });

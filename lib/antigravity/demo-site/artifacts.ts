@@ -4,11 +4,13 @@ import {
   DemoChatbotConfigSchema,
   DemoLandingPageSchema,
   KnowledgePackSchema,
+  NormalizedDesignSchema,
 } from "@/lib/antigravity/schemas";
 import type {
   DemoChatbotConfig,
   DemoLandingPage,
   KnowledgePack,
+  NormalizedDesignSchema as NormalizedDesignSchemaType,
 } from "@/lib/antigravity/schemas";
 
 const PREVIEW_ROUTE_PREFIX = "antigravity-previews";
@@ -16,6 +18,18 @@ const PREVIEW_ROUTE_PREFIX = "antigravity-previews";
 async function readJsonFile<T>(filePath: string, parser: { parse: (value: unknown) => T }) {
   const contents = await readFile(filePath, "utf8");
   return parser.parse(JSON.parse(contents));
+}
+
+async function readOptionalJsonFile<T>(filePath: string, parser: { parse: (value: unknown) => T }) {
+  try {
+    return await readJsonFile(filePath, parser);
+  } catch (error) {
+    if (error instanceof Error && "code" in error && error.code === "ENOENT") {
+      return undefined;
+    }
+
+    throw error;
+  }
 }
 
 export function getPreviewArtifactsDirectory(campaignSlug: string, prospectSlug: string) {
@@ -27,6 +41,7 @@ export async function loadPreviewArtifacts(args: {
   prospectSlug: string;
 }): Promise<{
   chatbotConfig: DemoChatbotConfig;
+  designSchema?: NormalizedDesignSchemaType;
   landingPage: DemoLandingPage;
   knowledgePack: KnowledgePack;
 }> {
@@ -34,14 +49,16 @@ export async function loadPreviewArtifacts(args: {
   // without touching the route components or chat API handlers.
   const artifactDirectory = getPreviewArtifactsDirectory(args.campaignSlug, args.prospectSlug);
 
-  const [landingPage, chatbotConfig, knowledgePack] = await Promise.all([
+  const [landingPage, chatbotConfig, knowledgePack, designSchema] = await Promise.all([
     readJsonFile(path.join(artifactDirectory, "landing-page.json"), DemoLandingPageSchema),
     readJsonFile(path.join(artifactDirectory, "chatbot-config.json"), DemoChatbotConfigSchema),
     readJsonFile(path.join(artifactDirectory, "knowledge-pack.json"), KnowledgePackSchema),
+    readOptionalJsonFile(path.join(artifactDirectory, "normalized-design-schema.json"), NormalizedDesignSchema),
   ]);
 
   return {
     chatbotConfig,
+    designSchema,
     landingPage,
     knowledgePack,
   };

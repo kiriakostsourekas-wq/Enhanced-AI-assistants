@@ -18,9 +18,9 @@ export const generateDemoLandingPageStage: ProspectStage<typeof GenerateDemoLand
     maxDelayMs: 0,
   },
   async execute(input, context) {
-    if (!input.websiteGrade || !input.knowledgePack || !input.chatbotConfig || !input.contactValidation) {
+    if (!input.websiteGrade || !input.knowledgePack || !input.chatbotConfig || !input.contactValidation || !input.designSchema) {
       throw new StageBlockedError(
-        "Website grade, knowledge pack, chatbot config, and contact validation are required before landing page generation.",
+        "Website grade, knowledge pack, chatbot config, contact validation, and normalized design schema are required before landing page generation.",
       );
     }
 
@@ -32,6 +32,8 @@ export const generateDemoLandingPageStage: ProspectStage<typeof GenerateDemoLand
         websiteGrade: input.websiteGrade,
         chatbotConfig: input.chatbotConfig,
         contactValidation: input.contactValidation,
+        crawl: input.crawl,
+        designSchema: input.designSchema,
       }),
     };
   },

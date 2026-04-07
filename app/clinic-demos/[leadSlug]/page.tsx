@@ -1,6 +1,9 @@
 import type { Metadata } from "next";
 import { notFound, redirect } from "next/navigation";
-import { getClinicLeadSummaryBySlug } from "@/lib/demo-library/clinic-demo-profiles";
+import {
+  getClinicLeadSummaryBySlug,
+  getSavedClinicDemoProfile,
+} from "@/lib/demo-library/clinic-demo-profiles";
 import { getTemplateBySlug } from "@/lib/demo-library/template-catalog";
 
 type ClinicDemoPageProps = {
@@ -12,7 +15,17 @@ type ClinicDemoPageProps = {
 export const dynamic = "force-dynamic";
 
 export async function generateMetadata({ params }: ClinicDemoPageProps): Promise<Metadata> {
-  const lead = await getClinicLeadSummaryBySlug((await params).leadSlug);
+  const leadSlug = (await params).leadSlug;
+  const savedProfile = await getSavedClinicDemoProfile(leadSlug);
+
+  if (savedProfile) {
+    return {
+      title: `${savedProfile.businessName} Demo`,
+      description: savedProfile.category ?? "Saved clinic demo profile.",
+    };
+  }
+
+  const lead = await getClinicLeadSummaryBySlug(leadSlug);
 
   if (!lead) {
     return {
@@ -27,7 +40,14 @@ export async function generateMetadata({ params }: ClinicDemoPageProps): Promise
 }
 
 export default async function ClinicDemoLeadPage({ params }: ClinicDemoPageProps) {
-  const lead = await getClinicLeadSummaryBySlug((await params).leadSlug);
+  const leadSlug = (await params).leadSlug;
+  const savedProfile = await getSavedClinicDemoProfile(leadSlug);
+
+  if (savedProfile) {
+    redirect(`${savedProfile.template.mirrorHref}?lead=${encodeURIComponent(savedProfile.slug)}`);
+  }
+
+  const lead = await getClinicLeadSummaryBySlug(leadSlug);
   if (!lead) {
     notFound();
   }
