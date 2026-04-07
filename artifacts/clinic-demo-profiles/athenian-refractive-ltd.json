@@ -1,0 +1,182 @@
+{
+  "slug": "athenian-refractive-ltd",
+  "businessName": "Αρχική",
+  "category": "Ophthalmology clinic",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Αρχική Ophthalmology clinic in Αμπελόκηποι with services such as ΑΘΗΝΑΪΚΟ ΔΙΑΘΛΑΣΤΙΚΟ LASER, Θεραπευτικές μέθοδοι",
+  "heroHeading": "Αρχική matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.arl.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Athenian%20Refractive%20Ltd&query_place_id=ChIJp3o4Jw-YoRQRf9ziwHdGwEA",
+  "address": "Επικοινωνήστε μαζί μας 210 67 53 640 - 210 67 53 641",
+  "rating": 4.5,
+  "reviewsCount": 35,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "1488426921",
+      "href": "tel:1488426921"
+    },
+    {
+      "label": "Email",
+      "value": "info@arl.gr",
+      "href": "mailto:info@arl.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Επικοινωνήστε μαζί μας 210 67 53 640 - 210 67 53 641"
+    },
+    {
+      "label": "Booking page",
+      "value": "Open booking page",
+      "href": "https://www.arl.gr/book-appointment"
+    }
+  ],
+  "services": [
+    "ΑΘΗΝΑΪΚΟ ΔΙΑΘΛΑΣΤΙΚΟ LASER",
+    "Θεραπευτικές μέθοδοι"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Ιδρύθηκε από τους χειρουργούς-οφθαλμιάτρους Χαράλαμπο Ευκαρπίδη και Στέφανο Οικονόμου (Βιογραφικό Σημείωμα κ.",
+    "Έχει το μεγαλύτερο αριθμό συνεργατών χειρουργών οφθαλμιάτρων με υψηλή ειδίκευση στη διαθλαστική χειρουργική και πολυάριθμο ιατρικό και νοσηλευτικό προσωπικό με εξαιρετική τεχνογνωσία.",
+    "OI ΥΠΗΡΕΣΙΕΣ ΜΑΣΣτο Αθηναϊκό Διαθλαστικό Laser, λειτουργούμε ως μία ομάδα εξειδικευμένων χειρουργών οφθαλμιάτρων, οπτικών, βοηθών χειρουργείου, εποπτών λειτουργίας τεχνολογικού εξοπλισμού και προσωπικού γραμματείας.",
+    "Στο ΑΘΗΝΑΪΚO ΔΙΑΘΛΑΣΤΙΚO LASER, λειτουργούμε ως μία ομάδα εξειδικευμένων χειρουργών οφθαλμιάτρων, οπτικών, βοηθών χειρουργείου, εποπτών λειτουργίας τεχνολογικού εξοπλισμού και προσωπικού γραμματείας.",
+    "Εδώ και χρόνια, είμαστε αφοσιωμένοι στο να κάνουμε την εμπειρία σας στο κέντρομας ευχάριστη και βασικός μας στόχος είναι να μεγιστοποιήσουμε την επιτυχίατης χειρουργικής διαδικασίας.",
+    "Έχει πραγματοποιήσει από το 1996 επεμβάσεις διαθλαστικής χειρουργικής σε περισσότερους από 65.000 ασθενείς.Σήμερα το ΑΘΗΝΑΪΚO ΔΙΑΘΛΑΣΤΙΚO LASER διαθέτει δύο (2) συστήματα excimer laser, ένα (1) σύστημα Femto Laser και έν",
+    "Ακόμη είναι ένα από τα σημαντικότερα ελληνικά φυτώρια επιστημονικής και εκπαιδευτικής δραστηριότητας στο τομέα της διαθλαστικής χειρουργικής με συχνά εκπαιδευτικά σεμινάρια πάνω στις τελευταίες εξελίξεις.",
+    "Στο ΑΘΗΝΑΪΚO ΔΙΑΘΛΑΣΤΙΚO LASER, λειτουργούμε ως μία ομάδαεξειδικευμένων χειρουργών οφθαλμιάτρων, οπτικών, βοηθώνχειρουργείου, εποπτών λειτουργίας τεχνολογικού εξοπλισμούκαι προσωπικού γραμματείας."
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Contact page URL: No explicit contact page was identified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Ophthalmology clinic",
+    "4.5 rating",
+    "35 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "ΑΘΗΝΑΪΚΟ ΔΙΑΘΛΑΣΤΙΚΟ LASER",
+    "Θεραπευτικές μέθοδοι"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Athenian%20Refractive%20Ltd&query_place_id=ChIJp3o4Jw-YoRQRf9ziwHdGwEA",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.613Z",
+      "excerpt": "Athenian Refractive Ltd"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.arl.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.613Z",
+      "excerpt": "Αρχική | Αθηναϊκό Διαθλαστικό Laser"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.arl.gr/about-us",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.613Z",
+      "excerpt": "Ποιοί είμαστε | Αθηναϊκό Διαθλαστικό Laser"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.arl.gr/procedures",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.613Z",
+      "excerpt": "Επεμβάσεις | Αθηναϊκό Διαθλαστικό Laser"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.arl.gr/our-team",
+      "label": "Team page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.613Z",
+      "excerpt": "Η ομάδα μας | Αθηναϊκό Διαθλαστικό Laser"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.arl.gr/faq",
+      "label": "FAQ page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.613Z",
+      "excerpt": "Συχνές Ερωτήσεις | Αθηναϊκό Διαθλαστικό Laser"
+    }
+  ]
+}

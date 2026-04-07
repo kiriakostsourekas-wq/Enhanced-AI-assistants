@@ -1,0 +1,156 @@
+{
+  "slug": "dr-soukos-plastic-surgery",
+  "businessName": "ΑΡΧΙΚΗ - Ευαγγελος Σούκος",
+  "category": "Plastic surgeon",
+  "template": {
+    "slug": "medspa",
+    "title": "Medspa",
+    "description": "Beauty and treatment template with soft luxury cues, consultation CTAs, and treatment storytelling.",
+    "audienceLabel": "Consultation-driven treatment brands with a premium positioning angle",
+    "bestFor": "Med spas, fertility, aesthetics, dermatology, and plastic surgery clinics",
+    "recommendedFor": [
+      "Premium treatment framing",
+      "Consultation CTA",
+      "Soft-luxury treatment story"
+    ],
+    "featured": true,
+    "accentColor": "#EC606A",
+    "sourceUrl": "https://medspa.virtualpros.com/",
+    "pageHref": "/industries/medspa/mirror",
+    "mirrorHref": "/industries/medspa/mirror",
+    "heroHeading": "LOCATION & CONTACT",
+    "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+    "heroPrimaryCta": "Contacts",
+    "sectionHighlights": [],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Oswald",
+      "Roboto",
+      "'Lato'"
+    ],
+    "paletteTheme": {
+      "primary": "#EC606A",
+      "secondary": "#E93D3D",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#E93D3D"
+    },
+    "templateSummary": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin."
+  },
+  "summary": "ΑΡΧΙΚΗ - Ευαγγελος Σούκος Plastic surgeon in Κολωνάκι with services such as Skin Quality Treatments, PREMIUM BIOSTIMULATION, SKIN REGENERATION & TIGHTENING TREATMENTS, FACIAL TREATMENTS FOR MEN",
+  "heroHeading": "ΑΡΧΙΚΗ - Ευαγγελος Σούκος matched to the Medspa core demo",
+  "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+  "websiteUrl": "https://drsoukos.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%CE%95%CF%85%CE%AC%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82%20%CE%A3%CE%BF%CF%8D%CE%BA%CE%BF%CF%82%20%CE%A0%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CF%8C%CF%82%20%CE%A7%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CF%8C%CF%82%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1%20-%20Dr.%20Soukos%20Plastic%20Surgery&query_place_id=ChIJKedW5o69oRQRs4UzDG1Dxs0",
+  "address": "Milioni 1, Athina 106 73, Greece",
+  "rating": 5,
+  "reviewsCount": 26,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "2103000405",
+      "href": "tel:2103000405"
+    },
+    {
+      "label": "Email",
+      "value": "info@drsoukos.gr",
+      "href": "mailto:info@drsoukos.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Milioni 1, Athina 106 73, Greece"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://drsoukos.gr/contact"
+    }
+  ],
+  "services": [
+    "Skin Quality Treatments",
+    "PREMIUM BIOSTIMULATION, SKIN REGENERATION & TIGHTENING TREATMENTS",
+    "FACIAL TREATMENTS FOR MEN",
+    "PREMIUM – ΘΕΡΑΠΕΙΕΣ ΒΙΟΔΙΕΓΕΡΣΗΣ",
+    "ΘΕΡΑΠΕΙΕΣ ΑΝΤΙΓΗΡΑΝΣΗΣ"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Plastic surgeon",
+    "5.0 rating",
+    "26 reviews",
+    "snapshot ready",
+    "Medspa"
+  ],
+  "overlayServices": [
+    "Skin Quality Treatments",
+    "PREMIUM BIOSTIMULATION, SKIN REGENERATION & TIGHTENING TREATMENTS",
+    "FACIAL TREATMENTS FOR MEN"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=%CE%95%CF%85%CE%AC%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82%20%CE%A3%CE%BF%CF%8D%CE%BA%CE%BF%CF%82%20%CE%A0%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CF%8C%CF%82%20%CE%A7%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CF%8C%CF%82%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1%20-%20Dr.%20Soukos%20Plastic%20Surgery&query_place_id=ChIJKedW5o69oRQRs4UzDG1Dxs0",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.948Z",
+      "excerpt": "Ευάγγελος Σούκος Πλαστικός Χειρουργός Αθήνα - Dr. Soukos Plastic Surgery"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://drsoukos.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.948Z",
+      "excerpt": "ΑΡΧΙΚΗ - Ευαγγελος Σούκος"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://drsoukos.gr/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.948Z",
+      "excerpt": "ΕΠΙΚΟΙΝΩΝΙΑ - Ευαγγελος Σούκος"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://drsoukos.gr/en/skin-quality-treatments",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.948Z",
+      "excerpt": "Skin Quality Treatments | Skin Boosters, Polynucleotides, Mesotherapy & PRP"
+    }
+  ]
+}

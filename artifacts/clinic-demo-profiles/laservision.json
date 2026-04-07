@@ -1,0 +1,177 @@
+{
+  "slug": "laservision",
+  "businessName": "Οφθαλμολογική Μονάδα Αθήνα",
+  "category": "Eye care center",
+  "template": {
+    "slug": "cardealership",
+    "title": "Car Dealership",
+    "description": "Dark dealership landing page built around inventory trust, pricing, and premium vehicle presentation.",
+    "audienceLabel": "Inventory-heavy offers that need premium visual framing",
+    "bestFor": "Dealers, brokers, and other catalogue-led businesses",
+    "recommendedFor": [
+      "Inventory trust",
+      "Premium visuals",
+      "Finance-ready CTAs"
+    ],
+    "featured": false,
+    "accentColor": "#060644",
+    "sourceUrl": "https://cardealership.virtualpros.com/",
+    "pageHref": "/industries/cardealership/mirror",
+    "mirrorHref": "/industries/cardealership/mirror",
+    "heroHeading": "Premium quality, vetted vehicles, half the price.",
+    "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Inventory",
+      "New Cars",
+      "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+      "Used Cars",
+      "Recent News",
+      "Our Commitment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "'Lato'",
+      "Exo",
+      "Exo 2"
+    ],
+    "paletteTheme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    },
+    "templateSummary": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry."
+  },
+  "summary": "Οφθαλμολογική Μονάδα Αθήνα Eye care center in Athens with services such as Δρ. Αναστάσιος Κανελλόπουλος, MD Χειρουργός Οφθαλμίατρος, Σχετικά με τη LaserVision, Πρόσβαση στη Laservision",
+  "heroHeading": "Οφθαλμολογική Μονάδα Αθήνα matched to the Car Dealership core demo",
+  "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+  "websiteUrl": "https://www.laservision.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LASERVISION&query_place_id=ChIJSW1khFS9oRQRnJCDFIPEXPc",
+  "address": "17 Tsocha 115 21, Athens",
+  "rating": 4.4,
+  "reviewsCount": 347,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210) 74 72 777",
+      "href": "tel:2107472777"
+    },
+    {
+      "label": "Email",
+      "value": "info@laservision.gr",
+      "href": "mailto:info@laservision.gr"
+    },
+    {
+      "label": "Address",
+      "value": "17 Tsocha 115 21, Athens"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.laservision.gr/en/contact"
+    }
+  ],
+  "services": [
+    "Δρ. Αναστάσιος Κανελλόπουλος, MD Χειρουργός Οφθαλμίατρος",
+    "Σχετικά με τη LaserVision",
+    "Πρόσβαση στη Laservision",
+    "Διαμονή κοντά στη Laservision"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Κανελλόπουλος, MD Αναστάσιος Ι.",
+    "Κανελλόπουλος, MD - M.D Αναστάσιος Ι.",
+    "Διαθέτει πολυετή εμπειρία σε laser ματιών για μυωπία, υπερμετρωπία και αστιγματισμό, μικροχειρουργική καταρράκτη με σύγχρονες τεχνικές, μεταμοσχεύσεις κερατοειδούς, θεραπείες κερατόκωνου, σύγχρονες τεχνικές διόρθωσης πρε",
+    "Έχει διατελέσει κλινικός σύμβουλος σε θέματα Χειρουργικής του Κερατοειδούς, Διαθλαστικής Χειρουργικής και Επεμβάσεων Καταρράκτη σε πολλά διεθνή κέντρα στην Ευρώπη και την Μέση Ανατολή.",
+    "Από το 1999 ο ιατρός έχει αναλάβει καθήκοντα Αναπληρωτή και από το 2010 Τακτικού Καθηγητή Οφθαλμολογίας στο Πανεπιστήμιο της Νέας Υόρκης (NYU).",
+    "Κανελλόπουλος έχει παρουσιάσει στα ετήσια συνέδρια της ΑΑΟ τα τελευταία 25 έτη περισσότερες από 150 πρωτότυπες ανακοινώσεις, ενώ έχει οργανώσει και πραγματοποιήσει περισσότερα από 100 κλινικά φροντιστήρια για συμμετέχοντ",
+    "Επιπλέον, τα έτη 2016 και 2017 διατέλεσε πρόεδρος της Διεθνούς Εταιρείας Διαθλαστικής Χειρουργικής (International Society of Refractive Surgery) η οποία υπάγεται στην Αμερικανική Ακαδημία Οφθαλμολογίας.",
+    "Μετά από την ολοκλήρωση της ειδικότητας της Οφθαλμολογίας, ο Δρ."
+  ],
+  "people": [
+    "Επιστημονική Ομάδα"
+  ],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Eye care center",
+    "4.4 rating",
+    "347 reviews",
+    "snapshot ready",
+    "Car Dealership"
+  ],
+  "overlayServices": [
+    "Δρ. Αναστάσιος Κανελλόπουλος, MD Χειρουργός Οφθαλμίατρος",
+    "Σχετικά με τη LaserVision",
+    "Πρόσβαση στη Laservision"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=LASERVISION&query_place_id=ChIJSW1khFS9oRQRnJCDFIPEXPc",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:30.613Z",
+      "excerpt": "LASERVISION"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.laservision.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:30.613Z",
+      "excerpt": "Οφθαλμολογική Μονάδα - Χειρουργός Οφθαλμίατρος Αθήνα | Laser Vision"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.laservision.gr/doctor/anastasios-j-kanellopoulos",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.613Z",
+      "excerpt": "Αναστάσιος Ι. Κανελλόπουλος, MD | Laser Vision Οφθαλμολογική Μ.H.N."
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.laservision.gr/en/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.613Z",
+      "excerpt": "Contact | Laser Vision"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.laservision.gr/doctors",
+      "label": "Team page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.613Z",
+      "excerpt": "Επιστημονική Ομάδα | Laser Vision Οφθαλμολογική M.H.N"
+    }
+  ]
+}

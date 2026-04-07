@@ -1,0 +1,159 @@
+{
+  "slug": "athens-clinic-132",
+  "businessName": "ΚΛΙΝΙΚΗ ΕΥΑΓΓΕΛΙΣΤΡΙΑ",
+  "category": "Medical clinic",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "ΚΛΙΝΙΚΗ ΕΥΑΓΓΕΛΙΣΤΡΙΑ Medical clinic in Κυψέλη with services such as Φυσικοθεραπεία",
+  "heroHeading": "ΚΛΙΝΙΚΗ ΕΥΑΓΓΕΛΙΣΤΡΙΑ matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "http://www.evagelistria.com/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%CE%9A%CE%9B%CE%99%CE%9D%CE%99%CE%9A%CE%97%20%CE%95%CE%A5%CE%91%CE%93%CE%93%CE%95%CE%9B%CE%99%CE%A3%CE%A4%CE%A1%CE%99%CE%91%20%CE%91.%CE%95.&query_place_id=ChIJ7aSNa7mioRQRCMO6pHskwKs",
+  "address": "Pithias 24, Athina 113 64, Greece",
+  "rating": 4,
+  "reviewsCount": 40,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 8641210",
+      "href": "tel:2108641210"
+    },
+    {
+      "label": "Email",
+      "value": "info@evaggelistria.com",
+      "href": "mailto:info@evaggelistria.com"
+    },
+    {
+      "label": "Address",
+      "value": "Pithias 24, Athina 113 64, Greece"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://evagelistria.com/contact"
+    }
+  ],
+  "services": [
+    "Φυσικοθεραπεία"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Πιστοποίηση ISO Η κλινική «Ευαγγελίστρια» εφαρμόζει Σύστημα Διαχείρισης της Ποιότητας σύμφωνα με το Πρότυπο ΕΝ ISO 9001:2015 και εξειδικευμένο Σύστημα Διαχείρισης Ποιότητας στην Παροχή Υπηρεσιών Υγείας σύμφωνα με το Πρότ",
+    "Αρθρα Ευαγγελίστρια: Η μοναδική παθολογική κλινική με εξειδικευμένη πιστοποίηση ISO 15224 για υπηρεσίες υγείας Με ιστορία 8 δεκαετιών και εμπειρία σχεδόν 50 ετών ως Ειδική … 24/11/2025 Αρθρα Η Κλινική «Ευαγγελίστρια» πρω"
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Medical clinic",
+    "4.0 rating",
+    "40 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Φυσικοθεραπεία"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=%CE%9A%CE%9B%CE%99%CE%9D%CE%99%CE%9A%CE%97%20%CE%95%CE%A5%CE%91%CE%93%CE%93%CE%95%CE%9B%CE%99%CE%A3%CE%A4%CE%A1%CE%99%CE%91%20%CE%91.%CE%95.&query_place_id=ChIJ7aSNa7mioRQRCMO6pHskwKs",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.583Z",
+      "excerpt": "ΚΛΙΝΙΚΗ ΕΥΑΓΓΕΛΙΣΤΡΙΑ Α.Ε."
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://evagelistria.com/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.583Z",
+      "excerpt": "Κλινική Ευαγγελίστρια - Νοσηλεία και Φροντίδα Ηλικιωμένων και χρονίως πασχόντων | evagelistria.comAccessibility ToolsIncrease TextDecrease TextGrayscaleHigh ContrastNegative ContrastLight BackgroundLinks UnderlineReadable FontReset"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://evagelistria.com/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.583Z",
+      "excerpt": "Επικοινωνία - Κλινική ΕυαγγελίστριαAccessibility ToolsIncrease TextDecrease TextGrayscaleHigh ContrastNegative ContrastLight BackgroundLinks UnderlineReadable FontReset"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://evagelistria.com/service/iatrikes-ypiresies",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.583Z",
+      "excerpt": "Ολιστικές ιατρικές υπηρεσίες - Κλινική ΕυαγγελίστριαAccessibility ToolsIncrease TextDecrease TextGrayscaleHigh ContrastNegative ContrastLight BackgroundLinks UnderlineReadable FontReset"
+    }
+  ]
+}

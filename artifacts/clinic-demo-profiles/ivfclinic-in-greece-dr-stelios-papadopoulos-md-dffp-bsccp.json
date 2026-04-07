@@ -1,0 +1,147 @@
+{
+  "slug": "ivfclinic-in-greece-dr-stelios-papadopoulos-md-dffp-bsccp",
+  "businessName": "Let's make our dream come true.",
+  "category": "Fertility clinic",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Let's make our dream come true. Fertility clinic in Athens with services such as Egg donation treatment, Treatments, Egg donation treatment in Greece",
+  "heroHeading": "Let's make our dream come true. matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://ivfclinic.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=IVFclinic%20in%20Greece%20-%20Dr.%20Stelios%20Papadopoulos%2C%20MD%2C%20DFFP%2C%20BSCCP&query_place_id=ChIJN1j_yzuZoRQRn7RB0alTrTU",
+  "address": "37-39 Kifisias Avenue,",
+  "rating": 5,
+  "reviewsCount": 4,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "17887980086",
+      "href": "tel:17887980086"
+    },
+    {
+      "label": "Address",
+      "value": "37-39 Kifisias Avenue,"
+    }
+  ],
+  "services": [
+    "Egg donation treatment",
+    "Treatments",
+    "Egg donation treatment in Greece",
+    "We are proud to show you all future ivf treatments.",
+    "- Our Treatments",
+    "- Our Clinic"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Email(s): No public clinic email was verified from the snapshot.",
+    "Contact page URL: No explicit contact page was identified.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Fertility clinic",
+    "5.0 rating",
+    "4 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Egg donation treatment",
+    "Treatments",
+    "Egg donation treatment in Greece"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=IVFclinic%20in%20Greece%20-%20Dr.%20Stelios%20Papadopoulos%2C%20MD%2C%20DFFP%2C%20BSCCP&query_place_id=ChIJN1j_yzuZoRQRn7RB0alTrTU",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:33.438Z",
+      "excerpt": "IVFclinic in Greece - Dr. Stelios Papadopoulos, MD, DFFP, BSCCP"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://ivfclinic.gr/index.php/en",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:33.438Z",
+      "excerpt": "Home en"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://ivfclinic.gr/index.php/en/treatments",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.438Z",
+      "excerpt": "Treatments"
+    }
+  ]
+}

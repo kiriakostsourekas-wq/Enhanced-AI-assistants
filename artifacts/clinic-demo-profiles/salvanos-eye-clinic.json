@@ -1,0 +1,165 @@
+{
+  "slug": "salvanos-eye-clinic",
+  "businessName": "SALVANOS EYE CLINIC",
+  "category": "Eye care center",
+  "template": {
+    "slug": "cardealership",
+    "title": "Car Dealership",
+    "description": "Dark dealership landing page built around inventory trust, pricing, and premium vehicle presentation.",
+    "audienceLabel": "Inventory-heavy offers that need premium visual framing",
+    "bestFor": "Dealers, brokers, and other catalogue-led businesses",
+    "recommendedFor": [
+      "Inventory trust",
+      "Premium visuals",
+      "Finance-ready CTAs"
+    ],
+    "featured": false,
+    "accentColor": "#060644",
+    "sourceUrl": "https://cardealership.virtualpros.com/",
+    "pageHref": "/industries/cardealership/mirror",
+    "mirrorHref": "/industries/cardealership/mirror",
+    "heroHeading": "Premium quality, vetted vehicles, half the price.",
+    "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Inventory",
+      "New Cars",
+      "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+      "Used Cars",
+      "Recent News",
+      "Our Commitment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "'Lato'",
+      "Exo",
+      "Exo 2"
+    ],
+    "paletteTheme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    },
+    "templateSummary": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry."
+  },
+  "summary": "SALVANOS EYE CLINIC Eye care center in Athens with services such as SALVANOS EYE CLINIC, LASER VISION CORRECTION, Laser vision correction surgeries",
+  "heroHeading": "SALVANOS EYE CLINIC matched to the Car Dealership core demo",
+  "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+  "websiteUrl": "https://www.drsalvanos.com/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Salvanos%20Eye%20Clinic&query_place_id=ChIJwd35fn29oRQRhwwK6vNEVvQ",
+  "address": "Salvanos Eye Clinicdrsalvanos@gmail.com+30 6977207400Pl. Filikis Eterias 18, Athens, Greece©2019 by Salvanos Eye Clinic. Proudly created with Wix.com",
+  "rating": 4.8,
+  "reviewsCount": 21,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "1774484719467",
+      "href": "tel:1774484719467"
+    },
+    {
+      "label": "Email",
+      "value": "drsalvanos@outlook.com",
+      "href": "mailto:drsalvanos@outlook.com"
+    },
+    {
+      "label": "Address",
+      "value": "Salvanos Eye Clinicdrsalvanos@gmail.com+30 6977207400Pl. Filikis Eterias 18, Athens, Greece©2019 by Salvanos Eye Clinic. Proudly created with Wix.com"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.drsalvanos.com/getting-here"
+    }
+  ],
+  "services": [
+    "SALVANOS EYE CLINIC",
+    "LASER VISION CORRECTION",
+    "Laser vision correction surgeries"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "​Dr Panagiotis Salvanos"
+  ],
+  "people": [
+    "​Dr Panagiotis Salvanos"
+  ],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Eye care center",
+    "4.8 rating",
+    "21 reviews",
+    "snapshot ready",
+    "Car Dealership"
+  ],
+  "overlayServices": [
+    "SALVANOS EYE CLINIC",
+    "LASER VISION CORRECTION",
+    "Laser vision correction surgeries"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Salvanos%20Eye%20Clinic&query_place_id=ChIJwd35fn29oRQRhwwK6vNEVvQ",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:33.099Z",
+      "excerpt": "Salvanos Eye Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.drsalvanos.com/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:33.099Z",
+      "excerpt": "Salvanos Eye Clinic | retina, laser, cataract, lasik | Greece"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.drsalvanos.com/biography",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.099Z",
+      "excerpt": "Biography | Salvanos Eye Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.drsalvanos.com/getting-here",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.099Z",
+      "excerpt": "Getting here | Salvanos Eye Clinic | address"
+    }
+  ]
+}

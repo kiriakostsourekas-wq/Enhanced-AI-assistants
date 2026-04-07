@@ -1,0 +1,184 @@
+{
+  "slug": "doctor-greece",
+  "businessName": "Find Doctors in Athens and Piraeus",
+  "category": "Emergency care physician",
+  "template": {
+    "slug": "cardealership",
+    "title": "Car Dealership",
+    "description": "Dark dealership landing page built around inventory trust, pricing, and premium vehicle presentation.",
+    "audienceLabel": "Inventory-heavy offers that need premium visual framing",
+    "bestFor": "Dealers, brokers, and other catalogue-led businesses",
+    "recommendedFor": [
+      "Inventory trust",
+      "Premium visuals",
+      "Finance-ready CTAs"
+    ],
+    "featured": false,
+    "accentColor": "#060644",
+    "sourceUrl": "https://cardealership.virtualpros.com/",
+    "pageHref": "/industries/cardealership/mirror",
+    "mirrorHref": "/industries/cardealership/mirror",
+    "heroHeading": "Premium quality, vetted vehicles, half the price.",
+    "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Inventory",
+      "New Cars",
+      "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+      "Used Cars",
+      "Recent News",
+      "Our Commitment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "'Lato'",
+      "Exo",
+      "Exo 2"
+    ],
+    "paletteTheme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    },
+    "templateSummary": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry."
+  },
+  "summary": "Find Doctors in Athens and Piraeus Emergency care physician in Athens with services such as Transparent Payment Procedure",
+  "heroHeading": "Find Doctors in Athens and Piraeus matched to the Car Dealership core demo",
+  "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+  "websiteUrl": "https://www.doctorgreece.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Doctor%20Greece&query_place_id=ChIJjb16SAC9oRQR4q6ylpXHA24",
+  "address": "Pallados 19, Athina 105 54, Greece",
+  "rating": 5,
+  "reviewsCount": 23,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+30 210 7000020",
+      "href": "tel:+302107000020"
+    },
+    {
+      "label": "Email",
+      "value": "info@doctorgreece.gr",
+      "href": "mailto:info@doctorgreece.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Pallados 19, Athina 105 54, Greece"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.doctorgreece.gr/contact"
+    }
+  ],
+  "services": [
+    "Transparent Payment Procedure"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "In the event that you require a surgeon promptly, the platform can facilitate immediate access to qualified professionals.",
+    "ATHENS | PIRAEUS HOMESERVICESEmergency Line 24/7Diagnostic ExaminationsAmbulanceFit-to-Fly CertificateABOUT USBLOGCONTACT HOMESERVICESEmergency Line 24/7Diagnostic ExaminationsAmbulanceFit-to-Fly CertificateABOUT USBLOGC",
+    "Our doctors assess your condition and arrange the right treatment—on-site or remotely.Fit-to-Fly Certificate in Athens & PiraeusNeed a Fit-to-Fly medical certificate?",
+    "Our certified doctors issue official medical clearance for air travel from anywhere in Greece.Emergency Ambulance Services in Athens & PiraeusOur fully equipped ambulance service in Greece ensures fast and secure patient",
+    "Additional Services Fit to Fly Certificate €40 Lab Tests from €15 Rapid Test €10 Flu Triple Test €20 Your Trusted Medical Team in AthensDoctor Greece is a dedicated team of licensed healthcare professionals focused on de",
+    "Within our multi-disciplinary clinics, certified doctors specialize in various medical fields, including Internal Medicine, Pediatrics, Orthopaedics, General Practice, Plastic Surgery, Dermatology, Cardiology, Gynaecolog",
+    "Best Surgeons in Greece",
+    "Emergency Surgical Solutions"
+  ],
+  "people": [
+    "Best Surgeons in Greece",
+    "Emergency Surgical Solutions",
+    "Coordinated Care",
+    "Efficient Communication",
+    "Expert Surgeons",
+    "Advanced Technology"
+  ],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Brand colors: Brand colors were not inferable confidently from the public HTML."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Emergency care physician",
+    "5.0 rating",
+    "23 reviews",
+    "snapshot ready",
+    "Car Dealership"
+  ],
+  "overlayServices": [
+    "Transparent Payment Procedure"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Doctor%20Greece&query_place_id=ChIJjb16SAC9oRQR4q6ylpXHA24",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:33.040Z",
+      "excerpt": "Doctor Greece"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.doctorgreece.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:33.040Z",
+      "excerpt": "Find Doctors in Athens and Piraeus 24/7. Multilingual Staff"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.doctorgreece.gr/about-us",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.040Z",
+      "excerpt": "About Us - Doctor Greece"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.doctorgreece.gr/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.040Z",
+      "excerpt": "CONTACT - Doctor Greece"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.doctorgreece.gr/ambulance-service",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.040Z",
+      "excerpt": "Ambulance - Doctor Greece"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.doctorgreece.gr/surgeon",
+      "label": "Team page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.040Z",
+      "excerpt": "Find the best Surgeon near you - Doctor Greece"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "slug": "simis-dental-care-dr-christos-simis-dmd-ms",
+  "businessName": "SIMIS DENTAL CARE",
+  "category": "Dental clinic",
+  "template": {
+    "slug": "cardealership",
+    "title": "Car Dealership",
+    "description": "Dark dealership landing page built around inventory trust, pricing, and premium vehicle presentation.",
+    "audienceLabel": "Inventory-heavy offers that need premium visual framing",
+    "bestFor": "Dealers, brokers, and other catalogue-led businesses",
+    "recommendedFor": [
+      "Inventory trust",
+      "Premium visuals",
+      "Finance-ready CTAs"
+    ],
+    "featured": false,
+    "accentColor": "#060644",
+    "sourceUrl": "https://cardealership.virtualpros.com/",
+    "pageHref": "/industries/cardealership/mirror",
+    "mirrorHref": "/industries/cardealership/mirror",
+    "heroHeading": "Premium quality, vetted vehicles, half the price.",
+    "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Inventory",
+      "New Cars",
+      "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+      "Used Cars",
+      "Recent News",
+      "Our Commitment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "'Lato'",
+      "Exo",
+      "Exo 2"
+    ],
+    "paletteTheme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    },
+    "templateSummary": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry."
+  },
+  "summary": "SIMIS DENTAL CARE Dental clinic in Αμπελόκηποι with services such as Χειρουργικές εξαγωγές, Θεραπεία περιοδοντίτιδας, Χειρουργικές αφαιρέσεις φρονιμιτών",
+  "heroHeading": "SIMIS DENTAL CARE matched to the Car Dealership core demo",
+  "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+  "websiteUrl": "https://www.simisdentalcare.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Simis%20Dental%20Care%20-%20(Dr.%20Christos%20Simis%2C%20DMD%2C%20MS)&query_place_id=ChIJxUBptA-joRQRcxQR1-bXR6s",
+  "address": "Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα. Που θα μας βρείτε Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 2106456105 ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Το Οδοντιατρείο Περιστατικά Επικοινωνία © Simis Dental Clinic 2025 | all rights reserved website by Domi",
+  "rating": 5,
+  "reviewsCount": 1450,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 6456 105",
+      "href": "tel:2106456105"
+    },
+    {
+      "label": "Email",
+      "value": "info@simisdentalcare.gr",
+      "href": "mailto:info@simisdentalcare.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Σχεδιάστε το τέλειο χαμόγελο - Κλείστε τώρα το ραντεβού σας και αφήστε μας να φροντίσουμε τα υπόλοιπα. Που θα μας βρείτε Σολιώτη 55, Αμπελόκηποι, Αθήνα 11522 info@simisdentalcare.gr 2106456105 ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Facebook-f Icon-instagram-1 Icon-linkedin Tiktok Youtube Αρχική Ο ιδρυτής Η ομάδα Εμφυτεύματα Υπηρεσίες Το Οδοντιατρείο Περιστατικά Επικοινωνία © Simis Dental Clinic 2025 | all rights reserved website by Domi"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1"
+    }
+  ],
+  "services": [
+    "Χειρουργικές εξαγωγές",
+    "Θεραπεία περιοδοντίτιδας",
+    "Χειρουργικές αφαιρέσεις φρονιμιτών",
+    "© Simis Dental Clinic 2025 | all rights reserved website by Domi"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Εξειδικευμένη θεραπεία:Με βάση τη διάγνωση, θα αναπτυχθεί ένα εξειδικευμένο σχέδιο θεραπείας που θα προσαρμόζεται στις ατομικές σας ανάγκες.",
+    "Γεώργιος Εμμανουηλίδης Ο Γεώργιος Εμμανουηλίδης είναι ειδικός ορθοδοντικός και ασχολείται αποκλειστικά με την άσκηση της ορθοδοντικής ειδικότητας σε παιδιά και ενήλικες.",
+    "Το 2022 βραβεύτηκε με την υποτροφία της ITI(International Team for Implantology) για να συνεχίσει τις σπουδές του στα οδοντικάεμφυτεύματα και την εφαρμογή των ψηφιακών τεχνολογιών στο τμήμα Προσθετικής, τηςΟδοντιατρικής",
+    "Dr. Παναγιώτης Ντόβας",
+    "Dr. Γεώργιος Εμμανουηλίδης",
+    "Dr. Μεκιάμης Αλέξανδρος"
+  ],
+  "people": [
+    "Dr. Παναγιώτης Ντόβας",
+    "Dr. Γεώργιος Εμμανουηλίδης",
+    "Dr. Μεκιάμης Αλέξανδρος"
+  ],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Dental clinic",
+    "5.0 rating",
+    "1450 reviews",
+    "snapshot ready",
+    "Car Dealership"
+  ],
+  "overlayServices": [
+    "Χειρουργικές εξαγωγές",
+    "Θεραπεία περιοδοντίτιδας",
+    "Χειρουργικές αφαιρέσεις φρονιμιτών"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Simis%20Dental%20Care%20-%20(Dr.%20Christos%20Simis%2C%20DMD%2C%20MS)&query_place_id=ChIJxUBptA-joRQRcxQR1-bXR6s",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:33:52.627Z",
+      "excerpt": "Simis Dental Care - (Dr. Christos Simis, DMD, MS)"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.simisdentalcare.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:33:52.627Z",
+      "excerpt": "Simis Dental Care - Εξειδικευμένος Οδοντίατρος στην Αθήνα"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.simisdentalcare.gr/%ce%b7-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:33:52.627Z",
+      "excerpt": "Η Ομάδα του Simis Dental Care | Εξειδικευμένοι Οδοντίατροι"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.simisdentalcare.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:33:52.627Z",
+      "excerpt": "Επικοινωνία | Simis Dental Care | Οδοντιατρείο Αθήνα"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.simisdentalcare.gr/%ce%b5%ce%bc%cf%86%cf%85%cf%84%ce%b5%cf%8d%ce%bc%ce%b1%cf%84%ce%b1",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:33:52.627Z",
+      "excerpt": "Εμφυτεύματα Δοντιών – 1.200 Κριτικές 5 Αστέρων - Simis Dental Care"
+    }
+  ]
+}

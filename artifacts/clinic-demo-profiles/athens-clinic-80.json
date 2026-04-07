@@ -1,0 +1,156 @@
+{
+  "slug": "athens-clinic-80",
+  "businessName": "Μονάδα Υποβοηθούμενης Αναπαραγωγής - Ευγονία",
+  "category": "Diagnostic center",
+  "template": {
+    "slug": "medspa",
+    "title": "Medspa",
+    "description": "Beauty and treatment template with soft luxury cues, consultation CTAs, and treatment storytelling.",
+    "audienceLabel": "Consultation-driven treatment brands with a premium positioning angle",
+    "bestFor": "Med spas, fertility, aesthetics, dermatology, and plastic surgery clinics",
+    "recommendedFor": [
+      "Premium treatment framing",
+      "Consultation CTA",
+      "Soft-luxury treatment story"
+    ],
+    "featured": true,
+    "accentColor": "#EC606A",
+    "sourceUrl": "https://medspa.virtualpros.com/",
+    "pageHref": "/industries/medspa/mirror",
+    "mirrorHref": "/industries/medspa/mirror",
+    "heroHeading": "LOCATION & CONTACT",
+    "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+    "heroPrimaryCta": "Contacts",
+    "sectionHighlights": [],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Oswald",
+      "Roboto",
+      "'Lato'"
+    ],
+    "paletteTheme": {
+      "primary": "#EC606A",
+      "secondary": "#E93D3D",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#E93D3D"
+    },
+    "templateSummary": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin."
+  },
+  "summary": "Μονάδα Υποβοηθούμενης Αναπαραγωγής - Ευγονία Diagnostic center with services such as Θεραπεία του Συνδρόμου Υπερδιέγερσης των Ωοθηκών (ΣΥΩ), Χειρουργική λήψη σπέρματος (TESE)",
+  "heroHeading": "Μονάδα Υποβοηθούμενης Αναπαραγωγής - Ευγονία matched to the Medspa core demo",
+  "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+  "websiteUrl": "https://www.eugonia.com.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%CE%95%CF%85%CE%B3%CE%BF%CE%BD%CE%AF%CE%B1%20-%20%CE%9C%CE%BF%CE%BD%CE%AC%CE%B4%CE%B1%20%CE%95%CE%BE%CF%89%CF%83%CF%89%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE%CF%82%20%CE%93%CE%BF%CE%BD%CE%B9%CE%BC%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7%CF%82&query_place_id=ChIJFyT3KkW9oRQRLzUduym3DJw",
+  "address": "© Copyright 2026 «Ευγονία» - Μονάδα Εξωσωματικής Γονιμοποίησης στην Αθήνα Ανάπτυξη εφαρμογής NetValue. Με την επιφύλαξη παντός δικαιώματος.",
+  "rating": 4.8,
+  "reviewsCount": 642,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "1528464819675",
+      "href": "tel:1528464819675"
+    },
+    {
+      "label": "Email",
+      "value": "info@eugonia.com.gr",
+      "href": "mailto:info@eugonia.com.gr"
+    },
+    {
+      "label": "Address",
+      "value": "© Copyright 2026 «Ευγονία» - Μονάδα Εξωσωματικής Γονιμοποίησης στην Αθήνα Ανάπτυξη εφαρμογής NetValue. Με την επιφύλαξη παντός δικαιώματος."
+    }
+  ],
+  "services": [
+    "Θεραπεία του Συνδρόμου Υπερδιέγερσης των Ωοθηκών (ΣΥΩ)",
+    "Χειρουργική λήψη σπέρματος (TESE)"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Λαϊνάς MD, PhD, Διευθυντής της Ευγονίας, είναι από τους πρωτοπόρους της Εξωσωματικής Γονιμοποίησης στην Ελλάδα, με πλούσιο ερευνητικό έργο δημοσιευμένο σε έγκριτα διεθνή επιστημονικά περιοδικά, πολυετή εμπειρία, μεγαλύτε",
+    "Στο παρελθόν, υπήρξε ιδρυτής ή υπεύθυνος Μονάδων Ενδοσκοπικής Χειρουργικής (ΙΑΣΩ), Υποβοηθούμενης Αναπαραγωγής.",
+    "Ειδικεύτηκε και εργάσθηκε στο Μαιευτήριο “ Έλενα Βενιζέλου”, ως επιμελητής επί 8 έτη, με ενεργό συμμετοχή στο επιστημονικό και εκπαιδευτικό έργο της κλινικής, ενώ διετέλεσε στέλεχος του τμήματος ενδοσκοπήσεων και μικροχε",
+    "Ειδικεύθηκε στη Μαιευτική-Γυναικολογία στο Λονδίνο ( 2010-2016 ), με εξειδίκευση στην υποβοηθούμενη αναπαραγωγή, την ενδοκρινολογία της αναπαραγωγής και τη λαπαροσκοπική χειρουργική στα σημαντικότερα νοσοκομεία της Αγγλί",
+    "Γεώργιος Λαϊνάς είναι Μαιευτήρας Χειρουργός Γυναικολόγος, εξειδικευμένος στην εξωσωματική γονιμοποίηση.",
+    "Είναι Διδάκτωρ (PhD) της Ιατρικής Σχολής του Αριστοτέλειου Πανεπιστημίου Θεσσαλονίκης.",
+    "Από τον Ιούλιο του 2019, κατέχει τη θέση του επικεφαλής (Coordinator) της Ομάδας Ειδικού Ενδιαφέροντος “Αναπαραγωγική Ενδοκρινολογία” της Ευρωπαϊκής Εταιρείας Ανθρώπινης Αναπαραγωγής και Εμβρυολογίας (SIG-RE της ESHRE).",
+    "Άλλες πληροφορίες Σπερμοληψία Λήψη και επεξεργασία σπέρματος Τι είναι αζωοσπερμία Χειρουργική λήψη σπέρματος Κλασσική γονιμοποίηση (IVF) Μικρογονιμοποίηση (ICSI) Τι είναι και πότε ενδείκνυται;"
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Neighborhood / Athens area: No neighborhood or clear Athens area signal could be detected confidently.",
+    "Phone number(s): No reliable phone number was extracted.",
+    "Contact page URL: No explicit contact page was identified.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Diagnostic center",
+    "4.8 rating",
+    "642 reviews",
+    "snapshot ready",
+    "Medspa"
+  ],
+  "overlayServices": [
+    "Θεραπεία του Συνδρόμου Υπερδιέγερσης των Ωοθηκών (ΣΥΩ)",
+    "Χειρουργική λήψη σπέρματος (TESE)"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=%CE%95%CF%85%CE%B3%CE%BF%CE%BD%CE%AF%CE%B1%20-%20%CE%9C%CE%BF%CE%BD%CE%AC%CE%B4%CE%B1%20%CE%95%CE%BE%CF%89%CF%83%CF%89%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE%CF%82%20%CE%93%CE%BF%CE%BD%CE%B9%CE%BC%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7%CF%82&query_place_id=ChIJFyT3KkW9oRQRLzUduym3DJw",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:29.828Z",
+      "excerpt": "Ευγονία - Μονάδα Εξωσωματικής Γονιμοποίησης"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.eugonia.com.gr/el",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:29.828Z",
+      "excerpt": "Μονάδα Υποβοηθούμενης Αναπαραγωγής - Ευγονία"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.eugonia.com.gr/el/about/sxetika-me-emas",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.828Z",
+      "excerpt": "Σχετικά με εμάς - Ευγονία"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.eugonia.com.gr/el/services",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.828Z",
+      "excerpt": "Υπηρεσίες αντιμετώπισης της υπογονιμότητας - Ευγονία"
+    }
+  ]
+}

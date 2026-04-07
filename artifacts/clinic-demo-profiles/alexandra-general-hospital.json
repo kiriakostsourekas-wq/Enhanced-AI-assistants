@@ -1,0 +1,158 @@
+{
+  "slug": "alexandra-general-hospital",
+  "businessName": "Γενικό Νοσοκομείο Αλεξάνδρα",
+  "category": "General hospital",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Γενικό Νοσοκομείο Αλεξάνδρα General hospital with services such as Θεραπευτική Κλινική Ιατρικής Σχολής ΕΚΠΑ, Ακτινοθεραπευτικό, Χειρουργικός Τομέας",
+  "heroHeading": "Γενικό Νοσοκομείο Αλεξάνδρα matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "http://www.hosp-alexandra.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alexandra%20General%20Hospital&query_place_id=ChIJg2HuO1G9oRQROKl4dXh8QN8",
+  "address": "ΕΠΙΚΟΙΝΩΝΙΑ Διεύθυνση: Λεωφ. Βασιλίσσης Σοφίας 80, Τ.Κ 115 28, ΑΘΗΝΑ Τηλεφωνικό Κέντρο: 213-2162000, 210-3381100 Τηλέφωνα επικοινωνίας για ραντεβού: 1566, 213-2162572, 213-2162588 Fax: 213-216-2898 Email: hospital@hosp-alexandra.gr ΧΑΡΤΗΣ ΠΡΟΣΒΑΣΗΣ",
+  "rating": 3.3,
+  "reviewsCount": 724,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "213-2162000",
+      "href": "tel:2132162000"
+    },
+    {
+      "label": "Email",
+      "value": "hospital@hosp-alexandra.gr",
+      "href": "mailto:hospital@hosp-alexandra.gr"
+    },
+    {
+      "label": "Address",
+      "value": "ΕΠΙΚΟΙΝΩΝΙΑ Διεύθυνση: Λεωφ. Βασιλίσσης Σοφίας 80, Τ.Κ 115 28, ΑΘΗΝΑ Τηλεφωνικό Κέντρο: 213-2162000, 210-3381100 Τηλέφωνα επικοινωνίας για ραντεβού: 1566, 213-2162572, 213-2162588 Fax: 213-216-2898 Email: hospital@hosp-alexandra.gr ΧΑΡΤΗΣ ΠΡΟΣΒΑΣΗΣ"
+    }
+  ],
+  "services": [
+    "Θεραπευτική Κλινική Ιατρικής Σχολής ΕΚΠΑ",
+    "Ακτινοθεραπευτικό",
+    "Χειρουργικός Τομέας",
+    "Μονάδα χειρουργικής λαπαροσκόπησης Μ/Γ ΕΣΥ",
+    "Μονάδα χειρουργικής υστεροσκόπησης Μ/Γ ΕΣΥ",
+    "Χειρουργεία",
+    "Βραχυθεραπείες Ακτινοθεραπευτικού",
+    "Μονάδα Εντατικής Θεραπείας «Σπ. Μουλόπουλος»"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Γενικό Νοσοκομείο Αλεξάνδρα"
+  ],
+  "people": [
+    "Γενικό Νοσοκομείο Αλεξάνδρα"
+  ],
+  "unresolvedItems": [
+    "Neighborhood / Athens area: No neighborhood or clear Athens area signal could be detected confidently.",
+    "Contact page URL: No explicit contact page was identified.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "General hospital",
+    "3.3 rating",
+    "724 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Θεραπευτική Κλινική Ιατρικής Σχολής ΕΚΠΑ",
+    "Ακτινοθεραπευτικό",
+    "Χειρουργικός Τομέας"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Alexandra%20General%20Hospital&query_place_id=ChIJg2HuO1G9oRQROKl4dXh8QN8",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:29.627Z",
+      "excerpt": "Alexandra General Hospital"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://hosp-alexandra.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:29.627Z",
+      "excerpt": "Γενικό Νοσοκομείο Αλεξάνδρα"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://hosp-alexandra.gr/to-nosokomeio/iatriki-ypiresia",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.627Z",
+      "excerpt": "Ιατρική Υπηρεσία – Γενικό Νοσοκομείο Αλεξάνδρα"
+    }
+  ]
+}

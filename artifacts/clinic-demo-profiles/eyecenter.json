@@ -1,0 +1,167 @@
+{
+  "slug": "eyecenter",
+  "businessName": "ΟΦΘΑΛΜΟΛΟΓΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝΜονάδα Ημερήσιας Νοσηλείας",
+  "category": "Ophthalmologist",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "ΟΦΘΑΛΜΟΛΟΓΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝΜονάδα Ημερήσιας Νοσηλείας Ophthalmologist in Αμπελόκηποι with services such as Laser ματιών, Θεραπείες, YAG Laser καψουλοτομή",
+  "heroHeading": "ΟΦΘΑΛΜΟΛΟΓΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝΜονάδα Ημερήσιας Νοσηλείας matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://eyecenter.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%CE%9F%CF%86%CE%B8%CE%B1%CE%BB%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%AD%CE%BD%CF%84%CF%81%CE%BF%20%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD%20%7C%20Eyecenter&query_place_id=ChIJ1ZaddFC9oRQRHq70pfCAaRA",
+  "address": "Προσωπικός λογαριασμόςΜπείτε στον προσωπικό σας λογαριασμό χρησιμοποιώντας τον προσωπικό σας κωδικό & password. ΕίσοδοςΠεριηγησηΤο Κέντρο μαςΤμήματαΠαθήσειςΔιαγνωστικές εξετάσειςΘεραπείεςΧειρουργικές ΕπεμβάσειςΕπικοινωνήστε μαζί μαςΟΦΘΑΛΜΟΛΟΓΙΚΟ ΑΘΗΝΩΝΒασ Σοφίας 114Α, 115 27 Αθήνα T: 2107247103 E: [email protected]Ακολουθήστε μας Facebook Instagram Linkedin Βρείτε μας στους Χάρτες της Google Επικοινωνήστε μαζί μας & προγραμματίστε την επίσκεψή σας!Ώρες λειτουργίας: 9:00 π.μ. έως 8:00 μ.μ. ΠΡΟΣΒΑΣΙΜΟΤΗΤΑ ΓΙΑ ΟΛΟΥΣ © 2026 ΟΦΘΑΛΜΟΛΟΓΙΚΟ ΑΘΗΝΩΝ / ATHENS OPHTHALMIC DAY CLINICΌροι Χρήσης – Πολιτική ΑπορρήτουΔιαχείριση Προσωπικών Δεδομένων GDPRΠολιτική cookiesPowered by Stonewave",
+  "rating": 4.6,
+  "reviewsCount": 263,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 72 47 103",
+      "href": "tel:2107247103"
+    },
+    {
+      "label": "Email",
+      "value": "info@eyecenter.gr",
+      "href": "mailto:info@eyecenter.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Προσωπικός λογαριασμόςΜπείτε στον προσωπικό σας λογαριασμό χρησιμοποιώντας τον προσωπικό σας κωδικό & password. ΕίσοδοςΠεριηγησηΤο Κέντρο μαςΤμήματαΠαθήσειςΔιαγνωστικές εξετάσειςΘεραπείεςΧειρουργικές ΕπεμβάσειςΕπικοινωνήστε μαζί μαςΟΦΘΑΛΜΟΛΟΓΙΚΟ ΑΘΗΝΩΝΒασ Σοφίας 114Α, 115 27 Αθήνα T: 2107247103 E: [email protected]Ακολουθήστε μας Facebook Instagram Linkedin Βρείτε μας στους Χάρτες της Google Επικοινωνήστε μαζί μας & προγραμματίστε την επίσκεψή σας!Ώρες λειτουργίας: 9:00 π.μ. έως 8:00 μ.μ. ΠΡΟΣΒΑΣΙΜΟΤΗΤΑ ΓΙΑ ΟΛΟΥΣ © 2026 ΟΦΘΑΛΜΟΛΟΓΙΚΟ ΑΘΗΝΩΝ / ATHENS OPHTHALMIC DAY CLINICΌροι Χρήσης – Πολιτική ΑπορρήτουΔιαχείριση Προσωπικών Δεδομένων GDPRΠολιτική cookiesPowered by Stonewave"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://eyecenter.gr/contact"
+    }
+  ],
+  "services": [
+    "Laser ματιών",
+    "Θεραπείες",
+    "YAG Laser καψουλοτομή",
+    "Αrgon Laser",
+    "Laser Trabeculoplasty",
+    "Φωτοδυναμική Θεραπεία",
+    "Χειρουργικές Επεμβάσεις",
+    "Excimer Laser για να διορθώσετεμυωπία - υπερμετρωπία - αστιγματισμό"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Είμαι το τέταρτο μέλος της οικογένειας και δεν είναι τυχαίο που επέλεξα να κάνω και εγώ το laser στο ΟΦΘΑΛΜΟΛΟΓΙΚΟ ΑΘΗΝΩΝ."
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Ophthalmologist",
+    "4.6 rating",
+    "263 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Laser ματιών",
+    "Θεραπείες",
+    "YAG Laser καψουλοτομή"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=%CE%9F%CF%86%CE%B8%CE%B1%CE%BB%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%AD%CE%BD%CF%84%CF%81%CE%BF%20%CE%91%CE%B8%CE%B7%CE%BD%CF%8E%CE%BD%20%7C%20Eyecenter&query_place_id=ChIJ1ZaddFC9oRQRHq70pfCAaRA",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:31.146Z",
+      "excerpt": "Οφθαλμολογικό Κέντρο Αθηνών | Eyecenter"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://eyecenter.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:31.146Z",
+      "excerpt": "ΟΦΘΑΛΜΟΛΟΓΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ | Οφθαλμολογική Κλινική - Eyecenter"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://eyecenter.gr/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.146Z",
+      "excerpt": "Επικοινωνία - Οφθαλμολογικό Αθηνών | Eyecenter"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://eyecenter.gr/testimonial",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.146Z",
+      "excerpt": "Testimonial Posts Archive - Eyecenter"
+    }
+  ]
+}

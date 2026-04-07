@@ -1,0 +1,150 @@
+{
+  "slug": "ivf-expert-drakopoulos-reproductive-medicine",
+  "businessName": "Prof. Dr. Παναγιώτης Δρακόπουλος",
+  "category": "Obstetrician-gynecologist",
+  "template": {
+    "slug": "medspa",
+    "title": "Medspa",
+    "description": "Beauty and treatment template with soft luxury cues, consultation CTAs, and treatment storytelling.",
+    "audienceLabel": "Consultation-driven treatment brands with a premium positioning angle",
+    "bestFor": "Med spas, fertility, aesthetics, dermatology, and plastic surgery clinics",
+    "recommendedFor": [
+      "Premium treatment framing",
+      "Consultation CTA",
+      "Soft-luxury treatment story"
+    ],
+    "featured": true,
+    "accentColor": "#EC606A",
+    "sourceUrl": "https://medspa.virtualpros.com/",
+    "pageHref": "/industries/medspa/mirror",
+    "mirrorHref": "/industries/medspa/mirror",
+    "heroHeading": "LOCATION & CONTACT",
+    "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+    "heroPrimaryCta": "Contacts",
+    "sectionHighlights": [],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Oswald",
+      "Roboto",
+      "'Lato'"
+    ],
+    "paletteTheme": {
+      "primary": "#EC606A",
+      "secondary": "#E93D3D",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#E93D3D"
+    },
+    "templateSummary": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin."
+  },
+  "summary": "Prof. Dr. Παναγιώτης Δρακόπουλος Obstetrician-gynecologist in Κολωνάκι with services such as H πρόληψη είναι πάντα προτιμότερη από τη θεραπεία., Ιωάννης Α. Μπούσιος – Χειρουργός Μαιευτήρας Γυναικολόγος",
+  "heroHeading": "Prof. Dr. Παναγιώτης Δρακόπουλος matched to the Medspa core demo",
+  "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+  "websiteUrl": "https://drakopoulos-ivf.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%CE%A0%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%CF%8E%CF%84%CE%B7%CF%82%20%CE%94%CF%81%CE%B1%CE%BA%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82%20IVF%20expert%20%7C%20Drakopoulos%20Reproductive%20Medicine&query_place_id=ChIJ_zosDKS9oRQRM2zIMyU69jc",
+  "address": "Alopekis 47, Athina 106 76, Greece",
+  "rating": 4.9,
+  "reviewsCount": 157,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+302102602748",
+      "href": "tel:+302102602748"
+    },
+    {
+      "label": "Email",
+      "value": "info@drakopoulos-ivf.gr",
+      "href": "mailto:info@drakopoulos-ivf.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Alopekis 47, Athina 106 76, Greece"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://drakopoulos-ivf.gr/contact"
+    },
+    {
+      "label": "Booking page",
+      "value": "Open booking page",
+      "href": "https://drakopoulos-ivf.gr/book-chapters"
+    }
+  ],
+  "services": [
+    "H πρόληψη είναι πάντα προτιμότερη από τη θεραπεία.",
+    "Ιωάννης Α. Μπούσιος – Χειρουργός Μαιευτήρας Γυναικολόγος"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Παναγιώτης Δρακόπουλος Awards – Prof."
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Obstetrician-gynecologist",
+    "4.9 rating",
+    "157 reviews",
+    "snapshot ready",
+    "Medspa"
+  ],
+  "overlayServices": [
+    "H πρόληψη είναι πάντα προτιμότερη από τη θεραπεία.",
+    "Ιωάννης Α. Μπούσιος – Χειρουργός Μαιευτήρας Γυναικολόγος"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=%CE%A0%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%CF%8E%CF%84%CE%B7%CF%82%20%CE%94%CF%81%CE%B1%CE%BA%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82%20IVF%20expert%20%7C%20Drakopoulos%20Reproductive%20Medicine&query_place_id=ChIJ_zosDKS9oRQRM2zIMyU69jc",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:31.475Z",
+      "excerpt": "Παναγιώτης Δρακόπουλος IVF expert | Drakopoulos Reproductive Medicine"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://drakopoulos-ivf.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:31.475Z",
+      "excerpt": "Drakopoulos IVF – Κλινική Γονιμότητας στην Αθήνα"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://drakopoulos-ivf.gr/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.475Z",
+      "excerpt": "ΕΠΙΚΟΙΝΩΝΙΑ - IVF in Athens - Kolonaki | In Vitro Fertilization"
+    }
+  ]
+}

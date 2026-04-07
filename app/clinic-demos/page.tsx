@@ -3,7 +3,11 @@ import Link from "next/link";
 import { Reveal } from "@/components/ui/reveal";
 import { PageHero } from "@/components/ui/page-hero";
 import { SectionIntro } from "@/components/ui/section-intro";
-import { hasLocalClinicLeadDataset, listClinicLeadSummaries } from "@/lib/demo-library/clinic-demo-profiles";
+import {
+  hasLocalClinicLeadDataset,
+  listClinicLeadSummaries,
+  listSavedClinicDemoProfileSlugs,
+} from "@/lib/demo-library/clinic-demo-profiles";
 import { getTemplateCatalog } from "@/lib/demo-library/template-catalog";
 
 export const metadata: Metadata = {
@@ -14,9 +18,15 @@ export const metadata: Metadata = {
 export const dynamic = "force-dynamic";
 
 export default async function ClinicDemosPage() {
-  const [hasDataset, leads, templates] = await Promise.all([hasLocalClinicLeadDataset(), listClinicLeadSummaries(), getTemplateCatalog()]);
-  const websiteBackedCount = leads.filter((lead) => lead.websiteUrl).length;
-  const snapshotReadyCount = leads.filter((lead) => lead.snapshotStatus === "success").length;
+  const [hasDataset, leads, templates, savedProfileSlugs] = await Promise.all([
+    hasLocalClinicLeadDataset(),
+    listClinicLeadSummaries(),
+    getTemplateCatalog(),
+    listSavedClinicDemoProfileSlugs(),
+  ]);
+  const visibleLeads = leads.filter((lead) => savedProfileSlugs.has(lead.slug));
+  const websiteBackedCount = visibleLeads.filter((lead) => lead.websiteUrl).length;
+  const snapshotReadyCount = visibleLeads.filter((lead) => lead.snapshotStatus === "success").length;
   const templateTitleBySlug = new Map(templates.map((template) => [template.slug, template.title]));
 
   return (
@@ -25,9 +35,9 @@ export default async function ClinicDemosPage() {
         description="This view stays on top of your local Athens clinic leads, existing snapshot setup, and a lighter extraction path. It skips the antigravity review queue and only keeps the facts needed to pair a clinic with a core website demo and integrated chat layer."
         eyebrow="Local clinic demos"
         highlights={[
-          `${leads.length} local leads available`,
+          `${visibleLeads.length} clinic demos currently published`,
           `${websiteBackedCount} leads with usable websites`,
-          `${snapshotReadyCount} leads already backed by snapshot data`,
+          `${snapshotReadyCount} demos generated from existing snapshot data`,
         ]}
         panelLabel="What this uses"
         primaryAction={{ label: "Browse Core Templates", href: "/industries" }}
@@ -44,6 +54,18 @@ export default async function ClinicDemosPage() {
                 Add <code>clinics/athens_clinics_leads.csv</code> locally and this page will start surfacing your
                 existing lead list immediately. The page is safe to keep in the repo because it falls back cleanly when
                 the local CSV is missing.
+              </p>
+            </article>
+          </div>
+        </section>
+      ) : visibleLeads.length === 0 ? (
+        <section className="section">
+          <div className="container">
+            <article className="card">
+              <h2>No published clinic demos are available yet.</h2>
+              <p>
+                Build compact profiles into <code>artifacts/clinic-demo-profiles</code> and this page will only expose
+                those kept demos. Raw scraped snapshots are not required for the public view.
               </p>
             </article>
           </div>
@@ -65,7 +87,7 @@ export default async function ClinicDemosPage() {
           <section className="section">
             <div className="container">
               <div className="demo-grid demo-grid-page">
-                {leads.map((lead, index) => (
+                {visibleLeads.map((lead, index) => (
                   <Reveal className="demo-card card" delay={index * 0.03} key={lead.slug}>
                     <div className="demo-card-top">
                       <div>
@@ -100,7 +122,7 @@ export default async function ClinicDemosPage() {
                     </div>
 
                     <div className="section-actions left-aligned">
-                      <Link className="button button-primary demo-card-cta" href={`/clinic-demos/${lead.slug}`}>
+                      <Link className="button button-primary demo-card-cta" href={`/industries/${lead.templateSlug}/mirror?lead=${encodeURIComponent(lead.slug)}`}>
                         Open merged demo
                       </Link>
                       {lead.websiteUrl ? (

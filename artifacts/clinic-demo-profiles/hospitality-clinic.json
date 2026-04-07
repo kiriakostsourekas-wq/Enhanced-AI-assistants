@@ -1,0 +1,177 @@
+{
+  "slug": "hospitality-clinic",
+  "businessName": "Αρχική - HOSPITALity General Clinic",
+  "category": "Hospital",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Αρχική - HOSPITALity General Clinic Hospital in Athens with services such as Unit of Surgical Treatment of Anal Disorders, Outpatient clinics, Clinic for vertigo and hearing disorders",
+  "heroHeading": "Αρχική - HOSPITALity General Clinic matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.hospitalityclinic.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=HOSPITALity%20Clinic&query_place_id=ChIJO3FV_Z2joRQRYWvQ9nLBJ7w",
+  "address": "Στοιχεία επικοινωνίας Διεύθυνση: Λεμεσού 39-41 (κάθετος Αχαρνών 209), Τ.Κ. 104 46, Αθήνα Τηλ.: 210 866 3064 Email: info@hospitalityclinic.gr Βρείτε μας στον Χάρτη Επικοινωνήστε μαζί μας Αποστολή φόρμας First Name",
+  "rating": 4.7,
+  "reviewsCount": 310,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 8663064",
+      "href": "tel:2108663064"
+    },
+    {
+      "label": "Email",
+      "value": "info@hospitalityclinic.gr",
+      "href": "mailto:info@hospitalityclinic.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Στοιχεία επικοινωνίας Διεύθυνση: Λεμεσού 39-41 (κάθετος Αχαρνών 209), Τ.Κ. 104 46, Αθήνα Τηλ.: 210 866 3064 Email: info@hospitalityclinic.gr Βρείτε μας στον Χάρτη Επικοινωνήστε μαζί μας Αποστολή φόρμας First Name"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.hospitalityclinic.gr/epikoinonia"
+    }
+  ],
+  "services": [
+    "Unit of Surgical Treatment of Anal Disorders",
+    "Outpatient clinics",
+    "Clinic for vertigo and hearing disorders",
+    "Price lists of Outpatient Clinics and Examinations",
+    "Χειρουργικά Τμήματα",
+    "Γενική Χειρουργική",
+    "Πλαστική και Επανορθωτική Χειρουργική",
+    "Γενικής Χειρουργικής"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Useful Links"
+  ],
+  "people": [
+    "Useful Links"
+  ],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Hospital",
+    "4.7 rating",
+    "310 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Unit of Surgical Treatment of Anal Disorders",
+    "Outpatient clinics",
+    "Clinic for vertigo and hearing disorders"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=HOSPITALity%20Clinic&query_place_id=ChIJO3FV_Z2joRQRYWvQ9nLBJ7w",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:30.799Z",
+      "excerpt": "HOSPITALity Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.hospitalityclinic.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:30.799Z",
+      "excerpt": "Αρχική - HOSPITALity General Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.hospitalityclinic.gr/en/the-clinic/about-us",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.799Z",
+      "excerpt": "About us - HOSPITALity General Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.hospitalityclinic.gr/epikoinonia",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.799Z",
+      "excerpt": "Επικοινωνία - HOSPITALity General Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.hospitalityclinic.gr/en/the-services/specialized-units/unit-of-surgical-treatment-of-anal-disorders",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.799Z",
+      "excerpt": "Unit of Surgical Treatment of Anal Disorders - HOSPITALity General Clinic"
+    }
+  ]
+}

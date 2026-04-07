@@ -1,0 +1,154 @@
+{
+  "slug": "hospital-athens",
+  "businessName": "Αρχική - Θεραπευτήριο Αθηνών",
+  "category": "Private hospital",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Αρχική - Θεραπευτήριο Αθηνών Private hospital in Κυψέλη with services such as Θεραπευτήριο Αθηνών, Μονάδα Εντατικής Θεραπείας & Αυξημένης Φροντίδας",
+  "heroHeading": "Αρχική - Θεραπευτήριο Αθηνών matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.athenshospital.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=hospital%20Athens&query_place_id=ChIJz-Hw-8uioRQR75_Mk5viY2A",
+  "address": "Στοιχεία Επικοινωνίας Διεύθυνση: Ι. Δροσοπούλου 24, Τ.Κ. 11257, Κυψέλη Τηλ.: 210 8236723 Email: info@athenshospital.gr Βρείτε μας στον Χάρτη Επικοινωνήστε μαζί μας Αποστολή Φόρμας Email Όλα τα πεδία είναι υποχρεωτικά",
+  "rating": 4.1,
+  "reviewsCount": 377,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 8236723",
+      "href": "tel:2108236723"
+    },
+    {
+      "label": "Email",
+      "value": "info@athenshospital.gr",
+      "href": "mailto:info@athenshospital.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Στοιχεία Επικοινωνίας Διεύθυνση: Ι. Δροσοπούλου 24, Τ.Κ. 11257, Κυψέλη Τηλ.: 210 8236723 Email: info@athenshospital.gr Βρείτε μας στον Χάρτη Επικοινωνήστε μαζί μας Αποστολή Φόρμας Email Όλα τα πεδία είναι υποχρεωτικά"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.athenshospital.gr/epikoinonia"
+    }
+  ],
+  "services": [
+    "Θεραπευτήριο Αθηνών",
+    "Μονάδα Εντατικής Θεραπείας & Αυξημένης Φροντίδας"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Member Of Χρήσιμα Links Ώρες Επικοινωνίας Parking Οδηγίες προς Ασθενείς - Συνοδούς Πρόγραμμα Επισκεπτηρίου Τιμοκατάλογοι Εξωτερικών Ιατρείων και Εξετάσεων Θέσεις Εργασίας Newsletter Πολιτική απορρήτου - προσωπικων δεδομε"
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Private hospital",
+    "4.1 rating",
+    "377 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Θεραπευτήριο Αθηνών",
+    "Μονάδα Εντατικής Θεραπείας & Αυξημένης Φροντίδας"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=hospital%20Athens&query_place_id=ChIJz-Hw-8uioRQR75_Mk5viY2A",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:30.561Z",
+      "excerpt": "hospital Athens"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athenshospital.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:30.561Z",
+      "excerpt": "Αρχική - Θεραπευτήριο Αθηνών"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athenshospital.gr/epikoinonia",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.561Z",
+      "excerpt": "Επικοινωνία - Θεραπευτήριο Αθηνών"
+    }
+  ]
+}

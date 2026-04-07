@@ -1,0 +1,180 @@
+{
+  "slug": "athens-medical-center",
+  "businessName": "Όμιλος Ιατρικού Αθηνών",
+  "category": "Private hospital",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Όμιλος Ιατρικού Αθηνών Private hospital in Κηφισιά with services such as ΡΟΜΠΟΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ",
+  "heroHeading": "Όμιλος Ιατρικού Αθηνών matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.iatriko.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Athens%20Medical%20Center&query_place_id=ChIJN7-AWtmYoRQRDO8JkRZw0sU",
+  "address": "function OnContactInfoListChange( selectControl ) { value = selectControl.options[selectControl.selectedIndex].value; values = value.split(\"|\"); for ( i = 0; i < values.length; i++ ) { contactSpan = document.getElementById( \"contactSpan\" + i ); contactSpan.innerHTML = values[i]; if ( i == 5 ) { contactLabel = document.getElementById( \"contactLabel\" + i ); if ( values[i].length == 0 ) contactLabel.style.visibility = \"hidden\"; else contactLabel.style.visibility = \"visible\"; } } } ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ ΙΑΤΡΙΚΟ ΔΙΑΒΑΛΚΑΝΙΚΟ ΘΕΣΣΑΛΟΝΙΚΗΣ ΠΑΙΔΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ ΙΑΤΡΙΚΟ Π. ΦΑΛΗΡΟΥ ΙΑΤΡΙΚΟ ΨΥΧΙΚΟΥ ΙΑΤΡΙΚΟ ΠΕΡΙΣΤΕΡΙΟΥ ΙΑΤΡΙΚΟ ΔΑΦΝΗΣ ΟΜΙΛΟΣ ΙΑΤΡΙΚΟΥ ΑΘΗΝΩΝ Ιατρικό Κέντρο Αθηνών Διστόμου 5-7, 15125, Μαρούσι Αθήνα Tηλ.: 210-6198100 έως 120 Fax.: 210-6198555 TΗΛΕΦΩΝΟ ΕΚΤΑΚΤΗΣ ΚΛΗΣΗΣ Για Αθήνα 1012 Για Θεσσαλονίκη 11155",
+  "rating": 2.9,
+  "reviewsCount": 1312,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 61 98 100",
+      "href": "tel:2106198100"
+    },
+    {
+      "label": "Email",
+      "value": "dpo@iatriko.gr",
+      "href": "mailto:dpo@iatriko.gr"
+    },
+    {
+      "label": "Address",
+      "value": "function OnContactInfoListChange( selectControl ) { value = selectControl.options[selectControl.selectedIndex].value; values = value.split(\"|\"); for ( i = 0; i < values.length; i++ ) { contactSpan = document.getElementById( \"contactSpan\" + i ); contactSpan.innerHTML = values[i]; if ( i == 5 ) { contactLabel = document.getElementById( \"contactLabel\" + i ); if ( values[i].length == 0 ) contactLabel.style.visibility = \"hidden\"; else contactLabel.style.visibility = \"visible\"; } } } ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ ΙΑΤΡΙΚΟ ΔΙΑΒΑΛΚΑΝΙΚΟ ΘΕΣΣΑΛΟΝΙΚΗΣ ΠΑΙΔΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ ΙΑΤΡΙΚΟ Π. ΦΑΛΗΡΟΥ ΙΑΤΡΙΚΟ ΨΥΧΙΚΟΥ ΙΑΤΡΙΚΟ ΠΕΡΙΣΤΕΡΙΟΥ ΙΑΤΡΙΚΟ ΔΑΦΝΗΣ ΟΜΙΛΟΣ ΙΑΤΡΙΚΟΥ ΑΘΗΝΩΝ Ιατρικό Κέντρο Αθηνών Διστόμου 5-7, 15125, Μαρούσι Αθήνα Tηλ.: 210-6198100 έως 120 Fax.: 210-6198555 TΗΛΕΦΩΝΟ ΕΚΤΑΚΤΗΣ ΚΛΗΣΗΣ Για Αθήνα 1012 Για Θεσσαλονίκη 11155"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.iatriko.gr/el/content/epikoinonia"
+    }
+  ],
+  "services": [
+    "ΡΟΜΠΟΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Συνεργάζεται με εξαιρετικά εξειδικευμένους ιατρούς και διαθέτει άρτια εκπαιδευμένο και έμπειρο νοσηλευτικό προσωπικό και επενδύει συνεχώς σε υπερσύγχρονο βιοιατρικό εξοπλισμό, τελευταίας τεχνολογίας.",
+    "Ο Όμιλος Ιατρικού Αθηνών διαθέτει 7 υπερσύγχρονα νοσοκομεία με συνολική δυναμική 1.200 νοσηλευτικών κλινών και συνεργάζεται με περισσότερους από 2.800, άρτια καταρτισμένους ιατρούς όλων των ειδικοτήτων, με διεθνή εμπειρί",
+    "Στις αρχές του 2024 εγκαινιάστηκε στο Ιατρικό Κέντρο Αθηνών, σε ειδικά διαμορφωμένο όροφο, νέα σύγχρονη ογκολογική μονάδα, με τον πλέον σύγχρονο εξοπλισμό, για την εξατομικευμένη διαχείριση ογκολογικών περιστατικών.",
+    "Σε επίπεδο δυναμικής, ο Όμιλος Ιατρικού Αθηνών αριθμεί ετησίως πάνω από 100.000 εισαγωγές ασθενών, 62.000 χειρουργικές επεμβάσεις, 27.000 συνεδρίες αιμοκάθαρσης, 20.000 προληπτικούς ελέγχους (check-up) και 700.000 εξωτερ",
+    "ΦΑΛΗΡΟΥ 2109892325 Αθανασόπουλος Κωνσταντίνος Ορθοπεδικός ΙΑΤΡΙΚΟ ΠΕΡΙΣΤΕΡΙΟΥ 2105799000 Αθανασόπουλος Παναγιώτης Γενικός Χειρουργός ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ 2106107165 Αθανασούλη Ασημίνα Νευρολόγος ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ 21",
+    "ΦΑΛΗΡΟΥ 2109892465 Βρακοπούλου Βρεττάκου Ζωή Γενικός Χειρουργός ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ 2106862047 Βυθούλκας Ιωάννης Καρδιολόγος ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΘΗΝΩΝ 2106198100 Βύνιου Νόρα- Αθηνά Αιματολόγος ΙΑΤΡΙΚΟ Π.",
+    "ΦΑΛΗΡΟΥ 2109892324 Γεωργίου Μιχαήλ Γενικός Χειρουργός ΙΑΤΡΙΚΟ Π.",
+    "Γυναικολόγος ΙΑΤΡΙΚΟ ΔΙΑΒΑΛΚΑΝΙΚΟ ΘΕΣΣΑΛΟΝΙΚΗΣ 2310400000 Γιαβάση Μαρία Νευροχειρουργός ΙΑΤΡΙΚΟ Π."
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Private hospital",
+    "2.9 rating",
+    "1312 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "ΡΟΜΠΟΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Athens%20Medical%20Center&query_place_id=ChIJN7-AWtmYoRQRDO8JkRZw0sU",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:33:52.744Z",
+      "excerpt": "Athens Medical Center"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.iatriko.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:33:52.744Z",
+      "excerpt": "Όμιλος Ιατρικού Αθηνών | Ιατρικό Κέντρο Αθηνών"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.iatriko.gr/el/profile",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:33:52.744Z",
+      "excerpt": "Προφίλ | Ιατρικό Κέντρο Αθηνών"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.iatriko.gr/el/content/epikoinonia",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:33:52.744Z",
+      "excerpt": "Επικοινωνία | Ιατρικό Κέντρο Αθηνών"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.iatriko.gr/el/oikonomikes-ypiresies",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:33:52.744Z",
+      "excerpt": "Οικονομικές Υπηρεσίες | Ιατρικό Κέντρο Αθηνών"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.iatriko.gr/el/find-doctors?field_iatroi_kliniki_tid=All",
+      "label": "Team page extraction",
+      "retrievedAt": "2026-04-06T18:33:52.744Z",
+      "excerpt": "Βρείτε Ιατρό | Ιατρικό Κέντρο Αθηνών"
+    }
+  ]
+}

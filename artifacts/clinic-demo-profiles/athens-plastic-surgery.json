@@ -1,0 +1,169 @@
+{
+  "slug": "athens-plastic-surgery",
+  "businessName": "Home - Athensplasticsurgery",
+  "category": "Plastic surgeon",
+  "template": {
+    "slug": "medspa",
+    "title": "Medspa",
+    "description": "Beauty and treatment template with soft luxury cues, consultation CTAs, and treatment storytelling.",
+    "audienceLabel": "Consultation-driven treatment brands with a premium positioning angle",
+    "bestFor": "Med spas, fertility, aesthetics, dermatology, and plastic surgery clinics",
+    "recommendedFor": [
+      "Premium treatment framing",
+      "Consultation CTA",
+      "Soft-luxury treatment story"
+    ],
+    "featured": true,
+    "accentColor": "#EC606A",
+    "sourceUrl": "https://medspa.virtualpros.com/",
+    "pageHref": "/industries/medspa/mirror",
+    "mirrorHref": "/industries/medspa/mirror",
+    "heroHeading": "LOCATION & CONTACT",
+    "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+    "heroPrimaryCta": "Contacts",
+    "sectionHighlights": [],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Oswald",
+      "Roboto",
+      "'Lato'"
+    ],
+    "paletteTheme": {
+      "primary": "#EC606A",
+      "secondary": "#E93D3D",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#E93D3D"
+    },
+    "templateSummary": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin."
+  },
+  "summary": "Home - Athensplasticsurgery Plastic surgeon in Athens with services such as Cosmetic Surgical Procedures, Reconstructive Surgical Procedures, Non surgical cosmetic treatments",
+  "heroHeading": "Home - Athensplasticsurgery matched to the Medspa core demo",
+  "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+  "websiteUrl": "https://www.athensplasticsurgery.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Athens%20Plastic%20Surgery&query_place_id=ChIJVVWFpFS9oRQRghMyGV_UHT4",
+  "address": "210 89 43 033",
+  "rating": 5,
+  "reviewsCount": 1,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 89 43 033",
+      "href": "tel:2108943033"
+    },
+    {
+      "label": "Email",
+      "value": "info@athensplasticsurgery.gr",
+      "href": "mailto:info@athensplasticsurgery.gr"
+    },
+    {
+      "label": "Address",
+      "value": "210 89 43 033"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en"
+    }
+  ],
+  "services": [
+    "Cosmetic Surgical Procedures",
+    "Reconstructive Surgical Procedures",
+    "Non surgical cosmetic treatments",
+    "Χειρουργική Άκρας Χειρός",
+    "Αποτρίχωση Laser Alexandrite",
+    "Μεσοθεραπεία"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "By . Giannas",
+    "Dr John Giannas",
+    "Cosmetic Surgical Procedures",
+    "Reconstructive Surgical Procedures",
+    "For Men",
+    "Subscribe to our Newsletter"
+  ],
+  "people": [
+    "By . Giannas",
+    "Dr John Giannas",
+    "Cosmetic Surgical Procedures",
+    "Reconstructive Surgical Procedures",
+    "For Men",
+    "Subscribe to our Newsletter"
+  ],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Plastic surgeon",
+    "5.0 rating",
+    "1 reviews",
+    "snapshot ready",
+    "Medspa"
+  ],
+  "overlayServices": [
+    "Cosmetic Surgical Procedures",
+    "Reconstructive Surgical Procedures",
+    "Non surgical cosmetic treatments"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Athens%20Plastic%20Surgery&query_place_id=ChIJVVWFpFS9oRQRghMyGV_UHT4",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:33.699Z",
+      "excerpt": "Athens Plastic Surgery"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athensplasticsurgery.gr/?lang=en",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:33.699Z",
+      "excerpt": "Home - Athensplasticsurgery | By Dr. Giannas"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athensplasticsurgery.gr/dr-ioannis-giannas/bio?lang=en",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.699Z",
+      "excerpt": "Resume - Athensplasticsurgery | By Dr. Giannas"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athensplasticsurgery.gr/epikoinonia?lang=en",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.699Z",
+      "excerpt": "Contact - Athensplasticsurgery | By Dr. Giannas"
+    }
+  ]
+}

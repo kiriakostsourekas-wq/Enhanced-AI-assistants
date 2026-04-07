@@ -1,0 +1,161 @@
+{
+  "slug": "laiko-general-hospital-of-athens",
+  "businessName": "Αρχική - Γενικό Νοσοκομείο Αθηνών Λαϊκό",
+  "category": "Hospital",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Αρχική - Γενικό Νοσοκομείο Αθηνών Λαϊκό Hospital in Athens with services such as Χειρουργικός τομέας, ΦΥΣΙΚΟΘΕΡΑΠΕΥΤΩΝ, ΛΙΣΤΑ ΧΕΙΡΟΥΡΓΕΙΟΥ",
+  "heroHeading": "Αρχική - Γενικό Νοσοκομείο Αθηνών Λαϊκό matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.laiko.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Laiko%20General%20Hospital%20of%20Athens&query_place_id=ChIJ_USpg_6XoRQRQRIb0sWaS3g",
+  "address": "Αγ. Θωμά 17, Τ.Κ. 11527, Αθήνα213 2060800",
+  "rating": 3.3,
+  "reviewsCount": 872,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "213 2060800",
+      "href": "tel:2132060800"
+    },
+    {
+      "label": "Email",
+      "value": "dioikisi@laiko.gr",
+      "href": "mailto:dioikisi@laiko.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Αγ. Θωμά 17, Τ.Κ. 11527, Αθήνα213 2060800"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.laiko.gr/site-map"
+    }
+  ],
+  "services": [
+    "Χειρουργικός τομέας",
+    "ΦΥΣΙΚΟΘΕΡΑΠΕΥΤΩΝ",
+    "ΛΙΣΤΑ ΧΕΙΡΟΥΡΓΕΙΟΥ"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Hospital",
+    "3.3 rating",
+    "872 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Χειρουργικός τομέας",
+    "ΦΥΣΙΚΟΘΕΡΑΠΕΥΤΩΝ",
+    "ΛΙΣΤΑ ΧΕΙΡΟΥΡΓΕΙΟΥ"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Laiko%20General%20Hospital%20of%20Athens&query_place_id=ChIJ_USpg_6XoRQRQRIb0sWaS3g",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:29.430Z",
+      "excerpt": "Laiko General Hospital of Athens"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.laiko.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:29.430Z",
+      "excerpt": "Αρχική - Γενικό Νοσοκομείο Αθηνών Λαϊκό | General Hospital of Athens \"LAIKO\""
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.laiko.gr/site-map",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.430Z",
+      "excerpt": "Χάρτης Ιστοσελίδας - Γενικό Νοσοκομείο Αθηνών Λαϊκό | General Hospital of Athens \"LAIKO\""
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.laiko.gr/%ce%b4%ce%b9%ce%b5%cf%85%ce%b8%cf%85%ce%bd%cf%84%ce%ae%cf%82-%ce%b9%ce%b1%cf%84%cf%81%ce%b9%ce%ba%ce%ae%cf%82-%cf%85%cf%80%ce%b7%cf%81%ce%b5%cf%83%ce%af%ce%b1%cf%82",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.430Z",
+      "excerpt": "Διευθυντής Ιατρικής Υπηρεσίας - Γενικό Νοσοκομείο Αθηνών Λαϊκό | General Hospital of Athens \"LAIKO\""
+    }
+  ]
+}

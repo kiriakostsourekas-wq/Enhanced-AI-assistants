@@ -1,0 +1,146 @@
+{
+  "slug": "fertility-design",
+  "businessName": "Stories That Take Your Breath Away",
+  "category": "Fertility clinic",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Stories That Take Your Breath Away Fertility clinic in Μαρούσι",
+  "heroHeading": "Stories That Take Your Breath Away matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://fertilitydesign.com/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fertility%20Design%20-%20%CE%95%CE%BE%CE%B5%CE%B9%CE%B4%CE%B9%CE%BA%CE%B5%CF%85%CE%BC%CE%AD%CE%BD%CE%BF%20%CE%99%CE%B1%CF%84%CF%81%CE%B5%CE%AF%CE%BF%20%CE%93%CF%85%CE%BD%CE%B1%CE%B9%CE%BA%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%CF%82%20%26%20%CE%91%CE%BD%CE%B1%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%CF%82%20%2F%20%CE%94%CF%81.%20%CE%9C%CE%B9%CF%87%CE%AC%CE%BB%CE%B7%CF%82%20%CE%A6%CF%81%CE%B1%CE%B3%CE%BA%CE%BF%CF%85%CE%BB%CE%AF%CE%B4%CE%B7%CF%82&query_place_id=ChIJNx37Pt2YoRQRebgTVlyE0b4",
+  "address": "Πληροφορίες Πετρούτσου & Βλαχερνών 17 Μαρούσι, Αθήνα 210 6895001 info@fertilitydesign.com Ακολουθήστε μας Tik Tok Instagram Facebook Youtube Web Design by Aboutnet",
+  "rating": 4.8,
+  "reviewsCount": 74,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "1747226220365",
+      "href": "tel:1747226220365"
+    },
+    {
+      "label": "Email",
+      "value": "info@fertilitydesign.com",
+      "href": "mailto:info@fertilitydesign.com"
+    },
+    {
+      "label": "Address",
+      "value": "Πληροφορίες Πετρούτσου & Βλαχερνών 17 Μαρούσι, Αθήνα 210 6895001 info@fertilitydesign.com Ακολουθήστε μας Tik Tok Instagram Facebook Youtube Web Design by Aboutnet"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://fertilitydesign.com/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1"
+    }
+  ],
+  "services": [],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Core services / treatments: No reliable service list was extracted from the current snapshot.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Fertility clinic",
+    "4.8 rating",
+    "74 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Fertility%20Design%20-%20%CE%95%CE%BE%CE%B5%CE%B9%CE%B4%CE%B9%CE%BA%CE%B5%CF%85%CE%BC%CE%AD%CE%BD%CE%BF%20%CE%99%CE%B1%CF%84%CF%81%CE%B5%CE%AF%CE%BF%20%CE%93%CF%85%CE%BD%CE%B1%CE%B9%CE%BA%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%CF%82%20%26%20%CE%91%CE%BD%CE%B1%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%CF%82%20%2F%20%CE%94%CF%81.%20%CE%9C%CE%B9%CF%87%CE%AC%CE%BB%CE%B7%CF%82%20%CE%A6%CF%81%CE%B1%CE%B3%CE%BA%CE%BF%CF%85%CE%BB%CE%AF%CE%B4%CE%B7%CF%82&query_place_id=ChIJNx37Pt2YoRQRebgTVlyE0b4",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.215Z",
+      "excerpt": "Fertility Design - Εξειδικευμένο Ιατρείο Γυναικολογίας & Αναπαραγωγής / Δρ. Μιχάλης Φραγκουλίδης"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://fertilitydesign.com/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.215Z",
+      "excerpt": "FERTILITY DESIGN"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://fertilitydesign.com/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.215Z",
+      "excerpt": "Επικοινωνία – FERTILITY DESIGN"
+    }
+  ]
+}

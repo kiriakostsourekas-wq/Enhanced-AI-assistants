@@ -1,0 +1,153 @@
+{
+  "slug": "mediprolipsis",
+  "businessName": "Cardioprolipsis",
+  "category": "Medical Center",
+  "template": {
+    "slug": "cardealership",
+    "title": "Car Dealership",
+    "description": "Dark dealership landing page built around inventory trust, pricing, and premium vehicle presentation.",
+    "audienceLabel": "Inventory-heavy offers that need premium visual framing",
+    "bestFor": "Dealers, brokers, and other catalogue-led businesses",
+    "recommendedFor": [
+      "Inventory trust",
+      "Premium visuals",
+      "Finance-ready CTAs"
+    ],
+    "featured": false,
+    "accentColor": "#060644",
+    "sourceUrl": "https://cardealership.virtualpros.com/",
+    "pageHref": "/industries/cardealership/mirror",
+    "mirrorHref": "/industries/cardealership/mirror",
+    "heroHeading": "Premium quality, vetted vehicles, half the price.",
+    "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Inventory",
+      "New Cars",
+      "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+      "Used Cars",
+      "Recent News",
+      "Our Commitment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "'Lato'",
+      "Exo",
+      "Exo 2"
+    ],
+    "paletteTheme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    },
+    "templateSummary": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry."
+  },
+  "summary": "Cardioprolipsis Medical Center in Athens",
+  "heroHeading": "Cardioprolipsis matched to the Car Dealership core demo",
+  "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+  "websiteUrl": "https://cardioprolipsis.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mediprolipsis&query_place_id=ChIJb8IQ5UajoRQRjIsAO6UGgE4",
+  "address": "LINKS Iatropedia Incardiology.gr Medispin Iatronet ΕΟΠΥΥ Isathens Hcs Acha Escardio SITEMAP Αρχική Ποιοι είμαστε Το ιατρείο Ο ιατρός μας Υπηρεσίες - Τμήματα Ιατρική Βιβλιοθήκη Συνεργασίες FAQ Επικοινωνία ΕΠΙΚΟΙΝΩΝΙΑ Ιωάννου Φωκά 40, Αθήνα Τ.Κ. 111 42Ιατρική Εστία (ημιώροφος)Τηλέφωνο: 211010 2558 - 2110136676Email: info@cardioprolipsis.grΏρες ιατρείου: 9:00π.μ. - 9:00μ.μ.",
+  "rating": 3.2,
+  "reviewsCount": 9,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+30 211 01 02 558",
+      "href": "tel:+302110102558"
+    },
+    {
+      "label": "Email",
+      "value": "info@cardioprolipsis.gr",
+      "href": "mailto:info@cardioprolipsis.gr"
+    },
+    {
+      "label": "Address",
+      "value": "LINKS Iatropedia Incardiology.gr Medispin Iatronet ΕΟΠΥΥ Isathens Hcs Acha Escardio SITEMAP Αρχική Ποιοι είμαστε Το ιατρείο Ο ιατρός μας Υπηρεσίες - Τμήματα Ιατρική Βιβλιοθήκη Συνεργασίες FAQ Επικοινωνία ΕΠΙΚΟΙΝΩΝΙΑ Ιωάννου Φωκά 40, Αθήνα Τ.Κ. 111 42Ιατρική Εστία (ημιώροφος)Τηλέφωνο: 211010 2558 - 2110136676Email: info@cardioprolipsis.grΏρες ιατρείου: 9:00π.μ. - 9:00μ.μ."
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://cardioprolipsis.gr/el/contact"
+    }
+  ],
+  "services": [],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Core services / treatments: No reliable service list was extracted from the current snapshot.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Medical Center",
+    "3.2 rating",
+    "9 reviews",
+    "snapshot ready",
+    "Car Dealership"
+  ],
+  "overlayServices": [],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Mediprolipsis&query_place_id=ChIJb8IQ5UajoRQRjIsAO6UGgE4",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:33.366Z",
+      "excerpt": "Mediprolipsis"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://cardioprolipsis.gr/el",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:33.366Z",
+      "excerpt": "Cardioprolipsis - Το πολυδύναμο καρδιολογικό ιατρείο του κ. Βαχλιώτη"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://cardioprolipsis.gr/el/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.366Z",
+      "excerpt": "Επικοινωνία - cardioprolipsis.gr"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://cardioprolipsis.gr/el/cardio-services/4-tileatriki",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.366Z",
+      "excerpt": "ΤΗΛΕΪΑΤΡΙΚΗ"
+    }
+  ]
+}

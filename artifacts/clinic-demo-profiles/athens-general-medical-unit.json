@@ -1,0 +1,162 @@
+{
+  "slug": "athens-general-medical-unit",
+  "businessName": "Doctor Kostantinos Filias, Athens",
+  "category": "Medical Center",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Doctor Kostantinos Filias, Athens Medical Center in Athens with services such as Treatments",
+  "heroHeading": "Doctor Kostantinos Filias, Athens matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://doctor-athens.com/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Athens%20General%20Medical%20Unit&query_place_id=ChIJM7XeWTS9oRQRfTixpHPyudc",
+  "address": "Konstantinos Filias Phone: +30 6977 072 373 Kavalloti 2, 11742 Athens E-mail: kostas102@yahoo.gr Facebook: Doctor Athens Whatsapp: +30 697 707 2373",
+  "rating": 4.5,
+  "reviewsCount": 69,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "697 707 2373",
+      "href": "tel:6977072373"
+    },
+    {
+      "label": "Email",
+      "value": "kostas102@yahoo.gr",
+      "href": "mailto:kostas102@yahoo.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Konstantinos Filias Phone: +30 6977 072 373 Kavalloti 2, 11742 Athens E-mail: kostas102@yahoo.gr Facebook: Doctor Athens Whatsapp: +30 697 707 2373"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://doctor-athens.com/contact.html"
+    }
+  ],
+  "services": [
+    "Treatments"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Kostantinos Filias M.D.",
+    "Personal Details"
+  ],
+  "people": [
+    "Kostantinos Filias M.D.",
+    "Personal Details"
+  ],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Medical Center",
+    "4.5 rating",
+    "69 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Treatments"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Athens%20General%20Medical%20Unit&query_place_id=ChIJM7XeWTS9oRQRfTixpHPyudc",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.284Z",
+      "excerpt": "Athens General Medical Unit"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://doctor-athens.com/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.284Z",
+      "excerpt": "Doctor Konstantinos Filias - 24 Hour Medical Service in Athens"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://doctor-athens.com/about-me.html",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.284Z",
+      "excerpt": "Doctor Konstantinos Filias - 24 Hour Medical Service in Athens"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://doctor-athens.com/contact.html",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.284Z",
+      "excerpt": "Doctor Konstantinos Filias - 24 Hour Medical Service in Athens"
+    }
+  ]
+}

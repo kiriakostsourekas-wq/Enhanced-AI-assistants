@@ -1,0 +1,146 @@
+{
+  "slug": "cardiology-center-of-athens-sa",
+  "businessName": "Διαγνωστικό Κέντρο Καρδιολογικό Αθηνών Χαλάνδρι, Αθήνα",
+  "category": "Diagnostic center",
+  "template": {
+    "slug": "cardealership",
+    "title": "Car Dealership",
+    "description": "Dark dealership landing page built around inventory trust, pricing, and premium vehicle presentation.",
+    "audienceLabel": "Inventory-heavy offers that need premium visual framing",
+    "bestFor": "Dealers, brokers, and other catalogue-led businesses",
+    "recommendedFor": [
+      "Inventory trust",
+      "Premium visuals",
+      "Finance-ready CTAs"
+    ],
+    "featured": false,
+    "accentColor": "#060644",
+    "sourceUrl": "https://cardealership.virtualpros.com/",
+    "pageHref": "/industries/cardealership/mirror",
+    "mirrorHref": "/industries/cardealership/mirror",
+    "heroHeading": "Premium quality, vetted vehicles, half the price.",
+    "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Inventory",
+      "New Cars",
+      "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+      "Used Cars",
+      "Recent News",
+      "Our Commitment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "'Lato'",
+      "Exo",
+      "Exo 2"
+    ],
+    "paletteTheme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    },
+    "templateSummary": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry."
+  },
+  "summary": "Διαγνωστικό Κέντρο Καρδιολογικό Αθηνών Χαλάνδρι, Αθήνα Diagnostic center in Χαλάνδρι",
+  "heroHeading": "Διαγνωστικό Κέντρο Καρδιολογικό Αθηνών Χαλάνδρι, Αθήνα matched to the Car Dealership core demo",
+  "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+  "websiteUrl": "https://www.kardiologico.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CARDIOLOGY%20CENTER%20OF%20ATHENS%20SA&query_place_id=ChIJAQAMi-6YoRQRkPeiq16Nf14",
+  "address": "Καρδιολογικό Αθηνών Λεωφ. Κηφισίας 330 & Κορδελίου 8, Χαλάνδρι Αθήνα, 152 33. Τηλέφωνα: +30 210 685 5951,2,3,4 FAX: +30 210 685 5939 E-mail: info@kardiologico.gr",
+  "rating": 4.3,
+  "reviewsCount": 41,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+30 210 685 5951",
+      "href": "tel:+302106855951"
+    },
+    {
+      "label": "Email",
+      "value": "info@kardiologico.gr",
+      "href": "mailto:info@kardiologico.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Καρδιολογικό Αθηνών Λεωφ. Κηφισίας 330 & Κορδελίου 8, Χαλάνδρι Αθήνα, 152 33. Τηλέφωνα: +30 210 685 5951,2,3,4 FAX: +30 210 685 5939 E-mail: info@kardiologico.gr"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.kardiologico.gr/contacts"
+    }
+  ],
+  "services": [],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Core services / treatments: No reliable service list was extracted from the current snapshot.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Diagnostic center",
+    "4.3 rating",
+    "41 reviews",
+    "snapshot ready",
+    "Car Dealership"
+  ],
+  "overlayServices": [],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=CARDIOLOGY%20CENTER%20OF%20ATHENS%20SA&query_place_id=ChIJAQAMi-6YoRQRkPeiq16Nf14",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.576Z",
+      "excerpt": "CARDIOLOGY CENTER OF ATHENS SA"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.kardiologico.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.576Z",
+      "excerpt": "Διαγνωστικό Κέντρο Καρδιολογικό Αθηνών Χαλάνδρι, Αθήνα"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.kardiologico.gr/contacts",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.576Z",
+      "excerpt": "Καρδιολογικό Αθηνών | Επικοινωνία, Τηλέφωνα, Χάρτης"
+    }
+  ]
+}

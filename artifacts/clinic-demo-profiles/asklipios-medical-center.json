@@ -1,0 +1,148 @@
+{
+  "slug": "asklipios-medical-center",
+  "businessName": "Ασκληπιός Ιδιωτικό Πολυιατρείο",
+  "category": "Diagnostic center",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Ασκληπιός Ιδιωτικό Πολυιατρείο Diagnostic center",
+  "heroHeading": "Ασκληπιός Ιδιωτικό Πολυιατρείο matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.asklipios.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Asklipios%20Medical%20Center&query_place_id=ChIJbw0z5FO9oRQRUghJZSFi9Yw",
+  "address": "Δορυλαίου 8, Αθήνα",
+  "rating": 4.3,
+  "reviewsCount": 60,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "1528895086831",
+      "href": "tel:1528895086831"
+    },
+    {
+      "label": "Email",
+      "value": "info@asklipios.gr",
+      "href": "mailto:info@asklipios.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Δορυλαίου 8, Αθήνα"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.asklipios.gr/tmimata"
+    }
+  ],
+  "services": [],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Μαβίλη11521 Αθήνα 210 6433 559 info@asklipios.gr ISO & EOPPYΚατ’ Οίκον Ακτινογραφίες Ωράριο Λειτουργίας Δευτέρα – Παρασκευή: 08:30 με 20:00 Σάββατο – Κυριακή: Κλειστά Copyright © 2026 asklipios.gr Web Design Go to Top Χρ"
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Core services / treatments: No reliable service list was extracted from the current snapshot.",
+    "Neighborhood / Athens area: No neighborhood or clear Athens area signal could be detected confidently.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Diagnostic center",
+    "4.3 rating",
+    "60 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Asklipios%20Medical%20Center&query_place_id=ChIJbw0z5FO9oRQRUghJZSFi9Yw",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.389Z",
+      "excerpt": "Asklipios Medical Center"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.asklipios.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.389Z",
+      "excerpt": "Ασκληπιός Ιδιωτικό Πολυιατρείο"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.asklipios.gr/tmimata",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.389Z",
+      "excerpt": "Τμήματα – Ασκληπιός Ιδιωτικό Πολυιατρείο"
+    }
+  ]
+}

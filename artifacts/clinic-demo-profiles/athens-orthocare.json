@@ -1,0 +1,145 @@
+{
+  "slug": "athens-orthocare",
+  "businessName": "Athens OrthoCare",
+  "category": "Orthopedic clinic",
+  "template": {
+    "slug": "cardealership",
+    "title": "Car Dealership",
+    "description": "Dark dealership landing page built around inventory trust, pricing, and premium vehicle presentation.",
+    "audienceLabel": "Inventory-heavy offers that need premium visual framing",
+    "bestFor": "Dealers, brokers, and other catalogue-led businesses",
+    "recommendedFor": [
+      "Inventory trust",
+      "Premium visuals",
+      "Finance-ready CTAs"
+    ],
+    "featured": false,
+    "accentColor": "#060644",
+    "sourceUrl": "https://cardealership.virtualpros.com/",
+    "pageHref": "/industries/cardealership/mirror",
+    "mirrorHref": "/industries/cardealership/mirror",
+    "heroHeading": "Premium quality, vetted vehicles, half the price.",
+    "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Inventory",
+      "New Cars",
+      "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+      "Used Cars",
+      "Recent News",
+      "Our Commitment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "'Lato'",
+      "Exo",
+      "Exo 2"
+    ],
+    "paletteTheme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    },
+    "templateSummary": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry."
+  },
+  "summary": "Athens OrthoCare Orthopedic clinic in Athens",
+  "heroHeading": "Athens OrthoCare matched to the Car Dealership core demo",
+  "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+  "websiteUrl": "https://www.athensorthocare.com/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Athens%20OrthoCare&query_place_id=ChIJi13VjM7vNA8R8dZSuDR_vo8",
+  "address": "Leof. Kifisias 76, Athina 115 26, Greece",
+  "rating": 5,
+  "reviewsCount": 1,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "1774906280916",
+      "href": "tel:1774906280916"
+    },
+    {
+      "label": "Email",
+      "value": "athens.orthocare@gmail.com",
+      "href": "mailto:athens.orthocare@gmail.com"
+    },
+    {
+      "label": "Address",
+      "value": "Leof. Kifisias 76, Athina 115 26, Greece"
+    }
+  ],
+  "services": [],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Ηλίας-Αλέξανδρος Κοσμίδης"
+  ],
+  "people": [
+    "Ηλίας-Αλέξανδρος Κοσμίδης"
+  ],
+  "unresolvedItems": [
+    "Core services / treatments: No reliable service list was extracted from the current snapshot.",
+    "Contact page URL: No explicit contact page was identified.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Orthopedic clinic",
+    "5.0 rating",
+    "1 reviews",
+    "snapshot ready",
+    "Car Dealership"
+  ],
+  "overlayServices": [],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Athens%20OrthoCare&query_place_id=ChIJi13VjM7vNA8R8dZSuDR_vo8",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:33.559Z",
+      "excerpt": "Athens OrthoCare"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athensorthocare.com/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:33.559Z",
+      "excerpt": "Athens OrthoCare, Ηλίας-Αλέξανδρος Κοσμίδης MD, MSc, PhD, Ορθοπαιδικός Χειρουργός, Εξειδίκευση στην αρθροπλαστική ισχίου & γόνατος & στην αναθεώρηση αρθροπλαστικής ισχίου & γόνατος, Αθλητικές κακώσεις"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athensorthocare.com/services-9",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.559Z",
+      "excerpt": "Αναθεωρήσεις ολικών αρθροπλαστικών | Athens Orthocare"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "slug": "go-fertile-clinic",
+  "businessName": "Home - Go Fertile Clinic",
+  "category": "Medical Center",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Home - Go Fertile Clinic Medical Center in Athens with services such as Welcome to our Clinic",
+  "heroHeading": "Home - Go Fertile Clinic matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.gofertile.eu/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Go%20Fertile%20Clinic&query_place_id=ChIJcfT8C429oRQRuVB2JPPccgc",
+  "address": "Go Fertile Clinic Diagnostic, Gynecological & Obstetrical care with focus on Fertility (+30) 210 3221846 info@gofertile.eu https://www.gofertile.eu Paleon Patron Germanou 7, Athens 10561 GREECE Latest News TRYING TO GET PREGNANT: 14 FERTILITY MYTHS DEBUNKED We live in the era of informatics. Knowledge is easily... EGG DONATION IN GREECE: ALL YOU NEED TO KNOW Assisted reproduction techniques help thousands of couples with infertility to... EGG FREEZING: IS IT FOR ME?",
+  "rating": 5,
+  "reviewsCount": 2,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+30) 6944903934",
+      "href": "tel:+306944903934"
+    },
+    {
+      "label": "Email",
+      "value": "info@gofertile.eu",
+      "href": "mailto:info@gofertile.eu"
+    },
+    {
+      "label": "Address",
+      "value": "Go Fertile Clinic Diagnostic, Gynecological & Obstetrical care with focus on Fertility (+30) 210 3221846 info@gofertile.eu https://www.gofertile.eu Paleon Patron Germanou 7, Athens 10561 GREECE Latest News TRYING TO GET PREGNANT: 14 FERTILITY MYTHS DEBUNKED We live in the era of informatics. Knowledge is easily... EGG DONATION IN GREECE: ALL YOU NEED TO KNOW Assisted reproduction techniques help thousands of couples with infertility to... EGG FREEZING: IS IT FOR ME?"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.gofertile.eu/contact"
+    },
+    {
+      "label": "Booking page",
+      "value": "Open booking page",
+      "href": "https://www.gofertile.eu/appointment-booking"
+    }
+  ],
+  "services": [
+    "Welcome to our Clinic"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified.",
+    "Social links: No social links were detected."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Medical Center",
+    "5.0 rating",
+    "2 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Welcome to our Clinic"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Go%20Fertile%20Clinic&query_place_id=ChIJcfT8C429oRQRuVB2JPPccgc",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:33.496Z",
+      "excerpt": "Go Fertile Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.gofertile.eu/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:33.496Z",
+      "excerpt": "Home - Go Fertile Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.gofertile.eu/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.496Z",
+      "excerpt": "Contact - Go Fertile Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.gofertile.eu/services",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.496Z",
+      "excerpt": "All Medical Services - Go Fertile Clinic"
+    }
+  ]
+}

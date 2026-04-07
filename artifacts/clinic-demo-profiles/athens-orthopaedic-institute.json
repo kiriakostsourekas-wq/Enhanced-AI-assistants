@@ -1,0 +1,174 @@
+{
+  "slug": "athens-orthopaedic-institute",
+  "businessName": "Ορθοπεδική Κλινική Αθήνα",
+  "category": "Medical clinic",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Ορθοπεδική Κλινική Αθήνα Medical clinic in Athens with services such as Μικροχειρουργική, Ορθοπαιδικός Χειρουργός",
+  "heroHeading": "Ορθοπεδική Κλινική Αθήνα matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://aoi.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Athens%20Orthopaedic%20Institute&query_place_id=ChIJ-zol8jWZoRQRTXDhb8WN_UA",
+  "address": "Τηλέφωνο: 210 686 7697 (Δευτέρα – Παρασκευή 08:00 – 15:00) Διεύθυνση: Ερ. Σταυρού 5, Γραφείο 7.4, 7ος Όροφος Instagram Facebook-f Μενού Αρχική Η Φιλοσοφία Μας H Ομάδα Μας Blog Επικοινωνία Αρχική Η Φιλοσοφία Μας H Ομάδα Μας Blog Επικοινωνία Εγγραφή Στο Newsletter (function() { window.mc4wp = window.mc4wp || { listeners: [], forms: { on: function(evt, cb) { window.mc4wp.listeners.push( { event : evt, callback: cb } ); } } } })(); Leave this field empty if you're human: Privacy Policy | Cookies Policy Copyright© 2026 Athens Orthopaedic Institute. All rights reserved.",
+  "rating": 5,
+  "reviewsCount": 1,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 686 7697",
+      "href": "tel:2106867697"
+    },
+    {
+      "label": "Address",
+      "value": "Τηλέφωνο: 210 686 7697 (Δευτέρα – Παρασκευή 08:00 – 15:00) Διεύθυνση: Ερ. Σταυρού 5, Γραφείο 7.4, 7ος Όροφος Instagram Facebook-f Μενού Αρχική Η Φιλοσοφία Μας H Ομάδα Μας Blog Επικοινωνία Αρχική Η Φιλοσοφία Μας H Ομάδα Μας Blog Επικοινωνία Εγγραφή Στο Newsletter (function() { window.mc4wp = window.mc4wp || { listeners: [], forms: { on: function(evt, cb) { window.mc4wp.listeners.push( { event : evt, callback: cb } ); } } } })(); Leave this field empty if you're human: Privacy Policy | Cookies Policy Copyright© 2026 Athens Orthopaedic Institute. All rights reserved."
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://aoi.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1"
+    }
+  ],
+  "services": [
+    "Μικροχειρουργική",
+    "Ορθοπαιδικός Χειρουργός"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Ράπτης Συνεργάτες Υπηρεσίες Ρομποτική Αρθροπλαστική Ισχίου – Γόνατος Αρθροπλαστική Ώμου Αρθροσκόπηση Γόνατος Αρθροσκόπηση Ώμου Μικροχειρουργική Blog Επικοινωνία Αρχική Η Φιλοσοφία Μας Κλινική Αποστολή Ακαδημαϊκό Έργο Εκπ",
+    "Τον Μάρτιο του 2020 μετέβη στο Ριάντ της Σαουδικής Αραβίας και βοήθησε ενεργά ως χειρουργός στην εκκίνηση της ρομποτικής τεχνολογίας πραγματοποιώντας δεκάδες επεμβάσεις.",
+    "Πραγματοποίησε στη Γαλλία τη μετεκπαίδευσή του και Χειρουργική του Ώμου στο εξειδικευμένο κέντρο Paris Shoulder Unit, όπου είχε την τιμή να εργαστεί δίπλα στον διεθνούς φήμης Χειρουργό Prof.",
+    "Επίσης συνέχισε την εκπαίδευσή του ως clinical fellow σε αναγνωρισμένα κέντρα σε Γερμανία, Ελβετία και Ηνωμένο Βασίλειο.",
+    "Ειδικεύτηκε στην Ορθοπαιδική – Τραυματιολογία στην Α’ Ορθοπαιδική Κλινική του Νοσοκομείου ΚΑΤ.",
+    "Ιδιαίτερο αντικείμενο εκπαίδευσής του για διάστημα δύο ετών αποτέλεσε η Χειρουργική Άκρας Χειρός και Μικροχειρουργικής όπου απέκτησε εξειδικευμένη γνώση και κλινική εμπειρία στη Χειρουργική του Άνω άκρου.",
+    "Είναι Διδάκτωρ της Ιατρικής Σχολής Αθηνών και κάτοχος του Μεταπτυχιακού Τίτλου της Ιατρικής Σχολής Αθηνών “Μεταβολικά Νοσήματα των Οστών” (MSc in Bone Metabolic Disease), ως επίσημη ειδίκευση του αντικειμένου της Oστεοπό",
+    "Κοντός ΧαράλαμποςΟρθοπαιδικός ΧειρουργόςΕπιμελητής στη Β’ Ορθοπαιδική Κλινική του Νοσοκομείου ΥγείαΠιστοποιημένος στη Ρομποτική Αρθροπλαστική Ισχίου και ΓόνατοςΒιογραφικό Ο Κοντός Χαράλαμπος είναι Επιμελητής της Β’ Ορθοπ"
+  ],
+  "people": [
+    "Δρ. Κωνσταντίνος Δρετάκης",
+    "Δρ. Κωνσταντίνος Ράπτης",
+    "Δρ. Κοντός Χαράλαμπος",
+    "Δρ. Χρήστος Κουτσερίμπας",
+    "Γραμματειακή Yποστήριξη",
+    "Περίανδρος Καραμάνης"
+  ],
+  "unresolvedItems": [
+    "Email(s): No public clinic email was verified from the snapshot.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Medical clinic",
+    "5.0 rating",
+    "1 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Μικροχειρουργική",
+    "Ορθοπαιδικός Χειρουργός"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Athens%20Orthopaedic%20Institute&query_place_id=ChIJ-zol8jWZoRQRTXDhb8WN_UA",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:33.510Z",
+      "excerpt": "Athens Orthopaedic Institute"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://aoi.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:33.510Z",
+      "excerpt": "Ορθοπεδική Κλινική Αθήνα | Athens Orthopaedic Institute"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://aoi.gr/h-%ce%bf%ce%bc%ce%ac%ce%b4%ce%b1-%ce%bc%ce%b1%cf%82",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.510Z",
+      "excerpt": "Η Ομάδα: Ορθοπεδικός Δρ. Ράπτης & Δρ. Δρετάκης | AOI"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://aoi.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.510Z",
+      "excerpt": "Επικοινωνία | Athens Orthopaedic Institute"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://aoi.gr/%cf%81%ce%bf%ce%bc%cf%80%ce%bf%cf%84%ce%b9%ce%ba%ce%ae-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%80%ce%bb%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%ae-%cf%8e%ce%bc%ce%bf%cf%85",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.510Z",
+      "excerpt": "Αρθροπλαστική Ώμου - Athens Orthopaedic Institute"
+    }
+  ]
+}

@@ -249,7 +249,7 @@ async function loadTemplateCatalog() {
         featured: Boolean(descriptor.featured),
         accentColor: descriptor.accentColor ?? paletteTheme.primary ?? "#1f2937",
         sourceUrl: spec.source_url ?? item.url,
-        pageHref: `/industries/${item.slug}`,
+        pageHref: `/industries/${item.slug}/mirror`,
         mirrorHref: `/industries/${item.slug}/mirror`,
         heroHeading: spec.hero?.heading?.trim() || undefined,
         heroSubheading: spec.hero?.subheading?.trim() || undefined,
@@ -312,4 +312,3 @@ export function matchTemplateSlug(input?: string) {
 export function getTemplateDescriptor(slug: string) {
   return descriptorForSlug(slug);
 }
-

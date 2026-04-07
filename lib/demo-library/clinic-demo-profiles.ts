@@ -1,4 +1,4 @@
-import { access, mkdir, readFile, writeFile } from "node:fs/promises";
+import { access, mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { z } from "zod";
 import { parseCsv } from "@/lib/antigravity/discovery/csv";
@@ -6,7 +6,7 @@ import { extractAthensClinicBusinessData } from "@/lib/antigravity/extraction/at
 import { createAntigravityLogger } from "@/lib/antigravity/runtime/logger";
 import { buildFactSource, slugify } from "@/lib/antigravity/runtime/utils";
 import { createSiteSnapshot } from "@/lib/antigravity/site-snapshot";
-import { DiscoveredProspectSchema, SiteSnapshotSchema } from "@/lib/antigravity/schemas";
+import { DiscoveredProspectSchema, FactSourceSchema, SiteSnapshotSchema } from "@/lib/antigravity/schemas";
 import type { FactSource, SiteSnapshot } from "@/lib/antigravity/schemas";
 import { getTemplateBySlug, matchTemplateSlug, type TemplateCatalogEntry } from "@/lib/demo-library/template-catalog";
 
@@ -92,6 +92,43 @@ export type ClinicDemoProfile = {
 };
 
 let clinicLeadsPromise: Promise<ClinicLeadSummary[]> | null = null;
+let savedProfileSlugsPromise: Promise<Set<string>> | null = null;
+
+const StoredClinicDemoProfileSchema = z.object({
+  slug: z.string().trim().min(1),
+  businessName: z.string().trim().min(1),
+  category: z.string().trim().optional(),
+  template: z.object({ slug: z.string().trim().min(1) }).passthrough(),
+  summary: z.string().trim().min(1),
+  heroHeading: z.string().trim().min(1),
+  heroSubheading: z.string().trim().min(1),
+  websiteUrl: z.string().url().optional(),
+  mapsUrl: z.string().url().optional(),
+  address: z.string().trim().optional(),
+  rating: z.number().optional(),
+  reviewsCount: z.number().optional(),
+  snapshotStatus: z.string().trim().optional(),
+  contactItems: z.array(
+    z.object({
+      label: z.string().trim().min(1),
+      value: z.string().trim().min(1),
+      href: z.string().trim().min(1).optional(),
+    }),
+  ),
+  services: z.array(z.string()),
+  bookingSignals: z.array(z.string()),
+  trustMarkers: z.array(z.string()),
+  people: z.array(z.string()),
+  unresolvedItems: z.array(z.string()),
+  liveDemoEligibility: z.object({
+    eligible: z.boolean(),
+    rationale: z.string().trim().min(1),
+    blockers: z.array(z.string()),
+  }),
+  overlayChips: z.array(z.string()),
+  overlayServices: z.array(z.string()),
+  sourceFacts: z.array(FactSourceSchema),
+});
 
 function validOptionalUrl(value?: string) {
   if (!value) {
@@ -232,6 +269,36 @@ export async function listClinicLeadSummaries() {
 export async function getClinicLeadSummaryBySlug(leadSlug: string) {
   const leads = await listClinicLeadSummaries();
   return leads.find((lead) => lead.slug === leadSlug);
+}
+
+async function readSavedProfileSlugs() {
+  try {
+    const entries = await readdir(PROFILE_OUTPUT_ROOT, { withFileTypes: true });
+    return new Set(
+      entries
+        .filter((entry) => entry.isFile() && entry.name.endsWith(".json"))
+        .map((entry) => entry.name.replace(/\.json$/i, "")),
+    );
+  } catch (error) {
+    if (error instanceof Error && "code" in error && error.code === "ENOENT") {
+      return new Set<string>();
+    }
+
+    throw error;
+  }
+}
+
+export async function listSavedClinicDemoProfileSlugs() {
+  if (!savedProfileSlugsPromise) {
+    savedProfileSlugsPromise = readSavedProfileSlugs();
+  }
+
+  return savedProfileSlugsPromise;
+}
+
+export async function hasSavedClinicDemoProfile(leadSlug: string) {
+  const slugs = await listSavedClinicDemoProfileSlugs();
+  return slugs.has(leadSlug);
 }
 
 export async function resolveClinicLeadSelectors(selectors: string[]) {
@@ -376,7 +443,36 @@ function buildProspect(lead: ClinicLeadSummary) {
   });
 }
 
+async function loadSavedClinicDemoProfile(leadSlug: string) {
+  const profilePath = getClinicDemoProfilePath(leadSlug);
+
+  try {
+    const raw = await readFile(profilePath, "utf8");
+    const storedProfile = StoredClinicDemoProfileSchema.parse(JSON.parse(raw));
+    const currentTemplate = await getTemplateBySlug(storedProfile.template.slug);
+
+    return {
+      ...storedProfile,
+      template: currentTemplate ?? (storedProfile.template as TemplateCatalogEntry),
+    } satisfies ClinicDemoProfile;
+  } catch (error) {
+    if (error instanceof Error && "code" in error && error.code === "ENOENT") {
+      return undefined;
+    }
+
+    throw error;
+  }
+}
+
 export async function buildClinicDemoProfile(leadSlug: string, options?: { refreshSnapshot?: boolean }) {
+  if (!options?.refreshSnapshot) {
+    const savedProfile = await loadSavedClinicDemoProfile(leadSlug);
+
+    if (savedProfile) {
+      return savedProfile;
+    }
+  }
+
   const lead = await getClinicLeadSummaryBySlug(leadSlug);
   if (!lead) {
     return undefined;
@@ -465,6 +561,7 @@ export async function saveClinicDemoProfile(profile: ClinicDemoProfile) {
   await mkdir(PROFILE_OUTPUT_ROOT, { recursive: true });
   const outputPath = getClinicDemoProfilePath(profile.slug);
   await writeFile(outputPath, `${JSON.stringify(profile, null, 2)}\n`, "utf8");
+  savedProfileSlugsPromise = null;
   return outputPath;
 }
 
@@ -476,4 +573,3 @@ export async function hasLocalClinicLeadDataset() {
     return false;
   }
 }
-

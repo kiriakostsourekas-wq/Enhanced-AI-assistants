@@ -1,0 +1,162 @@
+{
+  "slug": "palios-cardiology-center",
+  "businessName": "Καρδιολογικός έλεγχος",
+  "category": "Cardiologist",
+  "template": {
+    "slug": "cardealership",
+    "title": "Car Dealership",
+    "description": "Dark dealership landing page built around inventory trust, pricing, and premium vehicle presentation.",
+    "audienceLabel": "Inventory-heavy offers that need premium visual framing",
+    "bestFor": "Dealers, brokers, and other catalogue-led businesses",
+    "recommendedFor": [
+      "Inventory trust",
+      "Premium visuals",
+      "Finance-ready CTAs"
+    ],
+    "featured": false,
+    "accentColor": "#060644",
+    "sourceUrl": "https://cardealership.virtualpros.com/",
+    "pageHref": "/industries/cardealership/mirror",
+    "mirrorHref": "/industries/cardealership/mirror",
+    "heroHeading": "Premium quality, vetted vehicles, half the price.",
+    "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Inventory",
+      "New Cars",
+      "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+      "Used Cars",
+      "Recent News",
+      "Our Commitment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "'Lato'",
+      "Exo",
+      "Exo 2"
+    ],
+    "paletteTheme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    },
+    "templateSummary": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry."
+  },
+  "summary": "Καρδιολογικός έλεγχος Cardiologist",
+  "heroHeading": "Καρδιολογικός έλεγχος matched to the Car Dealership core demo",
+  "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+  "websiteUrl": "https://www.palios-cardiology.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PALIOS%20CARDIOLOGY%20CENTER&query_place_id=ChIJuSJ0x6qioRQRYpELqpp1FXc",
+  "address": "@media (min-width: 640px) and (max-width: 959px){#footer\\#0 .el-item > .uk-grid > div{width: 14vw;}}@media (min-width: 960px) and (max-width: 1599px){#footer\\#0 .el-item > .uk-grid > div{width: 8vw;}} Κλείστε Ραντεβού Διεύθυνση Λεωφόρος Κηφισίας 5 115 23 Αθήνα Προβολή σε Χάρτη Προβολή σε Χάρτη Επικοινωνία 210 6465 270 6947802002 Αυτή η διεύθυνση Email προστατεύεται από τους αυτοματισμούς αποστολέων ανεπιθύμητων μηνυμάτων. Χρειάζεται να ενεργοποιήσετε τη JavaScript για να μπορέσετε να τη δείτε. Ώρες Ιατρείου Δευτέρα 17:00-20:30 Τρίτη 17:00-20:30 Τετάρτη 17:00-20:30 Πέμπτη 17:00-20:30 Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Πληροφορίες Υπηρεσίες Ενημέρωση Συμβουλές Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Ακολουθήστε μας Πολιτική Απορρήτου Πολιτική Cookies © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος. © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος.",
+  "rating": 5,
+  "reviewsCount": 12,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "00302106465270",
+      "href": "tel:00302106465270"
+    },
+    {
+      "label": "Email",
+      "value": "info@palios-cardiology.gr",
+      "href": "mailto:info@palios-cardiology.gr"
+    },
+    {
+      "label": "Address",
+      "value": "@media (min-width: 640px) and (max-width: 959px){#footer\\#0 .el-item > .uk-grid > div{width: 14vw;}}@media (min-width: 960px) and (max-width: 1599px){#footer\\#0 .el-item > .uk-grid > div{width: 8vw;}} Κλείστε Ραντεβού Διεύθυνση Λεωφόρος Κηφισίας 5 115 23 Αθήνα Προβολή σε Χάρτη Προβολή σε Χάρτη Επικοινωνία 210 6465 270 6947802002 Αυτή η διεύθυνση Email προστατεύεται από τους αυτοματισμούς αποστολέων ανεπιθύμητων μηνυμάτων. Χρειάζεται να ενεργοποιήσετε τη JavaScript για να μπορέσετε να τη δείτε. Ώρες Ιατρείου Δευτέρα 17:00-20:30 Τρίτη 17:00-20:30 Τετάρτη 17:00-20:30 Πέμπτη 17:00-20:30 Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Πληροφορίες Υπηρεσίες Ενημέρωση Συμβουλές Ιωάννης Παληός Αρχική Βιογραφικό Επικοινωνία Ακολουθήστε μας Πολιτική Απορρήτου Πολιτική Cookies © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος. © document.currentScript.insertAdjacentHTML('afterend', '<time datetime=\"' + new Date().toJSON() + '\">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>'); Ιωάννης Μ. Παληός Καρδιολόγος. Με την επιφύλαξη παντός δικαιώματος."
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.palios-cardiology.gr/epikoinonia"
+    }
+  ],
+  "services": [],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Σπούδασε στην Ιατρική Σχολή Αθηνών και ολοκλήρωσε την ειδικότητα της Καρδιολογίας στη Β’ Πανεπιστημιακή Καρδιολογική Κλινική στο Νοσοκομείο Αττικόν.",
+    "Είναι Διδάκτωρ της Ιατρικής Σχολής του Πανεπιστημίου Αθηνών μετά την ολοκλήρωση με βαθμό άριστα της διδακτορικής διατριβής του σχετικά με την αθηροσκλήρυνση στους ασθενείς με HIV λοίμωξη..",
+    "Μετεκπαιδεύτηκε στο Emory University Hospital, USA στην καρδιαγγειακή απεικόνιση και ειδικότερα στη μαγνητική τομογραφία καρδιάς και την ηχωκαρδιογραφία.",
+    "12/2012- 01/2014 Fellow in Cardiac Imaging, Cardiology Department, Emory University Hospital, Emory University, School of Medicine, USA.",
+    "05/2008-05/2012 Ειδικευόμενος Καρδιολογίας, Β’ Πανεπιστημιακή Καρδιολογική Κλινική, Πανεπιστημιακό Γενικό Νοσοκομείο ‘Αττικόν’.",
+    "Εκπαίδευση 12/2012- 01/2014 Cardiac MRI-Echocardiography Research Post-Doctoral Fellow, Cardiology Department, Emory University Hospital, Emory University, School of Medicine, USA.",
+    "07/2012 Τίτλος Ειδικότητας Καρδιολογίας, Νομαρχία Αθηνών.",
+    "Είναι μέλος μεταξύ άλλων της Ευρωπαϊκής Καρδιολογικής Εταιρίας, του Ελληνικού Κολλεγίου Καρδιολογίας, της Ελληνικής Καρδιολογικής Εταιρίας, της Διεθνούς Εταιρίας Μαγνητικής Τομογραφίας Καρδιάς, της Ελληνικής Εταιρίας Λιπ"
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Core services / treatments: No reliable service list was extracted from the current snapshot.",
+    "Neighborhood / Athens area: No neighborhood or clear Athens area signal could be detected confidently.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Cardiologist",
+    "5.0 rating",
+    "12 reviews",
+    "snapshot ready",
+    "Car Dealership"
+  ],
+  "overlayServices": [],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=PALIOS%20CARDIOLOGY%20CENTER&query_place_id=ChIJuSJ0x6qioRQRYpELqpp1FXc",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:33.243Z",
+      "excerpt": "PALIOS CARDIOLOGY CENTER"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.palios-cardiology.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:33.243Z",
+      "excerpt": "Μαγνητική Τομογραφία Καρδιάς - Δρ. Ιωάννης Παληός - Καρδιολόγος | Αρχική"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.palios-cardiology.gr/viografiko",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.243Z",
+      "excerpt": "Μαγνητική Τομογραφία Καρδιάς - Δρ. Ιωάννης Παληός - Καρδιολόγος | Βιογραφικό"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.palios-cardiology.gr/epikoinonia",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.243Z",
+      "excerpt": "Μαγνητική Τομογραφία Καρδιάς - Δρ. Ιωάννης Παληός - Καρδιολόγος | Επικοινωνία"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "slug": "derm-plastic-surgery-clinic",
+  "businessName": "Οι Καλύτεροι Πλαστικοί Χειρουργοί & Δερματολόγοι!Google-color",
+  "category": "Plastic surgeon",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Οι Καλύτεροι Πλαστικοί Χειρουργοί & Δερματολόγοι!Google-color Plastic surgeon in Γλυφάδα with services such as Acne Treatment, The Best Treatments for Acne and Acne Scars!, Before and After Photos of Acne Treatments",
+  "heroHeading": "Οι Καλύτεροι Πλαστικοί Χειρουργοί & Δερματολόγοι!Google-color matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://dermplasticclinic.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DERM%20%26%20PLASTIC%20SURGERY%20CLINIC%20%CE%93%CE%9B%CE%A5%CE%A6%CE%91%CE%94%CE%91&query_place_id=ChIJmflOQLi_oRQRqwRFNs2SV2o",
+  "address": "Αποκλειστικές Hot & Top Θεραπείες για τα Μέλη μας! Αποκλειστικές Hot & TopΘεραπείες για τα Μέλη μας! function controls_data (value){ let currentWrapper = \"mf-response-props-id-26165\"; let currentEl = document.getElementById(currentWrapper); return currentEl ? currentEl.dataset[value] : false } let is_edit_mode = '' ? true : false; let message_position = controls_data('messageposition') || 'top'; let message_successIcon = controls_data('successicon') || ''; let message_errorIcon = controls_data('erroricon') || ''; let message_editSwitch = controls_data('editswitchopen') === 'yes' ? true : false; let message_proClass = controls_data('editswitchopen') === 'yes' ? 'mf_pro_activated' : ''; let is_dummy_markup = is_edit_mode && message_editSwitch ? true : false; return html` <form className=\"metform-form-content\" ref=${parent.formContainerRef} onSubmit=${ validation.handleSubmit( parent.handleFormSubmit ) } > ${is_dummy_markup ? message_position === 'top' ? props.ResponseDummyMarkup(message_successIcon, message_proClass) : '' : ''} ${is_dummy_markup ? ' ' : message_position === 'top' ? props.SubmitResponseMarkup`${parent}${state}${message_successIcon}${message_errorIcon}${message_proClass}` : ''} <!-------------------------------------------------------- *** IMPORTANT / DANGEROUS *** ${html``} must be used as in immediate child of \"metform-form-main-wrapper\" class otherwise multistep form will not run at all ----------------------------------------------------------> <div className=\"metform-form-main-wrapper\" key=${'hide-form-after-submit'} ref=${parent.formRef}> ${html` <div data-elementor-type=\"wp-post\" key=\"2\" data-elementor-id=\"26165\" className=\"elementor elementor-26165\" data-elementor-post-type=\"metform-form\"> <div className=\"elementor-element elementor-element-8473346 e-flex e-con-boxed e-con e-parent\" data-id=\"8473346\" data-element_type=\"container\"> <div className=\"e-con-inner\"> <div className=\"elementor-element elementor-element-c94e3da e-con-full e-flex e-con e-child\" data-id=\"c94e3da\" data-element_type=\"container\"> <div className=\"elementor-element elementor-element-ae50591 elementor-widget__width-initial hottext elementor-widget elementor-widget-mf-telephone\" data-id=\"ae50591\" data-element_type=\"widget\" data-settings=\"{&quot;mf_input_name&quot;:&quot;mf-telephone&quot;}\" data-widget_type=\"mf-telephone.default\"> <div className=\"elementor-widget-container\"> <div className=\"mf-input-wrapper\"> <label className=\"mf-input-label\" htmlFor=\"mf-input-telephone-ae50591\"> ${ parent.decodeEntities(`Viber`) } <span className=\"mf-input-required-indicator\"></span> </label> <input type=\"tel\" className=\"mf-input \" id=\"mf-input-telephone-ae50591\" name=\"mf-telephone\" placeholder=\"${ parent.decodeEntities(`Τηλέφωνο`) } \" onInput=${parent.handleChange} aria-invalid=${validation.errors['mf-telephone'] ? 'true' : 'false'} ref=${el => parent.activateValidation({\"message\":\"\\u03a4\\u03bf \\u03c0\\u03b5\\u03b4\\u03af\\u03bf \\u03b1\\u03c0\\u03b1\\u03b9\\u03c4\\u03b5\\u03af\\u03c4\\u03b1\\u03b9\",\"minLength\":10,\"maxLength\":10,\"type\":\"by_character_length\",\"required\":false,\"expression\":\"null\"}, el)} /> <${validation.ErrorMessage} errors=${validation.errors} name=\"mf-telephone\" as=${html`<span className=\"mf-error-message\"></span>`} /> </div> </div> </div> </div> <div className=\"elementor-element elementor-element-8448aca e-con-full e-flex e-con e-child\" data-id=\"8448aca\" data-element_type=\"container\"> <div className=\"elementor-element elementor-element-a2e0ecb elementor-widget__width-initial hottext elementor-widget elementor-widget-mf-email\" data-id=\"a2e0ecb\" data-element_type=\"widget\" data-settings=\"{&quot;mf_input_name&quot;:&quot;mf-email&quot;}\" data-widget_type=\"mf-email.default\"> <div className=\"elementor-widget-container\"> <div className=\"mf-input-wrapper\"> <label className=\"mf-input-label\" htmlFor=\"mf-input-email-a2e0ecb\"> ${ parent.decodeEntities(`Newsletter`) } <span className=\"mf-input-required-indicator\"></span> </label> <input type=\"email\" defaultValue=\"\" className=\"mf-input \" id=\"mf-input-email-a2e0ecb\" name=\"mf-email\" placeholder=\"${ parent.decodeEntities(`E-mail`) } \" onBlur=${parent.handleChange} onFocus=${parent.handleChange} aria-invalid=${validation.errors['mf-email'] ? 'true' : 'false' } ref=${el=> parent.activateValidation({\"message\":\"\\u03a4\\u03bf \\u03c0\\u03b5\\u03b4\\u03af\\u03bf \\u03b1\\u03c0\\u03b1\\u03b9\\u03c4\\u03b5\\u03af\\u03c4\\u03b1\\u03b9\",\"emailMessage\":\"Please enter a valid Email address\",\"minLength\":8,\"maxLength\":\"\",\"type\":\"by_character_length\",\"required\":false,\"expression\":\"null\"}, el)} /> <${validation.ErrorMessage} errors=${validation.errors} name=\"mf-email\" as=${html`<span className=\"mf-error-message\"></span>`} /> </div> </div> </div> <div className=\"elementor-element elementor-element-d515b16 hotbutton mf-btn--center elementor-widget elementor-widget-mf-button\" data-id=\"d515b16\" data-element_type=\"widget\" data-widget_type=\"mf-button.default\"> <div className=\"elementor-widget-container\"> <div className=\"mf-btn-wraper \" data-mf-form-conditional-logic-requirement=\"\"> <button type=\"submit\" className=\"metform-btn metform-submit-btn newsletter\" id=\"\"> <span>${ parent.decodeEntities(`&gt;`) } </span> </button> </div> </div> </div> </div> </div> </div> <div className=\"elementor-element elementor-element-520438c e-flex e-con-boxed e-con e-parent\" data-id=\"520438c\" data-element_type=\"container\"> <div className=\"e-con-inner\"> <div className=\"elementor-element elementor-element-856b91f elementor-widget elementor-widget-mf-gdpr-consent\" data-id=\"856b91f\" data-element_type=\"widget\" data-settings=\"{&quot;mf_input_name&quot;:&quot;mf-gdpr-consent&quot;}\" data-widget_type=\"mf-gdpr-consent.default\"> <div className=\"elementor-widget-container\"> <div className=\"mf-input-wrapper\"> <div className=\"mf-checkbox multi-option-input-type\" id=\"mf-input-gdpr-856b91f\"> <div className=\"mf-checkbox-option\"> <label> <input type=\"checkbox\" className=\"mf-input mf-checkbox-input \" name=\"mf-gdpr-consent\" onInput=${ parent.handleOptin } aria-invalid=${validation.errors['mf-gdpr-consent'] ? 'true' : 'false'} ref=${ el => parent.activateValidation({\"message\":\"\\u03a4\\u03bf \\u03c0\\u03b5\\u03b4\\u03af\\u03bf \\u03b1\\u03c0\\u03b1\\u03b9\\u03c4\\u03b5\\u03af\\u03c4\\u03b1\\u03b9\",\"minLength\":1,\"maxLength\":\"\",\"type\":\"none\",\"required\":true,\"expression\":\"null\"}, el) } /> <span> Έχω ενημερωθεί για την επεξεργασία προσωπικών δεδομένων, δηλώνω ότι είμαι άνω των 18 ετών και δίνω την συγκατάθεσή μου, όπως ορίζεται εδώ. </span> </label> </div> </div> <${validation.ErrorMessage} errors=${validation.errors} name=\"mf-gdpr-consent\" as=${html`<span className=\"mf-error-message\"></span>`} /> </div> </div> </div> </div> </div> </div> `} </div> ${is_dummy_markup ? message_position === 'bottom' ? props.ResponseDummyMarkup(message_successIcon, message_proClass) : '' : ''} ${is_dummy_markup ? ' ' : message_position === 'bottom' ? props.SubmitResponseMarkup`${parent}${state}${message_successIcon}${message_errorIcon}${message_proClass}` : ''} </form> ` Ευκαιρίες Καριέρας Αν επιθυμείτε να εργαστείτε δίπλα στους καλύτερους Πλαστικούς Χειρουργούς & Δερματολόγους της Ελλάδας, στείλτε μας το βιογραφικό σας! ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ (+30) 210 644 4299 Viber (+30) 6949 011330 Κλινική Αθήνας Βασ. Σοφίας & Δορυλαίου 4, τ.κ. 11521 Κλινική Γλυφάδας Λ. Βουλιαγμένης & Ιασωνίδου 2, τ.κ. 16777 E-mail info@dermplasticclinic.gr Ωράριο Λειτουργίας Δευτέρα – Παρασκευή:11.00 – 20.00Σάββατο:11.00 – 19.30 Βραβεία Let's Talk on Social Instagram Tik Tok Facebook Youtube Derm Plastic Clinic – Copyright © 2025 Όροι Χρήσης | Πολιτική Απορρήτου",
+  "rating": 4.8,
+  "reviewsCount": 115,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 6444 299",
+      "href": "tel:2106444299"
+    },
+    {
+      "label": "Email",
+      "value": "info@dermplasticclinic.gr",
+      "href": "mailto:info@dermplasticclinic.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Αποκλειστικές Hot & Top Θεραπείες για τα Μέλη μας! Αποκλειστικές Hot & TopΘεραπείες για τα Μέλη μας! function controls_data (value){ let currentWrapper = \"mf-response-props-id-26165\"; let currentEl = document.getElementById(currentWrapper); return currentEl ? currentEl.dataset[value] : false } let is_edit_mode = '' ? true : false; let message_position = controls_data('messageposition') || 'top'; let message_successIcon = controls_data('successicon') || ''; let message_errorIcon = controls_data('erroricon') || ''; let message_editSwitch = controls_data('editswitchopen') === 'yes' ? true : false; let message_proClass = controls_data('editswitchopen') === 'yes' ? 'mf_pro_activated' : ''; let is_dummy_markup = is_edit_mode && message_editSwitch ? true : false; return html` <form className=\"metform-form-content\" ref=${parent.formContainerRef} onSubmit=${ validation.handleSubmit( parent.handleFormSubmit ) } > ${is_dummy_markup ? message_position === 'top' ? props.ResponseDummyMarkup(message_successIcon, message_proClass) : '' : ''} ${is_dummy_markup ? ' ' : message_position === 'top' ? props.SubmitResponseMarkup`${parent}${state}${message_successIcon}${message_errorIcon}${message_proClass}` : ''} <!-------------------------------------------------------- *** IMPORTANT / DANGEROUS *** ${html``} must be used as in immediate child of \"metform-form-main-wrapper\" class otherwise multistep form will not run at all ----------------------------------------------------------> <div className=\"metform-form-main-wrapper\" key=${'hide-form-after-submit'} ref=${parent.formRef}> ${html` <div data-elementor-type=\"wp-post\" key=\"2\" data-elementor-id=\"26165\" className=\"elementor elementor-26165\" data-elementor-post-type=\"metform-form\"> <div className=\"elementor-element elementor-element-8473346 e-flex e-con-boxed e-con e-parent\" data-id=\"8473346\" data-element_type=\"container\"> <div className=\"e-con-inner\"> <div className=\"elementor-element elementor-element-c94e3da e-con-full e-flex e-con e-child\" data-id=\"c94e3da\" data-element_type=\"container\"> <div className=\"elementor-element elementor-element-ae50591 elementor-widget__width-initial hottext elementor-widget elementor-widget-mf-telephone\" data-id=\"ae50591\" data-element_type=\"widget\" data-settings=\"{&quot;mf_input_name&quot;:&quot;mf-telephone&quot;}\" data-widget_type=\"mf-telephone.default\"> <div className=\"elementor-widget-container\"> <div className=\"mf-input-wrapper\"> <label className=\"mf-input-label\" htmlFor=\"mf-input-telephone-ae50591\"> ${ parent.decodeEntities(`Viber`) } <span className=\"mf-input-required-indicator\"></span> </label> <input type=\"tel\" className=\"mf-input \" id=\"mf-input-telephone-ae50591\" name=\"mf-telephone\" placeholder=\"${ parent.decodeEntities(`Τηλέφωνο`) } \" onInput=${parent.handleChange} aria-invalid=${validation.errors['mf-telephone'] ? 'true' : 'false'} ref=${el => parent.activateValidation({\"message\":\"\\u03a4\\u03bf \\u03c0\\u03b5\\u03b4\\u03af\\u03bf \\u03b1\\u03c0\\u03b1\\u03b9\\u03c4\\u03b5\\u03af\\u03c4\\u03b1\\u03b9\",\"minLength\":10,\"maxLength\":10,\"type\":\"by_character_length\",\"required\":false,\"expression\":\"null\"}, el)} /> <${validation.ErrorMessage} errors=${validation.errors} name=\"mf-telephone\" as=${html`<span className=\"mf-error-message\"></span>`} /> </div> </div> </div> </div> <div className=\"elementor-element elementor-element-8448aca e-con-full e-flex e-con e-child\" data-id=\"8448aca\" data-element_type=\"container\"> <div className=\"elementor-element elementor-element-a2e0ecb elementor-widget__width-initial hottext elementor-widget elementor-widget-mf-email\" data-id=\"a2e0ecb\" data-element_type=\"widget\" data-settings=\"{&quot;mf_input_name&quot;:&quot;mf-email&quot;}\" data-widget_type=\"mf-email.default\"> <div className=\"elementor-widget-container\"> <div className=\"mf-input-wrapper\"> <label className=\"mf-input-label\" htmlFor=\"mf-input-email-a2e0ecb\"> ${ parent.decodeEntities(`Newsletter`) } <span className=\"mf-input-required-indicator\"></span> </label> <input type=\"email\" defaultValue=\"\" className=\"mf-input \" id=\"mf-input-email-a2e0ecb\" name=\"mf-email\" placeholder=\"${ parent.decodeEntities(`E-mail`) } \" onBlur=${parent.handleChange} onFocus=${parent.handleChange} aria-invalid=${validation.errors['mf-email'] ? 'true' : 'false' } ref=${el=> parent.activateValidation({\"message\":\"\\u03a4\\u03bf \\u03c0\\u03b5\\u03b4\\u03af\\u03bf \\u03b1\\u03c0\\u03b1\\u03b9\\u03c4\\u03b5\\u03af\\u03c4\\u03b1\\u03b9\",\"emailMessage\":\"Please enter a valid Email address\",\"minLength\":8,\"maxLength\":\"\",\"type\":\"by_character_length\",\"required\":false,\"expression\":\"null\"}, el)} /> <${validation.ErrorMessage} errors=${validation.errors} name=\"mf-email\" as=${html`<span className=\"mf-error-message\"></span>`} /> </div> </div> </div> <div className=\"elementor-element elementor-element-d515b16 hotbutton mf-btn--center elementor-widget elementor-widget-mf-button\" data-id=\"d515b16\" data-element_type=\"widget\" data-widget_type=\"mf-button.default\"> <div className=\"elementor-widget-container\"> <div className=\"mf-btn-wraper \" data-mf-form-conditional-logic-requirement=\"\"> <button type=\"submit\" className=\"metform-btn metform-submit-btn newsletter\" id=\"\"> <span>${ parent.decodeEntities(`&gt;`) } </span> </button> </div> </div> </div> </div> </div> </div> <div className=\"elementor-element elementor-element-520438c e-flex e-con-boxed e-con e-parent\" data-id=\"520438c\" data-element_type=\"container\"> <div className=\"e-con-inner\"> <div className=\"elementor-element elementor-element-856b91f elementor-widget elementor-widget-mf-gdpr-consent\" data-id=\"856b91f\" data-element_type=\"widget\" data-settings=\"{&quot;mf_input_name&quot;:&quot;mf-gdpr-consent&quot;}\" data-widget_type=\"mf-gdpr-consent.default\"> <div className=\"elementor-widget-container\"> <div className=\"mf-input-wrapper\"> <div className=\"mf-checkbox multi-option-input-type\" id=\"mf-input-gdpr-856b91f\"> <div className=\"mf-checkbox-option\"> <label> <input type=\"checkbox\" className=\"mf-input mf-checkbox-input \" name=\"mf-gdpr-consent\" onInput=${ parent.handleOptin } aria-invalid=${validation.errors['mf-gdpr-consent'] ? 'true' : 'false'} ref=${ el => parent.activateValidation({\"message\":\"\\u03a4\\u03bf \\u03c0\\u03b5\\u03b4\\u03af\\u03bf \\u03b1\\u03c0\\u03b1\\u03b9\\u03c4\\u03b5\\u03af\\u03c4\\u03b1\\u03b9\",\"minLength\":1,\"maxLength\":\"\",\"type\":\"none\",\"required\":true,\"expression\":\"null\"}, el) } /> <span> Έχω ενημερωθεί για την επεξεργασία προσωπικών δεδομένων, δηλώνω ότι είμαι άνω των 18 ετών και δίνω την συγκατάθεσή μου, όπως ορίζεται εδώ. </span> </label> </div> </div> <${validation.ErrorMessage} errors=${validation.errors} name=\"mf-gdpr-consent\" as=${html`<span className=\"mf-error-message\"></span>`} /> </div> </div> </div> </div> </div> </div> `} </div> ${is_dummy_markup ? message_position === 'bottom' ? props.ResponseDummyMarkup(message_successIcon, message_proClass) : '' : ''} ${is_dummy_markup ? ' ' : message_position === 'bottom' ? props.SubmitResponseMarkup`${parent}${state}${message_successIcon}${message_errorIcon}${message_proClass}` : ''} </form> ` Ευκαιρίες Καριέρας Αν επιθυμείτε να εργαστείτε δίπλα στους καλύτερους Πλαστικούς Χειρουργούς & Δερματολόγους της Ελλάδας, στείλτε μας το βιογραφικό σας! ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ (+30) 210 644 4299 Viber (+30) 6949 011330 Κλινική Αθήνας Βασ. Σοφίας & Δορυλαίου 4, τ.κ. 11521 Κλινική Γλυφάδας Λ. Βουλιαγμένης & Ιασωνίδου 2, τ.κ. 16777 E-mail info@dermplasticclinic.gr Ωράριο Λειτουργίας Δευτέρα – Παρασκευή:11.00 – 20.00Σάββατο:11.00 – 19.30 Βραβεία Let's Talk on Social Instagram Tik Tok Facebook Youtube Derm Plastic Clinic – Copyright © 2025 Όροι Χρήσης | Πολιτική Απορρήτου"
+    },
+    {
+      "label": "Booking page",
+      "value": "Open booking page",
+      "href": "https://dermplasticclinic.gr/en/book-an-appointment"
+    }
+  ],
+  "services": [
+    "Acne Treatment",
+    "The Best Treatments for Acne and Acne Scars!",
+    "Before and After Photos of Acne Treatments",
+    "Fractional Laser",
+    "Nd-YAG Acne Laser",
+    "Dermalux Photodynamic PDT Acne Treatment",
+    "Acne Treatment without Medication - With the award winning “Make It Clear” protocol",
+    "Acne Treatment Cost - Prices"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Στις Κλινικές Derm & Plastic θα βρείτε το κορυφαίο και βραβευμένο ιατρικό πρωτόκολλο Cellustop για την αντιμετώπιση κυτταρίτιδας, που έχει τη δυνατότητα να δράσει στη ρίζα του προβλήματος, καταπολεμώντας την όψη «φλοιού",
+    "Η βραβευμένη Κλινική Πλαστικής & Δερματολογίας Τα βραβεία μας Γνωρίζουμε πως να μετατρέψουμε ακόμα και την πιο απλή αισθητική θεραπεία σε μία σημαντική εμπειρία ανανέωσης, όχι μόνο της εξωτερικής σας εμφάνισης, αλλά και",
+    "Για αυτό εξάλλου βραβευτήκαμε ως η Καλύτερη Κλινική Πλαστικής Χειρουργικής και Αισθητικής Δερματολογίας στα Medical Awards 2024, παίρνοντας 8 Bραβεία για τα ιατρικά μας πρωτόκολλα, που αποτελούν Signature Beauty Θεραπείε"
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Contact page URL: No explicit contact page was identified.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Plastic surgeon",
+    "4.8 rating",
+    "115 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Acne Treatment",
+    "The Best Treatments for Acne and Acne Scars!",
+    "Before and After Photos of Acne Treatments"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=DERM%20%26%20PLASTIC%20SURGERY%20CLINIC%20%CE%93%CE%9B%CE%A5%CE%A6%CE%91%CE%94%CE%91&query_place_id=ChIJmflOQLi_oRQRqwRFNs2SV2o",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:31.903Z",
+      "excerpt": "DERM & PLASTIC SURGERY CLINIC ΓΛΥΦΑΔΑ"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://dermplasticclinic.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:31.903Z",
+      "excerpt": "Οι Καλύτεροι Πλαστικοί Χειρουργοί & Δερματολόγοι!Google-color"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://dermplasticclinic.gr/en/acne-treatments",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.903Z",
+      "excerpt": "Acne & Acne Scars | Best Treatments, Prices, Before & After!Google-color"
+    }
+  ]
+}

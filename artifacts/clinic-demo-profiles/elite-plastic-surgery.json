@@ -1,0 +1,159 @@
+{
+  "slug": "elite-plastic-surgery",
+  "businessName": "Σχετικά με την κλινική",
+  "category": "Plastic surgeon",
+  "template": {
+    "slug": "medspa",
+    "title": "Medspa",
+    "description": "Beauty and treatment template with soft luxury cues, consultation CTAs, and treatment storytelling.",
+    "audienceLabel": "Consultation-driven treatment brands with a premium positioning angle",
+    "bestFor": "Med spas, fertility, aesthetics, dermatology, and plastic surgery clinics",
+    "recommendedFor": [
+      "Premium treatment framing",
+      "Consultation CTA",
+      "Soft-luxury treatment story"
+    ],
+    "featured": true,
+    "accentColor": "#EC606A",
+    "sourceUrl": "https://medspa.virtualpros.com/",
+    "pageHref": "/industries/medspa/mirror",
+    "mirrorHref": "/industries/medspa/mirror",
+    "heroHeading": "LOCATION & CONTACT",
+    "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+    "heroPrimaryCta": "Contacts",
+    "sectionHighlights": [],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Oswald",
+      "Roboto",
+      "'Lato'"
+    ],
+    "paletteTheme": {
+      "primary": "#EC606A",
+      "secondary": "#E93D3D",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#E93D3D"
+    },
+    "templateSummary": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin."
+  },
+  "summary": "Σχετικά με την κλινική Plastic surgeon in Σύνταγμα with services such as Μεσοθεραπεία Προσώπου, Θεραπεία Αντιγήρανσης, Αυτόλογη Μεσοθεραπεία",
+  "heroHeading": "Σχετικά με την κλινική matched to the Medspa core demo",
+  "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+  "websiteUrl": "https://www.eliteplasticsurgery.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Elite%20Plastic%20Surgery%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1&query_place_id=ChIJffPiRzy9oRQRvQIhdRzLMbg",
+  "address": "Ermou 18, Athina 105 63, Greece",
+  "rating": 4.8,
+  "reviewsCount": 926,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "2114115398",
+      "href": "tel:2114115398"
+    },
+    {
+      "label": "Email",
+      "value": "info@eliteplasticsurgery.gr",
+      "href": "mailto:info@eliteplasticsurgery.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Ermou 18, Athina 105 63, Greece"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.eliteplasticsurgery.gr/contact"
+    }
+  ],
+  "services": [
+    "Μεσοθεραπεία Προσώπου",
+    "Θεραπεία Αντιγήρανσης",
+    "Αυτόλογη Μεσοθεραπεία",
+    "Brotox – Ανδρική Θεραπεία κατά των Ρυτίδων",
+    "Μεσοθεραπεία Σώματος",
+    "Laser",
+    "Προετοιμάσου για το Καλοκαίρι: Ο πλήρης οδηγός για Laser Αποτρίχωση"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Παρακολουθούμε τις εξελίξεις, ενημερωνόμαστε, και συνεργαζόμαστε μόνο με διεθνώς καταξιωμένες εταιρείες παραγωγής ιατρικών προϊόντων πιστοποιημένων σύμφωνα με τα πρότυπα παγκόσμιων οργανισμών υγείας."
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Plastic surgeon",
+    "4.8 rating",
+    "926 reviews",
+    "snapshot ready",
+    "Medspa"
+  ],
+  "overlayServices": [
+    "Μεσοθεραπεία Προσώπου",
+    "Θεραπεία Αντιγήρανσης",
+    "Αυτόλογη Μεσοθεραπεία"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Elite%20Plastic%20Surgery%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1&query_place_id=ChIJffPiRzy9oRQRvQIhdRzLMbg",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:29.253Z",
+      "excerpt": "Elite Plastic Surgery Αθήνα"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.eliteplasticsurgery.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:29.253Z",
+      "excerpt": "Elite | Plastic Surgery Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.eliteplasticsurgery.gr/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.253Z",
+      "excerpt": "Επικοινωνία - Elite Plastic Surgery"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.eliteplasticsurgery.gr/treatment/face",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.253Z",
+      "excerpt": "Πρόσωπο Archives - Elite Plastic Surgery"
+    }
+  ]
+}

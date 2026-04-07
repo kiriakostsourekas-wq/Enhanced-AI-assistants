@@ -1,0 +1,159 @@
+{
+  "slug": "athens-dental-care",
+  "businessName": "Όλες οι ειδικότητες σε έναν χώρο!",
+  "category": "Dental clinic",
+  "template": {
+    "slug": "cardealership",
+    "title": "Car Dealership",
+    "description": "Dark dealership landing page built around inventory trust, pricing, and premium vehicle presentation.",
+    "audienceLabel": "Inventory-heavy offers that need premium visual framing",
+    "bestFor": "Dealers, brokers, and other catalogue-led businesses",
+    "recommendedFor": [
+      "Inventory trust",
+      "Premium visuals",
+      "Finance-ready CTAs"
+    ],
+    "featured": false,
+    "accentColor": "#060644",
+    "sourceUrl": "https://cardealership.virtualpros.com/",
+    "pageHref": "/industries/cardealership/mirror",
+    "mirrorHref": "/industries/cardealership/mirror",
+    "heroHeading": "Premium quality, vetted vehicles, half the price.",
+    "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Inventory",
+      "New Cars",
+      "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+      "Used Cars",
+      "Recent News",
+      "Our Commitment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "'Lato'",
+      "Exo",
+      "Exo 2"
+    ],
+    "paletteTheme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    },
+    "templateSummary": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry."
+  },
+  "summary": "Όλες οι ειδικότητες σε έναν χώρο! Dental clinic in Athens with services such as Χειρουργική Στόματος, Εύκολες θεραπείες σε μικρές ηλικίες",
+  "heroHeading": "Όλες οι ειδικότητες σε έναν χώρο! matched to the Car Dealership core demo",
+  "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+  "websiteUrl": "https://athensdentalcare.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Athens%20Dental%20Care%20-%20%CE%9F%CE%B4%CE%BF%CE%BD%CF%84%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CF%8C%20%CE%BA%CE%AD%CE%BD%CF%84%CF%81%CE%BF&query_place_id=ChIJKYo-NkS9oRQRf5IF4JOh5uw",
+  "address": "/* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"https:\\/\\/athensdentalcare.gr\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */",
+  "rating": 4.8,
+  "reviewsCount": 378,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 72 93 211",
+      "href": "tel:2107293211"
+    },
+    {
+      "label": "Email",
+      "value": "info@athensdentalcare.com",
+      "href": "mailto:info@athensdentalcare.com"
+    },
+    {
+      "label": "Address",
+      "value": "/* <![CDATA[ */ var wpcf7 = {\"api\":{\"root\":\"https:\\/\\/athensdentalcare.gr\\/wp-json\\/\",\"namespace\":\"contact-form-7\\/v1\"}}; /* ]]> */"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://athensdentalcare.gr/contact"
+    }
+  ],
+  "services": [
+    "Χειρουργική Στόματος",
+    "Εύκολες θεραπείες σε μικρές ηλικίες"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Dental clinic",
+    "4.8 rating",
+    "378 reviews",
+    "snapshot ready",
+    "Car Dealership"
+  ],
+  "overlayServices": [
+    "Χειρουργική Στόματος",
+    "Εύκολες θεραπείες σε μικρές ηλικίες"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Athens%20Dental%20Care%20-%20%CE%9F%CE%B4%CE%BF%CE%BD%CF%84%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CF%8C%20%CE%BA%CE%AD%CE%BD%CF%84%CF%81%CE%BF&query_place_id=ChIJKYo-NkS9oRQRf5IF4JOh5uw",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:30.497Z",
+      "excerpt": "Athens Dental Care - Οδοντιατρικό κέντρο"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://athensdentalcare.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:30.497Z",
+      "excerpt": "Αρχική - Athens Dental Care"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://athensdentalcare.gr/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.497Z",
+      "excerpt": "Επικοινωνία - Athens Dental Care"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://athensdentalcare.gr/services",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.497Z",
+      "excerpt": "Ειδικότητες - Athens Dental Care"
+    }
+  ]
+}

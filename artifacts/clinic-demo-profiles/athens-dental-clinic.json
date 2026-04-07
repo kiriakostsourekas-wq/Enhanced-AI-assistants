@@ -1,0 +1,166 @@
+{
+  "slug": "athens-dental-clinic",
+  "businessName": "Athens Dental Clinic",
+  "category": "Dental clinic",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Athens Dental Clinic Dental clinic in Σύνταγμα with services such as Όλες οι Θεραπείες μας, LASER ΟΔΟΝΤΙΑΤΡΙΚΗ, Laser Οδοντιατρική",
+  "heroHeading": "Athens Dental Clinic matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.athensdentalspecialists.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Athens%20Dental%20Clinic&query_place_id=ChIJg_aPfxO9oRQRtAeJpPW8QwU",
+  "address": "info@athensdentalspecialist.gr+30 210 32 32 553κατόπιν ραντεβού",
+  "rating": 4.9,
+  "reviewsCount": 42,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+30 210 32 32 553",
+      "href": "tel:+302103232553"
+    },
+    {
+      "label": "Email",
+      "value": "info@athensdentalspecialist.gr",
+      "href": "mailto:info@athensdentalspecialist.gr"
+    },
+    {
+      "label": "Address",
+      "value": "info@athensdentalspecialist.gr+30 210 32 32 553κατόπιν ραντεβού"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.athensdentalspecialists.gr/index.php/el/contact-us"
+    },
+    {
+      "label": "Booking page",
+      "value": "Open booking page",
+      "href": "https://www.athensdentalspecialists.gr/index.php/el/appointment"
+    }
+  ],
+  "services": [
+    "Όλες οι Θεραπείες μας",
+    "LASER ΟΔΟΝΤΙΑΤΡΙΚΗ",
+    "Laser Οδοντιατρική"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified.",
+    "Logo URL: No explicit logo asset could be inferred confidently from the homepage HTML."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Dental clinic",
+    "4.9 rating",
+    "42 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Όλες οι Θεραπείες μας",
+    "LASER ΟΔΟΝΤΙΑΤΡΙΚΗ",
+    "Laser Οδοντιατρική"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Athens%20Dental%20Clinic&query_place_id=ChIJg_aPfxO9oRQRtAeJpPW8QwU",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.556Z",
+      "excerpt": "Athens Dental Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athensdentalspecialists.gr/index.php/el",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.556Z",
+      "excerpt": "Athens Dental Specialiasts, Οδοντιατρείο Αθήνα - ΟΔΟΝΤΙΑΤΡΟΣ, ΣΥΝΤΑΓΜΑ"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athensdentalspecialists.gr/index.php/el/about",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.556Z",
+      "excerpt": "Οδοντιατροι, Athens Dental Specialists"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athensdentalspecialists.gr/index.php/el/contact-us",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.556Z",
+      "excerpt": "Ορθοδοντική"
+    }
+  ]
+}

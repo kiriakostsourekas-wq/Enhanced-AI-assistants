@@ -1,0 +1,174 @@
+{
+  "slug": "solomonidis-georgios",
+  "businessName": "Αρχική - Solomonidis Dental",
+  "category": "Dentist",
+  "template": {
+    "slug": "dental",
+    "title": "Dental",
+    "description": "Dental clinic template with procedure categories, bright accenting, and trust-forward service blocks.",
+    "audienceLabel": "Dental practices, implant clinics, and cosmetic dentistry offers",
+    "bestFor": "Dentists that need procedure-led sections and a strong booking CTA",
+    "recommendedFor": [
+      "Procedure-led layout",
+      "Dental trust blocks",
+      "Booking-first conversion"
+    ],
+    "featured": true,
+    "accentColor": "#F96331",
+    "sourceUrl": "https://dental.virtualpros.com/",
+    "pageHref": "/industries/dental/mirror",
+    "mirrorHref": "/industries/dental/mirror",
+    "heroHeading": "Our Dental Services",
+    "heroSubheading": "Our goal is to make sure with advances in technology and technique",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Implant Dentistry",
+      "Preventive Dentistry",
+      "Restorative Dentistry",
+      "Digital Diagnostics",
+      "Amanda Smith"
+    ],
+    "ctaHighlights": [
+      "About us",
+      "Services",
+      "Practices",
+      "Contact Us",
+      "Virtual Pros.",
+      "Talk to Our AI Agent+1 (469) 640-7565"
+    ],
+    "navLabels": [
+      "About us",
+      "Services",
+      "Practices",
+      "Contact Us",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Lora",
+      "Nunito",
+      "Yellowtail"
+    ],
+    "paletteTheme": {
+      "primary": "#F96331",
+      "secondary": "#2DCBBE",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#2DCBBE"
+    },
+    "templateSummary": "Our goal is to make sure with advances in technology and technique"
+  },
+  "summary": "Αρχική - Solomonidis Dental Dentist with services such as Χειρουργική Στόματος​, Χειρουργός Οδοντίατρος, Εμφυτευματολόγος, Γναθολόγος, Χειρουργός Οδοντίατρος",
+  "heroHeading": "Αρχική - Solomonidis Dental matched to the Dental core demo",
+  "heroSubheading": "Our goal is to make sure with advances in technology and technique",
+  "websiteUrl": "https://www.solomonidisdental.com/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Solomonidis%20Georgios&query_place_id=ChIJK9hA6f-XoRQRJWftCJUJ-7w",
+  "address": "Ακολουθήστε μας στα social media Instagram Facebook Tiktok document.addEventListener(\"DOMContentLoaded\", function () { // Query both headers (desktop + mobile) const headers = document.querySelectorAll('[data-section=\"section-primary-header-builder\"]'); headers.forEach((header) => { // Create an invisible sentinel just before each header const sentinel = document.createElement(\"div\"); sentinel.style.height = \"1px\"; header.parentNode.insertBefore(sentinel, header); const observer = new IntersectionObserver( ([entry]) => { if (!entry.isIntersecting) { header.classList.add(\"fixed-header\"); } else { header.classList.remove(\"fixed-header\"); } }, { threshold: 0 } ); observer.observe(sentinel); }); }); Προστασία Προσωπικών Δεδομένων Πολιτική Cookies Copyright © 2025",
+  "rating": 4.8,
+  "reviewsCount": 635,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+30 2107796158",
+      "href": "tel:+302107796158"
+    },
+    {
+      "label": "Email",
+      "value": "info@solomonidisdental.com",
+      "href": "mailto:info@solomonidisdental.com"
+    },
+    {
+      "label": "Address",
+      "value": "Ακολουθήστε μας στα social media Instagram Facebook Tiktok document.addEventListener(\"DOMContentLoaded\", function () { // Query both headers (desktop + mobile) const headers = document.querySelectorAll('[data-section=\"section-primary-header-builder\"]'); headers.forEach((header) => { // Create an invisible sentinel just before each header const sentinel = document.createElement(\"div\"); sentinel.style.height = \"1px\"; header.parentNode.insertBefore(sentinel, header); const observer = new IntersectionObserver( ([entry]) => { if (!entry.isIntersecting) { header.classList.add(\"fixed-header\"); } else { header.classList.remove(\"fixed-header\"); } }, { threshold: 0 } ); observer.observe(sentinel); }); }); Προστασία Προσωπικών Δεδομένων Πολιτική Cookies Copyright © 2025"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.solomonidisdental.com/contact-2"
+    }
+  ],
+  "services": [
+    "Χειρουργική Στόματος​",
+    "Χειρουργός Οδοντίατρος, Εμφυτευματολόγος, Γναθολόγος",
+    "Χειρουργός Οδοντίατρος",
+    "DR. Σολομωνίδης Γεώργιος​ Χειρουργός Οδοντίατρος, Εμφυτευματολόγος, Γναθολόγος",
+    "DR. Νίκος Μπαρτσώκας Χειρουργός Οδοντίατρος",
+    "DR. Χρυσόστομος Καλατζής ​ Χειρουργός Οδοντίατρος",
+    "DR. Στέλλα Χειροπούλου Χειρουργός Οδοντίατρος",
+    "DR. Χριστίνα Γουλάρα Χειρουργός Οδοντίατρος"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Αναλαμβάνει τη διάγνωση και τη θεραπεία των προβλημάτων της στοματικής κοιλότητας, μέσα από τις εξειδικευμένες γνώσεις των ιατρών του χώρου μας και με τον σύγχρονο και τελευταίας τεχνολογίας εξοπλισμό.",
+    "Κάθε τμήμα απαρτίζεται από εξειδικευμένο ιατρικό προσωπικό, το οποίο συνεργάζεται με κάθε άλλο τμήμα όταν απαιτείται σύμφωνα με το πρωτόκολλο."
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Neighborhood / Athens area: No neighborhood or clear Athens area signal could be detected confidently.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Dentist",
+    "4.8 rating",
+    "635 reviews",
+    "snapshot ready",
+    "Dental"
+  ],
+  "overlayServices": [
+    "Χειρουργική Στόματος​",
+    "Χειρουργός Οδοντίατρος, Εμφυτευματολόγος, Γναθολόγος",
+    "Χειρουργός Οδοντίατρος"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Solomonidis%20Georgios&query_place_id=ChIJK9hA6f-XoRQRJWftCJUJ-7w",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:29.928Z",
+      "excerpt": "Solomonidis Georgios"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.solomonidisdental.com/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:29.928Z",
+      "excerpt": "Αρχική - Solomonidis Dental"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.solomonidisdental.com/about",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.928Z",
+      "excerpt": "Σχετικά με εμάς - Solomonidis Dental"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.solomonidisdental.com/contact-2",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.928Z",
+      "excerpt": "Επικοινωνία - Solomonidis Dental"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.solomonidisdental.com/services",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.928Z",
+      "excerpt": "Υπηρεσίες - Solomonidis Dental"
+    }
+  ]
+}

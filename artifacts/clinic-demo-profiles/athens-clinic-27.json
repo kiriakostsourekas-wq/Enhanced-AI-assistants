@@ -1,0 +1,170 @@
+{
+  "slug": "athens-clinic-27",
+  "businessName": "Δρ Σταύρος Καρανίκας",
+  "category": "Cardiologist",
+  "template": {
+    "slug": "cardealership",
+    "title": "Car Dealership",
+    "description": "Dark dealership landing page built around inventory trust, pricing, and premium vehicle presentation.",
+    "audienceLabel": "Inventory-heavy offers that need premium visual framing",
+    "bestFor": "Dealers, brokers, and other catalogue-led businesses",
+    "recommendedFor": [
+      "Inventory trust",
+      "Premium visuals",
+      "Finance-ready CTAs"
+    ],
+    "featured": false,
+    "accentColor": "#060644",
+    "sourceUrl": "https://cardealership.virtualpros.com/",
+    "pageHref": "/industries/cardealership/mirror",
+    "mirrorHref": "/industries/cardealership/mirror",
+    "heroHeading": "Premium quality, vetted vehicles, half the price.",
+    "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Inventory",
+      "New Cars",
+      "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+      "Used Cars",
+      "Recent News",
+      "Our Commitment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "'Lato'",
+      "Exo",
+      "Exo 2"
+    ],
+    "paletteTheme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    },
+    "templateSummary": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry."
+  },
+  "summary": "Δρ Σταύρος Καρανίκας Cardiologist",
+  "heroHeading": "Δρ Σταύρος Καρανίκας matched to the Car Dealership core demo",
+  "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+  "websiteUrl": "https://karanikas-cardiology.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%CE%9A%CE%B1%CF%81%CE%B4%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CF%8C%20%CE%91%CF%81%CF%81%CF%85%CE%B8%CE%BC%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CF%8C%20%CE%99%CE%B1%CF%84%CF%81%CE%B5%CE%AF%CE%BF%20-%20%CE%A3%CF%84%CE%B1%CF%8D%CF%81%CE%BF%CF%82%20%CE%9A%CE%B1%CF%81%CE%B1%CE%BD%CE%AF%CE%BA%CE%B1%CF%82&query_place_id=ChIJa6xFP5q9oRQRYW_KsW1HkhQ",
+  "address": "ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Ηλεκτροκαρδιογράφημα Εμφυτεύσιμο Holter Υπερηχογράφημα καρδιάς Holter πιέσεως Εμφύτευση απινιδωτή Holter ρυθμού Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com",
+  "rating": 5,
+  "reviewsCount": 49,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+306978131340",
+      "href": "tel:+306978131340"
+    },
+    {
+      "label": "Email",
+      "value": "karanikasstavros@gmail.com",
+      "href": "mailto:karanikasstavros@gmail.com"
+    },
+    {
+      "label": "Address",
+      "value": "ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Ηλεκτροκαρδιογράφημα Εμφυτεύσιμο Holter Υπερηχογράφημα καρδιάς Holter πιέσεως Εμφύτευση απινιδωτή Holter ρυθμού Βασ. Σοφίας 92, Αθήνα 6978131340 6979970498 karanikasstavros@gmail.com"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://karanikas-cardiology.gr/contact"
+    }
+  ],
+  "services": [],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Το 2015 ολοκλήρωσε την ειδικότητα της Καρδιολογίας στο Κωνσταντοπούλειο Γενικό Νοσοκομείο Νέας Ιωνίας, ενώ παράλληλα περάτωσε τις μεταπτυχιακές του σπουδές στο Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών.",
+    "Στη συνέχεια, μετέβη στη Μεγάλη Βρετανία, όπου εξειδικεύτηκε στην εμφύτευση συσκευών καρδιακής βηματοδότησης και την αντιμετώπιση των καρδιακών αρρυθμιών.",
+    "Παράλληλα, επί τρία συναπτά έτη, διετέλεσε Επικουρικός Επιμελητής Καρδιολόγος στην Καρδιοχειρουργική Μονάδα Εντατικής Θεραπείας του Ωνασείου Καρδιοχειρουργικού Κέντρου.",
+    "Είναι μέλος της Ελληνικής Καρδιολογικής Εταιρείας και της Ευρωπαϊκής Αρρυθμιολογικής Εταιρείας (EHRA).",
+    "Δρ. Σταύρος Καρανίκας",
+    "Δρ. Καρανίκας Σταύρος"
+  ],
+  "people": [
+    "Δρ. Σταύρος Καρανίκας",
+    "Δρ. Καρανίκας Σταύρος"
+  ],
+  "unresolvedItems": [
+    "Core services / treatments: No reliable service list was extracted from the current snapshot.",
+    "Neighborhood / Athens area: No neighborhood or clear Athens area signal could be detected confidently.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Cardiologist",
+    "5.0 rating",
+    "49 reviews",
+    "snapshot ready",
+    "Car Dealership"
+  ],
+  "overlayServices": [],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=%CE%9A%CE%B1%CF%81%CE%B4%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CF%8C%20%CE%91%CF%81%CF%81%CF%85%CE%B8%CE%BC%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CF%8C%20%CE%99%CE%B1%CF%84%CF%81%CE%B5%CE%AF%CE%BF%20-%20%CE%A3%CF%84%CE%B1%CF%8D%CF%81%CE%BF%CF%82%20%CE%9A%CE%B1%CF%81%CE%B1%CE%BD%CE%AF%CE%BA%CE%B1%CF%82&query_place_id=ChIJa6xFP5q9oRQRYW_KsW1HkhQ",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.492Z",
+      "excerpt": "Καρδιολογικό Αρρυθμιολογικό Ιατρείο - Σταύρος Καρανίκας"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://karanikas-cardiology.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.492Z",
+      "excerpt": "Καρδιολόγος | Δρ. Σταύρος Καρανίκας"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://karanikas-cardiology.gr/kardiologos",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.492Z",
+      "excerpt": "Καρδιολόγος Αθήνα | Δρ. Καρανίκας Σταύρος"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://karanikas-cardiology.gr/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.492Z",
+      "excerpt": "Επικοινωνία |"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://karanikas-cardiology.gr/holter-rithmou",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.492Z",
+      "excerpt": "HOLTER ρυθμού | Τι είναι και γιατί είναι χρήσιμο;"
+    }
+  ]
+}

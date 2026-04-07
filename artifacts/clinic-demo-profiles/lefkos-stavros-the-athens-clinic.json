@@ -1,0 +1,178 @@
+{
+  "slug": "lefkos-stavros-the-athens-clinic",
+  "businessName": "Αρχική - ΛΕΥΚΟΣ ΣΤΑΥΡΟΣ",
+  "category": "Private hospital",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Αρχική - ΛΕΥΚΟΣ ΣΤΑΥΡΟΣ Private hospital in Athens with services such as CLINIC, LEFKOS STAYROS - The Athens Clinic, ROBOTIC PROSTATE TREATMENT AQUABLATION THEPARY",
+  "heroHeading": "Αρχική - ΛΕΥΚΟΣ ΣΤΑΥΡΟΣ matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://lefkosstavros.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lefkos%20Stavros%20-%20The%20Athens%20Clinic&query_place_id=ChIJZ7F_flC9oRQRpDQeUIcu9Fg",
+  "address": "Παπαδιαμαντοπούλου 16 & Γ. Σισίνη 1-3 115 28 Ιλίσια, Αθήνα EMAIL: info@lefkosstavros.gr",
+  "rating": 4.1,
+  "reviewsCount": 578,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 72 56 978",
+      "href": "tel:2107256978"
+    },
+    {
+      "label": "Email",
+      "value": "info@lefkosstavros.gr",
+      "href": "mailto:info@lefkosstavros.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Παπαδιαμαντοπούλου 16 & Γ. Σισίνη 1-3 115 28 Ιλίσια, Αθήνα EMAIL: info@lefkosstavros.gr"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://lefkosstavros.gr/contact-us-lefkos-stavros"
+    }
+  ],
+  "services": [
+    "CLINIC",
+    "LEFKOS STAYROS - The Athens Clinic",
+    "ROBOTIC PROSTATE TREATMENT AQUABLATION THEPARY",
+    "HIGH POWER LASER LITHOTRIPSY",
+    "Information on Admission Procedure & Diagnostic Tests",
+    "ΛΕΥΚΟΣ ΣΤΑΥΡΟΣ - The Athens Clinic",
+    "ΑΓΓΕΙΟΧΕΙΡΟΥΡΓΙΚO",
+    "Μεταβολικής Χειρουργικής & Παχυσαρκίας"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Αξιόπιστη διάγνωση, άριστο χειρουργικό αποτέλεσμα, ασφαλή και ευχάριστη νοσηλεία, αποτελεσματική θεραπεία αλλά και γρηγορότερη ανάρρωση.",
+    "Κέντρο Ρομποτικής Χειρουργικής – Center of Robotic Excellence.",
+    "Διαγνωστικά Τμήματα με υπερσύγχρονο εξοπλισμό και εξειδικευμένη ομάδα σε νέες καινοτόμες μεθόδους.",
+    "Ασφάλεια & Άνεση Διεθνείς πιστοποιήσεις και ποιοτικά πρότυπα δημιουργούν τις πλέον ασφαλείς συνθήκες και το βέλτιστο ιατρικό αποτέλεσμα.",
+    "Σισίνη 1-3 115 28 Ιλίσια, Αθήνα EMAIL: info@lefkosstavros.gr ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Καλέστε για ραντεβού 210 72 56 978 Νοσηλεία & Λογιστήριο ασθενών 210 72 53 961 Συνεργαζόμενοι φορείς Πιστοποιήσεις 2025 ΛΕΥΚΟΣ ΣΤΑΥΡΟΣ – The At"
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Private hospital",
+    "4.1 rating",
+    "578 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "CLINIC",
+    "LEFKOS STAYROS - The Athens Clinic",
+    "ROBOTIC PROSTATE TREATMENT AQUABLATION THEPARY"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Lefkos%20Stavros%20-%20The%20Athens%20Clinic&query_place_id=ChIJZ7F_flC9oRQRpDQeUIcu9Fg",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:30.020Z",
+      "excerpt": "Lefkos Stavros - The Athens Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://lefkosstavros.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:30.020Z",
+      "excerpt": "Αρχική - ΛΕΥΚΟΣ ΣΤΑΥΡΟΣ | The Athens Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://lefkosstavros.gr/about-us",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.020Z",
+      "excerpt": "About us - ΛΕΥΚΟΣ ΣΤΑΥΡΟΣ | The Athens Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://lefkosstavros.gr/contact-us-lefkos-stavros",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.020Z",
+      "excerpt": "Επικοινωνία | ΛΕΥΚΟΣ ΣΤΑΥΡΟΣ - ΛΕΥΚΟΣ ΣΤΑΥΡΟΣ | The Athens Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://lefkosstavros.gr/en/financial-services",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.020Z",
+      "excerpt": "Financial Services - ΛΕΥΚΟΣ ΣΤΑΥΡΟΣ | The Athens Clinic"
+    }
+  ]
+}

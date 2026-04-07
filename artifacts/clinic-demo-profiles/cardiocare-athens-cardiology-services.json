@@ -1,0 +1,164 @@
+{
+  "slug": "cardiocare-athens-cardiology-services",
+  "businessName": "Welcome",
+  "category": "Local medical services",
+  "template": {
+    "slug": "cardealership",
+    "title": "Car Dealership",
+    "description": "Dark dealership landing page built around inventory trust, pricing, and premium vehicle presentation.",
+    "audienceLabel": "Inventory-heavy offers that need premium visual framing",
+    "bestFor": "Dealers, brokers, and other catalogue-led businesses",
+    "recommendedFor": [
+      "Inventory trust",
+      "Premium visuals",
+      "Finance-ready CTAs"
+    ],
+    "featured": false,
+    "accentColor": "#060644",
+    "sourceUrl": "https://cardealership.virtualpros.com/",
+    "pageHref": "/industries/cardealership/mirror",
+    "mirrorHref": "/industries/cardealership/mirror",
+    "heroHeading": "Premium quality, vetted vehicles, half the price.",
+    "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Inventory",
+      "New Cars",
+      "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+      "Used Cars",
+      "Recent News",
+      "Our Commitment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "'Lato'",
+      "Exo",
+      "Exo 2"
+    ],
+    "paletteTheme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    },
+    "templateSummary": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry."
+  },
+  "summary": "Welcome Local medical services in Athens with services such as Θεραπεία:",
+  "heroHeading": "Welcome matched to the Car Dealership core demo",
+  "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+  "websiteUrl": "https://www.athens-cardiocare.com/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CardioCARE%20-%20Athens%20Cardiology%20Services&query_place_id=ChIJ3_0Lsz-9oRQRXL3h9INWZOc",
+  "address": "athenscardiocare@gmail.com©2022 by Athens CardioCARE. Proudly created with Wix.com",
+  "rating": 5,
+  "reviewsCount": 1,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "1774907918728",
+      "href": "tel:1774907918728"
+    },
+    {
+      "label": "Email",
+      "value": "athenscardiocare@gmail.com",
+      "href": "mailto:athenscardiocare@gmail.com"
+    },
+    {
+      "label": "Address",
+      "value": "athenscardiocare@gmail.com©2022 by Athens CardioCARE. Proudly created with Wix.com"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.athens-cardiocare.com/blank-2"
+    }
+  ],
+  "services": [
+    "Θεραπεία:"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Harry Pavlopoulos MD.MSc.FRSM.FASE.FESC.FACC.",
+    "Consultant CardiologistHome - ServicesAbout MeGalleryMedical InsurancesNutrition & FitnessTestimonialsContactMoreUse tab to navigate through the menu items.Nutrition & FitnessHealthy Diet: 8 steps to prevent Heart Diseas",
+    "The American Heart Association offers these guidelines for how much fat to include in a heart-healthy diet: ​ Type of fat Recommendation Saturated fat: Less than 6% of total daily calories.* If you're eating 2,000 calori",
+    "Nutrition & Fitness",
+    "Book Online Form"
+  ],
+  "people": [
+    "Nutrition & Fitness",
+    "Book Online Form"
+  ],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Local medical services",
+    "5.0 rating",
+    "1 reviews",
+    "snapshot ready",
+    "Car Dealership"
+  ],
+  "overlayServices": [
+    "Θεραπεία:"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=CardioCARE%20-%20Athens%20Cardiology%20Services&query_place_id=ChIJ3_0Lsz-9oRQRXL3h9INWZOc",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:33.606Z",
+      "excerpt": "CardioCARE - Athens Cardiology Services"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athens-cardiocare.com/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:33.606Z",
+      "excerpt": "Athens Cardiocare Cardiology Services | Καρδιολόγος Αθήνα / Stress Echo / MRI - Μαγνητική Καρδιάς"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athens-cardiocare.com/about-5",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.606Z",
+      "excerpt": "Nutrition & Fitness | Athens Cardiocare"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athens-cardiocare.com/blank-2",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.606Z",
+      "excerpt": "Contact | Athens Cardiocare"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "athens-medica",
+  "businessName": "Clinician-led, AI-enabled care for Obesity & Diabetes",
+  "category": "Medical clinic",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Clinician-led, AI-enabled care for Obesity & Diabetes Medical clinic in Athens with services such as Clinician-led, AI-enabled care for Obesity & Diabetes",
+  "heroHeading": "Clinician-led, AI-enabled care for Obesity & Diabetes matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://athensmedica.com/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Athens%20Medica&query_place_id=ChIJ64LzjreZoRQRFBRhZJdMNdg",
+  "address": "ΕπικοινωνιαΣτείλτε μας μήνυμαΌνομαEmail*ΤηλέφωνοΕπισύναψη αρχείουAttachments (0)ΑποστολήThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.Ακόμα καλύτερα, δείτε μας από κοντα!Επισκευθείτε το κέντρο σήμεραAthens MedicaΚαπετάν Χρονά 18, Athens, GreeceΤηλεφωνικό κέντρο: 21 600 39000 info@athensmedica.comΏρες λειτουργίαςMon07:30 – 20:30Tue07:30 – 08:30Wed07:30 – 08:30Thu07:30 – 08:30Fri07:30 – 08:30Sat07:30 – 15:30SunClosed",
+  "rating": 4.8,
+  "reviewsCount": 92,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "21 600 39000",
+      "href": "tel:2160039000"
+    },
+    {
+      "label": "Email",
+      "value": "info@athensmedica.com",
+      "href": "mailto:info@athensmedica.com"
+    },
+    {
+      "label": "Address",
+      "value": "ΕπικοινωνιαΣτείλτε μας μήνυμαΌνομαEmail*ΤηλέφωνοΕπισύναψη αρχείουAttachments (0)ΑποστολήThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.Ακόμα καλύτερα, δείτε μας από κοντα!Επισκευθείτε το κέντρο σήμεραAthens MedicaΚαπετάν Χρονά 18, Athens, GreeceΤηλεφωνικό κέντρο: 21 600 39000 info@athensmedica.comΏρες λειτουργίαςMon07:30 – 20:30Tue07:30 – 08:30Wed07:30 – 08:30Thu07:30 – 08:30Fri07:30 – 08:30Sat07:30 – 15:30SunClosed"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://athensmedica.com/en"
+    }
+  ],
+  "services": [
+    "Clinician-led, AI-enabled care for Obesity & Diabetes"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Medical clinic",
+    "4.8 rating",
+    "92 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Clinician-led, AI-enabled care for Obesity & Diabetes"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Athens%20Medica&query_place_id=ChIJ64LzjreZoRQRFBRhZJdMNdg",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.112Z",
+      "excerpt": "Athens Medica"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://athensmedica.com/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.112Z",
+      "excerpt": "EN"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://athensmedica.com/m/login?r=%2Fehub",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.112Z",
+      "excerpt": "Login"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://athensmedica.com/en",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.112Z",
+      "excerpt": "EN"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://athensmedica.com/al",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.112Z",
+      "excerpt": "AL"
+    }
+  ]
+}

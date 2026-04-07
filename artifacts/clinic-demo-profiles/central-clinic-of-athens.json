@@ -1,0 +1,159 @@
+{
+  "slug": "central-clinic-of-athens",
+  "businessName": "Αρχική - Central Clinic",
+  "category": "Private hospital",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Αρχική - Central Clinic Private hospital in Athens with services such as Χειρουργικός Τομέας, ΧΕΙΡΟΥΡΓΙΚΑ, ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ",
+  "heroHeading": "Αρχική - Central Clinic matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.centralclinic.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Central%20Clinic%20of%20Athens&query_place_id=ChIJVbkrcTe9oRQRxY-OI2lYDPE",
+  "address": "ΕΠΙΚΟΙΝΩΝΙΑ ΘΕΣΕΙΣ ΕΡΓΑΣΙΑΣ ΣΥΝΔΕΣΜΟΙ SITEMAP Ασκληπιού 31, Αθήνα 106 80 +30 210 36 74 000 +30 210 36 74 063 Αριθμός ΓΕΜΗ: 002829401000 ccaa@centralclinic.gr Follow us Πολιτική Απορρήτου Πολιτική Cookies Ρυθμίσεις cookies Δήλωση Προσβασιμότητας Copyright 2025 Central Clinic CREATED BY DOPE STUDIO",
+  "rating": 4.4,
+  "reviewsCount": 784,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "002829401000",
+      "href": "tel:002829401000"
+    },
+    {
+      "label": "Email",
+      "value": "ccaa@centralclinic.gr",
+      "href": "mailto:ccaa@centralclinic.gr"
+    },
+    {
+      "label": "Address",
+      "value": "ΕΠΙΚΟΙΝΩΝΙΑ ΘΕΣΕΙΣ ΕΡΓΑΣΙΑΣ ΣΥΝΔΕΣΜΟΙ SITEMAP Ασκληπιού 31, Αθήνα 106 80 +30 210 36 74 000 +30 210 36 74 063 Αριθμός ΓΕΜΗ: 002829401000 ccaa@centralclinic.gr Follow us Πολιτική Απορρήτου Πολιτική Cookies Ρυθμίσεις cookies Δήλωση Προσβασιμότητας Copyright 2025 Central Clinic CREATED BY DOPE STUDIO"
+    }
+  ],
+  "services": [
+    "Χειρουργικός Τομέας",
+    "ΧΕΙΡΟΥΡΓΙΚΑ",
+    "ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Οι χειρουργικές αίθουσες ανέρχονται σε 11 και είναι κατασκευασμένες με τις αυστηρότερες προδιαγραφές για την ελαχιστοποίηση των ενδονοσοκομειακών λοιμώξεων.",
+    "Τα εξωτερικά Ιατρεία της κλινικής καλύπτουν όλες τις ειδικότητες παρέχοντας υψηλού επιπέδου ιατρικές υπηρεσίες σε εκατοντάδες ασθενείς καθημερινά."
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Contact page URL: No explicit contact page was identified.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Private hospital",
+    "4.4 rating",
+    "784 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Χειρουργικός Τομέας",
+    "ΧΕΙΡΟΥΡΓΙΚΑ",
+    "ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Central%20Clinic%20of%20Athens&query_place_id=ChIJVbkrcTe9oRQRxY-OI2lYDPE",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:29.593Z",
+      "excerpt": "Central Clinic of Athens"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.centralclinic.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:29.593Z",
+      "excerpt": "Αρχική - Central Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.centralclinic.gr/clinic/profile",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.593Z",
+      "excerpt": "Προφίλ - Central Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.centralclinic.gr/clinic/quality-of-service",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.593Z",
+      "excerpt": "Ποιότητα Υπηρεσιών - Central Clinic"
+    }
+  ]
+}

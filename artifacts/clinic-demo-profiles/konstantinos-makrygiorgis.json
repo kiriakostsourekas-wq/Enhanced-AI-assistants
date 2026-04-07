@@ -1,0 +1,163 @@
+{
+  "slug": "konstantinos-makrygiorgis",
+  "businessName": "Beauty is about enhancing what you already have",
+  "category": "Plastic surgeon",
+  "template": {
+    "slug": "medspa",
+    "title": "Medspa",
+    "description": "Beauty and treatment template with soft luxury cues, consultation CTAs, and treatment storytelling.",
+    "audienceLabel": "Consultation-driven treatment brands with a premium positioning angle",
+    "bestFor": "Med spas, fertility, aesthetics, dermatology, and plastic surgery clinics",
+    "recommendedFor": [
+      "Premium treatment framing",
+      "Consultation CTA",
+      "Soft-luxury treatment story"
+    ],
+    "featured": true,
+    "accentColor": "#EC606A",
+    "sourceUrl": "https://medspa.virtualpros.com/",
+    "pageHref": "/industries/medspa/mirror",
+    "mirrorHref": "/industries/medspa/mirror",
+    "heroHeading": "LOCATION & CONTACT",
+    "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+    "heroPrimaryCta": "Contacts",
+    "sectionHighlights": [],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Oswald",
+      "Roboto",
+      "'Lato'"
+    ],
+    "paletteTheme": {
+      "primary": "#EC606A",
+      "secondary": "#E93D3D",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#E93D3D"
+    },
+    "templateSummary": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin."
+  },
+  "summary": "Beauty is about enhancing what you already have Plastic surgeon in Athens with services such as Skin Booster Treatment, Skin Booster Procedure – Step by Step, Our Clinic",
+  "heroHeading": "Beauty is about enhancing what you already have matched to the Medspa core demo",
+  "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+  "websiteUrl": "https://makrygiorgisplasticsurgeon.com/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Konstantinos%20Makrygiorgis&query_place_id=ChIJ22VoYem9oRQRA6qPUv7PtFE",
+  "address": "Copyright © 2026 | Πλαστικός Χειρουργός Αθήνα - Dr. Μακρυγιώργης | Web Design & Development by",
+  "rating": 4.9,
+  "reviewsCount": 413,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+30 6981698532",
+      "href": "tel:+306981698532"
+    },
+    {
+      "label": "Email",
+      "value": "info@drmakrygiorgis.com",
+      "href": "mailto:info@drmakrygiorgis.com"
+    },
+    {
+      "label": "Address",
+      "value": "Copyright © 2026 | Πλαστικός Χειρουργός Αθήνα - Dr. Μακρυγιώργης | Web Design & Development by"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://makrygiorgisplasticsurgeon.com/contact"
+    }
+  ],
+  "services": [
+    "Skin Booster Treatment",
+    "Skin Booster Procedure – Step by Step",
+    "Our Clinic",
+    "Treatment Frequency",
+    "KM Plastic Surgery Clinic",
+    "Fractional CO₂ Laser",
+    "Treatment for Dark Circles",
+    "Laser Hair Removal"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Δρ. Μακρυγιώργης"
+  ],
+  "people": [
+    "Δρ. Μακρυγιώργης"
+  ],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Plastic surgeon",
+    "4.9 rating",
+    "413 reviews",
+    "snapshot ready",
+    "Medspa"
+  ],
+  "overlayServices": [
+    "Skin Booster Treatment",
+    "Skin Booster Procedure – Step by Step",
+    "Our Clinic"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Konstantinos%20Makrygiorgis&query_place_id=ChIJ22VoYem9oRQRA6qPUv7PtFE",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:30.334Z",
+      "excerpt": "Konstantinos Makrygiorgis"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://makrygiorgisplasticsurgeon.com/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:30.334Z",
+      "excerpt": "Πλαστικός Χειρουργός Αθήνα | Δρ. Μακρυγιώργης"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://makrygiorgisplasticsurgeon.com/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.334Z",
+      "excerpt": "Επικοινωνία | Plastic Surgery Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://makrygiorgisplasticsurgeon.com/en/skin-booster-treatment",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.334Z",
+      "excerpt": "Skin Booster Treatment | Plastic Surgery Clinic"
+    }
+  ]
+}

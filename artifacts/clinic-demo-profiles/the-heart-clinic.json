@@ -1,0 +1,173 @@
+{
+  "slug": "the-heart-clinic",
+  "businessName": "The Heart Clinic – ΔΗΜΗΤΡΙΟΣ Μ. ΚΛΕΤΤΑΣ",
+  "category": "Cardiologist",
+  "template": {
+    "slug": "cardealership",
+    "title": "Car Dealership",
+    "description": "Dark dealership landing page built around inventory trust, pricing, and premium vehicle presentation.",
+    "audienceLabel": "Inventory-heavy offers that need premium visual framing",
+    "bestFor": "Dealers, brokers, and other catalogue-led businesses",
+    "recommendedFor": [
+      "Inventory trust",
+      "Premium visuals",
+      "Finance-ready CTAs"
+    ],
+    "featured": false,
+    "accentColor": "#060644",
+    "sourceUrl": "https://cardealership.virtualpros.com/",
+    "pageHref": "/industries/cardealership/mirror",
+    "mirrorHref": "/industries/cardealership/mirror",
+    "heroHeading": "Premium quality, vetted vehicles, half the price.",
+    "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Inventory",
+      "New Cars",
+      "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+      "Used Cars",
+      "Recent News",
+      "Our Commitment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "'Lato'",
+      "Exo",
+      "Exo 2"
+    ],
+    "paletteTheme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    },
+    "templateSummary": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry."
+  },
+  "summary": "The Heart Clinic – ΔΗΜΗΤΡΙΟΣ Μ. ΚΛΕΤΤΑΣ Cardiologist in Χαλάνδρι",
+  "heroHeading": "The Heart Clinic – ΔΗΜΗΤΡΙΟΣ Μ. ΚΛΕΤΤΑΣ matched to the Car Dealership core demo",
+  "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+  "websiteUrl": "https://heartclinic.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Heart%20Clinic&query_place_id=ChIJKZyy1weYoRQRxslNoD8KGr8",
+  "address": "ΜενουΑρχική Υπηρεσίες Επικοινωνία Όροι Χρήσης Πολιτική Απορρήτου Επικοινωνία Σεμιτέλου 5, 11528 Μέγαρο Μουσικής 2130909910 info@heartclinic.gr Ώρες Λειτουργίας Δευτέρα: 15.00-19.00 Τρίτη: 10.00-20.00 Τετάρτη: 15.00-18.00 Πέμπτη : 10.00-20.00 Παρασκευή: 10.00-13.00 Ραντεβου στο Πολυδροσο κατοπιν τηλεφωνικης επικοινωνιας Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι info@heartclinic.gr κατασκευη ιστοσελιδας",
+  "rating": 5,
+  "reviewsCount": 31,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "213 090 9910",
+      "href": "tel:2130909910"
+    },
+    {
+      "label": "Email",
+      "value": "info@heartclinic.gr",
+      "href": "mailto:info@heartclinic.gr"
+    },
+    {
+      "label": "Address",
+      "value": "ΜενουΑρχική Υπηρεσίες Επικοινωνία Όροι Χρήσης Πολιτική Απορρήτου Επικοινωνία Σεμιτέλου 5, 11528 Μέγαρο Μουσικής 2130909910 info@heartclinic.gr Ώρες Λειτουργίας Δευτέρα: 15.00-19.00 Τρίτη: 10.00-20.00 Τετάρτη: 15.00-18.00 Πέμπτη : 10.00-20.00 Παρασκευή: 10.00-13.00 Ραντεβου στο Πολυδροσο κατοπιν τηλεφωνικης επικοινωνιας Ακακιών 52, 15125 Πολύδροσο- Χαλάνδρι info@heartclinic.gr κατασκευη ιστοσελιδας"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://heartclinic.gr/contact"
+    }
+  ],
+  "services": [],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Κατέχει ευρωπαϊκό Πτυχίο Υπερηχοκαρδιογραφίας (Triplex), Μεταπτυχιακό και Διδακτορικό Τίτλο από την Ιατρική Σχολή Αθηνών και Πτυχίο από το ίδιο πανεπιστήμιο.",
+    "Είναι ειδικός σε θέματα βαλβιδοπαθειών και μυοκαρδιοπαθειών μετά απο μακρά εμπειρία ως επιμελητής του NHS του Ηνωμένου Βασιλείου.",
+    "Currently I work in Hippokrateion Hospital (Medical School, University of Athens-Greece) and in Northampton General Hospital as Consultant Cardiologist , with main interest in Cardiac Imaging ( Dobutamine Stress Echo, Ex",
+    "My previous experience includes two months in Sep/Oct 2015, in Royal Brompton and Hammersmith Hospital as a Cardiac MRI fellow with full time CMR duties .",
+    "Added to this, I also hold MSc in Cardiac Coronary Unit .",
+    "My working history includes 4month Honorary Cardiology Consultant job in National Naval Hospital of Athens.",
+    "Εξειδικεύσεις: Διοισοφάγεια υπερηχογραφία με ευρωπαϊκή πιστοποίηση και μεγάλη εμπειρία στο τρισδιάστατο υπερηχοκαρδιογράφημα.",
+    "Απρίλιος 2012 – Μάιος 2013: -Κλινικός και ερευνητικός συνεργάτης (clinical and research fellow) στην Υπεηχοκαρδιογραφία φόρτισης στο Echocardiography Department του Hammersmith Hospital , Imperial College, London (Υπο το"
+  ],
+  "people": [
+    "Δημήτριος Κλέττας",
+    "Βιογραφικό Σημείωμα",
+    "Δημήτριος Μ. Κλέττας",
+    "ΕΠΙΠΡΟΣΘΕΤΕΣ ΔΡΑΣΤΗΡΙΟΤΗΤΕΣ",
+    "ΕΚΠΑΙΔΕΥΣΗ - ΑΚΑΔΗΜΑΪΚΕΣ ΔΡΑΣΤΗΡΙΟΤΗΤΕΣ"
+  ],
+  "unresolvedItems": [
+    "Core services / treatments: No reliable service list was extracted from the current snapshot.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Social links: No social links were detected."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Cardiologist",
+    "5.0 rating",
+    "31 reviews",
+    "snapshot ready",
+    "Car Dealership"
+  ],
+  "overlayServices": [],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=The%20Heart%20Clinic&query_place_id=ChIJKZyy1weYoRQRxslNoD8KGr8",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.736Z",
+      "excerpt": "The Heart Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://heartclinic.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.736Z",
+      "excerpt": "The Heart Clinic – ΔΗΜΗΤΡΙΟΣ Μ. ΚΛΕΤΤΑΣ"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://heartclinic.gr/dimitris-klettas",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.736Z",
+      "excerpt": "Δημήτριος Κλέττας – The Heart Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://heartclinic.gr/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.736Z",
+      "excerpt": "Επικοινωνία – The Heart Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://heartclinic.gr/ypiresies",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.736Z",
+      "excerpt": "Υπηρεσίες – The Heart Clinic"
+    }
+  ]
+}

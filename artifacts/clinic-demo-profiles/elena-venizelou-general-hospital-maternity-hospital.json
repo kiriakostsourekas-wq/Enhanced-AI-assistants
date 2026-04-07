@@ -1,0 +1,152 @@
+{
+  "slug": "elena-venizelou-general-hospital-maternity-hospital",
+  "businessName": "Το νοσοκομείο - Γ.Ν. ΕΛΕΝΑ ΒΕΝΙΖΕΛΟΥ",
+  "category": "Maternity hospital",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Το νοσοκομείο - Γ.Ν. ΕΛΕΝΑ ΒΕΝΙΖΕΛΟΥ Maternity hospital in Athina with services such as Επιτροπή Χειρουργείου, A' & Β' Χειρουργικός Τομέας, Λίστα Χειρουργείων",
+  "heroHeading": "Το νοσοκομείο - Γ.Ν. ΕΛΕΝΑ ΒΕΝΙΖΕΛΟΥ matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.hospital-elena.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%22Elena%20Venizelou%22%20General%20Hospital%20-%20Maternity%20Hospital.&query_place_id=ChIJNxnXmKyZoRQRxWThhIDCNEA",
+  "address": "Elenas Venizelou 2, Athina 115 21, Greece",
+  "rating": 4,
+  "reviewsCount": 761,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "2132051000",
+      "href": "tel:2132051000"
+    },
+    {
+      "label": "Email",
+      "value": "pathology-clinic@hospital-elena.gr",
+      "href": "mailto:pathology-clinic@hospital-elena.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Elenas Venizelou 2, Athina 115 21, Greece"
+    }
+  ],
+  "services": [
+    "Επιτροπή Χειρουργείου",
+    "A' & Β' Χειρουργικός Τομέας",
+    "Λίστα Χειρουργείων",
+    "Διενεργηθέντα Χειρουργεία"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "(Μονάδα Αναμονής) Παιδιού Ειδική Μονάδα Προαγωγής Μητρικού Θηλασμού Πιστοποιημένο ως Φιλικό Προς τα Βρέφη (Baby Friendly Hospital) από το Νοέμβριο του 2011."
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Contact page URL: No explicit contact page was identified.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Maternity hospital",
+    "4.0 rating",
+    "761 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Επιτροπή Χειρουργείου",
+    "A' & Β' Χειρουργικός Τομέας",
+    "Λίστα Χειρουργείων"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=%22Elena%20Venizelou%22%20General%20Hospital%20-%20Maternity%20Hospital.&query_place_id=ChIJNxnXmKyZoRQRxWThhIDCNEA",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:29.609Z",
+      "excerpt": "\"Elena Venizelou\" General Hospital - Maternity Hospital."
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.hospital-elena.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:29.609Z",
+      "excerpt": "Το νοσοκομείο - Γ.Ν. ΕΛΕΝΑ ΒΕΝΙΖΕΛΟΥ"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.hospital-elena.gr/medical-services/iatrikes-ypiresies/pathologikos-tomeas",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.609Z",
+      "excerpt": "Παθολογικός Τομέας - Γ.Ν. ΕΛΕΝΑ ΒΕΝΙΖΕΛΟΥ"
+    }
+  ]
+}

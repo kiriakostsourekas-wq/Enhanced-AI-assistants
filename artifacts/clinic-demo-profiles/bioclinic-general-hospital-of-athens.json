@@ -1,0 +1,168 @@
+{
+  "slug": "bioclinic-general-hospital-of-athens",
+  "businessName": "Βιοκλινική – Ιατρική φροντίδα με ανθρώπινο πρόσωπο",
+  "category": "Private hospital",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Βιοκλινική – Ιατρική φροντίδα με ανθρώπινο πρόσωπο Private hospital in Athens with services such as Αγγειοχειρουργικό, Νευροχειρουργικό, Θωρακοχειρουργικό",
+  "heroHeading": "Βιοκλινική – Ιατρική φροντίδα με ανθρώπινο πρόσωπο matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://bioclinic.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=BIOCLINIC%20General%20Hospital%20of%20Athens&query_place_id=ChIJrxRMxAeYoRQRaw5Pjw4E4AY",
+  "address": "Όμιλος ΒΙΟΙΑΤΡΙΚΗ Βιοκλινική Αθηνών Βιοκλινική Θεσσαλονίκης Kέντρο Διεθνών Ασθενών Χημείο Γιαννουκά Άλφα Εύρεσις Bioiatriki+ Επείγοντα Βρείτε Ιατρό Πληροφορίες Ανακοινώσεις Αρθρογραφία Έντυπα Περιοδικά Πολιτική Προστασίας Προσωπικών Δεδομένων Πολιτική Cookies Οικονομικά Στοιχεία Ευκαιρίες Καριέρας Για ραντεβού καλέστε Αθήνα : 210 6962600 Θεσσαλονίκη : 2310 372600 Ώρες λειτουργίας τηλεφωνικού κέντρου Δευτ. - Σαβ. 7:00 - 22:00 Για έκτακτα περιστατικά 210 6962447 (24ωρο) Δείτε τους χάρτες > FacebookYoutubeLinkedin ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΑΘΗΝΩΝ: 000242201000 ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΘΕΣΣΑΛΟΝΙΚΗΣ: 057268204000",
+  "rating": 3.3,
+  "reviewsCount": 689,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 6962600",
+      "href": "tel:2106962600"
+    },
+    {
+      "label": "Email",
+      "value": "ath.bioclinic@bioclinic.gr",
+      "href": "mailto:ath.bioclinic@bioclinic.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Όμιλος ΒΙΟΙΑΤΡΙΚΗ Βιοκλινική Αθηνών Βιοκλινική Θεσσαλονίκης Kέντρο Διεθνών Ασθενών Χημείο Γιαννουκά Άλφα Εύρεσις Bioiatriki+ Επείγοντα Βρείτε Ιατρό Πληροφορίες Ανακοινώσεις Αρθρογραφία Έντυπα Περιοδικά Πολιτική Προστασίας Προσωπικών Δεδομένων Πολιτική Cookies Οικονομικά Στοιχεία Ευκαιρίες Καριέρας Για ραντεβού καλέστε Αθήνα : 210 6962600 Θεσσαλονίκη : 2310 372600 Ώρες λειτουργίας τηλεφωνικού κέντρου Δευτ. - Σαβ. 7:00 - 22:00 Για έκτακτα περιστατικά 210 6962447 (24ωρο) Δείτε τους χάρτες > FacebookYoutubeLinkedin ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΑΘΗΝΩΝ: 000242201000 ΑΡΙΘΜΟΣ Γ.Ε.ΜΗ. ΘΕΣΣΑΛΟΝΙΚΗΣ: 057268204000"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://bioclinic.gr/epikoinwnia"
+    }
+  ],
+  "services": [
+    "Αγγειοχειρουργικό",
+    "Νευροχειρουργικό",
+    "Θωρακοχειρουργικό",
+    "Γεν. Χειρουργικής",
+    "Γναθοχειρουργικό",
+    "Πλαστικής Χειρουργικής",
+    "Μονάδα Εντατικής Θεραπείας (ΜΕΘ)",
+    "One Day Clinic"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "14 501 ΑΡΧΙΚΗΟΜΙΛΟΣΑΘΗΝΑΘΕΣΣΑΛΟΝΙΚΗTMHMATAΠαθολογικός ΤομέαςΚαρδιολογικό ΤμήμαΟγκολογικό ΤμήμαΠνευμονολογικό ΤμήμαΝεφρολογικό ΤμήμαΠαθολογικό ΤμήμαΝευρολογικό ΤμήμαΥπερτασιολογικό ΤμήμαΧειρουργικός τομέαςΑγγειοχειρουργικ"
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Private hospital",
+    "3.3 rating",
+    "689 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Αγγειοχειρουργικό",
+    "Νευροχειρουργικό",
+    "Θωρακοχειρουργικό"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=BIOCLINIC%20General%20Hospital%20of%20Athens&query_place_id=ChIJrxRMxAeYoRQRaw5Pjw4E4AY",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:29.773Z",
+      "excerpt": "BIOCLINIC General Hospital of Athens"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://bioclinic.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:29.773Z",
+      "excerpt": "Βιοκλινική – Ιατρική φροντίδα με ανθρώπινο πρόσωπο"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://bioclinic.gr/day-clinic",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.773Z",
+      "excerpt": "ONE DAY CLINIC – Βιοκλινική"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://bioclinic.gr/epikoinwnia",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.773Z",
+      "excerpt": "ΕΠΙΚΟΙΝΩΝΙΑ – Βιοκλινική"
+    }
+  ]
+}

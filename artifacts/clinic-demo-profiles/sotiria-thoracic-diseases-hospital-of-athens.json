@@ -1,0 +1,159 @@
+{
+  "slug": "sotiria-thoracic-diseases-hospital-of-athens",
+  "businessName": "Γενικό Νοσοκομείο Νοσημάτων Θώρακος Αθηνών «Η ΣΩΤΗΡΙΑ»",
+  "category": "General hospital",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Γενικό Νοσοκομείο Νοσημάτων Θώρακος Αθηνών «Η ΣΩΤΗΡΙΑ» General hospital in Athens with services such as Χειρουργικός",
+  "heroHeading": "Γενικό Νοσοκομείο Νοσημάτων Θώρακος Αθηνών «Η ΣΩΤΗΡΙΑ» matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.sotiria.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sotiria%20Thoracic%20Diseases%20Hospital%20of%20Athens&query_place_id=ChIJ1R6YkhCYoRQR2IG_oWAiwCE",
+  "address": "Mesogion 152, Athina 115 27, Greece",
+  "rating": 3.9,
+  "reviewsCount": 856,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210-7763100",
+      "href": "tel:2107763100"
+    },
+    {
+      "label": "Email",
+      "value": "politis@sotiria.gr",
+      "href": "mailto:politis@sotiria.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Mesogion 152, Athina 115 27, Greece"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.sotiria.gr/map/map_index.htm"
+    }
+  ],
+  "services": [
+    "Χειρουργικός"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Υγείας & Ψυχιατρικός Διατομεακά Τμήματα Άλλα Τμήματα Πληροφορίες Τρόποι εισαγωγής Δικαιολογητικά Πιστοποιητικό Γρ."
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "General hospital",
+    "3.9 rating",
+    "856 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Χειρουργικός"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Sotiria%20Thoracic%20Diseases%20Hospital%20of%20Athens&query_place_id=ChIJ1R6YkhCYoRQR2IG_oWAiwCE",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:29.472Z",
+      "excerpt": "Sotiria Thoracic Diseases Hospital of Athens"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.sotiria.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:29.472Z",
+      "excerpt": "Γενικό Νοσοκομείο Νοσημάτων Θώρακος Αθηνών «Η ΣΩΤΗΡΙΑ»"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.sotiria.gr/map/map_index.htm",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.472Z",
+      "excerpt": "Untitled Document"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.sotiria.gr/to-nosokomeio",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.472Z",
+      "excerpt": "Ιστορικό του νοσοκομείου"
+    }
+  ]
+}

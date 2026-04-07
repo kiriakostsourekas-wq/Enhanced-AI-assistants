@@ -1,0 +1,162 @@
+{
+  "slug": "cosmetic-dental-clinic-dr-anestis-lefkopoulos",
+  "businessName": "Home - Cosmetic Dental",
+  "category": "Dental clinic",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Home - Cosmetic Dental Dental clinic in Athina with services such as Θεραπειες με Laser, Θεραπειες με Αυξητικους Παραγοντες PRF, Χειρουργικη Στοματος",
+  "heroHeading": "Home - Cosmetic Dental matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://cosmeticdental.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cosmetic%20Dental%20Clinic%20-%20Dr%20Anestis%20Lefkopoulos&query_place_id=ChIJhyw2e0S9oRQR65yP0IQf3iM",
+  "address": "Vasilissis Sofias 54, Athina 115 28, Greece",
+  "rating": 5,
+  "reviewsCount": 42,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210-4400103",
+      "href": "tel:2104400103"
+    },
+    {
+      "label": "Email",
+      "value": "cosmetic.athens@gmail.com",
+      "href": "mailto:cosmetic.athens@gmail.com"
+    },
+    {
+      "label": "Address",
+      "value": "Vasilissis Sofias 54, Athina 115 28, Greece"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://cosmeticdental.gr/contact"
+    }
+  ],
+  "services": [
+    "Θεραπειες με Laser",
+    "Θεραπειες με Αυξητικους Παραγοντες PRF",
+    "Χειρουργικη Στοματος",
+    "Επιλογες Θεραπειας"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Dental clinic",
+    "5.0 rating",
+    "42 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Θεραπειες με Laser",
+    "Θεραπειες με Αυξητικους Παραγοντες PRF",
+    "Χειρουργικη Στοματος"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Cosmetic%20Dental%20Clinic%20-%20Dr%20Anestis%20Lefkopoulos&query_place_id=ChIJhyw2e0S9oRQR65yP0IQf3iM",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.534Z",
+      "excerpt": "Cosmetic Dental Clinic - Dr Anestis Lefkopoulos"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://cosmeticdental.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.534Z",
+      "excerpt": "Home - Cosmetic Dental"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://cosmeticdental.gr/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.534Z",
+      "excerpt": "Contact - Cosmetic Dental"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://cosmeticdental.gr/services",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.534Z",
+      "excerpt": "Services - Cosmetic Dental"
+    }
+  ]
+}

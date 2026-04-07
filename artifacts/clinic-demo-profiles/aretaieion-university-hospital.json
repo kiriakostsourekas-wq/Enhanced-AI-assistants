@@ -1,0 +1,158 @@
+{
+  "slug": "aretaieion-university-hospital",
+  "businessName": "Αρεταίειο Νοσοκομείο",
+  "category": "University hospital",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Αρεταίειο Νοσοκομείο University hospital",
+  "heroHeading": "Αρεταίειο Νοσοκομείο matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://aretaieio.uoa.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aretaieion%20University%20Hospital&query_place_id=ChIJWTqIWFC9oRQRVTtiWSm0beM",
+  "address": "ΣΧΕΤΙΚΑ:Εθνικό και Καποδιστριακό Πανεπιστήμιο ΑθηνώνΙατρική Σχολή ΕΚΠΑΕ.Ο.Π.Υ.Υ. ΕΚΠΑΙΔΕΥΣΗ:Προγράμματα κλινικώνΜεταπτυχιακές σπουδές ΥΠΗΡΕΣΙΕΣ:WebmailDelosΠέργαμος ΣΥΝΔΕΣΜΟΙ:Επικοινωνία- ΠρόσβασηΤηλέφωνα ΡαντεβούΚλινικές- ΕργαστήριαΣυνεδριάσεις ΕφορείαςΔιακηρύξεις τμήματος Προμηθειών ΕΠΙΚΟΙΝΩΝΙΑ: Βασιλίσσης Σοφίας 76, 11528, Αθήνα Τηλ: 210 7286xxx όπου xxx βάζετε το 3ψήφιο εσωτερικό που θέλετε να καλέσετε Copyright © 2026 Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών",
+  "rating": 4.4,
+  "reviewsCount": 418,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 7286000",
+      "href": "tel:2107286000"
+    },
+    {
+      "label": "Email",
+      "value": "ctmri.rad1@aretaieio.uoa.gr",
+      "href": "mailto:ctmri.rad1@aretaieio.uoa.gr"
+    },
+    {
+      "label": "Address",
+      "value": "ΣΧΕΤΙΚΑ:Εθνικό και Καποδιστριακό Πανεπιστήμιο ΑθηνώνΙατρική Σχολή ΕΚΠΑΕ.Ο.Π.Υ.Υ. ΕΚΠΑΙΔΕΥΣΗ:Προγράμματα κλινικώνΜεταπτυχιακές σπουδές ΥΠΗΡΕΣΙΕΣ:WebmailDelosΠέργαμος ΣΥΝΔΕΣΜΟΙ:Επικοινωνία- ΠρόσβασηΤηλέφωνα ΡαντεβούΚλινικές- ΕργαστήριαΣυνεδριάσεις ΕφορείαςΔιακηρύξεις τμήματος Προμηθειών ΕΠΙΚΟΙΝΩΝΙΑ: Βασιλίσσης Σοφίας 76, 11528, Αθήνα Τηλ: 210 7286xxx όπου xxx βάζετε το 3ψήφιο εσωτερικό που θέλετε να καλέσετε Copyright © 2026 Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://aretaieio.uoa.gr/epikoinwnia_prosbash"
+    },
+    {
+      "label": "Booking page",
+      "value": "Open booking page",
+      "href": "https://aretaieio.uoa.gr/gia_astheneis/kleisimo_ranteboy"
+    }
+  ],
+  "services": [],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Core services / treatments: No reliable service list was extracted from the current snapshot.",
+    "Neighborhood / Athens area: No neighborhood or clear Athens area signal could be detected confidently.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "University hospital",
+    "4.4 rating",
+    "418 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Aretaieion%20University%20Hospital&query_place_id=ChIJWTqIWFC9oRQRVTtiWSm0beM",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:30.316Z",
+      "excerpt": "Aretaieion University Hospital"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://aretaieio.uoa.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:30.316Z",
+      "excerpt": "ΑΡΕΤΑΙΕΙΟ ΝΟΣΟΚΟΜΕΙΟ | Αρεταίειο Νοσοκομείο"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://aretaieio.uoa.gr/epikoinwnia_prosbash",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.316Z",
+      "excerpt": "Επικοινωνία- Πρόσβαση | Αρεταίειο Νοσοκομείο"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://aretaieio.uoa.gr/ypiresies",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.316Z",
+      "excerpt": "Υπηρεσίες | Αρεταίειο Νοσοκομείο"
+    }
+  ]
+}

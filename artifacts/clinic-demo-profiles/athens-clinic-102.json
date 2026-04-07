@@ -1,0 +1,164 @@
+{
+  "slug": "athens-clinic-102",
+  "businessName": "Σύγχρονες Υπηρεσίες",
+  "category": "Eye care center",
+  "template": {
+    "slug": "cardealership",
+    "title": "Car Dealership",
+    "description": "Dark dealership landing page built around inventory trust, pricing, and premium vehicle presentation.",
+    "audienceLabel": "Inventory-heavy offers that need premium visual framing",
+    "bestFor": "Dealers, brokers, and other catalogue-led businesses",
+    "recommendedFor": [
+      "Inventory trust",
+      "Premium visuals",
+      "Finance-ready CTAs"
+    ],
+    "featured": false,
+    "accentColor": "#060644",
+    "sourceUrl": "https://cardealership.virtualpros.com/",
+    "pageHref": "/industries/cardealership/mirror",
+    "mirrorHref": "/industries/cardealership/mirror",
+    "heroHeading": "Premium quality, vetted vehicles, half the price.",
+    "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Inventory",
+      "New Cars",
+      "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+      "Used Cars",
+      "Recent News",
+      "Our Commitment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "'Lato'",
+      "Exo",
+      "Exo 2"
+    ],
+    "paletteTheme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    },
+    "templateSummary": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry."
+  },
+  "summary": "Σύγχρονες Υπηρεσίες Eye care center with services such as Επεμβάσεις Laser, ΕΠΕΜΒΑΣΕΙΣ LASER, ΔΙΑΔΙΚΑΣΙΑ LASER",
+  "heroHeading": "Σύγχρονες Υπηρεσίες matched to the Car Dealership core demo",
+  "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+  "websiteUrl": "https://www.ypapanti.com/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%CE%9F%CF%86%CE%B8%CE%B1%CE%BB%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE%20%CE%9A%CE%BB%CE%B9%CE%BD%CE%B9%CE%BA%CE%AE%20%CE%A5%CF%80%CE%B1%CF%80%CE%B1%CE%BD%CF%84%CE%AE&query_place_id=ChIJf6-QvDC9oRQRXB4HneuKyq0",
+  "address": "Newsletter Sign up our newsletter to get update information, news or article about medical. Enter your email Sign Up Επικοινωνία Σόλωνος 129, Αθήνα, 10677 info@ypapanti.com 210 330 1380 Social Media Facebook Youtube Πολιτική Προστασίας Προσωπικών Δεδομένων Χρήση Cookies Όροι Χρήσης Copyright © 2023 Υπαπαντή. All rights reserved | Designed & Developed with ♥ by JIT",
+  "rating": 4.6,
+  "reviewsCount": 92,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 330 1380",
+      "href": "tel:2103301380"
+    },
+    {
+      "label": "Email",
+      "value": "info@ypapanti.com",
+      "href": "mailto:info@ypapanti.com"
+    },
+    {
+      "label": "Address",
+      "value": "Newsletter Sign up our newsletter to get update information, news or article about medical. Enter your email Sign Up Επικοινωνία Σόλωνος 129, Αθήνα, 10677 info@ypapanti.com 210 330 1380 Social Media Facebook Youtube Πολιτική Προστασίας Προσωπικών Δεδομένων Χρήση Cookies Όροι Χρήσης Copyright © 2023 Υπαπαντή. All rights reserved | Designed & Developed with ♥ by JIT"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.ypapanti.com/epikoinonia"
+    }
+  ],
+  "services": [
+    "Επεμβάσεις Laser",
+    "ΕΠΕΜΒΑΣΕΙΣ LASER",
+    "ΔΙΑΔΙΚΑΣΙΑ LASER",
+    "ΧΕΙΡΟΥΡΓΙΚΑ ΤΜΗΜΑΤΑ",
+    "LASER ΚΕΡΑΤΟΠΛΑΣΤΙΚΗ",
+    "ΔΙΑΔΙΚΑΣΙΑ ΕΠΕΜΒΑΣΗΣ LASER"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Neighborhood / Athens area: No neighborhood or clear Athens area signal could be detected confidently.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Eye care center",
+    "4.6 rating",
+    "92 reviews",
+    "snapshot ready",
+    "Car Dealership"
+  ],
+  "overlayServices": [
+    "Επεμβάσεις Laser",
+    "ΕΠΕΜΒΑΣΕΙΣ LASER",
+    "ΔΙΑΔΙΚΑΣΙΑ LASER"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=%CE%9F%CF%86%CE%B8%CE%B1%CE%BB%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE%20%CE%9A%CE%BB%CE%B9%CE%BD%CE%B9%CE%BA%CE%AE%20%CE%A5%CF%80%CE%B1%CF%80%CE%B1%CE%BD%CF%84%CE%AE&query_place_id=ChIJf6-QvDC9oRQRXB4HneuKyq0",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.147Z",
+      "excerpt": "Οφθαλμολογική Κλινική Υπαπαντή"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.ypapanti.com/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.147Z",
+      "excerpt": "Οφθαλμολογική Κλινική Υπαπαντή | Καταρράκτης ματιών επέμβαση | Laser ματιων για Μυωπία σε Αθήνα, Κόρινθο, Ναύπλιο, Άργος, Τρίπολη, Χαλκίδα, Πάτρα, Λάμια, Λειβαδειά, Αίγινα, Πειραιάς, Μέγαρα."
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.ypapanti.com/%ce%b1%cf%81%ce%b8%cf%81%ce%b1",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.147Z",
+      "excerpt": "Άρθρα - Υπαπαντή"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.ypapanti.com/epikoinonia",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.147Z",
+      "excerpt": "Laser ματιών- μυωπίας και Καταρράκτη ματιών επέμβαση στην Αθήνα, Κόρινθο, Ναύπλιο, Τρίπολη, Χαλκίδα, Πάτρα, Λάμια, Λειβαδειά, Αίγινα, Πειραιάς, Μέγαρα."
+    }
+  ]
+}

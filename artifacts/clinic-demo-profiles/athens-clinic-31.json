@@ -1,0 +1,166 @@
+{
+  "slug": "athens-clinic-31",
+  "businessName": "ΜΟΥΡΙΚΗΣ ΕΥΑΓΓΕΛΟΣ ΟΡΘΟΠΑΙΔΙΚΟΣ/ΠΑΙΔΟΟΡΘΟΠΑΙΔΙΚΟΣ ΧΕΙΡΟΥΡΓΟΣ ΤΡΑΥΜΑΤΟΛΟΓΟΣ",
+  "category": "Orthopedic surgeon",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "ΜΟΥΡΙΚΗΣ ΕΥΑΓΓΕΛΟΣ ΟΡΘΟΠΑΙΔΙΚΟΣ/ΠΑΙΔΟΟΡΘΟΠΑΙΔΙΚΟΣ ΧΕΙΡΟΥΡΓΟΣ ΤΡΑΥΜΑΤΟΛΟΓΟΣ Orthopedic surgeon in Γκύζη with services such as Ορθοβιολογικές θεραπείες prp, υαλουρονικό οξύ, προλοθεραπεία, Ορθοβιολογικές θεραπείες, Μικροχειρουργική άνω και κάτω άκρου",
+  "heroHeading": "ΜΟΥΡΙΚΗΣ ΕΥΑΓΓΕΛΟΣ ΟΡΘΟΠΑΙΔΙΚΟΣ/ΠΑΙΔΟΟΡΘΟΠΑΙΔΙΚΟΣ ΧΕΙΡΟΥΡΓΟΣ ΤΡΑΥΜΑΤΟΛΟΓΟΣ matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.mourikisortho.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%CE%9C%CE%BF%CF%85%CF%81%CE%AF%CE%BA%CE%B7%CF%82%20%CE%95%CF%85%CE%AC%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82%20%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%BF%CF%82%2F%CE%A0%CE%B1%CE%B9%CE%B4%CE%BF%CE%BF%CF%81%CE%B8%CE%BF%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%BF%CF%82&query_place_id=ChIJLxRyjYWjoRQRRusASy1PFV0",
+  "address": "Paraschou 100, Athina 114 75, Greece",
+  "rating": 5,
+  "reviewsCount": 249,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "697 174 9044",
+      "href": "tel:6971749044"
+    },
+    {
+      "label": "Email",
+      "value": "mourikisortho@gmail.com",
+      "href": "mailto:mourikisortho@gmail.com"
+    },
+    {
+      "label": "Address",
+      "value": "Paraschou 100, Athina 114 75, Greece"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://mourikisortho.gr/contact"
+    }
+  ],
+  "services": [
+    "Ορθοβιολογικές θεραπείες prp, υαλουρονικό οξύ, προλοθεραπεία",
+    "Ορθοβιολογικές θεραπείες",
+    "Μικροχειρουργική άνω και κάτω άκρου",
+    "Υβριδική θεραπεία",
+    "ΜΟΥΡΙΚΗΣ ΕΥΑΓΓΕΛΟΣ ΟΡΘΟΠΑΙΔΙΚΟΣ/ΠΑΙΔΟΟΡΘΟΠΑΙΔΙΚΟΣ ΧΕΙΡΟΥΡΓΟΣ ΤΡΑΥΜΑΤΟΛΟΓΟΣ",
+    "MarΕΝΑΛΛΑΚΤΙΚΕΣ ΘΕΡΑΠΕΙΕΣ ΧΕΙΡΟΥΡΓΕΙΟΥ“Less is more” Ludwig Mies Van Der Rohe..."
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "MSK Ultrasound | Sonopedics Έχει πιστοποιηθεί ώς Χειροπρακτικός με τη μέθοδο Ackermann The Ackermann Institute – Tagline: Ackermann Institutet Πρωταρχικό μέλημα του είναι πάντα η εύρεση της πιο ακριβούς διάγνωσης που θα"
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Orthopedic surgeon",
+    "5.0 rating",
+    "249 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Ορθοβιολογικές θεραπείες prp, υαλουρονικό οξύ, προλοθεραπεία",
+    "Ορθοβιολογικές θεραπείες",
+    "Μικροχειρουργική άνω και κάτω άκρου"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=%CE%9C%CE%BF%CF%85%CF%81%CE%AF%CE%BA%CE%B7%CF%82%20%CE%95%CF%85%CE%AC%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82%20%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%BF%CF%82%2F%CE%A0%CE%B1%CE%B9%CE%B4%CE%BF%CE%BF%CF%81%CE%B8%CE%BF%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%BF%CF%82&query_place_id=ChIJLxRyjYWjoRQRRusASy1PFV0",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:31.255Z",
+      "excerpt": "Μουρίκης Ευάγγελος Ορθοπαιδικος/Παιδοορθοπαιδικος"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.mourikisortho.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:31.255Z",
+      "excerpt": "Ευάγγελος Μουρίκης - Ορθοπαιδικός"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://mourikisortho.gr/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.255Z",
+      "excerpt": "Επικοινωνία - Ευάγγελος Μουρίκης Ορθοπαιδικός"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.mourikisortho.gr/services/orthobiologikes-therapeies",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.255Z",
+      "excerpt": "Ορθοβιολογικές θεραπείες - Ευάγγελος Μουρίκης Ορθοπαιδικός"
+    }
+  ]
+}

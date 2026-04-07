@@ -1,0 +1,167 @@
+{
+  "slug": "homed-athens-24-7-english-speaking-doctors",
+  "businessName": "Doctor in Athens: 24/7 Medical Services, Home Visits & Walk-ins",
+  "category": "Medical Center",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Doctor in Athens: 24/7 Medical Services, Home Visits & Walk-ins Medical Center in Athens with services such as ▶ Outpatient Medical Care (Clinic-Based), centrally located medical clinic, OUR CLINIC IN CENTRAL ATHENS",
+  "heroHeading": "Doctor in Athens: 24/7 Medical Services, Home Visits & Walk-ins matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.homed.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=HOMED%20Athens%2024%2F7%20English-Speaking%20Doctors&query_place_id=ChIJLxHt3Ua9oRQRUu3IJ1dPXdE",
+  "address": "CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21",
+  "rating": 4.8,
+  "reviewsCount": 545,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+30 210 80 600 98",
+      "href": "tel:+302108060098"
+    },
+    {
+      "label": "Email",
+      "value": "info@homed.gr",
+      "href": "mailto:info@homed.gr"
+    },
+    {
+      "label": "Address",
+      "value": "CONTACT Tel: +30 210 80 600 98 WhatsApp: +30 697 6913046 Email: info@homed.gr Instagram: homed.clinic EMERGENCY SERVICES URGENT CASESINJURIESWOUNDSDVTCONSULTATIONFIT-TO-FLYCARDIOLOGYHEAD TRAUMAHomed & Mediterraneo Hospital: A Partnership for Advanced Care FOOT MENUE Homed © 2021-2026 TERMS & CONDITIONS Created by Lab21"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.homed.gr/en/contact-homed-athens-healthcare"
+    },
+    {
+      "label": "Booking page",
+      "value": "Open booking page",
+      "href": "https://www.homed.gr/en/book-online-doctor-consultation"
+    }
+  ],
+  "services": [
+    "▶ Outpatient Medical Care (Clinic-Based)",
+    "centrally located medical clinic",
+    "OUR CLINIC IN CENTRAL ATHENS",
+    "Our Clinic in the Heart of Athens"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Medical Center",
+    "4.8 rating",
+    "545 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "▶ Outpatient Medical Care (Clinic-Based)",
+    "centrally located medical clinic",
+    "OUR CLINIC IN CENTRAL ATHENS"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=HOMED%20Athens%2024%2F7%20English-Speaking%20Doctors&query_place_id=ChIJLxHt3Ua9oRQRUu3IJ1dPXdE",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:30.194Z",
+      "excerpt": "HOMED Athens 24/7 English-Speaking Doctors"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.homed.gr/en",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:30.194Z",
+      "excerpt": "Doctor in Athens 24/7"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.homed.gr/en/contact-homed-athens-healthcare",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.194Z",
+      "excerpt": "Contact Homed - Accessible Healthcare Services 24/7"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.homed.gr/en/healthcare-services-in-athens",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.194Z",
+      "excerpt": "Healthcare Services: Find Us Easily on Google Maps in athens"
+    }
+  ]
+}

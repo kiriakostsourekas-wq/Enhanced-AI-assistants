@@ -1,0 +1,169 @@
+{
+  "slug": "athens-clinic-30",
+  "businessName": "Βούλγαρης Παναγιώτης Ορθοπαιδικός χειρουργός, παιδοορθοπαιδικός, αθλητίατρος",
+  "category": "Orthopedic surgeon",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Βούλγαρης Παναγιώτης Ορθοπαιδικός χειρουργός, παιδοορθοπαιδικός, αθλητίατρος Orthopedic surgeon in Κυψέλη with services such as Βλαστοκυτταρική θεραπεία, Βιο-ορθοπαιδική, Μεσοθεραπεία, Εξατομικευμένη χειρουργική αποκατάσταση",
+  "heroHeading": "Βούλγαρης Παναγιώτης Ορθοπαιδικός χειρουργός, παιδοορθοπαιδικός, αθλητίατρος matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://orthopaidikos.org/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%CE%92%CE%BF%CF%8D%CE%BB%CE%B3%CE%B1%CF%81%CE%B7%CF%82%20%CE%A0%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%CF%8E%CF%84%CE%B7%CF%82%20%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CF%8C%CF%82%20%CF%87%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CF%8C%CF%82%2C%20%CF%80%CE%B1%CE%B9%CE%B4%CE%BF%CE%BF%CF%81%CE%B8%CE%BF%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CF%8C%CF%82%2C%20%CE%B1%CE%B8%CE%BB%CE%B7%CF%84%CE%AF%CE%B1%CF%84%CF%81%CE%BF%CF%82&query_place_id=ChIJbThK0kyjoRQRv6NBUyqtRK4",
+  "address": "Σχετικά με εμένα Οι επιτυχίες μου έδειξαν το δρόμο της θεραπείας και της εξέλιξης την ίδια στιγμή που η απογοήτευση με γέμιζε επιμονή και πείσμα για το καλύτερο. Πολιτική απορρήτου | Πολιτική Cookies Πληροφορίες Διεύθυνση: Πατησίων 145, Αθήνα-Κυψέλη ,11251 Τηλέφωνο: 210 8 62 62 62 Κινητό: 6945 10 20 30 & 6947 05 05 78 Email: info@orthopaidikos.org Βρείτε με εύκολα εδώ Copyright © 2022 orthopaidikos.org | Σχεδίαση ιστοσελίδας D.P.M. Agency | Κατασκευή PG-Software",
+  "rating": 5,
+  "reviewsCount": 108,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "23911945-21",
+      "href": "tel:2391194521"
+    },
+    {
+      "label": "Email",
+      "value": "info@orthopaidikos.org",
+      "href": "mailto:info@orthopaidikos.org"
+    },
+    {
+      "label": "Address",
+      "value": "Σχετικά με εμένα Οι επιτυχίες μου έδειξαν το δρόμο της θεραπείας και της εξέλιξης την ίδια στιγμή που η απογοήτευση με γέμιζε επιμονή και πείσμα για το καλύτερο. Πολιτική απορρήτου | Πολιτική Cookies Πληροφορίες Διεύθυνση: Πατησίων 145, Αθήνα-Κυψέλη ,11251 Τηλέφωνο: 210 8 62 62 62 Κινητό: 6945 10 20 30 & 6947 05 05 78 Email: info@orthopaidikos.org Βρείτε με εύκολα εδώ Copyright © 2022 orthopaidikos.org | Σχεδίαση ιστοσελίδας D.P.M. Agency | Κατασκευή PG-Software"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://orthopaidikos.org/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1"
+    }
+  ],
+  "services": [
+    "Βλαστοκυτταρική θεραπεία, Βιο-ορθοπαιδική",
+    "Μεσοθεραπεία",
+    "Εξατομικευμένη χειρουργική αποκατάσταση",
+    "Ραδιοκυτταροπλασματική χειρουργική",
+    "Υπερηχογραφικά καθοδηγούμενες ενέσιμες θεραπείες"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Στο τμήμα αυτό, το 1996 συνέλαβα την ιδέα για μικρές τομές (mis) στα σύνδρομα του καρπιαίου σωλήνα, ώστε να επιτύχω μικρό χειρουργικό χρόνο, πολύ μικρή τομή, άμεση εργασιακή επάνοδο, καθόλου νοσηλεία.",
+    "Στο θέμα αυτό εργάστηκα και συνεχίζω με εξαιρετικά αποτελέσματα, δημιουργώντας προσωπική τεχνική με πατενταρισμένα, μοναδικά, ειδικά κατασκευασμένα χειρουργικά εργαλεία.",
+    "Είναι το βιβλίο που διδάσκεται στην Ορθοπαιδική ειδικότητα στην Ελλάδα.",
+    "σύνδρομο καρπιαίου σωλήνα"
+  ],
+  "people": [
+    "σύνδρομο καρπιαίου σωλήνα"
+  ],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Orthopedic surgeon",
+    "5.0 rating",
+    "108 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Βλαστοκυτταρική θεραπεία, Βιο-ορθοπαιδική",
+    "Μεσοθεραπεία",
+    "Εξατομικευμένη χειρουργική αποκατάσταση"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=%CE%92%CE%BF%CF%8D%CE%BB%CE%B3%CE%B1%CF%81%CE%B7%CF%82%20%CE%A0%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%CF%8E%CF%84%CE%B7%CF%82%20%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CF%8C%CF%82%20%CF%87%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CF%8C%CF%82%2C%20%CF%80%CE%B1%CE%B9%CE%B4%CE%BF%CE%BF%CF%81%CE%B8%CE%BF%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CF%8C%CF%82%2C%20%CE%B1%CE%B8%CE%BB%CE%B7%CF%84%CE%AF%CE%B1%CF%84%CF%81%CE%BF%CF%82&query_place_id=ChIJbThK0kyjoRQRv6NBUyqtRK4",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.079Z",
+      "excerpt": "Βούλγαρης Παναγιώτης Ορθοπαιδικός χειρουργός, παιδοορθοπαιδικός, αθλητίατρος"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://orthopaidikos.org/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.079Z",
+      "excerpt": "Βούλγαρης Παναγιώτης, Ορθοπαιδικός χειρουργός, Voulgaris Panagiotis | Βούλγαρης Παναγιώτης, Ορθοπαιδικός χειρουργός. Ανω άκρο, σπονδυλική στήλη, κάτω άκρο, σύνδρομο καρπιαίου σωλήνα, ctms mis"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://orthopaidikos.org/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.079Z",
+      "excerpt": "Βούλγαρης Παναγιώτης, Ορθοπαιδικός χειρουργός, Voulgaris Panagiotis | Βιογραφικό"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://orthopaidikos.org/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.079Z",
+      "excerpt": "Βούλγαρης Παναγιώτης, Ορθοπαιδικός χειρουργός, Voulgaris Panagiotis | Επικοινωνία"
+    }
+  ]
+}

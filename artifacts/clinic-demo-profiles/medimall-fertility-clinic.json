@@ -1,0 +1,173 @@
+{
+  "slug": "medimall-fertility-clinic",
+  "businessName": "YOUR DESTINATION TO MOTHERHOOD BEGINS HERE!",
+  "category": "Women's health clinic",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "YOUR DESTINATION TO MOTHERHOOD BEGINS HERE! Women's health clinic in Athens with services such as THE CLINIC, years old: the new age limit to benefit an IVF treatment in Greece!, MEDIMALL IVF CLINIC",
+  "heroHeading": "YOUR DESTINATION TO MOTHERHOOD BEGINS HERE! matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://medimall.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MEDIMALL%20Fertility%20Clinic&query_place_id=ChIJW4MCA1W9oRQREn_s_n-mPjA",
+  "address": "Leof. Mesogeion 2, Building Α’, 8th floor, Athina 115 27, Greece",
+  "rating": 4.7,
+  "reviewsCount": 262,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+44 (0) 74 2375 5577",
+      "href": "tel:+4407423755577"
+    },
+    {
+      "label": "Email",
+      "value": "info@medimall.gr",
+      "href": "mailto:info@medimall.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Leof. Mesogeion 2, Building Α’, 8th floor, Athina 115 27, Greece"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://medimall.gr/contact-us"
+    }
+  ],
+  "services": [
+    "THE CLINIC",
+    "years old: the new age limit to benefit an IVF treatment in Greece!",
+    "MEDIMALL IVF CLINIC",
+    "ASSISTED REPRODUCTION TREATMENTS",
+    "MEDIMALL IVF CLINIC'S",
+    "OUR CLINIC",
+    "WHY CHOOSE MEDIMALL IVF CLINIC?"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "CERTIFIED SERVICES Ensuring absolute scientific reliability, thanks to our well-trained medical staff and advanced technological equipment, Medimall IVF Clinic covers more and more diagnostic needs, after every new devel",
+    "ISO 9001 certification for all its services proves that apart from a specialized assisted reproduction clinic, it is also a modern, high-quality medical center."
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Women's health clinic",
+    "4.7 rating",
+    "262 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "THE CLINIC",
+    "years old: the new age limit to benefit an IVF treatment in Greece!",
+    "MEDIMALL IVF CLINIC"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=MEDIMALL%20Fertility%20Clinic&query_place_id=ChIJW4MCA1W9oRQREn_s_n-mPjA",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:31.195Z",
+      "excerpt": "MEDIMALL Fertility Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://medimall.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:31.195Z",
+      "excerpt": "Medimall IVF Clinic - The best IVF Clinic in Greece, Athens"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://medimall.gr/about-our-clinic",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.195Z",
+      "excerpt": "ABOUT OUR CLINIC - Medimall IVF Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://medimall.gr/contact-us",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.195Z",
+      "excerpt": "Contact Us - Medimall IVF Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://medimall.gr/our-services",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.195Z",
+      "excerpt": "OUR SERVICES - Medimall IVF Clinic"
+    }
+  ]
+}

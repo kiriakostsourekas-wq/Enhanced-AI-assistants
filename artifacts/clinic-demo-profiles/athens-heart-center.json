@@ -1,0 +1,168 @@
+{
+  "slug": "athens-heart-center",
+  "businessName": "Home - Tsiachris",
+  "category": "Medical office",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Home - Tsiachris Medical office in Αμπελόκηποι with services such as Θεραπεία Καρδιακού Επανασυγχρονισμού (Εμφύτευση Αμφικοιλιακού Βηματοδότη)",
+  "heroHeading": "Home - Tsiachris matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.tsiachris.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Athens%20Heart%20Center&query_place_id=ChIJ-1uZxgCYoRQRdDLlQRB9ibw",
+  "address": "Τοποθεσία ΙατρείουΕπικοινωνία No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα Τηλέφωνο : +210-6926002 Email : dtsiachris@yahoo.com Web : facebook.com Copyright © 2019 Soulmedic Theme All Rights Reserved | Design Themes",
+  "rating": 5,
+  "reviewsCount": 24,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "2106926002",
+      "href": "tel:2106926002"
+    },
+    {
+      "label": "Email",
+      "value": "dtsiachris@yahoo.com",
+      "href": "mailto:dtsiachris@yahoo.com"
+    },
+    {
+      "label": "Address",
+      "value": "Τοποθεσία ΙατρείουΕπικοινωνία No: 9 , Άγγελου Πυρρή , Αμπελόκηποι , 11526 Αθήνα Ελλάδα Τηλέφωνο : +210-6926002 Email : dtsiachris@yahoo.com Web : facebook.com Copyright © 2019 Soulmedic Theme All Rights Reserved | Design Themes"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.tsiachris.gr/contact"
+    }
+  ],
+  "services": [
+    "Θεραπεία Καρδιακού Επανασυγχρονισμού (Εμφύτευση Αμφικοιλιακού Βηματοδότη)"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Asclepeion Hospital Athens Certificate of Attendance EACVI TOE SIMULATOR 2021 Κάτοχος Ευρωπαϊκού Διπλώματος Καρδιολογίας European Examination in Core Cardiology (EECC 15 JUNE 2021) Εκπαίδευση στο Παιδοκαρδιολογικό Τμήμα",
+    "Τοποθεσία Ιατρείου"
+  ],
+  "people": [
+    "Τοποθεσία Ιατρείου"
+  ],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Logo URL: No explicit logo asset could be inferred confidently from the homepage HTML."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Medical office",
+    "5.0 rating",
+    "24 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Θεραπεία Καρδιακού Επανασυγχρονισμού (Εμφύτευση Αμφικοιλιακού Βηματοδότη)"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Athens%20Heart%20Center&query_place_id=ChIJ-1uZxgCYoRQRdDLlQRB9ibw",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.964Z",
+      "excerpt": "Athens Heart Center"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.tsiachris.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.964Z",
+      "excerpt": "Home - Tsiachris"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.tsiachris.gr/2742-2",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.964Z",
+      "excerpt": "ΔΕΛΗΓΙΑΝΝΗΣ ΓΕΩΡΓΙΟΣ - Tsiachris"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.tsiachris.gr/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.964Z",
+      "excerpt": "ΕΠΙΚΟΙΝΩΝΙΑ - Tsiachris"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.tsiachris.gr/athensheartcenter-2",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.964Z",
+      "excerpt": "Ποιοι Είμαστε - Tsiachris"
+    }
+  ]
+}

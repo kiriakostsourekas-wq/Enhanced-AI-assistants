@@ -1,0 +1,141 @@
+{
+  "slug": "michailidou-eugenia-dentist-athens",
+  "businessName": "Home",
+  "category": "Dental clinic",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Home Dental clinic in Athens",
+  "heroHeading": "Home matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://athensimplant.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MICHAILIDOU%20EUGENIA%20-%20dentist%20-%20ATHENS&query_place_id=ChIJUYffP1W9oRQRbqg7EuLi-zY",
+  "address": "Leof. Mesogeion 12, Athina 115 27, Greece",
+  "rating": 4.9,
+  "reviewsCount": 27,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+30 210 74 74 420",
+      "href": "tel:+302107474420"
+    },
+    {
+      "label": "Email",
+      "value": "info@athensimplant.gr",
+      "href": "mailto:info@athensimplant.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Leof. Mesogeion 12, Athina 115 27, Greece"
+    }
+  ],
+  "services": [],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Core services / treatments: No reliable service list was extracted from the current snapshot.",
+    "Contact page URL: No explicit contact page was identified.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Dental clinic",
+    "4.9 rating",
+    "27 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=MICHAILIDOU%20EUGENIA%20-%20dentist%20-%20ATHENS&query_place_id=ChIJUYffP1W9oRQRbqg7EuLi-zY",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.920Z",
+      "excerpt": "MICHAILIDOU EUGENIA - dentist - ATHENS"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://athensimplant.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.920Z",
+      "excerpt": "Home | Αρχική | Athens Dental Implant Center"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://athensimplant.gr/services",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.920Z",
+      "excerpt": "Services | Υπηρεσίες | Athens Dental Implant Center"
+    }
+  ]
+}

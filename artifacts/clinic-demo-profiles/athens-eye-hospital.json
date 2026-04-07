@@ -1,0 +1,168 @@
+{
+  "slug": "athens-eye-hospital",
+  "businessName": "Athens Eye Hospital - Athens Eye Hospital",
+  "category": "Eye care center",
+  "template": {
+    "slug": "cardealership",
+    "title": "Car Dealership",
+    "description": "Dark dealership landing page built around inventory trust, pricing, and premium vehicle presentation.",
+    "audienceLabel": "Inventory-heavy offers that need premium visual framing",
+    "bestFor": "Dealers, brokers, and other catalogue-led businesses",
+    "recommendedFor": [
+      "Inventory trust",
+      "Premium visuals",
+      "Finance-ready CTAs"
+    ],
+    "featured": false,
+    "accentColor": "#060644",
+    "sourceUrl": "https://cardealership.virtualpros.com/",
+    "pageHref": "/industries/cardealership/mirror",
+    "mirrorHref": "/industries/cardealership/mirror",
+    "heroHeading": "Premium quality, vetted vehicles, half the price.",
+    "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Inventory",
+      "New Cars",
+      "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+      "Used Cars",
+      "Recent News",
+      "Our Commitment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "'Lato'",
+      "Exo",
+      "Exo 2"
+    ],
+    "paletteTheme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    },
+    "templateSummary": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry."
+  },
+  "summary": "Athens Eye Hospital - Athens Eye Hospital Eye care center in Γλυφάδα with services such as Η ΧΡΗΣΗ ΤΟΥ FEMTOSECOND LASER ΣΤΗΝ ΧΕΙΡΟΥΡΓΙΚΗ ΤΟΥ ΚΑΤΑΡΡΑΚΤΗ ΕΚΜΗΔΕΝΙΖΕΙ ΤΗΝ ΠΙΘΑΝΟΤΗΤΑ ΕΠΙΠΛΟΚΩΝ.",
+  "heroHeading": "Athens Eye Hospital - Athens Eye Hospital matched to the Car Dealership core demo",
+  "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+  "websiteUrl": "https://www.athenseyehospital.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Athens%20Eye%20Hospital&query_place_id=ChIJwx0UrCW-oRQRlchtVI2Z6r4",
+  "address": "Athens Eye Hospital Λεωφ. Βουλιαγμένης 45166 75 Γλυφάδα (+30) 210 9697000 [email protected] Athens Eye Οφθαλμολογικό Κέντρο Δυτικής Αττικής Λεωφ. Θηβών 155 12134 Περιστέρι, Αθήνα (+30) 210 5717711 [email protected] Πιστοποιήσεις Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Όροι Χρήσης - Δήλωση Απορρήτου | website by theratron Πολιτική Προστασίας Δεδομένων Προσωπικού Χαρακτήρα Αρχική|Η Κλινική|Για Ασθενείς|Για Ιατρούς|Νέα|Επικοινωνία",
+  "rating": 4.3,
+  "reviewsCount": 822,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+30) 210 9697000",
+      "href": "tel:+302109697000"
+    },
+    {
+      "label": "Email",
+      "value": "info@athenseyehospital.gr",
+      "href": "mailto:info@athenseyehospital.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Athens Eye Hospital Λεωφ. Βουλιαγμένης 45166 75 Γλυφάδα (+30) 210 9697000 [email protected] Athens Eye Οφθαλμολογικό Κέντρο Δυτικής Αττικής Λεωφ. Θηβών 155 12134 Περιστέρι, Αθήνα (+30) 210 5717711 [email protected] Πιστοποιήσεις Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital. All Rights Reserved Όροι Χρήσης - Δήλωση Απορρήτου | website by theratron Πολιτική Προστασίας Δεδομένων Προσωπικού Χαρακτήρα Αρχική|Η Κλινική|Για Ασθενείς|Για Ιατρούς|Νέα|Επικοινωνία"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.athenseyehospital.gr/en/contact-p27.html"
+    },
+    {
+      "label": "Booking page",
+      "value": "Open booking page",
+      "href": "https://www.athenseyehospital.gr/gr/appointment.html"
+    }
+  ],
+  "services": [
+    "Η ΧΡΗΣΗ ΤΟΥ FEMTOSECOND LASER ΣΤΗΝ ΧΕΙΡΟΥΡΓΙΚΗ ΤΟΥ ΚΑΤΑΡΡΑΚΤΗ ΕΚΜΗΔΕΝΙΖΕΙ ΤΗΝ ΠΙΘΑΝΟΤΗΤΑ ΕΠΙΠΛΟΚΩΝ."
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Περισσότερα Athens Eye Οφθαλμολογικό Κέντρο Δυτικής Αττικής Πρόκειται για υπερσύγχρονη μονάδα που διαθέτει τεχνολογία αιχμής και ειδικά τμήματα.",
+    "Εξειδικευμένοι οφθαλμίατροι συνεργαζόμενοι με ομάδα οπτικών, οπτομετρών, εξειδικευμένων για οφθαλμολογικά περιστατικά νοσηλευτών, όλοι μαζί προασπίζουν το θεϊκό δώρο της όρασης.",
+    "Τμήμα Ερευνών Τμήμα Οφθαλμικού Κόγχου Τμήμα Θυρεοειδικής Οφθαλμοπάθειας Τμήμα Αποκατάστασης Χαμηλής Όρασης Επιστημονικά Νέα.",
+    "Εξατομικευμένοι ενδοφακοί αναπτύσσονται στο Athens Eye Hospital Τετάρτη, 7 Ιουνίου 2017 Η ΧΡΗΣΗ ΤΟΥ FEMTOSECOND LASER ΣΤΗΝ ΧΕΙΡΟΥΡΓΙΚΗ ΤΟΥ ΚΑΤΑΡΡΑΚΤΗ ΕΚΜΗΔΕΝΙΖΕΙ ΤΗΝ ΠΙΘΑΝΟΤΗΤΑ ΕΠΙΠΛΟΚΩΝ.",
+    "Θηβών 155 12134 Περιστέρι, Αθήνα (+30) 210 5717711 [email protected] Πιστοποιήσεις Follow uson YouTube Follow uson Twitter © 2026 Athens Eye Hospital.",
+    "Athens Eye Hospital."
+  ],
+  "people": [
+    "Athens Eye Hospital."
+  ],
+  "unresolvedItems": [
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Eye care center",
+    "4.3 rating",
+    "822 reviews",
+    "snapshot ready",
+    "Car Dealership"
+  ],
+  "overlayServices": [
+    "Η ΧΡΗΣΗ ΤΟΥ FEMTOSECOND LASER ΣΤΗΝ ΧΕΙΡΟΥΡΓΙΚΗ ΤΟΥ ΚΑΤΑΡΡΑΚΤΗ ΕΚΜΗΔΕΝΙΖΕΙ ΤΗΝ ΠΙΘΑΝΟΤΗΤΑ ΕΠΙΠΛΟΚΩΝ."
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Athens%20Eye%20Hospital&query_place_id=ChIJwx0UrCW-oRQRlchtVI2Z6r4",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:29.492Z",
+      "excerpt": "Athens Eye Hospital"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athenseyehospital.gr/gr",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:29.492Z",
+      "excerpt": "Athens Eye Hospital - Athens Eye Hospital"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athenseyehospital.gr/gr",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.492Z",
+      "excerpt": "Athens Eye Hospital - Athens Eye Hospital"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athenseyehospital.gr/en/contact-p27.html",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.492Z",
+      "excerpt": "Contact - Athens Eye Hospital"
+    }
+  ]
+}

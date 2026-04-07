@@ -1,0 +1,178 @@
+{
+  "slug": "medi-family-athens",
+  "businessName": "Welcome - Medi Family Athens",
+  "category": "Medical Center",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Welcome - Medi Family Athens Medical Center in Athens with services such as Θεραπεία",
+  "heroHeading": "Welcome - Medi Family Athens matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://medifamily.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MEDI%20FAMILY%20ATHENS&query_place_id=ChIJy1JfpDO9oRQRJzoMRQQmxCk",
+  "address": "Με την εγγραφή σας στο newsletter, αποδέχεστε τους όρους χρήσης (διαβάστε αναλυτικά). Email* Εγγραφή Βασ. Ηρακλείου 6,Μουσείο Αθηνών 210-8810150 &210-8810151 Χρήσιμοι σύνδεσμοι Ιατρικό κέντροΙατρικό ραντεβούΙατρικές υπηρεσίες κατ’ οίκονΕπικοινωνήστε μαζί μαςΜας εμπιστεύονταιΌροι χρήσης © Medi Family Athens 2026 - Powered by Media Planners",
+  "rating": 3.8,
+  "reviewsCount": 277,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210-8810150",
+      "href": "tel:2108810150"
+    },
+    {
+      "label": "Email",
+      "value": "amihalopoulou@medi-family-athens.com",
+      "href": "mailto:amihalopoulou@medi-family-athens.com"
+    },
+    {
+      "label": "Address",
+      "value": "Με την εγγραφή σας στο newsletter, αποδέχεστε τους όρους χρήσης (διαβάστε αναλυτικά). Email* Εγγραφή Βασ. Ηρακλείου 6,Μουσείο Αθηνών 210-8810150 &210-8810151 Χρήσιμοι σύνδεσμοι Ιατρικό κέντροΙατρικό ραντεβούΙατρικές υπηρεσίες κατ’ οίκονΕπικοινωνήστε μαζί μαςΜας εμπιστεύονταιΌροι χρήσης © Medi Family Athens 2026 - Powered by Media Planners"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://medifamily.gr/epikoinwnia"
+    },
+    {
+      "label": "Booking page",
+      "value": "Open booking page",
+      "href": "https://medifamily.gr/iatriko-rantevou"
+    }
+  ],
+  "services": [
+    "Θεραπεία"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "ΑΝΤΙΚΕΙΜΕΝΟ ΥΠΗΡΕΣΙΩΝ Ως αντικείμενο υπηρεσιών της συγκεκριμένης ιστοσελίδας ορίζεται η προβολή και προώθηση υπηρεσιών υγείας, η δημιουργία μοναδικού περιεχομένου (άρθρα σχετικά με την υγεία κ.α.) καθώς και η πώληση ειδι",
+    "Χρήστης: κάθε μέλος της Ιστοσελίδας που κάνει χρήση των υπηρεσιών της Ιστοσελίδας Προνόμια: Ειδικά οφέλη που ισχύουν μόνο για τα μέλη 5.",
+    "Η διαδικασία παραγγελίας γίνεται με την συμπλήρωση ειδικής φόρμας, αφού πρώτα έχει γίνει αποδοχή των όρων σύμβασης.",
+    "Μέλος: Ο επισκέπτης της Ιστοσελίδας ο οποίος προκειμένου να κάνει χρήση των υπηρεσιών της (αγορά προσφορών) εγγράφεται στην Ιστοσελίδα δημιουργώντας τον προσωπικό του λογαριασμό.",
+    "Με την εγγραφή του ο επισκέπτης γίνεται μέλος του medifamily.gr και δεσμεύεται με τους όρους του παρόντος.",
+    "ΕΥΘΥΝΗ ΧΡΗΣΤΗ Ο επισκέπτης / μέλος που κάνει χρήση των σελίδων και των υπηρεσιών της ιστοσελίδας αποδέχεται ότι θα χρησιμοποιεί την Ιστοσελίδα σύμφωνα με τις διατάξεις της Ελληνικής και Ευρωπαϊκής νομοθεσίας.",
+    "Ο επισκέπτης ή μέλος που κάνει χρήση των σελίδων και των υπηρεσιών της ιστοσελίδας αναλαμβάνει την ευθύνη για οποιαδήποτε ζημία προκαλείται στην Εταιρία από κακή ή αθέμιτη χρήση των σχετικών υπηρεσιών.",
+    "Το κάθε μέλος ευθύνεται επίσης για τη διατήρηση της μυστικότητας του λογαριασμού του προκειμένου να αποφευχθεί οποιαδήποτε κακόβουλη χρήση από τρίτους."
+  ],
+  "people": [
+    "Διαγνωστικό Κέντρο",
+    "To Medi Family συνιστά:"
+  ],
+  "unresolvedItems": [
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Medical Center",
+    "3.8 rating",
+    "277 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Θεραπεία"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=MEDI%20FAMILY%20ATHENS&query_place_id=ChIJy1JfpDO9oRQRJzoMRQQmxCk",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:31.021Z",
+      "excerpt": "MEDI FAMILY ATHENS"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://medifamily.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:31.021Z",
+      "excerpt": "Welcome - Medi Family Athens"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://medifamily.gr/medi-prolipsi",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.021Z",
+      "excerpt": "Μedi Πρόληψη - Medi Family Athens"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://medifamily.gr/epikoinwnia",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.021Z",
+      "excerpt": "Επικοινωνία - Medi Family Athens"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://medifamily.gr/oi-ypiresies-mas",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.021Z",
+      "excerpt": "Υπηρεσίες - Medi Family Athens"
+    }
+  ]
+}

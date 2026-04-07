@@ -1,0 +1,151 @@
+{
+  "slug": "med",
+  "businessName": "ΔΙΑΓΝΩΣΤΙΚΑ ΚΕΝΤΡΑ ΩΡΑΡΙΟ ΛΕΙΤΟΥΡΓΙΑΣ",
+  "category": "Diagnostic center",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "ΔΙΑΓΝΩΣΤΙΚΑ ΚΕΝΤΡΑ ΩΡΑΡΙΟ ΛΕΙΤΟΥΡΓΙΑΣ Diagnostic center in Κυψέλη",
+  "heroHeading": "ΔΙΑΓΝΩΣΤΙΚΑ ΚΕΝΤΡΑ ΩΡΑΡΙΟ ΛΕΙΤΟΥΡΓΙΑΣ matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://medbiodiagnosi.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MED%20%CE%92%CE%99%CE%9F%CE%94%CE%99%CE%91%CE%93%CE%9D%CE%A9%CE%A3%CE%97&query_place_id=ChIJ3UzV1Z2joRQRd0dzPyS5NtI",
+  "address": "Velvendou 7-9, Athina 113 63, Greece",
+  "rating": 3.7,
+  "reviewsCount": 201,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 867 6090",
+      "href": "tel:2108676090"
+    },
+    {
+      "label": "Email",
+      "value": "kipselibiodiagnosi@gmail.com",
+      "href": "mailto:kipselibiodiagnosi@gmail.com"
+    },
+    {
+      "label": "Address",
+      "value": "Velvendou 7-9, Athina 113 63, Greece"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://medbiodiagnosi.gr/orologiko"
+    },
+    {
+      "label": "Booking page",
+      "value": "Open booking page",
+      "href": "https://medbiodiagnosi.gr/rantevoy-online"
+    }
+  ],
+  "services": [],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Core services / treatments: No reliable service list was extracted from the current snapshot.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Diagnostic center",
+    "3.7 rating",
+    "201 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=MED%20%CE%92%CE%99%CE%9F%CE%94%CE%99%CE%91%CE%93%CE%9D%CE%A9%CE%A3%CE%97&query_place_id=ChIJ3UzV1Z2joRQRd0dzPyS5NtI",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:31.316Z",
+      "excerpt": "MED ΒΙΟΔΙΑΓΝΩΣΗ"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://medbiodiagnosi.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:31.316Z",
+      "excerpt": "MED ΒΙΟΔΙΑΓΝΩΣΗ - ΔΙΑΓΝΩΣΤΙΚΟ ΜΙΚΡΟΒΙΟΛΟΓΙΚΟ ΚΕΝΤΡΟ - MED ΒΙΟΔΙΑΓΝΩΣΗ ΚΥΨΕΛΗ - ΧΙΟΣ - ΔΙΑΓΝΩΣΤΙΚΟ ΜΙΚΡΟΒΙΟΛΟΓΙΚΟ ΚΕΝΤΡΟ"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://medbiodiagnosi.gr/orologiko",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.316Z",
+      "excerpt": "Ορολογικό - MED ΒΙΟΔΙΑΓΝΩΣΗ ΚΥΨΕΛΗ - ΧΙΟΣ - ΔΙΑΓΝΩΣΤΙΚΟ ΜΙΚΡΟΒΙΟΛΟΓΙΚΟ ΚΕΝΤΡΟ"
+    }
+  ]
+}

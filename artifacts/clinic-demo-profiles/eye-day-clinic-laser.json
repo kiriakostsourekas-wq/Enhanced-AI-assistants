@@ -1,0 +1,175 @@
+{
+  "slug": "eye-day-clinic-laser",
+  "businessName": "EYE DAY CLINIC - Οφθαλμοχειρουργική Μονάδα Ημερήσιας Νοσηλείας",
+  "category": "Eye care center",
+  "template": {
+    "slug": "cardealership",
+    "title": "Car Dealership",
+    "description": "Dark dealership landing page built around inventory trust, pricing, and premium vehicle presentation.",
+    "audienceLabel": "Inventory-heavy offers that need premium visual framing",
+    "bestFor": "Dealers, brokers, and other catalogue-led businesses",
+    "recommendedFor": [
+      "Inventory trust",
+      "Premium visuals",
+      "Finance-ready CTAs"
+    ],
+    "featured": false,
+    "accentColor": "#060644",
+    "sourceUrl": "https://cardealership.virtualpros.com/",
+    "pageHref": "/industries/cardealership/mirror",
+    "mirrorHref": "/industries/cardealership/mirror",
+    "heroHeading": "Premium quality, vetted vehicles, half the price.",
+    "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Inventory",
+      "New Cars",
+      "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+      "Used Cars",
+      "Recent News",
+      "Our Commitment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "'Lato'",
+      "Exo",
+      "Exo 2"
+    ],
+    "paletteTheme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    },
+    "templateSummary": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry."
+  },
+  "summary": "EYE DAY CLINIC - Οφθαλμοχειρουργική Μονάδα Ημερήσιας Νοσηλείας Eye care center in Γλυφάδα with services such as λόγοι για να διαλέξετε την EYE DAY CLINIC, EYE DAY CLINIC, Τμήμα Διαθλαστικής Χειρουργικής - Laser Μυωπίας",
+  "heroHeading": "EYE DAY CLINIC - Οφθαλμοχειρουργική Μονάδα Ημερήσιας Νοσηλείας matched to the Car Dealership core demo",
+  "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+  "websiteUrl": "https://www.eyedayclinic.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=EYE%20DAY%20CLINIC%20-%20Laser%20%CE%9C%CF%85%CF%89%CF%80%CE%AF%CE%B1%CF%82&query_place_id=ChIJAQAAwFu9oRQRarmPtm-w8k8",
+  "address": "Στοιχεία Επικοινωνίας Βασιλίσσης Σοφίας 64 (3ος – 6ος όρ.), 11528 Αθήνα τηλ.: 210 7295000 fax: 210 3622245 email: info@eyedayclinic.gr",
+  "rating": 4.5,
+  "reviewsCount": 182,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "2107295000",
+      "href": "tel:2107295000"
+    },
+    {
+      "label": "Email",
+      "value": "info@eyedayclinic.gr",
+      "href": "mailto:info@eyedayclinic.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Στοιχεία Επικοινωνίας Βασιλίσσης Σοφίας 64 (3ος – 6ος όρ.), 11528 Αθήνα τηλ.: 210 7295000 fax: 210 3622245 email: info@eyedayclinic.gr"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.eyedayclinic.gr/epikoinonia"
+    }
+  ],
+  "services": [
+    "λόγοι για να διαλέξετε την EYE DAY CLINIC",
+    "EYE DAY CLINIC",
+    "Τμήμα Διαθλαστικής Χειρουργικής - Laser Μυωπίας",
+    "Τμήμα Οφθαλμοπλαστικής Χειρουργικής",
+    "Τμήμα Χειρουργικής Υαλοειδούς – Αμφιβληστροειδούς",
+    "Τμήμα Διαθλαστικής Χειρουργικής – Laser Μυωπίας",
+    "Διαθλαστική Χειρουργική"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Θεματικές Κατηγορίες"
+  ],
+  "people": [
+    "Θεματικές Κατηγορίες"
+  ],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Eye care center",
+    "4.5 rating",
+    "182 reviews",
+    "snapshot ready",
+    "Car Dealership"
+  ],
+  "overlayServices": [
+    "λόγοι για να διαλέξετε την EYE DAY CLINIC",
+    "EYE DAY CLINIC",
+    "Τμήμα Διαθλαστικής Χειρουργικής - Laser Μυωπίας"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=EYE%20DAY%20CLINIC%20-%20Laser%20%CE%9C%CF%85%CF%89%CF%80%CE%AF%CE%B1%CF%82&query_place_id=ChIJAQAAwFu9oRQRarmPtm-w8k8",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:31.438Z",
+      "excerpt": "EYE DAY CLINIC - Laser Μυωπίας"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.eyedayclinic.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:31.438Z",
+      "excerpt": "EYE DAY CLINIC - Οφθαλμοχειρουργική Μονάδα Ημερήσιας Νοσηλείας"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.eyedayclinic.gr/eggrafi",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.438Z",
+      "excerpt": "(EN) Sign Up. | EYE DAY CLINIC"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.eyedayclinic.gr/epikoinonia",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.438Z",
+      "excerpt": "Επικοινωνήστε Μαζί μας | EYE DAY CLINIC"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.eyedayclinic.gr/category/syxnes-erotiseis",
+      "label": "FAQ page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.438Z",
+      "excerpt": "Συχνές ερωτήσεις - EYE DAY CLINIC"
+    }
+  ]
+}

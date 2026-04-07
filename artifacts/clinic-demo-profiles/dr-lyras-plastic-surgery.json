@@ -1,0 +1,164 @@
+{
+  "slug": "dr-lyras-plastic-surgery",
+  "businessName": "Bραζιλιάνικη ομορφιά με Ευρωπαϊκό στύλ",
+  "category": "Plastic surgeon",
+  "template": {
+    "slug": "medspa",
+    "title": "Medspa",
+    "description": "Beauty and treatment template with soft luxury cues, consultation CTAs, and treatment storytelling.",
+    "audienceLabel": "Consultation-driven treatment brands with a premium positioning angle",
+    "bestFor": "Med spas, fertility, aesthetics, dermatology, and plastic surgery clinics",
+    "recommendedFor": [
+      "Premium treatment framing",
+      "Consultation CTA",
+      "Soft-luxury treatment story"
+    ],
+    "featured": true,
+    "accentColor": "#EC606A",
+    "sourceUrl": "https://medspa.virtualpros.com/",
+    "pageHref": "/industries/medspa/mirror",
+    "mirrorHref": "/industries/medspa/mirror",
+    "heroHeading": "LOCATION & CONTACT",
+    "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+    "heroPrimaryCta": "Contacts",
+    "sectionHighlights": [],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Oswald",
+      "Roboto",
+      "'Lato'"
+    ],
+    "paletteTheme": {
+      "primary": "#EC606A",
+      "secondary": "#E93D3D",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#E93D3D"
+    },
+    "templateSummary": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin."
+  },
+  "summary": "Bραζιλιάνικη ομορφιά με Ευρωπαϊκό στύλ Plastic surgeon in Κολωνάκι with services such as ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ, ΑΙΣΘΗΤΙΚΕΣ ΘΕΡΑΠΕΙΕΣ, Θεραπείες Προσώπου",
+  "heroHeading": "Bραζιλιάνικη ομορφιά με Ευρωπαϊκό στύλ matched to the Medspa core demo",
+  "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+  "websiteUrl": "https://www.ioannislyras.com/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dr.%20Lyras%20Plastic%20Surgery&query_place_id=ChIJDaOTPEW9oRQRKQbqsEQJTr4",
+  "address": "Βασ. Σοφίας 57, Κολωνάκι, 115 21 +30 210 7219 660 lyras@lifting.gr",
+  "rating": 4.8,
+  "reviewsCount": 898,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+30 210 7219 660",
+      "href": "tel:+302107219660"
+    },
+    {
+      "label": "Email",
+      "value": "lyras@lifting.gr",
+      "href": "mailto:lyras@lifting.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Βασ. Σοφίας 57, Κολωνάκι, 115 21 +30 210 7219 660 lyras@lifting.gr"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1"
+    }
+  ],
+  "services": [
+    "ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ",
+    "ΑΙΣΘΗΤΙΚΕΣ ΘΕΡΑΠΕΙΕΣ",
+    "Θεραπείες Προσώπου",
+    "Μεσοθεραπεία",
+    "Θεραπείες Σώματος"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Ιωάνης Λύρας - Δ/ντής Πλαστικός Χειρουργός - Αθήνα Επίτιμος Πρόξενος της Βραζιλίας - Πειραιάς Bραζιλιάνικη ομορφιά με Ευρωπαϊκό στύλ ΠΕΡΙΣΣΟΤΕΡΑ Δρ.",
+    "Ιωάννης Λύρας AEXPI, ACEIP, FICS, NYAS Αισθητικός, Επανορθωτικός Πλαστικός Χειρουργός.",
+    "Ερρίκος Ντυνάν - Διευθυντής Πλαστικής Χειρουργικής Κλινικής Mέλος του Διεθνούς κολλεγίου χειρουργών, μέλος της Ελληνικής και της Διεθνούς εταιρίας Πλαστικής Χειρουργικής, μέλος της Ακαδημίας Επιστημών της Νέας Υόρκης ως",
+    "Ειδικός Ορκωτός Πραγματογνώμων Πλαστικής Χειρουργικής στα Αστικά και Ποινικά Δικαστήρια της Ελλάδος.",
+    "ΠΕΡΙΣΣΟΤΕΡΑ ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ Πρόσωπο Τίποτα δεν είναι πιο ευαίσθητο στα σημάδια του χρόνου απ’ ότι το πρόσωπο και το ντεκολτέ.",
+    "Σώμα Ιδανικές αναλογίες σώματος - Ο όρος της αισθητικής και επανορθωτικής πλαστικής χειρουργικής.",
+    "Ο γιατρός μου μίλησε μια ώρα μου έλυσε όλες μου τις απορίες και έκλεισα το χειρουργείο λίγες μέρες μετά χωρίς δυσταγμο.",
+    "Δεν είναι μόνο η κορυφή στην ειδικότητα του αλλά είναι και ένας καταπληκτικός ανθρώπος,που από την πρώτη στιγμή σέ κάνει να αισθανθείς πολύ άνετα!!!!"
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Plastic surgeon",
+    "4.8 rating",
+    "898 reviews",
+    "snapshot ready",
+    "Medspa"
+  ],
+  "overlayServices": [
+    "ΠΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ",
+    "ΑΙΣΘΗΤΙΚΕΣ ΘΕΡΑΠΕΙΕΣ",
+    "Θεραπείες Προσώπου"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Dr.%20Lyras%20Plastic%20Surgery&query_place_id=ChIJDaOTPEW9oRQRKQbqsEQJTr4",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:29.324Z",
+      "excerpt": "Dr. Lyras Plastic Surgery"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.ioannislyras.com/el",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:29.324Z",
+      "excerpt": "Πλαστικός Χειρουργός | Ιωάννης Λύρας"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.ioannislyras.com/el",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.324Z",
+      "excerpt": "Πλαστικός Χειρουργός | Ιωάννης Λύρας"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.ioannislyras.com/el/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.324Z",
+      "excerpt": "ΕΠΙΚΟΙΝΩΝΙΑ"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "slug": "marios-salmas",
+  "businessName": "Ενεργητική Ρομποτική αρθροπλαστική γόνατος",
+  "category": "Doctor",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Ενεργητική Ρομποτική αρθροπλαστική γόνατος Doctor in Αμπελόκηποι with services such as Εξειδικευμένη Χειρουργική Ώμου, Μικροχειρουργική Σπονδυλικής Στήλης, Ορθοπαιδικές θεραπείες που εξειδικευόμαστε",
+  "heroHeading": "Ενεργητική Ρομποτική αρθροπλαστική γόνατος matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://salmasmarios.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marios%20Salmas&query_place_id=ChIJj2GSmKqioRQRGiXgQbAeyqE",
+  "address": "Χειρουργική Ώμου Μικροχειρουργική Σπονδυλικής Στήλης Ρομποτική Αρθροπλαστική Ισχίου Ρομποτική Ολική Αρθροπλαστική Γόνατος Πολιτική Απορρήτου Όροι Χρήσης /* - - - - - - - - - - - protected contact - - - - - - - - - - - */ function protecteml(tar, e,l,t,n,u,a,r,m,c){var o=protecteml.arguments,p=o.length,f=\"mai\",d=\"lto\",h=\"&#64;\",s=\".\",v='=\"',g=\"\";if(\"l\"==e){var C=\"\",b=\"\";g=o[2]+h+o[3]+s+o[4],(\"\"==u||null==u)&&(u=g),\"\"!=a&&null!=a&&(C=\"subject=\"+a),null!=r&&null!=m&&null!=c&&(b=\"CC=\"+r+h+m+s+c),\"\"!=C&&\"\"!=b?g+=\"?\"+C+\"&amp;\"+b:\"\"==C&&\"\"!=b?g+=\"?\"+b:\"\"!=C&&\"\"==b&&(g+=\"?\"+C),g=\"<a href\"+v+f+d+\":\"+g+'\">'+u+\"</a>\";$(tar).append(g+' ');}else if(\"t\"==e){for(g='<input type=\"hidden\" name=\"recipient\" value=\"',i=2;p>i;i+=3)g+=o[i]+h+o[i+1]+s+o[i+2],p>i+3&&(g+=\",\");g+='\" />';$(tar).append(g);}} /**/ document.addEventListener(\"DOMContentLoaded\",function(event){ protecteml('#mp','l','salmasortho','gmail','com','','Message from Salmasmarios.gr'); protecteml('#mpcontact','t','salmasortho','gmail','com','mail','myinternet','gr'); protecteml('#mpleasing','t','salmasortho','gmail','com','mail','myinternet','gr'); protecteml('#mpnewsletter','t','salmasortho','gmail','com','mail','myinternet','gr'); }); ΜΑΡΙΟΣ ΣΑΛΜΑΣΧΕΙΡΟΥΡΓΟΣ ΟΡΘΟΠAIΔΙΚΟΣ ΚΑΘΗΓΗΤΗΣ ΠΑΝΕΠΙΣΤΗΜΙΟΥ ΡΟΜΠΟΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ Ιατρείο: Λεωφ. Κηφισίας 22, 6ος όροφος, Αθήνα 115 26, Τηλ.: 210 7793103 • 210 7705255 • Fax: 210 7773754",
+  "rating": 4.9,
+  "reviewsCount": 397,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 7793103",
+      "href": "tel:2107793103"
+    },
+    {
+      "label": "Email",
+      "value": "admin@salmasmarios.gr",
+      "href": "mailto:admin@salmasmarios.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Χειρουργική Ώμου Μικροχειρουργική Σπονδυλικής Στήλης Ρομποτική Αρθροπλαστική Ισχίου Ρομποτική Ολική Αρθροπλαστική Γόνατος Πολιτική Απορρήτου Όροι Χρήσης /* - - - - - - - - - - - protected contact - - - - - - - - - - - */ function protecteml(tar, e,l,t,n,u,a,r,m,c){var o=protecteml.arguments,p=o.length,f=\"mai\",d=\"lto\",h=\"&#64;\",s=\".\",v='=\"',g=\"\";if(\"l\"==e){var C=\"\",b=\"\";g=o[2]+h+o[3]+s+o[4],(\"\"==u||null==u)&&(u=g),\"\"!=a&&null!=a&&(C=\"subject=\"+a),null!=r&&null!=m&&null!=c&&(b=\"CC=\"+r+h+m+s+c),\"\"!=C&&\"\"!=b?g+=\"?\"+C+\"&amp;\"+b:\"\"==C&&\"\"!=b?g+=\"?\"+b:\"\"!=C&&\"\"==b&&(g+=\"?\"+C),g=\"<a href\"+v+f+d+\":\"+g+'\">'+u+\"</a>\";$(tar).append(g+' ');}else if(\"t\"==e){for(g='<input type=\"hidden\" name=\"recipient\" value=\"',i=2;p>i;i+=3)g+=o[i]+h+o[i+1]+s+o[i+2],p>i+3&&(g+=\",\");g+='\" />';$(tar).append(g);}} /**/ document.addEventListener(\"DOMContentLoaded\",function(event){ protecteml('#mp','l','salmasortho','gmail','com','','Message from Salmasmarios.gr'); protecteml('#mpcontact','t','salmasortho','gmail','com','mail','myinternet','gr'); protecteml('#mpleasing','t','salmasortho','gmail','com','mail','myinternet','gr'); protecteml('#mpnewsletter','t','salmasortho','gmail','com','mail','myinternet','gr'); }); ΜΑΡΙΟΣ ΣΑΛΜΑΣΧΕΙΡΟΥΡΓΟΣ ΟΡΘΟΠAIΔΙΚΟΣ ΚΑΘΗΓΗΤΗΣ ΠΑΝΕΠΙΣΤΗΜΙΟΥ ΡΟΜΠΟΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ Ιατρείο: Λεωφ. Κηφισίας 22, 6ος όροφος, Αθήνα 115 26, Τηλ.: 210 7793103 • 210 7705255 • Fax: 210 7773754"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://salmasmarios.gr/epikoinwnia.html"
+    },
+    {
+      "label": "Booking page",
+      "value": "Open booking page",
+      "href": "https://salmasmarios.gr/rantevou-online.html"
+    }
+  ],
+  "services": [
+    "Εξειδικευμένη Χειρουργική Ώμου",
+    "Μικροχειρουργική Σπονδυλικής Στήλης",
+    "Ορθοπαιδικές θεραπείες που εξειδικευόμαστε",
+    "Ο Ορθοπαιδικός Χειρουργός Μάριος Σαλμάς",
+    "ΘΕΡΑΠΕΙΕΣ",
+    "ΜΑΡΙΟΣ ΣΑΛΜΑΣ ΧΕΙΡΟΥΡΓΟΣ ΟΡΘΟΠAIΔΙΚΟΣ ΚΑΘΗΓΗΤΗΣ ΠΑΝΕΠΙΣΤΗΜΙΟΥ ΡΟΜΠΟΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ",
+    "ΜΕΤΕΓΧΕΙΡΗΤΙΚΟ ΠΡΩΤΟΚΟΛΛΟ ΑΡΘΡΟΣΚΟΠΙΚΟΥ ΧΕΙΡΟΥΡΓΙΚΟΥ ΚΑΘΑΡΙΣΜΟΥ SLAP I & III",
+    "ΑΡΘΡΟΣΚΟΠΙΚΗ ΘΕΡΑΠΕΙΑ ΣΥΝΔΡΟΜΟΥ ΥΠΑΚΡΩΜΙΑΚΗΣ ΠΡΟΣΤΡΙΒΗΣ"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Διαθέτει μεγάλη εμπειρία στη χειρουργική του γόνατος, του ισχίου, του ώμου και της σπονδυλικής στήλης.",
+    "Πλήρες Βιογραφικό Αθλητισμός - Ο George Asanidze, χρυσός Ολυμπιονίκης του 2004 στην άρση βαρών στην κατηγορία των 85 κιλών, ήρθε από τη Δημοκρατία της Γεωργίας και χειρουργήθηκε από τον Επίκουρο Καθηγητή Μάριο Σαλμά το 2",
+    "- Ο Γιώργος Τζελίλης, Ολυμπιονίκης στην άρση βαρών μιλάει για τον Καθηγητή Μάριο Σαλμά.",
+    "-Ο καθηγητής Σαλμάς Μάριος, γιατρός της Εθνικής Ομάδας Άρσης Βαρών το 1999-2000, με το Χρυσό Ολυμπιονίκη Πύρρο Δήμα, στο Πανευρωπαϊκό Πρωτάθλημα Άρσης Βαρών στη Σόφια, τον Απρίλιο του 2000.",
+    "-Ο καθηγητής Σαλμάς Μάριος στο ιατρείο του με τους Χρυσούς Ολυμπιονίκες της Άρσης Βαρών Κάχι Καχιασβίλι και George Asanidze.",
+    "-Ο Στέλιος Σκαρογιάννης-Πρωταθλητής Καράτε-Ομοσπονδιακός Προπονητής Εθνικής Ολυμπιακής Ομάδας Καράτε, μιλάει για τον καθηγητή Μάριο Σαλμά και το χειρουργείο δισκοκήλης αυχενικής μοίρας σπονδυλικής στήλης στο οποίο υπεβλή",
+    "Ο Ορθοπαιδικός Χειρουργός Μάριος Σαλμάς είναι Καθηγητής στην Ιατρική Σχολή Αθηνών, εξειδικευμένος στις ρομποτικές τεχνικές ελάχιστης επεμβατικότητας: αρθροπλαστική ισχίου και αρθροπλαστική γόνατος.",
+    "Ένα μεγάλο ευχαριστώ μέσα απ’την καρδιά μου στο γιατρό χειρουργό και φίλο μου Μάριο Σαλμά..!!!!!"
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Doctor",
+    "4.9 rating",
+    "397 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Εξειδικευμένη Χειρουργική Ώμου",
+    "Μικροχειρουργική Σπονδυλικής Στήλης",
+    "Ορθοπαιδικές θεραπείες που εξειδικευόμαστε"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Marios%20Salmas&query_place_id=ChIJj2GSmKqioRQRGiXgQbAeyqE",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:30.366Z",
+      "excerpt": "Marios Salmas"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://salmasmarios.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:30.366Z",
+      "excerpt": "Αρθροπλαστική γόνατος, Αρθροπλαστική ισχίου: Μάριος Σαλμάς Καθηγητής Χειρουργός Ορθοπαιδικός - χειρουργική ώμου, γόνατο, ισχίο, αρθρίτιδα γόνατος, αρθροπλαστική γόνατος"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://salmasmarios.gr/athliatros.html",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.366Z",
+      "excerpt": "Μάριος Σαλμάς Χειρουργός Ορθοπαιδικός, Τραυματιολόγος Αρθροσκόπηση στο ιατρείο - χειρουργική ώμου, γόνατος, ισχίο, σπονδυλική στήλη, αθλητισμός, αρθροσκόπηση στο ιατρείο - Marios Salmas"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://salmasmarios.gr/epikoinwnia.html",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.366Z",
+      "excerpt": "Επικοινωνία - Μάριος Σαλμάς Χειρουργός Ορθοπαιδικός, Τραυματιολόγος Αρθροσκόπηση στο ιατρείο - αρθροσκόπηση στο ιατρείο - Marios Salmas epikoinwnia"
+    }
+  ]
+}

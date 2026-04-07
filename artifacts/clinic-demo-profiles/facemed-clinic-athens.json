@@ -1,0 +1,166 @@
+{
+  "slug": "facemed-clinic-athens",
+  "businessName": "Πλαστική Χειρουργική & Αισθητική Ιατρική σε Αθήνα, Γέρακα & Τρίπολη",
+  "category": "Medical clinic",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Πλαστική Χειρουργική & Αισθητική Ιατρική σε Αθήνα, Γέρακα & Τρίπολη Medical clinic in Αμπελόκηποι with services such as Μαύροι Κύκλοι στα Μάτια: Πως φεύγουν & Τιμή θεραπείας, Φωτογραφίες Πριν και Μετά την Θεραπεία για Μαύρους Κύκλους, Τι είναι η θεραπεία για μαύρους κύκλους Eyecon;",
+  "heroHeading": "Πλαστική Χειρουργική & Αισθητική Ιατρική σε Αθήνα, Γέρακα & Τρίπολη matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://facemed.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Facemed%20Clinic%20Athens&query_place_id=ChIJo1Z3gQCYoRQRTARtIOnaUjY",
+  "address": "Αμπελόκηποι Αργολίδος 2, Αθήνα +30 210 69 29 999 +30 6947 195 333 [email protected] Γέρακας Θεσσαλονίκης 14, Γέρακας +30 210 60 47 777 +30 6977 855 000 [email protected] Τρίπολη Δήμητρος 64, Τρίπολη +30 2711 71 71 71 +30 6987 484 333 [email protected] Η Εταιρεία Ποίοι είμαστε Είπαν για εμάς Ο Χώρος μας Online Ραντεβού Υπηρεσίες Θεραπείες Προσώπου Θεραπείες Σώματος Κλινική Δερματολογία Θεραπείες Αποτρίχωσης Ημιμόνιμο μακιγιάζ HPV - Κονδυλώματα Γυναικολογία Πλαστική Χειρουργική Θεραπείες Μαλλιών Ακολούθησε μας Instagram Facebook TikTok Youtube LinkedIn Πληροφορίες Νέα Πολιτική Απορρήτου Όροι Χρήσης Copyright © 2026 Facemed Clinic Δημιουργήθηκε από Top Medical Το περιεχόμενο των ιστοσελίδων του παρόντος διαδικτυακού ιστότοπου δεν αποτελεί και δεν μπορεί να εκληφθεί ως ιατρική συμβουλή, διάγνωση, θεραπεία ή υπόδειξη. Όλες οι πληροφορίες παρέχονται αποκλειστικά και μόνο για ενημερωτικούς σκοπούς. Δεν υπάρχει καμία πρόθεση το περιεχόμενο αυτό να υποκαταστήσει την εξατομικευμένη ιατρική συμβουλή, διάγνωση, πρόγνωση ή θεραπεία. Πολιτική Περιεχομένου",
+  "rating": 4.8,
+  "reviewsCount": 625,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+30 210 69 29 999",
+      "href": "tel:+302106929999"
+    },
+    {
+      "label": "Email",
+      "value": "info@facemed.gr",
+      "href": "mailto:info@facemed.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Αμπελόκηποι Αργολίδος 2, Αθήνα +30 210 69 29 999 +30 6947 195 333 [email protected] Γέρακας Θεσσαλονίκης 14, Γέρακας +30 210 60 47 777 +30 6977 855 000 [email protected] Τρίπολη Δήμητρος 64, Τρίπολη +30 2711 71 71 71 +30 6987 484 333 [email protected] Η Εταιρεία Ποίοι είμαστε Είπαν για εμάς Ο Χώρος μας Online Ραντεβού Υπηρεσίες Θεραπείες Προσώπου Θεραπείες Σώματος Κλινική Δερματολογία Θεραπείες Αποτρίχωσης Ημιμόνιμο μακιγιάζ HPV - Κονδυλώματα Γυναικολογία Πλαστική Χειρουργική Θεραπείες Μαλλιών Ακολούθησε μας Instagram Facebook TikTok Youtube LinkedIn Πληροφορίες Νέα Πολιτική Απορρήτου Όροι Χρήσης Copyright © 2026 Facemed Clinic Δημιουργήθηκε από Top Medical Το περιεχόμενο των ιστοσελίδων του παρόντος διαδικτυακού ιστότοπου δεν αποτελεί και δεν μπορεί να εκληφθεί ως ιατρική συμβουλή, διάγνωση, θεραπεία ή υπόδειξη. Όλες οι πληροφορίες παρέχονται αποκλειστικά και μόνο για ενημερωτικούς σκοπούς. Δεν υπάρχει καμία πρόθεση το περιεχόμενο αυτό να υποκαταστήσει την εξατομικευμένη ιατρική συμβουλή, διάγνωση, πρόγνωση ή θεραπεία. Πολιτική Περιεχομένου"
+    }
+  ],
+  "services": [
+    "Μαύροι Κύκλοι στα Μάτια: Πως φεύγουν & Τιμή θεραπείας",
+    "Φωτογραφίες Πριν και Μετά την Θεραπεία για Μαύρους Κύκλους",
+    "Τι είναι η θεραπεία για μαύρους κύκλους Eyecon;",
+    "Διαδικασία Θεραπείας",
+    "Θεραπείες Προσώπου",
+    "Θεραπεία για Μαύρους Κύκλους Eyecon",
+    "Θεραπείες Σώματος",
+    "Θεραπείες Αποτρίχωσης"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Στο εσωτερικό, τα γραφεία μας είναι ζεστά και φιλόξενα, με μια σειρά από εξειδικευμένες αίθουσες θεραπείας για να φιλοξενήσουν ένα ευρύ φάσμα δερματολογικών διαδικασιών.",
+    "Διαθέτουμε μια σειρά από εξειδικευμένες αίθουσες θεραπείας για να φιλοξενήσουμε ένα ευρύ φάσμα δερματολογικών επεμβάσεων και είμαστε εξοπλισμένοι με τις τελευταίες τεχνολογίες και τεχνικές για να προσφέρουμε την πιο προη",
+    "Δες την τοποθεσία /Η ομάδα μας Πιστοποιημένοι και έμπειροι Η ομάδα μας αποτελείται από άρτια εκπαιδευμένους και έμπειρους δερματολόγους, καθώς και από ένα αφοσιωμένο προσωπικό υποστήριξης.",
+    "Tzonis Panagiotis Μαιευτήρας-Γυναικολόγος Dr."
+  ],
+  "people": [
+    "Tzonis Panagiotis Μαιευτήρας-Γυναικολόγος Dr."
+  ],
+  "unresolvedItems": [
+    "Contact page URL: No explicit contact page was identified.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Medical clinic",
+    "4.8 rating",
+    "625 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Μαύροι Κύκλοι στα Μάτια: Πως φεύγουν & Τιμή θεραπείας",
+    "Φωτογραφίες Πριν και Μετά την Θεραπεία για Μαύρους Κύκλους",
+    "Τι είναι η θεραπεία για μαύρους κύκλους Eyecon;"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Facemed%20Clinic%20Athens&query_place_id=ChIJo1Z3gQCYoRQRTARtIOnaUjY",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:29.980Z",
+      "excerpt": "Facemed Clinic Athens"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://facemed.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:29.980Z",
+      "excerpt": "Πλαστική Χειρουργική | Αισθητική Ιατρική | Facemed Clinicsearchcross"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://facemed.gr/about",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.980Z",
+      "excerpt": "Σχετικά με εμάςsearchcross"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://facemed.gr/a/eyecon-therapy",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:29.980Z",
+      "excerpt": "Μαύροι Κύκλοι, Ρυτίδες & Σακούλες κάτω απο τα Μάτια ΤΕΛΟΣ!searchcross"
+    }
+  ]
+}

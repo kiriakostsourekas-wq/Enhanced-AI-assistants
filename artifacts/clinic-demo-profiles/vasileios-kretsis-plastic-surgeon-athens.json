@@ -1,0 +1,159 @@
+{
+  "slug": "vasileios-kretsis-plastic-surgeon-athens",
+  "businessName": "Πλαστικός Χειρουργός - Βασίλειος Κρέτσης",
+  "category": "Plastic surgeon",
+  "template": {
+    "slug": "medspa",
+    "title": "Medspa",
+    "description": "Beauty and treatment template with soft luxury cues, consultation CTAs, and treatment storytelling.",
+    "audienceLabel": "Consultation-driven treatment brands with a premium positioning angle",
+    "bestFor": "Med spas, fertility, aesthetics, dermatology, and plastic surgery clinics",
+    "recommendedFor": [
+      "Premium treatment framing",
+      "Consultation CTA",
+      "Soft-luxury treatment story"
+    ],
+    "featured": true,
+    "accentColor": "#EC606A",
+    "sourceUrl": "https://medspa.virtualpros.com/",
+    "pageHref": "/industries/medspa/mirror",
+    "mirrorHref": "/industries/medspa/mirror",
+    "heroHeading": "LOCATION & CONTACT",
+    "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+    "heroPrimaryCta": "Contacts",
+    "sectionHighlights": [],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Oswald",
+      "Roboto",
+      "'Lato'"
+    ],
+    "paletteTheme": {
+      "primary": "#EC606A",
+      "secondary": "#E93D3D",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#E93D3D"
+    },
+    "templateSummary": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin."
+  },
+  "summary": "Πλαστικός Χειρουργός - Βασίλειος Κρέτσης Plastic surgeon in Athens with services such as Πλαστικός Χειρουργός - Βασίλειος Κρέτσης, Επανεπέμβαση μετά από αποτυχημένα χειρουργεία μαστού - Dr. Kretsis, Πλαστικός Χειρουργός FEBOPRAS Plastic Reconstructive & Aesthetic Surgery",
+  "heroHeading": "Πλαστικός Χειρουργός - Βασίλειος Κρέτσης matched to the Medspa core demo",
+  "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+  "websiteUrl": "https://www.vk-plasticsurgery.com/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vasileios%20Kretsis%20-%20Plastic%20Surgeon%20-%20Athens&query_place_id=ChIJ5ykKRFG9oRQRaZUez11Nung",
+  "address": "Βασίλειος Κ. Κρέτσης - Πλαστικός Χειρουργός Βασιλίσσης Σοφίας 90, Αθήνα, Τ.Κ. 11528 Τηλ.: 210 77 86 277, Κιν.: 694 46 43 242 E-mail: info@vk-plasticsurgery.com Web: www.vk-plasticsurgery.com Ωράριο ιατρείου Δευτέρα 10.00 - 22.00 Τρίτη 10.00 - 20.00 Τετάρτη 10.00 - 22.00 Πέμπτη 10.00 - 20.00 Παρασκευή 10.00 - 22.00 Σάββατο 10.00 - 18.00 Copyright © Dr. Κρέτσης. All Rights Reserved | Login. Web Design & Development by CnC Tech | Ruler Digital Agency",
+  "rating": 4.9,
+  "reviewsCount": 222,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 77 86 277",
+      "href": "tel:2107786277"
+    },
+    {
+      "label": "Email",
+      "value": "info@vk-plasticsurgery.com",
+      "href": "mailto:info@vk-plasticsurgery.com"
+    },
+    {
+      "label": "Address",
+      "value": "Βασίλειος Κ. Κρέτσης - Πλαστικός Χειρουργός Βασιλίσσης Σοφίας 90, Αθήνα, Τ.Κ. 11528 Τηλ.: 210 77 86 277, Κιν.: 694 46 43 242 E-mail: info@vk-plasticsurgery.com Web: www.vk-plasticsurgery.com Ωράριο ιατρείου Δευτέρα 10.00 - 22.00 Τρίτη 10.00 - 20.00 Τετάρτη 10.00 - 22.00 Πέμπτη 10.00 - 20.00 Παρασκευή 10.00 - 22.00 Σάββατο 10.00 - 18.00 Copyright © Dr. Κρέτσης. All Rights Reserved | Login. Web Design & Development by CnC Tech | Ruler Digital Agency"
+    },
+    {
+      "label": "Booking page",
+      "value": "Open booking page",
+      "href": "https://www.vk-plasticsurgery.com/el/%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CF%84%CE%B5-%CF%81%CE%B1%CE%BD%CF%84%CE%B5%CE%B2%CE%BF%CF%8D"
+    }
+  ],
+  "services": [
+    "Πλαστικός Χειρουργός - Βασίλειος Κρέτσης",
+    "Επανεπέμβαση μετά από αποτυχημένα χειρουργεία μαστού - Dr. Kretsis",
+    "Πλαστικός Χειρουργός FEBOPRAS Plastic Reconstructive & Aesthetic Surgery",
+    "Πλαστική Χειρουργική",
+    "Επανορθωτική Χειρουργική",
+    "Αισθητικές Θεραπείες",
+    "Θεραπείες Προσώπου",
+    "Θεραπείες Σώματος"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "210 77 86 277 info@vk-plasticsurgery.com EL EN ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ 210 77 86 277 Πλαστικός Χειρουργός Σχετικά με το Dr.",
+    "Κρέτση Photo Gallery Αρχική - Πλαστικός Χειρουργός - Σχετικά με το Dr.",
+    "Κρέτση και είδα περιστατικά που είχε χειρουργήσει με πολύ φυσικά αποτελέσματα.",
+    "Κατά την διάρκεια των σπουδών μου στο Πανεπιστήμιο της Ιατρικής Αθηνών από την αρχή είχα επιλέξει ότι θα ασχοληθώ με τον χειρουργικό κλάδο, αλλά δεν είχα καταλήξει οριστικά σε κάποια χειρουργική ειδικότητα.",
+    "Ένα ταξίδι στην Αμερική, κατά την διάρκεια των τελευταίων ετών στο πανεπιστήμιο, στα πλαίσια κάποιων εκπαιδευτικών τριμήνων, βρέθηκα να παρακολουθώ επεμβάσεις πλαστικής χειρουργικής οι οποίες πλέον με είχαν εντυπωσιάσει",
+    "Η εξειδίκευσή μου στο Πανεπιστήμιο του Irvine αφορούσε την αισθητική χειρουργική και την μικροχειρουργική.",
+    "Kατά την διάρκεια της εξειδίκευσης μου είχα την τύχη οι καθηγητές μου να μην ήταν απλώς Πλαστικοί Χειρουργοί που θα με εκπαίδευαν σε μια τεχνική δουλειά, αλλά το κυριότερο με έμαθαν να σκέφτομαι και να επιτυγχάνω το ίδιο",
+    "Στον τομέα της Αισθητικής Χειρουργικής εξειδικεύτηκα στην Αισθητική Χειρουργική προσώπου, μαστού και σώματος."
+  ],
+  "people": [],
+  "unresolvedItems": [
+    "Contact page URL: No explicit contact page was identified.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Plastic surgeon",
+    "4.9 rating",
+    "222 reviews",
+    "snapshot ready",
+    "Medspa"
+  ],
+  "overlayServices": [
+    "Πλαστικός Χειρουργός - Βασίλειος Κρέτσης",
+    "Επανεπέμβαση μετά από αποτυχημένα χειρουργεία μαστού - Dr. Kretsis",
+    "Πλαστικός Χειρουργός FEBOPRAS Plastic Reconstructive & Aesthetic Surgery"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Vasileios%20Kretsis%20-%20Plastic%20Surgeon%20-%20Athens&query_place_id=ChIJ5ykKRFG9oRQRaZUez11Nung",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:31.267Z",
+      "excerpt": "Vasileios Kretsis - Plastic Surgeon - Athens"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.vk-plasticsurgery.com/el",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:31.267Z",
+      "excerpt": "Πλαστικός Χειρουργός - Βασίλειος Κρέτσης"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.vk-plasticsurgery.com/el/%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CF%8C%CF%82-%CF%87%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CF%8C%CF%82/%CF%83%CF%87%CE%B5%CF%84%CE%B9%CE%BA%CE%AC-%CE%BC%CE%B5-%CF%84%CE%BF-dr-%CE%BA%CF%81%CE%AD%CF%84%CF%83%CE%B7",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.267Z",
+      "excerpt": "Σχετικά με το Dr. Κρέτση"
+    }
+  ]
+}

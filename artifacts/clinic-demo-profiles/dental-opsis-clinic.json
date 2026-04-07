@@ -1,0 +1,174 @@
+{
+  "slug": "dental-opsis-clinic",
+  "businessName": "We Care For Your Dental Health",
+  "category": "Dental clinic",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "We Care For Your Dental Health Dental clinic in Athens with services such as Dental Opsis Clinic, by Dental Opsis Clinic",
+  "heroHeading": "We Care For Your Dental Health matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://dentalopsisclinic.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dental%20Opsis%20Clinic&query_place_id=ChIJaUEvefWCRG4RH1dF-MmLOB0",
+  "address": "Make an appointment & meet our team. +30 211 0033 071 For emergency please call us on: +30 6970334400 Quick Links Home Services Team Book Appointment Contact Us Working Hours Mon – Fri: 9am – 9pm Saturday: Closed Sunday: Closed Contact Us Phone: +30 211 0033 071 info@dentalopsisclinic.gr Kanari 24, Athina 106 75, Greece Facebook-f Instagram Pinterest Youtube © Copyright DENTAL OPSIS CLINIC All rights reserved. Privacy Policy",
+  "rating": 4.9,
+  "reviewsCount": 295,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+2110033071",
+      "href": "tel:+2110033071"
+    },
+    {
+      "label": "Email",
+      "value": "info@dentalopsisclinic.gr",
+      "href": "mailto:info@dentalopsisclinic.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Make an appointment & meet our team. +30 211 0033 071 For emergency please call us on: +30 6970334400 Quick Links Home Services Team Book Appointment Contact Us Working Hours Mon – Fri: 9am – 9pm Saturday: Closed Sunday: Closed Contact Us Phone: +30 211 0033 071 info@dentalopsisclinic.gr Kanari 24, Athina 106 75, Greece Facebook-f Instagram Pinterest Youtube © Copyright DENTAL OPSIS CLINIC All rights reserved. Privacy Policy"
+    },
+    {
+      "label": "Booking page",
+      "value": "Open booking page",
+      "href": "https://dentalopsisclinic.gr/book-appointment"
+    }
+  ],
+  "services": [
+    "Dental Opsis Clinic",
+    "by Dental Opsis Clinic"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Athina Tsiorva Doctor Dr.",
+    "Olympia Karavasili Doctor Dr.",
+    "Karathanasi Doctor Dr.",
+    "What Our Patients Say"
+  ],
+  "people": [
+    "Athina Tsiorva Doctor Dr.",
+    "Olympia Karavasili Doctor Dr.",
+    "Karathanasi Doctor Dr.",
+    "What Our Patients Say"
+  ],
+  "unresolvedItems": [
+    "Contact page URL: No explicit contact page was identified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Dental clinic",
+    "4.9 rating",
+    "295 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Dental Opsis Clinic",
+    "by Dental Opsis Clinic"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Dental%20Opsis%20Clinic&query_place_id=ChIJaUEvefWCRG4RH1dF-MmLOB0",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:30.859Z",
+      "excerpt": "Dental Opsis Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://dentalopsisclinic.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:30.859Z",
+      "excerpt": "Full Arch Rehabilitation and Dental Treatments Clinic in Athens - Dental Opsis Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://dentalopsisclinic.gr/team-about-us-doctors-specialists-dental-clinic-dental-clinic-athens-secretary-kolonaki-clinic-center-dental-clinic-digital-workflow-teamwork",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.859Z",
+      "excerpt": "About Us - Dental Opsis Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://dentalopsisclinic.gr/our-services",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.859Z",
+      "excerpt": "Get top quality of dental services in our clinic in the heart of Athens"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://dentalopsisclinic.gr/dental-opsis-clinic-doctors",
+      "label": "Team page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.859Z",
+      "excerpt": "Team - Dental Opsis Clinic"
+    }
+  ]
+}

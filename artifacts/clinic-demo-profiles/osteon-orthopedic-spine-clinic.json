@@ -1,0 +1,173 @@
+{
+  "slug": "osteon-orthopedic-spine-clinic",
+  "businessName": "Απόλυτη Εξειδίκευση",
+  "category": "Orthopedic clinic",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Απόλυτη Εξειδίκευση Orthopedic clinic in Μαρούσι with services such as Από τη Διάγνωση στη Θεραπεία, Πιστοποιημένο Κέντρο Αριστείας στη Χειρουργική της Σπονδυλικής Στήλης, ΡΟΜΠΟΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣ",
+  "heroHeading": "Απόλυτη Εξειδίκευση matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://osteon.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B5%CE%B4%CE%B9%CE%BA%CE%BF%CE%AF%20%CE%A7%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CE%BF%CE%AF%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1%20-%20Osteon%20Orthopedic%20%26%20Spine%20Clinic&query_place_id=ChIJn3MCiaiZoRQRHs1hu_dmsI0",
+  "address": "Λεωφόρος Κηφισίας 153 & Βασ. Σοφίας 4, Μαρούσι, Αθήνα 151 24",
+  "rating": 4.4,
+  "reviewsCount": 33,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "01 02 03 04 05",
+      "href": "tel:0102030405"
+    },
+    {
+      "label": "Email",
+      "value": "info@osteon.gr",
+      "href": "mailto:info@osteon.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Λεωφόρος Κηφισίας 153 & Βασ. Σοφίας 4, Μαρούσι, Αθήνα 151 24"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://osteon.gr/contact-us"
+    }
+  ],
+  "services": [
+    "Από τη Διάγνωση στη Θεραπεία",
+    "Πιστοποιημένο Κέντρο Αριστείας στη Χειρουργική της Σπονδυλικής Στήλης",
+    "ΡΟΜΠΟΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣ",
+    "ΕΛΑΧΙΣΤΑ ΕΠΕΜΒΑΤΙΚΗ ΝΕΥΡΟΧΕΙΡΟΥΡΓΙΚΗ ΕΓΚΕΓΑΛΟΥ"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Πάντος Ορθοπαιδικός Χειρουργός – Αθλητίατρος, MD, MSc, PhD Ο Παναγιώτης Γ.",
+    "Κατέχει πανευρωπαϊκή πιστοποίηση από τη SECEC (European Society for Surgery of the Shoulder and the Elbow), για την εξειδίκευσή του στη χειρουργική ώμου και αγκώνα.",
+    "Πιστοποίηση στην Τεχνολογία Symbios Η Osteon Clinic είναι πιστοποιημένο κέντρο για την εφαρμογή της πρωτοποριακής τεχνολογίας Symbios, η οποία προσφέρει εξατομικευμένα εμφυτεύματα σε χειρουργικές επεμβάσεις ισχίου και γό",
+    "Παναγιώτης Πάντος, ο οποίος πιστοποιήθηκε από την Ευρωπαϊκή Εταιρεία Ώμου & Αγκώνα – διεθνής αναγνώριση που επιβεβαιώνει την εξειδίκευση, τη χειρουργική αρτιότητα και την εφαρμογή των πλέον σύγχρονων τεχνικών αποκατάστασ",
+    "Βασίλειος Σακελλαρίου αποτελεί μέλος της σχεδιαστικής ομάδας του εμφυτεύματος και Senior Surgeon της εταιρείας για το συγκεκριμένο εμφύτευμα.",
+    "Παναγιώτης Γ. Πάντος",
+    "Ιατρείο Αμαρουσίου",
+    "Ιατρείο Γλυφάδας"
+  ],
+  "people": [
+    "Παναγιώτης Γ. Πάντος",
+    "Ιατρείο Αμαρουσίου",
+    "Ιατρείο Γλυφάδας",
+    "Ιατρικό Κέντρο Αθηνών"
+  ],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Orthopedic clinic",
+    "4.4 rating",
+    "33 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Από τη Διάγνωση στη Θεραπεία",
+    "Πιστοποιημένο Κέντρο Αριστείας στη Χειρουργική της Σπονδυλικής Στήλης",
+    "ΡΟΜΠΟΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣ"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B5%CE%B4%CE%B9%CE%BA%CE%BF%CE%AF%20%CE%A7%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CE%BF%CE%AF%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1%20-%20Osteon%20Orthopedic%20%26%20Spine%20Clinic&query_place_id=ChIJn3MCiaiZoRQRHs1hu_dmsI0",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.684Z",
+      "excerpt": "Ορθοπεδικοί Χειρουργοί Αθήνα - Osteon Orthopedic & Spine Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://osteon.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.684Z",
+      "excerpt": "Ορθοπεδικοί Χειρουργοί Αθήνα - Ορθοπεδική Κλινική OSTEON"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://osteon.gr/contact-us",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.684Z",
+      "excerpt": "Bot Verification"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://osteon.gr/doctors/pantos-panagiotis",
+      "label": "Team page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.684Z",
+      "excerpt": "Παναγιώτης Γ. Πάντος - Ορθοπεδικοί Χειρουργοί Αθήνα"
+    }
+  ]
+}

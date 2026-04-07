@@ -1,0 +1,152 @@
+{
+  "slug": "nodas-kapositas",
+  "businessName": "Nodas Kapositas MD.PhD",
+  "category": "Plastic surgeon",
+  "template": {
+    "slug": "medspa",
+    "title": "Medspa",
+    "description": "Beauty and treatment template with soft luxury cues, consultation CTAs, and treatment storytelling.",
+    "audienceLabel": "Consultation-driven treatment brands with a premium positioning angle",
+    "bestFor": "Med spas, fertility, aesthetics, dermatology, and plastic surgery clinics",
+    "recommendedFor": [
+      "Premium treatment framing",
+      "Consultation CTA",
+      "Soft-luxury treatment story"
+    ],
+    "featured": true,
+    "accentColor": "#EC606A",
+    "sourceUrl": "https://medspa.virtualpros.com/",
+    "pageHref": "/industries/medspa/mirror",
+    "mirrorHref": "/industries/medspa/mirror",
+    "heroHeading": "LOCATION & CONTACT",
+    "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+    "heroPrimaryCta": "Contacts",
+    "sectionHighlights": [],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Oswald",
+      "Roboto",
+      "'Lato'"
+    ],
+    "paletteTheme": {
+      "primary": "#EC606A",
+      "secondary": "#E93D3D",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#E93D3D"
+    },
+    "templateSummary": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin."
+  },
+  "summary": "Nodas Kapositas MD.PhD Plastic surgeon in Athens with services such as Ορισμός Πλαστικής χειρουργικής, Reels πλαστικής χειρουργικής, Παιδιατρική πλαστική χειρουργική",
+  "heroHeading": "Nodas Kapositas MD.PhD matched to the Medspa core demo",
+  "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+  "websiteUrl": "https://www.kapositas.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nodas%20Kapositas&query_place_id=ChIJ6S-S7VO9oRQRek76EtC1g30",
+  "address": "Dim. Soutsou 17, Athina 115 21, Greece",
+  "rating": 4.9,
+  "reviewsCount": 212,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+30 2106401004",
+      "href": "tel:+302106401004"
+    },
+    {
+      "label": "Address",
+      "value": "Dim. Soutsou 17, Athina 115 21, Greece"
+    }
+  ],
+  "services": [
+    "Ορισμός Πλαστικής χειρουργικής",
+    "Reels πλαστικής χειρουργικής",
+    "Παιδιατρική πλαστική χειρουργική",
+    "Ενέσεις πλάσματος, (PRP), Αυτόλογη μεσοθεραπεία",
+    "Πλαστικός χειρουργός",
+    "Dr Nώντας Καποσίτας M.D, PhDΠλαστικός Χειρουργός, Αθήνα, Θεσσαλονίκη, Κύπρος",
+    "Ο πλαστικός χειρουργός Νώντας Καποσίτας είναι μέλος"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Διακρίσεις Το 1995 κατόπιν εξετάσεων ο πλαστικός χειρουργός Νώντας Καποσίτας τιμάται με 3-ετή υποτροφία από το ίδρυμα κρατικών υποτροφιών (ΙΚΥ) για εξειδίκευση στις ΗΠΑ και συγκεκριμμένα στο University of Illinois at Chi",
+    "Έτσι σχεδιάστηκε εξ αρχής να περιλαμβάνει ποικίλες θεματικές ενότητες διαφόρων ειδικοτήτων.",
+    "Πιστεύω ότι η πλούσια ύλη του βιβλίου θα βοηθήσει να αγαπηθεί από ένα ευρύτερο εξειδικευμένο αναγνωστικό ιατρικό σώμα όπως Δερματολόγους, χειρουργούς, ογκολόγους και όχι μόνο.",
+    "Ομιλητής πλαστικός χειρουργός σε panel στα συνέδρια της Ελληνικής Εταιρίας πλαστικής χειρουργικής και μέλος της επιστημονικής επιτροπής οργάνωσης του συνεδρίου.",
+    "Παρούσα θέση Πλαστικός Χειρουργός: Διευθυντής πλαστικής χειρουργικής της Βιοκλινικής Αθηνών, μέλους του Ομίλου Βιοιατρικής Επ.",
+    "Διευθυντής της Βιοκλινικής Θεσσαλονίκης Επιστημονικός συνεργάτης πλαστικός χειρουργός στο Αρεταίειο Νοσοκομείο,και στην κλινική Παπαπέτρου (Μητέρα και παιδί),Λευκωσία,Κύπρος Εμπειρία Από το 1999 εκτελούμε πλαστική χειρου",
+    "Παράλληλα αναλύει πώς βίωσε η ίδια την επέμβαση και πως αυξήθηκαν τα συμβόλαια στα casting με νέες δουλειές αμέσως μετά από αυτή Μέλος των οργανισμών Ασφάλεια και απόρρητο δεδομένων Τα νέα της πλαστικής χειρουργικής Site",
+    "Δρ Νώντας Καποσίτας"
+  ],
+  "people": [
+    "Δρ Νώντας Καποσίτας",
+    "Συμμετοχή σε Διεθνή Συνέδρια"
+  ],
+  "unresolvedItems": [
+    "Email(s): No public clinic email was verified from the snapshot.",
+    "Contact page URL: No explicit contact page was identified.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Plastic surgeon",
+    "4.9 rating",
+    "212 reviews",
+    "snapshot ready",
+    "Medspa"
+  ],
+  "overlayServices": [
+    "Ορισμός Πλαστικής χειρουργικής",
+    "Reels πλαστικής χειρουργικής",
+    "Παιδιατρική πλαστική χειρουργική"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Nodas%20Kapositas&query_place_id=ChIJ6S-S7VO9oRQRek76EtC1g30",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:31.300Z",
+      "excerpt": "Nodas Kapositas"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.kapositas.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:31.300Z",
+      "excerpt": "Πλαστικός χειρουργός, Δρ Νώντας Καποσίτας"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.kapositas.gr/biografiko.php",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.300Z",
+      "excerpt": "Πλαστικοί χειρουργοί Αθήνα, Θεσσαλονίκη στήθος"
+    }
+  ]
+}

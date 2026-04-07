@@ -1,0 +1,168 @@
+{
+  "slug": "eye-clinic-of-athens",
+  "businessName": "ΟΦΘΑΛΜΙΑΤΡΕΙΟ ΑΘΗΝΩΝ",
+  "category": "General hospital",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "ΟΦΘΑΛΜΙΑΤΡΕΙΟ ΑΘΗΝΩΝ General hospital in Athens with services such as Χειρουργικές Πράξεις, Υαλοειδούς & Χειρουργική Αμφιβληστροειδούς, Διαθλαστική Χειρουργική",
+  "heroHeading": "ΟΦΘΑΛΜΙΑΤΡΕΙΟ ΑΘΗΝΩΝ matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://ophthalmiatreio.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eye%20clinic%20of%20Athens&query_place_id=ChIJwan2IPO9oRQRinlGWc1f7JM",
+  "address": "ΕΠΙΚΟΙΝΩΝΙΑ Δ/νση: Ελ. Βενιζέλου 26 & Σίνα 2, 106 72, Αθήνα, Ελλάδα Τηλ: 213 20 52 701 Email: info@ophthalmiatreio.gr ΤΟ ΝΟΣΟΚΟΜΕΙΟ Νοσοκομείο Οργανόγραμμα Ιστορία Αποστολή – Μουσειακή Συλλογή Εγκαταστάσεις Εξοπλισμός Εκπαίδευση ΟΔΗΓΙΕΣ ΓΙΑ ΑΣΘΕΝΕΙΣ Κλείσε Ραντεβού Εισαγωγή στο Νοσοκομείο Χρήσιμες Συμβουλές Δικαιώματα – Υποχρεώσεις Copyright © Οφθαλμιατρείο Αθηνών All rights reserved. | Υλοποίηση έργου: Intraway",
+  "rating": 3.6,
+  "reviewsCount": 392,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "213 20 52 701",
+      "href": "tel:2132052701"
+    },
+    {
+      "label": "Email",
+      "value": "info@ophthalmiatreio.gr",
+      "href": "mailto:info@ophthalmiatreio.gr"
+    },
+    {
+      "label": "Address",
+      "value": "ΕΠΙΚΟΙΝΩΝΙΑ Δ/νση: Ελ. Βενιζέλου 26 & Σίνα 2, 106 72, Αθήνα, Ελλάδα Τηλ: 213 20 52 701 Email: info@ophthalmiatreio.gr ΤΟ ΝΟΣΟΚΟΜΕΙΟ Νοσοκομείο Οργανόγραμμα Ιστορία Αποστολή – Μουσειακή Συλλογή Εγκαταστάσεις Εξοπλισμός Εκπαίδευση ΟΔΗΓΙΕΣ ΓΙΑ ΑΣΘΕΝΕΙΣ Κλείσε Ραντεβού Εισαγωγή στο Νοσοκομείο Χρήσιμες Συμβουλές Δικαιώματα – Υποχρεώσεις Copyright © Οφθαλμιατρείο Αθηνών All rights reserved. | Υλοποίηση έργου: Intraway"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://ophthalmiatreio.gr/epikoinonia"
+    },
+    {
+      "label": "Booking page",
+      "value": "Open booking page",
+      "href": "https://ophthalmiatreio.gr/odigies-gia-astheneis/kleise-rantevoy"
+    }
+  ],
+  "services": [
+    "Χειρουργικές Πράξεις",
+    "Υαλοειδούς & Χειρουργική Αμφιβληστροειδούς",
+    "Διαθλαστική Χειρουργική",
+    "Χειρουργική Laser",
+    "ΔΙΑΘΛΑΣΤΙΚΗ ΧΕΙΡΟΥΡΓΙΚΗ"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "General hospital",
+    "3.6 rating",
+    "392 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Χειρουργικές Πράξεις",
+    "Υαλοειδούς & Χειρουργική Αμφιβληστροειδούς",
+    "Διαθλαστική Χειρουργική"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Eye%20clinic%20of%20Athens&query_place_id=ChIJwan2IPO9oRQRinlGWc1f7JM",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:30.439Z",
+      "excerpt": "Eye clinic of Athens"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://ophthalmiatreio.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:30.439Z",
+      "excerpt": "Οφθαλμιατρείο Αθηνών"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://ophthalmiatreio.gr/epikoinonia",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.439Z",
+      "excerpt": "Επικοινωνία - Οφθαλμιατρείο Αθηνών"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://ophthalmiatreio.gr/ypiresies",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.439Z",
+      "excerpt": "Υπηρεσίες - Οφθαλμιατρείο Αθηνών"
+    }
+  ]
+}

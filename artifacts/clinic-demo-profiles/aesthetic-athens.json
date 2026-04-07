@@ -1,0 +1,156 @@
+{
+  "slug": "aesthetic-athens",
+  "businessName": "Aesthetic Athens",
+  "category": "Plastic surgeon",
+  "template": {
+    "slug": "medspa",
+    "title": "Medspa",
+    "description": "Beauty and treatment template with soft luxury cues, consultation CTAs, and treatment storytelling.",
+    "audienceLabel": "Consultation-driven treatment brands with a premium positioning angle",
+    "bestFor": "Med spas, fertility, aesthetics, dermatology, and plastic surgery clinics",
+    "recommendedFor": [
+      "Premium treatment framing",
+      "Consultation CTA",
+      "Soft-luxury treatment story"
+    ],
+    "featured": true,
+    "accentColor": "#EC606A",
+    "sourceUrl": "https://medspa.virtualpros.com/",
+    "pageHref": "/industries/medspa/mirror",
+    "mirrorHref": "/industries/medspa/mirror",
+    "heroHeading": "LOCATION & CONTACT",
+    "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+    "heroPrimaryCta": "Contacts",
+    "sectionHighlights": [],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Services",
+      "FAQs",
+      "Contacts",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Oswald",
+      "Roboto",
+      "'Lato'"
+    ],
+    "paletteTheme": {
+      "primary": "#EC606A",
+      "secondary": "#E93D3D",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#E93D3D"
+    },
+    "templateSummary": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin."
+  },
+  "summary": "Aesthetic Athens Plastic surgeon in Αμπελόκηποι with services such as Laser, Επανορθωτική Χειρουργική, Αποτρίχωση με Laser",
+  "heroHeading": "Aesthetic Athens matched to the Medspa core demo",
+  "heroSubheading": "Experience luxurious, science-backed skincare and wellness services. From rejuvenating facials to body sculpting, our expert team helps you achieve radiant, youthful skin.",
+  "websiteUrl": "https://www.aestheticathens-zarnavellis.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aesthetic%20Athens&query_place_id=ChIJo5S-s1iZoRQRe_G4iljIaQc",
+  "address": "2106994712 Λεωφόρος Κηφισίας 95, Αθήνα - Αμπελόκηποι Δευτ. - Παρ. : 9 πμ. - 9 μμ..",
+  "rating": 4.6,
+  "reviewsCount": 54,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "2106994712",
+      "href": "tel:2106994712"
+    },
+    {
+      "label": "Email",
+      "value": "info@aestheticathens-zarnavellis.gr",
+      "href": "mailto:info@aestheticathens-zarnavellis.gr"
+    },
+    {
+      "label": "Address",
+      "value": "2106994712 Λεωφόρος Κηφισίας 95, Αθήνα - Αμπελόκηποι Δευτ. - Παρ. : 9 πμ. - 9 μμ.."
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.aestheticathens-zarnavellis.gr/en/contact"
+    }
+  ],
+  "services": [
+    "Laser",
+    "Επανορθωτική Χειρουργική",
+    "Αποτρίχωση με Laser",
+    "Επανορθωτικη Χειρουργικη",
+    "Χειρουργικη Ακρας Χειρος"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Plastic surgeon",
+    "4.6 rating",
+    "54 reviews",
+    "snapshot ready",
+    "Medspa"
+  ],
+  "overlayServices": [
+    "Laser",
+    "Επανορθωτική Χειρουργική",
+    "Αποτρίχωση με Laser"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Aesthetic%20Athens&query_place_id=ChIJo5S-s1iZoRQRe_G4iljIaQc",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.413Z",
+      "excerpt": "Aesthetic Athens"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.aestheticathens-zarnavellis.gr/el",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.413Z",
+      "excerpt": "Aesthetic Athens, Ζαρναβέλης Ιωαννης Πλαστικός Χειρουργός, Πλαστικός χειρουργός Αθήνα , Πλαστικός χειρουργός Αμπελόκηποι"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.aestheticathens-zarnavellis.gr/en/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.413Z",
+      "excerpt": "Aesthetic Athens, Zarnavelis Ioannis Plastic Surgeon, Plastic surgeon Athens, Plastic surgeon Ampelokipi, Contact"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.aestheticathens-zarnavellis.gr/en/services/aesthetic-surgery",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.413Z",
+      "excerpt": "Aesthetic Athens, Zarnavelis Ioannis Plastic Surgeon, aesthetic operations, aesthetic operations Athens, aesthetic operations vineyards, Aesthetic Surgery"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "slug": "dr",
+  "businessName": "Επεμβατικός καρδιολόγος - Αρρυθμιολόγος",
+  "category": "Cardiologist",
+  "template": {
+    "slug": "cardealership",
+    "title": "Car Dealership",
+    "description": "Dark dealership landing page built around inventory trust, pricing, and premium vehicle presentation.",
+    "audienceLabel": "Inventory-heavy offers that need premium visual framing",
+    "bestFor": "Dealers, brokers, and other catalogue-led businesses",
+    "recommendedFor": [
+      "Inventory trust",
+      "Premium visuals",
+      "Finance-ready CTAs"
+    ],
+    "featured": false,
+    "accentColor": "#060644",
+    "sourceUrl": "https://cardealership.virtualpros.com/",
+    "pageHref": "/industries/cardealership/mirror",
+    "mirrorHref": "/industries/cardealership/mirror",
+    "heroHeading": "Premium quality, vetted vehicles, half the price.",
+    "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Inventory",
+      "New Cars",
+      "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+      "Used Cars",
+      "Recent News",
+      "Our Commitment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "'Lato'",
+      "Exo",
+      "Exo 2"
+    ],
+    "paletteTheme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    },
+    "templateSummary": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry."
+  },
+  "summary": "Επεμβατικός καρδιολόγος - Αρρυθμιολόγος Cardiologist in Athina with services such as Θεραπευτικές λύσεις, Επεμβατικές θεραπείες, Εξειδικευμένες - Επεμβατικές θεραπείες",
+  "heroHeading": "Επεμβατικός καρδιολόγος - Αρρυθμιολόγος matched to the Car Dealership core demo",
+  "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+  "websiteUrl": "https://theheartcenter.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dr%20%CE%A0%CE%91%CE%A0%CE%91%CE%98%CE%91%CE%9D%CE%91%CE%A3%CE%99%CE%9F%CE%A5%20%CE%A3%CE%A9%CE%A4.%20%CE%95%CE%B9%CE%B4%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%AD%CE%BD%CF%84%CF%81%CE%BF%20%CE%91%CF%81%CF%81%CF%85%CE%B8%CE%BC%CE%B9%CF%8E%CE%BD%20%CE%9C%CF%85%CE%BF%CE%BA%CE%B1%CF%81%CE%B4%CE%B9%CE%BF%CF%80%CE%B1%CE%B8%CE%B5%CE%B9%CF%8E%CE%BD%20%CE%A3%CF%8D%CE%BD%CE%B8%CE%B5%CF%84%CF%89%CE%BD%20%CF%80%CE%B1%CE%B8%CE%AE%CF%83%CE%B5%CF%89%CE%BD%20%CE%9A%CE%B1%CF%81%CE%B4%CE%B9%CE%BF%CE%BB%CF%8C%CE%B3%CE%BF%CF%82%20%CE%95%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%84%CE%B9%CE%BA%CF%8C%CF%82%20%CE%91%CF%81%CF%81%CF%85%CE%B8%CE%BC%CE%B9%CE%BF%CE%BB%CF%8C%CE%B3%CE%BF%CF%82%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1&query_place_id=ChIJJ7-AZUW9oRQR474Xodxp87Y",
+  "address": "Vasilissis Sofias 92, Athina 115 28, Greece",
+  "rating": 4.9,
+  "reviewsCount": 71,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 725 8090",
+      "href": "tel:2107258090"
+    },
+    {
+      "label": "Email",
+      "value": "cardiologymail@yahoo.gr",
+      "href": "mailto:cardiologymail@yahoo.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Vasilissis Sofias 92, Athina 115 28, Greece"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://theheartcenter.gr/epikinonia-kardiologos"
+    }
+  ],
+  "services": [
+    "Θεραπευτικές λύσεις",
+    "Επεμβατικές θεραπείες",
+    "Εξειδικευμένες - Επεμβατικές θεραπείες"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Cardiologist",
+    "4.9 rating",
+    "71 reviews",
+    "snapshot ready",
+    "Car Dealership"
+  ],
+  "overlayServices": [
+    "Θεραπευτικές λύσεις",
+    "Επεμβατικές θεραπείες",
+    "Εξειδικευμένες - Επεμβατικές θεραπείες"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Dr%20%CE%A0%CE%91%CE%A0%CE%91%CE%98%CE%91%CE%9D%CE%91%CE%A3%CE%99%CE%9F%CE%A5%20%CE%A3%CE%A9%CE%A4.%20%CE%95%CE%B9%CE%B4%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%AD%CE%BD%CF%84%CF%81%CE%BF%20%CE%91%CF%81%CF%81%CF%85%CE%B8%CE%BC%CE%B9%CF%8E%CE%BD%20%CE%9C%CF%85%CE%BF%CE%BA%CE%B1%CF%81%CE%B4%CE%B9%CE%BF%CF%80%CE%B1%CE%B8%CE%B5%CE%B9%CF%8E%CE%BD%20%CE%A3%CF%8D%CE%BD%CE%B8%CE%B5%CF%84%CF%89%CE%BD%20%CF%80%CE%B1%CE%B8%CE%AE%CF%83%CE%B5%CF%89%CE%BD%20%CE%9A%CE%B1%CF%81%CE%B4%CE%B9%CE%BF%CE%BB%CF%8C%CE%B3%CE%BF%CF%82%20%CE%95%CF%80%CE%B5%CE%BC%CE%B2%CE%B1%CF%84%CE%B9%CE%BA%CF%8C%CF%82%20%CE%91%CF%81%CF%81%CF%85%CE%B8%CE%BC%CE%B9%CE%BF%CE%BB%CF%8C%CE%B3%CE%BF%CF%82%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1&query_place_id=ChIJJ7-AZUW9oRQR474Xodxp87Y",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.239Z",
+      "excerpt": "Dr ΠΑΠΑΘΑΝΑΣΙΟΥ ΣΩΤ. Ειδικό Κέντρο Αρρυθμιών Μυοκαρδιοπαθειών Σύνθετων παθήσεων Καρδιολόγος Επεμβατικός Αρρυθμιολόγος Αθήνα"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://theheartcenter.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.239Z",
+      "excerpt": "Επεμβατικός καρδιολόγος - Αρρυθμιολόγος | Παπαθανασίου | Αθήνα"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://theheartcenter.gr/epikinonia-kardiologos",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.239Z",
+      "excerpt": "Παπαθανασίου Σωτήριος M.D, PhD | Καρδιολόγος | Αθήνα Κέντρο"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://theheartcenter.gr/services",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.239Z",
+      "excerpt": "Προηγμένες Καρδιολογικές Υπηρεσίες: Πρόληψη, Διάγνωση & Θεραπεία"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "athens-vision-s-a",
+  "businessName": "Athens Vision",
+  "category": "Ophthalmology clinic",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Athens Vision Ophthalmology clinic in Μαρούσι with services such as Διαθλαστική Χειρουργική (Laser), Χειρουργική Αμφιβληστροειδούς, Χειρουργεία Καταρράκτη",
+  "heroHeading": "Athens Vision matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.athensvision.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Athens%20Vision%20S.A.&query_place_id=ChIJNw-wvkW8oRQRHd8_l4a4N3s",
+  "address": "Νέα και συμβουλές οφθαλμικής υγείας εγγραφείτε στο newsletter (function() { window.mc4wp = window.mc4wp || { listeners: [], forms: { on: function(evt, cb) { window.mc4wp.listeners.push( { event : evt, callback: cb } ); } } } })(); Leave this field empty if you're human: Athens Vision Συγγρού Λεωφ. Συγγρού 328-330, Τ.Κ. 176 73, Καλλιθέα Athens Vision Πειραιάς Σκουζέ 26 & Ηρ. Πολυτεχνείου, Τ.Κ: 18536, Πειραιάς(500 μέτρα από το metro του Πειραιά, στάση Δημοτικό Θέατρο) Athens Vision Μαρούσι Λ. Κηφισίας 76 & Πάρνωνος, Τ.Κ. 151 25, Μαρούσι Η ΕταιρείαΓιατί Εμάς Αποστολή Επιστημονικό Συμβούλιο Εγκαταστάσεις Υποτροφία Κοινωνική Ευθύνη GDPR Πιστοποιήσεις ΤμήματαLaser Kαταρράκτης Γλαύκωμα Θεραπείες προσώπου Οφθαλμοπλαστική Χειρουργική Κερατοειδής – Μεταμοσχεύσεις Αμφιβληστροειδής Στραβισμός Οφθαλμική Γενετική ΙατροίΓιώργος Χαρώνης, MD, Ph.D Γεράσιμος Κοψίνης, MD, Ph.D Αναστάσιος Χαρώνης, MD, Ph.D Αλέξανδρος Χαρώνης, MD Αλέξανδρος Μαναίος, MD Θεόδωρος Φιλιππόπουλος, MD Γεωργία Κωστή, MD Μαρία Ζώζολου, MD, PhD, FEBO  Δείτε το χάρτη AthensVision Συγγρού AthensVision Μαρούσι AthensVision Πειραιά  210 95 95 215  info@athensvision.gr  Κλείστε ραντεβού Ακολουθήστε μας .wz-custom-social-follow .wz-social-heading { font-size: 1.5em; color: #0056b3; margin-bottom: 20px; } .wz-custom-social-icons { list-style: none !important; padding: 0; display: flex; justify-content: center; gap: 20px; } .wz-custom-social-icons .wz-social-icon .et-pb-icon { display: flex !important; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 50%; background-color: #ddd; color: white; font-size: 20px !important; transition: all 0.3s ease; } .wz-custom-social-icons .wz-facebook .et-pb-icon { background-color: #3b5998; } .wz-custom-social-icons .wz-twitter .et-pb-icon { background-color: #000; /* Updated for X */ } .wz-custom-social-icons .wz-youtube .et-pb-icon { background-color: #ff0000; } .wz-custom-social-icons .wz-instagram .et-pb-icon { background-color: #e4405f; } .wz-custom-social-icons .wz-linkedin .et-pb-icon { background-color: #0077b5; } .wz-custom-social-icons .wz-social-icon a:hover .et-pb-icon { transform: scale(1.2); box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); }      Copyright © 2024 Athens Vision. All Rights Reserved. Designed & Developed by Wizy",
+  "rating": 4.4,
+  "reviewsCount": 280,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "210 95 95 215",
+      "href": "tel:2109595215"
+    },
+    {
+      "label": "Email",
+      "value": "info@athensvision.gr",
+      "href": "mailto:info@athensvision.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Νέα και συμβουλές οφθαλμικής υγείας εγγραφείτε στο newsletter (function() { window.mc4wp = window.mc4wp || { listeners: [], forms: { on: function(evt, cb) { window.mc4wp.listeners.push( { event : evt, callback: cb } ); } } } })(); Leave this field empty if you're human: Athens Vision Συγγρού Λεωφ. Συγγρού 328-330, Τ.Κ. 176 73, Καλλιθέα Athens Vision Πειραιάς Σκουζέ 26 & Ηρ. Πολυτεχνείου, Τ.Κ: 18536, Πειραιάς(500 μέτρα από το metro του Πειραιά, στάση Δημοτικό Θέατρο) Athens Vision Μαρούσι Λ. Κηφισίας 76 & Πάρνωνος, Τ.Κ. 151 25, Μαρούσι Η ΕταιρείαΓιατί Εμάς Αποστολή Επιστημονικό Συμβούλιο Εγκαταστάσεις Υποτροφία Κοινωνική Ευθύνη GDPR Πιστοποιήσεις ΤμήματαLaser Kαταρράκτης Γλαύκωμα Θεραπείες προσώπου Οφθαλμοπλαστική Χειρουργική Κερατοειδής – Μεταμοσχεύσεις Αμφιβληστροειδής Στραβισμός Οφθαλμική Γενετική ΙατροίΓιώργος Χαρώνης, MD, Ph.D Γεράσιμος Κοψίνης, MD, Ph.D Αναστάσιος Χαρώνης, MD, Ph.D Αλέξανδρος Χαρώνης, MD Αλέξανδρος Μαναίος, MD Θεόδωρος Φιλιππόπουλος, MD Γεωργία Κωστή, MD Μαρία Ζώζολου, MD, PhD, FEBO  Δείτε το χάρτη AthensVision Συγγρού AthensVision Μαρούσι AthensVision Πειραιά  210 95 95 215  info@athensvision.gr  Κλείστε ραντεβού Ακολουθήστε μας .wz-custom-social-follow .wz-social-heading { font-size: 1.5em; color: #0056b3; margin-bottom: 20px; } .wz-custom-social-icons { list-style: none !important; padding: 0; display: flex; justify-content: center; gap: 20px; } .wz-custom-social-icons .wz-social-icon .et-pb-icon { display: flex !important; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 50%; background-color: #ddd; color: white; font-size: 20px !important; transition: all 0.3s ease; } .wz-custom-social-icons .wz-facebook .et-pb-icon { background-color: #3b5998; } .wz-custom-social-icons .wz-twitter .et-pb-icon { background-color: #000; /* Updated for X */ } .wz-custom-social-icons .wz-youtube .et-pb-icon { background-color: #ff0000; } .wz-custom-social-icons .wz-instagram .et-pb-icon { background-color: #e4405f; } .wz-custom-social-icons .wz-linkedin .et-pb-icon { background-color: #0077b5; } .wz-custom-social-icons .wz-social-icon a:hover .et-pb-icon { transform: scale(1.2); box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); }      Copyright © 2024 Athens Vision. All Rights Reserved. Designed & Developed by Wizy"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.athensvision.gr/contact"
+    },
+    {
+      "label": "Booking page",
+      "value": "Open booking page",
+      "href": "https://www.athensvision.gr/company"
+    }
+  ],
+  "services": [
+    "Διαθλαστική Χειρουργική (Laser)",
+    "Χειρουργική Αμφιβληστροειδούς",
+    "Χειρουργεία Καταρράκτη",
+    "Χειρουργεία Γλαυκώματος (MIGS)",
+    "Κορυφαίοι Χειρουργοί Οφθαλμίατροι",
+    "Επέμβαση ματιών με laser",
+    "Οφθαλμοπλαστική Χειρουργική",
+    "Αισθητική Χειρουργική"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Ophthalmology clinic",
+    "4.4 rating",
+    "280 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Διαθλαστική Χειρουργική (Laser)",
+    "Χειρουργική Αμφιβληστροειδούς",
+    "Χειρουργεία Καταρράκτη"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Athens%20Vision%20S.A.&query_place_id=ChIJNw-wvkW8oRQRHd8_l4a4N3s",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:30.911Z",
+      "excerpt": "Athens Vision S.A."
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athensvision.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:30.911Z",
+      "excerpt": "Οφθαλμολογικό Κέντρο Athens Vision"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.athensvision.gr/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.911Z",
+      "excerpt": "Επικοινωνία με Athens Vision - Athens Vision"
+    }
+  ]
+}

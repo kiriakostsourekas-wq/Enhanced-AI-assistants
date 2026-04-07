@@ -1,0 +1,157 @@
+{
+  "slug": "pammakaristos-hospital-of-divine-providence",
+  "businessName": "Νέα - Ανακοινώσεις",
+  "category": "Hospital",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Νέα - Ανακοινώσεις Hospital with services such as Λίστα Χειρουργείου",
+  "heroHeading": "Νέα - Ανακοινώσεις matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.pammakaristos-hosp.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pammakaristos%20Hospital%20of%20Divine%20Providence&query_place_id=ChIJW4a6u-mioRQR8eCnbh3KHhI",
+  "address": "Ιακωβάτων 43, Τ.Κ. 11144, Αθήνα",
+  "rating": 3.8,
+  "reviewsCount": 392,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "213 2042100",
+      "href": "tel:2132042100"
+    },
+    {
+      "label": "Email",
+      "value": "info@pammakaristos-hosp.gr",
+      "href": "mailto:info@pammakaristos-hosp.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Ιακωβάτων 43, Τ.Κ. 11144, Αθήνα"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.pammakaristos-hosp.gr/epikoinwnia"
+    }
+  ],
+  "services": [
+    "Λίστα Χειρουργείου"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Neighborhood / Athens area: No neighborhood or clear Athens area signal could be detected confidently.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Hospital",
+    "3.8 rating",
+    "392 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Λίστα Χειρουργείου"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Pammakaristos%20Hospital%20of%20Divine%20Providence&query_place_id=ChIJW4a6u-mioRQR8eCnbh3KHhI",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:30.410Z",
+      "excerpt": "Pammakaristos Hospital of Divine Providence"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.pammakaristos-hosp.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:30.410Z",
+      "excerpt": "Παμμακάριστος"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.pammakaristos-hosp.gr/epikoinwnia",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.410Z",
+      "excerpt": "Επικοινωνία | Παμμακάριστος"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.pammakaristos-hosp.gr/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%cf%83%ce%b7-%ce%b1%cf%81%ce%b8%cf%81%ce%bf%cf%85-%cf%83%cf%84%ce%bf-discover-health-systems-%ce%b1%cf%80%ce%bf-%cf%84%ce%b7%ce%bd-%ce%ba%ce%bf",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.410Z",
+      "excerpt": "ΔΗΜΟΣΙΕΥΣΗ ΑΡΘΡΟΥ ΣΤΟ “Discover Health Systems” ΑΠΟ ΤΗΝ ΚΟΙΝΩΝΙΚΗ ΥΠΗΡΕΣΙΑ ΤΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ΜΑΣ | Παμμακάριστος"
+    }
+  ]
+}

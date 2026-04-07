@@ -1,0 +1,178 @@
+{
+  "slug": "retina-eye-clinic",
+  "businessName": "Γεώργιος Τριχώνας MD, ABO Χειρουργός Οφθαλμίατρος",
+  "category": "Ophthalmologist",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Γεώργιος Τριχώνας MD, ABO Χειρουργός Οφθαλμίατρος Ophthalmologist in Αμπελόκηποι with services such as Γεώργιος Τριχώνας MD, ABO Χειρουργός Οφθαλμίατρος, ARGON LASER ΦΩΤΟΠΗΞΙΑ, Χειρουργείο Καταρράκτη",
+  "heroHeading": "Γεώργιος Τριχώνας MD, ABO Χειρουργός Οφθαλμίατρος matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://retinaeyeclinic.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Retina%20Eye%20Clinic%2C%20%CE%A4%CF%81%CE%B9%CF%87%CF%8E%CE%BD%CE%B1%CF%82%20%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82%2C%20%CE%A7%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CF%8C%CF%82%20%CE%9F%CF%86%CE%B8%CE%B1%CE%BB%CE%BC%CE%AF%CE%B1%CF%84%CF%81%CE%BF%CF%82%2C%20%CE%91%CE%BC%CF%80%CE%B5%CE%BB%CF%8C%CE%BA%CE%B7%CF%80%CE%BF%CE%B9%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1&query_place_id=ChIJR3t54t-joRQRLIPOhUfzYUU",
+  "address": "1ος Όροφος, Theofanous 12, Athina 115 23, Greece",
+  "rating": 5,
+  "reviewsCount": 39,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "2111186471",
+      "href": "tel:2111186471"
+    },
+    {
+      "label": "Email",
+      "value": "contact@retinaeyeclinic.gr",
+      "href": "mailto:contact@retinaeyeclinic.gr"
+    },
+    {
+      "label": "Address",
+      "value": "1ος Όροφος, Theofanous 12, Athina 115 23, Greece"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://retinaeyeclinic.gr/en/contact"
+    }
+  ],
+  "services": [
+    "Γεώργιος Τριχώνας MD, ABO Χειρουργός Οφθαλμίατρος",
+    "ARGON LASER ΦΩΤΟΠΗΞΙΑ",
+    "Χειρουργείο Καταρράκτη",
+    "Nd: YAG laser",
+    "Internship (πρώτος χρόνος ειδικότητας) - Γενική χειρουργική",
+    "Cleveland Clinic Foundation - Cole Eye Institute",
+    "Υποεξειδίκευση στη χειρουργική υαλοειδούς αμφιβληστροειδούς (Vitreo-retinal fellowship)",
+    "Κλινικός Λέκτορας οφθαλμολογίας, χειρουργική του υαλοειδούς και αμφιβληστροειδούς"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Τριχώνας 2111186471 contact@retinaeyeclinic.gr Θεοφάνους 12, Αμπελόκηποι, Αθήνα Χειρουργός Οφθαλμίατρος – Δρ.",
+    "Διδάσκει παθολογία και χειρουργική υαλοειδούς αμφιβληστροειδούς σε ειδικευομένους και διευθύνει το αντίστοιχο τμήμα.Ο Δρ.",
+    "Τριχώνας είναι μέλος: : Διπλωματούχος Αμερικάνικου Συμβουλίου Οφθαλμολογίας ( American Board of Ophthalmology, 2015)της Αμερικανικής Εταιρείας Αμφιβληστροειδούς (ASRS)​του Αμερικανικού Ιατρικού Συλλόγου (ΑΜΑ) Λένε για το",
+    "Δρ. Τριχώνας",
+    "Βιογραφικό - Δρ. Τριχώνας",
+    "Πτυχίο Ιατρικής",
+    "Harvard Medical School",
+    "University of Pittsburgh- UPMC"
+  ],
+  "people": [
+    "Δρ. Τριχώνας",
+    "Βιογραφικό - Δρ. Τριχώνας",
+    "Πτυχίο Ιατρικής",
+    "Harvard Medical School",
+    "University of Pittsburgh- UPMC",
+    "Case Western Reserve University"
+  ],
+  "unresolvedItems": [
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Ophthalmologist",
+    "5.0 rating",
+    "39 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Γεώργιος Τριχώνας MD, ABO Χειρουργός Οφθαλμίατρος",
+    "ARGON LASER ΦΩΤΟΠΗΞΙΑ",
+    "Χειρουργείο Καταρράκτη"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Retina%20Eye%20Clinic%2C%20%CE%A4%CF%81%CE%B9%CF%87%CF%8E%CE%BD%CE%B1%CF%82%20%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82%2C%20%CE%A7%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CF%81%CE%B3%CF%8C%CF%82%20%CE%9F%CF%86%CE%B8%CE%B1%CE%BB%CE%BC%CE%AF%CE%B1%CF%84%CF%81%CE%BF%CF%82%2C%20%CE%91%CE%BC%CF%80%CE%B5%CE%BB%CF%8C%CE%BA%CE%B7%CF%80%CE%BF%CE%B9%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1&query_place_id=ChIJR3t54t-joRQRLIPOhUfzYUU",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T16:51:57.080Z",
+      "excerpt": "Retina Eye Clinic, Τριχώνας Γιώργος, Χειρουργός Οφθαλμίατρος, Αμπελόκηποι Αθήνα"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://retinaeyeclinic.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T16:51:57.080Z",
+      "excerpt": "Χειρουργός Οφθαλμίατρος Αθήνα - Αμπελόκηποι | Δρ. Τριχώνας"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://retinaeyeclinic.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c/%cf%83%cf%80%ce%bf%cf%85%ce%b4%ce%ad%cf%82-%cf%84%ce%af%cf%84%ce%bb%ce%bf%ce%b9",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T16:51:57.080Z",
+      "excerpt": "Βιογραφικό - Δρ. Τριχώνας"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://retinaeyeclinic.gr/en/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T16:51:57.080Z",
+      "excerpt": "Contact - Δρ. Τριχώνας"
+    }
+  ]
+}

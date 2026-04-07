@@ -1,0 +1,169 @@
+{
+  "slug": "athens-eyecare-clinic",
+  "businessName": "Οφθαλμολογικό Κέντρο",
+  "category": "Medical Center",
+  "template": {
+    "slug": "cardealership",
+    "title": "Car Dealership",
+    "description": "Dark dealership landing page built around inventory trust, pricing, and premium vehicle presentation.",
+    "audienceLabel": "Inventory-heavy offers that need premium visual framing",
+    "bestFor": "Dealers, brokers, and other catalogue-led businesses",
+    "recommendedFor": [
+      "Inventory trust",
+      "Premium visuals",
+      "Finance-ready CTAs"
+    ],
+    "featured": false,
+    "accentColor": "#060644",
+    "sourceUrl": "https://cardealership.virtualpros.com/",
+    "pageHref": "/industries/cardealership/mirror",
+    "mirrorHref": "/industries/cardealership/mirror",
+    "heroHeading": "Premium quality, vetted vehicles, half the price.",
+    "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Inventory",
+      "New Cars",
+      "Each new vehicle offers cutting-edge technology and unmatched comfort.",
+      "Used Cars",
+      "Recent News",
+      "Our Commitment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "navLabels": [
+      "Home",
+      "About",
+      "Inventory",
+      "New Cars",
+      "Used Cars",
+      "Financing"
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "'Lato'",
+      "Exo",
+      "Exo 2"
+    ],
+    "paletteTheme": {
+      "primary": "#060644",
+      "secondary": "#9AE6B4",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#9AE6B4"
+    },
+    "templateSummary": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry."
+  },
+  "summary": "Οφθαλμολογικό Κέντρο Medical Center in Athens with services such as Glaucoma Treatment and Surgery, Laser Refractive Surgery, Dry Eye Treatment with use of IPL.",
+  "heroHeading": "Οφθαλμολογικό Κέντρο matched to the Car Dealership core demo",
+  "heroSubheading": "We are proud to announce that ABC Car Dealership has been honored with the prestigious \"Luxury Leader of the Year\" award for 2024. This esteemed accolade is presented annually by the Luxury Automotive Association to recognize outstanding achievements in the luxury automotive industry.",
+  "websiteUrl": "https://athenseyecare.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Athens%20EyeCare%20Clinic&query_place_id=ChIJ2_CaJme9oRQRCTuQD8gJe88",
+  "address": "Βασιλίσσης Σοφίας 110, 6ος όροφος, Athina 115 27, Greece",
+  "rating": 4.9,
+  "reviewsCount": 123,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+30) 2107778515",
+      "href": "tel:+302107778515"
+    },
+    {
+      "label": "Email",
+      "value": "info@athenseyecare.gr",
+      "href": "mailto:info@athenseyecare.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Βασιλίσσης Σοφίας 110, 6ος όροφος, Athina 115 27, Greece"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://athenseyecare.gr/en/contact"
+    },
+    {
+      "label": "Booking page",
+      "value": "Open booking page",
+      "href": "https://athenseyecare.gr/epikoinonia"
+    }
+  ],
+  "services": [
+    "Glaucoma Treatment and Surgery",
+    "Laser Refractive Surgery",
+    "Dry Eye Treatment with use of IPL.",
+    "Treatment of dry age-related macular degeneration with Valeda from Lumithera",
+    "YAG laser Capsulotomy",
+    "Glaucoma Surgery and Treatment",
+    "Femto Laser LASIK",
+    "Treatments with Hyaluronic acid"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "FAQs: No FAQ content was extracted reliably.",
+    "Trust markers: No explicit trust markers such as awards, memberships, or certifications were verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Medical Center",
+    "4.9 rating",
+    "123 reviews",
+    "snapshot ready",
+    "Car Dealership"
+  ],
+  "overlayServices": [
+    "Glaucoma Treatment and Surgery",
+    "Laser Refractive Surgery",
+    "Dry Eye Treatment with use of IPL."
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Athens%20EyeCare%20Clinic&query_place_id=ChIJ2_CaJme9oRQRCTuQD8gJe88",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:31.769Z",
+      "excerpt": "Athens EyeCare Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://athenseyecare.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:31.769Z",
+      "excerpt": "Οφθαλμολογικό Κέντρο - Athens EyeCare Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://athenseyecare.gr/en/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.769Z",
+      "excerpt": "Contact - Athens EyeCare Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://athenseyecare.gr/en/medical-services",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:31.769Z",
+      "excerpt": "Medical services - Athens EyeCare Clinic"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "dr-zagkos-plastic-surgery",
+  "businessName": "Zagkos",
+  "category": "Plastic surgeon",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Zagkos Plastic surgeon with services such as Μη χειρουργικές θεραπείες, Μεσοθεραπεία προσώπου, Μεσοθεραπεία Σώματος",
+  "heroHeading": "Zagkos matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.zclinic.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dr.%20Zagkos%20Plastic%20Surgery&query_place_id=ChIJn0SLoDGQ560RFF5cuv-63gI",
+  "address": "Αρχική Σχετικά με εμάς Επικοινωνία GDPR Μη χειρουργικές Θεραπείες Πλαστική Χειρουργική Laser Μεταμόσχευση Μαλλιών Δημ. Σούτσου 9, 11521 Αθήνα 6980362590 info@zclinic.gr Viber Whatsapp Ακολουθήστε μας Powered by Mene & Jo Creative Digital Marketing Agency",
+  "rating": 4.9,
+  "reviewsCount": 343,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "6980362590",
+      "href": "tel:6980362590"
+    },
+    {
+      "label": "Email",
+      "value": "info@zclinic.gr",
+      "href": "mailto:info@zclinic.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Αρχική Σχετικά με εμάς Επικοινωνία GDPR Μη χειρουργικές Θεραπείες Πλαστική Χειρουργική Laser Μεταμόσχευση Μαλλιών Δημ. Σούτσου 9, 11521 Αθήνα 6980362590 info@zclinic.gr Viber Whatsapp Ακολουθήστε μας Powered by Mene & Jo Creative Digital Marketing Agency"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.zclinic.gr/contact"
+    }
+  ],
+  "services": [
+    "Μη χειρουργικές θεραπείες",
+    "Μεσοθεραπεία προσώπου",
+    "Μεσοθεραπεία Σώματος",
+    "Θεραπεία νευροτοξίνης",
+    "Αυτόλογη μεσοθεραπεία μαλλιών",
+    "Αυτόλογη μεσοθεραπεία προσώπου",
+    "Πλαστική χειρουργική",
+    "Laser"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Ζάγκος Ο Ιωάννης Ζάγκος ως Πλαστικός, Αισθητικός και Επανορθωτικός Χειρουργός έχει πραγματοποιήσει την πρακτική του εκπαίδευση σε διάφορα νοσοκομεία της Ελλάδας, ανάμεσα τους το Γενικό Νοσοκομείο Ιωαννίνων και το Γενικό",
+    "Έχει παρακολουθήσει και συμμετάσχει με εργασίες σε πλήθος συνεδρίων με θέματα πλαστικής, επανορθωτικής και αισθητικής χειρουργικής.",
+    "Περισσότερα Λιγότερα Εξειδικευμένοι χώροι Η πολύχρονη εμπειρία του προσωπικού και των συνεργατών μας είναι άρρηκτα συνδεδεμένη με την εξειδίκευση της κλινικής μας σε επεμβάσεις πλαστικής χειρουργικής, όπως η λιποαναρρόφη",
+    "Αρχική Σχετικά με εμάς Επικοινωνία GDPR Μη χειρουργικές Θεραπείες Πλαστική Χειρουργική Laser Μεταμόσχευση Μαλλιών Δημ.",
+    "Παράλληλα έχει λάβει όλες τις πιστοποιήσεις για τη χρήση νημάτων, διαχείριση και τεχνικών εκχύσεων υαλουρονικού οξέος και αντίστοιχων υλικών.",
+    "Παράλληλα έχει λάβει όλες τις πιστοποιήσεις για τη χρήση νημάτων, διαχείριση και τεχνικών εκχύσεων υαλουρονικού οξέος και αντίστοιχων υλικών.Τα τελευταία χρόνια ο Ιωάννης Ζάγκος, έχοντας συνεργαστεί με μεγάλα κέντρα, έχε",
+    "Δρ. Ζάγκος",
+    "Φωτεινή Λεγάκη"
+  ],
+  "people": [
+    "Δρ. Ζάγκος",
+    "Φωτεινή Λεγάκη",
+    "Kostas Mpompogias",
+    "Konstantina Fertidi",
+    "Ελένη Μαραγκουδάκη",
+    "Grayson Dolan"
+  ],
+  "unresolvedItems": [
+    "Neighborhood / Athens area: No neighborhood or clear Athens area signal could be detected confidently.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Plastic surgeon",
+    "4.9 rating",
+    "343 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Μη χειρουργικές θεραπείες",
+    "Μεσοθεραπεία προσώπου",
+    "Μεσοθεραπεία Σώματος"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Dr.%20Zagkos%20Plastic%20Surgery&query_place_id=ChIJn0SLoDGQ560RFF5cuv-63gI",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:30.671Z",
+      "excerpt": "Dr. Zagkos Plastic Surgery"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.zclinic.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:30.671Z",
+      "excerpt": "Zagkos | Plastic Surgery Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.zclinic.gr/about",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.671Z",
+      "excerpt": "Σχετικά με εμάς - Zclinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.zclinic.gr/contact",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.671Z",
+      "excerpt": "Επικοινωνία - Zclinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.zclinic.gr/treatment/dermatologia",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:30.671Z",
+      "excerpt": "Dermatology Archives - Zclinic"
+    }
+  ]
+}

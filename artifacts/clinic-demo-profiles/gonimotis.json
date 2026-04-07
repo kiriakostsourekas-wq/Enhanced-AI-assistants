@@ -1,0 +1,183 @@
+{
+  "slug": "gonimotis",
+  "businessName": "Καλώς ορίσατε στο gonimotis. gr",
+  "category": "Reproductive health clinic",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Καλώς ορίσατε στο gonimotis. gr Reproductive health clinic in Κολωνάκι with services such as Εναλλακτικές θεραπείες, Θεραπείες Υπογονιμότητας, Προετοιμασία για τη θεραπεία",
+  "heroHeading": "Καλώς ορίσατε στο gonimotis. gr matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.gonimotis.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=GONIMOTIS%20%CE%9C%CE%B1%CE%B9%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CF%8C%20%CE%93%CF%85%CE%BD%CE%B1%CE%B9%CE%BA%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%AD%CE%BD%CF%84%CF%81%CE%BF&query_place_id=ChIJJZJK6Fi9oRQR38mdT2qYia8",
+  "address": "Δρ. Γεώργιος Ιωαννίδης Μαιευτηρας – Χειρουργος Γυναικολογος Διευθυντής Γυναικολογικού Κέντρου Αναπαραγωγής GONIMOTIS Επιστημονικός Υπεύθυνος Μονάδας Υποβοηθούμενης Αναπαραγωγής ΜΗΤΕΡΑ IVF Μέλος του Επιστημονικού Συμβουλίου του Νοσοκομείου ΜΗΤΕΡΑ Δρ. Αλεξάνδρα Γεωργακοπούλου Μαιευτηρας – Χειρουργός Γυναικολογος Διευθύντρια Τμήματος Υπερήχων Γυναικολογικού Κέντρου GONIMOTIS Επιστημονική Συνεργάτης Τμήματος Ιατρικής Εμβρύου Νοσοκομείου ΜΗΤΕΡΑ ΕΠΙΚΟΙΝΩΝΙΑ Διεύθυνση: Μονής Πετράκη 5, Κολωνάκι, Αθήνα Tηλέφωνο: +30 210 7222442-443 Fax: +30 210 7222615 Email: info@gonimotis.gr ΕΓΓΡΑΦΗ ΣΤΟ NEWSLETTER ΠληροφορίεςΓνωρίστε την Ομάδα Αρθρογραφία Η παρουσία μας στα media Συχνές Ερωτήσεις Επικοινωνία Όροι χρήσης ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Copyright © 2019 GONIMOTIS | All Rights Reserved Web Design & Development by Generation",
+  "rating": 4.9,
+  "reviewsCount": 29,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "5655568053",
+      "href": "tel:5655568053"
+    },
+    {
+      "label": "Email",
+      "value": "info@gonimotis.gr",
+      "href": "mailto:info@gonimotis.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Δρ. Γεώργιος Ιωαννίδης Μαιευτηρας – Χειρουργος Γυναικολογος Διευθυντής Γυναικολογικού Κέντρου Αναπαραγωγής GONIMOTIS Επιστημονικός Υπεύθυνος Μονάδας Υποβοηθούμενης Αναπαραγωγής ΜΗΤΕΡΑ IVF Μέλος του Επιστημονικού Συμβουλίου του Νοσοκομείου ΜΗΤΕΡΑ Δρ. Αλεξάνδρα Γεωργακοπούλου Μαιευτηρας – Χειρουργός Γυναικολογος Διευθύντρια Τμήματος Υπερήχων Γυναικολογικού Κέντρου GONIMOTIS Επιστημονική Συνεργάτης Τμήματος Ιατρικής Εμβρύου Νοσοκομείου ΜΗΤΕΡΑ ΕΠΙΚΟΙΝΩΝΙΑ Διεύθυνση: Μονής Πετράκη 5, Κολωνάκι, Αθήνα Tηλέφωνο: +30 210 7222442-443 Fax: +30 210 7222615 Email: info@gonimotis.gr ΕΓΓΡΑΦΗ ΣΤΟ NEWSLETTER ΠληροφορίεςΓνωρίστε την Ομάδα Αρθρογραφία Η παρουσία μας στα media Συχνές Ερωτήσεις Επικοινωνία Όροι χρήσης ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ Copyright © 2019 GONIMOTIS | All Rights Reserved Web Design & Development by Generation"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.gonimotis.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%AF%CE%B1"
+    }
+  ],
+  "services": [
+    "Εναλλακτικές θεραπείες",
+    "Θεραπείες Υπογονιμότητας",
+    "Προετοιμασία για τη θεραπεία",
+    "Χειρουργικές επεμβάσεις γονιμότητας στη γυναίκα",
+    "Χειρουργικές επεμβάσεις γονιμότητας στον άνδρα",
+    "Προετοιμασία για έναρξη θεραπείας",
+    "Πρόωρη ωοθηκική ανεπάρκεια «Θεραπεία με DHEA»",
+    "Αναπαραγωγική Χειρουργική"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [
+    "Γεώργιος Ιωαννίδης ΜΑΙΕΥΤΗΡΑΣ – ΧΕΙΡΟΥΡΓΟΣ ΓΥΝΑΙΚΟΛΟΓΟΣ Διευθυντής Γυναικολογικού Κέντρου Αναπαραγωγής GONIMOTIS Aν.",
+    "Γεώργιος Ιωαννίδης είναι Μαιευτήρας – Χειρουργός Γυναικολόγος με ειδίκευση τη διερεύνηση της υπογονιμότητας, την Υποβοηθούμενη Αναπαραγωγή και Εξωσωματική Γονιμοποίηση καθώς και την Αναπαραγωγική Λαπαροσκοπική – Υστεροσκ",
+    "Από το 1994 μέχρι το 1996 ξεκίνησε την ειδικότητά του στη Γενική Χειρουργική στην Αθήνα.",
+    "Από το 1996 μέχρι το 1998 υπηρέτησε ως ιατρός στο ελληνικό στρατό και εργάστηκε κυρίως στην Γενική Χειρουργική.",
+    "Το 1998 μετακόμισε στο Ηνωμένο Βασίλειο όπου ξεκίνησε την ειδικότητά του στην Μαιευτική και Γυναικολογία και εξειδίκευση στην Υποβοηθούμενη Αναπαραγωγή και στην Ελάχιστα Επεμβατική Γυναικολογία.",
+    "Το 2002 απέκτησε τον Ευρωπαϊκό τίτλο ειδικότητας στην Μαιευτική και Γυναικολογία αφού περάσει τις απαιτούμενες εξετάσεις.",
+    "Από το 2004 έως το 2005 εξειδικεύθηκε περαιτέρω στη Λαπαροσκοπική και Υστεροσκοπική Χειρουργική στο Πανεπιστημιακό Νοσοκομείο Ulleval στο Όσλο της Νορβηγίας.",
+    "Το 2005, με την επιστροφή του από το Ηνωμένο Βασίλειο και τη Νορβηγία, εντάχθηκε στο Νοσοκομείο ΜΗΤΕΡΑ στην Αθήνα, ως Μαιευτήρας Γυναικολόγος με εξειδίκευση στην Εξωσωματική Γονιμοποίηση και τη Λαπαροσκοπική – Υστεροσκοπ"
+  ],
+  "people": [
+    "Γυναικολόγος Δρ. Γεώργιος Ιωαννίδης",
+    "ΙΩΑΝΝΙΔΗ ΒΙΟΓΡΑΦΙΚΟ ΔΡ.",
+    "Υπολογισμός Ημερομηνίας Τοκετού"
+  ],
+  "unresolvedItems": [
+    "Phone number(s): No reliable phone number was extracted.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "FAQs: No FAQ content was extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Reproductive health clinic",
+    "4.9 rating",
+    "29 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Εναλλακτικές θεραπείες",
+    "Θεραπείες Υπογονιμότητας",
+    "Προετοιμασία για τη θεραπεία"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=GONIMOTIS%20%CE%9C%CE%B1%CE%B9%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CF%8C%20%CE%93%CF%85%CE%BD%CE%B1%CE%B9%CE%BA%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CF%8C%20%CE%9A%CE%AD%CE%BD%CF%84%CF%81%CE%BF&query_place_id=ChIJJZJK6Fi9oRQR38mdT2qYia8",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.810Z",
+      "excerpt": "GONIMOTIS Μαιευτικό Γυναικολογικό Κέντρο"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.gonimotis.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.810Z",
+      "excerpt": "Γυναικολογικό Κέντρο Αναπαραγωγής | Gonimotis"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.gonimotis.gr/%ce%b2%ce%b9%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%ba%cf%8c-%ce%b4%cf%81-%ce%b9%cf%89%ce%b1%ce%bd%ce%bd%ce%af%ce%b4%ce%b7",
+      "label": "About page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.810Z",
+      "excerpt": "Γυναικολόγος Δρ. Γεώργιος Ιωαννίδης | Gonimotis"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.gonimotis.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%AF%CE%B1",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.810Z",
+      "excerpt": "Επικοινωνία | Gonimotis"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.gonimotis.gr/%ce%bf%ce%b9-%cf%85%cf%80%ce%b7%cf%81%ce%b5%cf%83%ce%af%ce%b5%cf%82",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.810Z",
+      "excerpt": "Οι υπηρεσίες μας | Gonimotis"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "slug": "synovus-orthopaedic-clinic",
+  "businessName": "Home",
+  "category": "Orthopedic clinic",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "Home Orthopedic clinic with services such as Same Day Clinic",
+  "heroHeading": "Home matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.synovus.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Synovus%20Orthopaedic%20Clinic&query_place_id=ChIJqYjofEWjoRQRCe_cB8e68Os",
+  "address": "\"Δημιουργήσαμε μία καινούρια λέξη για να περιγράψουμε μία νέα οπτική στην ορθοπαιδική υποστήριξη και θεραπεία, που πηγάζει από τη συνάντηση και συνεργασία τεσσάρων επιστημόνων. Ο ορθοπαιδικός όρος “synovial” συναντάται με το λατινικό επίθετο “novus” και γεννούν το Synovus.\" ΕπικοινωνίαΛουίζης Ριανκούρ 65-67, Αθήνα 115 23+30 210 6929 896+30 697 3314 384info@synovus.grΤμήματα Ποδοκνημικής / Άκρου Ποδός Άνω Άκρου Ώμου Επανορθωτικής Χειρουργικής Ισχίου Γόνατος Αθλητικών Κακώσεων Πολιτική ΑπορρήτουΠολιτική Χρήσης COOKIESΑποποίηση ΕυθύνηςIMPRESSUM Synovus © 2026. All Rights Reserved. Powered & Supported by TSWD",
+  "rating": 5,
+  "reviewsCount": 108,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "21 0692 9896",
+      "href": "tel:2106929896"
+    },
+    {
+      "label": "Email",
+      "value": "info@synovus.gr",
+      "href": "mailto:info@synovus.gr"
+    },
+    {
+      "label": "Address",
+      "value": "\"Δημιουργήσαμε μία καινούρια λέξη για να περιγράψουμε μία νέα οπτική στην ορθοπαιδική υποστήριξη και θεραπεία, που πηγάζει από τη συνάντηση και συνεργασία τεσσάρων επιστημόνων. Ο ορθοπαιδικός όρος “synovial” συναντάται με το λατινικό επίθετο “novus” και γεννούν το Synovus.\" ΕπικοινωνίαΛουίζης Ριανκούρ 65-67, Αθήνα 115 23+30 210 6929 896+30 697 3314 384info@synovus.grΤμήματα Ποδοκνημικής / Άκρου Ποδός Άνω Άκρου Ώμου Επανορθωτικής Χειρουργικής Ισχίου Γόνατος Αθλητικών Κακώσεων Πολιτική ΑπορρήτουΠολιτική Χρήσης COOKIESΑποποίηση ΕυθύνηςIMPRESSUM Synovus © 2026. All Rights Reserved. Powered & Supported by TSWD"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.synovus.gr/contact-us"
+    }
+  ],
+  "services": [
+    "Same Day Clinic"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Neighborhood / Athens area: No neighborhood or clear Athens area signal could be detected confidently.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Orthopedic clinic",
+    "5.0 rating",
+    "108 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Same Day Clinic"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Synovus%20Orthopaedic%20Clinic&query_place_id=ChIJqYjofEWjoRQRCe_cB8e68Os",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:32.057Z",
+      "excerpt": "Synovus Orthopaedic Clinic"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.synovus.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:32.057Z",
+      "excerpt": "Synovus Ορθοπαιδική Κλινική Αθήνα | Γόνατο, Ώμος, Αθλητικές Κακώσεις"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.synovus.gr/contact-us",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.057Z",
+      "excerpt": "Επικοινωνία | SYNOVUS ORTHOPAEDIC CLINIC"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.synovus.gr/our-services",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:32.057Z",
+      "excerpt": "Οι υπηρεσίες μας | SYNOVUS ORTHOPAEDIC CLINIC"
+    }
+  ]
+}

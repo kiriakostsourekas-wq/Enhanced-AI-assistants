@@ -28,63 +28,6 @@ function injectBaseHref(html: string, baseHref: string) {
   return html.replace("<head>", `<head><base href="${baseHref}">`);
 }
 
-function injectNorthlineBadge(html: string) {
-  if (html.includes("northline-template-badge")) {
-    return html;
-  }
-
-  const badgeMarkup = `
-<style id="northline-template-badge-style">
-  #northline-template-badge {
-    position: fixed;
-    top: 18px;
-    left: 18px;
-    z-index: 2147483647;
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
-    min-height: 52px;
-    padding: 10px 14px 10px 10px;
-    border-radius: 999px;
-    border: 1px solid rgba(15, 23, 42, 0.12);
-    background: rgba(255, 255, 255, 0.94);
-    box-shadow: 0 20px 50px rgba(15, 23, 42, 0.12);
-    text-decoration: none;
-    color: #16202b;
-    font: 13px/1.25 Inter, Arial, sans-serif;
-  }
-
-  #northline-template-badge img {
-    width: 32px;
-    height: 32px;
-    border-radius: 10px;
-    display: block;
-  }
-
-  #northline-template-badge strong {
-    display: block;
-    font-size: 13px;
-  }
-
-  #northline-template-badge span {
-    display: block;
-    color: #4a5b6e;
-    font-size: 11px;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-  }
-}</style>
-<a id="northline-template-badge" href="/" target="_top" rel="noreferrer">
-  <img alt="" src="/favicon.svg" />
-  <div>
-    <strong>Northline</strong>
-    <span>Website demo</span>
-  </div>
-</a>`;
-
-  return html.replace("<body>", `<body>${badgeMarkup}`);
-}
-
 function injectLeadOverlay(html: string, profile: Awaited<ReturnType<typeof buildClinicDemoProfile>>) {
   if (!profile) {
     return html;
@@ -202,17 +145,20 @@ export async function GET(request: Request, { params }: MirrorRouteProps) {
   try {
     let html = await readFile(htmlPath, "utf8");
     html = injectBaseHref(html, `/industries/${template.slug}/mirror/`);
-    html = injectNorthlineBadge(html);
 
     const { searchParams } = new URL(request.url);
     const leadSlug = searchParams.get("lead");
 
     if (leadSlug) {
-      const profile = await buildClinicDemoProfile(leadSlug);
+      try {
+        const profile = await buildClinicDemoProfile(leadSlug);
 
-      if (profile && profile.template.slug === template.slug) {
-        html = injectLeadOverlay(html, profile);
-        html = html.replace("<title>", `<title>${escapeHtml(profile.businessName)} | `);
+        if (profile && profile.template.slug === template.slug) {
+          html = injectLeadOverlay(html, profile);
+          html = html.replace("<title>", `<title>${escapeHtml(profile.businessName)} | `);
+        }
+      } catch (error) {
+        console.error(`Failed to build clinic demo profile for "${leadSlug}".`, error);
       }
     }
 

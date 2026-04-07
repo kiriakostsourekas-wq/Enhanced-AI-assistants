@@ -1,0 +1,153 @@
+{
+  "slug": "ouster-orthopedics",
+  "businessName": "ouster.gr",
+  "category": "Orthotics & prosthetics service",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "ouster.gr Orthotics & prosthetics service",
+  "heroHeading": "ouster.gr matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.ouster.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=OUSTER%20ORTHOPEDICS&query_place_id=ChIJb43kYI-9oRQRBJVC2lVcbro",
+  "address": "#menu-widget-2{text-align:center;}#menu-widget-2 > .fusion-widget-menu li{display: inline-block;}#menu-widget-2 ul li a{display: inline-block;padding:0;border:0;color:#ccc;font-size:13px;}#menu-widget-2 ul li a:after{content:'•';color:#ccc;padding-right:18px;padding-left:18px;font-size:13px;}#menu-widget-2 ul li a:hover, #menu-widget-2 ul .menu-item.current-menu-item a {color:#fff;}#menu-widget-2 ul li:last-child a:after{display: none}#menu-widget-2 ul li .fusion-widget-cart-number{margin:0 7px;background-color:#fff;color:#ccc;}#menu-widget-2 ul li.fusion-active-cart-icon .fusion-widget-cart-icon:after{color:#fff;}ΑΡΧΙΚΗΠΡΟΦΙΛΥΠΗΡΕΣΙΕΣΣΥΝΕΡΓΑΣΙΕΣΤΑ ΝΕΑ ΜΑΣΧΡΗΣΙΜΕΣ ΣΥΜΒΟΥΛΕΣ ΥΓΕΙΑΣΕΠΙΚΟΙΝΩΝΙΑΑναπηρικά αμαξίδιαΝοσοκομειακές κλίνεςΠροϊόντα ποδοκνημικήςΚηδεμόνες κορμού-νάρθηκεςΠέλματα ειδικής κατασκευήςΟρθοπεδικά υποδήματα κατά παραγγελίαΑνατομικά Υποδήματα",
+  "rating": 4.8,
+  "reviewsCount": 16,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "+302103803716",
+      "href": "tel:+302103803716"
+    },
+    {
+      "label": "Email",
+      "value": "ouster@otenet.gr",
+      "href": "mailto:ouster@otenet.gr"
+    },
+    {
+      "label": "Address",
+      "value": "#menu-widget-2{text-align:center;}#menu-widget-2 > .fusion-widget-menu li{display: inline-block;}#menu-widget-2 ul li a{display: inline-block;padding:0;border:0;color:#ccc;font-size:13px;}#menu-widget-2 ul li a:after{content:'•';color:#ccc;padding-right:18px;padding-left:18px;font-size:13px;}#menu-widget-2 ul li a:hover, #menu-widget-2 ul .menu-item.current-menu-item a {color:#fff;}#menu-widget-2 ul li:last-child a:after{display: none}#menu-widget-2 ul li .fusion-widget-cart-number{margin:0 7px;background-color:#fff;color:#ccc;}#menu-widget-2 ul li.fusion-active-cart-icon .fusion-widget-cart-icon:after{color:#fff;}ΑΡΧΙΚΗΠΡΟΦΙΛΥΠΗΡΕΣΙΕΣΣΥΝΕΡΓΑΣΙΕΣΤΑ ΝΕΑ ΜΑΣΧΡΗΣΙΜΕΣ ΣΥΜΒΟΥΛΕΣ ΥΓΕΙΑΣΕΠΙΚΟΙΝΩΝΙΑΑναπηρικά αμαξίδιαΝοσοκομειακές κλίνεςΠροϊόντα ποδοκνημικήςΚηδεμόνες κορμού-νάρθηκεςΠέλματα ειδικής κατασκευήςΟρθοπεδικά υποδήματα κατά παραγγελίαΑνατομικά Υποδήματα"
+    },
+    {
+      "label": "Contact page",
+      "value": "Open contact page",
+      "href": "https://www.ouster.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%b9%ce%b1"
+    }
+  ],
+  "services": [],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Core services / treatments: No reliable service list was extracted from the current snapshot.",
+    "Neighborhood / Athens area: No neighborhood or clear Athens area signal could be detected confidently.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "Orthotics & prosthetics service",
+    "4.8 rating",
+    "16 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=OUSTER%20ORTHOPEDICS&query_place_id=ChIJb43kYI-9oRQRBJVC2lVcbro",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:34:33.173Z",
+      "excerpt": "OUSTER ORTHOPEDICS"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.ouster.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:34:33.173Z",
+      "excerpt": "ouster.gr"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.ouster.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%b9%ce%b1",
+      "label": "Contact page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.173Z",
+      "excerpt": "ΕΠΙΚΟΙΝΩΝΙΑ - ouster.gr"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.ouster.gr/%cf%85%cf%80%ce%b7%cf%81%ce%b5%cf%83%ce%b9%ce%b5%cf%83",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:34:33.173Z",
+      "excerpt": "ΥΠΗΡΕΣΙΕΣ - ouster.gr"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "slug": "evangelismos-general-hospital-of-athens",
+  "businessName": "ΑΡΧΙΚΗ",
+  "category": "General hospital",
+  "template": {
+    "slug": "chiropracter",
+    "title": "Chiropracter",
+    "description": "Health-and-wellness template with symptom relief messaging and appointment-driven calls to action.",
+    "audienceLabel": "General clinics that need a treatment-led health template",
+    "bestFor": "Orthopedic, ophthalmology, cardiology, and broader clinic leads",
+    "recommendedFor": [
+      "Health-service framing",
+      "Trust-led sections",
+      "Appointment-first CTA"
+    ],
+    "featured": false,
+    "accentColor": "#8112C9",
+    "sourceUrl": "https://chiropracter.virtualpros.com/",
+    "pageHref": "/industries/chiropracter/mirror",
+    "mirrorHref": "/industries/chiropracter/mirror",
+    "heroHeading": "We focus on the root cause — not just the symptoms.",
+    "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+    "heroPrimaryCta": "Contact Us",
+    "sectionHighlights": [
+      "Our Services",
+      "How We Can Help",
+      "Let us help you bounce back!",
+      "It's Time To Achieve Balance And Whole Body Health",
+      "Join Our Community",
+      "Spinal Adjustment"
+    ],
+    "ctaHighlights": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "navLabels": [
+      "Home",
+      "About Us",
+      "Testimonials",
+      "Contact Us",
+      "Book Now",
+      "Virtual Pros."
+    ],
+    "fonts": [
+      "Lato",
+      "Open Sans",
+      "Montserrat",
+      "Muli",
+      "Raleway",
+      "var(--headlinefont)"
+    ],
+    "paletteTheme": {
+      "primary": "#8112C9",
+      "secondary": "#C781F5",
+      "background": "#FFFFFF",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "border": "#C781F5"
+    },
+    "templateSummary": "Feel better, move freely, and live pain-free again.Our chiropractic treatments are designed to restore alignment, reduce discomfort, and help your body heal naturally without medication or surgery."
+  },
+  "summary": "ΑΡΧΙΚΗ General hospital in Athens with services such as Λίστα Χειρουργείου, Κατηγορίες Χειρουργικών Επεμβάσεων",
+  "heroHeading": "ΑΡΧΙΚΗ matched to the Chiropracter core demo",
+  "heroSubheading": "After just a few visits, my back pain was finally manageable and my posture noticeably improved. The care felt personalized, gentle, and genuinely focused on long-term healing not temporary relief.",
+  "websiteUrl": "https://www.evaggelismos-hosp.gr/",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Evangelismos%20General%20Hospital%20of%20Athens&query_place_id=ChIJx6GvTES9oRQRLKdv2ipyp-I",
+  "address": "Ipsilantou 45-47, Athina 106 76, Greece",
+  "rating": 3.3,
+  "reviewsCount": 1238,
+  "snapshotStatus": "success",
+  "contactItems": [
+    {
+      "label": "Phone",
+      "value": "213 204 1877",
+      "href": "tel:2132041877"
+    },
+    {
+      "label": "Email",
+      "value": "info@evaggelismos-hosp.gr",
+      "href": "mailto:info@evaggelismos-hosp.gr"
+    },
+    {
+      "label": "Address",
+      "value": "Ipsilantou 45-47, Athina 106 76, Greece"
+    }
+  ],
+  "services": [
+    "Λίστα Χειρουργείου",
+    "Κατηγορίες Χειρουργικών Επεμβάσεων"
+  ],
+  "bookingSignals": [],
+  "trustMarkers": [],
+  "people": [],
+  "unresolvedItems": [
+    "Contact page URL: No explicit contact page was identified.",
+    "Appointment / booking URL: No dedicated booking or appointment page was verified.",
+    "Opening hours: Opening hours were not extracted reliably.",
+    "Doctor names: Doctor names were not extracted with enough confidence.",
+    "Team names: Team names were not extracted with enough confidence.",
+    "Years of experience: No explicit years-of-experience statement was found.",
+    "Qualifications / specialties: No explicit qualifications or specialties were extracted reliably.",
+    "Testimonials quoted on site: No testimonial block was verified."
+  ],
+  "liveDemoEligibility": {
+    "eligible": true,
+    "rationale": "Contact and location extraction are strong enough for a live business demo mode.",
+    "blockers": []
+  },
+  "overlayChips": [
+    "General hospital",
+    "3.3 rating",
+    "1238 reviews",
+    "snapshot ready",
+    "Chiropracter"
+  ],
+  "overlayServices": [
+    "Λίστα Χειρουργείου",
+    "Κατηγορίες Χειρουργικών Επεμβάσεων"
+  ],
+  "sourceFacts": [
+    {
+      "sourceType": "campaign_seed",
+      "uri": "https://www.google.com/maps/search/?api=1&query=Evangelismos%20General%20Hospital%20of%20Athens&query_place_id=ChIJx6GvTES9oRQRLKdv2ipyp-I",
+      "label": "Structured extraction seed",
+      "retrievedAt": "2026-04-06T18:33:52.867Z",
+      "excerpt": "Evangelismos General Hospital of Athens"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.evaggelismos-hosp.gr/",
+      "label": "Homepage extraction",
+      "retrievedAt": "2026-04-06T18:33:52.867Z",
+      "excerpt": "ΑΡΧΙΚΗ"
+    },
+    {
+      "sourceType": "website_crawl",
+      "uri": "https://www.evaggelismos-hosp.gr/index.php/organosi/organogramma/texnikh-uphresia",
+      "label": "Services page extraction",
+      "retrievedAt": "2026-04-06T18:33:52.867Z",
+      "excerpt": "Τεχνική Υπηρεσία"
+    }
+  ]
+}
