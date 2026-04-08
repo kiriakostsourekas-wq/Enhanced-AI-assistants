@@ -13,7 +13,7 @@ type MirrorRouteProps = {
 export const runtime = "nodejs";
 
 const NORTHLINE_ICON_PATH = "/favicon.svg";
-const NORTHLINE_FAVICON_PATH = "/icon";
+const NORTHLINE_FAVICON_PATH = "/favicon.svg?v=2";
 const NORTHLINE_DEMO_HOST = "northlineai.demo";
 
 function escapeHtml(value: string) {
@@ -47,11 +47,14 @@ function injectNorthlineFavicon(html: string) {
   if (/<link[^>]+rel=["'][^"']*icon[^"']*["'][^>]*>/i.test(html)) {
     return html.replace(
       /<link[^>]+rel=["'][^"']*icon[^"']*["'][^>]*>/i,
-      `<link rel="icon" type="image/png" href="${NORTHLINE_FAVICON_PATH}">`,
+      `<link rel="icon" type="image/svg+xml" href="${NORTHLINE_FAVICON_PATH}" sizes="any">`,
     );
   }
 
-  return html.replace("<head>", `<head><link rel="icon" type="image/png" href="${NORTHLINE_FAVICON_PATH}">`);
+  return html.replace(
+    "<head>",
+    `<head><link rel="icon" type="image/svg+xml" href="${NORTHLINE_FAVICON_PATH}" sizes="any">`,
+  );
 }
 
 function scrubRawVendorBranding(html: string, profile?: Awaited<ReturnType<typeof buildClinicDemoProfile>>) {
@@ -282,7 +285,8 @@ function injectNorthlineBranding(html: string, profile?: Awaited<ReturnType<type
       document.querySelectorAll('link[rel~="icon"]').forEach((link) => {
         if (link.getAttribute("href") !== ${JSON.stringify(NORTHLINE_FAVICON_PATH)}) {
           link.setAttribute("href", ${JSON.stringify(NORTHLINE_FAVICON_PATH)});
-          link.setAttribute("type", "image/png");
+          link.setAttribute("type", "image/svg+xml");
+          link.setAttribute("sizes", "any");
         }
       });
     }
